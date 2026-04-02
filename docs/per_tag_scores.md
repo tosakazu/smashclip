@@ -25,4 +25,4 @@ Mean clip-worthiness score (1-5 scale) for clips containing each scene tag. Sort
 | Funny moment | Meta | 39 | 3.333 |
 | Zero-to-death | Technique | 21 | 3.320 |
 
-Tags with the highest mean scores (Notable commentary: 4.41, Player cam: 4.02, One-turn kill: 3.79) correspond to clips that are either spectacular plays or accompanied by strong broadcast presentation. Misplay clips have the lowest mean score (1.66), which is expected since erroneous KOs are rarely rated as aesthetically appealing.
+Tags with the highest mean scores (Notable commentary: 4.41, Player cam: 4.02, One-turn kill: 3.79) correspond to clips that are either spectacular plays or accompanied by strong broadcast presentation. Misplay clips have the lowest mean score (1.66), which is expected since erroneous KOs are rarely considered clip-worthy.
