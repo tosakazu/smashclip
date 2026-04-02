@@ -13,7 +13,7 @@ A multimodal dataset for clip-worthiness assessment in competitive Super Smash B
 | Annotators | 3 |
 | Score range | 1-5 (mean of 3 ratings) |
 | Characters | 86 |
-| Scene tags | 20 (3 layers) |
+| Scene tags | 20 |
 | Languages | English annotations, bilingual transcripts |
 
 ## Directory Structure
@@ -107,7 +107,7 @@ Predict game metadata (killer character, victim character, stage, finishing move
 
 ### Task C: Scene Tag Prediction
 
-Multi-label classification over 20 scene tags organized in three layers (Technique, Context, Meta). Primary metric: mAP. Loss: BCEWithLogits.
+Multi-label classification over 20 scene tags describing tactical context and presentation elements. Primary metric: mAP. Loss: BCEWithLogits.
 
 ### Task D: Rationale Generation
 

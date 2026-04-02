@@ -144,8 +144,8 @@ class SmashClipDataset(Dataset):
         move_id = vocab["moves"].get(ann["move"], 0) if vocab else 0
         stage_id = vocab["stages"].get(ann["stage"], 0) if vocab else 0
 
-        # Build scene_tags_vec (25-dim binary)
-        scene_tags_vec = [0] * 25
+        # Build scene_tags_vec (20-dim binary)
+        scene_tags_vec = [0] * 20
         if vocab and "scene_tags" in ann:
             for tag in ann["scene_tags"]:
                 idx = vocab["scene_tags"].get(tag)

@@ -87,7 +87,7 @@ def compute_metadata_metrics(
     }
 
 
-# ── Task C: Scene Tag Prediction (25-class multi-label) ──
+# ── Task C: Scene Tag Prediction (20-class multi-label) ──
 
 
 def compute_task_c_metrics(

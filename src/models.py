@@ -141,8 +141,8 @@ class ProsodyModel(nn.Module):
 class MetadataModel(nn.Module):
     """Categorical embeddings for killer/victim/move/stage.
 
-    Task A: includes scene_tags (25d) as additional input.
-    Task B: excludes scene_tags to prevent label leakage.
+    Task A: includes scene_tags (20d) as additional input.
+    Task C: excludes scene_tags to prevent label leakage.
     """
 
     def __init__(self, task: str, output_dim: int) -> None:
@@ -155,7 +155,7 @@ class MetadataModel(nn.Module):
 
         emb_dim = 128  # 32 * 4
         if self.task == "A":
-            emb_dim += 25  # scene_tags
+            emb_dim += 20  # scene_tags
         self.head = MLPHead(emb_dim, output_dim)
 
     def forward(self, batch: dict) -> torch.Tensor:

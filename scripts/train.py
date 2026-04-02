@@ -507,7 +507,7 @@ def train_task_c_single_seed(
     device: torch.device, epochs: int = EPOCHS,
 ) -> dict:
     set_seed(seed)
-    output_dim = 25
+    output_dim = 20
 
     if _is_fusion(model_name):
         hp = FUSION_HP[model_name]

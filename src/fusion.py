@@ -309,7 +309,7 @@ def build_fusion_model(
     name : F1, F2, or F3
     modalities : list of modality keys (used by F1 and F2)
     task : "A" or "B"
-    output_dim : 1 for regression, 5 for classification, 25 for scene tags
+    output_dim : 1 for regression, 5 for classification, 20 for scene tags
     visual_dim : visual feature dimension (default: 768)
     """
     if name == "F1":

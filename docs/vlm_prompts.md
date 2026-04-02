@@ -47,7 +47,7 @@ Finishing move (choose one): [{move_list}]
 Q3 (Scene Tags): Select ALL applicable tags. Only select a tag if the clip clearly matches its definition. Most clips match 1-4 tags.
 - Combo KO: A KO achieved through a multi-hit combo sequence (3+ connected hits leading to the finishing blow).
 - Zero-to-death: A combo or sequence that takes the opponent from 0% damage all the way to a KO without dropping the advantage.
-[... all 25 tags with definitions ...]
+[... all 20 tags with definitions ...]
 
 Respond with ONLY a JSON object: {"score": N, "killer": "...", "victim": "...", "stage": "...", "move": "...", "tags": ["...", ...]}
 ```
