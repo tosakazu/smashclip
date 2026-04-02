@@ -138,10 +138,9 @@ Shared Transformer with modality tag embeddings and CLS token. Tested combinatio
 ## Citation
 
 ```bibtex
-@inproceedings{saito2026smashclip,
-  title     = {SmashClip: A Multimodal Dataset for Clip-Worthiness Assessment of Competitive Game Videos},
-  author    = {Saito, Kazuhiro},
-  booktitle = {Proceedings of the ACM International Conference on Multimedia (MM)},
-  year      = {2026},
+@article{saito2026smashclip,
+  title   = {SmashClip: A Multimodal Dataset for Clip-Worthiness Assessment of Competitive Game Videos},
+  author  = {Saito, Kazuhiro},
+  year    = {2026},
 }
 ```
