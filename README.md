@@ -1,6 +1,6 @@
 # SmashClip
 
-A multimodal dataset for clip-worthiness assessment in competitive Super Smash Bros. Ultimate. SmashClip contains 2,503 KO clips annotated with aesthetic quality scores (1-5), scene tags (20 categories), metadata (characters, stage, finishing move), and English commentary transcripts. The dataset supports four benchmark tasks spanning regression, classification, multi-label prediction, and rationale generation.
+A multimodal dataset for clip-worthiness assessment in competitive Super Smash Bros. Ultimate. SmashClip contains 2,503 KO clips annotated with clip-worthiness scores (1-5), scene tags (20 categories), metadata (characters, stage, finishing move), and English commentary transcripts. The dataset supports four benchmark tasks: clip-worthiness prediction, metadata prediction, scene tag prediction, and rationale generation.
 
 **Paper:** [arXiv:XXXX.XXXXX](https://arxiv.org/abs/XXXX.XXXXX)
 
@@ -58,11 +58,11 @@ pip install -e ".[features]"
 ### Train Baselines
 
 ```bash
-# Task A: aesthetic score regression (all models, 5 seeds)
-python scripts/train.py --task A
+# Task A: clip-worthiness prediction (all models, 5 seeds)
+python scripts/train.py --task Acls
 
 # Task A: single model, quick test
-python scripts/train.py --task A --models V1 --test-run
+python scripts/train.py --task Acls --models V1 --test-run
 
 # Task B: metadata prediction from visual features
 python scripts/train.py --task B
@@ -94,12 +94,12 @@ Each line in `smashclip_en.jsonl` is a JSON object:
 
 ## Benchmark Tasks
 
-### Task A: Aesthetic Score Prediction
+### Task A: Clip-Worthiness Prediction
 
-Predict the mean aesthetic quality score (continuous, 1-5). Primary metric: SRCC.
+Predict the integer-rounded mean of three annotator ratings (1-5). The model uses cross-entropy loss on integer labels. We evaluate with Accuracy, Balanced Accuracy, SRCC, and PLCC.
 
-- **Regression:** MSE loss, output dim = 1
-- **Classification:** Cross-entropy loss, output dim = 5
+- **Classification:** Cross-entropy on integer-rounded labels (1-5 mapped to classes 0-4).
+- **Regression (alternative):** MSE loss, output dim = 1. Available via `--task A`.
 
 ### Task B: Metadata Prediction
 
@@ -111,7 +111,7 @@ Multi-label classification over 20 scene tags describing tactical context and pr
 
 ### Task D: Rationale Generation
 
-Generate natural language explanations for why a clip received its aesthetic score. Evaluated with BERTScore, ROUGE-L, and Claude-as-judge (relevance, specificity, accuracy on 1-5 scales).
+Generate natural language explanations for why a clip received its clip-worthiness score. Evaluated with BERTScore, ROUGE-L, and Claude-as-judge (relevance, specificity, accuracy on 1-5 scales).
 
 ## Models
 

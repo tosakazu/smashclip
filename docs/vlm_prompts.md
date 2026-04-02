@@ -2,7 +2,7 @@
 
 Prompts used in the zero-shot VLM experiments. Two models were evaluated: Gemini 3 Flash and Qwen3-Omni.
 
-## Task A: Aesthetic Score Prediction
+## Task A: Clip-Worthiness Prediction
 
 ### Z1 / Z2 (Zero-shot, video only / video+audio)
 

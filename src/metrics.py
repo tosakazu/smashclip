@@ -12,7 +12,7 @@ from sklearn.metrics import (
 )
 
 
-# ── Task A: Aesthetic Score Classification (5-class) ──
+# ── Task A: Clip-Worthiness Prediction (5-class) ──
 
 
 def compute_task_a_metrics(
@@ -97,9 +97,9 @@ def compute_task_c_metrics(
 
     Parameters
     ----------
-    logits : ndarray of shape (N, 25)
+    logits : ndarray of shape (N, 20)
         Raw logits (pre-sigmoid).
-    labels : ndarray of shape (N, 25)
+    labels : ndarray of shape (N, 20)
         Binary ground-truth labels.
 
     Returns
@@ -129,10 +129,10 @@ def compute_task_c_metrics_by_layer(
 
     Parameters
     ----------
-    logits : ndarray of shape (N, 25)
-    labels : ndarray of shape (N, 25)
+    logits : ndarray of shape (N, 20)
+    labels : ndarray of shape (N, 20)
     tag_layers : dict mapping layer name to list of column indices,
-        e.g. {"technique": [0,1,2,3,4], "context": [5,...,17], "meta": [18,...,24]}
+        e.g. {"technique": [0,1,2,3], "context": [4,...,15], "meta": [16,...,19]}
     """
     probs = 1.0 / (1.0 + np.exp(-logits))
     result = {}
@@ -159,7 +159,7 @@ def compute_random_baseline(
             logits = rng.randn(len(labels), 5)
             metrics_list.append(compute_task_a_metrics(logits, labels))
         else:
-            logits = rng.randn(len(labels), 25)
+            logits = rng.randn(len(labels), 20)
             metrics_list.append(compute_task_c_metrics(logits, labels))
 
     keys = metrics_list[0].keys()
@@ -205,5 +205,5 @@ def compute_majority_baseline(
         majority_vec = (tag_freq >= 0.5).astype(float)
         n = len(test_labels)
         logits = np.where(majority_vec[None, :] > 0.5, 10.0, -10.0)
-        logits = np.broadcast_to(logits, (n, 25)).copy()
+        logits = np.broadcast_to(logits, (n, 20)).copy()
         return compute_task_c_metrics(logits, test_labels)

@@ -1,6 +1,6 @@
-# Prosody Feature Correlations with Aesthetic Score
+# Prosody Feature Correlations with Clip-Worthiness Score
 
-Pearson and Spearman correlations between each of the 12 prosody features and the mean aesthetic score, computed across all 2,503 clips.
+Pearson and Spearman correlations between each of the 12 prosody features and the mean clip-worthiness score, computed across all 2,503 clips.
 
 | Feature | Pearson r | p-value | Spearman rho | p-value |
 |---------|-----------|---------|--------------|---------|

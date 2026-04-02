@@ -1,6 +1,6 @@
-# Per-Tag Mean Aesthetic Scores
+# Per-Tag Mean Clip-Worthiness Scores
 
-Mean aesthetic score (1-5 scale) for clips containing each scene tag. Sorted by frequency.
+Mean clip-worthiness score (1-5 scale) for clips containing each scene tag. Sorted by frequency.
 
 | Tag | Layer | Count | Mean Score |
 |-----|-------|-------|------------|

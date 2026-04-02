@@ -2,8 +2,8 @@
 
 Usage
 -----
-python scripts/train.py --task A                        # Task A: regression
-python scripts/train.py --task Acls                     # Task A: 5-class classification
+python scripts/train.py --task Acls                     # Task A: clip-worthiness (classification, primary)
+python scripts/train.py --task A                        # Task A: regression (alternative)
 python scripts/train.py --task B                        # Task B: metadata prediction
 python scripts/train.py --task C                        # Task C: scene tag prediction
 python scripts/train.py --task A --models V1,A1         # Specific models only
@@ -798,7 +798,7 @@ def main() -> None:
     parser = argparse.ArgumentParser(description="SmashClip training script")
     parser.add_argument("--task", type=str, required=True,
                         choices=["A", "Acls", "Acls_focal", "Acls_wce", "B", "C"],
-                        help="Task: A (regression), Acls (5-class CE), Acls_focal, Acls_wce, B, C")
+                        help="Task: Acls (5-class CE, primary), A (regression), Acls_focal, Acls_wce, B, C")
     parser.add_argument("--models", type=str, default=None,
                         help="Comma-separated model names for Task A/C (e.g. V1,A1,V1+A1)")
     parser.add_argument("--targets", type=str, default=None,
