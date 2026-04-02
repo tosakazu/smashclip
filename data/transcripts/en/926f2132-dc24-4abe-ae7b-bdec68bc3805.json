@@ -1,0 +1,41 @@
+{
+  "id": "926f2132-dc24-4abe-ae7b-bdec68bc3805",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.94,
+      "text": "He respawns and they're matching at stock 2-2",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "リスが出てしまいましたが ストック2に並んでいきます"
+    },
+    {
+      "start": 2.94,
+      "end": 5.44,
+      "text": "Down 118% in percent",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "118%のビハインド"
+    },
+    {
+      "start": 5.44,
+      "end": 9.42,
+      "text": "The Minecart gets the KO right in center stage!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "トロッコで撃墜 ステージ中央でも悠々と"
+    },
+    {
+      "start": 9.42,
+      "end": 10.42,
+      "text": "It landed!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "届いた"
+    }
+  ],
+  "full_text": "He respawns and they're matching at stock 2-2 Down 118% in percent The Minecart gets the KO right in center stage! It landed!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

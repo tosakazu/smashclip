@@ -1,0 +1,70 @@
+{
+  "id": "fedad821-20ac-4bff-a2d2-5b6c18070a93",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.92,
+      "text": "But just barely out of range!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "しかしギリギリ距離が足らずで"
+    },
+    {
+      "start": 1.92,
+      "end": 3.74,
+      "text": "Pressuring with the banana!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "バナナで圧をかける"
+    },
+    {
+      "start": 3.74,
+      "end": 4.38,
+      "text": "This ledge",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "この崖"
+    },
+    {
+      "start": 4.38,
+      "end": 6.52,
+      "text": "How does he get up?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "どう上がる"
+    },
+    {
+      "start": 6.52,
+      "end": 9.54,
+      "text": "Landing on the platform",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "台上の着地に"
+    },
+    {
+      "start": 9.54,
+      "end": 10.16,
+      "text": "Up!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "上だ"
+    }
+  ],
+  "full_text": "But just barely out of range! Pressuring with the banana! This ledge - how does he get up? Landing on the platform - up!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "この賭け",
+      "corrected": "この崖",
+      "rule": "misheard: 賭け→崖"
+    },
+    {
+      "segment_idx": 4,
+      "original": "大上の着地に",
+      "corrected": "台上の着地に",
+      "rule": "kanji homophone: 大上→台上"
+    }
+  ]
+}

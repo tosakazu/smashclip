@@ -1,0 +1,45 @@
+{
+  "id": "90f3af42-00b8-4d98-937c-1bb1dd5b0b16",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.56,
+      "text": "強いんですよね火",
+      "language": "ja"
+    },
+    {
+      "start": 0.56,
+      "end": 4.82,
+      "text": "やばいやばいやばいやばい",
+      "language": "ja"
+    },
+    {
+      "start": 4.82,
+      "end": 5.92,
+      "text": "追っかけたんですけど",
+      "language": "ja"
+    },
+    {
+      "start": 5.92,
+      "end": 7.24,
+      "text": "あ、これは",
+      "language": "ja"
+    },
+    {
+      "start": 7.24,
+      "end": 8.68,
+      "text": "上B出したかった",
+      "language": "ja"
+    }
+  ],
+  "full_text": "強いんですよね火 やばいやばいやばいやばい 追っかけたんですけど あ、これは 上B出したかった",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 4,
+      "original": "イエビー",
+      "corrected": "上B",
+      "rule": "move abbreviation"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "3fd9c690-3776-4953-950f-6a2d7d0485f1",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.72,
+      "text": "飛んだ そしてラインが入れ替わる",
+      "language": "ja"
+    },
+    {
+      "start": 1.72,
+      "end": 4.5,
+      "text": "ブレイズエンドを使って 崖にはまず掴まれるが",
+      "language": "ja"
+    },
+    {
+      "start": 4.5,
+      "end": 5.54,
+      "text": "セビ これは?",
+      "language": "ja"
+    },
+    {
+      "start": 6.1,
+      "end": 7.4,
+      "text": "ウィスマシュアンド まだ当たらない",
+      "language": "ja"
+    },
+    {
+      "start": 7.4,
+      "end": 8.58,
+      "text": "しかし空中下",
+      "language": "ja"
+    }
+  ],
+  "full_text": "飛んだ そしてラインが入れ替わる ブレイズエンドを使って 崖にはまず掴まれるが セビ これは? ウィスマシュアンド まだ当たらない しかし空中下",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "プレイスエンド",
+      "corrected": "ブレイズエンド",
+      "rule": "Pyra move name: Blazing End = ブレイズエンド"
+    }
+  ]
+}

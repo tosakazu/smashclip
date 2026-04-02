@@ -1,0 +1,39 @@
+{
+  "id": "7f5ab1a9-7064-47d8-a19d-130cfbd082d2",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.54,
+      "text": "So far, both players really struggling to kill each other at the moment.",
+      "language": "en"
+    },
+    {
+      "start": 2.72,
+      "end": 8.6,
+      "text": "I mean, that's kind of a result of how both Eiku is a very defensively strong player.",
+      "language": "en"
+    },
+    {
+      "start": 8.74,
+      "end": 11.52,
+      "text": "Kind of similar to Muteace in that fashion, and then Toriguri...",
+      "language": "en"
+    }
+  ],
+  "full_text": "So far, both players really struggling to kill each other at the moment. I mean, that's kind of a result of how both Eiku is a very defensively strong player. Kind of similar to Muteace in that fashion, and then Toriguri...",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "Ake",
+      "corrected": "Eiku",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 2,
+      "original": "Mutase",
+      "corrected": "Muteace",
+      "rule": "player name"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "id": "f217389e-f57e-4078-a1e1-d0ccd14c4083",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.14,
+      "text": "That's the vibe I'm getting",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ような印象があります"
+    },
+    {
+      "start": 1.14,
+      "end": 3.56,
+      "text": "Now the ledge",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあ崖"
+    },
+    {
+      "start": 3.56,
+      "end": 5.42,
+      "text": "Poking out",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "頭出し"
+    },
+    {
+      "start": 5.42,
+      "end": 7.54,
+      "text": "Coming in aggressive, but Shuton takes the space and adapts",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "強気に来るがShuton選手は距離を取って対応する"
+    },
+    {
+      "start": 7.54,
+      "end": 9.66,
+      "text": "Banana setup, moving toward the inside",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "バナナ押しから内側見ている"
+    },
+    {
+      "start": 9.66,
+      "end": 11.76,
+      "text": "Holding that forward smash",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "横スマッシュホールド"
+    }
+  ],
+  "full_text": "That's the vibe I'm getting. Now the ledge. Poking out. Coming in aggressive, but Shuton takes the space and adapts. Banana setup, moving toward the inside. Holding that forward smash.",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 3,
+      "original": "ガストロン選手",
+      "corrected": "Shuton選手",
+      "rule": "player name: note - this match is Tweek vs Snow but commentator references"
+    },
+    {
+      "segment_idx": 5,
+      "original": "よこスマッシュビーホールド",
+      "corrected": "横スマッシュホールド",
+      "rule": "misheard"
+    }
+  ]
+}

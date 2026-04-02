@@ -1,0 +1,123 @@
+{
+  "id": "4701a2e6-0e75-4f56-9b51-d6c7786e20eb",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "ここです!ここです!",
+      "language": "ja"
+    },
+    {
+      "start": 2.0,
+      "end": 4.0,
+      "text": "復帰が弱くなります!",
+      "language": "ja"
+    },
+    {
+      "start": 4.0,
+      "end": 6.0,
+      "text": "いやー帰ってしまった!",
+      "language": "ja"
+    },
+    {
+      "start": 6.0,
+      "end": 8.0,
+      "text": "マジで?",
+      "language": "ja"
+    },
+    {
+      "start": 8.0,
+      "end": 10.0,
+      "text": "ここで下Bを選択!",
+      "language": "ja"
+    },
+    {
+      "start": 10.0,
+      "end": 12.0,
+      "text": "どうする?",
+      "language": "ja"
+    },
+    {
+      "start": 12.0,
+      "end": 14.0,
+      "text": "圧をかける!",
+      "language": "ja"
+    },
+    {
+      "start": 14.0,
+      "end": 16.0,
+      "text": "いやー打ち返し通したんですけど",
+      "language": "ja"
+    },
+    {
+      "start": 16.0,
+      "end": 18.0,
+      "text": "ダッシュアタックで見られていました!",
+      "language": "ja"
+    },
+    {
+      "start": 18.0,
+      "end": 20.0,
+      "text": "空下!まだ戻る!",
+      "language": "ja"
+    },
+    {
+      "start": 20.0,
+      "end": 22.0,
+      "text": "マジ無理!マジ無理!",
+      "language": "ja"
+    },
+    {
+      "start": 22.0,
+      "end": 24.0,
+      "text": "よく返したね!",
+      "language": "ja"
+    },
+    {
+      "start": 24.0,
+      "end": 26.0,
+      "text": "そして着地の展開!",
+      "language": "ja"
+    },
+    {
+      "start": 26.0,
+      "end": 28.0,
+      "text": "分からなくなったぞ!",
+      "language": "ja"
+    },
+    {
+      "start": 28.0,
+      "end": 30.0,
+      "text": "ここで見た!",
+      "language": "ja"
+    },
+    {
+      "start": 30.0,
+      "end": 32.0,
+      "text": "そうですね",
+      "language": "ja"
+    },
+    {
+      "start": 32.0,
+      "end": 34.0,
+      "text": "ここでホールの",
+      "language": "ja"
+    },
+    {
+      "start": 34.0,
+      "end": 36.0,
+      "text": "撃墜!",
+      "language": "ja"
+    }
+  ],
+  "full_text": "ここです!ここです! 復帰が弱くなります! いやー帰ってしまった! マジで? ここで下Bを選択! どうする? 圧をかける! いやー打ち返し通したんですけど ダッシュアタックで見られていました! 空下!まだ戻る! マジ無理!マジ無理! よく返したね! そして着地の展開! 分からなくなったぞ! ここで見た! そうですね ここでホールの 撃墜!",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 6,
+      "original": "圧倒をかける",
+      "corrected": "圧をかける",
+      "rule": "misheard phrase"
+    }
+  ]
+}

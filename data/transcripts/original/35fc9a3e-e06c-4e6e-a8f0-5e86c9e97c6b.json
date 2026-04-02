@@ -1,0 +1,32 @@
+{
+  "id": "35fc9a3e-e06c-4e6e-a8f0-5e86c9e97c6b",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.86,
+      "text": "攻撃上がりはしっかり掴んでいる",
+      "language": "ja"
+    },
+    {
+      "start": 4.86,
+      "end": 8.6,
+      "text": "空中ショットを狙ってくるんですが",
+      "language": "ja"
+    },
+    {
+      "start": 8.6,
+      "end": 10.58,
+      "text": "少し身を引いていたので助かりました",
+      "language": "ja"
+    },
+    {
+      "start": 10.58,
+      "end": 12.84,
+      "text": "ただこれは",
+      "language": "ja"
+    }
+  ],
+  "full_text": "攻撃上がりはしっかり掴んでいる 空中ショットを狙ってくるんですが 少し身を引いていたので助かりました ただこれは",
+  "detected_language": "ja",
+  "corrections": []
+}

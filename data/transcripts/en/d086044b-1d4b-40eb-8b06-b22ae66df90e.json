@@ -1,0 +1,80 @@
+{
+  "id": "d086044b-1d4b-40eb-8b06-b22ae66df90e",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.88,
+      "text": "That's incredibly fast!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "本当に早いですね"
+    },
+    {
+      "start": 0.88,
+      "end": 4.84,
+      "text": "Up throw to set up stage control!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そのまま指から上に投げて展開を作る"
+    },
+    {
+      "start": 4.84,
+      "end": 6.46,
+      "text": "Counter with the fair!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "反撃の空前"
+    },
+    {
+      "start": 6.46,
+      "end": 7.7,
+      "text": "Setting up the ledge trap!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "崖展開とする"
+    },
+    {
+      "start": 7.7,
+      "end": 10.78,
+      "text": "Going for the ledge drop and forward attacks!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これ崖離しと打ち前などを狙って"
+    },
+    {
+      "start": 10.78,
+      "end": 12.8,
+      "text": "The advantage keeps building!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "もう一段階膨らんでいた"
+    },
+    {
+      "start": 12.8,
+      "end": 14.04,
+      "text": "Ohhh!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "えぇおぉ"
+    },
+    {
+      "start": 14.04,
+      "end": 15.64,
+      "text": "Mixing in the delay!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ディレイもかけて"
+    }
+  ],
+  "full_text": "That's incredibly fast! Up throw to set up stage control! Counter with the fair! Setting up the ledge trap! Going for the ledge drop and forward attacks! The advantage keeps building! Ohhh! Mixing in the delay!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "反撃の打ち前",
+      "corrected": "反撃の空前",
+      "rule": "smash term (空前=forward air)"
+    }
+  ]
+}

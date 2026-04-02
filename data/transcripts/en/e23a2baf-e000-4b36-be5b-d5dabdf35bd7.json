@@ -1,0 +1,40 @@
+{
+  "id": "e23a2baf-e000-4b36-be5b-d5dabdf35bd7",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.24,
+      "text": "Honestly, it's arguably the move with the best return on investment as a starter",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "本当に始動技として一番リターン高いと言っても過言ではないぐらいの技なんで"
+    },
+    {
+      "start": 5.24,
+      "end": 8.88,
+      "text": "Bayonetta definitely wants to use it the most, but",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ベオネッタが一番振りたい技ではあるんですけど"
+    },
+    {
+      "start": 8.88,
+      "end": 12.0,
+      "text": "You've got to respect the serious KO risk against that",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そこに対してしっかりと撃墜のリスクを"
+    }
+  ],
+  "full_text": "Honestly, it's arguably the move with the best return on investment as a starter Bayonetta definitely wants to use it the most, but You've got to respect the serious KO risk against that",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "指導技",
+      "corrected": "始動技",
+      "rule": "kanji homophone: 始動技(combo starter)"
+    }
+  ]
+}

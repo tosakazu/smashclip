@@ -1,0 +1,63 @@
+{
+  "id": "aaff1e89-6b97-4a22-bcd0-c6c02cdf2f7c",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.0,
+      "text": "これを緊急回避しながら",
+      "language": "ja"
+    },
+    {
+      "start": 3.0,
+      "end": 3.82,
+      "text": "うまくねじ込んだが",
+      "language": "ja"
+    },
+    {
+      "start": 3.82,
+      "end": 7.48,
+      "text": "いや移動回避も見ています",
+      "language": "ja"
+    },
+    {
+      "start": 7.48,
+      "end": 8.32,
+      "text": "空中後ろ",
+      "language": "ja"
+    },
+    {
+      "start": 8.32,
+      "end": 10.56,
+      "text": "逃げ場はどこにあるのか",
+      "language": "ja"
+    },
+    {
+      "start": 10.56,
+      "end": 12.04,
+      "text": "空Nまたって",
+      "language": "ja"
+    },
+    {
+      "start": 12.04,
+      "end": 13.7,
+      "text": "これは打点が高い",
+      "language": "ja"
+    },
+    {
+      "start": 13.7,
+      "end": 15.98,
+      "text": "いやずっと",
+      "language": "ja"
+    }
+  ],
+  "full_text": "これを緊急回避しながら うまくねじ込んだが いや移動回避も見ています 空中後ろ 逃げ場はどこにあるのか 空Nまたって これは打点が高い いやずっと",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 5,
+      "original": "空中車またって",
+      "corrected": "空Nまたって",
+      "rule": "Move: 空中車→空N"
+    }
+  ]
+}

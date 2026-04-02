@@ -1,0 +1,89 @@
+{
+  "id": "a6793c0c-6fad-4b47-ba6b-fc87386742f6",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.58,
+      "text": "Down a stock",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "1ストック差"
+    },
+    {
+      "start": 0.58,
+      "end": 2.82,
+      "text": "Up a stock",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "1ストックリード"
+    },
+    {
+      "start": 2.82,
+      "end": 3.5,
+      "text": "Tweek",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "Tweek選手"
+    },
+    {
+      "start": 3.5,
+      "end": 6.08,
+      "text": "Moving out of down tilt",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "下強から動かして"
+    },
+    {
+      "start": 6.08,
+      "end": 7.78,
+      "text": "Using down tilts like this",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "やるこういった下強だったり"
+    },
+    {
+      "start": 7.78,
+      "end": 10.12,
+      "text": "Grab into dair landing",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "掴みこの空中下着地に"
+    },
+    {
+      "start": 10.12,
+      "end": 11.8,
+      "text": "No, like that banana mixup from before",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いや先ほどバナナの読み合いと"
+    },
+    {
+      "start": 11.8,
+      "end": 12.8,
+      "text": "as he said",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "おっしゃった"
+    }
+  ],
+  "full_text": "Down a stock Up a stock Tweek Moving out of down tilt Using down tilts like this Grab into dair landing No, like that banana mixup from before as he said",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "original": "1ストック3人",
+      "corrected": "1ストック差",
+      "reason": "ストック差の表現"
+    },
+    {
+      "original": "ツイック選手",
+      "corrected": "Tweek選手",
+      "reason": "プレイヤー名Tweek"
+    },
+    {
+      "original": "つかみ",
+      "corrected": "掴み",
+      "reason": "漢字表記統一"
+    }
+  ]
+}

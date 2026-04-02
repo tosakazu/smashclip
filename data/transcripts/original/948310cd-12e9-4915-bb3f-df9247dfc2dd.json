@@ -1,0 +1,33 @@
+{
+  "id": "948310cd-12e9-4915-bb3f-df9247dfc2dd",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "お互い技が当たり合っていってきましたね",
+      "language": "ja"
+    },
+    {
+      "start": 2.0,
+      "end": 4.0,
+      "text": "つかみ通して空上空上",
+      "language": "ja"
+    },
+    {
+      "start": 4.0,
+      "end": 5.04,
+      "text": "ドカーン",
+      "language": "ja"
+    }
+  ],
+  "full_text": "お互い技が当たり合っていってきましたね つかみ通して空上空上 ドカーン",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "クーエクエ",
+      "corrected": "空上空上",
+      "rule": "move name"
+    }
+  ]
+}

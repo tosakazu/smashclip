@@ -1,0 +1,96 @@
+{
+  "id": "74caafdc-d453-489a-8734-f0af87bd19da",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.16,
+      "text": "His counter is way too clean!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "カウンターの精度高すぎるね"
+    },
+    {
+      "start": 2.16,
+      "end": 3.82,
+      "text": "There's the bair!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあこれは空後"
+    },
+    {
+      "start": 3.82,
+      "end": 4.58,
+      "text": "And it connects!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "確定して"
+    },
+    {
+      "start": 4.58,
+      "end": 7.52,
+      "text": "What's the move? Counter!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "どうする?カウンター"
+    },
+    {
+      "start": 7.52,
+      "end": 9.46,
+      "text": "Whoa, he's taking the stock!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "うわ押し出してる"
+    },
+    {
+      "start": 9.46,
+      "end": 11.68,
+      "text": "Insane!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "やばーい"
+    },
+    {
+      "start": 11.68,
+      "end": 13.44,
+      "text": "That's some serious damage!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いや重い"
+    },
+    {
+      "start": 13.44,
+      "end": 15.34,
+      "text": "Alright, what now?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあどうする?"
+    },
+    {
+      "start": 15.46,
+      "end": 16.72,
+      "text": "But here's the thing...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "でもね"
+    },
+    {
+      "start": 16.72,
+      "end": 18.04,
+      "text": "Stock!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ストック"
+    }
+  ],
+  "full_text": "His counter is way too clean! There's the bair! And it connects! What's the move? Counter! Whoa, he's taking the stock! Insane! That's some serious damage! Alright, what now? But here's the thing... Stock!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 9,
+      "original": "ストローク",
+      "corrected": "ストック",
+      "rule": "smash term: ストック"
+    }
+  ]
+}

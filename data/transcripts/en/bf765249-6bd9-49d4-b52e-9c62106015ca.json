@@ -1,0 +1,56 @@
+{
+  "id": "bf765249-6bd9-49d4-b52e-9c62106015ca",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.6,
+      "text": "Larynx really is the one who needs to be taking damage here",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "どちらかというとダメージ取りに行かないといけないのはラリックス側ですからね"
+    },
+    {
+      "start": 3.6,
+      "end": 6.92,
+      "text": "And I suppose it's fine to wait now, Masa",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そしてさすがに今は待ってもいいだろうマサ"
+    },
+    {
+      "start": 6.92,
+      "end": 10.64,
+      "text": "It's basically reloading that diamond setup again, though",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ダイヤ装備をもう一度リロードする形ではありますが"
+    },
+    {
+      "start": 10.64,
+      "end": 13.78,
+      "text": "No telling how many more times that setup can get exposed",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "もういくつダイヤ装備を掘られても限らない"
+    },
+    {
+      "start": 13.78,
+      "end": 14.6,
+      "text": "It just came through naturally",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "普通に来た"
+    }
+  ],
+  "full_text": "Larynx really is the one who needs to be taking damage here. And I suppose it's fine to wait now, Masa. It's basically reloading that diamond setup again, though. No telling how many more times that setup can get exposed. It just came through naturally.",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 4,
+      "original": "掘られても限らない",
+      "corrected": "掘られてもたまらない",
+      "rule": "misheard word"
+    }
+  ]
+}

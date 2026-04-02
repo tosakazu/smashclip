@@ -1,0 +1,26 @@
+{
+  "id": "379c19ca-ac62-4518-9599-dbdab1e6fa06",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.72,
+      "text": "素直に終点を強いステージだなぁと言って選んでいるだけな気もしてきた",
+      "language": "ja"
+    },
+    {
+      "start": 5.72,
+      "end": 8.04,
+      "text": "さすがに何もない",
+      "language": "ja"
+    },
+    {
+      "start": 8.04,
+      "end": 10.8,
+      "text": "え?これは何?",
+      "language": "ja"
+    }
+  ],
+  "full_text": "素直に終点を強いステージだなぁと言って選んでいるだけな気もしてきた さすがに何もない え?これは何?",
+  "detected_language": "ja",
+  "corrections": []
+}

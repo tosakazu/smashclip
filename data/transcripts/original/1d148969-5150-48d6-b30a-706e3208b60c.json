@@ -1,0 +1,45 @@
+{
+  "id": "1d148969-5150-48d6-b30a-706e3208b60c",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.74,
+      "text": "マイルド側のね軌道の変え方が上手かったですね",
+      "language": "ja"
+    },
+    {
+      "start": 2.74,
+      "end": 4.22,
+      "text": "えまさか",
+      "language": "ja"
+    },
+    {
+      "start": 4.22,
+      "end": 7.16,
+      "text": "転倒から空中前攻撃",
+      "language": "ja"
+    },
+    {
+      "start": 7.16,
+      "end": 8.66,
+      "text": "さすがに撃墜はしないが",
+      "language": "ja"
+    },
+    {
+      "start": 8.66,
+      "end": 10.44,
+      "text": "空中下着地を通したい",
+      "language": "ja"
+    }
+  ],
+  "full_text": "マイルド側のね軌道の変え方が上手かったですね えまさか 転倒から空中前攻撃 さすがに撃墜はしないが 空中下着地を通したい",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "点灯から空中へ攻撃",
+      "corrected": "転倒から空中前攻撃",
+      "rule": "Whisper kanji homophone: 点灯→転倒, 空中へ→空中前 (空前)"
+    }
+  ]
+}

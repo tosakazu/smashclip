@@ -1,0 +1,51 @@
+{
+  "id": "75bcead5-5736-4107-bd45-d7b054399007",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.3,
+      "text": "青だからジャンプしないといけない",
+      "language": "ja"
+    },
+    {
+      "start": 2.3,
+      "end": 4.02,
+      "text": "かつ空中攻撃で撃墜取るんだったら",
+      "language": "ja"
+    },
+    {
+      "start": 4.02,
+      "end": 5.46,
+      "text": "あの状況空前しかないんで",
+      "language": "ja"
+    },
+    {
+      "start": 5.46,
+      "end": 7.02,
+      "text": "そこを1点読み取りました",
+      "language": "ja"
+    },
+    {
+      "start": 7.02,
+      "end": 10.76,
+      "text": "投げつけてまたしても苦しい時間から",
+      "language": "ja"
+    },
+    {
+      "start": 10.76,
+      "end": 11.56,
+      "text": "しかし",
+      "language": "ja"
+    }
+  ],
+  "full_text": "青だからジャンプしないといけない かつ空中攻撃で撃墜取るんだったら あの状況空前しかないんで そこを1点読み取りました 投げつけてまたしても苦しい時間から しかし",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "空中死傷しかないんで",
+      "corrected": "空前しかないんで",
+      "rule": "move abbreviation: 空前"
+    }
+  ]
+}

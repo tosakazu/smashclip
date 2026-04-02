@@ -1,0 +1,33 @@
+{
+  "id": "da327999-c023-4af6-bee1-f8430ec18f87",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.52,
+      "text": "追い詰めている",
+      "language": "ja"
+    },
+    {
+      "start": 0.52,
+      "end": 3.64,
+      "text": "今度は真上から空中下のボロチー",
+      "language": "ja"
+    },
+    {
+      "start": 3.64,
+      "end": 4.5,
+      "text": "空上捉えた",
+      "language": "ja"
+    }
+  ],
+  "full_text": "追い詰めている 今度は真上から空中下のボロチー 空上捉えた",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "空中へ捉えた",
+      "corrected": "空上捉えた",
+      "rule": "smash notation (空中へ→空上)"
+    }
+  ]
+}

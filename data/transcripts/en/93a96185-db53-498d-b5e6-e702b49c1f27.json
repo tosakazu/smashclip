@@ -1,0 +1,41 @@
+{
+  "id": "93a96185-db53-498d-b5e6-e702b49c1f27",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.88,
+      "text": "Here we go, two players!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "2人の戦いです"
+    },
+    {
+      "start": 0.88,
+      "end": 3.96,
+      "text": "And as you'd expect, Ken's made it this far as a top competitor",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "やっぱりケン選手もここまで勝ち上がっているプレイヤーですから"
+    },
+    {
+      "start": 3.96,
+      "end": 4.02,
+      "text": "There it is! There it is!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "あった!あった!"
+    },
+    {
+      "start": 4.22,
+      "end": 5.16,
+      "text": "Ohhhhhhh!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "うううううううううううううううう"
+    }
+  ],
+  "full_text": "Here we go, two players! And as you'd expect, Ken's made it this far as a top competitor There it is! There it is! Ohhhhhhh!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

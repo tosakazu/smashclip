@@ -1,0 +1,33 @@
+{
+  "id": "c10777df-a461-44b3-8db3-6eae114dd869",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.66,
+      "text": "怪しい",
+      "language": "ja"
+    },
+    {
+      "start": 0.66,
+      "end": 2.0,
+      "text": "ストック先制はYン",
+      "language": "ja"
+    },
+    {
+      "start": 2.0,
+      "end": 5.96,
+      "text": "だがこの後",
+      "language": "ja"
+    }
+  ],
+  "full_text": "怪しい ストック先制はYン だがこの後",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "ストック先生はY",
+      "corrected": "ストック先制はYン",
+      "rule": "player name + misheard"
+    }
+  ]
+}

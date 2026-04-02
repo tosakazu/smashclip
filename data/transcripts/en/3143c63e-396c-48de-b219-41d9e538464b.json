@@ -1,0 +1,48 @@
+{
+  "id": "3143c63e-396c-48de-b219-41d9e538464b",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.74,
+      "text": "Looking to make a comeback!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここでまくりたいえつじ"
+    },
+    {
+      "start": 1.74,
+      "end": 5.84,
+      "text": "Plays it safe with the landing lag",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "着地硬直にはあえて何もしない選択"
+    },
+    {
+      "start": 5.84,
+      "end": 6.68,
+      "text": "Baiting",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "様子見"
+    },
+    {
+      "start": 6.68,
+      "end": 7.9,
+      "text": "Up smash",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "上スマッシュ"
+    }
+  ],
+  "full_text": "Looking to make a comeback! Plays it safe with the landing lag Baiting Up smash",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "まくりたえ辻",
+      "corrected": "まくりたいえつじ",
+      "rule": "Whisper misrecognition"
+    }
+  ]
+}

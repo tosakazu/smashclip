@@ -1,0 +1,31 @@
+{
+  "id": "6cf540fe-9fda-4973-90da-07c7dd78260f",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.68,
+      "text": "He's locking him down and breaking him apart piece by piece with those smashes! This is—",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "追い詰めてスマッシュホールドでどんどん壊してますね これは"
+    },
+    {
+      "start": 5.68,
+      "end": 10.66,
+      "text": "Whoa! That smash! You cannot afford to drop your guard for even one second!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "うわぁースマッシュ お前一瞬でも気を抜くなとそう"
+    }
+  ],
+  "full_text": "He's locking him down and breaking him apart piece by piece with those smashes! This is— Whoa! That smash! You cannot afford to drop your guard for even one second!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_index": 0,
+      "original": "追い詰めてスマッシュホットリングでどんどん壊してますね これは",
+      "corrected": "追い詰めてスマッシュホールドでどんどん壊してますね これは"
+    }
+  ]
+}

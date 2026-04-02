@@ -1,0 +1,20 @@
+{
+  "id": "40251416-dc44-4ca5-bef4-03a994accff6",
+  "segments": [
+    {
+      "start": 0.76,
+      "end": 2.56,
+      "text": "あえて卵身ここでも崩す",
+      "language": "ja"
+    },
+    {
+      "start": 2.56,
+      "end": 6.62,
+      "text": "さあ今度は掴みに対して発生を先にここで空中後ろ落としから",
+      "language": "ja"
+    }
+  ],
+  "full_text": "あえて卵身ここでも崩す さあ今度は掴みに対して発生を先にここで空中後ろ落としから",
+  "detected_language": "ja",
+  "corrections": []
+}

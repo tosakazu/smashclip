@@ -1,0 +1,33 @@
+{
+  "id": "8cd97743-35bb-4e06-9a35-90e2aa5235b8",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.44,
+      "text": "I'm thinking about that. You are so correct. That's insane",
+      "language": "en"
+    },
+    {
+      "start": 4.04,
+      "end": 8.64,
+      "text": "You know, I know my style sometimes but back into the game. We are back into ps2",
+      "language": "en"
+    },
+    {
+      "start": 10.64,
+      "end": 13.92,
+      "text": "Right out the gate 81% Raru is just",
+      "language": "en"
+    }
+  ],
+  "full_text": "I'm thinking about that. You are so correct. That's insane You know, I know my style sometimes but back into the game. We are back into ps2 Right out the gate 81% Raru is just",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "error",
+      "corrected": "Raru",
+      "rule": "player name"
+    }
+  ]
+}

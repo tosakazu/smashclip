@@ -1,0 +1,32 @@
+{
+  "id": "561b17d5-59c3-4f9e-9ec8-97b49f61b629",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.54,
+      "text": "Still surviving in the air at 5%!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "5%この空中上をまだ耐える"
+    },
+    {
+      "start": 2.54,
+      "end": 5.66,
+      "text": "This is looking desperate, but...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これは絶望的ですが"
+    }
+  ],
+  "full_text": "Still surviving in the air at 5%! This is looking desperate, but...",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "空中スローをまだ耐える",
+      "corrected": "空中上をまだ耐える",
+      "rule": "misheard word (スロー→上)"
+    }
+  ]
+}

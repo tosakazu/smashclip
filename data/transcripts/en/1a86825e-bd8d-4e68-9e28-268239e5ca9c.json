@@ -1,0 +1,41 @@
+{
+  "id": "1a86825e-bd8d-4e68-9e28-268239e5ca9c",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.66,
+      "text": "In this situation",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "今の展開で"
+    },
+    {
+      "start": 2.66,
+      "end": 4.64,
+      "text": "out of neutral B",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "NBの"
+    },
+    {
+      "start": 4.64,
+      "end": 6.84,
+      "text": "directional airdodge from the feint",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "フェイントからの移動回避"
+    },
+    {
+      "start": 6.84,
+      "end": 7.4,
+      "text": "and then",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そして"
+    }
+  ],
+  "full_text": "In this situation out of neutral B directional airdodge from the feint and then",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

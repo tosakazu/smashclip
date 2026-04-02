@@ -1,0 +1,27 @@
+{
+  "id": "4af2b94f-a9c3-42cb-90ad-4f141d20af04",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.2,
+      "text": "yet to take his first stock he's racked up the damage but he needs to find the",
+      "language": "en"
+    },
+    {
+      "start": 3.2,
+      "end": 6.64,
+      "text": "kill and Acola just not giving him a single chance until",
+      "language": "en"
+    }
+  ],
+  "full_text": "yet to take his first stock he's racked up the damage but he needs to find the kill and Acola just not giving him a single chance until",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "the cola",
+      "corrected": "Acola",
+      "rule": "player name"
+    }
+  ]
+}

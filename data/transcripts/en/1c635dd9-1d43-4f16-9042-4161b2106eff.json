@@ -1,0 +1,41 @@
+{
+  "id": "1c635dd9-1d43-4f16-9042-4161b2106eff",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.46,
+      "text": "It connects even straight on!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "対面のウェビーでも届きましたね"
+    },
+    {
+      "start": 1.46,
+      "end": 6.18,
+      "text": "Grabbed in the air and sent off!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空中に取れる 外に出される"
+    },
+    {
+      "start": 6.18,
+      "end": 7.62,
+      "text": "They're going deep with the edge guard but...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここは深くまで追ってくるが"
+    },
+    {
+      "start": 7.62,
+      "end": 9.2,
+      "text": "Coming back with the platform tech!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "逆に踏みで返していくのや"
+    }
+  ],
+  "full_text": "It connects even straight on! Grabbed in the air and sent off! They're going deep with the edge guard but... Coming back with the platform tech!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

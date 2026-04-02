@@ -1,0 +1,57 @@
+{
+  "id": "673d6d8c-998d-4c3e-9d7f-9bbc35cd982e",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "text": "もう一発通らず",
+      "language": "ja"
+    },
+    {
+      "start": 1.0,
+      "end": 3.78,
+      "text": "うまい",
+      "language": "ja"
+    },
+    {
+      "start": 3.78,
+      "end": 5.16,
+      "text": "もう一度仕切り直して",
+      "language": "ja"
+    },
+    {
+      "start": 5.16,
+      "end": 7.9,
+      "text": "いやーちょっとゲーム面は",
+      "language": "ja"
+    },
+    {
+      "start": 7.9,
+      "end": 8.78,
+      "text": "やばい",
+      "language": "ja"
+    },
+    {
+      "start": 8.78,
+      "end": 11.56,
+      "text": "風神ステップからね",
+      "language": "ja"
+    }
+  ],
+  "full_text": "もう一発通らず うまい もう一度仕切り直して いやーちょっとゲーム面は やばい 風神ステップからね",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 3,
+      "original": "ゲームマンは",
+      "corrected": "ゲーム面は",
+      "rule": "misheard word"
+    },
+    {
+      "segment_idx": 5,
+      "original": "風神ステッカーをね",
+      "corrected": "風神ステップからね",
+      "rule": "Kazuya move name (風神ステップ)"
+    }
+  ]
+}

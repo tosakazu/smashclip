@@ -1,0 +1,20 @@
+{
+  "id": "f1383ef0-c2d3-4d71-8371-a8fc891ee41a",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.0,
+      "text": "Ah, caíste en la super armor, clásico contra...",
+      "language": "es"
+    },
+    {
+      "start": 5.0,
+      "end": 5.72,
+      "text": "Oh, arriba estoy.",
+      "language": "es"
+    }
+  ],
+  "full_text": "Ah, caíste en la super armor, clásico contra... Oh, arriba estoy.",
+  "detected_language": "es",
+  "corrections": []
+}

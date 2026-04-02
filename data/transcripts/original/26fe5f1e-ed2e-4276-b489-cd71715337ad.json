@@ -1,0 +1,38 @@
+{
+  "id": "26fe5f1e-ed2e-4276-b489-cd71715337ad",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.96,
+      "text": "難しそうですけどね",
+      "language": "ja"
+    },
+    {
+      "start": 0.96,
+      "end": 2.88,
+      "text": "空下から空後",
+      "language": "ja"
+    },
+    {
+      "start": 2.88,
+      "end": 7.04,
+      "text": "さあテシの横スマッシュだが",
+      "language": "ja"
+    },
+    {
+      "start": 7.04,
+      "end": 7.66,
+      "text": "ここは",
+      "language": "ja"
+    },
+    {
+      "start": 7.66,
+      "end": 10.58,
+      "text": "空後",
+      "language": "ja"
+    }
+  ],
+  "full_text": "難しそうですけどね 空下から空後 さあテシの横スマッシュだが ここは 空後",
+  "detected_language": "ja",
+  "corrections": []
+}

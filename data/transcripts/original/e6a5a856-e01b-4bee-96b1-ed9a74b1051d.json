@@ -1,0 +1,63 @@
+{
+  "id": "e6a5a856-e01b-4bee-96b1-ed9a74b1051d",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.18,
+      "text": "どのような対策持ってきたでしょう",
+      "language": "ja"
+    },
+    {
+      "start": 1.18,
+      "end": 3.2,
+      "text": "それから復帰と見せかけてが撃墜",
+      "language": "ja"
+    },
+    {
+      "start": 3.2,
+      "end": 7.28,
+      "text": "いやしかしやはり素通りはさせてもらえないのか",
+      "language": "ja"
+    },
+    {
+      "start": 7.28,
+      "end": 8.22,
+      "text": "いやそうですよね",
+      "language": "ja"
+    },
+    {
+      "start": 8.22,
+      "end": 9.2,
+      "text": "この右側の崖だ",
+      "language": "ja"
+    },
+    {
+      "start": 9.2,
+      "end": 10.82,
+      "text": "着地狩りうまえ",
+      "language": "ja"
+    }
+  ],
+  "full_text": "どのような対策持ってきたでしょう それから復帰と見せかけてが撃墜 いやしかしやはり素通りはさせてもらえないのか いやそうですよね この右側の崖だ 着地狩りうまえ",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "復帰と見せかけてが激闘",
+      "corrected": "復帰と見せかけてが撃墜",
+      "rule": "kanji homophone: 撃墜"
+    },
+    {
+      "segment_idx": 4,
+      "original": "この右側のガキだ",
+      "corrected": "この右側の崖だ",
+      "rule": "misheard: 崖"
+    },
+    {
+      "segment_idx": 5,
+      "original": "着地できるまえ",
+      "corrected": "着地狩りうまえ",
+      "rule": "misheard: 着地狩り"
+    }
+  ]
+}

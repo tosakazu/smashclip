@@ -1,0 +1,93 @@
+{
+  "id": "7413b929-c8dd-402b-8852-796d2e5ddf31",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.66,
+      "text": "ピクミンが刺さってくる空前の後が見えるんですが",
+      "language": "ja"
+    },
+    {
+      "start": 2.66,
+      "end": 6.92,
+      "text": "クールからもう一度上に突き上げて空後危なかった",
+      "language": "ja"
+    },
+    {
+      "start": 6.92,
+      "end": 8.48,
+      "text": "回避劇一発避けます",
+      "language": "ja"
+    },
+    {
+      "start": 8.48,
+      "end": 10.9,
+      "text": "アーマーをうまく使ってラインをじわりじわり",
+      "language": "ja"
+    },
+    {
+      "start": 10.9,
+      "end": 12.58,
+      "text": "傷は負いながら帰ってくるんですが",
+      "language": "ja"
+    },
+    {
+      "start": 12.58,
+      "end": 13.58,
+      "text": "紫一本",
+      "language": "ja"
+    },
+    {
+      "start": 13.58,
+      "end": 15.46,
+      "text": "どこまでやれるかここは",
+      "language": "ja"
+    },
+    {
+      "start": 15.46,
+      "end": 17.86,
+      "text": "ここ今撃墜はないが",
+      "language": "ja"
+    },
+    {
+      "start": 17.86,
+      "end": 20.24,
+      "text": "150あまりにも痛いパーセント",
+      "language": "ja"
+    },
+    {
+      "start": 20.24,
+      "end": 21.66,
+      "text": "残り2ストックあるぞ",
+      "language": "ja"
+    },
+    {
+      "start": 21.66,
+      "end": 24.82,
+      "text": "殴っていてこの後ろ投げは撃墜",
+      "language": "ja"
+    }
+  ],
+  "full_text": "ピクミンが刺さってくる空前の後が見えるんですが クールからもう一度上に突き上げて空後危なかった 回避劇一発避けます アーマーをうまく使ってラインをじわりじわり 傷は負いながら帰ってくるんですが 紫一本 どこまでやれるかここは ここ今撃墜はないが 150あまりにも痛いパーセント 残り2ストックあるぞ 殴っていてこの後ろ投げは撃墜",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "ピンが刺さってくる空中前の跡",
+      "corrected": "ピクミンが刺さってくる空前の後",
+      "rule": "character term: ピクミン + move abbreviation"
+    },
+    {
+      "segment_idx": 1,
+      "original": "空港",
+      "corrected": "空後",
+      "rule": "kanji homophone: 空港→空後"
+    },
+    {
+      "segment_idx": 7,
+      "original": "ここ今日撃墜はないが",
+      "corrected": "ここ今撃墜はないが",
+      "rule": "Whisper mishearing"
+    }
+  ]
+}

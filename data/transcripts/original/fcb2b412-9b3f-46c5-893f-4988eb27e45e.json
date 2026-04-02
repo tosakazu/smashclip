@@ -1,0 +1,57 @@
+{
+  "id": "fcb2b412-9b3f-46c5-893f-4988eb27e45e",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.4,
+      "text": "ここ弱気がない状態で",
+      "language": "ja"
+    },
+    {
+      "start": 3.4,
+      "end": 4.0,
+      "text": "ここ弱気がない状態で",
+      "language": "ja"
+    },
+    {
+      "start": 4.0,
+      "end": 5.0,
+      "text": "難しいか",
+      "language": "ja"
+    },
+    {
+      "start": 5.0,
+      "end": 5.72,
+      "text": "ポーミング出るのか",
+      "language": "ja"
+    },
+    {
+      "start": 5.72,
+      "end": 6.02,
+      "text": "マジか",
+      "language": "ja"
+    },
+    {
+      "start": 6.02,
+      "end": 7.78,
+      "text": "すっげー",
+      "language": "ja"
+    }
+  ],
+  "full_text": "ここ弱気がない状態で ここ弱気がない状態で 難しいか ポーミング出るのか マジか すっげー",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 3,
+      "original": "ポーニング出るのか",
+      "corrected": "ポーミング出るのか",
+      "rule": "misheard"
+    },
+    {
+      "segment_idx": 4,
+      "original": "マリック",
+      "corrected": "マジか",
+      "rule": "misheard"
+    }
+  ]
+}

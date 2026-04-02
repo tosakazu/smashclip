@@ -1,0 +1,70 @@
+{
+  "id": "eb6dd99d-88ba-4ddb-ac08-e8292641fdf3",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.84,
+      "text": "Ohhh!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "なーがい"
+    },
+    {
+      "start": 0.84,
+      "end": 3.52,
+      "text": "Down tilt to down smash!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "出ました下強下スマ"
+    },
+    {
+      "start": 3.52,
+      "end": 5.86,
+      "text": "But if they spot the recovery, there's nothing there!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "まあしかし外浮き見されると実は何もない"
+    },
+    {
+      "start": 5.86,
+      "end": 7.98,
+      "text": "From the ledge though, almost...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "崖端ならほぼ"
+    },
+    {
+      "start": 7.98,
+      "end": 9.32,
+      "text": "Can create a trap situation though...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "詰み状況みたいなの作れるんですけど"
+    },
+    {
+      "start": 9.32,
+      "end": 10.66,
+      "text": "This is...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これは"
+    }
+  ],
+  "full_text": "Ohhh! Down tilt to down smash! But if they spot the recovery, there's nothing there! From the ledge though, almost... Can create a trap situation though... This is...",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "出ましたしたきょうしたす",
+      "corrected": "出ました下強下スマ",
+      "rule": "misheard: したきょうしたす→下強下スマ"
+    },
+    {
+      "segment_idx": 4,
+      "original": "積み状況",
+      "corrected": "詰み状況",
+      "rule": "kanji: 積み→詰み"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "id": "c0c7ef3e-c5f0-4b3b-a3a5-b1c5902eb19c",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.24,
+      "text": "この復帰ができなければ",
+      "language": "ja"
+    },
+    {
+      "start": 2.24,
+      "end": 3.58,
+      "text": "当然話が変わってくる",
+      "language": "ja"
+    },
+    {
+      "start": 3.58,
+      "end": 4.58,
+      "text": "弱を拾えるか",
+      "language": "ja"
+    },
+    {
+      "start": 4.58,
+      "end": 5.76,
+      "text": "ベクトルずらす",
+      "language": "ja"
+    },
+    {
+      "start": 5.76,
+      "end": 6.7,
+      "text": "横、危ない",
+      "language": "ja"
+    },
+    {
+      "start": 6.7,
+      "end": 8.74,
+      "text": "空中後ろここで素早い攻撃",
+      "language": "ja"
+    }
+  ],
+  "full_text": "この復帰ができなければ 当然話が変わってくる 弱を拾えるか ベクトルずらす 横、危ない 空中後ろここで素早い攻撃",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "射気を拾えるか",
+      "corrected": "弱を拾えるか",
+      "rule": "misheard word"
+    },
+    {
+      "segment_idx": 3,
+      "original": "ヘリングずらす",
+      "corrected": "ベクトルずらす",
+      "rule": "smash term"
+    },
+    {
+      "segment_idx": 4,
+      "original": "横気を危ない",
+      "corrected": "横、危ない",
+      "rule": "misheard word"
+    },
+    {
+      "segment_idx": 5,
+      "original": "空中死路",
+      "corrected": "空中後ろ",
+      "rule": "smash term"
+    }
+  ]
+}

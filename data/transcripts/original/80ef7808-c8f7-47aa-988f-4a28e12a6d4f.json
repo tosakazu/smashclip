@@ -1,0 +1,45 @@
+{
+  "id": "80ef7808-c8f7-47aa-988f-4a28e12a6d4f",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.8,
+      "text": "手を交わしていくよ",
+      "language": "ja"
+    },
+    {
+      "start": 0.8,
+      "end": 5.5,
+      "text": "まだテシのステージ上は",
+      "language": "ja"
+    },
+    {
+      "start": 5.5,
+      "end": 8.34,
+      "text": "獲得し続けているぞ",
+      "language": "ja"
+    },
+    {
+      "start": 8.34,
+      "end": 11.32,
+      "text": "上強これ移動回避先",
+      "language": "ja"
+    }
+  ],
+  "full_text": "手を交わしていくよ まだテシのステージ上は 獲得し続けているぞ 上強これ移動回避先",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "まだ手代のステーシュオーは",
+      "corrected": "まだテシのステージ上は",
+      "rule": "player name + Whisper mishearing"
+    },
+    {
+      "segment_idx": 3,
+      "original": "上京コーヒー移動回避先",
+      "corrected": "上強これ移動回避先",
+      "rule": "kanji homophone"
+    }
+  ]
+}

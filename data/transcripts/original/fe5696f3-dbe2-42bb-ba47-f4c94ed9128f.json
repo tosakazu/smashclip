@@ -1,0 +1,33 @@
+{
+  "id": "fe5696f3-dbe2-42bb-ba47-f4c94ed9128f",
+  "segments": [
+    {
+      "start": 0.46,
+      "end": 4.16,
+      "text": "展開 上強で狙っていく ガード固まるところに対してはモンキーフリップ",
+      "language": "ja"
+    },
+    {
+      "start": 4.16,
+      "end": 7.46,
+      "text": "バナナを置きつつ相手の様子を見る",
+      "language": "ja"
+    },
+    {
+      "start": 7.46,
+      "end": 10.9,
+      "text": "バナナを挟んだやり合い モンキーフリップ",
+      "language": "ja"
+    }
+  ],
+  "full_text": "展開 上強で狙っていく ガード固まるところに対してはモンキーフリップ バナナを置きつつ相手の様子を見る バナナを挟んだやり合い モンキーフリップ",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "点灯",
+      "corrected": "展開",
+      "rule": "misheard: 点灯→展開"
+    }
+  ]
+}

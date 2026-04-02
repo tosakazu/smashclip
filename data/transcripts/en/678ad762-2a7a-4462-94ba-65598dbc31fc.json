@@ -1,0 +1,20 @@
+{
+  "id": "678ad762-2a7a-4462-94ba-65598dbc31fc",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.4,
+      "text": "The entire crowd recognizes the bola, but so far that charge shot has not been able to find its mark",
+      "language": "en"
+    },
+    {
+      "start": 5.4,
+      "end": 8.74,
+      "text": "other than those few instances, but we haven't seen one of those charge shots.",
+      "language": "en"
+    }
+  ],
+  "full_text": "The entire crowd recognizes the bola, but so far that charge shot has not been able to find its mark other than those few instances, but we haven't seen one of those charge shots.",
+  "detected_language": "en",
+  "corrections": []
+}

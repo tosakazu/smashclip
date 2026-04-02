@@ -1,0 +1,69 @@
+{
+  "id": "ff8d6271-cc29-4f65-8cc5-e9f9dfabbb9d",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.26,
+      "text": "この内側への着地もやはりYauraは",
+      "language": "ja"
+    },
+    {
+      "start": 2.26,
+      "end": 4.22,
+      "text": "しっかりと狩り取ってみせる",
+      "language": "ja"
+    },
+    {
+      "start": 4.22,
+      "end": 6.04,
+      "text": "さあ焦らない掴み",
+      "language": "ja"
+    },
+    {
+      "start": 6.04,
+      "end": 8.18,
+      "text": "崖展開空Nを置きますが",
+      "language": "ja"
+    },
+    {
+      "start": 8.18,
+      "end": 10.08,
+      "text": "取りたい空後",
+      "language": "ja"
+    },
+    {
+      "start": 10.08,
+      "end": 12.12,
+      "text": "上強いや違う空上だ",
+      "language": "ja"
+    },
+    {
+      "start": 12.12,
+      "end": 12.94,
+      "text": "固めて",
+      "language": "ja"
+    }
+  ],
+  "full_text": "この内側への着地もやはりYauraは しっかりと狩り取ってみせる さあ焦らない掴み 崖展開空Nを置きますが 取りたい空後 上強いや違う空上だ 固めて",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "矢浦",
+      "corrected": "Yaura",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 3,
+      "original": "学電界空中ザラを置きますが",
+      "corrected": "崖展開空Nを置きますが",
+      "rule": "misheard"
+    },
+    {
+      "segment_idx": 4,
+      "original": "空中しろ",
+      "corrected": "空後",
+      "rule": "misheard: 空中しろ→空後"
+    }
+  ]
+}

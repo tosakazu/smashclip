@@ -1,0 +1,62 @@
+{
+  "id": "1bacf2c1-bec0-40a7-b491-f52f7895232d",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.9,
+      "text": "Doesn't land, but up tilt catches them!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "通らないが上強で拾って"
+    },
+    {
+      "start": 1.9,
+      "end": 3.76,
+      "text": "Wanted to land that juggle but...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "着地狩り通したかったが"
+    },
+    {
+      "start": 3.76,
+      "end": 5.1,
+      "text": "Donkey Kong pulls off the mash out!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "暴れを通すのはドンキーコング"
+    },
+    {
+      "start": 5.1,
+      "end": 7.0,
+      "text": "Parrying the falling up air puts them in danger!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "降り空上にジャストシールドでリスクをつけて"
+    },
+    {
+      "start": 7.0,
+      "end": 9.92,
+      "text": "From here, falling up air into up B again!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "だがここはもう一度降り空上から上必殺技"
+    }
+  ],
+  "full_text": "Doesn't land, but up tilt catches them! Wanted to land that juggle but... Donkey Kong pulls off the mash out! Parrying the falling up air puts them in danger! From here, falling up air into up B again!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 3,
+      "original": "降りく上にジャストシールドでリスクをつけて",
+      "corrected": "降り空上にジャストシールドでリスクをつけて",
+      "rule": "Whisper mishearing: 降りく上→降り空上"
+    },
+    {
+      "segment_idx": 4,
+      "original": "だがここはもう一度降りく上から上必殺技",
+      "corrected": "だがここはもう一度降り空上から上必殺技",
+      "rule": "Whisper mishearing: 降りく上→降り空上"
+    }
+  ]
+}

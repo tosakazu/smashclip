@@ -1,0 +1,25 @@
+{
+  "id": "430b0ee1-ea27-4eef-8ba4-6a721442998e",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.84,
+      "text": "Whoa, there's the KO!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "うわー倒しきったー"
+    },
+    {
+      "start": 2.84,
+      "end": 5.24,
+      "text": "No, but Sonic came after that",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いやーただソニックスの方が後で"
+    }
+  ],
+  "full_text": "Whoa, there's the KO! No, but Sonic came after that",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

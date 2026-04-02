@@ -1,0 +1,75 @@
+{
+  "id": "c6ee7be3-ea9b-411f-bea0-bc6fbf1681d7",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.36,
+      "text": "that both of them have fought so hard to achieve.",
+      "language": "en"
+    },
+    {
+      "start": 3.62,
+      "end": 6.16,
+      "text": "Right now, RARU is suffering so much",
+      "language": "en"
+    },
+    {
+      "start": 6.16,
+      "end": 8.04,
+      "text": "because Miya will not let him land.",
+      "language": "en"
+    },
+    {
+      "start": 8.12,
+      "end": 9.8,
+      "text": "It's such a hard feat.",
+      "language": "en"
+    },
+    {
+      "start": 10.18,
+      "end": 12.92,
+      "text": "Of course, Game and Watch has every single tool",
+      "language": "en"
+    },
+    {
+      "start": 12.92,
+      "end": 14.78,
+      "text": "at his disposal to keep that going,",
+      "language": "en"
+    },
+    {
+      "start": 15.08,
+      "end": 17.2,
+      "text": "to keep RARU from landing,",
+      "language": "en"
+    },
+    {
+      "start": 17.3,
+      "end": 19.16,
+      "text": "and it's so disheartening because right now",
+      "language": "en"
+    },
+    {
+      "start": 19.16,
+      "end": 20.8,
+      "text": "the stock is absolutely...",
+      "language": "en"
+    }
+  ],
+  "full_text": "that both of them have fought so hard to achieve. Right now, RARU is suffering so much because Miya will not let him land. It's such a hard feat. Of course, Game and Watch has every single tool at his disposal to keep that going, to keep RARU from landing, and it's so disheartening because right now the stock is absolutely...",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "media",
+      "corrected": "Miya",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 4,
+      "original": "Beginning Watch",
+      "corrected": "Game and Watch",
+      "rule": "character name"
+    }
+  ]
+}

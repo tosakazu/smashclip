@@ -1,0 +1,48 @@
+{
+  "id": "108a2e0b-90a0-4488-8763-1f384b5204a4",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.94,
+      "text": "Works on Villager!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "村人に対して有効です"
+    },
+    {
+      "start": 1.94,
+      "end": 5.46,
+      "text": "So that's a solid KO!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "なのでかなり撃墜"
+    },
+    {
+      "start": 5.46,
+      "end": 6.44,
+      "text": "Wait!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "おっとこれ"
+    },
+    {
+      "start": 6.44,
+      "end": 8.24,
+      "text": "Can they recover?!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "帰れないのか"
+    }
+  ],
+  "full_text": "Works on Villager! So that's a solid KO! Wait! Can they recover?!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "なのでかなり激推",
+      "corrected": "なのでかなり撃墜",
+      "rule": "Kanji homophone: 激推→撃墜"
+    }
+  ]
+}

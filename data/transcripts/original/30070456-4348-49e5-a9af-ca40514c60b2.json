@@ -1,0 +1,51 @@
+{
+  "id": "30070456-4348-49e5-a9af-ca40514c60b2",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.8,
+      "text": "端なら大丈夫",
+      "language": "ja"
+    },
+    {
+      "start": 0.8,
+      "end": 3.92,
+      "text": "崖に閉じ込められている",
+      "language": "ja"
+    },
+    {
+      "start": 3.92,
+      "end": 5.98,
+      "text": "うっちーがこの空中前暴れ非常に強力",
+      "language": "ja"
+    },
+    {
+      "start": 5.98,
+      "end": 6.72,
+      "text": "そして下強",
+      "language": "ja"
+    },
+    {
+      "start": 6.72,
+      "end": 7.86,
+      "text": "ダウン",
+      "language": "ja"
+    }
+  ],
+  "full_text": "端なら大丈夫 崖に閉じ込められている うっちーがこの空中前暴れ非常に強力 そして下強 ダウン",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "ガキ",
+      "corrected": "崖",
+      "rule": "kanji homophone: ガキ→崖"
+    },
+    {
+      "segment_idx": 2,
+      "original": "内田が",
+      "corrected": "うっちーが",
+      "rule": "player name"
+    }
+  ]
+}

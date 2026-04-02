@@ -1,0 +1,39 @@
+{
+  "id": "43c1626d-cc56-44a0-8d08-fe7927dcde43",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.4,
+      "text": "スパーゴとしてはここからリバース3を狙っていきたいところでありますが",
+      "language": "ja"
+    },
+    {
+      "start": 4.4,
+      "end": 8.0,
+      "text": "リドルズここで勝ちきりたいでしょう",
+      "language": "ja"
+    },
+    {
+      "start": 8.0,
+      "end": 12.3,
+      "text": "ここを避けてからそのままリミット距離XPまで",
+      "language": "ja"
+    }
+  ],
+  "full_text": "スパーゴとしてはここからリバース3を狙っていきたいところでありますが リドルズここで勝ちきりたいでしょう ここを避けてからそのままリミット距離XPまで",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "バーゴ",
+      "corrected": "スパーゴ",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 1,
+      "original": "リドレス",
+      "corrected": "リドルズ",
+      "rule": "player name"
+    }
+  ]
+}

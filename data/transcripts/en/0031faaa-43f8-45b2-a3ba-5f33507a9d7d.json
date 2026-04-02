@@ -1,0 +1,48 @@
+{
+  "id": "0031faaa-43f8-45b2-a3ba-5f33507a9d7d",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.76,
+      "text": "Just look at Lion's forward smash usage and stuff...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ライオン利用して横スマとか見てて分かる通り"
+    },
+    {
+      "start": 2.76,
+      "end": 7.38,
+      "text": "Regarding the counter, it seems like there's nothing to complain about...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "対策に関してはもう文句ないみたいなところだと思うんで"
+    },
+    {
+      "start": 7.38,
+      "end": 9.98,
+      "text": "Both...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "お互いに"
+    },
+    {
+      "start": 9.98,
+      "end": 11.2,
+      "text": "Oh, here too!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "おっとここも"
+    }
+  ],
+  "full_text": "Just look at Lion's forward smash usage and stuff... Regarding the counter, it seems like there's nothing to complain about... Both... Oh, here too!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "ライオン利用して横スマッシュとか見てて分かる通り",
+      "corrected": "ライオン利用して横スマとか見てて分かる通り",
+      "rule": "auto-rule"
+    }
+  ]
+}

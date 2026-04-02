@@ -1,0 +1,39 @@
+{
+  "id": "e0ae2b16-8a66-4e4c-89b4-a5bd6bc4d0e0",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.08,
+      "text": "ただね結構こっからがね先ほどから見てると長いなという印象はあります",
+      "language": "ja"
+    },
+    {
+      "start": 6.08,
+      "end": 7.96,
+      "text": "ばれたのHO側のね",
+      "language": "ja"
+    },
+    {
+      "start": 7.96,
+      "end": 10.32,
+      "text": "撃墜拒否が",
+      "language": "ja"
+    }
+  ],
+  "full_text": "ただね結構こっからがね先ほどから見てると長いなという印象はあります ばれたのHO側のね 撃墜拒否が",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "バレットの栄一郎側のね",
+      "corrected": "ばれたのHO側のね",
+      "rule": "player name (マイルドなH.O)"
+    },
+    {
+      "segment_idx": 2,
+      "original": "激推拒否が",
+      "corrected": "撃墜拒否が",
+      "rule": "misheard word"
+    }
+  ]
+}

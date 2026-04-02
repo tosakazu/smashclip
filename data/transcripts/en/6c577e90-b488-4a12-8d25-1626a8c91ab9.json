@@ -1,0 +1,72 @@
+{
+  "id": "6c577e90-b488-4a12-8d25-1626a8c91ab9",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.74,
+      "text": "That's rough",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "難しい"
+    },
+    {
+      "start": 0.74,
+      "end": 4.28,
+      "text": "Yeah, and the dash attack shield stun is crazy long too",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いやDAガード硬直が長いのも"
+    },
+    {
+      "start": 4.28,
+      "end": 5.88,
+      "text": "That's kinda jank, right?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ちょっといやらしいですよね"
+    },
+    {
+      "start": 5.88,
+      "end": 8.16,
+      "text": "Like when you input the turnaround and it just doesn't come out",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "反転を入れてるのに反転が出ないとか"
+    },
+    {
+      "start": 8.16,
+      "end": 9.48,
+      "text": "Oh, this is...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "あこれは"
+    },
+    {
+      "start": 9.48,
+      "end": 11.06,
+      "text": "Man, the feel of it...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いやー感性が"
+    },
+    {
+      "start": 11.06,
+      "end": 12.7,
+      "text": "Ah, but that's clean",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "あけどうまい"
+    }
+  ],
+  "full_text": "That's rough Yeah, and the dash attack shield stun is crazy long too That's kinda jank, right? Like when you input the turnaround and it just doesn't come out Oh, this is... Man, the feel of it... Ah, but that's clean",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "ディーガード硬着",
+      "corrected": "DAガード硬直",
+      "rule": "Whisper mishearing + Smash term"
+    }
+  ]
+}

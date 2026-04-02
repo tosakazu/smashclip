@@ -1,0 +1,48 @@
+{
+  "id": "4afe614f-580b-42ef-97dc-e2f161db8c93",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.46,
+      "text": "Takenoko's still not getting KO'd!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "まだ撃墜はされないぞタケノコ選手"
+    },
+    {
+      "start": 2.46,
+      "end": 4.06,
+      "text": "Still hanging on!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "まだ撃墜はされないぞ"
+    },
+    {
+      "start": 4.06,
+      "end": 6.56,
+      "text": "He shields the grab attempt!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "掴み仕掛けガードしたところを"
+    },
+    {
+      "start": 6.56,
+      "end": 7.1,
+      "text": "But gets exploited!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "使われた"
+    }
+  ],
+  "full_text": "Takenoko's still not getting KO'd! Still hanging on! He shields the grab attempt! But gets exploited!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "超火線ガードしたところを",
+      "corrected": "掴み仕掛けガードしたところを",
+      "rule": "kanji homophone (超→掴み)"
+    }
+  ]
+}

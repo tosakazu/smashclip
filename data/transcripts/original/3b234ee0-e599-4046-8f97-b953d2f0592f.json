@@ -1,0 +1,57 @@
+{
+  "id": "3b234ee0-e599-4046-8f97-b953d2f0592f",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.16,
+      "text": "フェルザナイチョウの有利展開",
+      "language": "ja"
+    },
+    {
+      "start": 1.16,
+      "end": 4.26,
+      "text": "降り空N空NBチラ見せ",
+      "language": "ja"
+    },
+    {
+      "start": 4.26,
+      "end": 7.84,
+      "text": "99%でもう撃墜するかNB",
+      "language": "ja"
+    },
+    {
+      "start": 7.84,
+      "end": 11.08,
+      "text": "上スマッシュ",
+      "language": "ja"
+    },
+    {
+      "start": 11.08,
+      "end": 13.96,
+      "text": "暴れ切って無理ー撃墜してんだけど",
+      "language": "ja"
+    }
+  ],
+  "full_text": "フェルザナイチョウの有利展開 降り空N空NBチラ見せ 99%でもう撃墜するかNB 上スマッシュ 暴れ切って無理ー撃墜してんだけど",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "おりくえくえNBちらみせ",
+      "corrected": "降り空N空NBチラ見せ",
+      "rule": "misheard: おりくえくえ→降り空N空N"
+    },
+    {
+      "segment_idx": 2,
+      "original": "激戦するか",
+      "corrected": "撃墜するか",
+      "rule": "激戦→撃墜"
+    },
+    {
+      "segment_idx": 4,
+      "original": "激戦してんだけど",
+      "corrected": "撃墜してんだけど",
+      "rule": "激戦→撃墜"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "17705956-2338-4910-8b0a-1c2934a0eecd",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.8,
+      "text": "No aggressive approach available, but defensive walls are wide open",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ヤマナクション鉄がない状況だが石は潤沢にある壁は張り放題だ"
+    },
+    {
+      "start": 5.8,
+      "end": 11.1,
+      "text": "The jab-parry-grab mixup",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "弱攻撃をジャストシールドつかみでの読み合い"
+    }
+  ],
+  "full_text": "No aggressive approach available, but defensive walls are wide open The jab-parry-grab mixup",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "アクション鉄がない状況だが",
+      "corrected": "ヤマナクション鉄がない状況だが",
+      "rule": "Player name: アクション→ヤマナクション (Steve player)"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": "829728eb-c558-450d-93bb-538e3482277a",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.88,
+      "text": "Alright, jab jab into up B!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあ弱弱から上B"
+    },
+    {
+      "start": 4.88,
+      "end": 9.94,
+      "text": "Up tilt pressure at 123 percent!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "上強圧をかける123%"
+    },
+    {
+      "start": 9.94,
+      "end": 12.5,
+      "text": "With Sonic's light weight, it's pretty risky",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ソニックの体重だとかなり心もとない"
+    },
+    {
+      "start": 12.5,
+      "end": 16.44,
+      "text": "The ledge situation isn't just about staying grabbed",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "崖の展開は捕まりっぱなしには"
+    },
+    {
+      "start": 16.44,
+      "end": 18.82,
+      "text": "He handles it properly",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ちゃんと対応"
+    },
+    {
+      "start": 18.82,
+      "end": 22.66,
+      "text": "And going around the back with up tilt to dair",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そして裏が回ったところ上強で下出をと"
+    }
+  ],
+  "full_text": "Alright, jab jab into up B! Up tilt pressure at 123 percent! With Sonic's light weight, it's pretty risky The ledge situation isn't just about staying grabbed He handles it properly And going around the back with up tilt to dair",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

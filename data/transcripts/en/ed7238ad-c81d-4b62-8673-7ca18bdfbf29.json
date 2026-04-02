@@ -1,0 +1,60 @@
+{
+  "id": "ed7238ad-c81d-4b62-8673-7ca18bdfbf29",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.74,
+      "text": "Up tilt anti-air! He's been landing this on stream, and there's another KO!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "上強対空何度も配信台で決めてきたこの技で撃墜を通していきます"
+    },
+    {
+      "start": 4.74,
+      "end": 7.92,
+      "text": "Getup attack connects, that's an awkward mixup!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "攻撃上がりが当たって気まずい読み合いでした"
+    },
+    {
+      "start": 7.92,
+      "end": 11.22,
+      "text": "Grab confirmed into forward throw!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "行く前から掴み通して前投げ"
+    },
+    {
+      "start": 11.22,
+      "end": 13.96,
+      "text": "Forward tilt and that's the KO!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "横強を下シフトで撃墜"
+    }
+  ],
+  "full_text": "Up tilt anti-air! He's been landing this on stream, and there's another KO! Getup attack connects, that's an awkward mixup! Grab confirmed into forward throw! Forward tilt and that's the KO!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "上京対空",
+      "corrected": "上強対空",
+      "rule": "kanji homophone: 上京→上強"
+    },
+    {
+      "segment_idx": 0,
+      "original": "気を抜けたこの技",
+      "corrected": "決めてきたこの技",
+      "rule": "misheard"
+    },
+    {
+      "segment_idx": 3,
+      "original": "横行きをしたシフトで",
+      "corrected": "横強を下シフトで",
+      "rule": "misheard"
+    }
+  ]
+}

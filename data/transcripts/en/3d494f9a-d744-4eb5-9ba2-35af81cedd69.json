@@ -1,0 +1,72 @@
+{
+  "id": "3d494f9a-d744-4eb5-9ba2-35af81cedd69",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.54,
+      "text": "Fall back",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "下がって"
+    },
+    {
+      "start": 0.54,
+      "end": 3.88,
+      "text": "And for Neo's side too",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "もうネオ選手側としても"
+    },
+    {
+      "start": 3.88,
+      "end": 5.94,
+      "text": "they're in a position where they don't have to commit much",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "かなり付き合わなくてもいい状態でありますからね"
+    },
+    {
+      "start": 5.94,
+      "end": 6.44,
+      "text": "Yeah",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そうですね"
+    },
+    {
+      "start": 6.44,
+      "end": 9.88,
+      "text": "As long as they can build up even a little bit of percent",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "少しでもパーセントさえ稼いでしまえばといったところですが"
+    },
+    {
+      "start": 9.88,
+      "end": 11.9,
+      "text": "Against Pikmin throws",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ピクミン投擲に対して"
+    },
+    {
+      "start": 11.9,
+      "end": 14.14,
+      "text": "Even against the purple one, full hop gets there",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "紫に対しても大ジャンプから"
+    }
+  ],
+  "full_text": "Fall back And for Neo's side too they're in a position where they don't have to commit much Yeah As long as they can build up even a little bit of percent Against Pikmin throws Even against the purple one, full hop gets there",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 5,
+      "original": "ヒクミン",
+      "corrected": "ピクミン",
+      "rule": "character name: Olimar's Pikmin = ピクミン"
+    }
+  ]
+}

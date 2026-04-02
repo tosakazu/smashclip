@@ -1,0 +1,70 @@
+{
+  "id": "2c827c53-3b6e-40c7-94f3-f82e82414d73",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.4,
+      "text": "Now the bair is...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあ空後が"
+    },
+    {
+      "start": 3.4,
+      "end": 4.54,
+      "text": "getting shut down...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "刈られて"
+    },
+    {
+      "start": 4.54,
+      "end": 7.42,
+      "text": "that's so disrespectful!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "嫌すぎる"
+    },
+    {
+      "start": 7.42,
+      "end": 8.58,
+      "text": "Bair",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空後"
+    },
+    {
+      "start": 8.58,
+      "end": 11.12,
+      "text": "connected!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "当たった"
+    },
+    {
+      "start": 11.12,
+      "end": 11.38,
+      "text": "Whoa!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "シュー"
+    }
+  ],
+  "full_text": "Now the bair is... getting shut down... that's so disrespectful! Bair connected! Whoa!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "口が",
+      "corrected": "空後が",
+      "rule": "misheard: 口→空後"
+    },
+    {
+      "segment_idx": 3,
+      "original": "空中白",
+      "corrected": "空後",
+      "rule": "move abbrev: 空中白→空後"
+    }
+  ]
+}

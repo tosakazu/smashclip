@@ -1,0 +1,65 @@
+{
+  "id": "2e395715-abb9-48f6-8318-e3355f4253e3",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.66,
+      "text": "Has to go for it—but that's risky!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "行くしかないがまずいか"
+    },
+    {
+      "start": 1.66,
+      "end": 3.38,
+      "text": "Connected big!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "くめくめ大きくつきましたね"
+    },
+    {
+      "start": 3.38,
+      "end": 4.76,
+      "text": "Took him out right there!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "一気に取っていった"
+    },
+    {
+      "start": 4.76,
+      "end": 7.12,
+      "text": "That's an easy punish!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これは安い"
+    },
+    {
+      "start": 7.12,
+      "end": 7.76,
+      "text": "Rough!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "大変だ"
+    },
+    {
+      "start": 7.76,
+      "end": 9.84,
+      "text": "Rough!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "大変だ"
+    },
+    {
+      "start": 9.84,
+      "end": 12.76,
+      "text": "Rough!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "大変だ"
+    }
+  ],
+  "full_text": "Has to go for it—but that's risky! Connected big! Took him out right there! That's an easy punish! Rough! Rough! Rough!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

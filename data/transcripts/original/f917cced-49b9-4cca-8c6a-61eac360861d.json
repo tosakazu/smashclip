@@ -1,0 +1,20 @@
+{
+  "id": "f917cced-49b9-4cca-8c6a-61eac360861d",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.8,
+      "text": "逆に踏みで返していくのはヤマナクション",
+      "language": "ja"
+    },
+    {
+      "start": 1.8,
+      "end": 4.0,
+      "text": "うーん",
+      "language": "ja"
+    }
+  ],
+  "full_text": "逆に踏みで返していくのはヤマナクション うーん",
+  "detected_language": "ja",
+  "corrections": []
+}

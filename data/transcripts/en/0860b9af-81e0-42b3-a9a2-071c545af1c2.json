@@ -1,0 +1,39 @@
+{
+  "id": "0860b9af-81e0-42b3-a9a2-071c545af1c2",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.96,
+      "text": "off yeah it goes for the bike ledge trapping uh fortunately not the not the hardest ledge trap",
+      "language": "en"
+    },
+    {
+      "start": 6.96,
+      "end": 10.48,
+      "text": "to go through especially if you have if you have multiple jumps like Kirby that forward",
+      "language": "en"
+    },
+    {
+      "start": 10.48,
+      "end": 15.92,
+      "text": "air out of the corner hold on ever so slightly beating out the bite attempt",
+      "language": "en"
+    }
+  ],
+  "full_text": "off yeah it goes for the bike ledge trapping uh fortunately not the not the hardest ledge trap to go through especially if you have if you have multiple jumps like Kirby that forward air out of the corner hold on ever so slightly beating out the bite attempt",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "off yeah it goes for the bike leg trapping uh fortunately not the not the hardest let's have",
+      "corrected": "off yeah it goes for the bike ledge trapping uh fortunately not the not the hardest ledge trap",
+      "rule": "Smash terminology correction (leg trapping → ledge trapping, let's have → ledge trap)"
+    },
+    {
+      "segment_idx": 1,
+      "original": "to go through especially if you have if you have multiple jumps like jeremy that forward",
+      "corrected": "to go through especially if you have if you have multiple jumps like Kirby that forward",
+      "rule": "Player/character name correction (jeremy → Kirby)"
+    }
+  ]
+}

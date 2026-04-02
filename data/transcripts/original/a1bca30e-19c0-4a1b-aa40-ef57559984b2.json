@@ -1,0 +1,63 @@
+{
+  "id": "a1bca30e-19c0-4a1b-aa40-ef57559984b2",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.6,
+      "text": "Yeah, we see a forward aerial.",
+      "language": "en"
+    },
+    {
+      "start": 1.94,
+      "end": 4.06,
+      "text": "We are pretty close to 3% now.",
+      "language": "en"
+    },
+    {
+      "start": 4.6,
+      "end": 5.72,
+      "text": "Now we're probably within it.",
+      "language": "en"
+    },
+    {
+      "start": 6.02,
+      "end": 6.8,
+      "text": "We're probably within it.",
+      "language": "en"
+    },
+    {
+      "start": 6.98,
+      "end": 8.14,
+      "text": "Maybe above it a little bit.",
+      "language": "en"
+    },
+    {
+      "start": 8.44,
+      "end": 8.9,
+      "text": "We'll see.",
+      "language": "en"
+    },
+    {
+      "start": 9.04,
+      "end": 9.78,
+      "text": "We'll find out right here.",
+      "language": "en"
+    },
+    {
+      "start": 9.96,
+      "end": 10.84,
+      "text": "That's going to do it.",
+      "language": "en"
+    }
+  ],
+  "full_text": "Yeah, we see a forward aerial. We are pretty close to 3% now. Now we're probably within it. We're probably within it. Maybe above it a little bit. We'll see. We'll find out right here. That's going to do it.",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "forward error",
+      "corrected": "forward aerial",
+      "rule": "smash term (forward air)"
+    }
+  ]
+}

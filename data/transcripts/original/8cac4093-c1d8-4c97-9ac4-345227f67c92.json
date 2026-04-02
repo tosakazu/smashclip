@@ -1,0 +1,22 @@
+{
+  "id": "8cac4093-c1d8-4c97-9ac4-345227f67c92",
+  "segments": [
+    {
+      "start": 0.56,
+      "end": 2.92,
+      "text": "何を通す?ジャンプで戻ってきたい",
+      "language": "ja"
+    },
+    {
+      "start": 2.92,
+      "end": 9.96,
+      "text": "空後をジャストシールドから回避に対して",
+      "language": "ja"
+    }
+  ],
+  "full_text": "何を通す?ジャンプで戻ってきたい 空後をジャストシールドから回避に対して",
+  "detected_language": "ja",
+  "corrections": [
+    "空中シロ→空後 (back air, 空中後ろ abbreviated)"
+  ]
+}

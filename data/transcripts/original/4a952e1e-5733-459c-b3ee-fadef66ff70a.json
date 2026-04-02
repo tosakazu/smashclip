@@ -1,0 +1,21 @@
+{
+  "id": "4a952e1e-5733-459c-b3ee-fadef66ff70a",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 12.24,
+      "text": "この逃げ先を読んでいる決め空前",
+      "language": "ja"
+    }
+  ],
+  "full_text": "この逃げ先を読んでいる決め空前",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "ケシマエ",
+      "corrected": "決め空前",
+      "rule": "move abbreviation"
+    }
+  ]
+}

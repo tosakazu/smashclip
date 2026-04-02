@@ -1,0 +1,33 @@
+{
+  "id": "81d10f4d-16e9-4c6a-875f-0cd9dabb8691",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.68,
+      "text": "the down air as well this is brutal okay Ludo has to take his dog first very important right here",
+      "language": "en"
+    },
+    {
+      "start": 5.68,
+      "end": 12.22,
+      "text": "okay come on Gluto what you got oh no the down tilt startup gets beat out",
+      "language": "en"
+    }
+  ],
+  "full_text": "the down air as well this is brutal okay Ludo has to take his dog first very important right here okay come on Gluto what you got oh no the down tilt startup gets beat out",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "Ludo",
+      "corrected": "Gluto",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 1,
+      "original": "the end tilt",
+      "corrected": "the down tilt",
+      "rule": "Whisper mishearing"
+    }
+  ]
+}

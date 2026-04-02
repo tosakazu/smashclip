@@ -1,0 +1,57 @@
+{
+  "id": "d3776d8d-91e7-4315-8c46-0fe03968dcec",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.16,
+      "text": "このブロック押しのやり取りでさ",
+      "language": "ja"
+    },
+    {
+      "start": 2.16,
+      "end": 3.42,
+      "text": "常にツイークが",
+      "language": "ja"
+    },
+    {
+      "start": 3.42,
+      "end": 4.24,
+      "text": "そうなんですよ",
+      "language": "ja"
+    },
+    {
+      "start": 4.24,
+      "end": 6.68,
+      "text": "普通のブロックに対してアプローチかけ続けて",
+      "language": "ja"
+    },
+    {
+      "start": 6.68,
+      "end": 7.9,
+      "text": "出し負け",
+      "language": "ja"
+    },
+    {
+      "start": 7.9,
+      "end": 9.3,
+      "text": "全然",
+      "language": "ja"
+    }
+  ],
+  "full_text": "このブロック押しのやり取りでさ 常にツイークが そうなんですよ 普通のブロックに対してアプローチかけ続けて 出し負け 全然",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "ブロック押しをやりとりでさ",
+      "corrected": "ブロック押しのやり取りでさ",
+      "rule": "particle (を→の)"
+    },
+    {
+      "segment_idx": 4,
+      "original": "出しこけ",
+      "corrected": "出し負け",
+      "rule": "smash term (出しこけ→出し負け)"
+    }
+  ]
+}

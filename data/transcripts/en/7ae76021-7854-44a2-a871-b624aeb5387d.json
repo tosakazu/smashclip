@@ -1,0 +1,49 @@
+{
+  "id": "7ae76021-7854-44a2-a871-b624aeb5387d",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.78,
+      "text": "Everyone's holding their breath!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "誰もが息を飲む"
+    },
+    {
+      "start": 2.78,
+      "end": 4.42,
+      "text": "No way, they're going for it!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いやー狙ってくる"
+    },
+    {
+      "start": 4.42,
+      "end": 5.44,
+      "text": "Wait, this won't work!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いやこれいくんじゃない"
+    },
+    {
+      "start": 5.44,
+      "end": 7.3,
+      "text": "He hits it!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いってしまう"
+    },
+    {
+      "start": 7.3,
+      "end": 9.38,
+      "text": "Let's go!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあ"
+    }
+  ],
+  "full_text": "Everyone's holding their breath! No way, they're going for it! Wait, this won't work! He hits it! Let's go!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

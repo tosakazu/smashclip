@@ -1,0 +1,60 @@
+{
+  "id": "a71ae0a2-79df-4b10-b5c2-c7945e2513e5",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Anti-air into nair",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "対空から空中ニュートラル"
+    },
+    {
+      "start": 2.0,
+      "end": 4.0,
+      "text": "Platform forward smash off the air",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空中で動かして台上横スマッシュ"
+    },
+    {
+      "start": 4.0,
+      "end": 6.0,
+      "text": "Lands on platform first",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "台上着地を先に"
+    },
+    {
+      "start": 6.0,
+      "end": 8.0,
+      "text": "Already set up the burial",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "もう埋めるような格好"
+    },
+    {
+      "start": 8.0,
+      "end": 10.0,
+      "text": "Whiffing bair is enough",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空中後ろをすっぽ抜けて十分"
+    }
+  ],
+  "full_text": "Anti-air into nair. Platform forward smash off the air. Lands on platform first. Already set up the burial. Whiffing bair is enough.",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "original": "台上車スマッシュ",
+      "corrected": "台上横スマッシュ",
+      "reason": "横スマッシュの聞き取りミス"
+    },
+    {
+      "original": "空中車をすっぽ抜けて",
+      "corrected": "空中後ろをすっぽ抜けて",
+      "reason": "空中後ろ攻撃（back air）"
+    }
+  ]
+}

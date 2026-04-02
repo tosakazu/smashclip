@@ -1,0 +1,48 @@
+{
+  "id": "e952b610-1381-41dc-a109-dd63516c1244",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.6,
+      "text": "On the ledge",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "崖で"
+    },
+    {
+      "start": 1.6,
+      "end": 3.74,
+      "text": "Charging down B",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "腹式呼吸下B溜めて"
+    },
+    {
+      "start": 3.74,
+      "end": 8.24,
+      "text": "Now I can see the kill setups!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "もう撃墜が色々見えるぞ"
+    },
+    {
+      "start": 8.24,
+      "end": 9.68,
+      "text": "Bair!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空中後ろ"
+    }
+  ],
+  "full_text": "On the ledge Charging down B Now I can see the kill setups! Bair!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "下火溜めて",
+      "corrected": "下B溜めて",
+      "rule": "misheard: 下火→下B (WFT's deep breathing is NB but context suggests 下B)"
+    }
+  ]
+}

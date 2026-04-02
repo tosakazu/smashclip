@@ -1,0 +1,110 @@
+{
+  "id": "64cbfb30-05d2-4972-8df5-4d2b5d15f8fc",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.34,
+      "text": "Next is Rim on Min Min, trying to change the momentum, but...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "次はリム、ミェンミェン流れを変えたいが"
+    },
+    {
+      "start": 2.34,
+      "end": 4.98,
+      "text": "Buffed Dragon",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "強化ドラゴン"
+    },
+    {
+      "start": 4.98,
+      "end": 6.2,
+      "text": "Extending it out",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ドラゴン伸ばして"
+    },
+    {
+      "start": 6.2,
+      "end": 7.66,
+      "text": "One more left",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "あと鉄1個です"
+    },
+    {
+      "start": 7.66,
+      "end": 9.94,
+      "text": "Down to the last one",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "鉄が1個の状態"
+    },
+    {
+      "start": 9.94,
+      "end": 11.4,
+      "text": "How's Acola going to adapt?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "アコーラどう変える"
+    },
+    {
+      "start": 11.4,
+      "end": 12.54,
+      "text": "Recovery is...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ライン回復が"
+    },
+    {
+      "start": 12.54,
+      "end": 13.4,
+      "text": "That's clean!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "うまーい"
+    },
+    {
+      "start": 13.4,
+      "end": 15.4,
+      "text": "Gets the grab!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そこでつかめる"
+    },
+    {
+      "start": 15.4,
+      "end": 18.18,
+      "text": "And KO off the up throw!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そして上投げ撃墜"
+    },
+    {
+      "start": 18.18,
+      "end": 18.9,
+      "text": "Flawlessly done",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "抜け目なく"
+    }
+  ],
+  "full_text": "Next is Rim on Min Min, trying to change the momentum, but... Buffed Dragon Extending it out One more left Down to the last one How's Acola going to adapt? Recovery is... That's clean! Gets the grab! And KO off the up throw! Flawlessly done",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "時間でリムメンメン",
+      "corrected": "次はリム、ミェンミェン",
+      "rule": "player name + character name"
+    },
+    {
+      "segment_idx": 9,
+      "original": "上投げについ",
+      "corrected": "上投げ撃墜",
+      "rule": "Smash term (撃墜)"
+    }
+  ]
+}

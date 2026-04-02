@@ -1,0 +1,39 @@
+{
+  "id": "92ce7c85-64ee-45c9-b18e-d3d358d0d8ae",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.44,
+      "text": "失礼はしない",
+      "language": "ja"
+    },
+    {
+      "start": 0.44,
+      "end": 0.92,
+      "text": "うまい",
+      "language": "ja"
+    },
+    {
+      "start": 0.92,
+      "end": 2.7,
+      "text": "しかしそれも狩り取った",
+      "language": "ja"
+    },
+    {
+      "start": 2.7,
+      "end": 3.78,
+      "text": "お見事",
+      "language": "ja"
+    }
+  ],
+  "full_text": "失礼はしない うまい しかしそれも狩り取った お見事",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 3,
+      "original": "お味方",
+      "corrected": "お見事",
+      "rule": "misheard word (お味方→お見事)"
+    }
+  ]
+}

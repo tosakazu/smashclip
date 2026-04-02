@@ -1,0 +1,88 @@
+{
+  "id": "bd30f6d3-8935-4877-b8cd-10da9fa2f025",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.7,
+      "text": "Gets locked down, though...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "詰まりますけれども"
+    },
+    {
+      "start": 0.7,
+      "end": 3.24,
+      "text": "Man, that's tough!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いやー難しい"
+    },
+    {
+      "start": 3.24,
+      "end": 4.48,
+      "text": "Yeah, but they're edgeguarding",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "はいしかしライン詰めています"
+    },
+    {
+      "start": 4.48,
+      "end": 5.88,
+      "text": "Whoa, the grab lands!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いや掴みが通るんだ"
+    },
+    {
+      "start": 5.88,
+      "end": 7.42,
+      "text": "And the fair!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そして空中前"
+    },
+    {
+      "start": 7.42,
+      "end": 9.1,
+      "text": "Combined with that light weight...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "体重の軽さも相まって"
+    },
+    {
+      "start": 9.1,
+      "end": 11.0,
+      "text": "Once they're sent off-stage...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ひとたび外側に出れば"
+    },
+    {
+      "start": 11.0,
+      "end": 11.62,
+      "text": "Definitely cornered!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "絶対に詰め"
+    },
+    {
+      "start": 11.62,
+      "end": 12.14,
+      "text": "Man, like this...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いやこう"
+    }
+  ],
+  "full_text": "Gets locked down, though... Man, that's tough! Yeah, but they're edgeguarding Whoa, the grab lands! And the fair! Combined with that light weight... Once they're sent off-stage... Definitely cornered! Man, like this...",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "ラウンド詰めています",
+      "corrected": "ライン詰めています",
+      "rule": "Whisper error"
+    }
+  ]
+}

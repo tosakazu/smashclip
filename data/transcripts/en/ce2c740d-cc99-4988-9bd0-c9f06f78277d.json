@@ -1,0 +1,33 @@
+{
+  "id": "ce2c740d-cc99-4988-9bd0-c9f06f78277d",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 7.04,
+      "text": "Counter comes out right here!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここでカウンター見せてきました"
+    },
+    {
+      "start": 7.04,
+      "end": 10.0,
+      "text": "Would've been crazy to land the KO, but",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "撃墜までできれば最高ではありましたが"
+    },
+    {
+      "start": 11.12,
+      "end": 15.86,
+      "text": "Whiff punishing from behind",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "後ろで差し返す"
+    }
+  ],
+  "full_text": "Counter comes out right here! Would've been crazy to land the KO, but Whiff punishing from behind",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

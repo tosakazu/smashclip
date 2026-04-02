@@ -1,0 +1,45 @@
+{
+  "id": "fe1343a1-c2c6-401d-b71c-931a122010fb",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.62,
+      "text": "爆弾ですが、そこにこうしてリスクをつけて",
+      "language": "ja"
+    },
+    {
+      "start": 2.62,
+      "end": 6.92,
+      "text": "バーストイーブンです",
+      "language": "ja"
+    },
+    {
+      "start": 6.92,
+      "end": 11.04,
+      "text": "81.8%",
+      "language": "ja"
+    },
+    {
+      "start": 11.04,
+      "end": 12.7,
+      "text": "ビハインドは大きいですが",
+      "language": "ja"
+    },
+    {
+      "start": 12.7,
+      "end": 15.62,
+      "text": "先ほどもこういう状況からまくってみせた",
+      "language": "ja"
+    }
+  ],
+  "full_text": "爆弾ですが、そこにこうしてリスクをつけて バーストイーブンです 81.8% ビハインドは大きいですが 先ほどもこういう状況からまくってみせた",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "バーストスクイーブン",
+      "corrected": "バーストイーブン",
+      "rule": "misheard: スクイーブン→イーブン"
+    }
+  ]
+}

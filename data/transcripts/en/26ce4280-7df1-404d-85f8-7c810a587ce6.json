@@ -1,0 +1,49 @@
+{
+  "id": "26ce4280-7df1-404d-85f8-7c810a587ce6",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.64,
+      "text": "It connects but they react and hold shield",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "当たっちゃうんですけどもそれを反応してガード継続"
+    },
+    {
+      "start": 2.64,
+      "end": 5.34,
+      "text": "Parries even the jab!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "弱一段に対してもジャストシールド"
+    },
+    {
+      "start": 5.34,
+      "end": 9.36,
+      "text": "Perfect setup on both sides",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "万全な紫2匹の体制"
+    },
+    {
+      "start": 9.36,
+      "end": 10.82,
+      "text": "3 stocks remaining",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "残りストックは3つ"
+    },
+    {
+      "start": 10.82,
+      "end": 12.2,
+      "text": "Punishing the dash attack landing first",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "まずはDA狩りの着地"
+    }
+  ],
+  "full_text": "It connects but they react and hold shield Parries even the jab! Perfect setup on both sides 3 stocks remaining Punishing the dash attack landing first",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

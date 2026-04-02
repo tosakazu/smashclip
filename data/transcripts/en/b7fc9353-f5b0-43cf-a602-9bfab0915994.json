@@ -1,0 +1,84 @@
+{
+  "id": "b7fc9353-f5b0-43cf-a602-9bfab0915994",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.0,
+      "text": "Hit! Threatening the deep edgeguard, but Blaze End becomes a shield!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ヒット!深めの復帰阻止を匂わせましたが、ブレイズエンドが盾になる"
+    },
+    {
+      "start": 4.0,
+      "end": 6.0,
+      "text": "Dair hits the airdodge!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空中下が前回避に当たって"
+    },
+    {
+      "start": 6.0,
+      "end": 7.0,
+      "text": "Down smash!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "下スマ!"
+    },
+    {
+      "start": 7.0,
+      "end": 8.0,
+      "text": "Plants it right there!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そこばかりに刺した!"
+    },
+    {
+      "start": 8.0,
+      "end": 9.0,
+      "text": "So good!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "うーまっす!"
+    },
+    {
+      "start": 9.0,
+      "end": 10.0,
+      "text": "Dair!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空中下!"
+    },
+    {
+      "start": 10.0,
+      "end": 11.0,
+      "text": "Yes!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "クース!"
+    }
+  ],
+  "full_text": "Hit! Threatening the deep edgeguard, but Blaze End becomes a shield! Dair hits the airdodge! Down smash! Plants it right there! So good! Dair! Yes!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "藤俊",
+      "corrected": "復帰阻止",
+      "rule": "misheard word"
+    },
+    {
+      "segment_idx": 1,
+      "original": "追い立って",
+      "corrected": "当たって",
+      "rule": "misheard word"
+    },
+    {
+      "segment_idx": 2,
+      "original": "下京",
+      "corrected": "下スマ",
+      "rule": "move name"
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "id": "0e04fee5-36d9-4415-bc7d-4a779ebde9ce",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.62,
+      "text": "Spacing to shut down that approach",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "対策する 先置きで相手の出掛かりを潰して"
+    },
+    {
+      "start": 2.62,
+      "end": 4.48,
+      "text": "Taking control of the tempo on this side",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "逆にこちら側がテンポを握っていくような"
+    },
+    {
+      "start": 4.48,
+      "end": 6.64,
+      "text": "That aerial game could work too",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そんな空中戦も展開しても必要があるか"
+    },
+    {
+      "start": 6.64,
+      "end": 7.92,
+      "text": "Up's good?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "上大丈夫?"
+    },
+    {
+      "start": 9.08,
+      "end": 11.26,
+      "text": "Dash attack closes it up fast",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ダッシュ攻撃でここは一気に前を詰めます"
+    },
+    {
+      "start": 11.26,
+      "end": 12.38,
+      "text": "Chef with the forward tilt!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "シェフから横強を"
+    },
+    {
+      "start": 12.38,
+      "end": 14.14,
+      "text": "Got the ledge!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあ手に入れたこの崖"
+    },
+    {
+      "start": 14.14,
+      "end": 16.62,
+      "text": "Chef's gotta land another fair, but...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "シェフから空前をもう一回掴むしかないが"
+    },
+    {
+      "start": 16.62,
+      "end": 18.28,
+      "text": "The recovery's looking rough now",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "苦しい復帰が始まった"
+    },
+    {
+      "start": 18.28,
+      "end": 19.54,
+      "text": "Gets the first edge trap!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "一回目を狩り取って"
+    },
+    {
+      "start": 19.54,
+      "end": 21.2,
+      "text": "Still edgeguarding?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "まだ狩るか?"
+    }
+  ],
+  "full_text": "Spacing to shut down that approach Taking control of the tempo on this side That aerial game could work too Up's good? Dash attack closes it up fast Chef with the forward tilt! Got the ledge! Chef's gotta land another fair, but... The recovery's looking rough now Gets the first edge trap! Still edgeguarding?",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 5,
+      "original": "シェフから横行きを",
+      "corrected": "シェフから横強を",
+      "rule": "Kanji homophone: 横行き→横強 (side strong attack)"
+    },
+    {
+      "segment_idx": 7,
+      "original": "シェフから空中戦をもう一回掴むしかないが",
+      "corrected": "シェフから空前をもう一回掴むしかないが",
+      "rule": "Move abbreviation: 空中戦→空前 (forward air)"
+    },
+    {
+      "segment_idx": 10,
+      "original": "まだ作るか?",
+      "corrected": "まだ狩るか?",
+      "rule": "Kanji homophone: 作る→狩る (to hunt/punish)"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "id": "6889fb29-beda-4ace-a0cf-6647c4e6d5d5",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.66,
+      "text": "Forward smash confirms them offstage!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "確認から横スマッシュで外に追い出す"
+    },
+    {
+      "start": 1.66,
+      "end": 3.48,
+      "text": "The nair denies the ledge!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空N崖はつかませない"
+    },
+    {
+      "start": 3.48,
+      "end": 5.66,
+      "text": "What about the up B?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあ上Bでどうする"
+    },
+    {
+      "start": 5.66,
+      "end": 7.48,
+      "text": "Fair while they can't grab the ledge!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "崖をつかめないが空前"
+    },
+    {
+      "start": 7.48,
+      "end": 9.54,
+      "text": "And now with no jumps left...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあここはジャンプがないので"
+    }
+  ],
+  "full_text": "Forward smash confirms them offstage! The nair denies the ledge! What about the up B? Fair while they can't grab the ledge! And now with no jumps left...",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "空中ニュートラル",
+      "corrected": "空N",
+      "rule": "move abbreviation"
+    },
+    {
+      "segment_idx": 3,
+      "original": "つかめたいが空中前",
+      "corrected": "つかめないが空前",
+      "rule": "Whisper mishearing + move abbreviation"
+    }
+  ]
+}

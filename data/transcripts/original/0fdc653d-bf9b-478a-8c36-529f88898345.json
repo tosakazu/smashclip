@@ -1,0 +1,33 @@
+{
+  "id": "0fdc653d-bf9b-478a-8c36-529f88898345",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.58,
+      "text": "回避させ",
+      "language": "ja"
+    },
+    {
+      "start": 0.58,
+      "end": 3.6,
+      "text": "前出し掴んでんだけど",
+      "language": "ja"
+    },
+    {
+      "start": 3.6,
+      "end": 5.76,
+      "text": "これが空後決戦",
+      "language": "ja"
+    }
+  ],
+  "full_text": "回避させ 前出し掴んでんだけど これが空後決戦",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "これが空中白決戦",
+      "corrected": "これが空後決戦",
+      "rule": "Move abbreviation: 空中白→空後 (back air)"
+    }
+  ]
+}

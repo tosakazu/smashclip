@@ -1,0 +1,32 @@
+{
+  "id": "85aceb60-8741-40f1-b825-b224c4599a1a",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.5,
+      "text": "Back throw",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "後ろ投げ"
+    },
+    {
+      "start": 0.5,
+      "end": 7.08,
+      "text": "Side B!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これは横Bいった"
+    }
+  ],
+  "full_text": "Back throw Side B!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "これは横引いた",
+      "corrected": "これは横Bいった",
+      "rule": "move name (横引いた→横Bいった)"
+    }
+  ]
+}

@@ -1,0 +1,147 @@
+{
+  "id": "93887db6-6098-4205-b9b9-5647c8253dcb",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.88,
+      "text": "さあしかしまだリードは十分にTweek",
+      "language": "ja"
+    },
+    {
+      "start": 4.88,
+      "end": 6.04,
+      "text": "ダウンからこれどうする",
+      "language": "ja"
+    },
+    {
+      "start": 6.04,
+      "end": 7.08,
+      "text": "先ほど選択",
+      "language": "ja"
+    },
+    {
+      "start": 7.08,
+      "end": 8.14,
+      "text": "ダメージ重視",
+      "language": "ja"
+    },
+    {
+      "start": 8.14,
+      "end": 11.16,
+      "text": "そして再びかけですが",
+      "language": "ja"
+    },
+    {
+      "start": 11.16,
+      "end": 12.62,
+      "text": "前を取れた",
+      "language": "ja"
+    },
+    {
+      "start": 12.62,
+      "end": 14.5,
+      "text": "しかし暴れたTweek",
+      "language": "ja"
+    },
+    {
+      "start": 14.5,
+      "end": 16.9,
+      "text": "先に空中攻撃を当ててから",
+      "language": "ja"
+    },
+    {
+      "start": 16.9,
+      "end": 17.8,
+      "text": "ダウン",
+      "language": "ja"
+    },
+    {
+      "start": 17.8,
+      "end": 18.42,
+      "text": "今度はどうする",
+      "language": "ja"
+    },
+    {
+      "start": 18.42,
+      "end": 20.24,
+      "text": "回避を見てダブルアップ狙っているが",
+      "language": "ja"
+    },
+    {
+      "start": 20.24,
+      "end": 20.92,
+      "text": "下起きを固めて",
+      "language": "ja"
+    },
+    {
+      "start": 20.92,
+      "end": 23.84,
+      "text": "さあもう何度も食らえなくなってきた",
+      "language": "ja"
+    },
+    {
+      "start": 23.84,
+      "end": 26.28,
+      "text": "もう何でも死にますよこうなると",
+      "language": "ja"
+    },
+    {
+      "start": 26.28,
+      "end": 27.12,
+      "text": "圧倒的なアドバンスレッジ",
+      "language": "ja"
+    },
+    {
+      "start": 27.12,
+      "end": 28.56,
+      "text": "アナラを当ててフェスマッシュ",
+      "language": "ja"
+    },
+    {
+      "start": 28.56,
+      "end": 29.94,
+      "text": "ストレートで来ましたね",
+      "language": "ja"
+    },
+    {
+      "start": 29.94,
+      "end": 30.32,
+      "text": "はい",
+      "language": "ja"
+    }
+  ],
+  "full_text": "さあしかしまだリードは十分にTweek ダウンからこれどうする 先ほど選択 ダメージ重視 そして再びかけですが 前を取れた しかし暴れたTweek 先に空中攻撃を当ててから ダウン 今度はどうする 回避を見てダブルアップ狙っているが 下起きを固めて さあもう何度も食らえなくなってきた もう何でも死にますよこうなると 圧倒的なアドバンテージ バナナを当てて上スマッシュ ストレートで来ましたね はい",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "ツイク",
+      "corrected": "Tweek",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 6,
+      "original": "暴れたツイク",
+      "corrected": "暴れたTweek",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 11,
+      "original": "下気を固めて",
+      "corrected": "下起きを固めて",
+      "rule": "misheard word (下気→下起き)"
+    },
+    {
+      "segment_idx": 13,
+      "original": "圧倒的なアドバンスレッジ",
+      "corrected": "圧倒的なアドバンテージ",
+      "rule": "misheard word"
+    },
+    {
+      "segment_idx": 14,
+      "original": "アナラを当ててフェスマッシュ",
+      "corrected": "バナナを当てて上スマッシュ",
+      "rule": "misheard word + move name"
+    }
+  ]
+}

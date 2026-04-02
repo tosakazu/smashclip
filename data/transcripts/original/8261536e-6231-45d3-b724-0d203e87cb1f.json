@@ -1,0 +1,57 @@
+{
+  "id": "8261536e-6231-45d3-b724-0d203e87cb1f",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.78,
+      "text": "それでも優秀なガーキャン技であることには変わりないでしょう",
+      "language": "ja"
+    },
+    {
+      "start": 3.78,
+      "end": 5.08,
+      "text": "空中ネタル回避させて",
+      "language": "ja"
+    },
+    {
+      "start": 5.08,
+      "end": 6.72,
+      "text": "エルウィンドで復帰阻止",
+      "language": "ja"
+    },
+    {
+      "start": 6.72,
+      "end": 7.98,
+      "text": "ジャンプもないが",
+      "language": "ja"
+    },
+    {
+      "start": 7.98,
+      "end": 9.96,
+      "text": "なんとか先端で帰ってくる",
+      "language": "ja"
+    },
+    {
+      "start": 9.96,
+      "end": 10.88,
+      "text": "うまいですね",
+      "language": "ja"
+    },
+    {
+      "start": 10.88,
+      "end": 12.72,
+      "text": "しかし",
+      "language": "ja"
+    }
+  ],
+  "full_text": "それでも優秀なガーキャン技であることには変わりないでしょう 空中ネタル回避させて エルウィンドで復帰阻止 ジャンプもないが なんとか先端で帰ってくる うまいですね しかし",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "エルビンと復帰阻止",
+      "corrected": "エルウィンドで復帰阻止",
+      "rule": "character move name"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "id": "78f0cc78-0ef4-432e-a483-8a08e10fdeb9",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.04,
+      "text": "選手が投げが多いプレイヤーではあるので",
+      "language": "ja"
+    },
+    {
+      "start": 2.04,
+      "end": 4.32,
+      "text": "そこは意識されていると思いますね",
+      "language": "ja"
+    },
+    {
+      "start": 4.32,
+      "end": 5.92,
+      "text": "小戦場の台でも",
+      "language": "ja"
+    },
+    {
+      "start": 5.92,
+      "end": 7.34,
+      "text": "ストレスを与えていくなTweek",
+      "language": "ja"
+    },
+    {
+      "start": 7.34,
+      "end": 10.18,
+      "text": "ダッシュ、動きいい間合い管理だ",
+      "language": "ja"
+    },
+    {
+      "start": 10.18,
+      "end": 11.42,
+      "text": "届かない",
+      "language": "ja"
+    }
+  ],
+  "full_text": "選手が投げが多いプレイヤーではあるので そこは意識されていると思いますね 小戦場の台でも ストレスを与えていくなTweek ダッシュ、動きいい間合い管理だ 届かない",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 3,
+      "original": "ツイク",
+      "corrected": "Tweek",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 4,
+      "original": "出し動きいい前管理だ",
+      "corrected": "ダッシュ、動きいい間合い管理だ",
+      "rule": "whisper misrecognition"
+    },
+    {
+      "segment_idx": 5,
+      "original": "届くなない",
+      "corrected": "届かない",
+      "rule": "whisper misrecognition"
+    }
+  ]
+}

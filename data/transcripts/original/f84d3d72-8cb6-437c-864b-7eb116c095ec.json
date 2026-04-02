@@ -1,0 +1,75 @@
+{
+  "id": "f84d3d72-8cb6-437c-864b-7eb116c095ec",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.28,
+      "text": "nice up air conversion and this is it this is what i've been talking about you know the up air",
+      "language": "en"
+    },
+    {
+      "start": 5.28,
+      "end": 12.32,
+      "text": "conversions the up airs there's the up air sharking is everything in this match yeah and Miya can",
+      "language": "en"
+    },
+    {
+      "start": 12.32,
+      "end": 19.52,
+      "text": "deal with these offers the plumber is cooking right there 85 percent what a great back air",
+      "language": "en"
+    },
+    {
+      "start": 19.52,
+      "end": 29.84,
+      "text": "put the down air no but SuperDog has other chance right there the fair and the back air pretty good",
+      "language": "en"
+    }
+  ],
+  "full_text": "nice up air conversion and this is it this is what i've been talking about you know the up air conversions the up airs there's the up air sharking is everything in this match yeah and Miya can deal with these offers the plumber is cooking right there 85 percent what a great back air put the down air no but SuperDog has other chance right there the fair and the back air pretty good",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "uppers",
+      "corrected": "up air",
+      "rule": "smash term"
+    },
+    {
+      "segment_idx": 1,
+      "original": "uppers",
+      "corrected": "up airs",
+      "rule": "smash term"
+    },
+    {
+      "segment_idx": 1,
+      "original": "media can",
+      "corrected": "Miya can",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 2,
+      "original": "backer",
+      "corrected": "back air",
+      "rule": "smash term"
+    },
+    {
+      "segment_idx": 3,
+      "original": "downer",
+      "corrected": "down air",
+      "rule": "smash term"
+    },
+    {
+      "segment_idx": 3,
+      "original": "super dog",
+      "corrected": "SuperDog",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 3,
+      "original": "f field and the backer",
+      "corrected": "fair and the back air",
+      "rule": "smash term"
+    }
+  ]
+}

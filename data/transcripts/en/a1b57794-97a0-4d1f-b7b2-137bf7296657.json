@@ -1,0 +1,32 @@
+{
+  "id": "a1b57794-97a0-4d1f-b7b2-137bf7296657",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.64,
+      "text": "KO is tough, but yeah, once you get to 78...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "撃墜難しいけど、うん、78までくれば"
+    },
+    {
+      "start": 2.64,
+      "end": 9.2,
+      "text": "From jab you've got grabs and such, and from jab to forward smash you start seeing KO opportunities...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "弱からのマベであったりとか、弱からの横スマッシュで撃墜見えてきますよ"
+    }
+  ],
+  "full_text": "KO is tough, but yeah, once you get to 78... From jab you've got grabs and such, and from jab to forward smash you start seeing KO opportunities...",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "ジャッカラ",
+      "corrected": "弱からの",
+      "rule": "move name (jab into)"
+    }
+  ]
+}

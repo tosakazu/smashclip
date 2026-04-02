@@ -1,0 +1,33 @@
+{
+  "id": "85017fee-75ca-4ff0-a266-3551775e9a50",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.14,
+      "text": "Mmm, oh my god, that up B rescuing Game & Watch out of absolutely everything.",
+      "language": "en"
+    },
+    {
+      "start": 6.66,
+      "end": 10.34,
+      "text": "Mao struggling to find the stock and yeah, the sharking wasn't working out.",
+      "language": "en"
+    }
+  ],
+  "full_text": "Mmm, oh my god, that up B rescuing Game & Watch out of absolutely everything. Mao struggling to find the stock and yeah, the sharking wasn't working out.",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "Game of Watch",
+      "corrected": "Game & Watch",
+      "rule": "character name"
+    },
+    {
+      "segment_idx": 1,
+      "original": "Mal",
+      "corrected": "Mao",
+      "rule": "player name"
+    }
+  ]
+}

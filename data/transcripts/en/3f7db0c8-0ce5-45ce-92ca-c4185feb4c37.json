@@ -1,0 +1,52 @@
+{
+  "id": "3f7db0c8-0ce5-45ce-92ca-c4185feb4c37",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.12,
+      "text": "Already executing! Yeah, in this range they're landing those combos cleanly - up tilt into dair, bair",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "もうできてるんですね。やはりこのあたりは短い分はきっちりできてるというところか 上強から空中下、空中後ろ"
+    },
+    {
+      "start": 6.12,
+      "end": 8.04,
+      "text": "Going for the bair - whoa!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空中後ろ狙っていく あっと"
+    },
+    {
+      "start": 8.04,
+      "end": 13.5,
+      "text": "Is this an edgeguard? Or just continuing? Do they convert? Yeah, they're converting it, Pichu - I see!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これは復帰阻止か? そのまま? 完遂しきるか? 完遂しきるよね、ピチュー なるほど"
+    }
+  ],
+  "full_text": "Already executing! Yeah, in this range they're landing those combos cleanly - up tilt into dair, bair Going for the bair - whoa! Is this an edgeguard? Or just continuing? Do they convert? Yeah, they're converting it, Pichu - I see!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "上長から",
+      "corrected": "上強から",
+      "rule": "Smash term: 上強 (up tilt)"
+    },
+    {
+      "segment_idx": 2,
+      "original": "吹き阻止",
+      "corrected": "復帰阻止",
+      "rule": "Smash term: 復帰阻止 (edge guarding)"
+    },
+    {
+      "segment_idx": 2,
+      "original": "ピピチュー",
+      "corrected": "ピチュー",
+      "rule": "character name: Pichu = ピチュー"
+    }
+  ]
+}

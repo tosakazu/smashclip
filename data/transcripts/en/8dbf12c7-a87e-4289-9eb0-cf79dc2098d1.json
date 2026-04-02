@@ -1,0 +1,41 @@
+{
+  "id": "8dbf12c7-a87e-4289-9eb0-cf79dc2098d1",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.52,
+      "text": "Both players are completely locked in defensive posture",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ありましたから両者ともに待つ構えは完全に整っている"
+    },
+    {
+      "start": 5.52,
+      "end": 9.0,
+      "text": "And so this is probably the dynamics between the two",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そしてねこれがねあのおそらく両者との"
+    },
+    {
+      "start": 9.0,
+      "end": 10.5,
+      "text": "Oh, hold on!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "おっとここで"
+    },
+    {
+      "start": 10.5,
+      "end": 11.44,
+      "text": "Right here for a moment",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここでちょっと"
+    }
+  ],
+  "full_text": "Both players are completely locked in defensive posture And so this is probably the dynamics between the two Oh, hold on! Right here for a moment",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

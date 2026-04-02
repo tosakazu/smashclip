@@ -1,0 +1,38 @@
+{
+  "id": "234e1298-8d12-4765-86a3-f7bf28e11c69",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.7,
+      "text": "これはカートで削られてから動きたくなったところに空後ですね",
+      "language": "ja"
+    },
+    {
+      "start": 5.7,
+      "end": 7.0,
+      "text": "回避の癖好きだ",
+      "language": "ja"
+    },
+    {
+      "start": 7.74,
+      "end": 12.24,
+      "text": "上投げ?空上?",
+      "language": "ja"
+    },
+    {
+      "start": 13.0,
+      "end": 13.72,
+      "text": "出ました",
+      "language": "ja"
+    },
+    {
+      "start": 13.72,
+      "end": 15.52,
+      "text": "リフコン",
+      "language": "ja"
+    }
+  ],
+  "full_text": "これはカートで削られてから動きたくなったところに空後ですね 回避の癖好きだ 上投げ?空上? 出ました リフコン",
+  "detected_language": "ja",
+  "corrections": []
+}

@@ -1,0 +1,38 @@
+{
+  "id": "a168821e-0ef1-456f-bda6-966a25bce291",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.24,
+      "text": "空中前のね強靭な判定を",
+      "language": "ja"
+    },
+    {
+      "start": 4.24,
+      "end": 5.6,
+      "text": "うまく活かしたいところですが",
+      "language": "ja"
+    },
+    {
+      "start": 5.6,
+      "end": 6.62,
+      "text": "あー怖い怖い",
+      "language": "ja"
+    },
+    {
+      "start": 6.62,
+      "end": 8.02,
+      "text": "あーっと遠すぎた",
+      "language": "ja"
+    },
+    {
+      "start": 8.02,
+      "end": 9.82,
+      "text": "あっという間の2ストック目",
+      "language": "ja"
+    }
+  ],
+  "full_text": "空中前のね強靭な判定を うまく活かしたいところですが あー怖い怖い あーっと遠すぎた あっという間の2ストック目",
+  "detected_language": "ja",
+  "corrections": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "80651f63-98d2-4556-bc1a-462722a10123",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.94,
+      "text": "That's KO off the bair!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これは空中後ろで撃墜"
+    },
+    {
+      "start": 3.94,
+      "end": 8.96,
+      "text": "Techs it but keeps going",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "攻略しかしそのまま"
+    }
+  ],
+  "full_text": "That's KO off the bair! Techs it but keeps going",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

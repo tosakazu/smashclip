@@ -1,0 +1,60 @@
+{
+  "id": "d53527f5-193c-4479-886e-a9fbd75e08d0",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.64,
+      "text": "There we go! Up throw into the KO! Up throw kills even at this percent!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "きた 上投げを撃墜するんだ上投げこのパーセントでも撃墜と"
+    },
+    {
+      "start": 6.64,
+      "end": 13.88,
+      "text": "Alright, both players dead even at 5-5, game three stocks! Since it connected cleanly, tons of damage came through!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあ両者完全に5分の状況で3ストック目 ちゃんと潰れてたからいっぱい入るよ"
+    },
+    {
+      "start": 13.88,
+      "end": 20.44,
+      "text": "Big damage at 66%! The way this side B is followed up is pure MkLeo, but...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "高い火力66% このアーク(横B)の追い方はMkLeoというところですが"
+    },
+    {
+      "start": 20.44,
+      "end": 26.4,
+      "text": "That's insanely difficult! From the air, wanted to land the bair but going with the side approach instead!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "めっちゃむずい 空中ヘッダーからね空後狙いたかったんですがここは横追い"
+    }
+  ],
+  "full_text": "There we go! Up throw into the KO! Up throw kills even at this percent! Alright, both players dead even at 5-5, game three stocks! Since it connected cleanly, tons of damage came through! Big damage at 66%! The way this side B is followed up is pure MkLeo, but... That's insanely difficult! From the air, wanted to land the bair but going with the side approach instead!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "このRCAのお使いはMKローモ",
+      "corrected": "このアーク(横B)の追い方はMkLeo",
+      "rule": "player name + smash term (RCA→アーク横B, MKローモ→MkLeo)"
+    },
+    {
+      "segment_idx": 3,
+      "original": "空中シロ狙いたかった",
+      "corrected": "空後狙いたかった",
+      "rule": "smash term (空中シロ→空後)"
+    },
+    {
+      "segment_idx": 3,
+      "original": "ここは横尾",
+      "corrected": "ここは横追い",
+      "rule": "mishearing (横尾→横追い)"
+    }
+  ]
+}

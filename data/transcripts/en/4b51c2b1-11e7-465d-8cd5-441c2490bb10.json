@@ -1,0 +1,84 @@
+{
+  "id": "4b51c2b1-11e7-465d-8cd5-441c2490bb10",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "What!? Ledge skip!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "なんだと!? 崖をスキップしてくる!"
+    },
+    {
+      "start": 2.0,
+      "end": 3.6,
+      "text": "Fearless and unpredictable!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "大胆不敵 神出鬼没!"
+    },
+    {
+      "start": 3.6,
+      "end": 5.2,
+      "text": "Barely makes it back!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "なんとか戻ってきて"
+    },
+    {
+      "start": 5.2,
+      "end": 6.2,
+      "text": "That's money!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "金掘った"
+    },
+    {
+      "start": 6.2,
+      "end": 7.2,
+      "text": "Neutral getup this time!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "今度はその場上がり"
+    },
+    {
+      "start": 7.2,
+      "end": 8.3,
+      "text": "Ledge skip is working, but—",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "崖スキップが効いているが"
+    },
+    {
+      "start": 8.3,
+      "end": 10.3,
+      "text": "Forward smash!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "横スマ!"
+    }
+  ],
+  "full_text": "What!? Ledge skip! Fearless and unpredictable! Barely makes it back! That's money! Neutral getup this time! Ledge skip is working, but— Forward smash!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "進出鬼没",
+      "corrected": "神出鬼没",
+      "rule": "kanji homophone"
+    },
+    {
+      "segment_idx": 4,
+      "original": "今度はそのばかり",
+      "corrected": "今度はその場上がり",
+      "rule": "Smash terminology (その場上がり)"
+    },
+    {
+      "segment_idx": 6,
+      "original": "よっこすます",
+      "corrected": "横スマ",
+      "rule": "move abbreviation (横スマッシュ→横スマ)"
+    }
+  ]
+}

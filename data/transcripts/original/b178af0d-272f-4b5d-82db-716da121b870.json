@@ -1,0 +1,32 @@
+{
+  "id": "b178af0d-272f-4b5d-82db-716da121b870",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.54,
+      "text": "よし、ついに崖展開が始まったのか",
+      "language": "ja"
+    },
+    {
+      "start": 3.54,
+      "end": 8.9,
+      "text": "完璧だ",
+      "language": "ja"
+    },
+    {
+      "start": 8.9,
+      "end": 11.16,
+      "text": "いつまで続くんだ、この",
+      "language": "ja"
+    },
+    {
+      "start": 11.16,
+      "end": 12.56,
+      "text": "完璧",
+      "language": "ja"
+    }
+  ],
+  "full_text": "よし、ついに崖展開が始まったのか 完璧だ いつまで続くんだ、この 完璧",
+  "detected_language": "ja",
+  "corrections": []
+}

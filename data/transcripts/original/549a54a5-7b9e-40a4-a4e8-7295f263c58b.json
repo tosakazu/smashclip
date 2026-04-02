@@ -1,0 +1,44 @@
+{
+  "id": "549a54a5-7b9e-40a4-a4e8-7295f263c58b",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.24,
+      "text": "エルトラ",
+      "language": "ja"
+    },
+    {
+      "start": 1.24,
+      "end": 3.78,
+      "text": "なるほどな",
+      "language": "ja"
+    },
+    {
+      "start": 3.78,
+      "end": 6.22,
+      "text": "いやー",
+      "language": "ja"
+    },
+    {
+      "start": 6.22,
+      "end": 8.44,
+      "text": "本当に上スマッシュの通し方",
+      "language": "ja"
+    },
+    {
+      "start": 8.44,
+      "end": 9.44,
+      "text": "ひとつとっても",
+      "language": "ja"
+    },
+    {
+      "start": 9.44,
+      "end": 10.56,
+      "text": "これは",
+      "language": "ja"
+    }
+  ],
+  "full_text": "エルトラ なるほどな いやー 本当に上スマッシュの通し方 ひとつとっても これは",
+  "detected_language": "ja",
+  "corrections": []
+}

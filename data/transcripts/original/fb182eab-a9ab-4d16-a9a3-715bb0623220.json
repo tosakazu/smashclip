@@ -1,0 +1,39 @@
+{
+  "id": "fb182eab-a9ab-4d16-a9a3-715bb0623220",
+  "segments": [
+    {
+      "start": 0.8,
+      "end": 6.24,
+      "text": "崖の展開で空中後ろを当てたいところでありますがそれを分かって潜り込んでの最速風神拳",
+      "language": "ja"
+    },
+    {
+      "start": 6.24,
+      "end": 10.52,
+      "text": "本当にまずいこれは本当にあでもリベットがある",
+      "language": "ja"
+    },
+    {
+      "start": 10.52,
+      "end": 13.96,
+      "text": "なんとか助かったそしてそのまま空中後ろを",
+      "language": "ja"
+    },
+    {
+      "start": 13.96,
+      "end": 14.24,
+      "text": "カズヤ",
+      "language": "ja"
+    }
+  ],
+  "full_text": "崖の展開で空中後ろを当てたいところでありますがそれを分かって潜り込んでの最速風神拳 本当にまずいこれは本当にあでもリベットがある なんとか助かったそしてそのまま空中後ろを カズヤ",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "最速封じ意見",
+      "corrected": "最速風神拳",
+      "rule": "misheard: 封じ意見→風神拳 (Kazuya move)"
+    }
+  ]
+}

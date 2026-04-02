@@ -1,0 +1,63 @@
+{
+  "id": "52009d08-575d-4ba4-a1cb-208b7c10c19a",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.64,
+      "text": "逆に投げを食らって後ろ投げ",
+      "language": "ja"
+    },
+    {
+      "start": 1.64,
+      "end": 3.1,
+      "text": "さあ深くに行きます",
+      "language": "ja"
+    },
+    {
+      "start": 3.1,
+      "end": 6.22,
+      "text": "ピクミン投げて丸腰の状態で",
+      "language": "ja"
+    },
+    {
+      "start": 6.22,
+      "end": 7.0,
+      "text": "どう帰るか",
+      "language": "ja"
+    },
+    {
+      "start": 7.0,
+      "end": 7.86,
+      "text": "苦しい状況",
+      "language": "ja"
+    },
+    {
+      "start": 7.86,
+      "end": 13.2,
+      "text": "159まで溜めた",
+      "language": "ja"
+    },
+    {
+      "start": 13.2,
+      "end": 13.88,
+      "text": "うまいですね",
+      "language": "ja"
+    }
+  ],
+  "full_text": "逆に投げを食らって後ろ投げ さあ深くに行きます ピクミン投げて丸腰の状態で どう帰るか 苦しい状況 159まで溜めた うまいですね",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "敵に投げて",
+      "corrected": "ピクミン投げて",
+      "rule": "context: Olimar uses Pikmin"
+    },
+    {
+      "segment_idx": 3,
+      "original": "どう分かるか",
+      "corrected": "どう帰るか",
+      "rule": "misheard: 分かる→帰る (recovery context)"
+    }
+  ]
+}

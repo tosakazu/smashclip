@@ -1,0 +1,20 @@
+{
+  "id": "a61d69ff-bd57-4d78-997d-42a44d69c6b3",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.94,
+      "text": "普段だと思う 僕のそれなりにあるとかそういう感じだと",
+      "language": "ja"
+    },
+    {
+      "start": 3.94,
+      "end": 8.68,
+      "text": "持続が長いから 狙っていくみたいな",
+      "language": "ja"
+    }
+  ],
+  "full_text": "普段だと思う 僕のそれなりにあるとかそういう感じだと 持続が長いから 狙っていくみたいな",
+  "detected_language": "ja",
+  "corrections": []
+}

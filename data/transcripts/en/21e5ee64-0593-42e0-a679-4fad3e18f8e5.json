@@ -1,0 +1,65 @@
+{
+  "id": "21e5ee64-0593-42e0-a679-4fad3e18f8e5",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.04,
+      "text": "Having a KO move at this point",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "撃墜をする技を持っている時点で"
+    },
+    {
+      "start": 2.04,
+      "end": 3.88,
+      "text": "Both are still in danger",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "どちらもやはり"
+    },
+    {
+      "start": 3.88,
+      "end": 5.02,
+      "text": "Can't afford to slip",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "油断できなくなりますから"
+    },
+    {
+      "start": 5.02,
+      "end": 7.36,
+      "text": "Kept needs to finish",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "まずはこのストック中にkeptも"
+    },
+    {
+      "start": 7.36,
+      "end": 8.78,
+      "text": "This stock",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "終わらせたいところはあると思います"
+    },
+    {
+      "start": 8.78,
+      "end": 11.96,
+      "text": "And the counterattack ink is gone",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあ反撃インクがなくなって"
+    },
+    {
+      "start": 11.96,
+      "end": 12.44,
+      "text": "I see",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "なるほど"
+    }
+  ],
+  "full_text": "Having a KO move at this point Both are still in danger Can't afford to slip Kept needs to finish This stock And the counterattack ink is gone I see",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

@@ -1,0 +1,39 @@
+{
+  "id": "9763012e-85d2-4807-9ac3-ee4c8f6124d3",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.1,
+      "text": "はい、ソニック詰めてきている",
+      "language": "ja"
+    },
+    {
+      "start": 3.1,
+      "end": 4.02,
+      "text": "そして横スマッシュ",
+      "language": "ja"
+    },
+    {
+      "start": 4.02,
+      "end": 5.88,
+      "text": "今のもキャンセルのタイミングの",
+      "language": "ja"
+    },
+    {
+      "start": 5.88,
+      "end": 6.82,
+      "text": "いかによっては撃墜でしたか",
+      "language": "ja"
+    }
+  ],
+  "full_text": "はい、ソニック詰めてきている そして横スマッシュ 今のもキャンセルのタイミングの いかによっては撃墜でしたか",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 3,
+      "original": "激戦でしたか",
+      "corrected": "撃墜でしたか",
+      "rule": "kanji homophone (激戦→撃墜)"
+    }
+  ]
+}

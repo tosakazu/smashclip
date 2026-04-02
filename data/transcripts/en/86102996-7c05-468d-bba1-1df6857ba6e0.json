@@ -1,0 +1,40 @@
+{
+  "id": "86102996-7c05-468d-bba1-1df6857ba6e0",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.76,
+      "text": "Finally showed that side",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "やっとした一面"
+    },
+    {
+      "start": 0.76,
+      "end": 3.6,
+      "text": "Showing with side B",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "横Bで見せていって"
+    },
+    {
+      "start": 3.6,
+      "end": 7.16,
+      "text": "Bair is brutal",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空後がきつい"
+    }
+  ],
+  "full_text": "Finally showed that side Showing with side B Bair is brutal",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "空中ショレがきつい",
+      "corrected": "空後がきつい",
+      "rule": "move name (空中ショレ→空後)"
+    }
+  ]
+}

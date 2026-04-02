@@ -1,0 +1,20 @@
+{
+  "id": "022624b3-920a-4b69-84e5-e3a0e5190367",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.46,
+      "text": "なかなかこうゼルダね",
+      "language": "ja"
+    },
+    {
+      "start": 2.46,
+      "end": 7.32,
+      "text": "焦って追い返そうとしちゃうところもあるんですが",
+      "language": "ja"
+    }
+  ],
+  "full_text": "なかなかこうゼルダね 焦って追い返そうとしちゃうところもあるんですが",
+  "detected_language": "ja",
+  "corrections": []
+}

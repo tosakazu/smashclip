@@ -1,0 +1,69 @@
+{
+  "id": "be66c650-9ed4-4264-b703-96edf5923c80",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.2,
+      "text": "第1戦取るのはどちらになるでしょうか",
+      "language": "ja"
+    },
+    {
+      "start": 2.2,
+      "end": 3.7,
+      "text": "まず最初はね",
+      "language": "ja"
+    },
+    {
+      "start": 3.7,
+      "end": 5.14,
+      "text": "カズヒト選手のクロムが",
+      "language": "ja"
+    },
+    {
+      "start": 5.14,
+      "end": 7.94,
+      "text": "堂々の攻め上げ100%ほどの",
+      "language": "ja"
+    },
+    {
+      "start": 7.94,
+      "end": 10.26,
+      "text": "ビハインドいつ撃墜してもおかしくはない",
+      "language": "ja"
+    },
+    {
+      "start": 10.26,
+      "end": 11.78,
+      "text": "弱空後はギリギリ届かなかった",
+      "language": "ja"
+    },
+    {
+      "start": 11.78,
+      "end": 13.52,
+      "text": "このスタジアム2の横幅が広いが",
+      "language": "ja"
+    },
+    {
+      "start": 13.52,
+      "end": 14.36,
+      "text": "崖上がり",
+      "language": "ja"
+    }
+  ],
+  "full_text": "第1戦取るのはどちらになるでしょうか まず最初はね カズヒト選手のクロムが 堂々の攻め上げ100%ほどの ビハインドいつ撃墜してもおかしくはない 弱空後はギリギリ届かなかった このスタジアム2の横幅が広いが 崖上がり",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 5,
+      "original": "弱空母は",
+      "corrected": "弱空後は",
+      "rule": "smash term"
+    },
+    {
+      "segment_idx": 7,
+      "original": "駆け上がり",
+      "corrected": "崖上がり",
+      "rule": "smash term"
+    }
+  ]
+}

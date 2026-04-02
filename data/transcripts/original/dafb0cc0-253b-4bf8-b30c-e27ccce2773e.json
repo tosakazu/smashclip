@@ -1,0 +1,33 @@
+{
+  "id": "dafb0cc0-253b-4bf8-b30c-e27ccce2773e",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.82,
+      "text": "You're going crazy!",
+      "language": "en"
+    },
+    {
+      "start": 1.6,
+      "end": 4.82,
+      "text": "This is game 4, right in the flesh, this is exactly what you expect",
+      "language": "en"
+    },
+    {
+      "start": 4.82,
+      "end": 7.56,
+      "text": "But, hang on a second, Yamanaction might have something to say about this",
+      "language": "en"
+    }
+  ],
+  "full_text": "You're going crazy! This is game 4, right in the flesh, this is exactly what you expect But, hang on a second, Yamanaction might have something to say about this",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "But, hang on a second, Yemen Action might have something to say about this",
+      "corrected": "But, hang on a second, Yamanaction might have something to say about this",
+      "rule": "player name"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "id": "c0c7ef3e-c5f0-4b3b-a3a5-b1c5902eb19c",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.24,
+      "text": "If this recovery fails",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "この復帰ができなければ"
+    },
+    {
+      "start": 2.24,
+      "end": 3.58,
+      "text": "Everything changes",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "当然話が変わってくる"
+    },
+    {
+      "start": 3.58,
+      "end": 4.58,
+      "text": "Will the jab catch?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "弱を拾えるか"
+    },
+    {
+      "start": 4.58,
+      "end": 5.76,
+      "text": "DI!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ベクトルずらす"
+    },
+    {
+      "start": 5.76,
+      "end": 6.7,
+      "text": "Sideways, dangerous!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "横、危ない"
+    },
+    {
+      "start": 6.7,
+      "end": 8.74,
+      "text": "Quick bair!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空中後ろここで素早い攻撃"
+    }
+  ],
+  "full_text": "If this recovery fails Everything changes Will the jab catch? DI! Sideways, dangerous! Quick bair!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "射気を拾えるか",
+      "corrected": "弱を拾えるか",
+      "rule": "misheard word"
+    },
+    {
+      "segment_idx": 3,
+      "original": "ヘリングずらす",
+      "corrected": "ベクトルずらす",
+      "rule": "smash term"
+    },
+    {
+      "segment_idx": 4,
+      "original": "横気を危ない",
+      "corrected": "横、危ない",
+      "rule": "misheard word"
+    },
+    {
+      "segment_idx": 5,
+      "original": "空中死路",
+      "corrected": "空中後ろ",
+      "rule": "smash term"
+    }
+  ]
+}

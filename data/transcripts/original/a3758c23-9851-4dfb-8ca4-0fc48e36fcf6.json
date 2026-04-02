@@ -1,0 +1,38 @@
+{
+  "id": "a3758c23-9851-4dfb-8ca4-0fc48e36fcf6",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Great dash tech connect either. Oh, it's huge.",
+      "language": "en"
+    },
+    {
+      "start": 2.62,
+      "end": 3.06,
+      "text": "Huge!",
+      "language": "en"
+    },
+    {
+      "start": 5.34,
+      "end": 7.52,
+      "text": "Trying to swing big as Spargo with the",
+      "language": "en"
+    },
+    {
+      "start": 7.52,
+      "end": 9.46,
+      "text": "up back with the back air right at the",
+      "language": "en"
+    },
+    {
+      "start": 9.46,
+      "end": 9.9,
+      "text": "corner!",
+      "language": "en"
+    }
+  ],
+  "full_text": "Great dash tech connect either. Oh, it's huge. Huge! Trying to swing big as Spargo with the up back with the back air right at the corner!",
+  "detected_language": "en",
+  "corrections": []
+}

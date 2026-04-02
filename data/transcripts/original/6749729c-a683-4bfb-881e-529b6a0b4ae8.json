@@ -1,0 +1,45 @@
+{
+  "id": "6749729c-a683-4bfb-881e-529b6a0b4ae8",
+  "segments": [
+    {
+      "start": 0.94,
+      "end": 2.22,
+      "text": "バナナを冷静にとって",
+      "language": "ja"
+    },
+    {
+      "start": 2.22,
+      "end": 3.92,
+      "text": "次のトリガーを準備",
+      "language": "ja"
+    },
+    {
+      "start": 3.92,
+      "end": 5.76,
+      "text": "ここで反撃",
+      "language": "ja"
+    },
+    {
+      "start": 5.76,
+      "end": 7.06,
+      "text": "これは帰れないのでは",
+      "language": "ja"
+    },
+    {
+      "start": 7.06,
+      "end": 8.0,
+      "text": "いやー",
+      "language": "ja"
+    }
+  ],
+  "full_text": "バナナを冷静にとって 次のトリガーを準備 ここで反撃 これは帰れないのでは いやー",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 3,
+      "original": "変えれない",
+      "corrected": "帰れない",
+      "rule": "kanji homophone (復帰阻止 context)"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "id": "667b3973-549b-491d-94a7-24ef7780f289",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.38,
+      "text": "Lucario, you gotta know how to hold on to your stock.",
+      "language": "en"
+    },
+    {
+      "start": 2.46,
+      "end": 4.14,
+      "text": "Gachipi can do it so well.",
+      "language": "en"
+    },
+    {
+      "start": 4.4,
+      "end": 7.8,
+      "text": "Footstool down air once again, and 145% on MkLeo.",
+      "language": "en"
+    },
+    {
+      "start": 8.04,
+      "end": 8.52,
+      "text": "Ooh!",
+      "language": "en"
+    }
+  ],
+  "full_text": "Lucario, you gotta know how to hold on to your stock. Gachipi can do it so well. Footstool down air once again, and 145% on MkLeo. Ooh!",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "stocking",
+      "corrected": "stock",
+      "rule": "Smash term"
+    },
+    {
+      "segment_idx": 1,
+      "original": "Gatchapy",
+      "corrected": "Gachipi",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 2,
+      "original": "down there",
+      "corrected": "down air",
+      "rule": "Smash move term (空下)"
+    }
+  ]
+}

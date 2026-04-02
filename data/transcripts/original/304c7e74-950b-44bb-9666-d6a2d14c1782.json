@@ -1,0 +1,33 @@
+{
+  "id": "304c7e74-950b-44bb-9666-d6a2d14c1782",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 7.68,
+      "text": "Stage here, 134% on the Pyra, Mythra, back throw, not going to be enough though.",
+      "language": "en"
+    },
+    {
+      "start": 8.58,
+      "end": 10.62,
+      "text": "Ooh, the reverse, I like that from Leo.",
+      "language": "en"
+    },
+    {
+      "start": 12.0,
+      "end": 12.62,
+      "text": "The snipe though.",
+      "language": "en"
+    }
+  ],
+  "full_text": "Stage here, 134% on the Pyra, Mythra, back throw, not going to be enough though. Ooh, the reverse, I like that from Leo. The snipe though.",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "Pyran, Mithra",
+      "corrected": "Pyra, Mythra",
+      "rule": "player name"
+    }
+  ]
+}

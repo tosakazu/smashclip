@@ -1,0 +1,43 @@
+{
+  "id": "a3612f51-1972-4f45-9e0f-728721347c4b",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.28,
+      "text": "きっちり缶を自分だけガードして",
+      "language": "ja"
+    },
+    {
+      "start": 3.28,
+      "end": 4.54,
+      "text": "プリンのポイント誘って",
+      "language": "ja"
+    },
+    {
+      "start": 4.54,
+      "end": 7.1,
+      "text": "空中ニュートラルでゲッツ",
+      "language": "ja"
+    },
+    {
+      "start": 7.1,
+      "end": 8.22,
+      "text": "ここはなんとか",
+      "language": "ja"
+    }
+  ],
+  "full_text": "きっちり缶を自分だけガードして プリンのポイント誘って 空中ニュートラルでゲッツ ここはなんとか",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "original": "カン",
+      "corrected": "缶",
+      "reason": "Duck Huntの缶（NB飛び道具）"
+    },
+    {
+      "original": "クルチューディザルでゲッツィ",
+      "corrected": "空中ニュートラルでゲッツ",
+      "reason": "空Nの聞き取りミス"
+    }
+  ]
+}

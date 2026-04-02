@@ -1,0 +1,45 @@
+{
+  "id": "e2505c8e-1217-4980-887d-74b769d886a2",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.66,
+      "text": "空Nとか空上とかで締めてたんで",
+      "language": "ja"
+    },
+    {
+      "start": 4.66,
+      "end": 6.44,
+      "text": "ちゃんと崖に追い出すから",
+      "language": "ja"
+    },
+    {
+      "start": 6.44,
+      "end": 10.2,
+      "text": "終点だとワンタッチですぐに崖外に追い出されちゃうんですけど",
+      "language": "ja"
+    },
+    {
+      "start": 10.2,
+      "end": 12.34,
+      "text": "転ばすなら台をギリギリで",
+      "language": "ja"
+    },
+    {
+      "start": 12.34,
+      "end": 14.36,
+      "text": "吹き飛ばしまくる",
+      "language": "ja"
+    }
+  ],
+  "full_text": "空Nとか空上とかで締めてたんで ちゃんと崖に追い出すから 終点だとワンタッチですぐに崖外に追い出されちゃうんですけど 転ばすなら台をギリギリで 吹き飛ばしまくる",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "クーエヌとか空中ショーとか",
+      "corrected": "空Nとか空上とか",
+      "rule": "move abbreviation: 空N, 空上"
+    }
+  ]
+}

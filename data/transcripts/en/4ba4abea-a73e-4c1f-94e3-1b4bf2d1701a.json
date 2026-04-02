@@ -1,0 +1,64 @@
+{
+  "id": "4ba4abea-a73e-4c1f-94e3-1b4bf2d1701a",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.24,
+      "text": "And here are the various responses to that consistent down tilt, such a powerful move",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあ安定した下強という強力な技に対しての回答の数々"
+    },
+    {
+      "start": 5.24,
+      "end": 9.88,
+      "text": "With how this is going, it looks like even Tweek can't land easy KOs",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "こうなってくるとツイークもやはり一筋縄で撃墜は通せないか"
+    },
+    {
+      "start": 9.88,
+      "end": 11.22,
+      "text": "It connects even with DI!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ベク変しても入るんだ"
+    },
+    {
+      "start": 11.22,
+      "end": 11.66,
+      "text": "It lands!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "届く"
+    },
+    {
+      "start": 11.66,
+      "end": 13.34,
+      "text": "No way!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "マジかよ"
+    },
+    {
+      "start": 13.34,
+      "end": 13.68,
+      "text": "Wow...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ちょっと"
+    }
+  ],
+  "full_text": "And here are the various responses to that consistent down tilt, such a powerful move With how this is going, it looks like even Tweek can't land easy KOs It connects even with DI! It lands! No way! Wow...",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "変更しても入るんだ",
+      "corrected": "ベク変しても入るんだ",
+      "rule": "Smash terminology (ベクトル変更→ベク変)"
+    }
+  ]
+}

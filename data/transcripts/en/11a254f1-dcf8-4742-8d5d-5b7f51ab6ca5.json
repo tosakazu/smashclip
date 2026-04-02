@@ -1,0 +1,70 @@
+{
+  "id": "11a254f1-dcf8-4742-8d5d-5b7f51ab6ca5",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.34,
+      "text": "Here comes MTK Pit again!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあ再びMTKピットが"
+    },
+    {
+      "start": 3.34,
+      "end": 5.02,
+      "text": "Making a bold approach!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "果敢に攻めていきます"
+    },
+    {
+      "start": 5.02,
+      "end": 6.3,
+      "text": "Knocking them out!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "外に出して"
+    },
+    {
+      "start": 6.3,
+      "end": 7.68,
+      "text": "Neutral B gets in the way!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "NBが邪魔をする"
+    },
+    {
+      "start": 7.68,
+      "end": 9.28,
+      "text": "With no jumps left...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これはジャンプがないので"
+    },
+    {
+      "start": 9.28,
+      "end": 9.76,
+      "text": "Still makes the recovery!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "帰れて"
+    }
+  ],
+  "full_text": "Here comes MTK Pit again! Making a bold approach! Knocking them out! Neutral B gets in the way! With no jumps left... Still makes the recovery!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "ソードに出して",
+      "corrected": "外に出して",
+      "rule": "Whisper mishearing: ソード→外 (pushing offstage in edgeguard context)"
+    },
+    {
+      "segment_idx": 5,
+      "original": "変えて",
+      "corrected": "帰れて",
+      "rule": "Kanji homophone: 変えて→帰れて (recovered)"
+    }
+  ]
+}

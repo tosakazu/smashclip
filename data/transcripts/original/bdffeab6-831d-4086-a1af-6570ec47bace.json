@@ -1,0 +1,27 @@
+{
+  "id": "bdffeab6-831d-4086-a1af-6570ec47bace",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.12,
+      "text": "だからこその前衛のポジションという",
+      "language": "ja"
+    },
+    {
+      "start": 3.12,
+      "end": 4.54,
+      "text": "うわーしかし",
+      "language": "ja"
+    }
+  ],
+  "full_text": "だからこその前衛のポジションという うわーしかし",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "全域のポジション",
+      "corrected": "前衛のポジション",
+      "rule": "misheard word"
+    }
+  ]
+}

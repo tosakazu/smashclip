@@ -1,0 +1,126 @@
+{
+  "id": "67d55999-2ee6-4f3f-84ab-d4dc2accc807",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.76,
+      "text": "Pulling it off!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "それをやり切っている"
+    },
+    {
+      "start": 0.76,
+      "end": 1.64,
+      "text": "Look at that knockback!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあこの吹っ飛び"
+    },
+    {
+      "start": 1.64,
+      "end": 3.22,
+      "text": "Launched to the side!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "横から吹っ飛ばす"
+    },
+    {
+      "start": 3.22,
+      "end": 4.48,
+      "text": "Making it back!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "外から帰ってくる"
+    },
+    {
+      "start": 4.48,
+      "end": 5.04,
+      "text": "Ledge grab!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "崖を掴む"
+    },
+    {
+      "start": 5.04,
+      "end": 5.94,
+      "text": "Attack is solid!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "攻撃機関が大丈夫"
+    },
+    {
+      "start": 5.94,
+      "end": 7.1,
+      "text": "Out of shield right there!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここでダッシュガード"
+    },
+    {
+      "start": 7.1,
+      "end": 8.2,
+      "text": "Reading well off the back throw!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "よく見ている後ろ投げから"
+    },
+    {
+      "start": 8.2,
+      "end": 9.34,
+      "text": "Up with side B!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "横Bで打ち上げて"
+    },
+    {
+      "start": 9.34,
+      "end": 11.82,
+      "text": "What a clean up air!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いやー見せつけた空上"
+    }
+  ],
+  "full_text": "Pulling it off! Look at that knockback! Launched to the side! Making it back! Ledge grab! Attack is solid! Out of shield right there! Reading well off the back throw! Up with side B! What a clean up air!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "副主人",
+      "corrected": "吹っ飛び",
+      "rule": "misheard word"
+    },
+    {
+      "segment_idx": 2,
+      "original": "吹き出す",
+      "corrected": "吹っ飛ばす",
+      "rule": "misheard word"
+    },
+    {
+      "segment_idx": 6,
+      "original": "ダッシュカード",
+      "corrected": "ダッシュガード",
+      "rule": "misheard word"
+    },
+    {
+      "segment_idx": 7,
+      "original": "後ろだけから",
+      "corrected": "後ろ投げから",
+      "rule": "misheard word"
+    },
+    {
+      "segment_idx": 8,
+      "original": "ビジョンで",
+      "corrected": "横Bで",
+      "rule": "Fox move name (横B=Fox Illusion)"
+    },
+    {
+      "segment_idx": 9,
+      "original": "空中へ",
+      "corrected": "空上",
+      "rule": "move name"
+    }
+  ]
+}

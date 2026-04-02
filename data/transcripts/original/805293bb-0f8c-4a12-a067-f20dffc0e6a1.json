@@ -1,0 +1,26 @@
+{
+  "id": "805293bb-0f8c-4a12-a067-f20dffc0e6a1",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.26,
+      "text": "一枚",
+      "language": "ja"
+    },
+    {
+      "start": 0.26,
+      "end": 4.62,
+      "text": "互いに若干火力は抑えめ",
+      "language": "ja"
+    },
+    {
+      "start": 4.62,
+      "end": 7.0,
+      "text": "スローペースにゲームが始まりますが",
+      "language": "ja"
+    }
+  ],
+  "full_text": "一枚 互いに若干火力は抑えめ スローペースにゲームが始まりますが",
+  "detected_language": "ja",
+  "corrections": []
+}

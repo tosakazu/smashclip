@@ -1,0 +1,40 @@
+{
+  "id": "aeed93e5-26b8-4a95-8b40-8a661bf20914",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.4,
+      "text": "Ridley at 122%!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあリドルスが122%"
+    },
+    {
+      "start": 4.4,
+      "end": 6.18,
+      "text": "Up air for the KO!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空上で撃墜を取りますが"
+    },
+    {
+      "start": 6.18,
+      "end": 7.14,
+      "text": "Rage saves him!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "レイジが邪魔"
+    }
+  ],
+  "full_text": "Ridley at 122%! Up air for the KO! Rage saves him!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "クーベで撃墜を取りますが",
+      "corrected": "空上で撃墜を取りますが",
+      "rule": "move name (空上)"
+    }
+  ]
+}

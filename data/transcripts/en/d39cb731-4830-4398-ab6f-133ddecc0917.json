@@ -1,0 +1,45 @@
+{
+  "id": "d39cb731-4830-4398-ab6f-133ddecc0917",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.4,
+      "text": "But right now, Glutonny just showing us how it's done.",
+      "language": "en"
+    },
+    {
+      "start": 3.6,
+      "end": 5.5,
+      "text": "Oh, that's something else that you want to look out for,",
+      "language": "en"
+    },
+    {
+      "start": 5.6,
+      "end": 7.72,
+      "text": "especially when Glutonny wants to mix up his recovery",
+      "language": "en"
+    },
+    {
+      "start": 7.72,
+      "end": 8.84,
+      "text": "and try to bike into the stage.",
+      "language": "en"
+    }
+  ],
+  "full_text": "But right now, Glutonny just showing us how it's done. Oh, that's something else that you want to look out for, especially when Glutonny wants to mix up his recovery and try to bike into the stage.",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "Gluttony",
+      "corrected": "Glutonny",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 2,
+      "original": "Gluttony",
+      "corrected": "Glutonny",
+      "rule": "player name"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "4a954c16-1653-4cda-be71-843bf5316443",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.56,
+      "text": "一度吹っ飛ぶためのパーセントさえ確保してしまえば",
+      "language": "ja"
+    },
+    {
+      "start": 4.56,
+      "end": 7.46,
+      "text": "ある程度採掘もさらに良く回せるかというところですが",
+      "language": "ja"
+    },
+    {
+      "start": 7.46,
+      "end": 7.86,
+      "text": "これは",
+      "language": "ja"
+    },
+    {
+      "start": 7.86,
+      "end": 8.42,
+      "text": "完璧",
+      "language": "ja"
+    }
+  ],
+  "full_text": "一度吹っ飛ぶためのパーセントさえ確保してしまえば ある程度採掘もさらに良く回せるかというところですが これは 完璧",
+  "detected_language": "ja",
+  "corrections": []
+}

@@ -1,0 +1,45 @@
+{
+  "id": "36dbfdbb-c1c9-4a2f-9432-3e9fe273c937",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.94,
+      "text": "来ました 助かります",
+      "language": "ja"
+    },
+    {
+      "start": 1.94,
+      "end": 5.4,
+      "text": "あのーブロックがある先",
+      "language": "ja"
+    },
+    {
+      "start": 5.4,
+      "end": 7.84,
+      "text": "ところにトロッコ掴まるとね",
+      "language": "ja"
+    },
+    {
+      "start": 7.84,
+      "end": 8.32,
+      "text": "あ!",
+      "language": "ja"
+    },
+    {
+      "start": 9.02,
+      "end": 10.6,
+      "text": "スピンが浮いたぞ!",
+      "language": "ja"
+    }
+  ],
+  "full_text": "来ました 助かります あのーブロックがある先 ところにトロッコ掴まるとね あ! スピンが浮いたぞ!",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "トロトロ捕まるとね",
+      "corrected": "トロッコ掴まるとね",
+      "rule": "Steve move: トロッコ(minecart)"
+    }
+  ]
+}

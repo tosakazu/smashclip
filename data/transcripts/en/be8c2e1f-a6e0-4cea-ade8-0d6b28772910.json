@@ -1,0 +1,64 @@
+{
+  "id": "be8c2e1f-a6e0-4cea-ade8-0d6b28772910",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.96,
+      "text": "Won't force it",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "無理に行きませんね"
+    },
+    {
+      "start": 1.96,
+      "end": 4.02,
+      "text": "That's the 92% combo!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "捕らえたい一撃92%"
+    },
+    {
+      "start": 4.02,
+      "end": 5.78,
+      "text": "Gap's closing!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "差が縮んでくる"
+    },
+    {
+      "start": 5.78,
+      "end": 7.7,
+      "text": "Carmelo with tight spacing",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "カルメロ、ダイヤモンドを大事にしながら"
+    },
+    {
+      "start": 7.7,
+      "end": 9.18,
+      "text": "Here's the finisher!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここで倒しきる一手"
+    },
+    {
+      "start": 9.18,
+      "end": 11.18,
+      "text": "Caught back in! Caught back in!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "追いついた追いついた"
+    }
+  ],
+  "full_text": "Won't force it That's the 92% combo! Gap's closing! Carmelo with tight spacing Here's the finisher! Caught back in! Caught back in!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 3,
+      "original": "スカルメロアダイヤモンド",
+      "corrected": "カルメロ、ダイヤモンド",
+      "rule": "player name"
+    }
+  ]
+}

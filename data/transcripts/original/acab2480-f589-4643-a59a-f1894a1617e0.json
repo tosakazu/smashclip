@@ -1,0 +1,51 @@
+{
+  "id": "acab2480-f589-4643-a59a-f1894a1617e0",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.6,
+      "text": "らしくはなかった",
+      "language": "ja"
+    },
+    {
+      "start": 0.6,
+      "end": 2.96,
+      "text": "空Nスタンなんだ面白い",
+      "language": "ja"
+    },
+    {
+      "start": 2.96,
+      "end": 4.46,
+      "text": "ここはブレイザー暴れ",
+      "language": "ja"
+    },
+    {
+      "start": 4.46,
+      "end": 7.28,
+      "text": "撃墜ズラのエフェクトが見えていましたが",
+      "language": "ja"
+    },
+    {
+      "start": 7.28,
+      "end": 8.44,
+      "text": "なんとダッシュアタック",
+      "language": "ja"
+    }
+  ],
+  "full_text": "らしくはなかった 空Nスタンなんだ面白い ここはブレイザー暴れ 撃墜ズラのエフェクトが見えていましたが なんとダッシュアタック",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "空中スターなんだ面白い",
+      "corrected": "空Nスタンなんだ面白い",
+      "rule": "Move: 空中スター→空Nスタン"
+    },
+    {
+      "segment_idx": 3,
+      "original": "撃墜スラのエフェクト",
+      "corrected": "撃墜ズラのエフェクト",
+      "rule": "Smash term: スラ→ズラ(ズラし/DI)"
+    }
+  ]
+}

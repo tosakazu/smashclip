@@ -1,0 +1,45 @@
+{
+  "id": "17d1ee46-bfb5-4f0c-bca0-0af24c3f92cb",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.88,
+      "text": "to dodge into the stage and able to get safely back to ledge but now i don't think we're saying",
+      "language": "en"
+    },
+    {
+      "start": 4.88,
+      "end": 8.92,
+      "text": "oh yeah i was about to say we're not seeing as much Nikita but he's still got the traps and",
+      "language": "en"
+    },
+    {
+      "start": 8.92,
+      "end": 12.86,
+      "text": "he's going to catch him again flying across from one side of the stage to the other the kick",
+      "language": "en"
+    },
+    {
+      "start": 12.86,
+      "end": 16.8,
+      "text": "and he's still living but he's still in this advantage oh my",
+      "language": "en"
+    }
+  ],
+  "full_text": "to dodge into the stage and able to get safely back to ledge but now i don't think we're saying oh yeah i was about to say we're not seeing as much Nikita but he's still got the traps and he's going to catch him again flying across from one side of the stage to the other the kick and he's still living but he's still in this advantage oh my",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "we're not saying as much nikita",
+      "corrected": "we're not seeing as much Nikita",
+      "rule": "Garbled transcription: saying→seeing; capitalization: nikita→Nikita (Snake's guided missile)"
+    },
+    {
+      "segment_idx": 2,
+      "original": "they kick",
+      "corrected": "the kick",
+      "rule": "Garbled transcription: they→the"
+    }
+  ]
+}

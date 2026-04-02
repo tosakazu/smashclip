@@ -1,0 +1,26 @@
+{
+  "id": "6e37daeb-fb0f-436e-a375-e6fcc8f8a4bb",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.66,
+      "text": "さらに爆弾通って",
+      "language": "ja"
+    },
+    {
+      "start": 3.66,
+      "end": 6.34,
+      "text": "下必殺技で牽制します",
+      "language": "ja"
+    },
+    {
+      "start": 6.34,
+      "end": 10.16,
+      "text": "これは上スマッシュ",
+      "language": "ja"
+    }
+  ],
+  "full_text": "さらに爆弾通って 下必殺技で牽制します これは上スマッシュ",
+  "detected_language": "ja",
+  "corrections": []
+}

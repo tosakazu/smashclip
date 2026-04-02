@@ -1,0 +1,56 @@
+{
+  "id": "4e1a2187-f5c4-4085-853b-5a734122b748",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.94,
+      "text": "Doesn't have much here",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "今回あんまないんですよね"
+    },
+    {
+      "start": 0.94,
+      "end": 2.86,
+      "text": "Even in spots like that",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そうしたところも"
+    },
+    {
+      "start": 2.86,
+      "end": 3.58,
+      "text": "Spaced up air",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "当ての空上"
+    },
+    {
+      "start": 3.58,
+      "end": 3.98,
+      "text": "Whoa!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "うおー"
+    },
+    {
+      "start": 3.98,
+      "end": 4.2,
+      "text": "Oh!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "あー"
+    }
+  ],
+  "full_text": "Doesn't have much here Even in spots like that Spaced up air Whoa! Oh!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "あつてのグッチ",
+      "corrected": "当ての空上",
+      "rule": "misheard: あつてのグッチ→当ての空上"
+    }
+  ]
+}

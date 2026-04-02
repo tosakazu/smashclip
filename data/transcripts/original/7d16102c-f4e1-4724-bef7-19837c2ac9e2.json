@@ -1,0 +1,33 @@
+{
+  "id": "7d16102c-f4e1-4724-bef7-19837c2ac9e2",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.74,
+      "text": "This one will, but Spargo's doing a really good job of just dictating the tempo of the game a little bit more than Big Boss is.",
+      "language": "en"
+    },
+    {
+      "start": 6.34,
+      "end": 10.46,
+      "text": "And then the limit is back, online, and yes! Spargo is going to do it!",
+      "language": "en"
+    }
+  ],
+  "full_text": "This one will, but Spargo's doing a really good job of just dictating the tempo of the game a little bit more than Big Boss is. And then the limit is back, online, and yes! Spargo is going to do it!",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "Smargo's",
+      "corrected": "Spargo's",
+      "rule": "player name: Smargo→Spargo"
+    },
+    {
+      "segment_idx": 1,
+      "original": "Smargo",
+      "corrected": "Spargo",
+      "rule": "player name: Smargo→Spargo"
+    }
+  ]
+}

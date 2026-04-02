@@ -1,0 +1,81 @@
+{
+  "id": "51a81ed9-1a89-4251-ac73-1a4c717bb2d1",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.2,
+      "text": "He had the explosive flame forcing the airdodge",
+      "language": "en"
+    },
+    {
+      "start": 2.2,
+      "end": 4.8,
+      "text": "The Game and Watch has such a good recovery, that's really hard",
+      "language": "en"
+    },
+    {
+      "start": 4.8,
+      "end": 6.5,
+      "text": "He's just grabbing the ledge people!",
+      "language": "en"
+    },
+    {
+      "start": 6.5,
+      "end": 9.4,
+      "text": "He's just standing there menacingly, he's just waiting for the right moment to attack",
+      "language": "en"
+    },
+    {
+      "start": 9.4,
+      "end": 12.5,
+      "text": "And it worked actually, Raflow, he got the hit but sadly",
+      "language": "en"
+    },
+    {
+      "start": 12.5,
+      "end": 14.8,
+      "text": "Now the trades are looking against him",
+      "language": "en"
+    },
+    {
+      "start": 14.8,
+      "end": 18.0,
+      "text": "Going here, going deep for the back air, he was in the right spot, up B",
+      "language": "en"
+    },
+    {
+      "start": 18.0,
+      "end": 20.8,
+      "text": "I think that's it, going up high but the Kawam again",
+      "language": "en"
+    },
+    {
+      "start": 20.8,
+      "end": 22.8,
+      "text": "And that's gonna do it, the turtle",
+      "language": "en"
+    }
+  ],
+  "full_text": "He had the explosive flame forcing the airdodge The Game and Watch has such a good recovery, that's really hard He's just grabbing the ledge people! He's just standing there menacingly, he's just waiting for the right moment to attack And it worked actually, Raflow, he got the hit but sadly Now the trades are looking against him Going here, going deep for the back air, he was in the right spot, up B I think that's it, going up high but the Kawam again And that's gonna do it, the turtle",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "Game of Watch",
+      "corrected": "Game and Watch",
+      "rule": "character name"
+    },
+    {
+      "segment_idx": 4,
+      "original": "the flow",
+      "corrected": "Raflow",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 6,
+      "original": "backhand",
+      "corrected": "back air",
+      "rule": "move name"
+    }
+  ]
+}

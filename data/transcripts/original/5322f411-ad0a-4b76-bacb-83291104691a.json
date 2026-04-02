@@ -1,0 +1,87 @@
+{
+  "id": "5322f411-ad0a-4b76-bacb-83291104691a",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.86,
+      "text": "こっちをミスる",
+      "language": "ja"
+    },
+    {
+      "start": 0.86,
+      "end": 2.52,
+      "text": "今のメテオ部分じゃないんだな",
+      "language": "ja"
+    },
+    {
+      "start": 2.52,
+      "end": 4.38,
+      "text": "スピンから",
+      "language": "ja"
+    },
+    {
+      "start": 4.38,
+      "end": 5.48,
+      "text": "一気にカバー",
+      "language": "ja"
+    },
+    {
+      "start": 5.48,
+      "end": 6.28,
+      "text": "パワーダンク",
+      "language": "ja"
+    },
+    {
+      "start": 6.28,
+      "end": 7.82,
+      "text": "いやー",
+      "language": "ja"
+    },
+    {
+      "start": 7.82,
+      "end": 8.98,
+      "text": "弱弱",
+      "language": "ja"
+    },
+    {
+      "start": 8.98,
+      "end": 10.84,
+      "text": "ライジングタックルで撃墜",
+      "language": "ja"
+    },
+    {
+      "start": 10.84,
+      "end": 11.78,
+      "text": "今のむずいな",
+      "language": "ja"
+    },
+    {
+      "start": 11.78,
+      "end": 12.12,
+      "text": "しかし",
+      "language": "ja"
+    }
+  ],
+  "full_text": "こっちをミスる 今のメテオ部分じゃないんだな スピンから 一気にカバー パワーダンク いやー 弱弱 ライジングタックルで撃墜 今のむずいな しかし",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 3,
+      "original": "1位でカバリ",
+      "corrected": "一気にカバー",
+      "rule": "misheard word"
+    },
+    {
+      "segment_idx": 4,
+      "original": "ポーダンク",
+      "corrected": "パワーダンク",
+      "rule": "move name: Terry's Power Dunk"
+    },
+    {
+      "segment_idx": 6,
+      "original": "ジャクジャク",
+      "corrected": "弱弱",
+      "rule": "kanji homophone: ジャクジャク→弱弱"
+    }
+  ]
+}

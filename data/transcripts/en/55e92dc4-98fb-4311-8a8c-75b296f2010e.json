@@ -1,0 +1,27 @@
+{
+  "id": "55e92dc4-98fb-4311-8a8c-75b296f2010e",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.66,
+      "text": "to make that happen for now this is a quick little juggle and already going for that big",
+      "language": "en"
+    },
+    {
+      "start": 5.66,
+      "end": 9.56,
+      "text": "pin off stage now controlling so much of Sisqui oh my god",
+      "language": "en"
+    }
+  ],
+  "full_text": "to make that happen for now this is a quick little juggle and already going for that big pin off stage now controlling so much of Sisqui oh my god",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "ziski",
+      "corrected": "Sisqui",
+      "rule": "player name"
+    }
+  ]
+}

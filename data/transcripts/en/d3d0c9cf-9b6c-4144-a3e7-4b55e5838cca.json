@@ -1,0 +1,41 @@
+{
+  "id": "d3d0c9cf-9b6c-4144-a3e7-4b55e5838cca",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.32,
+      "text": "That read looked right though...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "今の変更はあってそうだったけど"
+    },
+    {
+      "start": 1.32,
+      "end": 1.72,
+      "text": "Yeah, it did",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そうですね"
+    },
+    {
+      "start": 1.72,
+      "end": 3.0,
+      "text": "Oh!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "おっと!"
+    },
+    {
+      "start": 3.24,
+      "end": 3.98,
+      "text": "No way!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いやー!"
+    }
+  ],
+  "full_text": "That read looked right though... Yeah, it did Oh! No way!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

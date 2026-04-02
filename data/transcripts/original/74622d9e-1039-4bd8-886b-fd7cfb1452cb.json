@@ -1,0 +1,33 @@
+{
+  "id": "74622d9e-1039-4bd8-886b-fd7cfb1452cb",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.96,
+      "text": "DAから空後を3つ",
+      "language": "ja"
+    },
+    {
+      "start": 5.96,
+      "end": 7.98,
+      "text": "そして上B巻き込んでいった",
+      "language": "ja"
+    },
+    {
+      "start": 7.98,
+      "end": 8.76,
+      "text": "これは戻れない",
+      "language": "ja"
+    }
+  ],
+  "full_text": "DAから空後を3つ そして上B巻き込んでいった これは戻れない",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "空中白",
+      "corrected": "空後",
+      "rule": "move abbreviation: 空後"
+    }
+  ]
+}

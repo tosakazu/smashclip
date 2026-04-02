@@ -1,0 +1,51 @@
+{
+  "id": "9fe3d0a6-8550-445a-8a14-01137b0398d2",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.14,
+      "text": "そうシーツで火球一発",
+      "language": "ja"
+    },
+    {
+      "start": 2.14,
+      "end": 6.7,
+      "text": "カプセルで相殺された後に残った火球が反射されて",
+      "language": "ja"
+    },
+    {
+      "start": 6.7,
+      "end": 9.8,
+      "text": "ドクターマリオは無傷というような動きでしたかね",
+      "language": "ja"
+    },
+    {
+      "start": 9.8,
+      "end": 11.56,
+      "text": "意外と火球で",
+      "language": "ja"
+    },
+    {
+      "start": 11.56,
+      "end": 13.14,
+      "text": "おっとこれは横スマッシュ",
+      "language": "ja"
+    },
+    {
+      "start": 13.14,
+      "end": 13.34,
+      "text": "いや",
+      "language": "ja"
+    }
+  ],
+  "full_text": "そうシーツで火球一発 カプセルで相殺された後に残った火球が反射されて ドクターマリオは無傷というような動きでしたかね 意外と火球で おっとこれは横スマッシュ いや",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 4,
+      "original": "ヨーズマッシュ",
+      "corrected": "横スマッシュ",
+      "rule": "move name (side smash)"
+    }
+  ]
+}

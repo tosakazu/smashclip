@@ -1,0 +1,118 @@
+{
+  "id": "9ce9dc3c-4f6d-4589-9558-d183d3efdc0d",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.78,
+      "text": "Yeah, that response to the Breath attack wasn't quite right, but",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いや今のはブレスに対して対処をちょっと間違えてしまったが"
+    },
+    {
+      "start": 2.78,
+      "end": 4.44,
+      "text": "for Hero,",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "へろー選手にとっては"
+    },
+    {
+      "start": 4.44,
+      "end": 7.3,
+      "text": "this is shaping up really nicely",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "かなりいい展開になっている"
+    },
+    {
+      "start": 7.3,
+      "end": 9.6,
+      "text": "attacking from above",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "上から攻めていく"
+    },
+    {
+      "start": 9.6,
+      "end": 11.48,
+      "text": "Hero drops the up B right here!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここぞで上Bを落とすへろー"
+    },
+    {
+      "start": 11.48,
+      "end": 13.98,
+      "text": "Hero usually goes for side B a lot, but",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "へろー選手といえば横Bがねかなり多いんですけど"
+    },
+    {
+      "start": 13.98,
+      "end": 15.08,
+      "text": "dropping the up B",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "上Bを落として"
+    },
+    {
+      "start": 15.08,
+      "end": 15.76,
+      "text": "and that's",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これは"
+    },
+    {
+      "start": 15.76,
+      "end": 16.58,
+      "text": "a KO!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "撃墜"
+    }
+  ],
+  "full_text": "Yeah, that response to the Breath attack wasn't quite right, but for Hero, this is shaping up really nicely attacking from above Hero drops the up B right here! Hero usually goes for side B a lot, but dropping the up B and that's a KO!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "対象を",
+      "corrected": "対処を",
+      "rule": "kanji homophone"
+    },
+    {
+      "segment_idx": 1,
+      "original": "ヘロー",
+      "corrected": "へろー",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 4,
+      "original": "上を落とす",
+      "corrected": "上Bを落とす",
+      "rule": "move name (Bowser up-B)"
+    },
+    {
+      "segment_idx": 5,
+      "original": "横がね",
+      "corrected": "横Bがね",
+      "rule": "move name"
+    },
+    {
+      "segment_idx": 6,
+      "original": "上を落として",
+      "corrected": "上Bを落として",
+      "rule": "move name"
+    },
+    {
+      "segment_idx": 8,
+      "original": "激",
+      "corrected": "撃墜",
+      "rule": "kanji homophone (cut off)"
+    }
+  ]
+}

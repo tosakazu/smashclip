@@ -1,0 +1,27 @@
+{
+  "id": "e120bf97-944d-4ec2-b048-3f6b052c67c4",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.8,
+      "text": "and that was like what I ain't never seen that before in my life why did it kind of get hit by",
+      "language": "en"
+    },
+    {
+      "start": 4.8,
+      "end": 9.6,
+      "text": "all that but he had DI'd the the dare so well and then he just I mean okay",
+      "language": "en"
+    }
+  ],
+  "full_text": "and that was like what I ain't never seen that before in my life why did it kind of get hit by all that but he had DI'd the the dare so well and then he just I mean okay",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "the the dare",
+      "corrected": "the the dare",
+      "rule": "no change - colloquial speech"
+    }
+  ]
+}

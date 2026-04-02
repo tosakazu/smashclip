@@ -1,0 +1,21 @@
+{
+  "id": "d350cd0a-cc12-414d-91e3-9ee3aa152d99",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 10.72,
+      "text": "So strong from Guilheww, the juggling Gluto, despite that airspeed advantage, cannot land, finally gets a bike setup in the corner, able to convert it into some damage, but cannot convert because of the reverse!",
+      "language": "en"
+    }
+  ],
+  "full_text": "So strong from Guilheww, the juggling Gluto, despite that airspeed advantage, cannot land, finally gets a bike setup in the corner, able to convert it into some damage, but cannot convert because of the reverse!",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "Gilhe",
+      "corrected": "Guilheww",
+      "rule": "player name"
+    }
+  ]
+}

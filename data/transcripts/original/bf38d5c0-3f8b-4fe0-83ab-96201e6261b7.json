@@ -1,0 +1,32 @@
+{
+  "id": "bf38d5c0-3f8b-4fe0-83ab-96201e6261b7",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.14,
+      "text": "Come on, Gluto, what you got?",
+      "language": "en"
+    },
+    {
+      "start": 1.44,
+      "end": 4.86,
+      "text": "Oh no, the F-Tilt startup gets beat out by the Dash Attack!",
+      "language": "en"
+    },
+    {
+      "start": 5.4,
+      "end": 8.3,
+      "text": "You said Gluto had to take it first, it was not meant to be.",
+      "language": "en"
+    },
+    {
+      "start": 8.38,
+      "end": 9.48,
+      "text": "Now you have to get this!",
+      "language": "en"
+    }
+  ],
+  "full_text": "Come on, Gluto, what you got? Oh no, the F-Tilt startup gets beat out by the Dash Attack! You said Gluto had to take it first, it was not meant to be. Now you have to get this!",
+  "detected_language": "en",
+  "corrections": []
+}

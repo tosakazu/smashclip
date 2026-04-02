@@ -1,0 +1,81 @@
+{
+  "id": "c9440b2e-2133-4c66-93f8-37591e9cd19b",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "それともジンジン捌ききれるか?",
+      "language": "ja"
+    },
+    {
+      "start": 2.0,
+      "end": 4.0,
+      "text": "いやぁレイジ通したいぃ",
+      "language": "ja"
+    },
+    {
+      "start": 4.0,
+      "end": 5.0,
+      "text": "どうする?",
+      "language": "ja"
+    },
+    {
+      "start": 5.0,
+      "end": 7.0,
+      "text": "ラインを詰めてるのはディージロス",
+      "language": "ja"
+    },
+    {
+      "start": 7.0,
+      "end": 8.0,
+      "text": "ラインを詰めてるのはディージロ",
+      "language": "ja"
+    },
+    {
+      "start": 8.0,
+      "end": 9.0,
+      "text": "羽根で",
+      "language": "ja"
+    },
+    {
+      "start": 9.0,
+      "end": 11.0,
+      "text": "やべぇなんでつかめるのそこ",
+      "language": "ja"
+    },
+    {
+      "start": 11.0,
+      "end": 13.0,
+      "text": "やっやっ",
+      "language": "ja"
+    },
+    {
+      "start": 13.0,
+      "end": 15.0,
+      "text": "いやぁ上手すぎるそれは",
+      "language": "ja"
+    },
+    {
+      "start": 15.0,
+      "end": 16.0,
+      "text": "上手すぎる",
+      "language": "ja"
+    }
+  ],
+  "full_text": "それともジンジン捌ききれるか? いやぁレイジ通したいぃ どうする? ラインを詰めてるのはディージロス ラインを詰めてるのはディージロ 羽根で やべぇなんでつかめるのそこ やっやっ いやぁ上手すぎるそれは 上手すぎる",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 4,
+      "original": "ディージロス",
+      "corrected": "ディージロ",
+      "rule": "player name (DJIRO)"
+    },
+    {
+      "segment_idx": 6,
+      "original": "やぜぇ",
+      "corrected": "やべぇ",
+      "rule": "mishearing (slang)"
+    }
+  ]
+}

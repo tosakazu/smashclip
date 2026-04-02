@@ -1,0 +1,66 @@
+{
+  "id": "a8364551-da67-4430-9057-d23b3731f5a2",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.78,
+      "text": "He showed us today - converting off the ground attack!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "今日見せてくれました 地上技からリターンが出る"
+    },
+    {
+      "start": 5.78,
+      "end": 8.9,
+      "text": "Nice! Not that nair - he converted it into the platform advantage state!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "うまいな今の空Nじゃなくて 風神に接続したから台上展開"
+    },
+    {
+      "start": 8.9,
+      "end": 11.06,
+      "text": "Pulled it off! I see!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "作れた なるほどね"
+    },
+    {
+      "start": 11.06,
+      "end": 13.16,
+      "text": "The up smash lands! The hold is limited-area tech chase.",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "最風が当たる上スマッシュ ホールドは限域追いです"
+    }
+  ],
+  "full_text": "He showed us today - converting off the ground attack! Nice! Not that nair - he converted it into the platform advantage state! Pulled it off! I see! The up smash lands! The hold is limited-area tech chase.",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "空中衝じゃなくて",
+      "corrected": "空Nじゃなくて",
+      "rule": "Move abbreviation: 空中衝→空N"
+    },
+    {
+      "segment_idx": 1,
+      "original": "クエヌに接続したから大上展開",
+      "corrected": "風神に接続したから台上展開",
+      "rule": "Kazuya move: クエヌ→風神; kanji: 大上→台上"
+    },
+    {
+      "segment_idx": 3,
+      "original": "財布が当たる上スマッシュ",
+      "corrected": "最風が当たる上スマッシュ",
+      "rule": "Kazuya move: 財布→最風(さいふう)"
+    },
+    {
+      "segment_idx": 3,
+      "original": "オールドは現役追いです",
+      "corrected": "ホールドは限域追いです",
+      "rule": "Smash term: オールド→ホールド; homophone: 現役→限域"
+    }
+  ]
+}

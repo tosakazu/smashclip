@@ -1,0 +1,20 @@
+{
+  "id": "0a1f495f-f485-45ab-afa9-ea356dc31087",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.68,
+      "text": "Like, YamanAction, especially in like Game 1 YamanAction, get like, this, this, DESTROYED!",
+      "language": "en"
+    },
+    {
+      "start": 6.68,
+      "end": 9.92,
+      "text": "Yeah, but the first Ion Shield though. Simple stuff from YamanAction to take...",
+      "language": "en"
+    }
+  ],
+  "full_text": "Like, YamanAction, especially in like Game 1 YamanAction, get like, this, this, DESTROYED! Yeah, but the first Ion Shield though. Simple stuff from YamanAction to take...",
+  "detected_language": "en",
+  "corrections": []
+}

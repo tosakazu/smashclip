@@ -1,0 +1,40 @@
+{
+  "id": "da327999-c023-4af6-bee1-f8430ec18f87",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.52,
+      "text": "He's got him cornered!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "追い詰めている"
+    },
+    {
+      "start": 0.52,
+      "end": 3.64,
+      "text": "Dair from above now!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "今度は真上から空中下のボロチー"
+    },
+    {
+      "start": 3.64,
+      "end": 4.5,
+      "text": "Up air connects!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空上捉えた"
+    }
+  ],
+  "full_text": "He's got him cornered! Dair from above now! Up air connects!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "空中へ捉えた",
+      "corrected": "空上捉えた",
+      "rule": "smash notation (空中へ→空上)"
+    }
+  ]
+}

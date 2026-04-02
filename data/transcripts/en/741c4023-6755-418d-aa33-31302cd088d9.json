@@ -1,0 +1,128 @@
+{
+  "id": "741c4023-6755-418d-aa33-31302cd088d9",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.6,
+      "text": "Wants to seal this!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "奪い切りたい"
+    },
+    {
+      "start": 0.6,
+      "end": 0.9,
+      "text": "Absolutely",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そうですね"
+    },
+    {
+      "start": 0.9,
+      "end": 3.66,
+      "text": "Just wants to finish without getting touched",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "触られずにこのままストック撃墜したいですね"
+    },
+    {
+      "start": 3.66,
+      "end": 4.88,
+      "text": "Complete lockdown",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "徹底拒否の姿勢だ"
+    },
+    {
+      "start": 4.88,
+      "end": 6.34,
+      "text": "Rolls with it",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そこに対してリロース"
+    },
+    {
+      "start": 6.34,
+      "end": 7.3,
+      "text": "One touch",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ワンタッチ"
+    },
+    {
+      "start": 7.3,
+      "end": 8.18,
+      "text": "Looking for the opening...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "隙を伺うが"
+    },
+    {
+      "start": 8.18,
+      "end": 8.46,
+      "text": "Not quite",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "まだ"
+    },
+    {
+      "start": 8.46,
+      "end": 9.94,
+      "text": "Fair's still working",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空中前はまだ耐えます"
+    },
+    {
+      "start": 9.94,
+      "end": 11.98,
+      "text": "Still surviving",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "まだだけど耐えてこれるんだ"
+    },
+    {
+      "start": 11.98,
+      "end": 12.42,
+      "text": "Mixing it",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "マイジング"
+    },
+    {
+      "start": 12.42,
+      "end": 13.44,
+      "text": "Opens it up",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "開けて"
+    },
+    {
+      "start": 13.44,
+      "end": 16.02,
+      "text": "Back hit for the KO!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここは後ろだけで撃墜"
+    },
+    {
+      "start": 16.02,
+      "end": 16.7,
+      "text": "Incredible composure!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "冷静ですね"
+    }
+  ],
+  "full_text": "Wants to seal this! Absolutely Just wants to finish without getting touched Complete lockdown Rolls with it One touch Looking for the opening... Not quite Fair's still working Still surviving Mixing it Opens it up Back hit for the KO! Incredible composure!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "ストップ撃墜",
+      "corrected": "ストック撃墜",
+      "rule": "smash term: ストック"
+    }
+  ]
+}

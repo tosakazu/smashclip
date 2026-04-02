@@ -1,0 +1,57 @@
+{
+  "id": "de35ea4f-12a4-44d3-88b8-34070c92ddfc",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.36,
+      "text": "しかし撃墜はあcolaさんが通してた試合内容だったと思う",
+      "language": "ja"
+    },
+    {
+      "start": 2.36,
+      "end": 3.32,
+      "text": "なるほどなるほど",
+      "language": "ja"
+    },
+    {
+      "start": 3.32,
+      "end": 4.68,
+      "text": "ここは",
+      "language": "ja"
+    },
+    {
+      "start": 4.68,
+      "end": 6.7,
+      "text": "精度自体は問題がなかったと",
+      "language": "ja"
+    },
+    {
+      "start": 6.7,
+      "end": 8.2,
+      "text": "ここで一気に",
+      "language": "ja"
+    },
+    {
+      "start": 8.2,
+      "end": 10.44,
+      "text": "もう一回来るー!",
+      "language": "ja"
+    }
+  ],
+  "full_text": "しかし撃墜はあcolaさんが通してた試合内容だったと思う なるほどなるほど ここは 精度自体は問題がなかったと ここで一気に もう一回来るー!",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "コロさん",
+      "corrected": "あcolaさん",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 3,
+      "original": "制度しは問題がなかったと",
+      "corrected": "精度自体は問題がなかったと",
+      "rule": "misheard word"
+    }
+  ]
+}

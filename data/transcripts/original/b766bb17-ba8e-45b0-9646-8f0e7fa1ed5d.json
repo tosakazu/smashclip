@@ -1,0 +1,38 @@
+{
+  "id": "b766bb17-ba8e-45b0-9646-8f0e7fa1ed5d",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.44,
+      "text": "Coming in clutch once again",
+      "language": "en"
+    },
+    {
+      "start": 1.44,
+      "end": 4.14,
+      "text": "In that, it's ready, it's gonna be terrible for Ouch",
+      "language": "en"
+    },
+    {
+      "start": 4.14,
+      "end": 6.22,
+      "text": "Okay, he gets the flash, at least puts it right away",
+      "language": "en"
+    },
+    {
+      "start": 6.22,
+      "end": 7.98,
+      "text": "But no, this is a terrible spot to be in",
+      "language": "en"
+    },
+    {
+      "start": 7.98,
+      "end": 9.22,
+      "text": "That grab is gonna work",
+      "language": "en"
+    }
+  ],
+  "full_text": "Coming in clutch once again In that, it's ready, it's gonna be terrible for Ouch Okay, he gets the flash, at least puts it right away But no, this is a terrible spot to be in That grab is gonna work",
+  "detected_language": "en",
+  "corrections": []
+}

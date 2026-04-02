@@ -1,0 +1,41 @@
+{
+  "id": "53ce46ab-934f-48db-8699-59192d364c08",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.56,
+      "text": "Out of reach!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "届かない"
+    },
+    {
+      "start": 0.56,
+      "end": 3.12,
+      "text": "First ledge!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "1回目の崖"
+    },
+    {
+      "start": 3.12,
+      "end": 4.24,
+      "text": "Insane!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "バカバカバカ"
+    },
+    {
+      "start": 4.24,
+      "end": 5.1,
+      "text": "Second ledge!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "2回目の崖"
+    }
+  ],
+  "full_text": "Out of reach! First ledge! Insane! Second ledge!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

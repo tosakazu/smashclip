@@ -1,0 +1,40 @@
+{
+  "id": "542ddcea-b76a-43a3-81da-ede8fb707c6c",
+  "segments": [
+    {
+      "start": 0.4,
+      "end": 2.72,
+      "text": "Up dodge caught by the flip!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "回避は上にはフリップで掴んで"
+    },
+    {
+      "start": 2.72,
+      "end": 6.86,
+      "text": "And another KO!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあもう一度撃墜が見えたか"
+    },
+    {
+      "start": 6.86,
+      "end": 8.76,
+      "text": "And the flip—sure enough, that's the KO!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そしてフリップさすがにこれは撃墜"
+    }
+  ],
+  "full_text": "Up dodge caught by the flip! And another KO! And the flip—sure enough, that's the KO!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "回避はアガニにはフリップで掴んで",
+      "corrected": "回避は上にはフリップで掴んで",
+      "rule": "misheard word (アガニ→上に)"
+    }
+  ]
+}

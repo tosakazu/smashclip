@@ -1,0 +1,48 @@
+{
+  "id": "b7469601-82f7-4e21-93ec-49ca371da60b",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.5,
+      "text": "Knockback and percent keep stacking!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "火力とパーセントが積み重なるか"
+    },
+    {
+      "start": 1.5,
+      "end": 3.28,
+      "text": "Going side B to counter that forward smash!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "横スマッシュに対しては横ビーで取っていく"
+    },
+    {
+      "start": 3.28,
+      "end": 6.84,
+      "text": "That's a strong finisher with solid knockback",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあ起走のパーセントが高い技"
+    },
+    {
+      "start": 6.84,
+      "end": 10.1,
+      "text": "Hmm, so heavy...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "うーん重くのしか"
+    }
+  ],
+  "full_text": "Knockback and percent keep stacking! Going side B to counter that forward smash! That's a strong finisher with solid knockback Hmm, so heavy...",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "力と",
+      "corrected": "火力と",
+      "rule": "kanji homophone"
+    }
+  ]
+}

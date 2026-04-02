@@ -1,0 +1,57 @@
+{
+  "id": "0fe9e51b-75a5-414b-9619-7fe4ef92d2e6",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.78,
+      "text": "いや、飛び道具で安全に撃墜を狙いたいが",
+      "language": "ja"
+    },
+    {
+      "start": 2.78,
+      "end": 4.08,
+      "text": "空中出力",
+      "language": "ja"
+    },
+    {
+      "start": 4.08,
+      "end": 5.62,
+      "text": "すかし投げ",
+      "language": "ja"
+    },
+    {
+      "start": 5.62,
+      "end": 7.08,
+      "text": "あまりにも冷静",
+      "language": "ja"
+    },
+    {
+      "start": 7.08,
+      "end": 8.96,
+      "text": "まくるのか",
+      "language": "ja"
+    },
+    {
+      "start": 8.96,
+      "end": 10.46,
+      "text": "電光弾に散るか",
+      "language": "ja"
+    },
+    {
+      "start": 10.46,
+      "end": 11.58,
+      "text": "まくったー",
+      "language": "ja"
+    }
+  ],
+  "full_text": "いや、飛び道具で安全に撃墜を狙いたいが 空中出力 すかし投げ あまりにも冷静 まくるのか 電光弾に散るか まくったー",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 5,
+      "original": "電光弾に撃ちるか",
+      "corrected": "電光弾に散るか",
+      "rule": "Whisper mishearing: 撃ちるか→散るか"
+    }
+  ]
+}

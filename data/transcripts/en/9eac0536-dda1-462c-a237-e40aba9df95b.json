@@ -1,0 +1,33 @@
+{
+  "id": "9eac0536-dda1-462c-a237-e40aba9df95b",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.5,
+      "text": "Steve!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "スティーブ!"
+    },
+    {
+      "start": 3.7,
+      "end": 6.7,
+      "text": "Recovering with the fair to finish!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "トロッコ、取り直して空中前飛び落としていきます"
+    },
+    {
+      "start": 6.7,
+      "end": 8.54,
+      "text": "What an incredible play!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そして、お見事!"
+    }
+  ],
+  "full_text": "Steve! Recovering with the fair to finish! What an incredible play!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

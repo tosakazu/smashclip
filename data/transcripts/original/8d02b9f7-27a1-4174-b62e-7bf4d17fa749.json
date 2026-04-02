@@ -1,0 +1,51 @@
+{
+  "id": "8d02b9f7-27a1-4174-b62e-7bf4d17fa749",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.42,
+      "text": "ダッシュアタックシールド解いてしまう",
+      "language": "ja"
+    },
+    {
+      "start": 2.42,
+      "end": 4.98,
+      "text": "さあヤウラ苦しい展開が続くが空下で",
+      "language": "ja"
+    },
+    {
+      "start": 4.98,
+      "end": 7.86,
+      "text": "PKサンダーの着地狩りを回避",
+      "language": "ja"
+    },
+    {
+      "start": 7.86,
+      "end": 9.78,
+      "text": "そしてこれも怖かったですよ",
+      "language": "ja"
+    },
+    {
+      "start": 9.78,
+      "end": 11.4,
+      "text": "そして上スマッシュガンホールド",
+      "language": "ja"
+    }
+  ],
+  "full_text": "ダッシュアタックシールド解いてしまう さあヤウラ苦しい展開が続くが空下で PKサンダーの着地狩りを回避 そしてこれも怖かったですよ そして上スマッシュガンホールド",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "矢浦",
+      "corrected": "ヤウラ",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 1,
+      "original": "空中下",
+      "corrected": "空下",
+      "rule": "move abbreviation"
+    }
+  ]
+}

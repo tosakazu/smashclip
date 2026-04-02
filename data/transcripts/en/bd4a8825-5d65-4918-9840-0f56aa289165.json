@@ -1,0 +1,72 @@
+{
+  "id": "bd4a8825-5d65-4918-9840-0f56aa289165",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.3,
+      "text": "Close enough to control the banana",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "密着でバナナも触れるような状態で"
+    },
+    {
+      "start": 2.3,
+      "end": 4.22,
+      "text": "Can they keep up the relentless pressure?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ホットリングでいじめ抜けるか"
+    },
+    {
+      "start": 4.22,
+      "end": 5.16,
+      "text": "Caught!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "引っ掛け"
+    },
+    {
+      "start": 5.16,
+      "end": 6.04,
+      "text": "getup attack",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "攻撃上がり"
+    },
+    {
+      "start": 6.04,
+      "end": 7.0,
+      "text": "Banana's still in play",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "バナナがまります"
+    },
+    {
+      "start": 7.0,
+      "end": 8.08,
+      "text": "up throw",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "上投げ"
+    },
+    {
+      "start": 8.08,
+      "end": 10.76,
+      "text": "And Dragon's firing up!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあドラゴンが強化されています"
+    }
+  ],
+  "full_text": "Close enough to control the banana Can they keep up the relentless pressure? Caught! getup attack Banana's still in play up throw And Dragon's firing up!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 3,
+      "original": "攻撃を引き上がり",
+      "corrected": "攻撃上がり",
+      "rule": "Whisper error"
+    }
+  ]
+}

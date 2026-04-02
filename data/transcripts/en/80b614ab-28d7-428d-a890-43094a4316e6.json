@@ -1,0 +1,56 @@
+{
+  "id": "80b614ab-28d7-428d-a890-43094a4316e6",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.66,
+      "text": "The will to fight back",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "反抗への意志"
+    },
+    {
+      "start": 3.66,
+      "end": 4.88,
+      "text": "Can't let it break",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "途切れさせてはいけない"
+    },
+    {
+      "start": 4.88,
+      "end": 7.96,
+      "text": "Acola going for the win!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "試合を決めに来るアコーラ"
+    },
+    {
+      "start": 7.96,
+      "end": 9.64,
+      "text": "Bair connects!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空後が刺さって"
+    },
+    {
+      "start": 9.64,
+      "end": 10.26,
+      "text": "Got it!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ゲット"
+    }
+  ],
+  "full_text": "The will to fight back Can't let it break Acola going for the win! Bair connects! Got it!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 3,
+      "original": "空白が刺さって",
+      "corrected": "空後が刺さって",
+      "rule": "move name homophone"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "id": "bd75ea21-0cf8-4d64-9648-5a5c9b521fd2",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.0,
+      "text": "And uh, we are going to even it out. 0-0.",
+      "language": "en"
+    },
+    {
+      "start": 5.0,
+      "end": 9.0,
+      "text": "That's some big damage though, from acola.",
+      "language": "en"
+    },
+    {
+      "start": 11.0,
+      "end": 13.0,
+      "text": "I don't know.",
+      "language": "en"
+    },
+    {
+      "start": 13.0,
+      "end": 17.0,
+      "text": "I don't know what's happening, all the games are switched and they don't know where I am, it's so hard.",
+      "language": "en"
+    },
+    {
+      "start": 17.0,
+      "end": 20.0,
+      "text": "I don't know, we got a super caster, how can you guys do this to me?",
+      "language": "en"
+    },
+    {
+      "start": 20.0,
+      "end": 22.0,
+      "text": "I feel like...",
+      "language": "en"
+    }
+  ],
+  "full_text": "And uh, we are going to even it out. 0-0. That's some big damage though, from acola. I don't know. I don't know what's happening, all the games are switched and they don't know where I am, it's so hard. I don't know, we got a super caster, how can you guys do this to me? I feel like...",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "Akula",
+      "corrected": "acola",
+      "rule": "player name"
+    }
+  ]
+}

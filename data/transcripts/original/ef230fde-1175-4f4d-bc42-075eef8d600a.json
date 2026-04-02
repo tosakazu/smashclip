@@ -1,0 +1,33 @@
+{
+  "id": "ef230fde-1175-4f4d-bc42-075eef8d600a",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 7.32,
+      "text": "ブーバーブー落とし目で繋がらなかった本当に良かった 空前Nを上げている",
+      "language": "ja"
+    },
+    {
+      "start": 7.32,
+      "end": 12.6,
+      "text": "いろいろサイクチェンジしろー見事はお見事で",
+      "language": "ja"
+    }
+  ],
+  "full_text": "ブーバーブー落とし目で繋がらなかった本当に良かった 空前Nを上げている いろいろサイクチェンジしろー見事はお見事で",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "空前にを上げている",
+      "corrected": "空前Nを上げている",
+      "rule": "misheard"
+    },
+    {
+      "segment_idx": 1,
+      "original": "サイクチェンシロー見事",
+      "corrected": "サイクチェンジしろー見事",
+      "rule": "misheard"
+    }
+  ]
+}

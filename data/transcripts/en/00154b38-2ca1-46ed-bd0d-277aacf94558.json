@@ -1,0 +1,64 @@
+{
+  "id": "00154b38-2ca1-46ed-bd0d-277aacf94558",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.72,
+      "text": "This match could end right here with these two!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "試合が終わってもおかしくないぞこの2名"
+    },
+    {
+      "start": 1.72,
+      "end": 3.96,
+      "text": "Off the nair...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空Nから"
+    },
+    {
+      "start": 3.96,
+      "end": 5.4,
+      "text": "That's a clean DI away!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これはきっちり外変更"
+    },
+    {
+      "start": 5.4,
+      "end": 8.9,
+      "text": "But they gotta recover with the bomb",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "しかし爆弾で復帰をしないといけないところ"
+    },
+    {
+      "start": 8.9,
+      "end": 12.02,
+      "text": "I see",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "なるほどね"
+    },
+    {
+      "start": 12.02,
+      "end": 12.38,
+      "text": "Oh!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "あ"
+    }
+  ],
+  "full_text": "This match could end right here with these two! Off the nair... That's a clean DI away! But they gotta recover with the bomb I see Oh!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "クエヌから",
+      "corrected": "空Nから",
+      "rule": "static_jp"
+    }
+  ]
+}

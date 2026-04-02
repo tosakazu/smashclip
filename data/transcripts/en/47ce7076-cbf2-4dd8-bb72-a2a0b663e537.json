@@ -1,0 +1,32 @@
+{
+  "id": "47ce7076-cbf2-4dd8-bb72-a2a0b663e537",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.08,
+      "text": "Like, I will never take the piss out of your character again, but...",
+      "language": "en"
+    },
+    {
+      "start": 3.08,
+      "end": 3.54,
+      "text": "Sorry, Gary.",
+      "language": "en"
+    },
+    {
+      "start": 3.92,
+      "end": 5.04,
+      "text": "What a fantastic start.",
+      "language": "en"
+    },
+    {
+      "start": 5.32,
+      "end": 6.28,
+      "text": "Did you know that, uh, Tass...",
+      "language": "en"
+    }
+  ],
+  "full_text": "Like, I will never take the piss out of your character again, but... Sorry, Gary. What a fantastic start. Did you know that, uh, Tass...",
+  "detected_language": "en",
+  "corrections": []
+}

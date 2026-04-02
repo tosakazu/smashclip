@@ -1,0 +1,54 @@
+{
+  "id": "d1ddf51f-45da-40c4-9e78-3cfeb8625d83",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.18,
+      "text": "Just that and we're at 50%!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "かかるだけでなんか50%"
+    },
+    {
+      "start": 2.18,
+      "end": 4.16,
+      "text": "Forward smash does 20%!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "横スマを単発20%"
+    },
+    {
+      "start": 4.16,
+      "end": 5.96,
+      "text": "Next thing you know, 80%!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "気づけば80%"
+    },
+    {
+      "start": 5.96,
+      "end": 7.32,
+      "text": "And then down smash!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そして下スマ"
+    }
+  ],
+  "full_text": "Just that and we're at 50%! Forward smash does 20%! Next thing you know, 80%! And then down smash!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "横スマー",
+      "corrected": "横スマ",
+      "rule": "smash term normalization"
+    },
+    {
+      "segment_idx": 3,
+      "original": "下スマー",
+      "corrected": "下スマ",
+      "rule": "smash term normalization"
+    }
+  ]
+}

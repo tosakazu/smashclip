@@ -1,0 +1,62 @@
+{
+  "id": "8d02b9f7-27a1-4174-b62e-7bf4d17fa749",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.42,
+      "text": "Dash attack breaks the shield!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ダッシュアタックシールド解いてしまう"
+    },
+    {
+      "start": 2.42,
+      "end": 4.98,
+      "text": "Yoyo's in a rough spot but goes for the dair!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあヤウラ苦しい展開が続くが空下で"
+    },
+    {
+      "start": 4.98,
+      "end": 7.86,
+      "text": "Avoids the PK Thunder juggle!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "PKサンダーの着地狩りを回避"
+    },
+    {
+      "start": 7.86,
+      "end": 9.78,
+      "text": "That was scary!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そしてこれも怖かったですよ"
+    },
+    {
+      "start": 9.78,
+      "end": 11.4,
+      "text": "And up smash holds!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そして上スマッシュガンホールド"
+    }
+  ],
+  "full_text": "Dash attack breaks the shield! Yoyo's in a rough spot but goes for the dair! Avoids the PK Thunder juggle! That was scary! And up smash holds!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "矢浦",
+      "corrected": "ヤウラ",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 1,
+      "original": "空中下",
+      "corrected": "空下",
+      "rule": "move abbreviation"
+    }
+  ]
+}

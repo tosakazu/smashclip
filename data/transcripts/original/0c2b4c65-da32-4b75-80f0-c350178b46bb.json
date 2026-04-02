@@ -1,0 +1,32 @@
+{
+  "id": "0c2b4c65-da32-4b75-80f0-c350178b46bb",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.92,
+      "text": "外に追い出してラインを確保して",
+      "language": "ja"
+    },
+    {
+      "start": 1.92,
+      "end": 3.76,
+      "text": "このラインで押し上げたいが",
+      "language": "ja"
+    },
+    {
+      "start": 3.76,
+      "end": 6.08,
+      "text": "コリンクの上スマッシュ",
+      "language": "ja"
+    },
+    {
+      "start": 6.08,
+      "end": 8.66,
+      "text": "置きたかった安定の下りの攻撃に対して",
+      "language": "ja"
+    }
+  ],
+  "full_text": "外に追い出してラインを確保して このラインで押し上げたいが コリンクの上スマッシュ 置きたかった安定の下りの攻撃に対して",
+  "detected_language": "ja",
+  "corrections": []
+}

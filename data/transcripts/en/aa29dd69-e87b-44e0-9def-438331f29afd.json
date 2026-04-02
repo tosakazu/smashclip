@@ -1,0 +1,33 @@
+{
+  "id": "aa29dd69-e87b-44e0-9def-438331f29afd",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.7,
+      "text": "Shutting down that judges' decision gameplan this season",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "判定で勝ちたいというようなところを潰していくこの冬"
+    },
+    {
+      "start": 2.7,
+      "end": 5.7,
+      "text": "That's sick! Won't see that twice",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "うまい!2回は見ると思わん"
+    },
+    {
+      "start": 5.7,
+      "end": 8.0,
+      "text": "Got covered up midway through though",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "また途中でしたが埋まってしまって"
+    }
+  ],
+  "full_text": "Shutting down that judges' decision gameplan this season That's sick! Won't see that twice Got covered up midway through though",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

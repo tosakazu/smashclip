@@ -1,0 +1,51 @@
+{
+  "id": "c0ba3875-0d58-4f34-b43c-7ae939601244",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.24,
+      "text": "こんなとこが後出し",
+      "language": "ja"
+    },
+    {
+      "start": 2.24,
+      "end": 4.74,
+      "text": "空中下から空中ニュートラル",
+      "language": "ja"
+    },
+    {
+      "start": 4.74,
+      "end": 6.78,
+      "text": "台の上面ここで",
+      "language": "ja"
+    },
+    {
+      "start": 6.78,
+      "end": 7.72,
+      "text": "うまいよ",
+      "language": "ja"
+    },
+    {
+      "start": 7.72,
+      "end": 9.08,
+      "text": "ビタで避ける",
+      "language": "ja"
+    },
+    {
+      "start": 9.08,
+      "end": 10.54,
+      "text": "スマッシュ",
+      "language": "ja"
+    }
+  ],
+  "full_text": "こんなとこが後出し 空中下から空中ニュートラル 台の上面ここで うまいよ ビタで避ける スマッシュ",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "2人の面",
+      "corrected": "台の上面",
+      "rule": "misheard phrase"
+    }
+  ]
+}

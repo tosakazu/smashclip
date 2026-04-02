@@ -1,0 +1,48 @@
+{
+  "id": "51625f3c-1113-4e3e-a39e-b78fc49131c4",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.8,
+      "text": "So Meta Knight recovers well from above this time,",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあメタラがうまく今度は上から帰ってくることで"
+    },
+    {
+      "start": 2.8,
+      "end": 4.4,
+      "text": "mixing it up in neutral,",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "読み合いを回していって"
+    },
+    {
+      "start": 4.4,
+      "end": 6.14,
+      "text": "Arsene comes in but—",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "アルセーヌが来たが"
+    },
+    {
+      "start": 6.14,
+      "end": 7.48,
+      "text": "up smash again!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "上スマッシュ再び"
+    }
+  ],
+  "full_text": "So Meta Knight recovers well from above this time, mixing it up in neutral, Arsene comes in but— up smash again!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "ベタラガー",
+      "corrected": "メタラ",
+      "rule": "player name: めたら/Metara"
+    }
+  ]
+}

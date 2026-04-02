@@ -1,0 +1,49 @@
+{
+  "id": "7fa6ca27-fcf5-4418-a25a-9f74220e725f",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.74,
+      "text": "Way too good!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "うますぎー"
+    },
+    {
+      "start": 1.74,
+      "end": 3.06,
+      "text": "Into the air",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "おり空中へ"
+    },
+    {
+      "start": 3.06,
+      "end": 4.64,
+      "text": "Catches the sourspot of the spin",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "スピンの足元を拾う"
+    },
+    {
+      "start": 4.64,
+      "end": 7.68,
+      "text": "Forward tilt the other way!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "反対側に横強出ちゃった"
+    },
+    {
+      "start": 7.68,
+      "end": 8.4,
+      "text": "Power!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "パワー"
+    }
+  ],
+  "full_text": "Way too good! Into the air Catches the sourspot of the spin Forward tilt the other way! Power!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

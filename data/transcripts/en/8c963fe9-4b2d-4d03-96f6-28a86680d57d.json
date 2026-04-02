@@ -1,0 +1,57 @@
+{
+  "id": "8c963fe9-4b2d-4d03-96f6-28a86680d57d",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.58,
+      "text": "It was a mixup at grab-range, but...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "チャージショットかつかみかの距離で読み合いでしたが"
+    },
+    {
+      "start": 2.58,
+      "end": 4.0,
+      "text": "Here, they're taking the mixup game",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここはスマホが読み合い制していく"
+    },
+    {
+      "start": 4.0,
+      "end": 6.06,
+      "text": "PK Fire into a nair",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "PKファイヤーから空中ニュートラル"
+    },
+    {
+      "start": 6.06,
+      "end": 8.14,
+      "text": "Spacing still holds, no KO yet",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ラインがあるのでまだ撃墜はしない"
+    },
+    {
+      "start": 8.14,
+      "end": 10.18,
+      "text": "Both trading forward airs",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空中前の壁お互い張り合って"
+    },
+    {
+      "start": 10.18,
+      "end": 11.42,
+      "text": "But there comes the up smash!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "だがここは上スマッシュ"
+    }
+  ],
+  "full_text": "It was a mixup at grab-range, but... Here, they're taking the mixup game. PK Fire into a nair. Spacing still holds, no KO yet. Both trading forward airs. But there comes the up smash!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

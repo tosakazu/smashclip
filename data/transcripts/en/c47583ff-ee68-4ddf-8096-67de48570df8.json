@@ -1,0 +1,86 @@
+{
+  "id": "c47583ff-ee68-4ddf-8096-67de48570df8",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.36,
+      "text": "Punished with the special!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "必殺技で差し返した"
+    },
+    {
+      "start": 1.36,
+      "end": 2.56,
+      "text": "Still not a KO",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "まだ撃墜しない"
+    },
+    {
+      "start": 2.56,
+      "end": 3.26,
+      "text": "Good spacing",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ラインがあった"
+    },
+    {
+      "start": 3.26,
+      "end": 5.38,
+      "text": "Pokemon Stadium 2 is gonna be a problem too",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ポケモンスタジアム2も悪さをしそうだ"
+    },
+    {
+      "start": 5.38,
+      "end": 7.64,
+      "text": "What's happening with this ledge?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そしてこの崖どうなる"
+    },
+    {
+      "start": 7.64,
+      "end": 8.56,
+      "text": "Coming back from above",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "上から帰ってきます"
+    },
+    {
+      "start": 8.56,
+      "end": 11.36,
+      "text": "Can't grab the ledge!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "あっと崖を掴むことができない"
+    },
+    {
+      "start": 11.36,
+      "end": 13.28,
+      "text": "Te-sHi's Samus pressure!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "Te-sHiサムスの圧"
+    }
+  ],
+  "full_text": "Punished with the special! Still not a KO Good spacing Pokemon Stadium 2 is gonna be a problem too What's happening with this ledge? Coming back from above Can't grab the ledge! Te-sHi's Samus pressure!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 3,
+      "original": "悪さを知りそうだ",
+      "corrected": "悪さをしそうだ",
+      "rule": "misheard word"
+    },
+    {
+      "segment_idx": 7,
+      "original": "テシサウス",
+      "corrected": "Te-sHiサムス",
+      "rule": "player name + character"
+    }
+  ]
+}

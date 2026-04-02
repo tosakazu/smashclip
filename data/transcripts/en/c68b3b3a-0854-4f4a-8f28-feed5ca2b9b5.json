@@ -1,0 +1,44 @@
+{
+  "id": "c68b3b3a-0854-4f4a-8f28-feed5ca2b9b5",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.3,
+      "text": "Could've controlled spacing better there—oops, they got through!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ステージの内側をとっているなどカバーリードが入れてもよかったおっとなんか漏れちゃって"
+    },
+    {
+      "start": 5.3,
+      "end": 10.6,
+      "text": "Out of range!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これでは届きません"
+    }
+  ],
+  "full_text": "Could've controlled spacing better there—oops, they got through! Out of range!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "政治",
+      "corrected": "ステージ",
+      "rule": "misheard word"
+    },
+    {
+      "segment_idx": 0,
+      "original": "がいられても",
+      "corrected": "が入れても",
+      "rule": "misheard word"
+    },
+    {
+      "segment_idx": 1,
+      "original": "パパでては",
+      "corrected": "これでは",
+      "rule": "misheard word"
+    }
+  ]
+}

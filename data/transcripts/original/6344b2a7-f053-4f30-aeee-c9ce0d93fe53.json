@@ -1,0 +1,26 @@
+{
+  "id": "6344b2a7-f053-4f30-aeee-c9ce0d93fe53",
+  "segments": [
+    {
+      "start": 0.32,
+      "end": 4.32,
+      "text": "this is the part as the fox player where you're just like sweating",
+      "language": "en"
+    },
+    {
+      "start": 4.32,
+      "end": 6.96,
+      "text": "heavily because you know it takes oh",
+      "language": "en"
+    },
+    {
+      "start": 12.56,
+      "end": 15.92,
+      "text": "that was literally it's like literally",
+      "language": "en"
+    }
+  ],
+  "full_text": "this is the part as the fox player where you're just like sweating heavily because you know it takes oh that was literally it's like literally",
+  "detected_language": "en",
+  "corrections": []
+}

@@ -1,0 +1,40 @@
+{
+  "id": "12d9defa-97a3-4ea8-acf5-6f04244ac0cc",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.3,
+      "text": "I can see the KO for Bapt'IceTea's Doctor Mario!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "撃墜が見えているなぁBapt'IceTeaのドクターマリオ側"
+    },
+    {
+      "start": 2.3,
+      "end": 3.24,
+      "text": "Just a little bit here",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここは少しだけ"
+    },
+    {
+      "start": 3.24,
+      "end": 4.28,
+      "text": "Stock up",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ストックアップ"
+    }
+  ],
+  "full_text": "I can see the KO for Bapt'IceTea's Doctor Mario! Just a little bit here Stock up",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "激震が見えているなぁバクダイシーのツアーマリオ側",
+      "corrected": "撃墜が見えているなぁBapt'IceTeaのドクターマリオ側",
+      "rule": "Kanji homophone: 激震→撃墜; Player name: バクダイシー→Bapt'IceTea; ツアーマリオ→ドクターマリオ"
+    }
+  ]
+}

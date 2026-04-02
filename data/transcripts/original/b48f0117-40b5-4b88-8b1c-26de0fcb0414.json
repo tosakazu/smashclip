@@ -1,0 +1,81 @@
+{
+  "id": "b48f0117-40b5-4b88-8b1c-26de0fcb0414",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.06,
+      "text": "崖を背負わせるなおちゃの崖が続く",
+      "language": "ja"
+    },
+    {
+      "start": 2.06,
+      "end": 3.92,
+      "text": "バナナも置いてあって自動でこける",
+      "language": "ja"
+    },
+    {
+      "start": 3.92,
+      "end": 5.82,
+      "text": "再び下に投げて",
+      "language": "ja"
+    },
+    {
+      "start": 5.82,
+      "end": 7.24,
+      "text": "空中後ろギリ当たらない",
+      "language": "ja"
+    },
+    {
+      "start": 7.24,
+      "end": 10.24,
+      "text": "なるほどマイルドなH.O選手の空中後ろ暴れが",
+      "language": "ja"
+    },
+    {
+      "start": 10.24,
+      "end": 11.04,
+      "text": "うまく通った形",
+      "language": "ja"
+    },
+    {
+      "start": 11.04,
+      "end": 14.1,
+      "text": "上強で拾い上げるまだ崖上展開が続く",
+      "language": "ja"
+    },
+    {
+      "start": 14.1,
+      "end": 15.66,
+      "text": "これは?え?え?",
+      "language": "ja"
+    },
+    {
+      "start": 16.12,
+      "end": 16.38,
+      "text": "はい?",
+      "language": "ja"
+    },
+    {
+      "start": 17.6,
+      "end": 18.48,
+      "text": "下必殺技で",
+      "language": "ja"
+    }
+  ],
+  "full_text": "崖を背負わせるなおちゃの崖が続く バナナも置いてあって自動でこける 再び下に投げて 空中後ろギリ当たらない なるほどマイルドなH.O選手の空中後ろ暴れが うまく通った形 上強で拾い上げるまだ崖上展開が続く これは?え?え? はい? 下必殺技で",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "ナオチョの崖",
+      "corrected": "なおちゃの崖",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 4,
+      "original": "マイルドのエイチョウ選手",
+      "corrected": "マイルドなH.O選手",
+      "rule": "player name"
+    }
+  ]
+}

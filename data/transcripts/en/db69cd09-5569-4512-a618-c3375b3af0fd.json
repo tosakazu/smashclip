@@ -1,0 +1,62 @@
+{
+  "id": "db69cd09-5569-4512-a618-c3375b3af0fd",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.52,
+      "text": "That's a solid percent now!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これはいいパーセントになりましたよ"
+    },
+    {
+      "start": 5.52,
+      "end": 6.82,
+      "text": "Getting close, getting close!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "差し掛かった差し掛かった"
+    },
+    {
+      "start": 6.82,
+      "end": 10.4,
+      "text": "With Acola's combo accuracy, they can seal the stock from here!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "アコラのコンボ精度ならここから撃墜を持っていける"
+    },
+    {
+      "start": 10.4,
+      "end": 11.82,
+      "text": "Still got stock left!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "残ってますじゃん"
+    },
+    {
+      "start": 11.82,
+      "end": 12.82,
+      "text": "Launched up!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "打ち上がり"
+    }
+  ],
+  "full_text": "That's a solid percent now! Getting close, getting close! With Acola's combo accuracy, they can seal the stock from here! Still got stock left! Launched up!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "アコーラのコンボ精度ならここから決定を持たせる",
+      "corrected": "アコラのコンボ精度ならここから撃墜を持っていける",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 4,
+      "original": "うちがり",
+      "corrected": "打ち上がり",
+      "rule": "whisper_misrecognition"
+    }
+  ]
+}

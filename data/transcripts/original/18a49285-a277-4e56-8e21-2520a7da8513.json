@@ -1,0 +1,69 @@
+{
+  "id": "18a49285-a277-4e56-8e21-2520a7da8513",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.38,
+      "text": "うっちー選手上強で拾って",
+      "language": "ja"
+    },
+    {
+      "start": 2.38,
+      "end": 4.86,
+      "text": "着地狩りの展開に",
+      "language": "ja"
+    },
+    {
+      "start": 4.86,
+      "end": 5.36,
+      "text": "持っていく",
+      "language": "ja"
+    },
+    {
+      "start": 5.36,
+      "end": 8.98,
+      "text": "横スマッシュここは着地をうまく読んだ",
+      "language": "ja"
+    },
+    {
+      "start": 8.98,
+      "end": 10.52,
+      "text": "メタナイト側の台上",
+      "language": "ja"
+    },
+    {
+      "start": 10.52,
+      "end": 12.4,
+      "text": "これは受け身難しいというか",
+      "language": "ja"
+    },
+    {
+      "start": 12.4,
+      "end": 13.2,
+      "text": "一回受け身して",
+      "language": "ja"
+    }
+  ],
+  "full_text": "うっちー選手上強で拾って 着地狩りの展開に 持っていく 横スマッシュここは着地をうまく読んだ メタナイト側の台上 これは受け身難しいというか 一回受け身して",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "ブッチー選手",
+      "corrected": "うっちー選手",
+      "rule": "Player name: ブッチー→うっちー"
+    },
+    {
+      "segment_idx": 3,
+      "original": "着地をうまく呼んだ",
+      "corrected": "着地をうまく読んだ",
+      "rule": "Kanji homophone: 呼んだ→読んだ"
+    },
+    {
+      "segment_idx": 4,
+      "original": "メタル側の対象",
+      "corrected": "メタナイト側の台上",
+      "rule": "Character name: メタル→メタナイト; Kanji homophone: 対象→台上"
+    }
+  ]
+}

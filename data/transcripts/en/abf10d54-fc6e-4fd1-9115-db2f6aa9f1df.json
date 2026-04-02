@@ -1,0 +1,25 @@
+{
+  "id": "abf10d54-fc6e-4fd1-9115-db2f6aa9f1df",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.72,
+      "text": "Could be a major threat",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "最大警戒要因かもしれません"
+    },
+    {
+      "start": 1.72,
+      "end": 4.7,
+      "text": "Whoa there!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "おっとほら"
+    }
+  ],
+  "full_text": "Could be a major threat Whoa there!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

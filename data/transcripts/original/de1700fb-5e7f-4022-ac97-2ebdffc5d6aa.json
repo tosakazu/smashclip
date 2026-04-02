@@ -1,0 +1,81 @@
+{
+  "id": "de1700fb-5e7f-4022-ac97-2ebdffc5d6aa",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.96,
+      "text": "そしてもう別に展開悪いんですよね",
+      "language": "ja"
+    },
+    {
+      "start": 1.96,
+      "end": 6.66,
+      "text": "さあもちろん反撃はない",
+      "language": "ja"
+    },
+    {
+      "start": 6.66,
+      "end": 8.14,
+      "text": "下りの空中上から",
+      "language": "ja"
+    },
+    {
+      "start": 8.14,
+      "end": 10.84,
+      "text": "横B怖いが",
+      "language": "ja"
+    },
+    {
+      "start": 10.84,
+      "end": 11.52,
+      "text": "止める",
+      "language": "ja"
+    },
+    {
+      "start": 11.52,
+      "end": 12.64,
+      "text": "いや先ほども止めた",
+      "language": "ja"
+    },
+    {
+      "start": 12.64,
+      "end": 13.84,
+      "text": "死んだ",
+      "language": "ja"
+    },
+    {
+      "start": 13.84,
+      "end": 15.92,
+      "text": "OBすぎですね",
+      "language": "ja"
+    },
+    {
+      "start": 15.92,
+      "end": 18.08,
+      "text": "先ほどのミスはこの台上スピンに",
+      "language": "ja"
+    }
+  ],
+  "full_text": "そしてもう別に展開悪いんですよね さあもちろん反撃はない 下りの空中上から 横B怖いが 止める いや先ほども止めた 死んだ OBすぎですね 先ほどのミスはこの台上スピンに",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 3,
+      "original": "横ビル",
+      "corrected": "横B",
+      "rule": "smash term (side special)"
+    },
+    {
+      "segment_idx": 7,
+      "original": "OBすぎですね",
+      "corrected": "OBすぎですね",
+      "rule": "no change needed"
+    },
+    {
+      "segment_idx": 8,
+      "original": "大上スピン",
+      "corrected": "台上スピン",
+      "rule": "misheard word (platform spin)"
+    }
+  ]
+}

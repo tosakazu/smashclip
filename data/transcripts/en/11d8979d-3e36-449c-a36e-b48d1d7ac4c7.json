@@ -1,0 +1,78 @@
+{
+  "id": "11d8979d-3e36-449c-a36e-b48d1d7ac4c7",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "text": "Oh, back at it!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "おーまた集まってたという"
+    },
+    {
+      "start": 1.0,
+      "end": 2.16,
+      "text": "Oh, both are out!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "おー両方が出てる"
+    },
+    {
+      "start": 2.16,
+      "end": 5.84,
+      "text": "Now, completely different from before!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあ先ほどとは打って変わって"
+    },
+    {
+      "start": 5.84,
+      "end": 7.64,
+      "text": "Building that huge lead is",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "丸々実績大きくリードを取っているのは"
+    },
+    {
+      "start": 7.64,
+      "end": 8.6,
+      "text": "Yuusei's Snake!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "夕星選手のスネーク"
+    },
+    {
+      "start": 8.6,
+      "end": 10.9,
+      "text": "Up tilt right there!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "上強ここで打ってきました"
+    },
+    {
+      "start": 10.9,
+      "end": 11.78,
+      "text": "Right now!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "今"
+    }
+  ],
+  "full_text": "Oh, back at it! Oh, both are out! Now, completely different from before! Building that huge lead is Yuusei's Snake! Up tilt right there! Right now!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 4,
+      "original": "ユージス選手のステーク",
+      "corrected": "夕星選手のスネーク",
+      "rule": "Player/Character name: ユージス→夕星, ステーク→スネーク"
+    },
+    {
+      "segment_idx": 5,
+      "original": "上京ここで打ってきました",
+      "corrected": "上強ここで打ってきました",
+      "rule": "Kanji homophone: 上京→上強 (up tilt)"
+    }
+  ]
+}

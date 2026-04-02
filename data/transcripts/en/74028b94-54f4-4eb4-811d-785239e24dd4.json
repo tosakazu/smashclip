@@ -1,0 +1,26 @@
+{
+  "id": "74028b94-54f4-4eb4-811d-785239e24dd4",
+  "segments": [
+    {
+      "start": 0.16,
+      "end": 3.0,
+      "text": "Never a time where you're getting hit by LB and you're like, oh, this feels good.",
+      "language": "en"
+    },
+    {
+      "start": 3.2,
+      "end": 6.52,
+      "text": "Yeah, it's so fast that it just interrupts anything that you're trying to do.",
+      "language": "en"
+    },
+    {
+      "start": 6.58,
+      "end": 10.64,
+      "text": "Even if you get hit, you can interrupt whatever your opponent is trying to do so easily with that.",
+      "language": "en"
+    }
+  ],
+  "full_text": "Never a time where you're getting hit by LB and you're like, oh, this feels good. Yeah, it's so fast that it just interrupts anything that you're trying to do. Even if you get hit, you can interrupt whatever your opponent is trying to do so easily with that.",
+  "detected_language": "en",
+  "corrections": []
+}

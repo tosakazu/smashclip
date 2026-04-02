@@ -1,0 +1,39 @@
+{
+  "id": "bdb6414c-a3c5-46e8-9962-7df5db9feca0",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.18,
+      "text": "とって横強ギリギリ届かず",
+      "language": "ja"
+    },
+    {
+      "start": 2.18,
+      "end": 4.6,
+      "text": "ドクターグーパンチ",
+      "language": "ja"
+    },
+    {
+      "start": 4.6,
+      "end": 7.26,
+      "text": "1点読みならお手の物が",
+      "language": "ja"
+    },
+    {
+      "start": 7.26,
+      "end": 9.5,
+      "text": "崖狩り狙っているところに行く",
+      "language": "ja"
+    }
+  ],
+  "full_text": "とって横強ギリギリ届かず ドクターグーパンチ 1点読みならお手の物が 崖狩り狙っているところに行く",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 3,
+      "original": "がけがり",
+      "corrected": "崖狩り",
+      "rule": "smash term"
+    }
+  ]
+}

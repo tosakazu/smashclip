@@ -1,0 +1,33 @@
+{
+  "id": "4cfb0047-f4f4-4a70-bfe4-7b48fa6737d7",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.04,
+      "text": "崖を離して そして再びニュートラルの状態から",
+      "language": "ja"
+    },
+    {
+      "start": 5.04,
+      "end": 9.98,
+      "text": "着地入れます おっと 空下した 今のは?",
+      "language": "ja"
+    }
+  ],
+  "full_text": "崖を離して そして再びニュートラルの状態から 着地入れます おっと 空下した 今のは?",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "到着入れます",
+      "corrected": "着地入れます",
+      "rule": "kanji homophone: 到着→着地"
+    },
+    {
+      "segment_idx": 1,
+      "original": "空死した",
+      "corrected": "空下した",
+      "rule": "move abbreviation: 空死→空下"
+    }
+  ]
+}

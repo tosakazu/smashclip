@@ -1,0 +1,44 @@
+{
+  "id": "80a77513-603a-4530-81c6-12be2af7d566",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.78,
+      "text": "ニュートラル被せていく",
+      "language": "ja"
+    },
+    {
+      "start": 0.78,
+      "end": 4.36,
+      "text": "ここはその場上がりからの",
+      "language": "ja"
+    },
+    {
+      "start": 4.36,
+      "end": 5.2,
+      "text": "ガードで様子見",
+      "language": "ja"
+    },
+    {
+      "start": 5.2,
+      "end": 8.16,
+      "text": "ダイブでのダウン",
+      "language": "ja"
+    },
+    {
+      "start": 8.16,
+      "end": 9.0,
+      "text": "これは怖い",
+      "language": "ja"
+    },
+    {
+      "start": 9.0,
+      "end": 11.36,
+      "text": "上必殺",
+      "language": "ja"
+    }
+  ],
+  "full_text": "ニュートラル被せていく ここはその場上がりからの ガードで様子見 ダイブでのダウン これは怖い 上必殺",
+  "detected_language": "ja",
+  "corrections": []
+}

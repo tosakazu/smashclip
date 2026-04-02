@@ -1,0 +1,62 @@
+{
+  "id": "3630c324-247c-41aa-98b5-25ef3d6c2990",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.62,
+      "text": "Getting around to the back early!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "後ろに先に回り込んで"
+    },
+    {
+      "start": 1.62,
+      "end": 3.64,
+      "text": "Slipping through the dodge and landing the forward tilt clean!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "回避くぐって横強的確"
+    },
+    {
+      "start": 3.64,
+      "end": 5.56,
+      "text": "Monado Smash!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "モナドスマッシュ"
+    },
+    {
+      "start": 5.56,
+      "end": 6.22,
+      "text": "Oh no!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "うーわ"
+    },
+    {
+      "start": 6.22,
+      "end": 8.78,
+      "text": "Securing the stock early!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "早めに仕留めて"
+    }
+  ],
+  "full_text": "Getting around to the back early! Slipping through the dodge and landing the forward tilt clean! Monado Smash! Oh no! Securing the stock early!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "回くぐって横強敵",
+      "corrected": "回避くぐって横強的確",
+      "rule": "misheard: 回避, 的確"
+    },
+    {
+      "segment_idx": 2,
+      "original": "モナードスマ",
+      "corrected": "モナドスマッシュ",
+      "rule": "character term: モナドスマッシュ"
+    }
+  ]
+}

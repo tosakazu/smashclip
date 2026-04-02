@@ -1,0 +1,38 @@
+{
+  "id": "ef230fde-1175-4f4d-bc42-075eef8d600a",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 7.32,
+      "text": "Boober trying for the edge trap but didn't connect—actually good! Fair-nair is coming up!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ブーバーブー落とし目で繋がらなかった本当に良かった 空前Nを上げている"
+    },
+    {
+      "start": 7.32,
+      "end": 12.6,
+      "text": "Keep mixing up your approaches—wow, that's skillful!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いろいろサイクチェンジしろー見事はお見事で"
+    }
+  ],
+  "full_text": "Boober trying for the edge trap but didn't connect—actually good! Fair-nair is coming up! Keep mixing up your approaches—wow, that's skillful!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "空前にを上げている",
+      "corrected": "空前Nを上げている",
+      "rule": "misheard"
+    },
+    {
+      "segment_idx": 1,
+      "original": "サイクチェンシロー見事",
+      "corrected": "サイクチェンジしろー見事",
+      "rule": "misheard"
+    }
+  ]
+}

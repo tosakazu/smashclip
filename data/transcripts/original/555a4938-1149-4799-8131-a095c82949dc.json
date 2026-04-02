@@ -1,0 +1,27 @@
+{
+  "id": "555a4938-1149-4799-8131-a095c82949dc",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.16,
+      "text": "さあ空中上先端をうまく2回当てて展開継続はネオが握っています",
+      "language": "ja"
+    },
+    {
+      "start": 4.16,
+      "end": 7.04,
+      "text": "空中でこれは素晴らしいカバー範囲が非常に広い",
+      "language": "ja"
+    }
+  ],
+  "full_text": "さあ空中上先端をうまく2回当てて展開継続はネオが握っています 空中でこれは素晴らしいカバー範囲が非常に広い",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "空中城先端",
+      "corrected": "空中上先端",
+      "rule": "kanji homophone (城→上)"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "55f4f0eb-4809-4c29-a4a1-6879a9fb0391",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.86,
+      "text": "Not going down that easy!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そう簡単には応じませんよと"
+    },
+    {
+      "start": 1.86,
+      "end": 3.36,
+      "text": "Here comes the fair!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあ空中前"
+    },
+    {
+      "start": 3.36,
+      "end": 6.2,
+      "text": "Wait—forward smash connects on the second hit!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "おっとここは横スマッシュ2段目ヒットして"
+    }
+  ],
+  "full_text": "Not going down that easy! Here comes the fair! Wait—forward smash connects on the second hit!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "そう動員は応じませんよと",
+      "corrected": "そう簡単には応じませんよと",
+      "rule": "misheard word (動員→簡単に)"
+    }
+  ]
+}

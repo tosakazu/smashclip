@@ -1,0 +1,64 @@
+{
+  "id": "ccaf3868-2bc0-4b99-9c2c-3802efc30907",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.96,
+      "text": "Yeah, you can see that parry just now didn't really convert to a counter",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そうですね今のジャスガがとても反撃しとれなかったからも分かるように"
+    },
+    {
+      "start": 2.96,
+      "end": 5.12,
+      "text": "At this timing, the reach disadvantage is just...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "このタイミングにおいてどうしてもリーチさがね"
+    },
+    {
+      "start": 5.12,
+      "end": 6.56,
+      "text": "...it keeps haunting them",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "永遠につきまとい続けてるから"
+    },
+    {
+      "start": 6.56,
+      "end": 7.04,
+      "text": "Yeah",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そうですね"
+    },
+    {
+      "start": 7.04,
+      "end": 9.84,
+      "text": "When reach gets priority, it's all buttons",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "リーチさが先行されるとボタン"
+    },
+    {
+      "start": 9.84,
+      "end": 11.88,
+      "text": "Sharp read on that jump",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いやジャンプを鋭く読み切って"
+    }
+  ],
+  "full_text": "Yeah, you can see that parry just now didn't really convert to a counter At this timing, the reach disadvantage is just... ...it keeps haunting them Yeah When reach gets priority, it's all buttons Sharp read on that jump",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "ジャスが",
+      "corrected": "ジャスガが",
+      "rule": "smash term (ジャストガード→ジャスガ)"
+    }
+  ]
+}

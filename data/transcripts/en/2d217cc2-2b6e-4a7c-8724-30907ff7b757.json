@@ -1,0 +1,40 @@
+{
+  "id": "2d217cc2-2b6e-4a7c-8724-30907ff7b757",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.9,
+      "text": "Cancels the flamethrower with a fair!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "火炎放射を空前で相殺して"
+    },
+    {
+      "start": 1.9,
+      "end": 5.02,
+      "text": "Beautiful sourspot on that up air!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空中上のカス当ての使い方がうまいうまい"
+    },
+    {
+      "start": 5.02,
+      "end": 10.26,
+      "text": "Up air mash out!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここは空上暴れ"
+    }
+  ],
+  "full_text": "Cancels the flamethrower with a fair! Beautiful sourspot on that up air! Up air mash out!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "火炎放射を空中前で操作して",
+      "corrected": "火炎放射を空前で相殺して",
+      "rule": "misheard: 操作→相殺"
+    }
+  ]
+}

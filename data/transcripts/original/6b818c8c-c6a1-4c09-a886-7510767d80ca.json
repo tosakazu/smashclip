@@ -1,0 +1,45 @@
+{
+  "id": "6b818c8c-c6a1-4c09-a886-7510767d80ca",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.44,
+      "text": "とんでもないもん 3個くれるんだけどさもう相手はヒカリと",
+      "language": "ja"
+    },
+    {
+      "start": 4.44,
+      "end": 11.22,
+      "text": "ねえこれよどこで一体隙を作ればいい 撃墜もう少し遠いかっこいいから",
+      "language": "ja"
+    }
+  ],
+  "full_text": "とんでもないもん 3個くれるんだけどさもう相手はヒカリと ねえこれよどこで一体隙を作ればいい 撃墜もう少し遠いかっこいいから",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "なぼてつもないもん",
+      "corrected": "とんでもないもん",
+      "rule": "Whisper mishearing"
+    },
+    {
+      "segment_idx": 0,
+      "original": "光",
+      "corrected": "ヒカリ",
+      "rule": "character kanji→katakana"
+    },
+    {
+      "segment_idx": 1,
+      "original": "好き",
+      "corrected": "隙",
+      "rule": "kanji homophone"
+    },
+    {
+      "segment_idx": 1,
+      "original": "ケーキつい",
+      "corrected": "撃墜",
+      "rule": "Whisper mishearing"
+    }
+  ]
+}

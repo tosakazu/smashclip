@@ -1,0 +1,48 @@
+{
+  "id": "03fbc22c-ab4c-4cee-80c9-6af8309457f9",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.46,
+      "text": "Parry!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ジャストシールド"
+    },
+    {
+      "start": 1.46,
+      "end": 5.04,
+      "text": "Yeah, the ledge is kinda in the way",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これそうですねレジがちょっと邪魔ですよね"
+    },
+    {
+      "start": 5.04,
+      "end": 7.54,
+      "text": "Can't do it!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "あーかんねえ"
+    },
+    {
+      "start": 7.54,
+      "end": 8.46,
+      "text": "Yeah, that one was...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "まあ今のは"
+    }
+  ],
+  "full_text": "Parry! Yeah, the ledge is kinda in the way Can't do it! Yeah, that one was...",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "ジャスティールド",
+      "corrected": "ジャストシールド",
+      "rule": "misheard term"
+    }
+  ]
+}

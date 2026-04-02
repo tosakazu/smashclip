@@ -1,0 +1,40 @@
+{
+  "id": "52fd9d22-f662-4116-bf84-7fa92bb73e2a",
+  "segments": [
+    {
+      "start": 0.52,
+      "end": 1.92,
+      "text": "That situation also locked in, so...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "インシュラルドクもありましたから"
+    },
+    {
+      "start": 1.92,
+      "end": 5.98,
+      "text": "From that flip, there's a slight momentum loss",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "フリップからどこでちょっとブレーキがかかる"
+    },
+    {
+      "start": 5.98,
+      "end": 9.32,
+      "text": "Against the flip, it's obviously just one-sided dominance",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "フリップに対してはもちろんトロッコの一方勝ち"
+    }
+  ],
+  "full_text": "That situation also locked in, so... From that flip, there's a slight momentum loss Against the flip, it's obviously just one-sided dominance",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "とロッコ",
+      "corrected": "トロッコ",
+      "rule": "Steve terminology: minecart"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": "0a564563-2704-4e8b-a5a4-bbd1714897e2",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "text": "ちょっと緩やかだったんですけど",
+      "language": "ja"
+    },
+    {
+      "start": 1.0,
+      "end": 2.08,
+      "text": "よく受け身を見ておりましたね",
+      "language": "ja"
+    },
+    {
+      "start": 2.08,
+      "end": 3.96,
+      "text": "焦ることはない",
+      "language": "ja"
+    },
+    {
+      "start": 3.96,
+      "end": 7.94,
+      "text": "まぁ反撃にも使えるね",
+      "language": "ja"
+    },
+    {
+      "start": 7.94,
+      "end": 9.72,
+      "text": "横スマッシュ",
+      "language": "ja"
+    },
+    {
+      "start": 9.72,
+      "end": 10.6,
+      "text": "お見事",
+      "language": "ja"
+    }
+  ],
+  "full_text": "ちょっと緩やかだったんですけど よく受け身を見ておりましたね 焦ることはない まぁ反撃にも使えるね 横スマッシュ お見事",
+  "detected_language": "ja",
+  "corrections": []
+}

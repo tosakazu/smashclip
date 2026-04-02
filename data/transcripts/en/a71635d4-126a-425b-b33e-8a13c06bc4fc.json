@@ -1,0 +1,73 @@
+{
+  "id": "a71635d4-126a-425b-b33e-8a13c06bc4fc",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.12,
+      "text": "They're building percent with that spacing!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあ、パーセントを横に並べてきた"
+    },
+    {
+      "start": 3.12,
+      "end": 5.14,
+      "text": "Looking to connect that nair!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空中ニュートラルを当てていきたい"
+    },
+    {
+      "start": 5.14,
+      "end": 7.92,
+      "text": "Where can they find that opening?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "どこにそのチャンスを見出す?"
+    },
+    {
+      "start": 8.32,
+      "end": 9.36,
+      "text": "One shot's there!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ヤシの木に一撃がある"
+    },
+    {
+      "start": 9.36,
+      "end": 11.42,
+      "text": "Up smash connects!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これは上スマが当たるね"
+    },
+    {
+      "start": 11.42,
+      "end": 11.92,
+      "text": "Huge!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "でっかいな!"
+    }
+  ],
+  "full_text": "They're building percent with that spacing! Looking to connect that nair! Where can they find that opening? One shot's there! Up smash connects! Huge!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "original": "ケーキ",
+      "corrected": "きた",
+      "reason": "文脈に合わせた修正"
+    },
+    {
+      "original": "ヤシコフに一族がある",
+      "corrected": "ヤシの木に一撃がある",
+      "reason": "Steveのヤシの木（素材）と一撃"
+    },
+    {
+      "original": "ベスメスが当たるね",
+      "corrected": "上スマが当たるね",
+      "reason": "上スマッシュ（kill move）"
+    }
+  ]
+}

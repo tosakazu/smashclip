@@ -1,0 +1,38 @@
+{
+  "id": "adbb0f82-d248-4f38-aa85-bb266a34e4c9",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "サイクロで決めきったー!",
+      "language": "ja"
+    },
+    {
+      "start": 2.0,
+      "end": 4.0,
+      "text": "わからない!",
+      "language": "ja"
+    },
+    {
+      "start": 4.0,
+      "end": 7.0,
+      "text": "ストックが並べばどう転ぶかわからない!",
+      "language": "ja"
+    },
+    {
+      "start": 7.0,
+      "end": 9.0,
+      "text": "グキグキ!",
+      "language": "ja"
+    },
+    {
+      "start": 9.0,
+      "end": 11.0,
+      "text": "ゲームスリーダー!",
+      "language": "ja"
+    }
+  ],
+  "full_text": "サイクロで決めきったー! わからない! ストックが並べばどう転ぶかわからない! グキグキ! ゲームスリーダー!",
+  "detected_language": "ja",
+  "corrections": []
+}

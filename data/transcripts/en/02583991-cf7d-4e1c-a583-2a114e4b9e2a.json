@@ -1,0 +1,38 @@
+{
+  "id": "02583991-cf7d-4e1c-a583-2a114e4b9e2a",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.76,
+      "text": "Shield break opening! He has time! What's the call?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ブロック発生 ここが間に合います どうする"
+    },
+    {
+      "start": 5.76,
+      "end": 12.54,
+      "text": "Short hop nair into fair, taking the fade landing!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空N ショート トロッコー 空前 フェイド着地をとっていきます"
+    }
+  ],
+  "full_text": "Shield break opening! He has time! What's the call? Short hop nair into fair, taking the fade landing!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "ブーブー発生この子が間に合います",
+      "corrected": "ブロック発生 ここが間に合います",
+      "rule": "misheard term"
+    },
+    {
+      "segment_idx": 1,
+      "original": "空中ショートロッコークジュネー フェイド技術にとっていきます",
+      "corrected": "空N ショート トロッコー 空前 フェイド着地をとっていきます",
+      "rule": "misheard term"
+    }
+  ]
+}

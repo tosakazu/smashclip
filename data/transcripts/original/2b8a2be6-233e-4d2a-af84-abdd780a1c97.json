@@ -1,0 +1,69 @@
+{
+  "id": "2b8a2be6-233e-4d2a-af84-abdd780a1c97",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.16,
+      "text": "権利があったのってたまP側だったと思うんですけど",
+      "language": "ja"
+    },
+    {
+      "start": 3.16,
+      "end": 6.56,
+      "text": "気がついたらなんかベヨネッタのストックがなくなってるみたいな",
+      "language": "ja"
+    },
+    {
+      "start": 6.56,
+      "end": 9.14,
+      "text": "左に移動しようというあcola選手側の動き",
+      "language": "ja"
+    },
+    {
+      "start": 9.14,
+      "end": 12.28,
+      "text": "しかし上スマッシュが当たらずここで空後",
+      "language": "ja"
+    },
+    {
+      "start": 12.28,
+      "end": 13.12,
+      "text": "撃墜",
+      "language": "ja"
+    }
+  ],
+  "full_text": "権利があったのってたまP側だったと思うんですけど 気がついたらなんかベヨネッタのストックがなくなってるみたいな 左に移動しようというあcola選手側の動き しかし上スマッシュが当たらずここで空後 撃墜",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "タマピー",
+      "corrected": "たまP",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 1,
+      "original": "ビオネッタの顔がなくなってる",
+      "corrected": "ベヨネッタのストックがなくなってる",
+      "rule": "misheard: ビオネッタの顔→ベヨネッタのストック"
+    },
+    {
+      "segment_idx": 2,
+      "original": "アコーラ",
+      "corrected": "あcola",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 3,
+      "original": "空中スロー",
+      "corrected": "空後",
+      "rule": "misheard: 空中スロー→空後"
+    },
+    {
+      "segment_idx": 4,
+      "original": "続2位",
+      "corrected": "撃墜",
+      "rule": "misheard: 続2位→撃墜"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "dd160031-c2ea-4dd2-8a79-64a34c379b12",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.54,
+      "text": "They don't come back, gets the hit, now...",
+      "language": "en"
+    },
+    {
+      "start": 2.54,
+      "end": 6.36,
+      "text": "That was greedy, so greedy!",
+      "language": "en"
+    },
+    {
+      "start": 6.68,
+      "end": 9.26,
+      "text": "That was greedy, that was going to hit in Smash Factor 13!",
+      "language": "en"
+    },
+    {
+      "start": 9.6,
+      "end": 10.92,
+      "text": "God damn it, he farted!",
+      "language": "en"
+    }
+  ],
+  "full_text": "They don't come back, gets the hit, now... That was greedy, so greedy! That was greedy, that was going to hit in Smash Factor 13! God damn it, he farted!",
+  "detected_language": "en",
+  "corrections": []
+}

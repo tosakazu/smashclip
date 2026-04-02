@@ -1,0 +1,116 @@
+{
+  "id": "528c7af4-19c2-40de-9f34-52a2ee33a48a",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Minecart bounce!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "トロッコ反射!"
+    },
+    {
+      "start": 2.0,
+      "end": 3.0,
+      "text": "What about the mixup off the block stack?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "3段ブロックからの読み合いは?"
+    },
+    {
+      "start": 3.0,
+      "end": 4.0,
+      "text": "Swinging the bomb in!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "爆弾を振り込んで"
+    },
+    {
+      "start": 4.0,
+      "end": 5.0,
+      "text": "This breaks through!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これは割れる!"
+    },
+    {
+      "start": 5.0,
+      "end": 6.0,
+      "text": "Still just barely!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "それでもギリギリ!"
+    },
+    {
+      "start": 6.0,
+      "end": 8.0,
+      "text": "Staling's building up!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ワンパターン相殺が乗っている!"
+    },
+    {
+      "start": 8.0,
+      "end": 9.0,
+      "text": "Sent skyward!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "上に刺さった"
+    },
+    {
+      "start": 9.0,
+      "end": 11.0,
+      "text": "Can they recover?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "帰れるのか?"
+    },
+    {
+      "start": 11.0,
+      "end": 13.0,
+      "text": "Elytra off the platform!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ブロックからのエリトラ"
+    },
+    {
+      "start": 13.0,
+      "end": 14.0,
+      "text": "Airdodging but...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "とりあえず回避だが"
+    },
+    {
+      "start": 14.0,
+      "end": 15.0,
+      "text": "Got caught hard!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "バカに刺さった!"
+    }
+  ],
+  "full_text": "Minecart bounce! What about the mixup off the block stack? Swinging the bomb in! This breaks through! Still just barely! Staling's building up! Sent skyward! Can they recover? Elytra off the platform! Airdodging but... Got caught hard!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "トロコ",
+      "corrected": "トロッコ",
+      "rule": "Steve terminology: minecart"
+    },
+    {
+      "segment_idx": 5,
+      "original": "ワンパターン操作医が乗っている",
+      "corrected": "ワンパターン相殺が乗っている",
+      "rule": "kanji homophone: 操作医→相殺"
+    },
+    {
+      "segment_idx": 7,
+      "original": "変えれるのか",
+      "corrected": "帰れるのか",
+      "rule": "kanji homophone: 変え→帰"
+    }
+  ]
+}

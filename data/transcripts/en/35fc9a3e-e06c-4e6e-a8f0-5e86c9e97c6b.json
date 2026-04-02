@@ -1,0 +1,41 @@
+{
+  "id": "35fc9a3e-e06c-4e6e-a8f0-5e86c9e97c6b",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.86,
+      "text": "He's got a solid read on that getup attack!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "攻撃上がりはしっかり掴んでいる"
+    },
+    {
+      "start": 4.86,
+      "end": 8.6,
+      "text": "He's committing to aerials though...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空中ショットを狙ってくるんですが"
+    },
+    {
+      "start": 8.6,
+      "end": 10.58,
+      "text": "Pulling back just a bit saved him!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "少し身を引いていたので助かりました"
+    },
+    {
+      "start": 10.58,
+      "end": 12.84,
+      "text": "But this one...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ただこれは"
+    }
+  ],
+  "full_text": "He's got a solid read on that getup attack! He's committing to aerials though... Pulling back just a bit saved him! But this one...",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

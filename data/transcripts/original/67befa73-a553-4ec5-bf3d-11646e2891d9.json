@@ -1,0 +1,111 @@
+{
+  "id": "67befa73-a553-4ec5-bf3d-11646e2891d9",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.3,
+      "text": "この展開を台上から作りたかったか",
+      "language": "ja"
+    },
+    {
+      "start": 2.3,
+      "end": 4.78,
+      "text": "コンボが途切れたところですか",
+      "language": "ja"
+    },
+    {
+      "start": 4.78,
+      "end": 5.62,
+      "text": "ガーキャン前スマッシュ",
+      "language": "ja"
+    },
+    {
+      "start": 5.62,
+      "end": 6.36,
+      "text": "車横転",
+      "language": "ja"
+    },
+    {
+      "start": 6.36,
+      "end": 7.14,
+      "text": "追いかけ空前",
+      "language": "ja"
+    },
+    {
+      "start": 7.14,
+      "end": 7.94,
+      "text": "メテオにはならないですが",
+      "language": "ja"
+    },
+    {
+      "start": 7.94,
+      "end": 9.58,
+      "text": "トロッコで画面外まで追いかけ",
+      "language": "ja"
+    },
+    {
+      "start": 9.58,
+      "end": 9.9,
+      "text": "行くぞ",
+      "language": "ja"
+    },
+    {
+      "start": 9.9,
+      "end": 11.1,
+      "text": "おいおいおいおい",
+      "language": "ja"
+    },
+    {
+      "start": 11.1,
+      "end": 13.66,
+      "text": "お前たちはどこで戦っているんだ",
+      "language": "ja"
+    },
+    {
+      "start": 13.66,
+      "end": 15.26,
+      "text": "まずいまずい",
+      "language": "ja"
+    }
+  ],
+  "full_text": "この展開を台上から作りたかったか コンボが途切れたところですか ガーキャン前スマッシュ 車横転 追いかけ空前 メテオにはならないですが トロッコで画面外まで追いかけ 行くぞ おいおいおいおい お前たちはどこで戦っているんだ まずいまずい",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "このテントを台上から展開作りたかったか",
+      "corrected": "この展開を台上から作りたかったか",
+      "rule": "misheard word"
+    },
+    {
+      "segment_idx": 2,
+      "original": "ガーキャンメンスマッシュ",
+      "corrected": "ガーキャン前スマッシュ",
+      "rule": "move name (メン→前)"
+    },
+    {
+      "segment_idx": 4,
+      "original": "追いかけくるちまえ",
+      "corrected": "追いかけ空前",
+      "rule": "move abbreviation (くうまえ=空前)"
+    },
+    {
+      "segment_idx": 5,
+      "original": "メテオニアなでが",
+      "corrected": "メテオにはならないですが",
+      "rule": "misheard phrase"
+    },
+    {
+      "segment_idx": 6,
+      "original": "画面回まで",
+      "corrected": "画面外まで",
+      "rule": "kanji homophone (がめんそと)"
+    },
+    {
+      "segment_idx": 7,
+      "original": "いくで",
+      "corrected": "行くぞ",
+      "rule": "misheard word"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "id": "abe5743f-b335-4f0e-87c7-e74a91522a54",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.84,
+      "text": "Coming back, forward smash off up tilt looks to catch, but...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "復帰通して上強で拾われる横スマが見えたが"
+    },
+    {
+      "start": 2.84,
+      "end": 4.52,
+      "text": "Cleanly escapes with up B",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "上必殺でしっかり逃げて"
+    },
+    {
+      "start": 4.52,
+      "end": 8.22,
+      "text": "The whiff punish on forward smash doesn't work out",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "横スマ振っての差し返しは実らず"
+    },
+    {
+      "start": 8.22,
+      "end": 11.58,
+      "text": "Gets caught by nair trading with the spin's invincibility frames",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "スピンの無敵合わせ空Nに打たれる"
+    },
+    {
+      "start": 11.58,
+      "end": 11.96,
+      "text": "Barely...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "なんとか"
+    }
+  ],
+  "full_text": "Coming back, forward smash off up tilt looks to catch, but... Cleanly escapes with up B The whiff punish on forward smash doesn't work out Gets caught by nair trading with the spin's invincibility frames Barely...",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "上強度拾われる",
+      "corrected": "上強で拾われる",
+      "rule": "Particle: 度→で"
+    },
+    {
+      "segment_idx": 2,
+      "original": "横スマ足での差し返し",
+      "corrected": "横スマ振っての差し返し",
+      "rule": "Mishearing: 足→振って"
+    },
+    {
+      "segment_idx": 3,
+      "original": "スピンの無敵合わせ空中に打たれる",
+      "corrected": "スピンの無敵合わせ空Nに打たれる",
+      "rule": "Move: 空中→空N"
+    }
+  ]
+}

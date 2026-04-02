@@ -1,0 +1,128 @@
+{
+  "id": "914d5151-7052-4cdd-ba20-73f22dd52410",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.62,
+      "text": "Because there's a banana",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "バナナがあるから"
+    },
+    {
+      "start": 0.62,
+      "end": 1.9,
+      "text": "If the spacing gets awkward on that move",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "変に技置いたらね"
+    },
+    {
+      "start": 1.9,
+      "end": 2.06,
+      "text": "Yeah",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そう"
+    },
+    {
+      "start": 2.06,
+      "end": 3.42,
+      "text": "He's going in himself",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "自分が行くんだよな"
+    },
+    {
+      "start": 3.42,
+      "end": 4.9,
+      "text": "Alright",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあ"
+    },
+    {
+      "start": 4.9,
+      "end": 5.96,
+      "text": "Chasing the advantage",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "強みを追いかけて"
+    },
+    {
+      "start": 5.96,
+      "end": 6.5,
+      "text": "That's insane!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "やばい"
+    },
+    {
+      "start": 6.5,
+      "end": 8.04,
+      "text": "All at once",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "一気に"
+    },
+    {
+      "start": 8.04,
+      "end": 9.32,
+      "text": "Trying to build a lead",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "差をつけようと"
+    },
+    {
+      "start": 9.32,
+      "end": 10.72,
+      "text": "Tweek coming in!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "迫りくるツイーク"
+    },
+    {
+      "start": 10.72,
+      "end": 11.64,
+      "text": "Ooh, nice!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "おーいい"
+    },
+    {
+      "start": 11.64,
+      "end": 12.7,
+      "text": "Shuton right here",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "シュートンここで"
+    },
+    {
+      "start": 12.7,
+      "end": 13.42,
+      "text": "Shuts it down!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "せき止めた"
+    },
+    {
+      "start": 13.42,
+      "end": 14.42,
+      "text": "That's great adaptation!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "上手い対応でしたね今の"
+    }
+  ],
+  "full_text": "Because there's a banana If the spacing gets awkward on that move Yeah He's going in himself Alright Chasing the advantage That's insane! All at once Trying to build a lead Tweek coming in! Ooh, nice! Shuton right here Shuts it down! That's great adaptation!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 13,
+      "original": "対抗",
+      "corrected": "対応",
+      "rule": "kanji homophone"
+    }
+  ]
+}

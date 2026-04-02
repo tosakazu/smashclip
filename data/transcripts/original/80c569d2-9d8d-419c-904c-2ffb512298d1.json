@@ -1,0 +1,27 @@
+{
+  "id": "80c569d2-9d8d-419c-904c-2ffb512298d1",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.3,
+      "text": "character can still rack up so much damage and now it's time to get that extra credit whatever you",
+      "language": "en"
+    },
+    {
+      "start": 4.3,
+      "end": 10.22,
+      "text": "can take that extra credit 10 5 i don't care put some numbers on Miya but look at that cow",
+      "language": "en"
+    }
+  ],
+  "full_text": "character can still rack up so much damage and now it's time to get that extra credit whatever you can take that extra credit 10 5 i don't care put some numbers on Miya but look at that cow",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "put some numbers on media",
+      "corrected": "put some numbers on Miya",
+      "rule": "player name"
+    }
+  ]
+}

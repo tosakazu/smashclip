@@ -1,0 +1,88 @@
+{
+  "id": "65297347-9e15-4c5b-a9fd-74e5e7cad787",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.84,
+      "text": "He made it back!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "出てきました!"
+    },
+    {
+      "start": 0.84,
+      "end": 2.16,
+      "text": "And Stabyy!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そしてスタビー!"
+    },
+    {
+      "start": 3.44,
+      "end": 4.2,
+      "text": "What about recovery?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "復帰は?"
+    },
+    {
+      "start": 4.7,
+      "end": 5.5,
+      "text": "Oh, he's looking to catch him!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "あ、当ててみた"
+    },
+    {
+      "start": 8.1,
+      "end": 9.76,
+      "text": "He's reading the ledge getup, but...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "崖を上がることに合わせてきたんですが"
+    },
+    {
+      "start": 9.76,
+      "end": 11.14,
+      "text": "As they switch positions, that fair!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "入れ替わったところ空中前"
+    },
+    {
+      "start": 11.14,
+      "end": 12.1,
+      "text": "But this...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ただ、これ…"
+    },
+    {
+      "start": 13.1,
+      "end": 14.9,
+      "text": "He's done! He's completely done!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "本当に詰んだ 本当に詰んだ!"
+    },
+    {
+      "start": 16.1,
+      "end": 17.7,
+      "text": "Stabyy with the finish!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "最後はスタビー!"
+    }
+  ],
+  "full_text": "He made it back! And Stabyy! What about recovery? Oh, he's looking to catch him! He's reading the ledge getup, but... As they switch positions, that fair! But this... He's done! He's completely done! Stabyy with the finish!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 3,
+      "original": "得てみた",
+      "corrected": "当ててみた",
+      "rule": "misheard word"
+    }
+  ]
+}

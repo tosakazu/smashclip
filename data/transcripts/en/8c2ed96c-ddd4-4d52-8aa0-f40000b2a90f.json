@@ -1,0 +1,76 @@
+{
+  "id": "8c2ed96c-ddd4-4d52-8aa0-f40000b2a90f",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.22,
+      "text": "Landing safely where the forward tilt can't punish",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "横強の差し返しが届かない位置に着地していて"
+    },
+    {
+      "start": 2.22,
+      "end": 6.4,
+      "text": "The attacks just aren't connecting",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "本当になんか当たりませんね攻撃に"
+    },
+    {
+      "start": 6.4,
+      "end": 8.64,
+      "text": "Keeps pressing from positions where those hits can't land",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "絶対に当たらない位置から攻めを続ける"
+    },
+    {
+      "start": 8.64,
+      "end": 9.56,
+      "text": "テシサムス",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "テシサムス"
+    },
+    {
+      "start": 9.56,
+      "end": 11.32,
+      "text": "Bomb into the fair",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そしてボムから空中前"
+    },
+    {
+      "start": 11.32,
+      "end": 13.22,
+      "text": "With Donkey Kong's weight, it still won't KO, but",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ドンキーの体重ならまだ撃墜はしませんが"
+    },
+    {
+      "start": 13.22,
+      "end": 14.78,
+      "text": "That's the second time now",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これはもう2回目"
+    },
+    {
+      "start": 14.78,
+      "end": 15.84,
+      "text": "Should survive it",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "耐えるはず"
+    }
+  ],
+  "full_text": "Landing safely where the forward tilt can't punish The attacks just aren't connecting Keeps pressing from positions where those hits can't land テシサムス Bomb into the fair With Donkey Kong's weight, it still won't KO, but That's the second time now Should survive it",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    "横鏡→横強 (forward tilt, kanji homophone きょう→きょう)",
+    "テジ→テシ (Te-sHi player name)"
+  ]
+}

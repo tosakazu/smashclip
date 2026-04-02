@@ -1,0 +1,21 @@
+{
+  "id": "5aaad89e-1346-40c3-8efd-4f78eae2c38c",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 7.68,
+      "text": "up tilt yet again stealing another stock with the down smash cancel out with the Hurt grenade",
+      "language": "en"
+    }
+  ],
+  "full_text": "up tilt yet again stealing another stock with the down smash cancel out with the Hurt grenade",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "up till",
+      "corrected": "up tilt",
+      "rule": "move name"
+    }
+  ]
+}

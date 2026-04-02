@@ -1,0 +1,25 @@
+{
+  "id": "1e5e75c3-d77c-4eb7-aefc-0b9470996c9f",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 9.72,
+      "text": "The ledge traps continue, forward tilt knockback chase. Coming back from up top—grab from shield, but no KO!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "が続く崖奪いから横強攻撃追い出してちょっと上からヤマナクションが帰ってくる そしてブロックからつかむんですがまだ撃墜しないんですね"
+    },
+    {
+      "start": 9.72,
+      "end": 14.12,
+      "text": "Caught on the minecart! Dash attack KO!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "トロッコが引っかかってここはダッシュアタック撃墜"
+    }
+  ],
+  "full_text": "The ledge traps continue, forward tilt knockback chase. Coming back from up top—grab from shield, but no KO! Caught on the minecart! Dash attack KO!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

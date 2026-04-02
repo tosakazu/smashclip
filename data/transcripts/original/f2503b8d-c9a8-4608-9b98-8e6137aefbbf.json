@@ -1,0 +1,33 @@
+{
+  "id": "f2503b8d-c9a8-4608-9b98-8e6137aefbbf",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 7.0,
+      "text": "に帰ってくるそしてパンチで暴れてダッシュアタックだったんですがここは上強で差し返しますなおちゃディディー",
+      "language": "ja"
+    },
+    {
+      "start": 9.0,
+      "end": 10.92,
+      "text": "さあなおちゃ選手横強攻撃",
+      "language": "ja"
+    }
+  ],
+  "full_text": "に帰ってくるそしてパンチで暴れてダッシュアタックだったんですがここは上強で差し返しますなおちゃディディー さあなおちゃ選手横強攻撃",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "直茶リリー",
+      "corrected": "なおちゃディディー",
+      "rule": "player name: 直茶→なおちゃ"
+    },
+    {
+      "segment_idx": 1,
+      "original": "直茶選手",
+      "corrected": "なおちゃ選手",
+      "rule": "player name"
+    }
+  ]
+}

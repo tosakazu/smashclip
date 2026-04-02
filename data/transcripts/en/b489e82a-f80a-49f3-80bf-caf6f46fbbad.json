@@ -1,0 +1,27 @@
+{
+  "id": "b489e82a-f80a-49f3-80bf-caf6f46fbbad",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.0,
+      "text": "for me yeah to approach well usually Game & Watch is the one to be reacting to you he plays reactive",
+      "language": "en"
+    },
+    {
+      "start": 6.0,
+      "end": 9.72,
+      "text": "but now he's trying to get in the face and yes he's gonna do it",
+      "language": "en"
+    }
+  ],
+  "full_text": "for me yeah to approach well usually Game & Watch is the one to be reacting to you he plays reactive but now he's trying to get in the face and yes he's gonna do it",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "gaming watch",
+      "corrected": "Game & Watch",
+      "rule": "character name"
+    }
+  ]
+}

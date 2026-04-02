@@ -1,0 +1,33 @@
+{
+  "id": "b4a538b8-2123-4152-ae1a-c7ce324e84e2",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.7,
+      "text": "I know Twig, but I'm not sure if he's ever won with him - I know Twig has played him a ton though",
+      "language": "en",
+      "original_language": "es",
+      "original_text": "Sé que Twig, pero no sé si ganó alguna vez con él, sé que Twig lo ha jugado un montón"
+    },
+    {
+      "start": 4.7,
+      "end": 8.02,
+      "text": "Well, okay, but now...",
+      "language": "en",
+      "original_language": "es",
+      "original_text": "Bueno, a ver, pero ahora..."
+    },
+    {
+      "start": 8.02,
+      "end": 9.52,
+      "text": "Ken - Ken won with Sephiroth",
+      "language": "en",
+      "original_language": "es",
+      "original_text": "Ken, Ken ganó con Sephiroth"
+    }
+  ],
+  "full_text": "I know Twig, but I'm not sure if he's ever won with him - I know Twig has played him a ton though Well, okay, but now... Ken - Ken won with Sephiroth",
+  "detected_language": "en",
+  "original_language": "es",
+  "corrections": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "7c97434e-e582-4f36-b697-7139282bd9a9",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.08,
+      "text": "like is accumulating so much damage here the juggles are not stopping the advantage state",
+      "language": "en"
+    },
+    {
+      "start": 4.08,
+      "end": 10.8,
+      "text": "immaculate oh freezing up again on a tech in place he did the same thing against Tweek",
+      "language": "en"
+    },
+    {
+      "start": 10.8,
+      "end": 11.92,
+      "text": "it didn't cost him all that much",
+      "language": "en"
+    }
+  ],
+  "full_text": "like is accumulating so much damage here the juggles are not stopping the advantage state immaculate oh freezing up again on a tech in place he did the same thing against Tweek it didn't cost him all that much",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "tweak",
+      "corrected": "Tweek",
+      "rule": "player name: tweak→Tweek"
+    }
+  ]
+}

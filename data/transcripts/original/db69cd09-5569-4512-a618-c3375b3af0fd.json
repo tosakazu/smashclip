@@ -1,0 +1,51 @@
+{
+  "id": "db69cd09-5569-4512-a618-c3375b3af0fd",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.52,
+      "text": "これはいいパーセントになりましたよ",
+      "language": "ja"
+    },
+    {
+      "start": 5.52,
+      "end": 6.82,
+      "text": "差し掛かった差し掛かった",
+      "language": "ja"
+    },
+    {
+      "start": 6.82,
+      "end": 10.4,
+      "text": "アコラのコンボ精度ならここから撃墜を持っていける",
+      "language": "ja"
+    },
+    {
+      "start": 10.4,
+      "end": 11.82,
+      "text": "残ってますじゃん",
+      "language": "ja"
+    },
+    {
+      "start": 11.82,
+      "end": 12.82,
+      "text": "打ち上がり",
+      "language": "ja"
+    }
+  ],
+  "full_text": "これはいいパーセントになりましたよ 差し掛かった差し掛かった アコラのコンボ精度ならここから撃墜を持っていける 残ってますじゃん 打ち上がり",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "アコーラのコンボ精度ならここから決定を持たせる",
+      "corrected": "アコラのコンボ精度ならここから撃墜を持っていける",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 4,
+      "original": "うちがり",
+      "corrected": "打ち上がり",
+      "rule": "whisper_misrecognition"
+    }
+  ]
+}

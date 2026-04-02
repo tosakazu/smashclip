@@ -1,0 +1,86 @@
+{
+  "id": "d099bdaa-a292-470d-a25e-d64e99f1d847",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.78,
+      "text": "Lal's got really tight parries, you know?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "あれだなラルくんってとてもジャスガうまいじゃないですか"
+    },
+    {
+      "start": 2.78,
+      "end": 5.84,
+      "text": "But Link's bair is putting in serious work",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "だけどリンクの空中後ろがいい味出してるわ"
+    },
+    {
+      "start": 5.84,
+      "end": 7.82,
+      "text": "He's converting that parry into the next hit",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ジャスガに対して次のタッチになってる"
+    },
+    {
+      "start": 7.82,
+      "end": 10.18,
+      "text": "And the delay tech here is clean too",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "こういうディレイもうまいし"
+    },
+    {
+      "start": 10.18,
+      "end": 11.5,
+      "text": "Yeah",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そうだね"
+    },
+    {
+      "start": 11.5,
+      "end": 13.36,
+      "text": "A player who's fought through everything with pure fundamentals",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "やはり体一つで叩かれてきた男"
+    },
+    {
+      "start": 13.36,
+      "end": 14.56,
+      "text": "There's the KO!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "あー撃墜しちゃったー"
+    },
+    {
+      "start": 14.56,
+      "end": 15.04,
+      "text": "And then after that",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "あの後"
+    }
+  ],
+  "full_text": "Lal's got really tight parries, you know? But Link's bair is putting in serious work He's converting that parry into the next hit And the delay tech here is clean too Yeah A player who's fought through everything with pure fundamentals There's the KO! And then after that",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "空中白",
+      "corrected": "空中後ろ",
+      "rule": "smash term (空中後ろ=back air)"
+    },
+    {
+      "segment_idx": 6,
+      "original": "激戦しちゃったー",
+      "corrected": "撃墜しちゃったー",
+      "rule": "smash term (撃墜)"
+    }
+  ]
+}

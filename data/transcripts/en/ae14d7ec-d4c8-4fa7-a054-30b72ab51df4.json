@@ -1,0 +1,21 @@
+{
+  "id": "ae14d7ec-d4c8-4fa7-a054-30b72ab51df4",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.2,
+      "text": "character but now two stocks in advantage for him",
+      "language": "en"
+    }
+  ],
+  "full_text": "character but now two stocks in advantage for him",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "stalks",
+      "corrected": "stocks",
+      "rule": "smash term (stocks)"
+    }
+  ]
+}

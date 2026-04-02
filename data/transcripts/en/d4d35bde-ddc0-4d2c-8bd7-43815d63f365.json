@@ -1,0 +1,70 @@
+{
+  "id": "d4d35bde-ddc0-4d2c-8bd7-43815d63f365",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "So how do you approach the Steve matchup?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "スティーブに対する対処法って"
+    },
+    {
+      "start": 2.0,
+      "end": 5.68,
+      "text": "Like, you can let your opponent mine and just play it safe...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "相手が掘ることをいったん許容して待つであったりとか"
+    },
+    {
+      "start": 5.68,
+      "end": 7.48,
+      "text": "Or you can deny him the mining entirely...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "相手に掘らせないように"
+    },
+    {
+      "start": 7.48,
+      "end": 11.28,
+      "text": "Or just keep constant pressure with non-stop attacks...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "どんどんどんどん攻撃を仕掛けていくであったりとか"
+    },
+    {
+      "start": 11.28,
+      "end": 12.56,
+      "text": "There are a lot of different strategies...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いろいろあるんですけれども"
+    },
+    {
+      "start": 12.56,
+      "end": 14.26,
+      "text": "What's Milde's approach?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "マイルドは何を選択し"
+    }
+  ],
+  "full_text": "So how do you approach the Steve matchup? Like, you can let your opponent mine and just play it safe... Or you can deny him the mining entirely... Or just keep constant pressure with non-stop attacks... There are a lot of different strategies... What's Milde's approach?",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "掘ることを言って許容して",
+      "corrected": "掘ることをいったん許容して",
+      "rule": "mishearing (を言って→をいったん)"
+    },
+    {
+      "segment_idx": 5,
+      "original": "マイファーは",
+      "corrected": "マイルドは",
+      "rule": "player name (マイファー→マイルド = マイルドなH.O)"
+    }
+  ]
+}

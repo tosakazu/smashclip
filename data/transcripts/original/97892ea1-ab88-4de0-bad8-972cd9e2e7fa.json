@@ -1,0 +1,51 @@
+{
+  "id": "97892ea1-ab88-4de0-bad8-972cd9e2e7fa",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.64,
+      "text": "そう簡単に攻めることはない",
+      "language": "ja"
+    },
+    {
+      "start": 1.64,
+      "end": 3.72,
+      "text": "チャージショットがでかくて",
+      "language": "ja"
+    },
+    {
+      "start": 3.72,
+      "end": 6.1,
+      "text": "だがPKファイヤー",
+      "language": "ja"
+    },
+    {
+      "start": 6.1,
+      "end": 6.96,
+      "text": "当たってしまった",
+      "language": "ja"
+    },
+    {
+      "start": 6.96,
+      "end": 9.48,
+      "text": "下スマホールド回避が出た",
+      "language": "ja"
+    },
+    {
+      "start": 9.48,
+      "end": 9.84,
+      "text": "これは",
+      "language": "ja"
+    }
+  ],
+  "full_text": "そう簡単に攻めることはない チャージショットがでかくて だがPKファイヤー 当たってしまった 下スマホールド回避が出た これは",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "選手経験に攻めることはない",
+      "corrected": "そう簡単に攻めることはない",
+      "rule": "misheard word"
+    }
+  ]
+}

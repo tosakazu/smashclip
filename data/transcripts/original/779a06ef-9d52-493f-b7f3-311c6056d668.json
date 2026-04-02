@@ -1,0 +1,57 @@
+{
+  "id": "779a06ef-9d52-493f-b7f3-311c6056d668",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.42,
+      "text": "バギマはここで対応してきたぞ",
+      "language": "ja"
+    },
+    {
+      "start": 2.42,
+      "end": 4.82,
+      "text": "ダッシュ攻撃空中回避を切らないことによって",
+      "language": "ja"
+    },
+    {
+      "start": 4.82,
+      "end": 5.98,
+      "text": "戻ってきます",
+      "language": "ja"
+    },
+    {
+      "start": 5.98,
+      "end": 6.8,
+      "text": "リターンはどうする",
+      "language": "ja"
+    },
+    {
+      "start": 6.8,
+      "end": 8.16,
+      "text": "下スマッシュギリギリ届かない",
+      "language": "ja"
+    },
+    {
+      "start": 8.16,
+      "end": 10.36,
+      "text": "下スマッシュ",
+      "language": "ja"
+    },
+    {
+      "start": 10.36,
+      "end": 11.5,
+      "text": "いいリターンです",
+      "language": "ja"
+    }
+  ],
+  "full_text": "バギマはここで対応してきたぞ ダッシュ攻撃空中回避を切らないことによって 戻ってきます リターンはどうする 下スマッシュギリギリ届かない 下スマッシュ いいリターンです",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "出し攻撃急効果",
+      "corrected": "ダッシュ攻撃空中回避",
+      "rule": "whisper misrecognition"
+    }
+  ]
+}

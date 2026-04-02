@@ -1,0 +1,50 @@
+{
+  "id": "3461e2c3-7bdb-42f6-b75b-43da95ffd961",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.62,
+      "text": "80%のリードを矢浦サムスが取っている状態",
+      "language": "ja"
+    },
+    {
+      "start": 2.62,
+      "end": 3.48,
+      "text": "そしてこの崖",
+      "language": "ja"
+    },
+    {
+      "start": 3.48,
+      "end": 5.32,
+      "text": "帰れるんですか?",
+      "language": "ja"
+    },
+    {
+      "start": 5.54,
+      "end": 7.42,
+      "text": "ネスが下から最大ディレイで",
+      "language": "ja"
+    },
+    {
+      "start": 7.42,
+      "end": 8.82,
+      "text": "ボムを操作しながら帰ってくるが",
+      "language": "ja"
+    },
+    {
+      "start": 8.82,
+      "end": 9.94,
+      "text": "崖上がりにチャージショット",
+      "language": "ja"
+    },
+    {
+      "start": 9.94,
+      "end": 10.6,
+      "text": "しっかり",
+      "language": "ja"
+    }
+  ],
+  "full_text": "80%のリードを矢浦サムスが取っている状態 そしてこの崖 帰れるんですか? ネスが下から最大ディレイで ボムを操作しながら帰ってくるが 崖上がりにチャージショット しっかり",
+  "detected_language": "ja",
+  "corrections": []
+}

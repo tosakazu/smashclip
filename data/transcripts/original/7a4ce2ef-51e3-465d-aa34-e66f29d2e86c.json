@@ -1,0 +1,93 @@
+{
+  "id": "7a4ce2ef-51e3-465d-aa34-e66f29d2e86c",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.86,
+      "text": "PKファイヤー",
+      "language": "ja"
+    },
+    {
+      "start": 0.86,
+      "end": 1.34,
+      "text": "避けぬ！",
+      "language": "ja"
+    },
+    {
+      "start": 1.34,
+      "end": 2.9,
+      "text": "PKファイヤー発生前",
+      "language": "ja"
+    },
+    {
+      "start": 2.9,
+      "end": 3.66,
+      "text": "カーブが",
+      "language": "ja"
+    },
+    {
+      "start": 3.66,
+      "end": 5.94,
+      "text": "ラインをガンガン上げる",
+      "language": "ja"
+    },
+    {
+      "start": 5.94,
+      "end": 7.36,
+      "text": "気がつけばでんこただな",
+      "language": "ja"
+    },
+    {
+      "start": 7.36,
+      "end": 8.48,
+      "text": "不利ライン",
+      "language": "ja"
+    },
+    {
+      "start": 8.48,
+      "end": 9.56,
+      "text": "台上の上",
+      "language": "ja"
+    }
+  ],
+  "full_text": "PKファイヤー 避けぬ！ PKファイヤー発生前 カーブが ラインをガンガン上げる 気がつけばでんこただな 不利ライン 台上の上",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "ディキュアファイヤー",
+      "corrected": "PKファイヤー",
+      "rule": "move name (Lucas)"
+    },
+    {
+      "segment_idx": 1,
+      "original": "開けぬべ",
+      "corrected": "避けぬ！",
+      "rule": "whisper misrecognition"
+    },
+    {
+      "segment_idx": 2,
+      "original": "ファイヤー発生前",
+      "corrected": "PKファイヤー発生前",
+      "rule": "move name (Lucas)"
+    },
+    {
+      "segment_idx": 5,
+      "original": "電光だな",
+      "corrected": "でんこただな",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 6,
+      "original": "フリラライン",
+      "corrected": "不利ライン",
+      "rule": "whisper misrecognition"
+    },
+    {
+      "segment_idx": 7,
+      "original": "大空の上",
+      "corrected": "台上の上",
+      "rule": "大→台 homophone"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "id": "8ab0eb4e-1fc7-4749-950e-409cb2c122dc",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.32,
+      "text": "地上に着地しながら差し込んでくるヨシドラに対して",
+      "language": "ja"
+    },
+    {
+      "start": 2.32,
+      "end": 3.72,
+      "text": "矢浦が取ってみせる",
+      "language": "ja"
+    },
+    {
+      "start": 3.72,
+      "end": 4.96,
+      "text": "横スマッシュ",
+      "language": "ja"
+    },
+    {
+      "start": 4.96,
+      "end": 6.64,
+      "text": "んー今のでも撃墜まで",
+      "language": "ja"
+    },
+    {
+      "start": 6.64,
+      "end": 7.96,
+      "text": "なんだろ持ってきたかったか",
+      "language": "ja"
+    },
+    {
+      "start": 7.96,
+      "end": 8.94,
+      "text": "チャージショットも危ないぞ",
+      "language": "ja"
+    },
+    {
+      "start": 8.94,
+      "end": 10.08,
+      "text": "ダッシュ攻撃",
+      "language": "ja"
+    },
+    {
+      "start": 10.08,
+      "end": 11.24,
+      "text": "これは撃墜に至る",
+      "language": "ja"
+    },
+    {
+      "start": 11.24,
+      "end": 11.64,
+      "text": "150",
+      "language": "ja"
+    }
+  ],
+  "full_text": "地上に着地しながら差し込んでくるヨシドラに対して 矢浦が取ってみせる 横スマッシュ んー今のでも撃墜まで なんだろ持ってきたかったか チャージショットも危ないぞ ダッシュ攻撃 これは撃墜に至る 150",
+  "detected_language": "ja",
+  "corrections": [
+    "チャーシュート→チャージショット (Charge Shot, Samus's NB)",
+    "出し攻撃→ダッシュ攻撃 (dash attack, confirmed by metadata as DA)"
+  ]
+}

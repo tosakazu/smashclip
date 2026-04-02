@@ -1,0 +1,56 @@
+{
+  "id": "e48fb7cb-aadc-4aae-9b06-bf227456ff25",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.6,
+      "text": "追い詰めてるはずなのに硬すぎる",
+      "language": "ja"
+    },
+    {
+      "start": 2.6,
+      "end": 4.24,
+      "text": "どうやって撃墜するんだよこのマリオ",
+      "language": "ja"
+    },
+    {
+      "start": 4.24,
+      "end": 6.78,
+      "text": "なぜこんなに耐えられる",
+      "language": "ja"
+    },
+    {
+      "start": 6.78,
+      "end": 7.54,
+      "text": "こうして",
+      "language": "ja"
+    },
+    {
+      "start": 7.54,
+      "end": 9.1,
+      "text": "まだじゃない",
+      "language": "ja"
+    },
+    {
+      "start": 9.1,
+      "end": 11.36,
+      "text": "まだ耐えるが痛いぞダメージ",
+      "language": "ja"
+    },
+    {
+      "start": 11.36,
+      "end": 14.1,
+      "text": "復帰阻止もうますぎる",
+      "language": "ja"
+    },
+    {
+      "start": 14.1,
+      "end": 16.2,
+      "text": "マジ",
+      "language": "ja"
+    }
+  ],
+  "full_text": "追い詰めてるはずなのに硬すぎる どうやって撃墜するんだよこのマリオ なぜこんなに耐えられる こうして まだじゃない まだ耐えるが痛いぞダメージ 復帰阻止もうますぎる マジ",
+  "detected_language": "ja",
+  "corrections": []
+}

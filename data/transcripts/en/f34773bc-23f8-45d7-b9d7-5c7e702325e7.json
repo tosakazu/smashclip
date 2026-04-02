@@ -1,0 +1,106 @@
+{
+  "id": "f34773bc-23f8-45d7-b9d7-5c7e702325e7",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.8,
+      "text": "Neo's really standing out on that fourth one!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "4つ目に目立ちましたからねネオ選手の"
+    },
+    {
+      "start": 1.8,
+      "end": 5.5,
+      "text": "Now for the ledge exchanges",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあ崖回りのやりとり"
+    },
+    {
+      "start": 5.5,
+      "end": 6.94,
+      "text": "Another cycle or two",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "もう一つ二つ回っている"
+    },
+    {
+      "start": 6.94,
+      "end": 9.08,
+      "text": "Bair—what's he doing here?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空後ここはどうするか"
+    },
+    {
+      "start": 9.08,
+      "end": 10.54,
+      "text": "Side B doesn't land, but...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "横必殺技は当たらないが"
+    },
+    {
+      "start": 10.54,
+      "end": 12.44,
+      "text": "Then Arsene just goes dormant",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "その後のそのままがアルセーヌが寝る"
+    },
+    {
+      "start": 12.44,
+      "end": 14.8,
+      "text": "Arsene's cut off!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "アルセーヌの切らせられるぞ"
+    },
+    {
+      "start": 14.8,
+      "end": 16.54,
+      "text": "Up air gets it!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空上なんで撃破できてる"
+    },
+    {
+      "start": 16.54,
+      "end": 22.56,
+      "text": "Forced into roll getup! Forward smash!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここで回避上がりにさせていきました横スマッシュ"
+    }
+  ],
+  "full_text": "Neo's really standing out on that fourth one! Now for the ledge exchanges Another cycle or two Bair—what's he doing here? Side B doesn't land, but... Then Arsene just goes dormant Arsene's cut off! Up air gets it! Forced into roll getup! Forward smash!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 3,
+      "original": "空中しろ",
+      "corrected": "空後",
+      "rule": "misheard: 空中しろ→空後"
+    },
+    {
+      "segment_idx": 4,
+      "original": "横見つき寿司",
+      "corrected": "横必殺技",
+      "rule": "misheard"
+    },
+    {
+      "segment_idx": 5,
+      "original": "リオスが寝る",
+      "corrected": "アルセーヌが寝る",
+      "rule": "misheard: character name (Joker's Arsene)"
+    },
+    {
+      "segment_idx": 6,
+      "original": "あるせいの",
+      "corrected": "アルセーヌの",
+      "rule": "character name"
+    }
+  ]
+}

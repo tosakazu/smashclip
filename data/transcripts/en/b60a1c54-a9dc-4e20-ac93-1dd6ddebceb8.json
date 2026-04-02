@@ -1,0 +1,70 @@
+{
+  "id": "b60a1c54-a9dc-4e20-ac93-1dd6ddebceb8",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.28,
+      "text": "Another nair!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "もう一回空中ニュートラル"
+    },
+    {
+      "start": 1.28,
+      "end": 3.22,
+      "text": "Kyon takes control",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "今度はキョンの展開になる"
+    },
+    {
+      "start": 3.22,
+      "end": 4.74,
+      "text": "Bomb down, clean tech!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "爆弾落として受け身きっちり"
+    },
+    {
+      "start": 4.74,
+      "end": 5.62,
+      "text": "And the second exchange",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そして2回目の分け"
+    },
+    {
+      "start": 5.62,
+      "end": 7.92,
+      "text": "Gokiboi with the spin slash",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ゴキボイ回転斬り"
+    },
+    {
+      "start": 7.92,
+      "end": 9.62,
+      "text": "Incredible pace!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "展開が早い"
+    }
+  ],
+  "full_text": "Another nair! Kyon takes control Bomb down, clean tech! And the second exchange Gokiboi with the spin slash Incredible pace!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "空中ネタル",
+      "corrected": "空中ニュートラル",
+      "rule": "move name"
+    },
+    {
+      "segment_idx": 2,
+      "original": "受け目",
+      "corrected": "受け身",
+      "rule": "kanji homophone"
+    }
+  ]
+}

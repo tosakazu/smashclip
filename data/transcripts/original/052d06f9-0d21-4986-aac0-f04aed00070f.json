@@ -1,0 +1,32 @@
+{
+  "id": "052d06f9-0d21-4986-aac0-f04aed00070f",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.5,
+      "text": "一応",
+      "language": "ja"
+    },
+    {
+      "start": 0.5,
+      "end": 6.58,
+      "text": "さあザクさんなんで",
+      "language": "ja"
+    },
+    {
+      "start": 6.58,
+      "end": 7.8,
+      "text": "外に飛ばせ",
+      "language": "ja"
+    },
+    {
+      "start": 7.8,
+      "end": 12.68,
+      "text": "お互い一歩も",
+      "language": "ja"
+    }
+  ],
+  "full_text": "一応 さあザクさんなんで 外に飛ばせ お互い一歩も",
+  "detected_language": "ja",
+  "corrections": []
+}

@@ -1,0 +1,26 @@
+{
+  "id": "a95e685f-e4d5-4a7f-872e-53deb74cfcad",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.76,
+      "text": "どうしても自分の技を当てに行くときにゼルダに近づいて",
+      "language": "ja"
+    },
+    {
+      "start": 3.76,
+      "end": 5.96,
+      "text": "ゼルダの技と向き合わなければならない",
+      "language": "ja"
+    },
+    {
+      "start": 5.96,
+      "end": 6.78,
+      "text": "しかし雷を当てて",
+      "language": "ja"
+    }
+  ],
+  "full_text": "どうしても自分の技を当てに行くときにゼルダに近づいて ゼルダの技と向き合わなければならない しかし雷を当てて",
+  "detected_language": "ja",
+  "corrections": []
+}

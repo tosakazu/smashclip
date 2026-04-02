@@ -1,0 +1,39 @@
+{
+  "id": "2b522246-2baf-4d72-ba4f-5e6dfc091a0d",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.64,
+      "text": "ここ突き取ってきたが横強に対してトロッコ側はまだ静観",
+      "language": "ja"
+    },
+    {
+      "start": 4.64,
+      "end": 6.4,
+      "text": "トロッコ来た",
+      "language": "ja"
+    },
+    {
+      "start": 6.4,
+      "end": 8.52,
+      "text": "降り空Nに打たれる 変化",
+      "language": "ja"
+    }
+  ],
+  "full_text": "ここ突き取ってきたが横強に対してトロッコ側はまだ静観 トロッコ来た 降り空Nに打たれる 変化",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "横橋に対してトロッコ側はまだ正観",
+      "corrected": "横強に対してトロッコ側はまだ静観",
+      "rule": "kanji: 横橋→横強, 正観→静観"
+    },
+    {
+      "segment_idx": 2,
+      "original": "折り口に打たれる変化",
+      "corrected": "降り空Nに打たれる 変化",
+      "rule": "misheard: 折り口→降り空N"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "id": "15b87aec-1e2c-4a15-8037-7328dbccd424",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.16,
+      "text": "KO! Two forward smashes takes out Chico!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "チコを倒す2回横スマッシュ"
+    },
+    {
+      "start": 4.16,
+      "end": 5.8,
+      "text": "There's some serious animosity here!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "恨みがすごいですね"
+    },
+    {
+      "start": 5.8,
+      "end": 7.34,
+      "text": "Yeah, for sure",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そうですね本当に"
+    },
+    {
+      "start": 7.34,
+      "end": 8.0,
+      "text": "He's definitely going for the kill",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "絶対倒す"
+    },
+    {
+      "start": 8.0,
+      "end": 10.08,
+      "text": "'I'm absolutely beating you!' - that's the mindset!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "絶対お前倒してやるからなっていう"
+    },
+    {
+      "start": 10.08,
+      "end": 10.88,
+      "text": "Up smash!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "上スマッシュ"
+    },
+    {
+      "start": 10.88,
+      "end": 11.96,
+      "text": "That's exactly what he was waiting for!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "待ってたんだよ"
+    }
+  ],
+  "full_text": "KO! Two forward smashes takes out Chico! There's some serious animosity here! Yeah, for sure He's definitely going for the kill 'I'm absolutely beating you!' - that's the mindset! Up smash! That's exactly what he was waiting for!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

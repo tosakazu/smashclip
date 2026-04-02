@@ -1,0 +1,57 @@
+{
+  "id": "11ca27f4-7ca3-4431-887d-27b56aea3bc6",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.8,
+      "text": "罠を狙って",
+      "language": "ja"
+    },
+    {
+      "start": 0.8,
+      "end": 2.72,
+      "text": "それが見事ハマりましたね",
+      "language": "ja"
+    },
+    {
+      "start": 2.72,
+      "end": 4.7,
+      "text": "さあここでラスト1分",
+      "language": "ja"
+    },
+    {
+      "start": 4.7,
+      "end": 6.94,
+      "text": "始まりの1分とは違う",
+      "language": "ja"
+    },
+    {
+      "start": 6.94,
+      "end": 8.74,
+      "text": "勝負が始まるでしょう",
+      "language": "ja"
+    },
+    {
+      "start": 8.74,
+      "end": 9.86,
+      "text": "大工",
+      "language": "ja"
+    }
+  ],
+  "full_text": "罠を狙って それが見事ハマりましたね さあここでラスト1分 始まりの1分とは違う 勝負が始まるでしょう 大工",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "私を狙って",
+      "corrected": "罠を狙って",
+      "rule": "Kanji homophone: 私→罠 (trap, Pac-Man context)"
+    },
+    {
+      "segment_idx": 4,
+      "original": "足が始まるでしょう",
+      "corrected": "勝負が始まるでしょう",
+      "rule": "Whisper mishearing: 足→勝負"
+    }
+  ]
+}

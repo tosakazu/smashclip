@@ -1,0 +1,108 @@
+{
+  "id": "ddd3b1ee-1875-4936-af7d-c0483ca7ef1a",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.04,
+      "text": "Into the unstoppable fully charged smash range!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "110%スマッシュ攻撃がくらえない領域に突入"
+    },
+    {
+      "start": 3.04,
+      "end": 4.32,
+      "text": "The landing is brutal!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "着地きつすぎる"
+    },
+    {
+      "start": 4.32,
+      "end": 6.46,
+      "text": "Finally threading that insane landing...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "着地きつすぎる着地をようやく"
+    },
+    {
+      "start": 6.46,
+      "end": 9.06,
+      "text": "Just trying to get through...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ようやく通したいんだが"
+    },
+    {
+      "start": 9.06,
+      "end": 10.42,
+      "text": "Still more coming?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "まだ先なのか"
+    },
+    {
+      "start": 10.42,
+      "end": 11.74,
+      "text": "Barely hanging on...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ギリギリ耐えてるけど"
+    },
+    {
+      "start": 11.74,
+      "end": 12.58,
+      "text": "Way too scary!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "怖すぎる"
+    },
+    {
+      "start": 12.58,
+      "end": 13.68,
+      "text": "But they're still in it!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "耐えてるけどさ"
+    },
+    {
+      "start": 13.68,
+      "end": 15.66,
+      "text": "Tweek is flawless!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "Tweek完璧だ"
+    },
+    {
+      "start": 15.66,
+      "end": 16.84,
+      "text": "And that's it!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そこが決め"
+    }
+  ],
+  "full_text": "Into the unstoppable fully charged smash range! The landing is brutal! Finally threading that insane landing... Just trying to get through... Still more coming? Barely hanging on... Way too scary! But they're still in it! Tweek is flawless! And that's it!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "10%",
+      "corrected": "110%",
+      "rule": "misheard number (damage percentage)"
+    },
+    {
+      "segment_idx": 8,
+      "original": "ケーシロ",
+      "corrected": "Tweek",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 9,
+      "original": "そこがけい",
+      "corrected": "そこが決め",
+      "rule": "misheard word"
+    }
+  ]
+}

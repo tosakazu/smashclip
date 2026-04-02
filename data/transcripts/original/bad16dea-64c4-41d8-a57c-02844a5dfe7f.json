@@ -1,0 +1,26 @@
+{
+  "id": "bad16dea-64c4-41d8-a57c-02844a5dfe7f",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.64,
+      "text": "Snake is definitely one of those characters where you get distracted just a tiny bit and you're looking at a hundred percent",
+      "language": "en"
+    },
+    {
+      "start": 5.08,
+      "end": 6.2,
+      "text": "Yeah, just like that",
+      "language": "en"
+    },
+    {
+      "start": 6.2,
+      "end": 12.88,
+      "text": "Also the FD variant gonna be making the neutral a little bit more difficult for both characters, but the grenade got caught",
+      "language": "en"
+    }
+  ],
+  "full_text": "Snake is definitely one of those characters where you get distracted just a tiny bit and you're looking at a hundred percent Yeah, just like that Also the FD variant gonna be making the neutral a little bit more difficult for both characters, but the grenade got caught",
+  "detected_language": "en",
+  "corrections": []
+}

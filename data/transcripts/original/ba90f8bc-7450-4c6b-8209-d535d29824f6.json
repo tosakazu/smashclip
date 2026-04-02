@@ -1,0 +1,69 @@
+{
+  "id": "ba90f8bc-7450-4c6b-8209-d535d29824f6",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.32,
+      "text": "制限されていきましたが",
+      "language": "ja"
+    },
+    {
+      "start": 1.32,
+      "end": 4.04,
+      "text": "さあこの密着は?",
+      "language": "ja"
+    },
+    {
+      "start": 4.22,
+      "end": 5.74,
+      "text": "弱3段出し切る勇気の選択",
+      "language": "ja"
+    },
+    {
+      "start": 5.74,
+      "end": 7.08,
+      "text": "ここは撃ち抜いたが",
+      "language": "ja"
+    },
+    {
+      "start": 7.08,
+      "end": 8.2,
+      "text": "致命フットが出ているが",
+      "language": "ja"
+    },
+    {
+      "start": 8.2,
+      "end": 9.2,
+      "text": "ルートがなくなった",
+      "language": "ja"
+    },
+    {
+      "start": 9.2,
+      "end": 9.86,
+      "text": "あとエッジ",
+      "language": "ja"
+    },
+    {
+      "start": 9.86,
+      "end": 11.0,
+      "text": "これは見事",
+      "language": "ja"
+    },
+    {
+      "start": 11.0,
+      "end": 13.74,
+      "text": "かっこよすぎるぞ",
+      "language": "ja"
+    }
+  ],
+  "full_text": "制限されていきましたが さあこの密着は? 弱3段出し切る勇気の選択 ここは撃ち抜いたが 致命フットが出ているが ルートがなくなった あとエッジ これは見事 かっこよすぎるぞ",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "弱散弾出し切る",
+      "corrected": "弱3段出し切る",
+      "rule": "move name"
+    }
+  ]
+}

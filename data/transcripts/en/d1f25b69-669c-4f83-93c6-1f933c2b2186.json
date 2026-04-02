@@ -1,0 +1,56 @@
+{
+  "id": "d1f25b69-669c-4f83-93c6-1f933c2b2186",
+  "segments": [
+    {
+      "start": 0.98,
+      "end": 2.58,
+      "text": "Dr. Mario grabs the ledge",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "崖に捕まったドクターマリオ"
+    },
+    {
+      "start": 2.58,
+      "end": 4.16,
+      "text": "Even when sent deep offstage",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "潰すと深くまで来るが"
+    },
+    {
+      "start": 4.16,
+      "end": 6.16,
+      "text": "Both players on the ledge",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "お互い崖掴んだって"
+    },
+    {
+      "start": 6.16,
+      "end": 7.64,
+      "text": "Yeah, that's definitely how it is",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これはさすがにそうですね"
+    },
+    {
+      "start": 7.64,
+      "end": 10.68,
+      "text": "Reads the getup attack calmly",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "攻撃起き上がり見て冷静に"
+    }
+  ],
+  "full_text": "Dr. Mario grabs the ledge Even when sent deep offstage Both players on the ledge Yeah, that's definitely how it is Reads the getup attack calmly",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 4,
+      "original": "攻撃気分かり見て",
+      "corrected": "攻撃起き上がり見て",
+      "rule": "smash term (気分かり→起き上がり, ledge getup attack)"
+    }
+  ]
+}

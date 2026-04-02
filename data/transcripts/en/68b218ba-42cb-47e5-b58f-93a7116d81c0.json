@@ -1,0 +1,33 @@
+{
+  "id": "68b218ba-42cb-47e5-b58f-93a7116d81c0",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.24,
+      "text": "This ledge getup mixup is solid",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "この駆け上がり択は確かよ"
+    },
+    {
+      "start": 2.24,
+      "end": 8.9,
+      "text": "And that inverted spacing approach",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そして紫反転シュートブレイク"
+    },
+    {
+      "start": 8.9,
+      "end": 12.08,
+      "text": "This is the setup that catches you when you least expect it",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "忘れた頃にやってくるのがこのセットアップ"
+    }
+  ],
+  "full_text": "This ledge getup mixup is solid And that inverted spacing approach This is the setup that catches you when you least expect it",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

@@ -1,0 +1,54 @@
+{
+  "id": "e1b0e0ff-fc9d-4925-b838-02d8a399a1ad",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.46,
+      "text": "Fair into up B connect!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "上り空前から上B接続"
+    },
+    {
+      "start": 3.46,
+      "end": 6.42,
+      "text": "Just barely short on the height",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "若干高度が足りなかったか"
+    },
+    {
+      "start": 6.42,
+      "end": 9.52,
+      "text": "Up smash on platform for the connect",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "上スマッシュ作業台で接続の場所"
+    },
+    {
+      "start": 9.52,
+      "end": 11.32,
+      "text": "This is the ledge trap setup",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここは前狩りのセット"
+    }
+  ],
+  "full_text": "Fair into up B connect! Just barely short on the height Up smash on platform for the connect This is the ledge trap setup",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "上りクエから",
+      "corrected": "上り空前から",
+      "rule": "smash term (forward air)"
+    },
+    {
+      "segment_idx": 3,
+      "original": "全狩りのセット",
+      "corrected": "前狩りのセット",
+      "rule": "misheard word"
+    }
+  ]
+}

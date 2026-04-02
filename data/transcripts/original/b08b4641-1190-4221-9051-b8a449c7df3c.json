@@ -1,0 +1,69 @@
+{
+  "id": "b08b4641-1190-4221-9051-b8a449c7df3c",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.72,
+      "text": "地上を走るのがメインのファイターですもんね",
+      "language": "ja"
+    },
+    {
+      "start": 1.72,
+      "end": 3.7,
+      "text": "かといって地上に対して",
+      "language": "ja"
+    },
+    {
+      "start": 3.7,
+      "end": 6.32,
+      "text": "うまく咎めて撃墜持っていくって言われると",
+      "language": "ja"
+    },
+    {
+      "start": 6.32,
+      "end": 7.52,
+      "text": "スマッシュとかもらうので",
+      "language": "ja"
+    },
+    {
+      "start": 7.52,
+      "end": 9.74,
+      "text": "ちょっとリスクが噛み合ってんのかな",
+      "language": "ja"
+    },
+    {
+      "start": 9.74,
+      "end": 11.84,
+      "text": "っていうのが印象としてはあります",
+      "language": "ja"
+    },
+    {
+      "start": 11.84,
+      "end": 13.58,
+      "text": "さあ",
+      "language": "ja"
+    },
+    {
+      "start": 13.58,
+      "end": 14.5,
+      "text": "崖捕まり",
+      "language": "ja"
+    }
+  ],
+  "full_text": "地上を走るのがメインのファイターですもんね かといって地上に対して うまく咎めて撃墜持っていくって言われると スマッシュとかもらうので ちょっとリスクが噛み合ってんのかな っていうのが印象としてはあります さあ 崖捕まり",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 3,
+      "original": "スマッシュとか多くので",
+      "corrected": "スマッシュとかもらうので",
+      "rule": "mishearing"
+    },
+    {
+      "segment_idx": 7,
+      "original": "崖捕まえ",
+      "corrected": "崖捕まり",
+      "rule": "smash term (崖捕まり)"
+    }
+  ]
+}

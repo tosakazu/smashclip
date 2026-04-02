@@ -1,0 +1,150 @@
+{
+  "id": "ccbc449c-b50a-4d72-8482-d5c47556c982",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.26,
+      "text": "Forward tilt gets dodged!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "宇宙ジョーカー横強でいなされて"
+    },
+    {
+      "start": 2.26,
+      "end": 3.98,
+      "text": "Arsene wears off, but—",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "アルセーヌが帰ってしまうが"
+    },
+    {
+      "start": 3.98,
+      "end": 6.12,
+      "text": "Up air, up air, up air, up air!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空上空上空上空上で"
+    },
+    {
+      "start": 6.12,
+      "end": 7.44,
+      "text": "Dropping, dropping, dropping, dropping!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "落として落として落として落として"
+    },
+    {
+      "start": 7.44,
+      "end": 8.74,
+      "text": "How many times is he gonna drop him?!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "何回落とすんですか"
+    },
+    {
+      "start": 8.74,
+      "end": 12.12,
+      "text": "It never ends, never ends, STILL never ends!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "終わらない終わらないまだ終わらない"
+    },
+    {
+      "start": 12.12,
+      "end": 13.72,
+      "text": "All the way to KO percent!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "撃墜するパーセントになるまで"
+    },
+    {
+      "start": 13.72,
+      "end": 15.5,
+      "text": "Won't stop the up air juggle!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空上落としをやめない"
+    },
+    {
+      "start": 15.5,
+      "end": 17.86,
+      "text": "Still won't stop!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "まだやめない"
+    },
+    {
+      "start": 17.86,
+      "end": 19.86,
+      "text": "How many times does this connect?!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "何回繋がるんだこれは"
+    },
+    {
+      "start": 19.86,
+      "end": 21.7,
+      "text": "How many times is this happening?!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "何回行われるんだこれは"
+    },
+    {
+      "start": 21.7,
+      "end": 24.02,
+      "text": "How much percent is stacking?!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "何パーセント積み重なっているんだこれは"
+    },
+    {
+      "start": 24.02,
+      "end": 26.68,
+      "text": "Come on, still going, still going!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあまだ続くぞまだ続くぞ"
+    },
+    {
+      "start": 26.68,
+      "end": 28.4,
+      "text": "Space Joker's at 108%!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあ宇宙ジョーカー現在108%"
+    },
+    {
+      "start": 28.4,
+      "end": 30.04,
+      "text": "Until the KO percent!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "撃墜できるパーセントまで"
+    },
+    {
+      "start": 30.04,
+      "end": 30.6,
+      "text": "COMPLETE!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "完遂"
+    }
+  ],
+  "full_text": "Forward tilt gets dodged! Arsene wears off, but— Up air, up air, up air, up air! Dropping, dropping, dropping, dropping! How many times is he gonna drop him?! It never ends, never ends, STILL never ends! All the way to KO percent! Won't stop the up air juggle! Still won't stop! How many times does this connect?! How many times is this happening?! How much percent is stacking?! Come on, still going, still going! Space Joker's at 108%! Until the KO percent! COMPLETE!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "空へ空へ空へ空へ",
+      "corrected": "空上空上空上空上",
+      "rule": "smash term (空上=up air)"
+    },
+    {
+      "segment_idx": 7,
+      "original": "空へ落としをやめない",
+      "corrected": "空上落としをやめない",
+      "rule": "smash term (空上落とし)"
+    }
+  ]
+}

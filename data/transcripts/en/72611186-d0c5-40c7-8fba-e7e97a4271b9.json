@@ -1,0 +1,156 @@
+{
+  "id": "72611186-d0c5-40c7-8fba-e7e97a4271b9",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Oh that's nasty! Look at that!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "おーうまい!見てる!"
+    },
+    {
+      "start": 2.0,
+      "end": 4.0,
+      "text": "Barely survives!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ギリギリ耐える"
+    },
+    {
+      "start": 4.0,
+      "end": 6.0,
+      "text": "Is there a weight range for that?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ギリコンがある程度重量は?"
+    },
+    {
+      "start": 6.0,
+      "end": 8.0,
+      "text": "Is it consistent?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "補填されているか?"
+    },
+    {
+      "start": 8.0,
+      "end": 10.0,
+      "text": "That's insane!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "うますぎる!"
+    },
+    {
+      "start": 10.0,
+      "end": 12.0,
+      "text": "Instantly flips the advantage!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ラインを一瞬にして入れ替える"
+    },
+    {
+      "start": 12.0,
+      "end": 14.0,
+      "text": "Both options KO!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "どっちも撃墜する"
+    },
+    {
+      "start": 14.0,
+      "end": 16.0,
+      "text": "Forward tilt!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "横強!"
+    },
+    {
+      "start": 16.0,
+      "end": 18.0,
+      "text": "Didn't we just see that?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "何かさっきも見たそれ"
+    },
+    {
+      "start": 18.0,
+      "end": 20.0,
+      "text": "Banana in hand",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "バナナを持っている状況"
+    },
+    {
+      "start": 20.0,
+      "end": 22.0,
+      "text": "That grab is crazy!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "掴みがえぐい!"
+    },
+    {
+      "start": 22.0,
+      "end": 24.0,
+      "text": "That's too good!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "うますぎるー!"
+    },
+    {
+      "start": 24.0,
+      "end": 26.0,
+      "text": "That's too good!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "うますぎるー!"
+    },
+    {
+      "start": 26.0,
+      "end": 28.0,
+      "text": "That grab is...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "その掴みは"
+    },
+    {
+      "start": 28.0,
+      "end": 30.0,
+      "text": "That one...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "その片目は"
+    },
+    {
+      "start": 30.0,
+      "end": 32.0,
+      "text": "Absolutely",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "絶対に"
+    }
+  ],
+  "full_text": "Oh that's nasty! Look at that! Barely survives! Is there a weight range for that? Is it consistent? That's insane! Instantly flips the advantage! Both options KO! Forward tilt! Didn't we just see that? Banana in hand That grab is crazy! That's too good! That's too good! That grab is... That one... Absolutely",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 6,
+      "original": "激戦する",
+      "corrected": "撃墜する",
+      "rule": "kanji homophone: 激戦→撃墜"
+    },
+    {
+      "segment_idx": 10,
+      "original": "片目がえぐい",
+      "corrected": "掴みがえぐい",
+      "rule": "Whisper mishearing"
+    },
+    {
+      "segment_idx": 13,
+      "original": "その片目は",
+      "corrected": "その掴みは",
+      "rule": "Whisper mishearing"
+    }
+  ]
+}

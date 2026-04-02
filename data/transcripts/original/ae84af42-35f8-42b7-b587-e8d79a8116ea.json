@@ -1,0 +1,44 @@
+{
+  "id": "ae84af42-35f8-42b7-b587-e8d79a8116ea",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.58,
+      "text": "Que con dos, tres interacciones te puede llegar a hacer muchísimo daño",
+      "language": "es"
+    },
+    {
+      "start": 6.58,
+      "end": 8.28,
+      "text": "Y bueno...",
+      "language": "es"
+    },
+    {
+      "start": 8.28,
+      "end": 8.86,
+      "text": "¿Qué pasó?",
+      "language": "es"
+    },
+    {
+      "start": 9.5,
+      "end": 10.16,
+      "text": "¿Qué pasó?",
+      "language": "es"
+    },
+    {
+      "start": 10.52,
+      "end": 10.84,
+      "text": "¿Qué pasó?",
+      "language": "es"
+    },
+    {
+      "start": 11.32,
+      "end": 12.5,
+      "text": "Se le...",
+      "language": "es"
+    }
+  ],
+  "full_text": "Que con dos, tres interacciones te puede llegar a hacer muchísimo daño Y bueno... ¿Qué pasó? ¿Qué pasó? ¿Qué pasó? Se le...",
+  "detected_language": "es",
+  "corrections": []
+}

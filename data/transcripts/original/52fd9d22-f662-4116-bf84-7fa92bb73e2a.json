@@ -1,0 +1,33 @@
+{
+  "id": "52fd9d22-f662-4116-bf84-7fa92bb73e2a",
+  "segments": [
+    {
+      "start": 0.52,
+      "end": 1.92,
+      "text": "インシュラルドクもありましたから",
+      "language": "ja"
+    },
+    {
+      "start": 1.92,
+      "end": 5.98,
+      "text": "フリップからどこでちょっとブレーキがかかる",
+      "language": "ja"
+    },
+    {
+      "start": 5.98,
+      "end": 9.32,
+      "text": "フリップに対してはもちろんトロッコの一方勝ち",
+      "language": "ja"
+    }
+  ],
+  "full_text": "インシュラルドクもありましたから フリップからどこでちょっとブレーキがかかる フリップに対してはもちろんトロッコの一方勝ち",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "とロッコ",
+      "corrected": "トロッコ",
+      "rule": "Steve terminology: minecart"
+    }
+  ]
+}

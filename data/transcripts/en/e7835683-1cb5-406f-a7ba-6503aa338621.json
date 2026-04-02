@@ -1,0 +1,41 @@
+{
+  "id": "e7835683-1cb5-406f-a7ba-6503aa338621",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.86,
+      "text": "Getting the jabs in",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "弱を入れていきます"
+    },
+    {
+      "start": 0.86,
+      "end": 3.34,
+      "text": "Off the Hook Shot",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "フックショットから"
+    },
+    {
+      "start": 3.34,
+      "end": 5.92,
+      "text": "And from the bomb",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さらに爆弾からの"
+    },
+    {
+      "start": 5.92,
+      "end": 6.5,
+      "text": "into the air",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空中"
+    }
+  ],
+  "full_text": "Getting the jabs in off the Hook Shot and from the bomb into the air",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

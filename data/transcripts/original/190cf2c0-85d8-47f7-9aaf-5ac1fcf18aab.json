@@ -1,0 +1,63 @@
+{
+  "id": "190cf2c0-85d8-47f7-9aaf-5ac1fcf18aab",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "もう崖端のフリップキックでも",
+      "language": "ja"
+    },
+    {
+      "start": 2.0,
+      "end": 3.38,
+      "text": "うーっとですよ",
+      "language": "ja"
+    },
+    {
+      "start": 3.38,
+      "end": 5.38,
+      "text": "どうだ!ここもシールド張っている!",
+      "language": "ja"
+    },
+    {
+      "start": 6.64,
+      "end": 7.94,
+      "text": "何かバナナ引っ掛けたいが",
+      "language": "ja"
+    },
+    {
+      "start": 7.94,
+      "end": 9.96,
+      "text": "ジャストシールドで",
+      "language": "ja"
+    },
+    {
+      "start": 9.96,
+      "end": 11.02,
+      "text": "取っていったところ",
+      "language": "ja"
+    },
+    {
+      "start": 11.02,
+      "end": 13.02,
+      "text": "狙いかかったし",
+      "language": "ja"
+    }
+  ],
+  "full_text": "もう崖端のフリップキックでも うーっとですよ どうだ!ここもシールド張っている! 何かバナナ引っ掛けたいが ジャストシールドで 取っていったところ 狙いかかったし",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "もうガキハチのフリップキックでも",
+      "corrected": "もう崖端のフリップキックでも",
+      "rule": "Kanji homophone: ガキハチ→崖端"
+    },
+    {
+      "segment_idx": 3,
+      "original": "何かバラの引っ掛けたいが",
+      "corrected": "何かバナナ引っ掛けたいが",
+      "rule": "Smash term: バラ→バナナ (Diddy Kong's banana)"
+    }
+  ]
+}

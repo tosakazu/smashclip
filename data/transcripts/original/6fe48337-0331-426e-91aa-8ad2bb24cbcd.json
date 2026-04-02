@@ -1,0 +1,32 @@
+{
+  "id": "6fe48337-0331-426e-91aa-8ad2bb24cbcd",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.14,
+      "text": "素晴らしいです",
+      "language": "ja"
+    },
+    {
+      "start": 1.14,
+      "end": 3.24,
+      "text": "禁じ手ですよ多分",
+      "language": "ja"
+    },
+    {
+      "start": 3.24,
+      "end": 5.84,
+      "text": "あえてファントムの前にいたんです",
+      "language": "ja"
+    }
+  ],
+  "full_text": "素晴らしいです 禁じ手ですよ多分 あえてファントムの前にいたんです",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_index": 1,
+      "original": "金銀ですよ多分",
+      "corrected": "禁じ手ですよ多分"
+    }
+  ]
+}

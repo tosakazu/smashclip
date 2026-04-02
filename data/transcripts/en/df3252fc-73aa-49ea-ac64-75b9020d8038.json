@@ -1,0 +1,56 @@
+{
+  "id": "df3252fc-73aa-49ea-ac64-75b9020d8038",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.18,
+      "text": "I saw that!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "分かっていた!"
+    },
+    {
+      "start": 1.4,
+      "end": 2.36,
+      "text": "Reading the dodge!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "あー回避見てる!"
+    },
+    {
+      "start": 2.92,
+      "end": 5.24,
+      "text": "With the spacing, he's not committing to down smash, but...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ラインがあるのでまだ下スマしなかったが"
+    },
+    {
+      "start": 5.24,
+      "end": 6.58,
+      "text": "Whoa!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "おー!"
+    },
+    {
+      "start": 6.76,
+      "end": 7.46,
+      "text": "Cruising!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "余裕してる"
+    }
+  ],
+  "full_text": "I saw that! Reading the dodge! With the spacing, he's not committing to down smash, but... Whoa! Cruising!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "下水しなかったが",
+      "corrected": "下スマしなかったが",
+      "rule": "smash term (down smash)"
+    }
+  ]
+}

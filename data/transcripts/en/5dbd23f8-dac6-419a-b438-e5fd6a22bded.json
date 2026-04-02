@@ -1,0 +1,41 @@
+{
+  "id": "5dbd23f8-dac6-419a-b438-e5fd6a22bded",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.52,
+      "text": "One more!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "もう一回"
+    },
+    {
+      "start": 0.52,
+      "end": 3.16,
+      "text": "This boomerang follow-up is incredibly strong!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "このブーメランからブーメラン非常に強力です"
+    },
+    {
+      "start": 3.16,
+      "end": 6.38,
+      "text": "And the return boomerang was handled perfectly too!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そして戻りブーメランもケアしたよくすまして"
+    },
+    {
+      "start": 6.38,
+      "end": 7.96,
+      "text": "And then—",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そしてキョンと"
+    }
+  ],
+  "full_text": "One more! This boomerang follow-up is incredibly strong! And the return boomerang was handled perfectly too! And then—",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

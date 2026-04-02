@@ -1,0 +1,97 @@
+{
+  "id": "a51ffe63-7ea7-4da5-ba43-e7e6fb565ea4",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.54,
+      "text": "Hard to create openings with a spin against that neutral getup near the blast zone",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "上でのこのその場起きに対してスピンでリスクつけるのがもう難しい"
+    },
+    {
+      "start": 3.54,
+      "end": 5.98,
+      "text": "Been getting KO'd repeatedly, so here we go",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "何度も撃墜されてるのでこれで"
+    },
+    {
+      "start": 5.98,
+      "end": 9.12,
+      "text": "That forward smash was scary but just barely missed!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "どうよ横スマ怖かったがわずかに届かず"
+    },
+    {
+      "start": 9.12,
+      "end": 10.26,
+      "text": "Neo mashes out",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "暴れたNeo"
+    },
+    {
+      "start": 10.26,
+      "end": 13.0,
+      "text": "Up tilt connects for 134",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "上強合わせて134"
+    },
+    {
+      "start": 13.0,
+      "end": 14.04,
+      "text": "Playing aggressive - keeps the airdodge active",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "強気ですね回避を切らない"
+    },
+    {
+      "start": 14.04,
+      "end": 16.34,
+      "text": "How about that up throw?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "呼んでいる上投げはどうだ"
+    },
+    {
+      "start": 16.34,
+      "end": 19.0,
+      "text": "Ouch, that's a brutal KO",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "撃墜痛いなー"
+    },
+    {
+      "start": 20.48,
+      "end": 25.68,
+      "text": "Playing out the spin action to the very end",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "最後までスピン後の行動"
+    }
+  ],
+  "full_text": "Hard to create openings with a spin against that neutral getup near the blast zone Been getting KO'd repeatedly, so here we go That forward smash was scary but just barely missed! Neo mashes out Up tilt connects for 134 Playing aggressive - keeps the airdodge active How about that up throw? Ouch, that's a brutal KO Playing out the spin action to the very end",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "original": "若起き",
+      "corrected": "その場起き",
+      "reason": "崖のその場起き上がり"
+    },
+    {
+      "original": "コスマ",
+      "corrected": "横スマ",
+      "reason": "横スマッシュの略称"
+    },
+    {
+      "original": "ネオ",
+      "corrected": "Neo",
+      "reason": "プレイヤー名Neo"
+    }
+  ]
+}

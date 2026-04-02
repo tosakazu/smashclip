@@ -1,0 +1,62 @@
+{
+  "id": "c0c21d0e-8101-44eb-93d3-0a355d40cd57",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.96,
+      "text": "うまく暴れて",
+      "language": "ja"
+    },
+    {
+      "start": 0.96,
+      "end": 2.72,
+      "text": "なんとか帰ってこれます",
+      "language": "ja"
+    },
+    {
+      "start": 2.72,
+      "end": 3.48,
+      "text": "弱暴れ",
+      "language": "ja"
+    },
+    {
+      "start": 3.48,
+      "end": 6.38,
+      "text": "空中後ろ連",
+      "language": "ja"
+    },
+    {
+      "start": 6.38,
+      "end": 8.34,
+      "text": "空中ニュートラル外に追い出されて",
+      "language": "ja"
+    },
+    {
+      "start": 8.34,
+      "end": 9.48,
+      "text": "これ帰ってこれんの?",
+      "language": "ja"
+    },
+    {
+      "start": 9.52,
+      "end": 10.26,
+      "text": "下からルートがある",
+      "language": "ja"
+    },
+    {
+      "start": 10.26,
+      "end": 11.42,
+      "text": "帰ってこれないよ",
+      "language": "ja"
+    },
+    {
+      "start": 11.42,
+      "end": 12.36,
+      "text": "この距離がちょっと足りなかった",
+      "language": "ja"
+    }
+  ],
+  "full_text": "うまく暴れて なんとか帰ってこれます 弱暴れ 空中後ろ連 空中ニュートラル外に追い出されて これ帰ってこれんの? 下からルートがある 帰ってこれないよ この距離がちょっと足りなかった",
+  "detected_language": "ja",
+  "corrections": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "df2c7053-710f-4052-b42a-d8094dee5011",
+  "segments": [
+    {
+      "start": 0.24,
+      "end": 7.28,
+      "text": "Take the stock away. Good back air as well, but not enough to kill. Snake, quite a heavy lad.",
+      "language": "en"
+    },
+    {
+      "start": 8.54,
+      "end": 9.12,
+      "text": "Oh.",
+      "language": "en"
+    }
+  ],
+  "full_text": "Take the stock away. Good back air as well, but not enough to kill. Snake, quite a heavy lad. Oh.",
+  "detected_language": "en",
+  "corrections": []
+}

@@ -1,0 +1,90 @@
+{
+  "id": "e29b5dff-f4cc-46f9-93e4-64d9d155b9d5",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.02,
+      "text": "Because the forward and dash attack stances look similar",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "前とDAの姿勢というかポーズが似てるから"
+    },
+    {
+      "start": 3.02,
+      "end": 3.8,
+      "text": "Oh! What's this?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "おっとこれは?"
+    },
+    {
+      "start": 4.4,
+      "end": 6.3,
+      "text": "But that nair spacing is clean and sends them up!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "逆に空Nうまく引かれて上に飛んで"
+    },
+    {
+      "start": 6.3,
+      "end": 7.84,
+      "text": "That's an incredible angle though...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "すごい良いベクトルだったんですが"
+    },
+    {
+      "start": 7.84,
+      "end": 8.94,
+      "text": "Reading the spot dodge",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "その場回避を見ている"
+    },
+    {
+      "start": 8.94,
+      "end": 10.14,
+      "text": "Off the down throw",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "下投げから"
+    },
+    {
+      "start": 10.14,
+      "end": 12.72,
+      "text": "Up tilt to up air - that's Robot's bread and butter!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "上強空上 ロボットの十八番"
+    }
+  ],
+  "full_text": "Because the forward and dash attack stances look similar Oh! What's this? But that nair spacing is clean and sends them up! That's an incredible angle though... Reading the spot dodge Off the down throw Up tilt to up air - that's Robot's bread and butter!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "前とBAの姿勢",
+      "corrected": "前とDAの姿勢",
+      "rule": "move abbreviation: DA"
+    },
+    {
+      "segment_idx": 2,
+      "original": "逆中ニュートラル",
+      "corrected": "逆に空Nうまく",
+      "rule": "misheard: 空N(空中ニュートラル)"
+    },
+    {
+      "segment_idx": 4,
+      "original": "そのばかりを見ている",
+      "corrected": "その場回避を見ている",
+      "rule": "misheard: その場回避"
+    },
+    {
+      "segment_idx": 6,
+      "original": "上強空へロボットの電火の砲",
+      "corrected": "上強空上 ロボットの十八番",
+      "rule": "misheard: 空上, 十八番(おはこ)"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "c10777df-a461-44b3-8db3-6eae114dd869",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.66,
+      "text": "Questionable!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "怪しい"
+    },
+    {
+      "start": 0.66,
+      "end": 2.0,
+      "text": "Gets the early stock lead!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ストック先制はYン"
+    },
+    {
+      "start": 2.0,
+      "end": 5.96,
+      "text": "But then!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "だがこの後"
+    }
+  ],
+  "full_text": "Questionable! Gets the early stock lead! But then!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "ストック先生はY",
+      "corrected": "ストック先制はYン",
+      "rule": "player name + misheard"
+    }
+  ]
+}

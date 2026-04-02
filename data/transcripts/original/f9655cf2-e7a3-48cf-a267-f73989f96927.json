@@ -1,0 +1,33 @@
+{
+  "id": "f9655cf2-e7a3-48cf-a267-f73989f96927",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.12,
+      "text": "いいぞ",
+      "language": "ja"
+    },
+    {
+      "start": 1.12,
+      "end": 2.72,
+      "text": "強引に",
+      "language": "ja"
+    },
+    {
+      "start": 2.72,
+      "end": 3.78,
+      "text": "いきまーす",
+      "language": "ja"
+    }
+  ],
+  "full_text": "いいぞ 強引に いきまーす",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "いいえ",
+      "corrected": "いいぞ",
+      "rule": "misheard"
+    }
+  ]
+}

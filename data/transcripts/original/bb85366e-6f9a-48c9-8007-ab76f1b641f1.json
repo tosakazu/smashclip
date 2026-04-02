@@ -1,0 +1,38 @@
+{
+  "id": "bb85366e-6f9a-48c9-8007-ab76f1b641f1",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.02,
+      "text": "現在お互い80%ほど",
+      "language": "ja"
+    },
+    {
+      "start": 4.02,
+      "end": 6.24,
+      "text": "丸々一つの差があるが",
+      "language": "ja"
+    },
+    {
+      "start": 6.24,
+      "end": 7.84,
+      "text": "このままケン選手押し切るのか",
+      "language": "ja"
+    },
+    {
+      "start": 7.84,
+      "end": 10.46,
+      "text": "上スマッシュから横スマッシュ",
+      "language": "ja"
+    },
+    {
+      "start": 10.46,
+      "end": 11.28,
+      "text": "回避を挟んで",
+      "language": "ja"
+    }
+  ],
+  "full_text": "現在お互い80%ほど 丸々一つの差があるが このままケン選手押し切るのか 上スマッシュから横スマッシュ 回避を挟んで",
+  "detected_language": "ja",
+  "corrections": []
+}

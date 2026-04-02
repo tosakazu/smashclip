@@ -1,0 +1,40 @@
+{
+  "id": "79115788-7852-4960-add9-fef455bbc307",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.12,
+      "text": "Not even a nair, it's a bair with shifted timing!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空中ニュートラルでもなくさらにタイミングをずらす空中後ろであったんですが"
+    },
+    {
+      "start": 4.12,
+      "end": 5.66,
+      "text": "Kuroe commits to shield!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "くろー選手シールドを張り切って"
+    },
+    {
+      "start": 5.66,
+      "end": 8.94,
+      "text": "Offstage nair—that's the KO!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "着点外空中ニュートラルを飛び込んできてこれは撃墜です"
+    }
+  ],
+  "full_text": "Not even a nair, it's a bair with shifted timing! Kuroe commits to shield! Offstage nair—that's the KO!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "黒選手",
+      "corrected": "くろー選手",
+      "rule": "player name"
+    }
+  ]
+}

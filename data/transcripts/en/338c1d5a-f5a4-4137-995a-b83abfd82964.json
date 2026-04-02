@@ -1,0 +1,33 @@
+{
+  "id": "338c1d5a-f5a4-4137-995a-b83abfd82964",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.46,
+      "text": "Not a combo",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "コンボにはならない"
+    },
+    {
+      "start": 3.46,
+      "end": 5.7,
+      "text": "Spin doesn't work either",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "スピンも"
+    },
+    {
+      "start": 5.7,
+      "end": 9.46,
+      "text": "That's a great read",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここはいい判断だ"
+    }
+  ],
+  "full_text": "Not a combo Spin doesn't work either That's a great read",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

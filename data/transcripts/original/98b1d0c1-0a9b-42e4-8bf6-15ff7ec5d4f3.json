@@ -1,0 +1,14 @@
+{
+  "id": "98b1d0c1-0a9b-42e4-8bf6-15ff7ec5d4f3",
+  "segments": [],
+  "full_text": "",
+  "detected_language": "absent",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "Faktum 1. (all segments)",
+      "corrected": "(Whisper language detection failed - audio unrecoverable)",
+      "rule": "Whisper language detection failure"
+    }
+  ]
+}

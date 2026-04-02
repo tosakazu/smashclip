@@ -1,0 +1,86 @@
+{
+  "id": "b0b6a149-1b61-499a-ad17-c348e9cae7f5",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.16,
+      "text": "But before it becomes ledge mixups, he's attacking from above",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "しかし崖の読み合いになる前に上を叩いていく"
+    },
+    {
+      "start": 2.16,
+      "end": 3.02,
+      "text": "Yeah, he was doing that",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いやーやってましたね"
+    },
+    {
+      "start": 3.02,
+      "end": 3.68,
+      "text": "Baited him",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "釣りましたね"
+    },
+    {
+      "start": 3.68,
+      "end": 4.08,
+      "text": "Got baited!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "釣りました"
+    },
+    {
+      "start": 4.08,
+      "end": 6.54,
+      "text": "Right, we already saw the side B edgeguard",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "なるほど横Bで狩りに来るのはもう見た"
+    },
+    {
+      "start": 6.54,
+      "end": 8.24,
+      "text": "Won't work twice",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "2度は通じん"
+    },
+    {
+      "start": 8.24,
+      "end": 9.1,
+      "text": "That's the situation",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そんな感じか"
+    },
+    {
+      "start": 9.1,
+      "end": 10.32,
+      "text": "But playing aggressive anyway",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "しかし強気に行く"
+    }
+  ],
+  "full_text": "But before it becomes ledge mixups, he's attacking from above Yeah, he was doing that Baited him Got baited! Right, we already saw the side B edgeguard Won't work twice That's the situation But playing aggressive anyway",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "しかしの読み合いになる前上を叩いていく",
+      "corrected": "しかし崖の読み合いになる前に上を叩いていく",
+      "rule": "context correction"
+    },
+    {
+      "segment_idx": 4,
+      "original": "横ビーで狩りに来る",
+      "corrected": "横Bで狩りに来る",
+      "rule": "move abbreviation (横B)"
+    }
+  ]
+}

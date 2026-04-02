@@ -1,0 +1,52 @@
+{
+  "id": "49ef6734-e947-468c-ba80-fa769dd6a714",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.84,
+      "text": "Zacarry leveraging dair pressure to work back on stage!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ステージ上に空下のプレッシャーを生かして戻ってくるザクレイ"
+    },
+    {
+      "start": 5.84,
+      "end": 7.86,
+      "text": "Lazuma also shielding patiently",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ラゾーマもじっくりシールド"
+    },
+    {
+      "start": 7.86,
+      "end": 9.26,
+      "text": "Forward smash, forward smash!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "横スマ横スマ"
+    }
+  ],
+  "full_text": "Zacarry leveraging dair pressure to work back on stage! Lazuma also shielding patiently Forward smash, forward smash!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "ステージ用に",
+      "corrected": "ステージ上に",
+      "rule": "misheard word"
+    },
+    {
+      "segment_idx": 0,
+      "original": "ナゾグレイ",
+      "corrected": "ザクレイ",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 2,
+      "original": "よこしますよこします",
+      "corrected": "横スマ横スマ",
+      "rule": "move abbreviation"
+    }
+  ]
+}

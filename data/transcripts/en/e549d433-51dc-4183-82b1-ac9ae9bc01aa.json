@@ -1,0 +1,78 @@
+{
+  "id": "e549d433-51dc-4183-82b1-ac9ae9bc01aa",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.8,
+      "text": "Takes the first, second one...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "1段目とって2段目が"
+    },
+    {
+      "start": 2.8,
+      "end": 5.92,
+      "text": "Commits to the aerial anyway!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "灼熱にも空中攻撃"
+    },
+    {
+      "start": 5.92,
+      "end": 7.0,
+      "text": "Does that hit?!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "間に合うんですか今の"
+    },
+    {
+      "start": 7.0,
+      "end": 9.24,
+      "text": "Off-stage but...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "地面ないけどこれ"
+    },
+    {
+      "start": 9.24,
+      "end": 10.42,
+      "text": "Shoryuken!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "昇竜拳"
+    },
+    {
+      "start": 10.42,
+      "end": 12.04,
+      "text": "That's the KO!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "撃墜に至っている"
+    },
+    {
+      "start": 12.04,
+      "end": 12.32,
+      "text": "Whoa!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "あー"
+    }
+  ],
+  "full_text": "Takes the first, second one... Commits to the aerial anyway! Does that hit?! Off-stage but... Shoryuken! That's the KO! Whoa!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 4,
+      "original": "ザシャルケン",
+      "corrected": "昇竜拳",
+      "rule": "misheard: 昇竜拳(Shoryuken)"
+    },
+    {
+      "segment_idx": 5,
+      "original": "激戦に至っている",
+      "corrected": "撃墜に至っている",
+      "rule": "kanji homophone: 撃墜"
+    }
+  ]
+}

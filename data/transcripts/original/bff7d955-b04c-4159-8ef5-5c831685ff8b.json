@@ -1,0 +1,51 @@
+{
+  "id": "bff7d955-b04c-4159-8ef5-5c831685ff8b",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.3,
+      "text": "掴んで上投げ",
+      "language": "ja"
+    },
+    {
+      "start": 3.3,
+      "end": 4.36,
+      "text": "弱弾を",
+      "language": "ja"
+    },
+    {
+      "start": 4.36,
+      "end": 6.0,
+      "text": "避けるかのように",
+      "language": "ja"
+    },
+    {
+      "start": 6.0,
+      "end": 9.28,
+      "text": "右方向に",
+      "language": "ja"
+    },
+    {
+      "start": 9.28,
+      "end": 10.34,
+      "text": "ベクトルを変えていきます",
+      "language": "ja"
+    },
+    {
+      "start": 10.34,
+      "end": 12.5,
+      "text": "そして今度は掴んで上投げ撃墜",
+      "language": "ja"
+    }
+  ],
+  "full_text": "掴んで上投げ 弱弾を 避けるかのように 右方向に ベクトルを変えていきます そして今度は掴んで上投げ撃墜",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 4,
+      "original": "テクトルを変えていきます",
+      "corrected": "ベクトルを変えていきます",
+      "rule": "misheard word"
+    }
+  ]
+}

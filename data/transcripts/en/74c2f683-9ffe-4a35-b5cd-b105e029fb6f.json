@@ -1,0 +1,32 @@
+{
+  "id": "74c2f683-9ffe-4a35-b5cd-b105e029fb6f",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 8.24,
+      "text": "What an impact we're seeing! The smash counter right there - maybe that close-range recovery is the key!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ような影響が見えているか私はゲーム目の前したスマッシュの反撃 近距離かもリターンの出所4年ぐらいいやー"
+    },
+    {
+      "start": 8.24,
+      "end": 10.36,
+      "text": "Delay right into it!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ディレイメガワットそのまま起きや"
+    }
+  ],
+  "full_text": "What an impact we're seeing! The smash counter right there - maybe that close-range recovery is the key! Delay right into it!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "メガボルト",
+      "corrected": "メガワット",
+      "rule": "character move: Min Min メガワット"
+    }
+  ]
+}

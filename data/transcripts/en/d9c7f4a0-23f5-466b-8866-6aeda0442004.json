@@ -1,0 +1,80 @@
+{
+  "id": "d9c7f4a0-23f5-466b-8866-6aeda0442004",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.8,
+      "text": "Extended reach!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "腕が伸びてくる"
+    },
+    {
+      "start": 0.8,
+      "end": 1.86,
+      "text": "Acola dodging!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "回避しているアコラ"
+    },
+    {
+      "start": 1.86,
+      "end": 3.06,
+      "text": "Still in control!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "まだまだ展開継続"
+    },
+    {
+      "start": 3.06,
+      "end": 5.36,
+      "text": "What's the call!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあどうする"
+    },
+    {
+      "start": 5.36,
+      "end": 7.14,
+      "text": "Item spawning!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ダイヤの武器ここで生成"
+    },
+    {
+      "start": 7.14,
+      "end": 8.26,
+      "text": "Nice!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "うまい"
+    },
+    {
+      "start": 8.26,
+      "end": 9.36,
+      "text": "Right here...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここは"
+    },
+    {
+      "start": 9.36,
+      "end": 11.86,
+      "text": "Bold action!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "強気行動"
+    }
+  ],
+  "full_text": "Extended reach! Acola dodging! Still in control! What's the call! Item spawning! Nice! Right here... Bold action!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "回避しているアコーラ",
+      "corrected": "回避しているアコラ",
+      "rule": "player name"
+    }
+  ]
+}

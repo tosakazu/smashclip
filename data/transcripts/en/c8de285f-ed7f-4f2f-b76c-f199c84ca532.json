@@ -1,0 +1,26 @@
+{
+  "id": "c8de285f-ed7f-4f2f-b76c-f199c84ca532",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "There was the ledge",
+      "language": "en"
+    },
+    {
+      "start": 2.16,
+      "end": 7.4,
+      "text": "Can't escape the ledge trap too much time for lammers to set up and that's guaranteed death, especially we don't have",
+      "language": "en"
+    },
+    {
+      "start": 10.4,
+      "end": 12.4,
+      "text": "Special but you get",
+      "language": "en"
+    }
+  ],
+  "full_text": "There was the ledge Can't escape the ledge trap too much time for lammers to set up and that's guaranteed death, especially we don't have Special but you get",
+  "detected_language": "en",
+  "corrections": []
+}

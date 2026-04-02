@@ -1,0 +1,56 @@
+{
+  "id": "465cccd6-e1e3-4452-99c3-1065a468413d",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.5,
+      "text": "さすがにですからね",
+      "language": "ja"
+    },
+    {
+      "start": 1.5,
+      "end": 3.24,
+      "text": "まあ火力でもいいでしょうと",
+      "language": "ja"
+    },
+    {
+      "start": 3.24,
+      "end": 5.72,
+      "text": "なるほど",
+      "language": "ja"
+    },
+    {
+      "start": 5.72,
+      "end": 9.0,
+      "text": "いやー重たい",
+      "language": "ja"
+    },
+    {
+      "start": 9.0,
+      "end": 9.8,
+      "text": "いやー重たい",
+      "language": "ja"
+    },
+    {
+      "start": 9.8,
+      "end": 11.48,
+      "text": "ニンテンドー",
+      "language": "ja"
+    },
+    {
+      "start": 11.48,
+      "end": 12.1,
+      "text": "いやー",
+      "language": "ja"
+    },
+    {
+      "start": 12.1,
+      "end": 13.48,
+      "text": "いやー",
+      "language": "ja"
+    }
+  ],
+  "full_text": "さすがにですからね まあ火力でもいいでしょうと なるほど いやー重たい いやー重たい ニンテンドー いやー いやー",
+  "detected_language": "ja",
+  "corrections": []
+}

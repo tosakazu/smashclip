@@ -1,0 +1,70 @@
+{
+  "id": "99bb432f-9200-4980-b602-c150928f112b",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.5,
+      "text": "They're opting to camp below the ledge here",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここで崖下での採掘を選択しています"
+    },
+    {
+      "start": 2.5,
+      "end": 4.48,
+      "text": "That won't work with Homura though, right?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これホムラだと無理ですね"
+    },
+    {
+      "start": 4.48,
+      "end": 5.4,
+      "text": "Exactly",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "確かに"
+    },
+    {
+      "start": 5.4,
+      "end": 8.0,
+      "text": "With Hikari you could still land an edgeguard",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ヒカリならまだ復帰阻止かけられそうですけど"
+    },
+    {
+      "start": 8.0,
+      "end": 9.66,
+      "text": "But switching to Homura - is that really the move?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ホムラに変わったのにいいですかね"
+    },
+    {
+      "start": 9.66,
+      "end": 9.98,
+      "text": "Yeah...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そうですね"
+    }
+  ],
+  "full_text": "They're opting to camp below the ledge here That won't work with Homura though, right? Exactly With Hikari you could still land an edgeguard But switching to Homura - is that really the move? Yeah...",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 3,
+      "original": "光",
+      "corrected": "ヒカリ",
+      "rule": "character kanji (Mythra)"
+    },
+    {
+      "segment_idx": 3,
+      "original": "触体かけられそうですけど",
+      "corrected": "復帰阻止かけられそうですけど",
+      "rule": "Whisper misheard"
+    }
+  ]
+}

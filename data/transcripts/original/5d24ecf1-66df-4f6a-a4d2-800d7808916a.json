@@ -1,0 +1,51 @@
+{
+  "id": "5d24ecf1-66df-4f6a-a4d2-800d7808916a",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.98,
+      "text": "あっなるほどね",
+      "language": "ja"
+    },
+    {
+      "start": 1.98,
+      "end": 4.12,
+      "text": "崖からのメテオですね",
+      "language": "ja"
+    },
+    {
+      "start": 4.12,
+      "end": 5.58,
+      "text": "面白い",
+      "language": "ja"
+    },
+    {
+      "start": 5.58,
+      "end": 8.68,
+      "text": "109%",
+      "language": "ja"
+    },
+    {
+      "start": 8.68,
+      "end": 11.54,
+      "text": "これはさすがに",
+      "language": "ja"
+    },
+    {
+      "start": 11.54,
+      "end": 12.42,
+      "text": "眠る",
+      "language": "ja"
+    }
+  ],
+  "full_text": "あっなるほどね 崖からのメテオですね 面白い 109% これはさすがに 眠る",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "クレイからの",
+      "corrected": "崖からの",
+      "rule": "misheard word"
+    }
+  ]
+}

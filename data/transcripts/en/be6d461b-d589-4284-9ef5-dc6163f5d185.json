@@ -1,0 +1,60 @@
+{
+  "id": "be6d461b-d589-4284-9ef5-dc6163f5d185",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.88,
+      "text": "Caught him! Caught him at 126%, Carmelo!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ああああああ 捕らえた捕らえた126%あり、カルメロ"
+    },
+    {
+      "start": 5.88,
+      "end": 12.88,
+      "text": "Sets up advantage and from there—look! Gets the bair! Reading the mashing perfectly!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "がとりあえずダイヤ作ってでからの、どう、空後とれたここで流れを暴れも読んで"
+    },
+    {
+      "start": 12.88,
+      "end": 19.44,
+      "text": "Even though he was below Sonic the whole time...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "どこだって ソニック下にいたのに"
+    },
+    {
+      "start": 19.44,
+      "end": 22.04,
+      "text": "But still...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いやでも"
+    }
+  ],
+  "full_text": "Caught him! Caught him at 126%, Carmelo! Sets up advantage and from there—look! Gets the bair! Reading the mashing perfectly! Even though he was below Sonic the whole time... But still...",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "126あり偶然と友達",
+      "corrected": "126%あり、カルメロ",
+      "rule": "player name + misheard"
+    },
+    {
+      "segment_idx": 1,
+      "original": "ダイヤ作ってでからのどう くれ宇宙とれた",
+      "corrected": "ダイヤ作ってでからの、どう、空後とれた",
+      "rule": "smash term"
+    },
+    {
+      "segment_idx": 2,
+      "original": "トニック下にいたのに",
+      "corrected": "ソニック下にいたのに",
+      "rule": "character name"
+    }
+  ]
+}

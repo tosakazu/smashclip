@@ -1,0 +1,99 @@
+{
+  "id": "e086fd32-60de-493f-b816-b25a909e690e",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.86,
+      "text": "ちょうどディレイをかけたサイマグに対して戻れて",
+      "language": "ja"
+    },
+    {
+      "start": 1.86,
+      "end": 2.38,
+      "text": "危ない!",
+      "language": "ja"
+    },
+    {
+      "start": 2.84,
+      "end": 4.14,
+      "text": "回避きたがさすがにそうですよね",
+      "language": "ja"
+    },
+    {
+      "start": 4.14,
+      "end": 5.76,
+      "text": "内側にしか逃げ場はなかった",
+      "language": "ja"
+    },
+    {
+      "start": 5.76,
+      "end": 6.84,
+      "text": "クーティニーを無理せず",
+      "language": "ja"
+    },
+    {
+      "start": 6.84,
+      "end": 7.64,
+      "text": "火力を取る",
+      "language": "ja"
+    },
+    {
+      "start": 7.64,
+      "end": 9.0,
+      "text": "Gacktももう怖すぎる",
+      "language": "ja"
+    },
+    {
+      "start": 9.6,
+      "end": 11.82,
+      "text": "よけろクーティニー",
+      "language": "ja"
+    },
+    {
+      "start": 11.82,
+      "end": 12.44,
+      "text": "どうなの?",
+      "language": "ja"
+    },
+    {
+      "start": 12.66,
+      "end": 14.0,
+      "text": "撃ついたー!",
+      "language": "ja"
+    },
+    {
+      "start": 17.0,
+      "end": 17.92,
+      "text": "クーティニー",
+      "language": "ja"
+    },
+    {
+      "start": 17.92,
+      "end": 18.7,
+      "text": "この勝ち",
+      "language": "ja"
+    }
+  ],
+  "full_text": "ちょうどディレイをかけたサイマグに対して戻れて 危ない! 回避きたがさすがにそうですよね 内側にしか逃げ場はなかった クーティニーを無理せず 火力を取る Gacktももう怖すぎる よけろクーティニー どうなの? 撃ついたー! クーティニー この勝ち",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 6,
+      "original": "ガシコギ",
+      "corrected": "Gackt",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 7,
+      "original": "避けようクーティニー",
+      "corrected": "よけろクーティニー",
+      "rule": "misheard word"
+    },
+    {
+      "segment_idx": 11,
+      "original": "この落ち",
+      "corrected": "この勝ち",
+      "rule": "misheard word"
+    }
+  ]
+}

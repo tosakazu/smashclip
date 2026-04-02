@@ -1,0 +1,69 @@
+{
+  "id": "5485ac3d-3b3a-4e35-94af-d2d0bac3a512",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.64,
+      "text": "踏んで",
+      "language": "ja"
+    },
+    {
+      "start": 0.64,
+      "end": 2.7,
+      "text": "ジャストシールド",
+      "language": "ja"
+    },
+    {
+      "start": 2.7,
+      "end": 6.92,
+      "text": "お互いがガードで密着した瞬間は",
+      "language": "ja"
+    },
+    {
+      "start": 6.92,
+      "end": 8.26,
+      "text": "少し噛み合いに分がありそうですね",
+      "language": "ja"
+    },
+    {
+      "start": 8.26,
+      "end": 10.78,
+      "text": "結構ネオ選手",
+      "language": "ja"
+    },
+    {
+      "start": 10.78,
+      "end": 12.5,
+      "text": "遠慮なくライン下げてきますね",
+      "language": "ja"
+    },
+    {
+      "start": 12.5,
+      "end": 13.02,
+      "text": "そうですね",
+      "language": "ja"
+    }
+  ],
+  "full_text": "踏んで ジャストシールド お互いがガードで密着した瞬間は 少し噛み合いに分がありそうですね 結構ネオ選手 遠慮なくライン下げてきますね そうですね",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "ジャスト進路",
+      "corrected": "ジャストシールド",
+      "rule": "misheard word"
+    },
+    {
+      "segment_idx": 3,
+      "original": "少しカブリにブガーありそうですね",
+      "corrected": "少し噛み合いに分がありそうですね",
+      "rule": "misheard word"
+    },
+    {
+      "segment_idx": 4,
+      "original": "ネオン選手",
+      "corrected": "ネオ選手",
+      "rule": "player name"
+    }
+  ]
+}

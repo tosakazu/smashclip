@@ -1,0 +1,45 @@
+{
+  "id": "63653018-c137-44d4-9fed-9f2f42e0722a",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.2,
+      "text": "予想するような形になりました",
+      "language": "ja"
+    },
+    {
+      "start": 1.2,
+      "end": 3.44,
+      "text": "掴みをしっかり拒否しながら",
+      "language": "ja"
+    },
+    {
+      "start": 3.44,
+      "end": 5.56,
+      "text": "ダメージはポケモンスタジアム2の",
+      "language": "ja"
+    },
+    {
+      "start": 5.56,
+      "end": 8.14,
+      "text": "台を使いながら",
+      "language": "ja"
+    },
+    {
+      "start": 8.14,
+      "end": 9.66,
+      "text": "しかし弱に",
+      "language": "ja"
+    }
+  ],
+  "full_text": "予想するような形になりました 掴みをしっかり拒否しながら ダメージはポケモンスタジアム2の 台を使いながら しかし弱に",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 3,
+      "original": "ダイを使いながら",
+      "corrected": "台を使いながら",
+      "rule": "kanji homophone (台)"
+    }
+  ]
+}

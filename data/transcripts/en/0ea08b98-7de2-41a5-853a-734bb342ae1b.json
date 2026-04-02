@@ -1,0 +1,40 @@
+{
+  "id": "0ea08b98-7de2-41a5-853a-734bb342ae1b",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.68,
+      "text": "Still hanging in there",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "まだ耐える"
+    },
+    {
+      "start": 0.68,
+      "end": 4.42,
+      "text": "It's not like he's dominating the neutral or anything",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "決してね、立ち回りで壊してるってわけじゃないんですけど"
+    },
+    {
+      "start": 4.42,
+      "end": 10.5,
+      "text": "Just grinding out the interactions one by one",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "地道にコツコツとした差し合いを一つ一つ勝ってって"
+    }
+  ],
+  "full_text": "Still hanging in there... It's not like he's dominating the neutral or anything... Just grinding out the interactions one by one",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "地道にコツコツとした差し合いを一つ一つ買ってって",
+      "corrected": "地道にコツコツとした差し合いを一つ一つ勝ってって",
+      "rule": "Kanji homophone: 買って→勝って (winning, not buying)"
+    }
+  ]
+}

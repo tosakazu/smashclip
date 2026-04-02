@@ -1,0 +1,27 @@
+{
+  "id": "bec7d788-1a5d-437f-b46b-ea955bbb963e",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.64,
+      "text": "the heaviest of characters a very high percent on Suzune unfortunately",
+      "language": "en"
+    },
+    {
+      "start": 5.68,
+      "end": 8.8,
+      "text": "trying to find a drag down but can't get it looking for the nair but",
+      "language": "en"
+    }
+  ],
+  "full_text": "the heaviest of characters a very high percent on Suzune unfortunately trying to find a drag down but can't get it looking for the nair but",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "susan a",
+      "corrected": "Suzune",
+      "rule": "player name"
+    }
+  ]
+}

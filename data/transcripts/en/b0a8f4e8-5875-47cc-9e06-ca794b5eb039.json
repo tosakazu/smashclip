@@ -1,0 +1,98 @@
+{
+  "id": "b0a8f4e8-5875-47cc-9e06-ca794b5eb039",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 9.38,
+      "text": "There are spots like this—Sonic's holding on defensively, right, but time is running short. If they wait, bair at certain percentages will definitely set up something big.",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ところもありますソニック守り勝ちまであっそう時間も少ないので これは待ってればそもそも空後とかのパーセントに絶対になるのがあります大技"
+    },
+    {
+      "start": 9.38,
+      "end": 16.18,
+      "text": "That's roughly the losing pattern difference, right—when there's a pivot reverse from center with the jab.",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "負け筋ぐらいの差がそうですねいると から振りセンター反転弱まで"
+    },
+    {
+      "start": 16.18,
+      "end": 24.94,
+      "text": "Wants to chase upward from this—hit with the throw at 149 percent.",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "上方向追いたいだーこれはからのくらっている 前に投げた149"
+    },
+    {
+      "start": 24.94,
+      "end": 30.86,
+      "text": "Forward tilt catches for the KO! Sonic's absolutely perfect!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "横強を捉えた撃墜 ソニックス完璧"
+    },
+    {
+      "start": 30.86,
+      "end": 37.4,
+      "text": "No wait, bair chase baits the getup attack, then shift landing slightly so the getup attack can't reach in time!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いや空後に追わせての攻撃上がり誘って 少し着地ずらして間に合わない攻撃上がり"
+    }
+  ],
+  "full_text": "There are spots like this—Sonic's holding on defensively, right, but time is running short. If they wait, bair at certain percentages will definitely set up something big. That's roughly the losing pattern difference, right—when there's a pivot reverse from center with the jab. Wants to chase upward from this—hit with the throw at 149 percent. Forward tilt catches for the KO! Sonic's absolutely perfect! No wait, bair chase baits the getup attack, then shift landing slightly so the getup attack can't reach in time!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "マモリ価値まであそそ",
+      "corrected": "守り勝ちまであっそう",
+      "rule": "homophone (守り勝ち)"
+    },
+    {
+      "segment_idx": 0,
+      "original": "空語とか",
+      "corrected": "空後とか",
+      "rule": "move name (空後)"
+    },
+    {
+      "segment_idx": 1,
+      "original": "カラバラセンター",
+      "corrected": "から振りセンター",
+      "rule": "mishearing"
+    },
+    {
+      "segment_idx": 2,
+      "original": "しついたいだー",
+      "corrected": "追いたいだー",
+      "rule": "mishearing"
+    },
+    {
+      "segment_idx": 2,
+      "original": "くれされている",
+      "corrected": "くらっている",
+      "rule": "mishearing"
+    },
+    {
+      "segment_idx": 3,
+      "original": "ヨコキを捉えた激ツイン",
+      "corrected": "横強を捉えた撃墜",
+      "rule": "move name (横強) + homophone (撃墜)"
+    },
+    {
+      "segment_idx": 4,
+      "original": "空豪に追わせての",
+      "corrected": "空後に追わせての",
+      "rule": "move name (空後)"
+    },
+    {
+      "segment_idx": 4,
+      "original": "少し着地によって間に合わない攻撃や",
+      "corrected": "少し着地ずらして間に合わない攻撃上がり",
+      "rule": "mishearing"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "id": "41b29c48-1926-4a63-add6-bd686925238c",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.56,
+      "text": "Diamond",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ダイヤモンド"
+    },
+    {
+      "start": 0.56,
+      "end": 1.22,
+      "text": "Hmm",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "うーん"
+    },
+    {
+      "start": 1.22,
+      "end": 1.94,
+      "text": "Here we go!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここはクリスマス"
+    },
+    {
+      "start": 1.94,
+      "end": 2.44,
+      "text": "Still...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ただまだ"
+    },
+    {
+      "start": 2.44,
+      "end": 3.72,
+      "text": "Whoa, so fast!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "うおー早い"
+    },
+    {
+      "start": 3.72,
+      "end": 6.14,
+      "text": "Oh!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "おっと"
+    },
+    {
+      "start": 6.14,
+      "end": 7.86,
+      "text": "Yo, forward smash!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "よーこースマッシュー"
+    }
+  ],
+  "full_text": "Diamond Hmm Here we go! Still... Whoa, so fast! Oh! Yo, forward smash!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 6,
+      "original": "よーこーすましー",
+      "corrected": "よーこースマッシュー",
+      "rule": "Smash term: 横スマッシュ (forward smash) said emphatically"
+    }
+  ]
+}

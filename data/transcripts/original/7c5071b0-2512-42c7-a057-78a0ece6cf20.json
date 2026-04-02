@@ -1,0 +1,39 @@
+{
+  "id": "7c5071b0-2512-42c7-a057-78a0ece6cf20",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.9,
+      "text": "It actually made me realize how good Lucina's nair is.",
+      "language": "en"
+    },
+    {
+      "start": 3.06,
+      "end": 5.68,
+      "text": "It's a move that I did not use anywhere near enough",
+      "language": "en"
+    },
+    {
+      "start": 5.68,
+      "end": 9.02,
+      "text": "and realize that that's something that all Lucina's nair fans.",
+      "language": "en"
+    }
+  ],
+  "full_text": "It actually made me realize how good Lucina's nair is. It's a move that I did not use anywhere near enough and realize that that's something that all Lucina's nair fans.",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "Lucina Sneijer",
+      "corrected": "Lucina's nair",
+      "rule": "misheard: Sneijer→'s nair"
+    },
+    {
+      "segment_idx": 2,
+      "original": "Lucina Sneijer fans",
+      "corrected": "Lucina's nair fans",
+      "rule": "misheard: Sneijer→'s nair"
+    }
+  ]
+}

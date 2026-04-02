@@ -1,0 +1,45 @@
+{
+  "id": "04e1c8ad-1cdb-4fbb-a82f-a12d5429a360",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.38,
+      "text": "there but the luigi combo oh my god meant to be still another chance boys we got it we got it",
+      "language": "en"
+    },
+    {
+      "start": 5.38,
+      "end": 10.04,
+      "text": "right here waka's on deck waka's on lock he got the combo he has everything right here everything",
+      "language": "en"
+    },
+    {
+      "start": 10.04,
+      "end": 17.7,
+      "text": "within his arsenal in order to make things happen no jump he catches it that's the win waka is in",
+      "language": "en"
+    },
+    {
+      "start": 17.7,
+      "end": 25.48,
+      "text": "losers finals barely able to catch it off guard i know what you guys root for i know how to make",
+      "language": "en"
+    },
+    {
+      "start": 25.48,
+      "end": 29.04,
+      "text": "things hype and i did it right here raru out",
+      "language": "en"
+    }
+  ],
+  "full_text": "there but the luigi combo oh my god meant to be still another chance boys we got it we got it right here waka's on deck waka's on lock he got the combo he has everything right here everything within his arsenal in order to make things happen no jump he catches it that's the win waka is in losers finals barely able to catch it off guard i know what you guys root for i know how to make things hype and i did it right here raru out",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 3,
+      "original": "boot for",
+      "corrected": "root for",
+      "rule": "misheard word"
+    }
+  ]
+}

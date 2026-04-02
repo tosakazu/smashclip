@@ -1,0 +1,57 @@
+{
+  "id": "5b3da867-93ca-47cc-a29d-476747cfe0e8",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.88,
+      "text": "like depriving him of that win condition and is that going to cost riddles this game this",
+      "language": "en"
+    },
+    {
+      "start": 4.88,
+      "end": 12.4,
+      "text": "potential championship right here oh no no way it is he held in the bad di and riddles is your big",
+      "language": "en"
+    },
+    {
+      "start": 12.4,
+      "end": 18.56,
+      "text": "house 10 super smash brothers ultimate champion and riddles doesn't even look like he knows what",
+      "language": "en"
+    },
+    {
+      "start": 18.56,
+      "end": 24.16,
+      "text": "just happened he cannot believe it he is in awe he's like there's a crowd cheering for me is it",
+      "language": "en"
+    },
+    {
+      "start": 24.16,
+      "end": 31.2,
+      "text": "really over did i really win is that really it wow that is it 88% before the hit Light",
+      "language": "en"
+    },
+    {
+      "start": 31.2,
+      "end": 35.6,
+      "text": "could and should have lived that if he had just held left instead of right he would still",
+      "language": "en"
+    }
+  ],
+  "full_text": "like depriving him of that win condition and is that going to cost riddles this game this potential championship right here oh no no way it is he held in the bad di and riddles is your big house 10 super smash brothers ultimate champion and riddles doesn't even look like he knows what just happened he cannot believe it he is in awe he's like there's a crowd cheering for me is it really over did i really win is that really it wow that is it 88% before the hit Light could and should have lived that if he had just held left instead of right he would still",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 3,
+      "original": "in all",
+      "corrected": "in awe",
+      "rule": "misheard word"
+    },
+    {
+      "segment_idx": 4,
+      "original": "88 before the hit light",
+      "corrected": "88% before the hit Light",
+      "rule": "player name"
+    }
+  ]
+}

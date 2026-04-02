@@ -1,0 +1,57 @@
+{
+  "id": "87d9769b-9601-4f78-b05b-51d732848586",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.84,
+      "text": "今度のスピンの後の10秒は当たりませんでしたが",
+      "language": "ja"
+    },
+    {
+      "start": 2.84,
+      "end": 5.04,
+      "text": "今度は下を潰しますか",
+      "language": "ja"
+    },
+    {
+      "start": 5.04,
+      "end": 7.96,
+      "text": "内側に飛んでいって",
+      "language": "ja"
+    },
+    {
+      "start": 7.96,
+      "end": 8.98,
+      "text": "ゴトラ蹴りましたが",
+      "language": "ja"
+    },
+    {
+      "start": 8.98,
+      "end": 10.34,
+      "text": "横スマッシュー",
+      "language": "ja"
+    },
+    {
+      "start": 10.34,
+      "end": 11.0,
+      "text": "撃墜",
+      "language": "ja"
+    }
+  ],
+  "full_text": "今度のスピンの後の10秒は当たりませんでしたが 今度は下を潰しますか 内側に飛んでいって ゴトラ蹴りましたが 横スマッシュー 撃墜",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 4,
+      "original": "ようこそシュー",
+      "corrected": "横スマッシュー",
+      "rule": "move name (ようこそシュー→横スマッシュー)"
+    },
+    {
+      "segment_idx": 5,
+      "original": "激強",
+      "corrected": "撃墜",
+      "rule": "kanji homophone (激強→撃墜)"
+    }
+  ]
+}

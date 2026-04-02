@@ -1,0 +1,33 @@
+{
+  "id": "e8e1105c-373b-4dbb-94ff-447bbceff424",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.24,
+      "text": "残念ながらそして伸びるのはマイルドなH.Oのチョーカー",
+      "language": "ja"
+    },
+    {
+      "start": 6.24,
+      "end": 9.2,
+      "text": "いやルナマドがここでサイクロン",
+      "language": "ja"
+    },
+    {
+      "start": 9.2,
+      "end": 10.12,
+      "text": "いやいいですね今",
+      "language": "ja"
+    }
+  ],
+  "full_text": "残念ながらそして伸びるのはマイルドなH.Oのチョーカー いやルナマドがここでサイクロン いやいいですね今",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "マイルドなエチョーカー",
+      "corrected": "マイルドなH.Oのチョーカー",
+      "rule": "player name: エチョーカー→H.Oのチョーカー"
+    }
+  ]
+}

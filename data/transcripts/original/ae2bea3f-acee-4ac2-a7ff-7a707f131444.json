@@ -1,0 +1,51 @@
+{
+  "id": "ae2bea3f-acee-4ac2-a7ff-7a707f131444",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.04,
+      "text": "モナドジャンプに変えています",
+      "language": "ja"
+    },
+    {
+      "start": 4.04,
+      "end": 6.44,
+      "text": "慎重な立ち回りを活かす",
+      "language": "ja"
+    },
+    {
+      "start": 6.44,
+      "end": 7.68,
+      "text": "これで崖に帰って",
+      "language": "ja"
+    },
+    {
+      "start": 7.68,
+      "end": 10.1,
+      "text": "これは後ろに先に回り込んで",
+      "language": "ja"
+    }
+  ],
+  "full_text": "モナドジャンプに変えています 慎重な立ち回りを活かす これで崖に帰って これは後ろに先に回り込んで",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "モアナードジャンプ",
+      "corrected": "モナドジャンプ",
+      "rule": "character ability (Shulk Monado)"
+    },
+    {
+      "segment_idx": 1,
+      "original": "新品な立ち回りを生かす",
+      "corrected": "慎重な立ち回りを活かす",
+      "rule": "homophone (慎重)"
+    },
+    {
+      "segment_idx": 2,
+      "original": "これで激に返って",
+      "corrected": "これで崖に帰って",
+      "rule": "homophone (崖)"
+    }
+  ]
+}

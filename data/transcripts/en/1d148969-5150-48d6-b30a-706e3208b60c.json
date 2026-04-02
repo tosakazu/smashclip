@@ -1,0 +1,56 @@
+{
+  "id": "1d148969-5150-48d6-b30a-706e3208b60c",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.74,
+      "text": "Mild's trajectory adjustment was really clean there!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "マイルド側のね軌道の変え方が上手かったですね"
+    },
+    {
+      "start": 2.74,
+      "end": 4.22,
+      "text": "Whoa!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "えまさか"
+    },
+    {
+      "start": 4.22,
+      "end": 7.16,
+      "text": "From the knockdown into the fair!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "転倒から空中前攻撃"
+    },
+    {
+      "start": 7.16,
+      "end": 8.66,
+      "text": "Won't go for the KO, but...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さすがに撃墜はしないが"
+    },
+    {
+      "start": 8.66,
+      "end": 10.44,
+      "text": "Looking to land that dair!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空中下着地を通したい"
+    }
+  ],
+  "full_text": "Mild's trajectory adjustment was really clean there! Whoa! From the knockdown into the fair! Won't go for the KO, but... Looking to land that dair!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "点灯から空中へ攻撃",
+      "corrected": "転倒から空中前攻撃",
+      "rule": "Whisper kanji homophone: 点灯→転倒, 空中へ→空中前 (空前)"
+    }
+  ]
+}

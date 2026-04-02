@@ -1,0 +1,25 @@
+{
+  "id": "8e9a1e21-29aa-40ed-bd61-ca74805d5cb0",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.38,
+      "text": "Pidgeot setting up forward smash!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ポッポと横スマ構えていく"
+    },
+    {
+      "start": 2.38,
+      "end": 4.58,
+      "text": "The edgeguard—",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "復帰阻止は"
+    }
+  ],
+  "full_text": "Pidgeot setting up forward smash! The edgeguard—",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

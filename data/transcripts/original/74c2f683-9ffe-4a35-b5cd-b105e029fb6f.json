@@ -1,0 +1,27 @@
+{
+  "id": "74c2f683-9ffe-4a35-b5cd-b105e029fb6f",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 8.24,
+      "text": "ような影響が見えているか私はゲーム目の前したスマッシュの反撃 近距離かもリターンの出所4年ぐらいいやー",
+      "language": "ja"
+    },
+    {
+      "start": 8.24,
+      "end": 10.36,
+      "text": "ディレイメガワットそのまま起きや",
+      "language": "ja"
+    }
+  ],
+  "full_text": "ような影響が見えているか私はゲーム目の前したスマッシュの反撃 近距離かもリターンの出所4年ぐらいいやー ディレイメガワットそのまま起きや",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "メガボルト",
+      "corrected": "メガワット",
+      "rule": "character move: Min Min メガワット"
+    }
+  ]
+}

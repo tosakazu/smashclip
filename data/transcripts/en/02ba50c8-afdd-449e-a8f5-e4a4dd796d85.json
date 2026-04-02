@@ -1,0 +1,40 @@
+{
+  "id": "02ba50c8-afdd-449e-a8f5-e4a4dd796d85",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 8.56,
+      "text": "The key play here—Tweek forces through and takes the lead with stocks 2-3!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "押しここで通していったのが本命 Tweek ストック23リードを奪います"
+    },
+    {
+      "start": 8.56,
+      "end": 14.88,
+      "text": "That adjustment is incredible, really stabilizes things. But once it starts catching, the DD matchup becomes absolutely brutal.",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "その変更素晴らしいですね 本当に安定しますねあれ引っかかり始めたらそれこそ対DDめちゃくちゃ難しいなんですが"
+    },
+    {
+      "start": 14.88,
+      "end": 17.72,
+      "text": "He breaks through here!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここで突破した"
+    }
+  ],
+  "full_text": "The key play here—Tweek forces through and takes the lead with stocks 2-3! That adjustment is incredible, really stabilizes things. But once it starts catching, the DD matchup becomes absolutely brutal. He breaks through here!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "本命たけ",
+      "corrected": "本命 Tweek",
+      "rule": "player name"
+    }
+  ]
+}

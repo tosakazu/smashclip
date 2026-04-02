@@ -1,0 +1,46 @@
+{
+  "id": "f420a259-f5df-4b83-b286-5b3ddc187be5",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 8.5,
+      "text": "Right, so the strategy has been to shut down Captain Falcon's approach from the very start. When Falcon comes forward, it's all about controlling that spacing in neutral.",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ますねまあやっぱキャプテンファルコン相手にその拒否をし続けるって言うところが 基本的に目指された時からでありそのファルコンが前に来るところを差し合おうみたいな"
+    },
+    {
+      "start": 8.5,
+      "end": 15.32,
+      "text": "That's the idea, right? Rather than getting pulled into Captain Falcon's momentum, they want to take control and dictate their own pace.",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "感じのイメージですよね キャプテンファルコンの流れに巻き込まれるくらいだったら自分から流れを作りに行こうと"
+    },
+    {
+      "start": 15.32,
+      "end": 20.1,
+      "text": "And now showing some aggressive ledge traps at the edge!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあ崖端に対してカミツキも見せる崖の展開"
+    }
+  ],
+  "full_text": "Right, so the strategy has been to shut down Captain Falcon's approach from the very start. When Falcon comes forward, it's all about controlling that spacing in neutral. That's the idea, right? Rather than getting pulled into Captain Falcon's momentum, they want to take control and dictate their own pace. And now showing some aggressive ledge traps at the edge!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "パルコン",
+      "corrected": "ファルコン",
+      "rule": "misheard: パルコン→ファルコン"
+    },
+    {
+      "segment_idx": 2,
+      "original": "クエル端",
+      "corrected": "崖端",
+      "rule": "misheard: クエル→崖"
+    }
+  ]
+}

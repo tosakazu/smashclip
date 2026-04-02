@@ -1,0 +1,57 @@
+{
+  "id": "ae84af42-35f8-42b7-b587-e8d79a8116ea",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.58,
+      "text": "With just two, three interactions he can deal serious damage",
+      "language": "en",
+      "original_language": "es",
+      "original_text": "Que con dos, tres interacciones te puede llegar a hacer muchísimo daño"
+    },
+    {
+      "start": 6.58,
+      "end": 8.28,
+      "text": "And well...",
+      "language": "en",
+      "original_language": "es",
+      "original_text": "Y bueno..."
+    },
+    {
+      "start": 8.28,
+      "end": 8.86,
+      "text": "What happened?",
+      "language": "en",
+      "original_language": "es",
+      "original_text": "¿Qué pasó?"
+    },
+    {
+      "start": 9.5,
+      "end": 10.16,
+      "text": "What happened?",
+      "language": "en",
+      "original_language": "es",
+      "original_text": "¿Qué pasó?"
+    },
+    {
+      "start": 10.52,
+      "end": 10.84,
+      "text": "What happened?",
+      "language": "en",
+      "original_language": "es",
+      "original_text": "¿Qué pasó?"
+    },
+    {
+      "start": 11.32,
+      "end": 12.5,
+      "text": "He...",
+      "language": "en",
+      "original_language": "es",
+      "original_text": "Se le..."
+    }
+  ],
+  "full_text": "With just two, three interactions he can deal serious damage And well... What happened? What happened? What happened? He...",
+  "detected_language": "en",
+  "original_language": "es",
+  "corrections": []
+}

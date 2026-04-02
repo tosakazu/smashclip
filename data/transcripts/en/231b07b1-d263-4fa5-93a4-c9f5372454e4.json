@@ -1,0 +1,73 @@
+{
+  "id": "231b07b1-d263-4fa5-93a4-c9f5372454e4",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "text": "Did they go for it?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "自分のパーツに出しよったか?"
+    },
+    {
+      "start": 1.0,
+      "end": 2.0,
+      "text": "Y-way",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "Y-way"
+    },
+    {
+      "start": 3.0,
+      "end": 4.0,
+      "text": "The opponent's got the better landing advantage!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "フリップで相手に着地が優勢な方が"
+    },
+    {
+      "start": 4.0,
+      "end": 6.0,
+      "text": "Forward tilt, forward tilt, forward tilt, forward tilt!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "横強 横強 横強 横強"
+    },
+    {
+      "start": 6.0,
+      "end": 7.0,
+      "text": "Back air!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空後!"
+    },
+    {
+      "start": 7.0,
+      "end": 9.0,
+      "text": "They got through it clean but no shield!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さばききったがガードがない"
+    },
+    {
+      "start": 9.0,
+      "end": 12.0,
+      "text": "Forward smash!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "横スマッシュ!"
+    },
+    {
+      "start": 12.0,
+      "end": 15.0,
+      "text": "How could they see the fair coming!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "なんで空前が見えていたんだ!"
+    }
+  ],
+  "full_text": "Did they go for it? Y-way The opponent's got the better landing advantage! Forward tilt, forward tilt, forward tilt, forward tilt! Back air! They got through it clean but no shield! Forward smash! How could they see the fair coming!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

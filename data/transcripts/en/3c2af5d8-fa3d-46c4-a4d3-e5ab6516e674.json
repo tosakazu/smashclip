@@ -1,0 +1,40 @@
+{
+  "id": "3c2af5d8-fa3d-46c4-a4d3-e5ab6516e674",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.0,
+      "text": "Fair",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空前"
+    },
+    {
+      "start": 3.0,
+      "end": 4.0,
+      "text": "Up from ledge!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "崖は上がった"
+    },
+    {
+      "start": 4.0,
+      "end": 8.1,
+      "text": "Spin into the back air!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここはスピンから空後"
+    }
+  ],
+  "full_text": "Fair Up from ledge! Spin into the back air!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "空中",
+      "corrected": "空後",
+      "rule": "空中→空後 (横B→空後 combo)"
+    }
+  ]
+}

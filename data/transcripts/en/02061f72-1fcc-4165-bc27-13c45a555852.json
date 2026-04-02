@@ -1,0 +1,62 @@
+{
+  "id": "02061f72-1fcc-4165-bc27-13c45a555852",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.14,
+      "text": "Fire caught the roll getup!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ファイヤー 回避上がりに 通した"
+    },
+    {
+      "start": 1.14,
+      "end": 4.04,
+      "text": "Now how to apply pressure on the recovery from below?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあ下からの復帰にどうリスクをつけるか"
+    },
+    {
+      "start": 4.04,
+      "end": 5.88,
+      "text": "PK Fire",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "PKファイヤー"
+    },
+    {
+      "start": 5.88,
+      "end": 8.02,
+      "text": "Jump read",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ジャンプ読み"
+    },
+    {
+      "start": 8.02,
+      "end": 9.88,
+      "text": "Anti-air",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "宙への対空"
+    }
+  ],
+  "full_text": "Fire caught the roll getup! Now how to apply pressure on the recovery from below? PK Fire Jump read Anti-air",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "カイアガリッジ",
+      "corrected": "回避上がりに",
+      "rule": "misheard term"
+    },
+    {
+      "segment_idx": 3,
+      "original": "ジャンプビッグ",
+      "corrected": "ジャンプ読み",
+      "rule": "misheard term"
+    }
+  ]
+}

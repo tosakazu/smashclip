@@ -1,0 +1,57 @@
+{
+  "id": "f29dc58b-1551-4d44-b0cb-d1b6e6b69f31",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.56,
+      "text": "Yes, yes, high key.",
+      "language": "en"
+    },
+    {
+      "start": 1.78,
+      "end": 2.42,
+      "text": "I'm like, why?",
+      "language": "en"
+    },
+    {
+      "start": 2.9,
+      "end": 7.58,
+      "text": "I thought that was one of Lucina's, like, worst areas, in a sense, right?",
+      "language": "en"
+    },
+    {
+      "start": 7.62,
+      "end": 9.38,
+      "text": "Because, you know, fair back airs are just so strong.",
+      "language": "en"
+    },
+    {
+      "start": 9.68,
+      "end": 10.38,
+      "text": "Wow, nice.",
+      "language": "en"
+    },
+    {
+      "start": 10.54,
+      "end": 10.82,
+      "text": "Good tech.",
+      "language": "en"
+    }
+  ],
+  "full_text": "Yes, yes, high key. I'm like, why? I thought that was one of Lucina's, like, worst areas, in a sense, right? Because, you know, fair back airs are just so strong. Wow, nice. Good tech.",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 3,
+      "original": "fairbackers",
+      "corrected": "fair back airs",
+      "rule": "smash term"
+    },
+    {
+      "segment_idx": 5,
+      "original": "Good text",
+      "corrected": "Good tech",
+      "rule": "misheard: text→tech"
+    }
+  ]
+}

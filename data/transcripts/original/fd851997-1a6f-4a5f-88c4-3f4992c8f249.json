@@ -1,0 +1,33 @@
+{
+  "id": "fd851997-1a6f-4a5f-88c4-3f4992c8f249",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.0,
+      "text": "Yeah, I've always wondered what you could like you cannot you can wave bounce that no",
+      "language": "en"
+    },
+    {
+      "start": 5.74,
+      "end": 7.84,
+      "text": "Visual yeah, you can wave bounce it the movement",
+      "language": "en"
+    }
+  ],
+  "full_text": "Yeah, I've always wondered what you could like you cannot you can wave bounce that no Visual yeah, you can wave bounce it the movement",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "wait bounce",
+      "corrected": "wave bounce",
+      "rule": "smash term: wait bounce→wave bounce"
+    },
+    {
+      "segment_idx": 1,
+      "original": "wait bounce",
+      "corrected": "wave bounce",
+      "rule": "smash term"
+    }
+  ]
+}

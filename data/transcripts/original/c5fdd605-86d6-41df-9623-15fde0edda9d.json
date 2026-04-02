@@ -1,0 +1,27 @@
+{
+  "id": "c5fdd605-86d6-41df-9623-15fde0edda9d",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.96,
+      "text": "not connect the two frame on the down smash here bucket not gonna connect setting up the forward airs",
+      "language": "en"
+    },
+    {
+      "start": 4.96,
+      "end": 11.66,
+      "text": "but of course swinging through and look at this leo just barely out of range still not enough but",
+      "language": "en"
+    }
+  ],
+  "full_text": "not connect the two frame on the down smash here bucket not gonna connect setting up the forward airs but of course swinging through and look at this leo just barely out of range still not enough but",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "forwarders",
+      "corrected": "forward airs",
+      "rule": "smash term"
+    }
+  ]
+}

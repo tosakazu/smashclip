@@ -1,0 +1,44 @@
+{
+  "id": "4656ed4d-de73-4225-83a0-4baac6d60631",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.68,
+      "text": "目で帰ってきて掴みは取らない",
+      "language": "ja"
+    },
+    {
+      "start": 1.68,
+      "end": 4.04,
+      "text": "あれの掴み当たっていたらひとたまりもない",
+      "language": "ja"
+    },
+    {
+      "start": 4.04,
+      "end": 6.14,
+      "text": "さあ",
+      "language": "ja"
+    },
+    {
+      "start": 6.14,
+      "end": 6.84,
+      "text": "ハニワがあった",
+      "language": "ja"
+    },
+    {
+      "start": 6.84,
+      "end": 7.8,
+      "text": "ハニワがあった",
+      "language": "ja"
+    },
+    {
+      "start": 7.8,
+      "end": 8.7,
+      "text": "撃墜",
+      "language": "ja"
+    }
+  ],
+  "full_text": "目で帰ってきて掴みは取らない あれの掴み当たっていたらひとたまりもない さあ ハニワがあった ハニワがあった 撃墜",
+  "detected_language": "ja",
+  "corrections": []
+}

@@ -1,0 +1,41 @@
+{
+  "id": "882bf066-4631-4666-84ef-63ef88aaf552",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.72,
+      "text": "Forward throw to fair!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあ投げから空中前"
+    },
+    {
+      "start": 3.72,
+      "end": 6.3,
+      "text": "There we go!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "点灯"
+    },
+    {
+      "start": 6.3,
+      "end": 10.68,
+      "text": "The mix-up gets a bit unclear here",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "表裏がね少し分かりづらくなったところで"
+    },
+    {
+      "start": 10.68,
+      "end": 11.82,
+      "text": "Mild's...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "マイルドが"
+    }
+  ],
+  "full_text": "Forward throw to fair! There we go! The mix-up gets a bit unclear here Mild's...",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

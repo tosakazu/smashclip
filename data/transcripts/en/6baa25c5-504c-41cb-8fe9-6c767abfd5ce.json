@@ -1,0 +1,33 @@
+{
+  "id": "6baa25c5-504c-41cb-8fe9-6c767abfd5ce",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.36,
+      "text": "we're careful running in",
+      "language": "en"
+    },
+    {
+      "start": 4.08,
+      "end": 7.52,
+      "text": "okay back off here ever so slightly it's looking good",
+      "language": "en"
+    },
+    {
+      "start": 7.52,
+      "end": 11.44,
+      "text": "using that key again but hold up a minute you gave Kurama you get through he's dead",
+      "language": "en"
+    }
+  ],
+  "full_text": "we're careful running in okay back off here ever so slightly it's looking good using that key again but hold up a minute you gave Kurama you get through he's dead",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "karama",
+      "corrected": "Kurama",
+      "rule": "player name"
+    }
+  ]
+}

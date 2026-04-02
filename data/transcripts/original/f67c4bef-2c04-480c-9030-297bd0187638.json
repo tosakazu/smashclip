@@ -1,0 +1,57 @@
+{
+  "id": "f67c4bef-2c04-480c-9030-297bd0187638",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.12,
+      "text": "だがサムスならば帰ってこれる",
+      "language": "ja"
+    },
+    {
+      "start": 2.12,
+      "end": 3.92,
+      "text": "後ろに投げてまだ撃墜はしません",
+      "language": "ja"
+    },
+    {
+      "start": 3.92,
+      "end": 5.64,
+      "text": "さあPKフラッシュ",
+      "language": "ja"
+    },
+    {
+      "start": 5.64,
+      "end": 7.06,
+      "text": "さすがに当たりませんが",
+      "language": "ja"
+    },
+    {
+      "start": 7.06,
+      "end": 8.82,
+      "text": "道を塞ぐことができるPKファイヤー",
+      "language": "ja"
+    },
+    {
+      "start": 8.82,
+      "end": 10.12,
+      "text": "引っ掛けて上スマッシュ",
+      "language": "ja"
+    },
+    {
+      "start": 10.12,
+      "end": 11.28,
+      "text": "完璧な対応",
+      "language": "ja"
+    }
+  ],
+  "full_text": "だがサムスならば帰ってこれる 後ろに投げてまだ撃墜はしません さあPKフラッシュ さすがに当たりませんが 道を塞ぐことができるPKファイヤー 引っ掛けて上スマッシュ 完璧な対応",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 4,
+      "original": "PKファイル",
+      "corrected": "PKファイヤー",
+      "rule": "move name: PKファイル→PKファイヤー"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "a412dd2f-c99d-402f-8b95-289ded368d25",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.68,
+      "text": "be able to play my game plan and if something went wrong even if you were choosing correctly",
+      "language": "en"
+    },
+    {
+      "start": 5.68,
+      "end": 11.84,
+      "text": "Samus doesn't work yeah the character doesn't work sometimes Smash Ultimate baby",
+      "language": "en"
+    }
+  ],
+  "full_text": "be able to play my game plan and if something went wrong even if you were choosing correctly Samus doesn't work yeah the character doesn't work sometimes Smash Ultimate baby",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "original": "smash ultimate",
+      "corrected": "Smash Ultimate",
+      "reason": "ゲーム名の表記統一"
+    }
+  ]
+}

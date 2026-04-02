@@ -1,0 +1,63 @@
+{
+  "id": "d70af831-ba19-4fd7-8749-d8776d95bee6",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.94,
+      "text": "はい入れて前に投げて",
+      "language": "ja"
+    },
+    {
+      "start": 1.94,
+      "end": 2.84,
+      "text": "復帰阻止展開",
+      "language": "ja"
+    },
+    {
+      "start": 2.84,
+      "end": 4.96,
+      "text": "存分に泳がせてワイヤー掴み",
+      "language": "ja"
+    },
+    {
+      "start": 4.96,
+      "end": 6.12,
+      "text": "何上がり?",
+      "language": "ja"
+    },
+    {
+      "start": 6.5,
+      "end": 7.38,
+      "text": "そのまま上がり!",
+      "language": "ja"
+    },
+    {
+      "start": 7.82,
+      "end": 8.6,
+      "text": "うわぁ強",
+      "language": "ja"
+    }
+  ],
+  "full_text": "はい入れて前に投げて 復帰阻止展開 存分に泳がせてワイヤー掴み 何上がり? そのまま上がり! うわぁ強",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "復帰としてんかい",
+      "corrected": "復帰阻止展開",
+      "rule": "smash terminology"
+    },
+    {
+      "segment_idx": 2,
+      "original": "存分に送らせてワイヤー掴み",
+      "corrected": "存分に泳がせてワイヤー掴み",
+      "rule": "whisper_misrecognition"
+    },
+    {
+      "segment_idx": 5,
+      "original": "うえぇ今日",
+      "corrected": "うわぁ強",
+      "rule": "whisper_misrecognition"
+    }
+  ]
+}

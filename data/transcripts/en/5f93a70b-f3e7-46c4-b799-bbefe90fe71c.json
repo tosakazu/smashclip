@@ -1,0 +1,45 @@
+{
+  "id": "5f93a70b-f3e7-46c4-b799-bbefe90fe71c",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.58,
+      "text": "The fact that you should not be living so high.",
+      "language": "en"
+    },
+    {
+      "start": 1.8,
+      "end": 3.12,
+      "text": "Get that quick boot right there.",
+      "language": "en"
+    },
+    {
+      "start": 3.5,
+      "end": 4.82,
+      "text": "The bait right there by Glutonny.",
+      "language": "en"
+    },
+    {
+      "start": 5.02,
+      "end": 6.44,
+      "text": "Does not get the second hit though.",
+      "language": "en"
+    },
+    {
+      "start": 7.36,
+      "end": 8.5,
+      "text": "And there it is.",
+      "language": "en"
+    }
+  ],
+  "full_text": "The fact that you should not be living so high. Get that quick boot right there. The bait right there by Glutonny. Does not get the second hit though. And there it is.",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "Gluttony",
+      "corrected": "Glutonny",
+      "rule": "player name"
+    }
+  ]
+}

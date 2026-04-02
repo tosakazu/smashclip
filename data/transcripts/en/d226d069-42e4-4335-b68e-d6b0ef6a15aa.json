@@ -1,0 +1,40 @@
+{
+  "id": "d226d069-42e4-4335-b68e-d6b0ef6a15aa",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.6,
+      "text": "And KO off the up throw! Flawless!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そして上投げ撃墜!抜け目なく資材を掘って!"
+    },
+    {
+      "start": 4.94,
+      "end": 9.18,
+      "text": "Come on Cola! Will he boldly take this second game?!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあコーラ!一気果敢にこのまま2戦目取ってしまうか!"
+    },
+    {
+      "start": 9.68,
+      "end": 12.96,
+      "text": "Bounce back! Min Min's got this!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "跳ね返せ!ミェンミェンにはこれがある!"
+    }
+  ],
+  "full_text": "And KO off the up throw! Flawless! Come on Cola! Will he boldly take this second game?! Bounce back! Min Min's got this!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "面々には",
+      "corrected": "ミェンミェンには",
+      "rule": "character name (面々→ミェンミェン = Min Min)"
+    }
+  ]
+}

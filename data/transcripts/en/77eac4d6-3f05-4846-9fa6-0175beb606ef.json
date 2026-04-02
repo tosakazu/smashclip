@@ -1,0 +1,54 @@
+{
+  "id": "77eac4d6-3f05-4846-9fa6-0175beb606ef",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.3,
+      "text": "Hollow Bastion",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ステージはホロウバスティオンです"
+    },
+    {
+      "start": 1.3,
+      "end": 8.46,
+      "text": "Best of 5",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "BO5の状況、いわゆる3先の状況で"
+    },
+    {
+      "start": 8.46,
+      "end": 10.42,
+      "text": "Games 1-2",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ゲームカウント1、2というところ"
+    },
+    {
+      "start": 10.42,
+      "end": 11.62,
+      "text": "That's an airdodge",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これは空中回避"
+    }
+  ],
+  "full_text": "Hollow Bastion Best of 5 Games 1-2 That's an airdodge",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "ゲージ",
+      "corrected": "ステージ",
+      "rule": "whisper misrecognition"
+    },
+    {
+      "segment_idx": 0,
+      "original": "ホローバスティオン",
+      "corrected": "ホロウバスティオン",
+      "rule": "stage name"
+    }
+  ]
+}

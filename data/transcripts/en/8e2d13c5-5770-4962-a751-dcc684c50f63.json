@@ -1,0 +1,33 @@
+{
+  "id": "8e2d13c5-5770-4962-a751-dcc684c50f63",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.42,
+      "text": "to each other and you don't know who's going to go for what right now the back air putting him",
+      "language": "en"
+    },
+    {
+      "start": 3.42,
+      "end": 6.98,
+      "text": "off stage again but no nikita he actually just gives him the ledge goes for the ledge",
+      "language": "en"
+    },
+    {
+      "start": 6.98,
+      "end": 10.82,
+      "text": "he's going to grab him oh yeah now now he didn't do anything we're just going",
+      "language": "en"
+    }
+  ],
+  "full_text": "to each other and you don't know who's going to go for what right now the back air putting him off stage again but no nikita he actually just gives him the ledge goes for the ledge he's going to grab him oh yeah now now he didn't do anything we're just going",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "the backer",
+      "corrected": "the back air",
+      "rule": "move name"
+    }
+  ]
+}

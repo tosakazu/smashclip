@@ -1,0 +1,45 @@
+{
+  "id": "665f0d90-a441-4d55-8b71-9f937be8c0d9",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.28,
+      "text": "said before check it it has to happen this has happened many a time here in Hollow Bastion and",
+      "language": "en"
+    },
+    {
+      "start": 3.28,
+      "end": 7.28,
+      "text": "now we're taking it to Small Battlefield here and again now KEN doesn't have many things that he",
+      "language": "en"
+    }
+  ],
+  "full_text": "said before check it it has to happen this has happened many a time here in Hollow Bastion and now we're taking it to Small Battlefield here and again now KEN doesn't have many things that he",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "checky",
+      "corrected": "check it",
+      "rule": "misheard word"
+    },
+    {
+      "segment_idx": 0,
+      "original": "hollow bastion",
+      "corrected": "Hollow Bastion",
+      "rule": "stage name capitalization"
+    },
+    {
+      "segment_idx": 1,
+      "original": "small battlefield",
+      "corrected": "Small Battlefield",
+      "rule": "stage name capitalization"
+    },
+    {
+      "segment_idx": 1,
+      "original": "ken",
+      "corrected": "KEN",
+      "rule": "player name"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "db01b9cf-7a9d-4743-b34d-a73637a2082d",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.0,
+      "text": "空中でかい",
+      "language": "ja"
+    },
+    {
+      "start": 6.0,
+      "end": 8.46,
+      "text": "空中がでかい",
+      "language": "ja"
+    },
+    {
+      "start": 8.46,
+      "end": 9.32,
+      "text": "空後",
+      "language": "ja"
+    },
+    {
+      "start": 9.32,
+      "end": 9.54,
+      "text": "空後",
+      "language": "ja"
+    }
+  ],
+  "full_text": "空中でかい 空中がでかい 空後 空後",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "空中しろ",
+      "corrected": "空後",
+      "rule": "smash notation (空中しろ→空後)"
+    },
+    {
+      "segment_idx": 3,
+      "original": "空中しろ",
+      "corrected": "空後",
+      "rule": "smash notation (空中しろ→空後)"
+    }
+  ]
+}

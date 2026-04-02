@@ -1,0 +1,32 @@
+{
+  "id": "18405875-3be9-42f6-b954-6539fd2bda8b",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.44,
+      "text": "折れるとこだけ取っていく",
+      "language": "ja"
+    },
+    {
+      "start": 1.44,
+      "end": 4.38,
+      "text": "丁寧に丁寧に",
+      "language": "ja"
+    },
+    {
+      "start": 4.38,
+      "end": 6.28,
+      "text": "本当に機械のように",
+      "language": "ja"
+    },
+    {
+      "start": 6.28,
+      "end": 10.24,
+      "text": "的確に相手のリソースを奪っていくが空中",
+      "language": "ja"
+    }
+  ],
+  "full_text": "折れるとこだけ取っていく 丁寧に丁寧に 本当に機械のように 的確に相手のリソースを奪っていくが空中",
+  "detected_language": "ja",
+  "corrections": []
+}

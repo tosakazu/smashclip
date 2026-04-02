@@ -1,0 +1,26 @@
+{
+  "id": "7e69d1aa-14f5-4bda-86d6-296cde103506",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.56,
+      "text": "I've finally seen that nair off ledge, but I feel like it's so dangerous because if you miss it, this is what's going to happen to you.",
+      "language": "en"
+    },
+    {
+      "start": 6.96,
+      "end": 7.32,
+      "text": "33.",
+      "language": "en"
+    },
+    {
+      "start": 7.96,
+      "end": 10.22,
+      "text": "Doing a lot of safe damage right now, not going for anything yet.",
+      "language": "en"
+    }
+  ],
+  "full_text": "I've finally seen that nair off ledge, but I feel like it's so dangerous because if you miss it, this is what's going to happen to you. 33. Doing a lot of safe damage right now, not going for anything yet.",
+  "detected_language": "en",
+  "corrections": []
+}

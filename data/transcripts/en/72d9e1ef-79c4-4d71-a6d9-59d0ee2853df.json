@@ -1,0 +1,57 @@
+{
+  "id": "72d9e1ef-79c4-4d71-a6d9-59d0ee2853df",
+  "segments": [
+    {
+      "start": 0.4,
+      "end": 2.5,
+      "text": "Fair OOS would work if they approach",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そして差し込むんだったらガーキャン空前でいい"
+    },
+    {
+      "start": 2.5,
+      "end": 5.04,
+      "text": "Deep fair again, but...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "もう一度空前深めだったんですが"
+    },
+    {
+      "start": 5.04,
+      "end": 6.02,
+      "text": "Doesn't connect",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "当たらず"
+    },
+    {
+      "start": 6.02,
+      "end": 8.16,
+      "text": "They take it anyway",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "逆に展開で勝ってしまい"
+    },
+    {
+      "start": 8.16,
+      "end": 9.76,
+      "text": "Off the dodge endlag—",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "回避の後隙を"
+    },
+    {
+      "start": 9.76,
+      "end": 12.6,
+      "text": "Magma can't reach",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "マグマが拾って届かない"
+    }
+  ],
+  "full_text": "Fair OOS would work if they approach. Deep fair again, but... Doesn't connect. They take it anyway. Off the dodge endlag— Magma can't reach",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

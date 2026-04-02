@@ -1,0 +1,75 @@
+{
+  "id": "e9e0f1c2-176c-4c68-b8b7-c40211730fdf",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.78,
+      "text": "バッチリ仕込んでいます",
+      "language": "ja"
+    },
+    {
+      "start": 0.78,
+      "end": 2.96,
+      "text": "食いの空後",
+      "language": "ja"
+    },
+    {
+      "start": 2.96,
+      "end": 5.82,
+      "text": "空N一発",
+      "language": "ja"
+    },
+    {
+      "start": 5.82,
+      "end": 7.22,
+      "text": "もう一回空中で上B",
+      "language": "ja"
+    },
+    {
+      "start": 7.22,
+      "end": 8.56,
+      "text": "強引に繋げていった",
+      "language": "ja"
+    },
+    {
+      "start": 8.56,
+      "end": 11.82,
+      "text": "さらにはNBの着地狩りで拾って",
+      "language": "ja"
+    },
+    {
+      "start": 11.82,
+      "end": 13.1,
+      "text": "多段技で",
+      "language": "ja"
+    },
+    {
+      "start": 13.1,
+      "end": 14.46,
+      "text": "着地狩り",
+      "language": "ja"
+    }
+  ],
+  "full_text": "バッチリ仕込んでいます 食いの空後 空N一発 もう一回空中で上B 強引に繋げていった さらにはNBの着地狩りで拾って 多段技で 着地狩り",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "悔いの空中しろ",
+      "corrected": "食いの空後",
+      "rule": "misheard: 空中しろ→空後"
+    },
+    {
+      "segment_idx": 2,
+      "original": "空中一発",
+      "corrected": "空N一発",
+      "rule": "abbreviation: 空中→空N"
+    },
+    {
+      "segment_idx": 5,
+      "original": "必要",
+      "corrected": "拾って",
+      "rule": "misheard"
+    }
+  ]
+}

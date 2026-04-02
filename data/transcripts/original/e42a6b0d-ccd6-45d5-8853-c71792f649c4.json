@@ -1,0 +1,69 @@
+{
+  "id": "e42a6b0d-ccd6-45d5-8853-c71792f649c4",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.58,
+      "text": "モンキーフリップはキャンセルして",
+      "language": "ja"
+    },
+    {
+      "start": 1.58,
+      "end": 2.66,
+      "text": "もう一回フリップだったんですが",
+      "language": "ja"
+    },
+    {
+      "start": 2.66,
+      "end": 3.38,
+      "text": "ダッシュアタックで",
+      "language": "ja"
+    },
+    {
+      "start": 3.38,
+      "end": 4.58,
+      "text": "ここは拾う",
+      "language": "ja"
+    },
+    {
+      "start": 4.58,
+      "end": 5.58,
+      "text": "しかし着地狩り",
+      "language": "ja"
+    },
+    {
+      "start": 5.58,
+      "end": 7.3,
+      "text": "怖い怖い読み合いが",
+      "language": "ja"
+    },
+    {
+      "start": 7.3,
+      "end": 10.3,
+      "text": "引いてバナナ投げ",
+      "language": "ja"
+    },
+    {
+      "start": 10.3,
+      "end": 11.26,
+      "text": "しかしキントロ",
+      "language": "ja"
+    }
+  ],
+  "full_text": "モンキーフリップはキャンセルして もう一回フリップだったんですが ダッシュアタックで ここは拾う しかし着地狩り 怖い怖い読み合いが 引いてバナナ投げ しかしキントロ",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 4,
+      "original": "しかしちっちゃくち",
+      "corrected": "しかし着地狩り",
+      "rule": "misheard: 着地狩り"
+    },
+    {
+      "segment_idx": 7,
+      "original": "しかし筋トロ",
+      "corrected": "しかしキントロ",
+      "rule": "misheard: likely a Smash term/name"
+    }
+  ]
+}

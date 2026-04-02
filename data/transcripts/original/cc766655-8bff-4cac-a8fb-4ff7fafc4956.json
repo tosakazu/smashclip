@@ -1,0 +1,26 @@
+{
+  "id": "cc766655-8bff-4cac-a8fb-4ff7fafc4956",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.0,
+      "text": "...precise reach and precise movements of how you spend these materials.",
+      "language": "en"
+    },
+    {
+      "start": 3.0,
+      "end": 8.0,
+      "text": "Another card, ooh, we're gonna have the air touch, gonna work? Not yet.",
+      "language": "en"
+    },
+    {
+      "start": 8.0,
+      "end": 12.0,
+      "text": "But look at this Leo, he's taking control, one more touch, he's gonna do it, and there it is!",
+      "language": "en"
+    }
+  ],
+  "full_text": "...precise reach and precise movements of how you spend these materials. Another card, ooh, we're gonna have the air touch, gonna work? Not yet. But look at this Leo, he's taking control, one more touch, he's gonna do it, and there it is!",
+  "detected_language": "en",
+  "corrections": []
+}

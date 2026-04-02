@@ -1,0 +1,33 @@
+{
+  "id": "06218873-0522-496a-867b-797dd0586a17",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 7.04,
+      "text": "with no aura but still uh Lucario's attacks still pack a lot of punch oh",
+      "language": "en"
+    },
+    {
+      "start": 8.32,
+      "end": 11.92,
+      "text": "excellent still able to take that oh but wow the up B coming",
+      "language": "en"
+    }
+  ],
+  "full_text": "with no aura but still uh Lucario's attacks still pack a lot of punch oh excellent still able to take that oh but wow the up B coming",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "with no aura but still uh vicario's attack still pack a lot of punch oh",
+      "corrected": "with no aura but still uh Lucario's attacks still pack a lot of punch oh",
+      "rule": "Character name correction (vicario's → Lucario's)"
+    },
+    {
+      "segment_idx": 1,
+      "original": "excellent still able to take that oh but wow the upbeat coming",
+      "corrected": "excellent still able to take that oh but wow the up B coming",
+      "rule": "Move name correction (upbeat → up B)"
+    }
+  ]
+}

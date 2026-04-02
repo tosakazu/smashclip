@@ -1,0 +1,38 @@
+{
+  "id": "2a0fe548-f267-4ed6-81b4-0f95f182023c",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.5,
+      "text": "あってくれって",
+      "language": "ja"
+    },
+    {
+      "start": 0.5,
+      "end": 3.24,
+      "text": "そこからねー",
+      "language": "ja"
+    },
+    {
+      "start": 3.24,
+      "end": 4.4,
+      "text": "攻撃食らってる間ねー",
+      "language": "ja"
+    },
+    {
+      "start": 4.4,
+      "end": 6.0,
+      "text": "暇じゃないんだよねー",
+      "language": "ja"
+    },
+    {
+      "start": 6.0,
+      "end": 7.56,
+      "text": "カズヤ戦",
+      "language": "ja"
+    }
+  ],
+  "full_text": "あってくれって そこからねー 攻撃食らってる間ねー 暇じゃないんだよねー カズヤ戦",
+  "detected_language": "ja",
+  "corrections": []
+}

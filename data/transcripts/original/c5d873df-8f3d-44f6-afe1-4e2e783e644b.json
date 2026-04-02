@@ -1,0 +1,32 @@
+{
+  "id": "c5d873df-8f3d-44f6-afe1-4e2e783e644b",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.88,
+      "text": "さらに空中攻撃",
+      "language": "ja"
+    },
+    {
+      "start": 1.88,
+      "end": 3.74,
+      "text": "空下で返して横強で返す",
+      "language": "ja"
+    },
+    {
+      "start": 3.74,
+      "end": 4.84,
+      "text": "殴って",
+      "language": "ja"
+    },
+    {
+      "start": 4.84,
+      "end": 5.64,
+      "text": "おっとこれ",
+      "language": "ja"
+    }
+  ],
+  "full_text": "さらに空中攻撃 空下で返して横強で返す 殴って おっとこれ",
+  "detected_language": "ja",
+  "corrections": []
+}

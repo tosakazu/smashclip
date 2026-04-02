@@ -1,0 +1,49 @@
+{
+  "id": "966fec59-f0f8-4fcd-b932-f93b48726b2f",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.46,
+      "text": "Nice recovery! But Senra...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "復帰がお上手!しかしセンラ"
+    },
+    {
+      "start": 2.46,
+      "end": 6.08,
+      "text": "Shutting down the recovery twice, three times over!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "2度も3度も判定を出し続けて"
+    },
+    {
+      "start": 6.08,
+      "end": 10.16,
+      "text": "Denying every safe landing option",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "崖の上に安心できる場所を作りません"
+    },
+    {
+      "start": 10.16,
+      "end": 13.52,
+      "text": "2-2 stocks",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ストック状況は2-2"
+    },
+    {
+      "start": 13.52,
+      "end": 16.48,
+      "text": "Insane! Take the stock!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "うますぎ!しっかり取れ!"
+    }
+  ],
+  "full_text": "Nice recovery! But Senra... Shutting down the recovery twice, three times over! Denying every safe landing option 2-2 stocks Insane! Take the stock!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

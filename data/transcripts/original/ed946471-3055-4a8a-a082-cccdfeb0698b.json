@@ -1,0 +1,27 @@
+{
+  "id": "ed946471-3055-4a8a-a082-cccdfeb0698b",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.68,
+      "text": "いきます それこれをよくずちょっとベクトルが合わなかったのでそのまま潰すと取り切る",
+      "language": "ja"
+    }
+  ],
+  "full_text": "いきます それこれをよくずちょっとベクトルが合わなかったのでそのまま潰すと取り切る",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "地区が合わなかった",
+      "corrected": "ベクトルが合わなかった",
+      "rule": "misheard: 地区→ベクトル"
+    },
+    {
+      "segment_idx": 0,
+      "original": "潰すとが取り切る",
+      "corrected": "潰すと取り切る",
+      "rule": "typo"
+    }
+  ]
+}

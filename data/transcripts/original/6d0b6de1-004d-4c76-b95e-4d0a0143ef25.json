@@ -1,0 +1,92 @@
+{
+  "id": "6d0b6de1-004d-4c76-b95e-4d0a0143ef25",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.64,
+      "text": "Where did you come from?",
+      "language": "en"
+    },
+    {
+      "start": 3.38,
+      "end": 5.48,
+      "text": "Well, we'll know the name soon.",
+      "language": "en"
+    },
+    {
+      "start": 5.96,
+      "end": 9.84,
+      "text": "If you kill this one, it's not a kill just yet.",
+      "language": "en"
+    },
+    {
+      "start": 9.98,
+      "end": 12.02,
+      "text": "Perfect DI from Hurt to stay alive.",
+      "language": "en"
+    },
+    {
+      "start": 12.14,
+      "end": 16.32,
+      "text": "Such a heavy character, but Chon, pretty much any good hit now will do it.",
+      "language": "en"
+    },
+    {
+      "start": 18.1,
+      "end": 21.46,
+      "text": "We're on the precipice of a JV3 in game five.",
+      "language": "en"
+    },
+    {
+      "start": 21.6,
+      "end": 21.8,
+      "text": "Okay.",
+      "language": "en"
+    },
+    {
+      "start": 22.32,
+      "end": 22.66,
+      "text": "Okay.",
+      "language": "en"
+    },
+    {
+      "start": 23.62,
+      "end": 25.48,
+      "text": "I'm okay with the commentator's choice on that one.",
+      "language": "en"
+    },
+    {
+      "start": 25.48,
+      "end": 28.72,
+      "text": "Hurt says, Ayo, none of that, but I'll reflect the Nikita",
+      "language": "en"
+    },
+    {
+      "start": 28.72,
+      "end": 30.9,
+      "text": "back in Hurt's face.",
+      "language": "en"
+    },
+    {
+      "start": 31.22,
+      "end": 32.64,
+      "text": "Chon has done it.",
+      "language": "en"
+    },
+    {
+      "start": 32.96,
+      "end": 35.38,
+      "text": "And that is a 3-2 on the number two seed.",
+      "language": "en"
+    },
+    {
+      "start": 35.8,
+      "end": 38.58,
+      "text": "Hurt on his comeback tour, but it's getting...",
+      "language": "en"
+    }
+  ],
+  "full_text": "Where did you come from? Well, we'll know the name soon. If you kill this one, it's not a kill just yet. Perfect DI from Hurt to stay alive. Such a heavy character, but Chon, pretty much any good hit now will do it. We're on the precipice of a JV3 in game five. Okay. Okay. I'm okay with the commentator's choice on that one. Hurt says, Ayo, none of that, but I'll reflect the Nikita back in Hurt's face. Chon has done it. And that is a 3-2 on the number two seed. Hurt on his comeback tour, but it's getting...",
+  "detected_language": "en",
+  "corrections": []
+}

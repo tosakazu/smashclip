@@ -1,0 +1,147 @@
+# SmashClip
+
+A multimodal dataset for clip-worthiness assessment in competitive Super Smash Bros. Ultimate. SmashClip contains 2,503 KO clips annotated with aesthetic quality scores (1-5), scene tags (20 categories), metadata (characters, stage, finishing move), and English commentary transcripts. The dataset supports four benchmark tasks spanning regression, classification, multi-label prediction, and rationale generation.
+
+**Paper:** [arXiv:XXXX.XXXXX](https://arxiv.org/abs/XXXX.XXXXX)
+
+## Dataset Overview
+
+| Property | Value |
+|----------|-------|
+| Total clips | 2,503 |
+| Train / Val / Test | 1,771 / 341 / 391 |
+| Annotators | 3 |
+| Score range | 1-5 (mean of 3 ratings) |
+| Characters | 86 |
+| Scene tags | 20 (3 layers) |
+| Languages | English annotations, bilingual transcripts |
+
+## Directory Structure
+
+```
+smashclip/
+  data/
+    annotations/
+      smashclip_en.jsonl        # Main annotation file
+      smashclip_ja.jsonl        # Japanese annotation file
+    features/
+      v1_video/                 # InternVideo2-6B visual features (T, 768)
+      a1_audio/                 # BEATs audio features (768,)
+      a2_transcript/            # MPNet transcript embeddings (768,)
+      a3_prosody/               # Prosody features (JSON, 12-dim scalar)
+    splits/
+      train.json, val.json, test.json
+      rationale_train.json, rationale_val.json, rationale_test.json
+    transcripts/
+      en/                       # English transcripts
+      original/                 # Original language transcripts
+  src/                          # Model and dataset code
+  scripts/
+    train.py                    # Training script
+  feature_extraction/           # Feature extraction scripts
+  docs/                         # Documentation
+```
+
+## Quick Start
+
+### Install
+
+```bash
+pip install -e .
+```
+
+For feature extraction from raw video/audio:
+```bash
+pip install -e ".[features]"
+```
+
+### Train Baselines
+
+```bash
+# Task A: aesthetic score regression (all models, 5 seeds)
+python scripts/train.py --task A
+
+# Task A: single model, quick test
+python scripts/train.py --task A --models V1 --test-run
+
+# Task B: metadata prediction from visual features
+python scripts/train.py --task B
+
+# Task C: scene tag prediction (multi-label)
+python scripts/train.py --task C
+```
+
+## Data Format
+
+Each line in `smashclip_en.jsonl` is a JSON object:
+
+```json
+{
+  "id": "45e47594-424c-492e-ba57-9670e1f07ccf",
+  "video_url": "https://youtu.be/...",
+  "title": "Tournament Name - Player1 Vs. Player2",
+  "start_time": "00:04:07.305",
+  "end_time": "00:04:14.546",
+  "stage": "Town and City",
+  "killer": "Peach",
+  "victim": "Palutena",
+  "move": "Bair",
+  "scene_tags": ["Edgeguarding"],
+  "scores": {"E": 2, "F": 3, "A": 3},
+  "mean_score": 2.67
+}
+```
+
+## Benchmark Tasks
+
+### Task A: Aesthetic Score Prediction
+
+Predict the mean aesthetic quality score (continuous, 1-5). Primary metric: SRCC.
+
+- **Regression:** MSE loss, output dim = 1
+- **Classification:** Cross-entropy loss, output dim = 5
+
+### Task B: Metadata Prediction
+
+Predict game metadata (killer character, victim character, stage, finishing move) from visual features alone. Primary metric: balanced accuracy.
+
+### Task C: Scene Tag Prediction
+
+Multi-label classification over 20 scene tags organized in three layers (Technique, Context, Meta). Primary metric: mAP. Loss: BCEWithLogits.
+
+### Task D: Rationale Generation
+
+Generate natural language explanations for why a clip received its aesthetic score. Evaluated with BERTScore, ROUGE-L, and Claude-as-judge (relevance, specificity, accuracy on 1-5 scales).
+
+## Models
+
+### Unimodal
+
+| ID | Modality | Input | Architecture |
+|----|----------|-------|-------------|
+| V1 | Video | InternVideo2-6B (T, 768) | 1-layer Transformer + mean pool |
+| V2 | Video | InternVideo2-6B (T, 768) | Mean pool (no Transformer) |
+| A1 | Audio | BEATs (768) | MLP |
+| A2 | Transcript | MPNet (768) | MLP |
+| A3 | Prosody | 12-dim scalar | BatchNorm + MLP |
+| M1 | Metadata | Categorical embeddings | MLP |
+
+### Fusion (Early Fusion, F2)
+
+Shared Transformer with modality tag embeddings and CLS token. Tested combinations: V1+A1, V1+A2, V1+A3, A1+A2+A3, A1+A2+A3+V1.
+
+## License
+
+- **Code:** MIT License (see `LICENSE`)
+- **Data:** CC BY 4.0 (see `LICENSE-DATA`)
+
+## Citation
+
+```bibtex
+@inproceedings{saito2026smashclip,
+  title     = {SmashClip: A Multimodal Dataset for Clip-Worthiness Assessment},
+  author    = {Saito, Kazuhiro},
+  booktitle = {Proceedings of the ACM International Conference on Multimedia (MM)},
+  year      = {2026},
+}
+```

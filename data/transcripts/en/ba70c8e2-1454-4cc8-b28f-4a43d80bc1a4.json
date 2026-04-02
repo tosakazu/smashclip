@@ -1,0 +1,40 @@
+{
+  "id": "ba70c8e2-1454-4cc8-b28f-4a43d80bc1a4",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.2,
+      "text": "Coming back straight, no side or down angles!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "横系を通らず下系を通らない"
+    },
+    {
+      "start": 3.2,
+      "end": 9.06,
+      "text": "Made it back!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "戻ってきたところ"
+    },
+    {
+      "start": 9.06,
+      "end": 11.6,
+      "text": "What happens now?!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これはどうなるよ"
+    }
+  ],
+  "full_text": "Coming back straight, no side or down angles! Made it back! What happens now?!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "横桂を通らず下桂を通らない",
+      "corrected": "横系を通らず下系を通らない",
+      "rule": "kanji homophone"
+    }
+  ]
+}

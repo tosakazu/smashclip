@@ -1,0 +1,81 @@
+{
+  "id": "6f98bdcf-8cf3-4abb-a8d4-8fa10c11146e",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.06,
+      "text": "Fair on escape!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "動き出し空中前"
+    },
+    {
+      "start": 1.06,
+      "end": 3.84,
+      "text": "Oh that's gorgeous!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これ美味しいぞ"
+    },
+    {
+      "start": 3.84,
+      "end": 5.0,
+      "text": "Egg hits into fair!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "卵が当たって空中前"
+    },
+    {
+      "start": 5.0,
+      "end": 6.24,
+      "text": "Juggle available!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "追撃可能です"
+    },
+    {
+      "start": 6.24,
+      "end": 8.12,
+      "text": "With jab,",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "弱で"
+    },
+    {
+      "start": 8.12,
+      "end": 10.62,
+      "text": "when they're really looking to move, quick startup",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "めっちゃくちゃ動き出したいところに発生の早い"
+    },
+    {
+      "start": 10.62,
+      "end": 12.46,
+      "text": "jab placement to build strong position",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "弱を置いて吉沢展開を作ります"
+    },
+    {
+      "start": 12.46,
+      "end": 12.68,
+      "text": "This is...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これは"
+    },
+    {
+      "start": 12.68,
+      "end": 14.0,
+      "text": "No wait, this...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いやこの"
+    }
+  ],
+  "full_text": "Fair on escape! Oh that's gorgeous! Egg hits into fair! Juggle available! With jab, when they're really looking to move, quick startup jab placement to build strong position. This is... No wait, this...",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

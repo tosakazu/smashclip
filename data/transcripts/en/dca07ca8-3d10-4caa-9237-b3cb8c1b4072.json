@@ -1,0 +1,40 @@
+{
+  "id": "dca07ca8-3d10-4caa-9237-b3cb8c1b4072",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.08,
+      "text": "Off the Pikmin throw into the shuriken!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ピクミンの投げから手裏剣的"
+    },
+    {
+      "start": 1.08,
+      "end": 4.0,
+      "text": "Whiffs the up B, up smash from purple!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "上B空振らせて紫の上スマッシュ"
+    },
+    {
+      "start": 4.8,
+      "end": 10.0,
+      "text": "Parries into the forward smash!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ジャストシールド横スマッシュ"
+    }
+  ],
+  "full_text": "Off the Pikmin throw into the shuriken! Whiffs the up B, up smash from purple! Parries into the forward smash!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "テクミンの投げから主要投的",
+      "corrected": "ピクミンの投げから手裏剣的",
+      "rule": "misheard word (Pikmin)"
+    }
+  ]
+}

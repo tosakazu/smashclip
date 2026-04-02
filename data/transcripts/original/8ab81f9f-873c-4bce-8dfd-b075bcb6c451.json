@@ -1,0 +1,38 @@
+{
+  "id": "8ab81f9f-873c-4bce-8dfd-b075bcb6c451",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.56,
+      "text": "かなり起きるのかなと思っているので",
+      "language": "ja"
+    },
+    {
+      "start": 1.56,
+      "end": 4.0,
+      "text": "正直色はどれでもいいのかなと思ってます",
+      "language": "ja"
+    },
+    {
+      "start": 4.0,
+      "end": 9.56,
+      "text": "おーと",
+      "language": "ja"
+    },
+    {
+      "start": 9.56,
+      "end": 12.56,
+      "text": "紫処理に全力と見せかけて",
+      "language": "ja"
+    },
+    {
+      "start": 12.56,
+      "end": 12.94,
+      "text": "すぐ",
+      "language": "ja"
+    }
+  ],
+  "full_text": "かなり起きるのかなと思っているので 正直色はどれでもいいのかなと思ってます おーと 紫処理に全力と見せかけて すぐ",
+  "detected_language": "ja",
+  "corrections": []
+}

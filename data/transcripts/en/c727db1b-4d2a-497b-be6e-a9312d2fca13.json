@@ -1,0 +1,33 @@
+{
+  "id": "c727db1b-4d2a-497b-be6e-a9312d2fca13",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.04,
+      "text": "Yeah, that's right",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "あーほんとだ"
+    },
+    {
+      "start": 2.04,
+      "end": 4.58,
+      "text": "Getting completely destroyed by the rush attack!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "突撃で全然やられちゃうね"
+    },
+    {
+      "start": 4.58,
+      "end": 8.7,
+      "text": "This is...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これは"
+    }
+  ],
+  "full_text": "Yeah, that's right Getting completely destroyed by the rush attack! This is...",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

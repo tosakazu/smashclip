@@ -1,0 +1,70 @@
+{
+  "id": "c3d5f0b2-b4a2-40f4-887c-19fbe8b033d3",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Doesn't get the KO on that push!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "パッシュなんですが、撃墜にはいたらず"
+    },
+    {
+      "start": 2.0,
+      "end": 4.66,
+      "text": "Punishes the getup with fair!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "起き上がりを空中前でとがめる"
+    },
+    {
+      "start": 4.66,
+      "end": 6.92,
+      "text": "But that sends them the other way—still no KO!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "しかしこれも反対側に飛ぶのでまだ撃墜しない"
+    },
+    {
+      "start": 6.92,
+      "end": 9.62,
+      "text": "Samus's Power Suit is weighing her down!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあサムスはパワードスーツの分体が重いぞ"
+    },
+    {
+      "start": 9.62,
+      "end": 12.22,
+      "text": "Gets the clean Hydro Pump!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ハイドロポンプうまく当てて"
+    },
+    {
+      "start": 12.22,
+      "end": 13.52,
+      "text": "Forced to recover from deep!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "内から帰らざるを得ない"
+    }
+  ],
+  "full_text": "Doesn't get the KO on that push! Punishes the getup with fair! But that sends them the other way—still no KO! Samus's Power Suit is weighing her down! Gets the clean Hydro Pump! Forced to recover from deep!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "沸き上がり",
+      "corrected": "起き上がり",
+      "rule": "misheard word"
+    },
+    {
+      "segment_idx": 4,
+      "original": "タイドルポンプ",
+      "corrected": "ハイドロポンプ",
+      "rule": "misheard move name"
+    }
+  ]
+}

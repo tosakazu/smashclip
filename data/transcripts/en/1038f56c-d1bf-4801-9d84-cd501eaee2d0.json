@@ -1,0 +1,60 @@
+{
+  "id": "1038f56c-d1bf-4801-9d84-cd501eaee2d0",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.38,
+      "text": "Side B haunts me the whole time, so",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "やっぱりどうしても横Bがちらついちゃうので"
+    },
+    {
+      "start": 2.38,
+      "end": 3.84,
+      "text": "I end up hesitating",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "躊躇しちゃうんですよね"
+    },
+    {
+      "start": 3.84,
+      "end": 5.44,
+      "text": "And the landing windows line up perfectly",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあ着地が噛み合いすぎて"
+    },
+    {
+      "start": 5.44,
+      "end": 6.9,
+      "text": "Down smash!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いやここで下スマッシュ"
+    }
+  ],
+  "full_text": "Side B haunts me the whole time, so I end up hesitating. And the landing windows line up perfectly. Down smash!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "やっぱりどうしても横火がちらついちゃうので",
+      "corrected": "やっぱりどうしても横Bがちらついちゃうので",
+      "rule": "Kanji homophone: 横火→横B (side special)"
+    },
+    {
+      "segment_idx": 2,
+      "original": "さあ着地ができみしすぎて",
+      "corrected": "さあ着地が噛み合いすぎて",
+      "rule": "Whisper mishearing: できみし→噛み合い"
+    },
+    {
+      "segment_idx": 3,
+      "original": "いやここでしたスマッシュ",
+      "corrected": "いやここで下スマッシュ",
+      "rule": "Kanji homophone: した→下 (down smash)"
+    }
+  ]
+}

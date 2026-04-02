@@ -1,0 +1,75 @@
+{
+  "id": "8ac897e0-65f7-4139-a133-b13241ed6f1f",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.32,
+      "text": "Hard to break down",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "なかなか崩せない"
+    },
+    {
+      "start": 1.32,
+      "end": 3.56,
+      "text": "Back throw's scary too, right?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "後ろ投げも怖いですよね"
+    },
+    {
+      "start": 3.56,
+      "end": 4.2,
+      "text": "For sure",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そうですね"
+    },
+    {
+      "start": 4.2,
+      "end": 7.5,
+      "text": "Even back throw could KO",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "後ろ投げでも撃墜してもおかしくない"
+    },
+    {
+      "start": 7.5,
+      "end": 8.42,
+      "text": "At this percentage",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "パーセントなので"
+    },
+    {
+      "start": 8.42,
+      "end": 11.1,
+      "text": "But they're trading a lot",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ただよく相打ち取りますね"
+    },
+    {
+      "start": 11.1,
+      "end": 12.2,
+      "text": "166",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "166"
+    },
+    {
+      "start": 12.2,
+      "end": 14.06,
+      "text": "For the juggle",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空狩りに"
+    }
+  ],
+  "full_text": "Hard to break down Back throw's scary too, right? For sure Even back throw could KO At this percentage But they're trading a lot 166 For the juggle",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    "からかりに→空狩りに (aerial punish / 着地狩り abbreviation)"
+  ]
+}

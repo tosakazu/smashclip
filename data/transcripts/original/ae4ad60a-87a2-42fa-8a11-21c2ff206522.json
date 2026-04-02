@@ -1,0 +1,45 @@
+{
+  "id": "ae4ad60a-87a2-42fa-8a11-21c2ff206522",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.48,
+      "text": "やばい燃料がないぞ",
+      "language": "ja"
+    },
+    {
+      "start": 1.48,
+      "end": 4.64,
+      "text": "これは戻ってくるはず黒船も頑張りました",
+      "language": "ja"
+    },
+    {
+      "start": 4.64,
+      "end": 7.78,
+      "text": "空後5回突き",
+      "language": "ja"
+    },
+    {
+      "start": 7.78,
+      "end": 8.3,
+      "text": "崖",
+      "language": "ja"
+    }
+  ],
+  "full_text": "やばい燃料がないぞ これは戻ってくるはず黒船も頑張りました 空後5回突き 崖",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "羽地君も頑張りました",
+      "corrected": "はず黒船も頑張りました",
+      "rule": "player name (黒船)"
+    },
+    {
+      "segment_idx": 2,
+      "original": "右5回突き",
+      "corrected": "空後5回突き",
+      "rule": "move name (空後)"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "id": "3692dd9a-9521-456e-a3d7-7a488e132e06",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.86,
+      "text": "But instead of spotdodging, they went with directional airdodge away",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ですが、その場回避ではなく、外側回避を選んだ"
+    },
+    {
+      "start": 5.86,
+      "end": 8.58,
+      "text": "They stayed composed with a clean back airdodge",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "焦らなかったですね、冷静に後ろ回避しました"
+    },
+    {
+      "start": 8.58,
+      "end": 11.96,
+      "text": "To the slightly mistimed up smash",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "わずかにタイミングが遅れたその上スマッシュに"
+    },
+    {
+      "start": 11.96,
+      "end": 14.0,
+      "text": "He connects with the precise hit confirm",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "的確な確認を合わせてきましたが"
+    },
+    {
+      "start": 14.0,
+      "end": 14.24,
+      "text": "And that's the KO!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "撃墜まで行く"
+    }
+  ],
+  "full_text": "But instead of spotdodging, they went with directional airdodge away They stayed composed with a clean back airdodge To the slightly mistimed up smash He connects with the precise hit confirm And that's the KO!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 3,
+      "original": "的確な拡大を味わってきましたが",
+      "corrected": "的確な確認を合わせてきましたが",
+      "rule": "misheard"
+    },
+    {
+      "segment_idx": 4,
+      "original": "キッズまで行く",
+      "corrected": "撃墜まで行く",
+      "rule": "misheard: 撃墜"
+    }
+  ]
+}

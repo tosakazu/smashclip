@@ -1,0 +1,24 @@
+{
+  "id": "f03e17bf-2c52-4f38-abec-75b82a0c682a",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 7.82,
+      "text": "After grabbing the ledge the first time, the second attempt is different...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "崖つかまり違う歌う崖つかまりを1回やった後に2回目ます"
+    }
+  ],
+  "full_text": "After grabbing the ledge the first time, the second attempt is different...",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "がけつかまり違う歌うがけつかまりを1回やった後に2回ます",
+      "corrected": "崖つかまり違う歌う崖つかまりを1回やった後に2回目ます",
+      "rule": "typo"
+    }
+  ]
+}

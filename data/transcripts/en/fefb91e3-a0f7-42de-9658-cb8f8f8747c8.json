@@ -1,0 +1,100 @@
+{
+  "id": "fefb91e3-a0f7-42de-9658-cb8f8f8747c8",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.26,
+      "text": "That's around when Luigi players really started exploring what the character could do",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "それくらいにルイージ使いの人の開拓が進んで"
+    },
+    {
+      "start": 3.26,
+      "end": 7.8,
+      "text": "Beyond throw combos, the KO percents after you've racked up some damage",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "投げコン以外にもダメージを蓄積した後の撃墜パーセントが"
+    },
+    {
+      "start": 7.8,
+      "end": 9.54,
+      "text": "can be targeted pretty consistently with fair",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空前で狙えるパターンがかなり多いですね"
+    },
+    {
+      "start": 9.54,
+      "end": 11.58,
+      "text": "The moment that up tilt hit both times",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "上強2段当たった瞬間"
+    },
+    {
+      "start": 11.58,
+      "end": 13.38,
+      "text": "I didn't think it would work, but",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いやまさかねと思ったんですけど"
+    },
+    {
+      "start": 13.38,
+      "end": 15.04,
+      "text": "they scooped them with the double jump",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ダブルアップで拾っていったと"
+    },
+    {
+      "start": 15.04,
+      "end": 17.52,
+      "text": "And that's exactly why it worked",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "まさか起こしてくれるからこそ"
+    },
+    {
+      "start": 17.52,
+      "end": 18.22,
+      "text": "But here's the thing",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあだが"
+    },
+    {
+      "start": 18.22,
+      "end": 19.08,
+      "text": "Luigi players' development of the character has really progressed",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ルイージ使いの人の開拓が進んで"
+    }
+  ],
+  "full_text": "That's around when Luigi players really started exploring what the character could do. Beyond throw combos, the KO percents after you've racked up some damage can be targeted pretty consistently with fair. The moment that up tilt hit both times I didn't think it would work, but they scooped them with the double jump. And that's exactly why it worked. But here's the thing, Luigi players' development of the character has really progressed.",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "ルイディエノを使っている人",
+      "corrected": "ルイージ使いの人",
+      "rule": "misheard: ルイディエノ→ルイージ"
+    },
+    {
+      "segment_idx": 2,
+      "original": "装備で狙える",
+      "corrected": "空前で狙える",
+      "rule": "misheard: 装備→空前"
+    },
+    {
+      "segment_idx": 8,
+      "original": "ルイディエノを使っている人",
+      "corrected": "ルイージ使いの人",
+      "rule": "misheard"
+    }
+  ]
+}

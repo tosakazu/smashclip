@@ -1,0 +1,69 @@
+{
+  "id": "2ba7dbf8-c002-47bd-a90d-15617a336bbb",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.2,
+      "text": "反対側に移動する判断です",
+      "language": "ja"
+    },
+    {
+      "start": 3.2,
+      "end": 3.96,
+      "text": "おっと",
+      "language": "ja"
+    },
+    {
+      "start": 3.96,
+      "end": 5.84,
+      "text": "ダッシュで近づいたから",
+      "language": "ja"
+    },
+    {
+      "start": 5.84,
+      "end": 7.32,
+      "text": "ここのベク変ミス",
+      "language": "ja"
+    },
+    {
+      "start": 7.32,
+      "end": 9.52,
+      "text": "難しい反転つかみ",
+      "language": "ja"
+    },
+    {
+      "start": 9.52,
+      "end": 12.12,
+      "text": "このシールドを張りたくなる場面に対して",
+      "language": "ja"
+    },
+    {
+      "start": 12.12,
+      "end": 13.46,
+      "text": "対応するSnow",
+      "language": "ja"
+    }
+  ],
+  "full_text": "反対側に移動する判断です おっと ダッシュで近づいたから ここのベク変ミス 難しい反転つかみ このシールドを張りたくなる場面に対して 対応するSnow",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "足で近づいたから",
+      "corrected": "ダッシュで近づいたから",
+      "rule": "misheard"
+    },
+    {
+      "segment_idx": 3,
+      "original": "ベストマッチ",
+      "corrected": "ベク変ミス",
+      "rule": "misheard: ベストマッチ→ベク変ミス"
+    },
+    {
+      "segment_idx": 6,
+      "original": "スノーバリオ",
+      "corrected": "Snow",
+      "rule": "player name: スノーバリオ→Snow"
+    }
+  ]
+}

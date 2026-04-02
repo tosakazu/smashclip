@@ -1,0 +1,56 @@
+{
+  "id": "68bbe60a-3d4c-4568-9ea3-85dcc0cc3b7a",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.26,
+      "text": "Oh man, Joppin's already laughing!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いやもう上品選手笑っちゃってるじゃんもう"
+    },
+    {
+      "start": 2.26,
+      "end": 3.16,
+      "text": "It's way too—",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "あまりにも"
+    },
+    {
+      "start": 3.16,
+      "end": 7.46,
+      "text": "Pichu's way too strong, and that damage output is absolutely insane!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ものすぎるピチューそして攻撃力が高すぎるYン"
+    },
+    {
+      "start": 7.46,
+      "end": 9.14,
+      "text": "This overwhelming situation!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "この圧倒的な展開"
+    },
+    {
+      "start": 9.14,
+      "end": 11.72,
+      "text": "But they broke through with pure attack power!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "しかしそこを攻撃力で貫いた"
+    }
+  ],
+  "full_text": "Oh man, Joppin's already laughing! It's way too— Pichu's way too strong, and that damage output is absolutely insane! This overwhelming situation! But they broke through with pure attack power!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "ワイン",
+      "corrected": "Yン",
+      "rule": "player name"
+    }
+  ]
+}

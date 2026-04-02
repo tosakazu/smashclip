@@ -1,0 +1,40 @@
+{
+  "id": "f647c8e2-b7cb-4e70-b4a7-e45bdd81b4c9",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.22,
+      "text": "As Piranha Plant,",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "パックンフラワーとしては"
+    },
+    {
+      "start": 1.22,
+      "end": 7.16,
+      "text": "this is a tough situation,",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ややしんどい場面ではありますが"
+    },
+    {
+      "start": 7.16,
+      "end": 9.82,
+      "text": "but it all comes down to whether they can execute the next move.",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "次の一手を取っていくことができるかどうかというところしか"
+    }
+  ],
+  "full_text": "As Piranha Plant, this is a tough situation, but it all comes down to whether they can execute the next move.",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "スパックンフラワー",
+      "corrected": "パックンフラワー",
+      "rule": "misheard: スパックン→パックン"
+    }
+  ]
+}

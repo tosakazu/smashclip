@@ -1,0 +1,48 @@
+{
+  "id": "5bb67f79-957b-4f6a-861b-2013ff38321d",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "text": "whether they can open it up",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "開けることができるかどうか"
+    },
+    {
+      "start": 1.0,
+      "end": 4.12,
+      "text": "they went for the hook on that aerial startup, but...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空中攻撃の始動を引っ掛けにいったが"
+    },
+    {
+      "start": 4.12,
+      "end": 5.12,
+      "text": "oh no!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これはおっと"
+    },
+    {
+      "start": 5.12,
+      "end": 7.46,
+      "text": "jump!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ジャン"
+    }
+  ],
+  "full_text": "whether they can open it up they went for the hook on that aerial startup, but... oh no! jump!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "空中グラップの時速",
+      "corrected": "空中攻撃の始動",
+      "rule": "misheard word"
+    }
+  ]
+}

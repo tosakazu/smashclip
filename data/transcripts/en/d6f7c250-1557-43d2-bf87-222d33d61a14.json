@@ -1,0 +1,56 @@
+{
+  "id": "d6f7c250-1557-43d2-bf87-222d33d61a14",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.42,
+      "text": "Lariarc keeps pushing without hesitation",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そのままブレずに採掘を進めるのはラリックス"
+    },
+    {
+      "start": 2.42,
+      "end": 3.74,
+      "text": "Game 3, Daisy",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "3セット目のダイヤ"
+    },
+    {
+      "start": 3.74,
+      "end": 6.72,
+      "text": "Honestly, even if this breaks, they could gear Daisy up again",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "なんならこれが壊れてもダイヤの装備もう一回作れるような"
+    },
+    {
+      "start": 6.72,
+      "end": 7.38,
+      "text": "That timing right there",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そのタイミング"
+    },
+    {
+      "start": 7.38,
+      "end": 9.68,
+      "text": "And carefully reading the setup",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そしてじっくり見て装備"
+    }
+  ],
+  "full_text": "Lariarc keeps pushing without hesitation. Game 3, Daisy. Honestly, even if this breaks, they could gear Daisy up again. That timing right there. And carefully reading the setup.",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "3足目のダイヤ",
+      "corrected": "3セット目のダイヤ",
+      "rule": "mishearing (足→セット)"
+    }
+  ]
+}

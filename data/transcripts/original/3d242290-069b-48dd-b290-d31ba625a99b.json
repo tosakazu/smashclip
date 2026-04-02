@@ -1,0 +1,32 @@
+{
+  "id": "3d242290-069b-48dd-b290-d31ba625a99b",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.6,
+      "text": "埋まってしまって空中白攻撃",
+      "language": "ja"
+    },
+    {
+      "start": 2.6,
+      "end": 5.52,
+      "text": "さあビハインド135%",
+      "language": "ja"
+    },
+    {
+      "start": 5.52,
+      "end": 8.4,
+      "text": "こっからあるのかマイホドンキー",
+      "language": "ja"
+    },
+    {
+      "start": 8.4,
+      "end": 11.34,
+      "text": "ここは空中ニュートラルから弱空中",
+      "language": "ja"
+    }
+  ],
+  "full_text": "埋まってしまって空中白攻撃 さあビハインド135% こっからあるのかマイホドンキー ここは空中ニュートラルから弱空中",
+  "detected_language": "ja",
+  "corrections": []
+}

@@ -1,0 +1,90 @@
+{
+  "id": "b1166f9b-b3d7-4845-99e4-dfb1e2864a66",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.92,
+      "text": "Up and falling!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "浮いたの降りていて"
+    },
+    {
+      "start": 0.92,
+      "end": 3.64,
+      "text": "Yeah, that kill spacing's a bit off",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いやーこれとどめの撃ち筋がちょっと遠いか"
+    },
+    {
+      "start": 3.64,
+      "end": 6.1,
+      "text": "Man, that shield's holding tight!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いやーあのガードが固いぞ"
+    },
+    {
+      "start": 6.1,
+      "end": 7.0,
+      "text": "Off the trade,",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "相打ちから"
+    },
+    {
+      "start": 7.0,
+      "end": 10.26,
+      "text": "who landed first?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "先に地面戻ったのはどちらか"
+    },
+    {
+      "start": 10.26,
+      "end": 11.74,
+      "text": "Whoa!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "うおー"
+    },
+    {
+      "start": 11.74,
+      "end": 12.34,
+      "text": "Hmm...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "うーん"
+    }
+  ],
+  "full_text": "Up and falling! Yeah, that kill spacing's a bit off Man, that shield's holding tight! Off the trade, who landed first? Whoa! Hmm...",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "ウィンダウンしていて",
+      "corrected": "浮いたの降りていて",
+      "rule": "mishearing"
+    },
+    {
+      "segment_idx": 1,
+      "original": "打ち引き",
+      "corrected": "撃ち筋",
+      "rule": "homophone"
+    },
+    {
+      "segment_idx": 2,
+      "original": "あのが固いぞ",
+      "corrected": "あのガードが固いぞ",
+      "rule": "missing word"
+    },
+    {
+      "segment_idx": 4,
+      "original": "先に地面戻ったのをどちらか",
+      "corrected": "先に地面戻ったのはどちらか",
+      "rule": "particle correction"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "id": "6cba09ad-b576-4572-b6d6-c454b5755ff2",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.32,
+      "text": "火がかかっていく",
+      "language": "ja"
+    },
+    {
+      "start": 3.32,
+      "end": 7.1,
+      "text": "空Nですから",
+      "language": "ja"
+    },
+    {
+      "start": 7.1,
+      "end": 9.92,
+      "text": "拾って拾って怪しくなってくるか",
+      "language": "ja"
+    },
+    {
+      "start": 9.92,
+      "end": 10.86,
+      "text": "どうなんだこれは",
+      "language": "ja"
+    },
+    {
+      "start": 10.86,
+      "end": 12.3,
+      "text": "まずいのではないか",
+      "language": "ja"
+    },
+    {
+      "start": 12.3,
+      "end": 14.82,
+      "text": "いやー",
+      "language": "ja"
+    }
+  ],
+  "full_text": "火がかかっていく 空Nですから 拾って拾って怪しくなってくるか どうなんだこれは まずいのではないか いやー",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_index": 0,
+      "original": "水がかかっていく",
+      "corrected": "火がかかっていく"
+    },
+    {
+      "segment_index": 1,
+      "original": "空中ですから",
+      "corrected": "空Nですから"
+    }
+  ]
+}

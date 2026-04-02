@@ -1,0 +1,45 @@
+{
+  "id": "f10fbf6c-bce5-4e3d-bdc2-7e432a6d5152",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.3,
+      "text": "ここは着地が通って",
+      "language": "ja"
+    },
+    {
+      "start": 2.3,
+      "end": 4.16,
+      "text": "つかみ",
+      "language": "ja"
+    },
+    {
+      "start": 4.16,
+      "end": 6.04,
+      "text": "ライデイン",
+      "language": "ja"
+    },
+    {
+      "start": 6.04,
+      "end": 7.84,
+      "text": "着地が通っていて",
+      "language": "ja"
+    },
+    {
+      "start": 7.84,
+      "end": 9.56,
+      "text": "横強攻撃",
+      "language": "ja"
+    }
+  ],
+  "full_text": "ここは着地が通って つかみ ライデイン 着地が通っていて 横強攻撃",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "雷電",
+      "corrected": "ライデイン",
+      "rule": "Hero spell name: 雷電→ライデイン"
+    }
+  ]
+}

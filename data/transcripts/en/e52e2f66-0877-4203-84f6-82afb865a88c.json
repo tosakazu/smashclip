@@ -1,0 +1,88 @@
+{
+  "id": "e52e2f66-0877-4203-84f6-82afb865a88c",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.96,
+      "text": "His partner is",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "相方が"
+    },
+    {
+      "start": 0.96,
+      "end": 1.9,
+      "text": "His partner is",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "相方が"
+    },
+    {
+      "start": 1.9,
+      "end": 2.7,
+      "text": "completely unstoppable",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "縦横無尽だ"
+    },
+    {
+      "start": 2.7,
+      "end": 3.4,
+      "text": "down smash",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "下スマッシュ"
+    },
+    {
+      "start": 3.4,
+      "end": 3.92,
+      "text": "that Bargarin",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そのバーガリン"
+    },
+    {
+      "start": 3.92,
+      "end": 4.58,
+      "text": "times it so well",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "うまく合わせて"
+    },
+    {
+      "start": 4.58,
+      "end": 7.64,
+      "text": "What about this ledge getup?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "この崖上がりどうなる"
+    },
+    {
+      "start": 7.64,
+      "end": 8.56,
+      "text": "The player is",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "本体が"
+    },
+    {
+      "start": 8.56,
+      "end": 10.44,
+      "text": "even though they're doing a jump getup",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "本体はジャンプ上がりしてるのに"
+    }
+  ],
+  "full_text": "His partner is His partner is completely unstoppable down smash that Bargarin times it so well What about this ledge getup? The player is even though they're doing a jump getup",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 4,
+      "original": "そのバーガリン",
+      "corrected": "その場がりん",
+      "rule": "no change - 場 reference"
+    }
+  ]
+}

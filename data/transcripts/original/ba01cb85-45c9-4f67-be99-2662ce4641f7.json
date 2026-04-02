@@ -1,0 +1,51 @@
+{
+  "id": "ba01cb85-45c9-4f67-be99-2662ce4641f7",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.72,
+      "text": "飛ばなくてね",
+      "language": "ja"
+    },
+    {
+      "start": 0.72,
+      "end": 1.02,
+      "text": "そうですね",
+      "language": "ja"
+    },
+    {
+      "start": 1.02,
+      "end": 1.72,
+      "text": "ヒット確認",
+      "language": "ja"
+    },
+    {
+      "start": 1.72,
+      "end": 4.86,
+      "text": "最初は当たっていない状況でのダッシュ攻撃入力だったので",
+      "language": "ja"
+    },
+    {
+      "start": 4.86,
+      "end": 6.56,
+      "text": "ヒットしたところにベルキャッチ",
+      "language": "ja"
+    },
+    {
+      "start": 6.56,
+      "end": 8.08,
+      "text": "空前で撃墜!",
+      "language": "ja"
+    }
+  ],
+  "full_text": "飛ばなくてね そうですね ヒット確認 最初は当たっていない状況でのダッシュ攻撃入力だったので ヒットしたところにベルキャッチ 空前で撃墜!",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 5,
+      "original": "宇宙前で撃墜!",
+      "corrected": "空前で撃墜!",
+      "rule": "kanji homophone"
+    }
+  ]
+}

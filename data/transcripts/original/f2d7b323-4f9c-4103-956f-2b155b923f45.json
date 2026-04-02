@@ -1,0 +1,33 @@
+{
+  "id": "f2d7b323-4f9c-4103-956f-2b155b923f45",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.96,
+      "text": "ここはNBを置いている",
+      "language": "ja"
+    },
+    {
+      "start": 0.96,
+      "end": 7.5,
+      "text": "さあ少しも油断ができなくなったのはなおちゃ側",
+      "language": "ja"
+    },
+    {
+      "start": 7.5,
+      "end": 11.34,
+      "text": "ここでNB撃墜しています",
+      "language": "ja"
+    }
+  ],
+  "full_text": "ここはNBを置いている さあ少しも油断ができなくなったのはなおちゃ側 ここでNB撃墜しています",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "直茶川",
+      "corrected": "なおちゃ側",
+      "rule": "player name: 直茶→なおちゃ"
+    }
+  ]
+}

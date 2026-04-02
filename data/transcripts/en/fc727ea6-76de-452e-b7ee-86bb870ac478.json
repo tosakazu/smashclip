@@ -1,0 +1,46 @@
+{
+  "id": "fc727ea6-76de-452e-b7ee-86bb870ac478",
+  "segments": [
+    {
+      "start": 0.84,
+      "end": 5.4,
+      "text": "Alright, PK Thunder, PK Thunder, PK Thunder - on the third one he cleanly shuts it down with a dair, but...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあPKサンダーPKサンダーPKサンダー3回目はしっかりと空下で打ち消すが"
+    },
+    {
+      "start": 5.4,
+      "end": 9.28,
+      "text": "He also picks up the aerial cleanly, and then...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあ空打に対してもしっかり拾うそして"
+    },
+    {
+      "start": 9.28,
+      "end": 11.4,
+      "text": "Ledge grab!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "掴みの崖"
+    }
+  ],
+  "full_text": "Alright, PK Thunder, PK Thunder, PK Thunder - on the third one he cleanly shuts it down with a dair, but... He also picks up the aerial cleanly, and then... Ledge grab!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "空中したら打ち消す",
+      "corrected": "空下で打ち消す",
+      "rule": "misheard: 空中したら→空下で"
+    },
+    {
+      "segment_idx": 2,
+      "original": "クグラの崖",
+      "corrected": "掴みの崖",
+      "rule": "misheard: クグラ→掴み"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": "36440884-a0d4-497f-9bfb-3c0a5e48f2c8",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.12,
+      "text": "避け切ったのはミュートエース",
+      "language": "ja"
+    },
+    {
+      "start": 3.12,
+      "end": 3.78,
+      "text": "しかしここ",
+      "language": "ja"
+    },
+    {
+      "start": 3.78,
+      "end": 9.34,
+      "text": "歩くだけでプレッシャーをかけている",
+      "language": "ja"
+    },
+    {
+      "start": 9.34,
+      "end": 10.42,
+      "text": "そのような印象",
+      "language": "ja"
+    },
+    {
+      "start": 10.42,
+      "end": 11.54,
+      "text": "下",
+      "language": "ja"
+    }
+  ],
+  "full_text": "避け切ったのはミュートエース しかしここ 歩くだけでプレッシャーをかけている そのような印象 下",
+  "detected_language": "ja",
+  "corrections": []
+}

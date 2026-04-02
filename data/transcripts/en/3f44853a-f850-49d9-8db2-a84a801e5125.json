@@ -1,0 +1,88 @@
+{
+  "id": "3f44853a-f850-49d9-8db2-a84a801e5125",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.4,
+      "text": "It's working",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "できている"
+    },
+    {
+      "start": 0.4,
+      "end": 1.66,
+      "text": "From that last play",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "先ほどのため"
+    },
+    {
+      "start": 1.66,
+      "end": 2.88,
+      "text": "Mega Volt",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "メガボルト"
+    },
+    {
+      "start": 2.88,
+      "end": 4.92,
+      "text": "By switching to Mega Volt",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "メガボルトに変えることによって"
+    },
+    {
+      "start": 4.92,
+      "end": 6.48,
+      "text": "That intimidating approach",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "威嚇をするドラミギというような"
+    },
+    {
+      "start": 6.48,
+      "end": 7.36,
+      "text": "That's the vibe",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "印象がありますね"
+    },
+    {
+      "start": 7.36,
+      "end": 9.32,
+      "text": "But they went for it",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあしかしそれを貫くした"
+    },
+    {
+      "start": 9.32,
+      "end": 10.4,
+      "text": "Up smash",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "今日は上スマッシュ"
+    },
+    {
+      "start": 10.4,
+      "end": 11.84,
+      "text": "No hesitation",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "起きすることなく"
+    }
+  ],
+  "full_text": "It's working from that last play Mega Volt by switching to Mega Volt that intimidating approach that's the vibe but they went for it up smash no hesitation",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 4,
+      "original": "ドラミキ",
+      "corrected": "ドラミギ",
+      "rule": "player name: ドラ右 = ドラミギ"
+    }
+  ]
+}

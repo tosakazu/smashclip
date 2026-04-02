@@ -1,0 +1,68 @@
+{
+  "id": "ae131380-1150-415a-9ebf-d686286fba7c",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.5,
+      "text": "Um, the ledge getup is really tight",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "あの、崖上がりがやっぱめっちゃきついです"
+    },
+    {
+      "start": 2.5,
+      "end": 4.0,
+      "text": "And the ledge getup is weak too",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "崖上がりがやっぱり弱いっていうのも"
+    },
+    {
+      "start": 4.0,
+      "end": 5.0,
+      "text": "For this character as well",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "このキャラクターとしても"
+    },
+    {
+      "start": 5.0,
+      "end": 9.46,
+      "text": "Everything's already kind of being handled overall, you know",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "なんか全部もう全体的にかなりケアされてるというか"
+    },
+    {
+      "start": 9.46,
+      "end": 10.8,
+      "text": "Yeah, exactly",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そうなんですよ"
+    }
+  ],
+  "full_text": "Um, the ledge getup is really tight. And the ledge getup is weak too. For this character as well. Everything's already kind of being handled overall, you know. Yeah, exactly",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "崖上あたり",
+      "corrected": "崖上がり",
+      "rule": "smash term (崖上がり=ledge getup)"
+    },
+    {
+      "segment_idx": 1,
+      "original": "崖上が",
+      "corrected": "崖上がりが",
+      "rule": "smash term"
+    },
+    {
+      "segment_idx": 3,
+      "original": "ブレイブもトレも絶対的にかなり冷空されてる",
+      "corrected": "全部もう全体的にかなりケアされてる",
+      "rule": "mishearing (ケア=covered/accounted for)"
+    }
+  ]
+}

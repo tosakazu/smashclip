@@ -1,0 +1,48 @@
+{
+  "id": "df3d8176-4b00-4b4e-989d-849df3d2f000",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.78,
+      "text": "Against that read",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "おこうかなという思惑に対して"
+    },
+    {
+      "start": 1.78,
+      "end": 3.64,
+      "text": "Kuro executes nicely!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "くろー選手がうまく"
+    },
+    {
+      "start": 3.64,
+      "end": 5.42,
+      "text": "Oh! And that's perfect spacing!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "おっとこれもいい位置だ"
+    },
+    {
+      "start": 5.42,
+      "end": 7.38,
+      "text": "No, that was clean!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いやうーわ今のうまく"
+    }
+  ],
+  "full_text": "Against that read Kuro executes nicely! Oh! And that's perfect spacing! No, that was clean!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "黒選手",
+      "corrected": "くろー選手",
+      "rule": "player name"
+    }
+  ]
+}

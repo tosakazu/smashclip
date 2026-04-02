@@ -1,0 +1,21 @@
+{
+  "id": "075c3142-bc05-4f2e-bf7c-cd5acb6c3522",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 15.92,
+      "text": "killing JuiceGoose first roller connection that oh wow",
+      "language": "en"
+    }
+  ],
+  "full_text": "killing JuiceGoose first roller connection that oh wow",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "killing juice juice first roller connection that oh wow",
+      "corrected": "killing JuiceGoose first roller connection that oh wow",
+      "rule": "Player name correction (juice juice → JuiceGoose)"
+    }
+  ]
+}

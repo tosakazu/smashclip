@@ -1,0 +1,75 @@
+{
+  "id": "5b8d5ee6-74bd-4737-9d73-94525ffc7a42",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.62,
+      "text": "リーダーの発想力にはどう度肝を抜かれるばかり",
+      "language": "ja"
+    },
+    {
+      "start": 3.62,
+      "end": 7.34,
+      "text": "ダッシュ攻撃を捌いている間が",
+      "language": "ja"
+    },
+    {
+      "start": 7.34,
+      "end": 8.62,
+      "text": "これは届かないですね",
+      "language": "ja"
+    },
+    {
+      "start": 8.62,
+      "end": 9.84,
+      "text": "届かないベクトル変更",
+      "language": "ja"
+    },
+    {
+      "start": 9.84,
+      "end": 11.58,
+      "text": "上側変更が入っているでしょうか",
+      "language": "ja"
+    },
+    {
+      "start": 11.58,
+      "end": 11.92,
+      "text": "ただ",
+      "language": "ja"
+    },
+    {
+      "start": 11.92,
+      "end": 12.78,
+      "text": "これは確定します",
+      "language": "ja"
+    },
+    {
+      "start": 12.78,
+      "end": 14.04,
+      "text": "逆にニュートラルに対して",
+      "language": "ja"
+    }
+  ],
+  "full_text": "リーダーの発想力にはどう度肝を抜かれるばかり ダッシュ攻撃を捌いている間が これは届かないですね 届かないベクトル変更 上側変更が入っているでしょうか ただ これは確定します 逆にニュートラルに対して",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "どう疑問を抜かれる",
+      "corrected": "度肝を抜かれる",
+      "rule": "kanji homophone"
+    },
+    {
+      "segment_idx": 1,
+      "original": "出し攻撃",
+      "corrected": "ダッシュ攻撃",
+      "rule": "misheard word"
+    },
+    {
+      "segment_idx": 7,
+      "original": "逆中ニュートラル",
+      "corrected": "逆にニュートラル",
+      "rule": "misheard word"
+    }
+  ]
+}

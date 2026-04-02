@@ -1,0 +1,116 @@
+{
+  "id": "4ec505fc-3ea5-4f30-a609-800100585539",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.82,
+      "text": "Gone!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "消え"
+    },
+    {
+      "start": 2.4,
+      "end": 2.9,
+      "text": "Airdodge!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "回避!"
+    },
+    {
+      "start": 2.9,
+      "end": 4.4,
+      "text": "Ledge getup!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "崖上がり!"
+    },
+    {
+      "start": 4.4,
+      "end": 5.4,
+      "text": "Oh! Nice!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "おお!うまい!"
+    },
+    {
+      "start": 5.4,
+      "end": 6.76,
+      "text": "That ledge getup with the reversal!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "この回避上がり、反転使い!"
+    },
+    {
+      "start": 6.76,
+      "end": 7.48,
+      "text": "Come on!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "頼む!"
+    },
+    {
+      "start": 7.48,
+      "end": 7.9,
+      "text": "Oh!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "あっ!"
+    },
+    {
+      "start": 7.9,
+      "end": 8.26,
+      "text": "Here it comes!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "きた!"
+    },
+    {
+      "start": 8.26,
+      "end": 9.46,
+      "text": "There it is!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "来た!"
+    },
+    {
+      "start": 9.46,
+      "end": 10.52,
+      "text": "This route!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "このルート!"
+    },
+    {
+      "start": 10.52,
+      "end": 11.42,
+      "text": "Perfect read!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "読み切り!"
+    }
+  ],
+  "full_text": "Gone! Airdodge! Ledge getup! Oh! Nice! That ledge getup with the reversal! Come on! Oh! Here it comes! There it is! This route! Perfect read!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "エリザ",
+      "corrected": "回避",
+      "rule": "misheard word"
+    },
+    {
+      "segment_idx": 2,
+      "original": "駆け上がり",
+      "corrected": "崖上がり",
+      "rule": "kanji homophone: 駆け→崖"
+    },
+    {
+      "segment_idx": 4,
+      "original": "オーバー上がり、反省使い",
+      "corrected": "回避上がり、反転使い",
+      "rule": "misheard: オーバー→回避, 反省→反転"
+    }
+  ]
+}

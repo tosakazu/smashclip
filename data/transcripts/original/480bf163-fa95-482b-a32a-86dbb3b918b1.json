@@ -1,0 +1,68 @@
+{
+  "id": "480bf163-fa95-482b-a32a-86dbb3b918b1",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.42,
+      "text": "空中上はギリギリ当たらない",
+      "language": "ja"
+    },
+    {
+      "start": 3.42,
+      "end": 4.8,
+      "text": "お互い攻撃をさばき合っている",
+      "language": "ja"
+    },
+    {
+      "start": 4.8,
+      "end": 5.82,
+      "text": "掴みが通った",
+      "language": "ja"
+    },
+    {
+      "start": 5.82,
+      "end": 7.1,
+      "text": "まだ撃墜はしません",
+      "language": "ja"
+    },
+    {
+      "start": 7.1,
+      "end": 8.38,
+      "text": "ドンキーコングの重さならば",
+      "language": "ja"
+    },
+    {
+      "start": 8.38,
+      "end": 9.28,
+      "text": "次ぐらいでしょうね",
+      "language": "ja"
+    },
+    {
+      "start": 9.28,
+      "end": 10.74,
+      "text": "ニュートラル必殺技見えましたが",
+      "language": "ja"
+    },
+    {
+      "start": 10.74,
+      "end": 10.98,
+      "text": "あと",
+      "language": "ja"
+    },
+    {
+      "start": 10.98,
+      "end": 12.86,
+      "text": "いやえらいなマジで",
+      "language": "ja"
+    },
+    {
+      "start": 12.86,
+      "end": 15.54,
+      "text": "少し崖外でごちゃった展開",
+      "language": "ja"
+    }
+  ],
+  "full_text": "空中上はギリギリ当たらない お互い攻撃をさばき合っている 掴みが通った まだ撃墜はしません ドンキーコングの重さならば 次ぐらいでしょうね ニュートラル必殺技見えましたが あと いやえらいなマジで 少し崖外でごちゃった展開",
+  "detected_language": "ja",
+  "corrections": []
+}

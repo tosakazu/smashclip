@@ -1,0 +1,51 @@
+{
+  "id": "3692dd9a-9521-456e-a3d7-7a488e132e06",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.86,
+      "text": "ですが、その場回避ではなく、外側回避を選んだ",
+      "language": "ja"
+    },
+    {
+      "start": 5.86,
+      "end": 8.58,
+      "text": "焦らなかったですね、冷静に後ろ回避しました",
+      "language": "ja"
+    },
+    {
+      "start": 8.58,
+      "end": 11.96,
+      "text": "わずかにタイミングが遅れたその上スマッシュに",
+      "language": "ja"
+    },
+    {
+      "start": 11.96,
+      "end": 14.0,
+      "text": "的確な確認を合わせてきましたが",
+      "language": "ja"
+    },
+    {
+      "start": 14.0,
+      "end": 14.24,
+      "text": "撃墜まで行く",
+      "language": "ja"
+    }
+  ],
+  "full_text": "ですが、その場回避ではなく、外側回避を選んだ 焦らなかったですね、冷静に後ろ回避しました わずかにタイミングが遅れたその上スマッシュに 的確な確認を合わせてきましたが 撃墜まで行く",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 3,
+      "original": "的確な拡大を味わってきましたが",
+      "corrected": "的確な確認を合わせてきましたが",
+      "rule": "misheard"
+    },
+    {
+      "segment_idx": 4,
+      "original": "キッズまで行く",
+      "corrected": "撃墜まで行く",
+      "rule": "misheard: 撃墜"
+    }
+  ]
+}

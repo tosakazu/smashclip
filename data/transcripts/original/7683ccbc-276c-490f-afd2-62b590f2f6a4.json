@@ -1,0 +1,33 @@
+{
+  "id": "7683ccbc-276c-490f-afd2-62b590f2f6a4",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.02,
+      "text": "なんか少し投げ後ろから",
+      "language": "ja"
+    },
+    {
+      "start": 3.02,
+      "end": 6.36,
+      "text": "一気に展開を作って今度は黒船さん",
+      "language": "ja"
+    },
+    {
+      "start": 6.36,
+      "end": 9.52,
+      "text": "うまー今のおりまし",
+      "language": "ja"
+    }
+  ],
+  "full_text": "なんか少し投げ後ろから 一気に展開を作って今度は黒船さん うまー今のおりまし",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "クレノさん",
+      "corrected": "黒船さん",
+      "rule": "player name"
+    }
+  ]
+}

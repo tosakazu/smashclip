@@ -1,0 +1,102 @@
+{
+  "id": "c9440b2e-2133-4c66-93f8-37591e9cd19b",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Or can he deal with it?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "それともジンジン捌ききれるか?"
+    },
+    {
+      "start": 2.0,
+      "end": 4.0,
+      "text": "Yeah, he wants to land that with Rage!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いやぁレイジ通したいぃ"
+    },
+    {
+      "start": 4.0,
+      "end": 5.0,
+      "text": "What's he gonna do?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "どうする?"
+    },
+    {
+      "start": 5.0,
+      "end": 7.0,
+      "text": "Pressing the line there!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ラインを詰めてるのはディージロス"
+    },
+    {
+      "start": 7.0,
+      "end": 8.0,
+      "text": "He's closing in!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ラインを詰めてるのはディージロ"
+    },
+    {
+      "start": 8.0,
+      "end": 9.0,
+      "text": "With nair!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "羽根で"
+    },
+    {
+      "start": 9.0,
+      "end": 11.0,
+      "text": "Insane! How did he grab from there?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "やべぇなんでつかめるのそこ"
+    },
+    {
+      "start": 11.0,
+      "end": 13.0,
+      "text": "Yeah yeah!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "やっやっ"
+    },
+    {
+      "start": 13.0,
+      "end": 15.0,
+      "text": "Yeah, that's too good!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いやぁ上手すぎるそれは"
+    },
+    {
+      "start": 15.0,
+      "end": 16.0,
+      "text": "That's incredible!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "上手すぎる"
+    }
+  ],
+  "full_text": "Or can he deal with it? Yeah, he wants to land that with Rage! What's he gonna do? Pressing the line there! He's closing in! With nair! Insane! How did he grab from there? Yeah yeah! Yeah, that's too good! That's incredible!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 4,
+      "original": "ディージロス",
+      "corrected": "ディージロ",
+      "rule": "player name (DJIRO)"
+    },
+    {
+      "segment_idx": 6,
+      "original": "やぜぇ",
+      "corrected": "やべぇ",
+      "rule": "mishearing (slang)"
+    }
+  ]
+}

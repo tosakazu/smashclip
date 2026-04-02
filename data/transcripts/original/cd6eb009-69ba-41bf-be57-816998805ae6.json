@@ -1,0 +1,26 @@
+{
+  "id": "cd6eb009-69ba-41bf-be57-816998805ae6",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.86,
+      "text": "ストックカウントは2人",
+      "language": "ja"
+    },
+    {
+      "start": 2.86,
+      "end": 6.9,
+      "text": "そして爆弾を当ててからの空中前にも繋げていく",
+      "language": "ja"
+    },
+    {
+      "start": 6.9,
+      "end": 9.0,
+      "text": "さらに爆弾を当てて爆弾を当てて空中",
+      "language": "ja"
+    }
+  ],
+  "full_text": "ストックカウントは2人 そして爆弾を当ててからの空中前にも繋げていく さらに爆弾を当てて爆弾を当てて空中",
+  "detected_language": "ja",
+  "corrections": []
+}

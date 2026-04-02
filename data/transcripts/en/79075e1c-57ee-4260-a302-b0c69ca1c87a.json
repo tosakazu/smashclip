@@ -1,0 +1,65 @@
+{
+  "id": "79075e1c-57ee-4260-a302-b0c69ca1c87a",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.76,
+      "text": "The down attack was still lingering!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "下の持続が当たっていた"
+    },
+    {
+      "start": 1.76,
+      "end": 3.36,
+      "text": "That shield is scary!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "シールド怖いぞ"
+    },
+    {
+      "start": 3.36,
+      "end": 5.88,
+      "text": "I see!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "なるほど"
+    },
+    {
+      "start": 5.88,
+      "end": 8.9,
+      "text": "Timing your up B to meet their up B?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "上Bに合わせるようにこちらも上Bを打ってますか"
+    },
+    {
+      "start": 8.9,
+      "end": 9.98,
+      "text": "Yeah, that's it",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これね"
+    },
+    {
+      "start": 9.98,
+      "end": 11.68,
+      "text": "This is really bad!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これほんとにまずい"
+    },
+    {
+      "start": 11.68,
+      "end": 13.96,
+      "text": "The tip just barely doesn't reach!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "つま先いってギリギリ届かない"
+    }
+  ],
+  "full_text": "The down attack was still lingering! That shield is scary! I see! Timing your up B to meet their up B? Yeah, that's it This is really bad! The tip just barely doesn't reach!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

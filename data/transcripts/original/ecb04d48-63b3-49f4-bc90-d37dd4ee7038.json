@@ -1,0 +1,63 @@
+{
+  "id": "ecb04d48-63b3-49f4-bc90-d37dd4ee7038",
+  "segments": [
+    {
+      "start": 0.76,
+      "end": 1.82,
+      "text": "空中前空中前",
+      "language": "ja"
+    },
+    {
+      "start": 1.82,
+      "end": 4.32,
+      "text": "降り空Nただまとめて仕掛けて横スマッシュまで",
+      "language": "ja"
+    },
+    {
+      "start": 4.32,
+      "end": 6.56,
+      "text": "しのぎきりましたが",
+      "language": "ja"
+    },
+    {
+      "start": 6.56,
+      "end": 8.14,
+      "text": "カルメロの",
+      "language": "ja"
+    },
+    {
+      "start": 8.14,
+      "end": 9.76,
+      "text": "リターンの出どころはどこにあるか",
+      "language": "ja"
+    },
+    {
+      "start": 9.76,
+      "end": 10.72,
+      "text": "トロッコだ",
+      "language": "ja"
+    }
+  ],
+  "full_text": "空中前空中前 降り空Nただまとめて仕掛けて横スマッシュまで しのぎきりましたが カルメロの リターンの出どころはどこにあるか トロッコだ",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "オリクエヌただまとめ仕掛けて",
+      "corrected": "降り空Nただまとめて仕掛けて",
+      "rule": "misheard: オリクエヌ→降り空N"
+    },
+    {
+      "segment_idx": 4,
+      "original": "リターンの出とこはどこにあるか",
+      "corrected": "リターンの出どころはどこにあるか",
+      "rule": "misheard"
+    },
+    {
+      "segment_idx": 5,
+      "original": "トロッコリーだ",
+      "corrected": "トロッコだ",
+      "rule": "misheard"
+    }
+  ]
+}

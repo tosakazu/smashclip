@@ -1,0 +1,65 @@
+{
+  "id": "22ae4cfc-c089-448f-94c3-adf0d0cb40d2",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.9,
+      "text": "Inputs are crispy, huh?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "タイプ早いよね"
+    },
+    {
+      "start": 0.9,
+      "end": 1.5,
+      "text": "Yeah, totally",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "うんそう"
+    },
+    {
+      "start": 1.5,
+      "end": 3.4,
+      "text": "Decision-making is really sharp",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "本当に判断早くて"
+    },
+    {
+      "start": 3.4,
+      "end": 7.94,
+      "text": "Like, they halt on stage for a sec",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "一旦地上止まっちゃうからみたいな"
+    },
+    {
+      "start": 7.94,
+      "end": 8.96,
+      "text": "Yeah, yeah",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "うんそう"
+    },
+    {
+      "start": 8.96,
+      "end": 10.12,
+      "text": "Then flying clean and hitting inputs",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ちゃんと飛んでタイプして"
+    },
+    {
+      "start": 10.12,
+      "end": 10.32,
+      "text": "Yeah",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "うん"
+    }
+  ],
+  "full_text": "Inputs are crispy, huh? Yeah, totally Decision-making is really sharp Like, they halt on stage for a sec Yeah, yeah Then flying clean and hitting inputs Yeah",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

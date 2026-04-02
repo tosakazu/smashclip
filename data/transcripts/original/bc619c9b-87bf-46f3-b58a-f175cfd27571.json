@@ -1,0 +1,57 @@
+{
+  "id": "bc619c9b-87bf-46f3-b58a-f175cfd27571",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.46,
+      "text": "なかなかソニックの撃墜が難しいですよね",
+      "language": "ja"
+    },
+    {
+      "start": 2.46,
+      "end": 5.08,
+      "text": "上撃墜じゃないのでソニックって",
+      "language": "ja"
+    },
+    {
+      "start": 5.08,
+      "end": 8.08,
+      "text": "そしてスピンに対してウィンスタッフで咎め始めましたよ",
+      "language": "ja"
+    },
+    {
+      "start": 8.08,
+      "end": 9.24,
+      "text": "どうだ",
+      "language": "ja"
+    },
+    {
+      "start": 9.24,
+      "end": 10.92,
+      "text": "スプリングも切らされたよ",
+      "language": "ja"
+    },
+    {
+      "start": 10.92,
+      "end": 11.9,
+      "text": "攻撃",
+      "language": "ja"
+    },
+    {
+      "start": 11.9,
+      "end": 13.18,
+      "text": "いやー",
+      "language": "ja"
+    }
+  ],
+  "full_text": "なかなかソニックの撃墜が難しいですよね 上撃墜じゃないのでソニックって そしてスピンに対してウィンスタッフで咎め始めましたよ どうだ スプリングも切らされたよ 攻撃 いやー",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 4,
+      "original": "スプリングも切らされたいよ",
+      "corrected": "スプリングも切らされたよ",
+      "rule": "Whisper error"
+    }
+  ]
+}

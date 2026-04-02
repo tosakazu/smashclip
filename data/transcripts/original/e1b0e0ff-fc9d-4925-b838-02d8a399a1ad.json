@@ -1,0 +1,45 @@
+{
+  "id": "e1b0e0ff-fc9d-4925-b838-02d8a399a1ad",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.46,
+      "text": "上り空前から上B接続",
+      "language": "ja"
+    },
+    {
+      "start": 3.46,
+      "end": 6.42,
+      "text": "若干高度が足りなかったか",
+      "language": "ja"
+    },
+    {
+      "start": 6.42,
+      "end": 9.52,
+      "text": "上スマッシュ作業台で接続の場所",
+      "language": "ja"
+    },
+    {
+      "start": 9.52,
+      "end": 11.32,
+      "text": "ここは前狩りのセット",
+      "language": "ja"
+    }
+  ],
+  "full_text": "上り空前から上B接続 若干高度が足りなかったか 上スマッシュ作業台で接続の場所 ここは前狩りのセット",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "上りクエから",
+      "corrected": "上り空前から",
+      "rule": "smash term (forward air)"
+    },
+    {
+      "segment_idx": 3,
+      "original": "全狩りのセット",
+      "corrected": "前狩りのセット",
+      "rule": "misheard word"
+    }
+  ]
+}

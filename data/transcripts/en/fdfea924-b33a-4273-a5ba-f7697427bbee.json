@@ -1,0 +1,57 @@
+{
+  "id": "fdfea924-b33a-4273-a5ba-f7697427bbee",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.36,
+      "text": "Whoa, what was that? What was that Nikita?",
+      "language": "en"
+    },
+    {
+      "start": 3.22,
+      "end": 4.66,
+      "text": "He's trying to do it for the fans, bro.",
+      "language": "en"
+    },
+    {
+      "start": 4.68,
+      "end": 5.78,
+      "text": "He's trying to do it for the fans, bro.",
+      "language": "en"
+    },
+    {
+      "start": 5.78,
+      "end": 6.92,
+      "text": "He's really trying to style on us.",
+      "language": "en"
+    },
+    {
+      "start": 7.14,
+      "end": 9.6,
+      "text": "Oh my god, bro. Nice down tilt. Has him in the air.",
+      "language": "en"
+    },
+    {
+      "start": 9.66,
+      "end": 11.36,
+      "text": "Is a juggle situation. Is he going to get the stock?",
+      "language": "en"
+    },
+    {
+      "start": 11.96,
+      "end": 13.32,
+      "text": "He is with the dash attack.",
+      "language": "en"
+    }
+  ],
+  "full_text": "Whoa, what was that? What was that Nikita? He's trying to do it for the fans, bro. He's trying to do it for the fans, bro. He's really trying to style on us. Oh my god, bro. Nice down tilt. Has him in the air. Is a juggle situation. Is he going to get the stock? He is with the dash attack.",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 5,
+      "original": "get the shot",
+      "corrected": "get the stock",
+      "rule": "smash term: shot→stock"
+    }
+  ]
+}

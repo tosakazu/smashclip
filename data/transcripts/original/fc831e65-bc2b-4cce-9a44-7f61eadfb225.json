@@ -1,0 +1,50 @@
+{
+  "id": "fc831e65-bc2b-4cce-9a44-7f61eadfb225",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.82,
+      "text": "これは当たらない",
+      "language": "ja"
+    },
+    {
+      "start": 0.82,
+      "end": 2.86,
+      "text": "ソニックね",
+      "language": "ja"
+    },
+    {
+      "start": 2.86,
+      "end": 5.0,
+      "text": "ソニック対策として一つ",
+      "language": "ja"
+    },
+    {
+      "start": 5.0,
+      "end": 8.08,
+      "text": "やっぱりスピンの狩り方というのが大事になってきますが",
+      "language": "ja"
+    },
+    {
+      "start": 8.08,
+      "end": 8.82,
+      "text": "マイホがね",
+      "language": "ja"
+    },
+    {
+      "start": 8.82,
+      "end": 11.98,
+      "text": "そこをどういう風に持ってくるか気になるところではあります",
+      "language": "ja"
+    },
+    {
+      "start": 11.98,
+      "end": 12.5,
+      "text": "さあ",
+      "language": "ja"
+    }
+  ],
+  "full_text": "これは当たらない ソニックね ソニック対策として一つ やっぱりスピンの狩り方というのが大事になってきますが マイホがね そこをどういう風に持ってくるか気になるところではあります さあ",
+  "detected_language": "ja",
+  "corrections": []
+}

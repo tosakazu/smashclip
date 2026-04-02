@@ -1,0 +1,48 @@
+{
+  "id": "4c268406-3d63-46be-95eb-2764772d9766",
+  "segments": [
+    {
+      "start": 0.56,
+      "end": 2.4,
+      "text": "And Purin takes the lead!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "なんとプリンが先行している"
+    },
+    {
+      "start": 2.4,
+      "end": 8.38,
+      "text": "Even hitting DI and flying that high, it doesn't convert to a combo!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "食らいベク変でありえないくらい高く飛んでも何もコンボにならない"
+    },
+    {
+      "start": 8.38,
+      "end": 11.78,
+      "text": "Though ironically, the weight disadvantage is proving to be strong",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "体重の辛さが逆に強力だが"
+    },
+    {
+      "start": 11.78,
+      "end": 13.74,
+      "text": "Oh, and they punish it right there!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "おーここはつけ込んでいった"
+    }
+  ],
+  "full_text": "And Purin takes the lead! Even hitting DI and flying that high, it doesn't convert to a combo! Though ironically, the weight disadvantage is proving to be strong Oh, and they punish it right there!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "グウェイの打ちべくでありえないくらい高く飛んでも",
+      "corrected": "食らいベク変でありえないくらい高く飛んでも",
+      "rule": "Smash terminology (ベクトル変更→ベク変)"
+    }
+  ]
+}

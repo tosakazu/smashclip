@@ -1,0 +1,104 @@
+{
+  "id": "051ff87e-33c7-4c50-8b65-b9601bfad09c",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.46,
+      "text": "Using Boss Galaxy bair against Fire Hydrant!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "消火栓に対してもボスギャラクシーを使って空後"
+    },
+    {
+      "start": 3.46,
+      "end": 4.5,
+      "text": "Going for the edgeguard, but...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "復帰阻止に行くが"
+    },
+    {
+      "start": 4.5,
+      "end": 7.12,
+      "text": "Spring jump intentionally hits on the inside to recover!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "スプリングジャンプあえて内側に当たって戻る判断"
+    },
+    {
+      "start": 7.12,
+      "end": 8.6,
+      "text": "But they have unlimited recovery power!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ただ無限の復帰力がある"
+    },
+    {
+      "start": 8.6,
+      "end": 10.3,
+      "text": "Wow, that's incredible!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いやー素晴らしいですね"
+    },
+    {
+      "start": 10.3,
+      "end": 13.18,
+      "text": "Also chasing from above, but...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "上からに対しても追いかけるが"
+    },
+    {
+      "start": 13.18,
+      "end": 13.88,
+      "text": "Can't catch them!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "追えない"
+    },
+    {
+      "start": 13.88,
+      "end": 15.76,
+      "text": "Fire Hydrant lands first!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここに消火栓先制"
+    }
+  ],
+  "full_text": "Using Boss Galaxy bair against Fire Hydrant! Going for the edgeguard, but... Spring jump intentionally hits on the inside to recover! But they have unlimited recovery power! Wow, that's incredible! Also chasing from above, but... Can't catch them! Fire Hydrant lands first!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "消化戦に対してもボスガラクシーを使って空中しろ",
+      "corrected": "消化戦に対してもボスガラクシーを使って空後",
+      "rule": "auto-rule"
+    },
+    {
+      "segment_idx": 0,
+      "original": "消化戦に対しても",
+      "corrected": "消火栓に対しても",
+      "rule": "kanji homophone"
+    },
+    {
+      "segment_idx": 0,
+      "original": "ボスガラクシー",
+      "corrected": "ボスギャラクシー",
+      "rule": "misheard term"
+    },
+    {
+      "segment_idx": 1,
+      "original": "復帰としに行くが",
+      "corrected": "復帰阻止に行くが",
+      "rule": "auto-rule"
+    },
+    {
+      "segment_idx": 7,
+      "original": "ここに消化戦先生",
+      "corrected": "ここに消火栓先制",
+      "rule": "kanji homophone"
+    }
+  ]
+}

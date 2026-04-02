@@ -1,0 +1,21 @@
+{
+  "id": "a2d37be9-dc02-420a-9c5b-319e174617d5",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.58,
+      "text": "%確認から下投げ空中前 空中下メテオを同じく空中下",
+      "language": "ja"
+    }
+  ],
+  "full_text": "%確認から下投げ空中前 空中下メテオを同じく空中下",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "回確認からした投げ空中前 空中したメディアを同じ空中車",
+      "corrected": "%確認から下投げ空中前 空中下メテオを同じく空中下",
+      "rule": "heavily garbled Whisper output, smash terminology"
+    }
+  ]
+}

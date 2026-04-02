@@ -1,0 +1,62 @@
+{
+  "id": "acab2480-f589-4643-a59a-f1894a1617e0",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.6,
+      "text": "That wasn't like him",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "らしくはなかった"
+    },
+    {
+      "start": 0.6,
+      "end": 2.96,
+      "text": "Interesting nair neutral play!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空Nスタンなんだ面白い"
+    },
+    {
+      "start": 2.96,
+      "end": 4.46,
+      "text": "Blazer's mashing out here!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここはブレイザー暴れ"
+    },
+    {
+      "start": 4.46,
+      "end": 7.28,
+      "text": "You can see the KO DI effect, but...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "撃墜ズラのエフェクトが見えていましたが"
+    },
+    {
+      "start": 7.28,
+      "end": 8.44,
+      "text": "And—dash attack!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "なんとダッシュアタック"
+    }
+  ],
+  "full_text": "That wasn't like him Interesting nair neutral play! Blazer's mashing out here! You can see the KO DI effect, but... And—dash attack!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "空中スターなんだ面白い",
+      "corrected": "空Nスタンなんだ面白い",
+      "rule": "Move: 空中スター→空Nスタン"
+    },
+    {
+      "segment_idx": 3,
+      "original": "撃墜スラのエフェクト",
+      "corrected": "撃墜ズラのエフェクト",
+      "rule": "Smash term: スラ→ズラ(ズラし/DI)"
+    }
+  ]
+}

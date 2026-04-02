@@ -1,0 +1,56 @@
+{
+  "id": "e96a2498-7f39-400a-aa64-30f6b6abf402",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.58,
+      "text": "Skillfully taking the aggression forward!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "スキルして果敢に攻めていく"
+    },
+    {
+      "start": 1.58,
+      "end": 4.02,
+      "text": "But Uchii's down!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "しかしうっちー選手抜けて"
+    },
+    {
+      "start": 4.02,
+      "end": 6.98,
+      "text": "Wants to keep the momentum rolling",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここは展開を継続していきたい"
+    },
+    {
+      "start": 6.98,
+      "end": 11.14,
+      "text": "After burning the jump...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "あとジャンプを使ってしまったので"
+    },
+    {
+      "start": 11.14,
+      "end": 13.06,
+      "text": "Meta Knight going for the edgeguard!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここはメタナイトがその復帰阻止の"
+    }
+  ],
+  "full_text": "Skillfully taking the aggression forward! But Uchii's down! Wants to keep the momentum rolling After burning the jump... Meta Knight going for the edgeguard!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "ウッチー",
+      "corrected": "うっちー",
+      "rule": "player name spelling"
+    }
+  ]
+}

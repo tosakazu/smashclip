@@ -1,0 +1,39 @@
+{
+  "id": "552738d7-aad1-494a-9420-cfe2e7a06621",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.24,
+      "text": "台側に飛んでポケモンスタジアム2横が広い横が広い",
+      "language": "ja"
+    },
+    {
+      "start": 3.24,
+      "end": 9.28,
+      "text": "ちょっと上強うまく当てて横強で撃墜したかったがここは",
+      "language": "ja"
+    },
+    {
+      "start": 9.28,
+      "end": 11.82,
+      "text": "崖の読み合い!崖じゃないや",
+      "language": "ja"
+    }
+  ],
+  "full_text": "台側に飛んでポケモンスタジアム2横が広い横が広い ちょっと上強うまく当てて横強で撃墜したかったがここは 崖の読み合い!崖じゃないや",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "対側に飛んで",
+      "corrected": "台側に飛んで",
+      "rule": "kanji homophone (対→台)"
+    },
+    {
+      "segment_idx": 1,
+      "original": "ちょっと今日うまく当てて",
+      "corrected": "ちょっと上強うまく当てて",
+      "rule": "misheard word (今日→上強)"
+    }
+  ]
+}

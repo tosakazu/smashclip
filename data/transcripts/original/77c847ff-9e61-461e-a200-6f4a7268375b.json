@@ -1,0 +1,51 @@
+{
+  "id": "77c847ff-9e61-461e-a200-6f4a7268375b",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.42,
+      "text": "ニュートラル安定択を置いていることによってそういうのも刈り取れるというか",
+      "language": "ja"
+    },
+    {
+      "start": 3.42,
+      "end": 10.14,
+      "text": "Neo選手もねもともとソニック使いそのカムイを使う前はソニック使いだったという経歴の持ち主でしたから",
+      "language": "ja"
+    },
+    {
+      "start": 10.14,
+      "end": 11.8,
+      "text": "そういったところの選手",
+      "language": "ja"
+    }
+  ],
+  "full_text": "ニュートラル安定択を置いていることによってそういうのも刈り取れるというか Neo選手もねもともとソニック使いそのカムイを使う前はソニック使いだったという経歴の持ち主でしたから そういったところの選手",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "チューニュートラル安定タック",
+      "corrected": "ニュートラル安定択",
+      "rule": "whisper misrecognition"
+    },
+    {
+      "segment_idx": 0,
+      "original": "張り取れる",
+      "corrected": "刈り取れる",
+      "rule": "kanji homophone"
+    },
+    {
+      "segment_idx": 1,
+      "original": "ネオ選手",
+      "corrected": "Neo選手",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 1,
+      "original": "カムリ",
+      "corrected": "カムイ",
+      "rule": "character name (Corrin)"
+    }
+  ]
+}

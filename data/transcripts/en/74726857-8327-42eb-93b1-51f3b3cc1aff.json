@@ -1,0 +1,39 @@
+{
+  "id": "74726857-8327-42eb-93b1-51f3b3cc1aff",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.14,
+      "text": "punish yo hold on dude the reverse three stock might be about to happen and it is oh no what",
+      "language": "en"
+    },
+    {
+      "start": 6.14,
+      "end": 13.3,
+      "text": "what he got back oh what is going on right now what is happening he's got back on the ledge",
+      "language": "en"
+    },
+    {
+      "start": 13.3,
+      "end": 20.24,
+      "text": "189 on Samsora Dabuz finally finds the kill what in the world what just happened i have",
+      "language": "en"
+    },
+    {
+      "start": 20.24,
+      "end": 21.76,
+      "text": "no words dude",
+      "language": "en"
+    }
+  ],
+  "full_text": "punish yo hold on dude the reverse three stock might be about to happen and it is oh no what what he got back oh what is going on right now what is happening he's got back on the ledge 189 on Samsora Dabuz finally finds the kill what in the world what just happened i have no words dude",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "sam's sword debuskin",
+      "corrected": "Samsora Dabuz",
+      "rule": "player name"
+    }
+  ]
+}

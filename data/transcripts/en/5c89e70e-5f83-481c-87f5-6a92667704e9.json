@@ -1,0 +1,81 @@
+{
+  "id": "5c89e70e-5f83-481c-87f5-6a92667704e9",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.36,
+      "text": "No wait, he passed!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いや追い抜いた"
+    },
+    {
+      "start": 1.36,
+      "end": 4.0,
+      "text": "while backing away",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "引きながら"
+    },
+    {
+      "start": 4.56,
+      "end": 6.84,
+      "text": "doesn't that player look pretty weak?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "色がなんかあんま強くないか"
+    },
+    {
+      "start": 6.84,
+      "end": 7.94,
+      "text": "purple next?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "次紫か"
+    },
+    {
+      "start": 7.94,
+      "end": 9.96,
+      "text": "purple comes in",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "紫がやってきて"
+    },
+    {
+      "start": 9.96,
+      "end": 11.92,
+      "text": "that's a pretty decent stock situation",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "悪くない色状況ではないでしょうか"
+    },
+    {
+      "start": 11.92,
+      "end": 12.78,
+      "text": "yellow, blue, purple",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "黄色青紫"
+    },
+    {
+      "start": 12.78,
+      "end": 14.86,
+      "text": "alright, so here",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあここで"
+    },
+    {
+      "start": 14.86,
+      "end": 16.7,
+      "text": "he went for the return",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "リターンを求めた"
+    }
+  ],
+  "full_text": "No wait, he passed! while backing away doesn't that player look pretty weak? purple next? purple comes in that's a pretty decent stock situation yellow, blue, purple alright, so here he went for the return",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

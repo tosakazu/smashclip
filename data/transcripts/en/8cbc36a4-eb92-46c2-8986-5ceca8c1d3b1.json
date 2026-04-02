@@ -1,0 +1,35 @@
+{
+  "id": "8cbc36a4-eb92-46c2-8986-5ceca8c1d3b1",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.1,
+      "text": "Even through the platforms, Tweek's displaying every option!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "影響バレるブロック越しでもあらゆるツイークの手札が"
+    },
+    {
+      "start": 5.1,
+      "end": 6.9,
+      "text": "Approaching Cora now!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "コーラに忍び寄る"
+    },
+    {
+      "start": 6.9,
+      "end": 10.0,
+      "text": "Dash attack with extended range!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ダッシュ攻撃持続たっぷり"
+    }
+  ],
+  "full_text": "Even through the platforms, Tweek's displaying every option! Approaching Cora now! Dash attack with extended range!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    "出し攻撃→ダッシュ攻撃 (dash attack, DA)"
+  ]
+}

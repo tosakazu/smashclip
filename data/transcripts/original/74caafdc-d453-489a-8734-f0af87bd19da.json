@@ -1,0 +1,75 @@
+{
+  "id": "74caafdc-d453-489a-8734-f0af87bd19da",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.16,
+      "text": "カウンターの精度高すぎるね",
+      "language": "ja"
+    },
+    {
+      "start": 2.16,
+      "end": 3.82,
+      "text": "さあこれは空後",
+      "language": "ja"
+    },
+    {
+      "start": 3.82,
+      "end": 4.58,
+      "text": "確定して",
+      "language": "ja"
+    },
+    {
+      "start": 4.58,
+      "end": 7.52,
+      "text": "どうする?カウンター",
+      "language": "ja"
+    },
+    {
+      "start": 7.52,
+      "end": 9.46,
+      "text": "うわ押し出してる",
+      "language": "ja"
+    },
+    {
+      "start": 9.46,
+      "end": 11.68,
+      "text": "やばーい",
+      "language": "ja"
+    },
+    {
+      "start": 11.68,
+      "end": 13.44,
+      "text": "いや重い",
+      "language": "ja"
+    },
+    {
+      "start": 13.44,
+      "end": 15.34,
+      "text": "さあどうする?",
+      "language": "ja"
+    },
+    {
+      "start": 15.46,
+      "end": 16.72,
+      "text": "でもね",
+      "language": "ja"
+    },
+    {
+      "start": 16.72,
+      "end": 18.04,
+      "text": "ストック",
+      "language": "ja"
+    }
+  ],
+  "full_text": "カウンターの精度高すぎるね さあこれは空後 確定して どうする?カウンター うわ押し出してる やばーい いや重い さあどうする? でもね ストック",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 9,
+      "original": "ストローク",
+      "corrected": "ストック",
+      "rule": "smash term: ストック"
+    }
+  ]
+}

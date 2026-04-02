@@ -1,0 +1,69 @@
+{
+  "id": "0f27ed21-8ef7-4509-ba44-3ab60107f245",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.16,
+      "text": "技は反撃が取れないことを分かってガード継続でしたね",
+      "language": "ja"
+    },
+    {
+      "start": 2.16,
+      "end": 6.0,
+      "text": "弱弱にはガーキャンしっかり",
+      "language": "ja"
+    },
+    {
+      "start": 6.84,
+      "end": 8.14,
+      "text": "黒船選手",
+      "language": "ja"
+    },
+    {
+      "start": 8.14,
+      "end": 10.42,
+      "text": "技ガード時の反撃の判断が",
+      "language": "ja"
+    },
+    {
+      "start": 10.42,
+      "end": 12.88,
+      "text": "本当に見るときれいに光っています",
+      "language": "ja"
+    },
+    {
+      "start": 12.88,
+      "end": 14.44,
+      "text": "くえる",
+      "language": "ja"
+    },
+    {
+      "start": 14.44,
+      "end": 16.58,
+      "text": "上スマッシュ",
+      "language": "ja"
+    },
+    {
+      "start": 16.58,
+      "end": 17.86,
+      "text": "仕留めきりました",
+      "language": "ja"
+    },
+    {
+      "start": 17.86,
+      "end": 20.62,
+      "text": "黒船選手上スマッシュの当てが本当にある",
+      "language": "ja"
+    }
+  ],
+  "full_text": "技は反撃が取れないことを分かってガード継続でしたね 弱弱にはガーキャンしっかり 黒船選手 技ガード時の反撃の判断が 本当に見るときれいに光っています くえる 上スマッシュ 仕留めきりました 黒船選手上スマッシュの当てが本当にある",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "私は反撃が取れないことを分かってガード継続でしたね",
+      "corrected": "技は反撃が取れないことを分かってガード継続でしたね",
+      "rule": "Whisper mishearing: 私は→技は (move, not 'I')"
+    }
+  ]
+}

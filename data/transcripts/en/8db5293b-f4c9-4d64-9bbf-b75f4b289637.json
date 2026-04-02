@@ -1,0 +1,81 @@
+{
+  "id": "8db5293b-f4c9-4d64-9bbf-b75f4b289637",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Barely escaped, but",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "何とか逃げ切ったが"
+    },
+    {
+      "start": 2.0,
+      "end": 4.0,
+      "text": "That's the KO!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "撃墜だけは"
+    },
+    {
+      "start": 4.0,
+      "end": 6.0,
+      "text": "mashing out",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "暴れて"
+    },
+    {
+      "start": 6.0,
+      "end": 8.0,
+      "text": "trying to stay above the blast zone",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ラインの上あくまでも"
+    },
+    {
+      "start": 8.0,
+      "end": 10.0,
+      "text": "just wants to chill there",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "じっとしていきたい"
+    },
+    {
+      "start": 10.0,
+      "end": 12.0,
+      "text": "canceled the step",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ステップ潰して"
+    },
+    {
+      "start": 12.0,
+      "end": 14.0,
+      "text": "went too far",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "飛びすぎ"
+    },
+    {
+      "start": 14.0,
+      "end": 16.0,
+      "text": "KO!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "撃墜"
+    },
+    {
+      "start": 16.0,
+      "end": 18.0,
+      "text": "sent them flying, haha!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "飛びすぎ笑った"
+    }
+  ],
+  "full_text": "Barely escaped, but That's the KO! mashing out trying to stay above the blast zone just wants to chill there canceled the step went too far KO! sent them flying, haha!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

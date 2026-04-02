@@ -1,0 +1,41 @@
+{
+  "id": "c5d873df-8f3d-44f6-afe1-4e2e783e644b",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.88,
+      "text": "More aerials!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さらに空中攻撃"
+    },
+    {
+      "start": 1.88,
+      "end": 3.74,
+      "text": "Dair sends it back, forward tilt sends it back!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空下で返して横強で返す"
+    },
+    {
+      "start": 3.74,
+      "end": 4.84,
+      "text": "Smacking away!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "殴って"
+    },
+    {
+      "start": 4.84,
+      "end": 5.64,
+      "text": "Whoa! This one!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "おっとこれ"
+    }
+  ],
+  "full_text": "More aerials! Dair sends it back, forward tilt sends it back! Smacking away! Whoa! This one!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

@@ -1,0 +1,68 @@
+{
+  "id": "8f36c5fe-6274-4e6e-8609-a5e42f77bf49",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.22,
+      "text": "Bair whiffed",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空後もスカしで"
+    },
+    {
+      "start": 2.22,
+      "end": 4.14,
+      "text": "Yeah, that's exactly what I was waiting for",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いやーそのばっかり待ってましたね"
+    },
+    {
+      "start": 4.14,
+      "end": 6.3,
+      "text": "That whiffed throw is so characteristic",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "かなりせんらのスカし投げって"
+    },
+    {
+      "start": 6.3,
+      "end": 8.72,
+      "text": "Since it's such a tell, he was fishing for it",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "特徴的なんで誘ってましたね"
+    },
+    {
+      "start": 8.72,
+      "end": 10.98,
+      "text": "Gutchy",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "グッチー"
+    }
+  ],
+  "full_text": "Bair whiffed Yeah, that's exactly what I was waiting for That whiffed throw is so characteristic Since it's such a tell, he was fishing for it Gutchy",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "口もスカッシで",
+      "corrected": "空後もスカしで",
+      "rule": "move abbreviation + misheard word"
+    },
+    {
+      "segment_idx": 2,
+      "original": "センラのスカッシ投げ",
+      "corrected": "せんらのスカし投げ",
+      "rule": "player name + misheard word"
+    },
+    {
+      "segment_idx": 4,
+      "original": "ぐーち",
+      "corrected": "グッチー",
+      "rule": "misheard word"
+    }
+  ]
+}

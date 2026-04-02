@@ -1,0 +1,27 @@
+{
+  "id": "3a1154fd-cd82-4434-892b-2546b475d9de",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.24,
+      "text": "him he's just taken every opening the extra mile no he absolutely is nice",
+      "language": "en"
+    },
+    {
+      "start": 6.24,
+      "end": 9.28,
+      "text": "spin charge into the down is gonna try and cancel it there but again Miya isn't",
+      "language": "en"
+    }
+  ],
+  "full_text": "him he's just taken every opening the extra mile no he absolutely is nice spin charge into the down is gonna try and cancel it there but again Miya isn't",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "mia",
+      "corrected": "Miya",
+      "rule": "player name"
+    }
+  ]
+}

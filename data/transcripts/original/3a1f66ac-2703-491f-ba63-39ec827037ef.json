@@ -1,0 +1,51 @@
+{
+  "id": "3a1f66ac-2703-491f-ba63-39ec827037ef",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "地上スカッシュ騎士を通すことができた",
+      "language": "ja"
+    },
+    {
+      "start": 2.0,
+      "end": 3.36,
+      "text": "あまり落ち着かせていたが",
+      "language": "ja"
+    },
+    {
+      "start": 3.36,
+      "end": 4.9,
+      "text": "ブロックから空射キャスティングですが",
+      "language": "ja"
+    },
+    {
+      "start": 4.9,
+      "end": 6.76,
+      "text": "カルメロのガードの場合横スマして",
+      "language": "ja"
+    },
+    {
+      "start": 6.76,
+      "end": 8.42,
+      "text": "硬直を狩り取っていった",
+      "language": "ja"
+    }
+  ],
+  "full_text": "地上スカッシュ騎士を通すことができた あまり落ち着かせていたが ブロックから空射キャスティングですが カルメロのガードの場合横スマして 硬直を狩り取っていった",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "スカッシャ騎士",
+      "corrected": "スカッシュ騎士",
+      "rule": "misheard word"
+    },
+    {
+      "segment_idx": 4,
+      "original": "横詰まして",
+      "corrected": "横スマして",
+      "rule": "misheard: 横詰ま→横スマ"
+    }
+  ]
+}

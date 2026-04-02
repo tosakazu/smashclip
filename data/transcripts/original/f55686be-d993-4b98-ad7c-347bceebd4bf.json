@@ -1,0 +1,51 @@
+{
+  "id": "f55686be-d993-4b98-ad7c-347bceebd4bf",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.7,
+      "text": "やすい京ではないということを",
+      "language": "ja"
+    },
+    {
+      "start": 1.7,
+      "end": 2.94,
+      "text": "これで証明してくれている",
+      "language": "ja"
+    },
+    {
+      "start": 2.94,
+      "end": 5.32,
+      "text": "空Nでたが空上着地狩りの展開",
+      "language": "ja"
+    },
+    {
+      "start": 5.32,
+      "end": 8.38,
+      "text": "うまく暴れを通していったが",
+      "language": "ja"
+    },
+    {
+      "start": 8.38,
+      "end": 8.88,
+      "text": "だいぶ",
+      "language": "ja"
+    }
+  ],
+  "full_text": "やすい京ではないということを これで証明してくれている 空Nでたが空上着地狩りの展開 うまく暴れを通していったが だいぶ",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "やすい今日ではない",
+      "corrected": "やすい京ではない",
+      "rule": "context"
+    },
+    {
+      "segment_idx": 2,
+      "original": "空中でたが空中へ着地狩り",
+      "corrected": "空Nでたが空上着地狩り",
+      "rule": "abbreviation: 空中→空N, 空中へ→空上"
+    }
+  ]
+}

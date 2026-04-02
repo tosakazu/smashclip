@@ -1,0 +1,57 @@
+{
+  "id": "72e2d7e0-8a33-4d9a-b068-410e1a87044d",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.9,
+      "text": "Target Rosa and finding out oh wow she's actually safe from that distance Dabuz is one smash away from setting this home. Goodbye",
+      "language": "en"
+    },
+    {
+      "start": 6.9,
+      "end": 8.22,
+      "text": "Oh",
+      "language": "en"
+    },
+    {
+      "start": 8.22,
+      "end": 12.78,
+      "text": "No way, okay good DI from Samsora over the double jump to give himself away to the blast",
+      "language": "en"
+    },
+    {
+      "start": 12.78,
+      "end": 18.5,
+      "text": "Oh fantastic tech always a spike shield the down smash and now he pushes Dabuz offstage",
+      "language": "en"
+    },
+    {
+      "start": 21.88,
+      "end": 27.42,
+      "text": "He flew in there from the left side coming in pop it off yours are in the crowd",
+      "language": "en"
+    }
+  ],
+  "full_text": "Target Rosa and finding out oh wow she's actually safe from that distance Dabuz is one smash away from setting this home. Goodbye Oh No way, okay good DI from Samsora over the double jump to give himself away to the blast Oh fantastic tech always a spike shield the down smash and now he pushes Dabuz offstage He flew in there from the left side coming in pop it off yours are in the crowd",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "the buzz is one of smash",
+      "corrected": "Dabuz is one smash",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 2,
+      "original": "Sarah swarovski",
+      "corrected": "Samsora",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 3,
+      "original": "the buzz",
+      "corrected": "Dabuz",
+      "rule": "player name"
+    }
+  ]
+}

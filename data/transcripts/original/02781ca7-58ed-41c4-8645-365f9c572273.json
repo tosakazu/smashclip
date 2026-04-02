@@ -1,0 +1,63 @@
+{
+  "id": "02781ca7-58ed-41c4-8645-365f9c572273",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.16,
+      "text": "飛び出してこの崖どうなる",
+      "language": "ja"
+    },
+    {
+      "start": 1.16,
+      "end": 3.78,
+      "text": "ここはボムから",
+      "language": "ja"
+    },
+    {
+      "start": 3.78,
+      "end": 4.96,
+      "text": "いやしかし繋がらない",
+      "language": "ja"
+    },
+    {
+      "start": 4.96,
+      "end": 7.92,
+      "text": "崖を掴んで",
+      "language": "ja"
+    },
+    {
+      "start": 7.92,
+      "end": 9.84,
+      "text": "崖上がり上からだがここは",
+      "language": "ja"
+    },
+    {
+      "start": 9.84,
+      "end": 11.58,
+      "text": "上スマが拾う",
+      "language": "ja"
+    },
+    {
+      "start": 11.58,
+      "end": 13.68,
+      "text": "暴れに対して",
+      "language": "ja"
+    },
+    {
+      "start": 13.68,
+      "end": 14.4,
+      "text": "台下から上",
+      "language": "ja"
+    }
+  ],
+  "full_text": "飛び出してこの崖どうなる ここはボムから いやしかし繋がらない 崖を掴んで 崖上がり上からだがここは 上スマが拾う 暴れに対して 台下から上",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 5,
+      "original": "上スマッシュが拾う",
+      "corrected": "上スマが拾う",
+      "rule": "auto-rule"
+    }
+  ]
+}

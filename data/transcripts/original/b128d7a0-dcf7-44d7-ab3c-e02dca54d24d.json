@@ -1,0 +1,20 @@
+{
+  "id": "b128d7a0-dcf7-44d7-ab3c-e02dca54d24d",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.1,
+      "text": "It's so frustrating when you're on the verge of a reverse 3-0 and it just snowballs like this and you're in the other way.",
+      "language": "en"
+    },
+    {
+      "start": 5.12,
+      "end": 7.22,
+      "text": "Especially after that mistake, such a shame and-",
+      "language": "en"
+    }
+  ],
+  "full_text": "It's so frustrating when you're on the verge of a reverse 3-0 and it just snowballs like this and you're in the other way. Especially after that mistake, such a shame and-",
+  "detected_language": "en",
+  "corrections": []
+}

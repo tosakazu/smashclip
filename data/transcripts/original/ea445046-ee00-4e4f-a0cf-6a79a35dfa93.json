@@ -1,0 +1,27 @@
+{
+  "id": "ea445046-ee00-4e4f-a0cf-6a79a35dfa93",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.88,
+      "text": "that from deep just to get his little tech chase going and now the delay",
+      "language": "en"
+    },
+    {
+      "start": 4.88,
+      "end": 9.74,
+      "text": "and that Mega Man is out of there again it looks like Glutonny who was on",
+      "language": "en"
+    }
+  ],
+  "full_text": "that from deep just to get his little tech chase going and now the delay and that Mega Man is out of there again it looks like Glutonny who was on",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "gluttony",
+      "corrected": "Glutonny",
+      "rule": "player name"
+    }
+  ]
+}

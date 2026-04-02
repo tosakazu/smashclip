@@ -1,0 +1,66 @@
+{
+  "id": "4e5ed475-227f-4af8-b831-d7146bf85c69",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.48,
+      "text": "Straight in! Fair for anti-air!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そのまま仕掛けに来るぞ どうだ空前対空から"
+    },
+    {
+      "start": 3.48,
+      "end": 7.04,
+      "text": "Down B drop! 66% damage though...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "下を落とすNB 66%だが"
+    },
+    {
+      "start": 7.04,
+      "end": 12.08,
+      "text": "Will it KO or won't it? What's the situation?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "どうなんだ 撃墜はまだしないのかするのかどっちなんだ"
+    },
+    {
+      "start": 12.08,
+      "end": 14.64,
+      "text": "Backfist twist—grabs from both directions!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ねじり裏拳 そのまま左右を捕まえて"
+    }
+  ],
+  "full_text": "Straight in! Fair for anti-air! Down B drop! 66% damage though... Will it KO or won't it? What's the situation? Backfist twist—grabs from both directions!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "空中前対空",
+      "corrected": "空前対空",
+      "rule": "move abbreviation"
+    },
+    {
+      "segment_idx": 1,
+      "original": "封を落とす",
+      "corrected": "下を落とす",
+      "rule": "misheard word"
+    },
+    {
+      "segment_idx": 3,
+      "original": "裏剣",
+      "corrected": "裏拳",
+      "rule": "kanji homophone: 剣→拳"
+    },
+    {
+      "segment_idx": 3,
+      "original": "左上",
+      "corrected": "左右",
+      "rule": "misheard word"
+    }
+  ]
+}

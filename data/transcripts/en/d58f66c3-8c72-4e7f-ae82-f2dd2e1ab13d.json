@@ -1,0 +1,33 @@
+{
+  "id": "d58f66c3-8c72-4e7f-ae82-f2dd2e1ab13d",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.4,
+      "text": "And that's really allowing Light to kind of escape a lot of this pressure that we're accustomed to seeing Riddles kind of put on people.",
+      "language": "en"
+    },
+    {
+      "start": 5.6,
+      "end": 7.3,
+      "text": "Wow, Riddles breaking the combo with up air.",
+      "language": "en"
+    },
+    {
+      "start": 7.4,
+      "end": 12.06,
+      "text": "If I'm not mistaken, that move comes out on frame four, which is insanely good as a combo breaking tool.",
+      "language": "en"
+    }
+  ],
+  "full_text": "And that's really allowing Light to kind of escape a lot of this pressure that we're accustomed to seeing Riddles kind of put on people. Wow, Riddles breaking the combo with up air. If I'm not mistaken, that move comes out on frame four, which is insanely good as a combo breaking tool.",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "light",
+      "corrected": "Light",
+      "rule": "player name capitalization"
+    }
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "id": "d6c13870-7a52-4730-811f-c0b54ce745ae",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.64,
+      "text": "What's the play?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "あ、どうする?"
+    },
+    {
+      "start": 3.86,
+      "end": 5.26,
+      "text": "That was probably a body hit",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "あ、今のは多分体がね"
+    },
+    {
+      "start": 5.26,
+      "end": 6.14,
+      "text": "There's the parry!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "それジャスガ取る"
+    },
+    {
+      "start": 6.14,
+      "end": 7.54,
+      "text": "Down tilt parry",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "下強ジャスガ"
+    },
+    {
+      "start": 7.54,
+      "end": 8.92,
+      "text": "Off the fair",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空前から"
+    },
+    {
+      "start": 8.92,
+      "end": 10.5,
+      "text": "That landing's risky",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いやー、着地が怖いが"
+    },
+    {
+      "start": 10.5,
+      "end": 11.44,
+      "text": "Dealing with the fair",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空前に対処して"
+    },
+    {
+      "start": 11.44,
+      "end": 12.08,
+      "text": "He's in",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "もういいよ"
+    },
+    {
+      "start": 12.08,
+      "end": 13.28,
+      "text": "That's scary!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いやー、怖いよ"
+    },
+    {
+      "start": 13.28,
+      "end": 14.64,
+      "text": "Landing again",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "着地もっかい"
+    },
+    {
+      "start": 14.64,
+      "end": 15.34,
+      "text": "Man...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いやー、さすがに"
+    },
+    {
+      "start": 15.34,
+      "end": 16.16,
+      "text": "Yeah, yeah",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "はいはい"
+    }
+  ],
+  "full_text": "What's the play? That was probably a body hit There's the parry! Down tilt parry Off the fair That landing's risky Dealing with the fair He's in That's scary! Landing again Man... Yeah, yeah",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "それジャスが取る",
+      "corrected": "それジャスガ取る",
+      "rule": "smash term (ジャスが→ジャスガ = just guard/parry)"
+    },
+    {
+      "segment_idx": 3,
+      "original": "スタキョウジャスが",
+      "corrected": "下強ジャスガ",
+      "rule": "smash term (スタキョウ→下強, ジャスが→ジャスガ)"
+    },
+    {
+      "segment_idx": 4,
+      "original": "クジエンから",
+      "corrected": "空前から",
+      "rule": "smash term (クジエン→空前)"
+    },
+    {
+      "segment_idx": 5,
+      "original": "チャクチが怖いが",
+      "corrected": "着地が怖いが",
+      "rule": "kanji (チャクチ→着地)"
+    },
+    {
+      "segment_idx": 6,
+      "original": "クジエンに対処して",
+      "corrected": "空前に対処して",
+      "rule": "smash term (クジエン→空前)"
+    },
+    {
+      "segment_idx": 9,
+      "original": "チャクチもっかい",
+      "corrected": "着地もっかい",
+      "rule": "kanji (チャクチ→着地)"
+    }
+  ]
+}

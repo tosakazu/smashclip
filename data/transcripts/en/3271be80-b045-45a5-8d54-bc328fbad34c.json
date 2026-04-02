@@ -1,0 +1,64 @@
+{
+  "id": "3271be80-b045-45a5-8d54-bc328fbad34c",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.2,
+      "text": "Again and again, iron resources completely saturated",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "再びと再びそして鉄の資源も十分に潤った状態"
+    },
+    {
+      "start": 3.2,
+      "end": 4.74,
+      "text": "Yeah, it's almost too much at this point",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そうですねちょっとありすぎなぐらいの"
+    },
+    {
+      "start": 4.74,
+      "end": 8.2,
+      "text": "Yeah, or we're at a point where iron isn't even needed",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そうですねむしろ鉄がいらないかというところですが"
+    },
+    {
+      "start": 8.2,
+      "end": 11.8,
+      "text": "Then, like adjusting Pikmin colors",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "その後まるでピクミンの色調整をするかのように"
+    },
+    {
+      "start": 11.8,
+      "end": 12.98,
+      "text": "it's reached that",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "届いている"
+    },
+    {
+      "start": 12.98,
+      "end": 13.88,
+      "text": "with a bair",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空後で"
+    }
+  ],
+  "full_text": "Again and again, iron resources completely saturated Yeah, it's almost too much at this point Yeah, or we're at a point where iron isn't even needed Then, like adjusting Pikmin colors it's reached that with a bair",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 5,
+      "original": "空中後ろで",
+      "corrected": "空後で",
+      "rule": "move abbreviation"
+    }
+  ]
+}

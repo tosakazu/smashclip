@@ -1,0 +1,21 @@
+{
+  "id": "bf84de5d-241c-46e1-8219-7d5893e46dce",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 7.04,
+      "text": "in front of me and able to get the forward smash on Pyra on the platform here the nair off stage should do the trick",
+      "language": "en"
+    }
+  ],
+  "full_text": "in front of me and able to get the forward smash on Pyra on the platform here the nair off stage should do the trick",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "pyro",
+      "corrected": "Pyra",
+      "rule": "character name"
+    }
+  ]
+}

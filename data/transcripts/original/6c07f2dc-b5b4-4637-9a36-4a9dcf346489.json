@@ -1,0 +1,39 @@
+{
+  "id": "6c07f2dc-b5b4-4637-9a36-4a9dcf346489",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.6,
+      "text": "This is the part of the game that I think banjo is a little bit better in because he can play slow play with that",
+      "language": "en"
+    },
+    {
+      "start": 5.6,
+      "end": 7.82,
+      "text": "Grenade it's hard for Lui$ to get an honest kill",
+      "language": "en"
+    },
+    {
+      "start": 10.6,
+      "end": 12.6,
+      "text": "Back throw there it is",
+      "language": "en"
+    }
+  ],
+  "full_text": "This is the part of the game that I think banjo is a little bit better in because he can play slow play with that Grenade it's hard for Lui$ to get an honest kill Back throw there it is",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "Louie",
+      "corrected": "Lui$",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 2,
+      "original": "Back row",
+      "corrected": "Back throw",
+      "rule": "Whisper mishearing"
+    }
+  ]
+}

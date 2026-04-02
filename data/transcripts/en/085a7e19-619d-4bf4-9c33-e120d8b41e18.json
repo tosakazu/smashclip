@@ -1,0 +1,57 @@
+{
+  "id": "085a7e19-619d-4bf4-9c33-e120d8b41e18",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.7,
+      "text": "appears to be",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "と思われます"
+    },
+    {
+      "start": 1.7,
+      "end": 2.9,
+      "text": "back then, you know",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "あの時はね"
+    },
+    {
+      "start": 2.9,
+      "end": 5.54,
+      "text": "Maiho and Larix were definitely pretty solid",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "確かマイホ選手とラリックス選手がかなり"
+    },
+    {
+      "start": 5.54,
+      "end": 6.9,
+      "text": "ahead",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "勝っていて"
+    },
+    {
+      "start": 6.9,
+      "end": 9.32,
+      "text": "Ken was",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ケン選手が"
+    },
+    {
+      "start": 9.32,
+      "end": 10.88,
+      "text": "that Donkey Kong",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そのドンキ"
+    }
+  ],
+  "full_text": "appears to be back then, you know Maiho and Larix were definitely pretty solid ahead Ken was that Donkey Kong",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

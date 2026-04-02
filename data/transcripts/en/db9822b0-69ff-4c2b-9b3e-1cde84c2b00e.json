@@ -1,0 +1,64 @@
+{
+  "id": "db9822b0-69ff-4c2b-9b3e-1cde84c2b00e",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.04,
+      "text": "Let's go up there!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあ上に立つんだ"
+    },
+    {
+      "start": 1.04,
+      "end": 2.7,
+      "text": "Moving forward on the way in",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "途中前に"
+    },
+    {
+      "start": 2.7,
+      "end": 4.56,
+      "text": "Smash right through the shield!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "シールドしたスマッシュ"
+    },
+    {
+      "start": 4.56,
+      "end": 6.5,
+      "text": "One more hit for the punish!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "パニッシュメントでもう一発"
+    },
+    {
+      "start": 6.5,
+      "end": 7.94,
+      "text": "The low approach is coming in...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "下奥が手元に来ますが"
+    },
+    {
+      "start": 7.94,
+      "end": 9.48,
+      "text": "Reads the getup and lands it!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "その上がり見てから着"
+    }
+  ],
+  "full_text": "Let's go up there! Moving forward on the way in Smash right through the shield! One more hit for the punish! The low approach is coming in... Reads the getup and lands it!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 3,
+      "original": "パネッシュメント",
+      "corrected": "パニッシュメント",
+      "rule": "misheard word (punishment)"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "4c0af7fc-c2f8-4e7f-9d66-1a2316fb9358",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Nothing off the bounce",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "バウンドで何もない"
+    },
+    {
+      "start": 2.0,
+      "end": 3.78,
+      "text": "Bair",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空後"
+    },
+    {
+      "start": 3.78,
+      "end": 5.96,
+      "text": "Dodges the throw, lands fair!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "投げをかわして空中前"
+    },
+    {
+      "start": 5.96,
+      "end": 7.34,
+      "text": "Let's go!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "出しこい!"
+    },
+    {
+      "start": 7.38,
+      "end": 8.26,
+      "text": "Don't miss it!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "見逃さない!"
+    }
+  ],
+  "full_text": "Nothing off the bounce Bair Dodges the throw, lands fair! Let's go! Don't miss it!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "空中所",
+      "corrected": "空後",
+      "rule": "move abbreviation (空中後ろ→空後)"
+    }
+  ]
+}

@@ -1,0 +1,153 @@
+{
+  "id": "c1c42e88-11a9-48e4-aa0a-4fc46bbb1863",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.94,
+      "text": "見たら動かん、ジャンプで身を引いていく",
+      "language": "ja"
+    },
+    {
+      "start": 2.94,
+      "end": 4.58,
+      "text": "横強を固めにはつき合わず",
+      "language": "ja"
+    },
+    {
+      "start": 4.58,
+      "end": 6.96,
+      "text": "空中上から崖狩り展開",
+      "language": "ja"
+    },
+    {
+      "start": 6.96,
+      "end": 9.12,
+      "text": "なりふりはもちろんシールドから",
+      "language": "ja"
+    },
+    {
+      "start": 9.12,
+      "end": 10.34,
+      "text": "空中Nとラビッツ",
+      "language": "ja"
+    },
+    {
+      "start": 10.34,
+      "end": 11.74,
+      "text": "エイハでダメージ飛ばして",
+      "language": "ja"
+    },
+    {
+      "start": 11.74,
+      "end": 13.74,
+      "text": "ガンで止めてからまたも崖",
+      "language": "ja"
+    },
+    {
+      "start": 13.74,
+      "end": 16.9,
+      "text": "崖離しジャンプ回避許さず",
+      "language": "ja"
+    },
+    {
+      "start": 16.9,
+      "end": 18.52,
+      "text": "以前復帰として展開",
+      "language": "ja"
+    },
+    {
+      "start": 18.52,
+      "end": 20.52,
+      "text": "プレッシャーをかけることによって",
+      "language": "ja"
+    },
+    {
+      "start": 20.52,
+      "end": 21.62,
+      "text": "MPを削っていくが",
+      "language": "ja"
+    },
+    {
+      "start": 21.62,
+      "end": 24.3,
+      "text": "ここで内側を転がり上強が通る",
+      "language": "ja"
+    },
+    {
+      "start": 24.3,
+      "end": 27.78,
+      "text": "ルーラで戻っていくものの",
+      "language": "ja"
+    },
+    {
+      "start": 27.78,
+      "end": 29.48,
+      "text": "MPはすでに枯渇気味",
+      "language": "ja"
+    },
+    {
+      "start": 29.48,
+      "end": 31.48,
+      "text": "苦しい状況が続け",
+      "language": "ja"
+    },
+    {
+      "start": 31.48,
+      "end": 33.52,
+      "text": "しっかりとルーラを見越しているんでしょう",
+      "language": "ja"
+    },
+    {
+      "start": 33.52,
+      "end": 34.86,
+      "text": "着地点につかみを置いて",
+      "language": "ja"
+    },
+    {
+      "start": 34.86,
+      "end": 36.74,
+      "text": "空前一段、ダウン空上",
+      "language": "ja"
+    },
+    {
+      "start": 36.74,
+      "end": 38.38,
+      "text": "ミスらないコンボ完走",
+      "language": "ja"
+    }
+  ],
+  "full_text": "見たら動かん、ジャンプで身を引いていく 横強を固めにはつき合わず 空中上から崖狩り展開 なりふりはもちろんシールドから 空中Nとラビッツ エイハでダメージ飛ばして ガンで止めてからまたも崖 崖離しジャンプ回避許さず 以前復帰として展開 プレッシャーをかけることによって MPを削っていくが ここで内側を転がり上強が通る ルーラで戻っていくものの MPはすでに枯渇気味 苦しい状況が続け しっかりとルーラを見越しているんでしょう 着地点につかみを置いて 空前一段、ダウン空上 ミスらないコンボ完走",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "ミラドーマンジャンプ",
+      "corrected": "見たら動かん、ジャンプ",
+      "rule": "misheard phrase"
+    },
+    {
+      "segment_idx": 3,
+      "original": "ナリフォー",
+      "corrected": "なりふり",
+      "rule": "misheard word"
+    },
+    {
+      "segment_idx": 4,
+      "original": "空中にトラブキ",
+      "corrected": "空中Nとラビッツ",
+      "rule": "misheard word"
+    },
+    {
+      "segment_idx": 15,
+      "original": "レーダーを見越している",
+      "corrected": "ルーラを見越している",
+      "rule": "Hero move name"
+    },
+    {
+      "segment_idx": 17,
+      "original": "クーマンHダンクラー",
+      "corrected": "空前一段、ダウン空上",
+      "rule": "smash term"
+    }
+  ]
+}

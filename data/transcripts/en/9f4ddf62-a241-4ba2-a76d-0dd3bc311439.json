@@ -1,0 +1,54 @@
+{
+  "id": "9f4ddf62-a241-4ba2-a76d-0dd3bc311439",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.56,
+      "text": "Of course we're tracking the airdodge—dair!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "回避はもちろん見てます空下"
+    },
+    {
+      "start": 2.56,
+      "end": 4.76,
+      "text": "Opposite side ledge, one more time!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "反対側の崖でもう一度"
+    },
+    {
+      "start": 4.76,
+      "end": 6.92,
+      "text": "Watching that ledge drop from Dain",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "崖離しデインをケアして"
+    },
+    {
+      "start": 6.92,
+      "end": 9.12,
+      "text": "Delayed it as far as possible, but...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "最大限まで遅らせましたが"
+    }
+  ],
+  "full_text": "Of course we're tracking the airdodge—dair! Opposite side ledge, one more time! Watching that ledge drop from Dain Delayed it as far as possible, but...",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "空中志郎",
+      "corrected": "空下",
+      "rule": "move abbreviation (down air)"
+    },
+    {
+      "segment_idx": 3,
+      "original": "送らせ",
+      "corrected": "遅らせ",
+      "rule": "kanji homophone"
+    }
+  ]
+}

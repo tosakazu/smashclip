@@ -1,0 +1,110 @@
+{
+  "id": "7a4ce2ef-51e3-465d-aa34-e66f29d2e86c",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.86,
+      "text": "PK Fire",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "PKファイヤー"
+    },
+    {
+      "start": 0.86,
+      "end": 1.34,
+      "text": "No escape!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "避けぬ！"
+    },
+    {
+      "start": 1.34,
+      "end": 2.9,
+      "text": "Before PK Fire hits",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "PKファイヤー発生前"
+    },
+    {
+      "start": 2.9,
+      "end": 3.66,
+      "text": "The arc",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "カーブが"
+    },
+    {
+      "start": 3.66,
+      "end": 5.94,
+      "text": "Drives the spacing back hard",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ラインをガンガン上げる"
+    },
+    {
+      "start": 5.94,
+      "end": 7.36,
+      "text": "Next thing you know, it's just Ness waiting",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "気がつけばでんこただな"
+    },
+    {
+      "start": 7.36,
+      "end": 8.48,
+      "text": "Out of position",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "不利ライン"
+    },
+    {
+      "start": 8.48,
+      "end": 9.56,
+      "text": "Up on the platform",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "台上の上"
+    }
+  ],
+  "full_text": "PK Fire No escape! Before PK Fire hits The arc Drives the spacing back hard Next thing you know, it's just Ness waiting Out of position Up on the platform",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "ディキュアファイヤー",
+      "corrected": "PKファイヤー",
+      "rule": "move name (Lucas)"
+    },
+    {
+      "segment_idx": 1,
+      "original": "開けぬべ",
+      "corrected": "避けぬ！",
+      "rule": "whisper misrecognition"
+    },
+    {
+      "segment_idx": 2,
+      "original": "ファイヤー発生前",
+      "corrected": "PKファイヤー発生前",
+      "rule": "move name (Lucas)"
+    },
+    {
+      "segment_idx": 5,
+      "original": "電光だな",
+      "corrected": "でんこただな",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 6,
+      "original": "フリラライン",
+      "corrected": "不利ライン",
+      "rule": "whisper misrecognition"
+    },
+    {
+      "segment_idx": 7,
+      "original": "大空の上",
+      "corrected": "台上の上",
+      "rule": "大→台 homophone"
+    }
+  ]
+}

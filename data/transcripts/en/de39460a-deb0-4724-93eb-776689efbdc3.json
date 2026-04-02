@@ -1,0 +1,73 @@
+{
+  "id": "de39460a-deb0-4724-93eb-776689efbdc3",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.2,
+      "text": "Even with the parry",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ジャストシールドしてるんですが"
+    },
+    {
+      "start": 2.2,
+      "end": 3.32,
+      "text": "the back still connects",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "裏側が当たってしまう"
+    },
+    {
+      "start": 3.32,
+      "end": 5.14,
+      "text": "Is this because Robot's huge?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これはロボットの体が大きい案件なのか"
+    },
+    {
+      "start": 5.14,
+      "end": 6.86,
+      "text": "Or is the nair",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "それともそもそも空中ニュートラルが"
+    },
+    {
+      "start": 6.86,
+      "end": 8.58,
+      "text": "just surprisingly disjointed?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "意外と密度が高いのか"
+    },
+    {
+      "start": 8.58,
+      "end": 10.28,
+      "text": "Dash attack",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ダッシュアタック"
+    },
+    {
+      "start": 10.28,
+      "end": 11.04,
+      "text": "This is",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これは"
+    },
+    {
+      "start": 11.04,
+      "end": 13.66,
+      "text": "the KO!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "撃墜と"
+    }
+  ],
+  "full_text": "Even with the parry, the back still connects. Is this because Robot's huge? Or is the nair just surprisingly disjointed? Dash attack—this is the KO!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

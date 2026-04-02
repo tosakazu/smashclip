@@ -1,0 +1,120 @@
+{
+  "id": "11c38b48-9bd8-48cc-aef7-ad81c9205b1d",
+  "segments": [
+    {
+      "start": 0.74,
+      "end": 4.26,
+      "text": "Oh man, multi-hit into up smash!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いやー多段技で上スマッシュさあやってまいりました"
+    },
+    {
+      "start": 4.26,
+      "end": 9.18,
+      "text": "Down 49.1%, it's 1-1 in a full set!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "49.1%のビハインド抱えてフルセット1対1"
+    },
+    {
+      "start": 9.18,
+      "end": 17.02,
+      "text": "Last stock on both sides—battle of hearts, pure attrition!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ラストストック同士の心と心の戦いだ削り合いだ"
+    },
+    {
+      "start": 17.02,
+      "end": 19.08,
+      "text": "Dash attack into the back throw!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ダッシュ攻撃これは後ろ投げ"
+    },
+    {
+      "start": 19.08,
+      "end": 21.62,
+      "text": "Fox creating space with the fair!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "展開作ってフォックスとして空前"
+    },
+    {
+      "start": 21.62,
+      "end": 24.0,
+      "text": "Still not the KO!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "まだこれは撃墜"
+    },
+    {
+      "start": 24.0,
+      "end": 28.26,
+      "text": "Dabuz with the determined fair!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "Dabuz選手が執念の空前"
+    },
+    {
+      "start": 30.0,
+      "end": 34.08,
+      "text": "Parsley Man persisting with everything, attempting the recovery!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "粘りに粘ったパセリマン選手の復帰を"
+    },
+    {
+      "start": 34.08,
+      "end": 37.02,
+      "text": "Makes it through at the final moment!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "最後の最後突き切った"
+    },
+    {
+      "start": 37.02,
+      "end": 38.56,
+      "text": "Full set!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "フルセット"
+    }
+  ],
+  "full_text": "Oh man, multi-hit into up smash! Down 49.1%, it's 1-1 in a full set! Last stock on both sides—battle of hearts, pure attrition! Dash attack into the back throw! Fox creating space with the fair! Still not the KO! Dabuz with the determined fair! Parsley Man persisting with everything, attempting the recovery! Makes it through at the final moment! Full set!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "いやー多段技でウスマッシュさあやってまいりました",
+      "corrected": "いやー多段技で上スマッシュさあやってまいりました",
+      "rule": "Move abbreviation: ウスマッシュ→上スマッシュ"
+    },
+    {
+      "segment_idx": 4,
+      "original": "展開作ってフックスとし空中前",
+      "corrected": "展開作ってフォックスとして空前",
+      "rule": "Character name: フックス→フォックス; Move: 空中前→空前"
+    },
+    {
+      "segment_idx": 5,
+      "original": "まだこれは激推",
+      "corrected": "まだこれは撃墜",
+      "rule": "Kanji homophone: 激推→撃墜"
+    },
+    {
+      "segment_idx": 6,
+      "original": "バズ選手が執念の空前",
+      "corrected": "Dabuz選手が執念の空前",
+      "rule": "Player name: バズ→Dabuz"
+    },
+    {
+      "segment_idx": 7,
+      "original": "粘りに粘ったバズリバー選手の復帰を",
+      "corrected": "粘りに粘ったパセリマン選手の復帰を",
+      "rule": "Player name: バズリバー→パセリマン (Paseriman, Fox player whose recovery was edgeguarded)"
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "id": "ddd3b1ee-1875-4936-af7d-c0483ca7ef1a",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.04,
+      "text": "110%スマッシュ攻撃がくらえない領域に突入",
+      "language": "ja"
+    },
+    {
+      "start": 3.04,
+      "end": 4.32,
+      "text": "着地きつすぎる",
+      "language": "ja"
+    },
+    {
+      "start": 4.32,
+      "end": 6.46,
+      "text": "着地きつすぎる着地をようやく",
+      "language": "ja"
+    },
+    {
+      "start": 6.46,
+      "end": 9.06,
+      "text": "ようやく通したいんだが",
+      "language": "ja"
+    },
+    {
+      "start": 9.06,
+      "end": 10.42,
+      "text": "まだ先なのか",
+      "language": "ja"
+    },
+    {
+      "start": 10.42,
+      "end": 11.74,
+      "text": "ギリギリ耐えてるけど",
+      "language": "ja"
+    },
+    {
+      "start": 11.74,
+      "end": 12.58,
+      "text": "怖すぎる",
+      "language": "ja"
+    },
+    {
+      "start": 12.58,
+      "end": 13.68,
+      "text": "耐えてるけどさ",
+      "language": "ja"
+    },
+    {
+      "start": 13.68,
+      "end": 15.66,
+      "text": "Tweek完璧だ",
+      "language": "ja"
+    },
+    {
+      "start": 15.66,
+      "end": 16.84,
+      "text": "そこが決め",
+      "language": "ja"
+    }
+  ],
+  "full_text": "110%スマッシュ攻撃がくらえない領域に突入 着地きつすぎる 着地きつすぎる着地をようやく ようやく通したいんだが まだ先なのか ギリギリ耐えてるけど 怖すぎる 耐えてるけどさ Tweek完璧だ そこが決め",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "10%",
+      "corrected": "110%",
+      "rule": "misheard number (damage percentage)"
+    },
+    {
+      "segment_idx": 8,
+      "original": "ケーシロ",
+      "corrected": "Tweek",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 9,
+      "original": "そこがけい",
+      "corrected": "そこが決め",
+      "rule": "misheard word"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "60472cc3-ed00-468f-b9ed-a60e9e57339e",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.3,
+      "text": "下強通してさらに空中上",
+      "language": "ja"
+    },
+    {
+      "start": 2.3,
+      "end": 6.78,
+      "text": "空N通して右に出していく",
+      "language": "ja"
+    },
+    {
+      "start": 6.78,
+      "end": 9.8,
+      "text": "これはNBを通していく撃墜",
+      "language": "ja"
+    }
+  ],
+  "full_text": "下強通してさらに空中上 空N通して右に出していく これはNBを通していく撃墜",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "下強投手で",
+      "corrected": "下強通して",
+      "rule": "misheard word"
+    },
+    {
+      "segment_idx": 1,
+      "original": "空中白投手右に出していく",
+      "corrected": "空N通して右に出していく",
+      "rule": "smash term"
+    },
+    {
+      "segment_idx": 2,
+      "original": "激戦",
+      "corrected": "撃墜",
+      "rule": "kanji homophone (撃墜)"
+    }
+  ]
+}

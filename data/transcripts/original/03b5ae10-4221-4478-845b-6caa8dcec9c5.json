@@ -1,0 +1,111 @@
+{
+  "id": "03b5ae10-4221-4478-845b-6caa8dcec9c5",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.18,
+      "text": "マッチアップ本当に1ストック目を先に",
+      "language": "ja"
+    },
+    {
+      "start": 2.18,
+      "end": 4.26,
+      "text": "撃墜レースのところで",
+      "language": "ja"
+    },
+    {
+      "start": 4.26,
+      "end": 6.78,
+      "text": "自分のパーセント蓄積ができている状態で",
+      "language": "ja"
+    },
+    {
+      "start": 6.78,
+      "end": 7.68,
+      "text": "撃墜が通せれば",
+      "language": "ja"
+    },
+    {
+      "start": 7.68,
+      "end": 10.74,
+      "text": "まだワンタッチでストックリセットができるかもしれませんが",
+      "language": "ja"
+    },
+    {
+      "start": 10.74,
+      "end": 13.16,
+      "text": "おーなんだなんだなんだ",
+      "language": "ja"
+    },
+    {
+      "start": 13.16,
+      "end": 14.2,
+      "text": "聞きに来てる",
+      "language": "ja"
+    },
+    {
+      "start": 14.2,
+      "end": 16.34,
+      "text": "相手の対策を聞きに来てますね",
+      "language": "ja"
+    },
+    {
+      "start": 16.34,
+      "end": 18.4,
+      "text": "いやーこれはコーチング対策ですよ",
+      "language": "ja"
+    },
+    {
+      "start": 18.4,
+      "end": 20.96,
+      "text": "Wrathのコーチング対策を聞きに来てますが",
+      "language": "ja"
+    },
+    {
+      "start": 20.96,
+      "end": 21.82,
+      "text": "英語がわからない",
+      "language": "ja"
+    },
+    {
+      "start": 21.82,
+      "end": 24.9,
+      "text": "ネイティブ英語はまだまだでしょうか",
+      "language": "ja"
+    },
+    {
+      "start": 24.9,
+      "end": 27.12,
+      "text": "さあコーチングを",
+      "language": "ja"
+    },
+    {
+      "start": 27.12,
+      "end": 29.0,
+      "text": "まさか聞きに来る",
+      "language": "ja"
+    },
+    {
+      "start": 29.0,
+      "end": 29.62,
+      "text": "いやーそうですね",
+      "language": "ja"
+    }
+  ],
+  "full_text": "マッチアップ本当に1ストック目を先に 撃墜レースのところで 自分のパーセント蓄積ができている状態で 撃墜が通せれば まだワンタッチでストックリセットができるかもしれませんが おーなんだなんだなんだ 聞きに来てる 相手の対策を聞きに来てますね いやーこれはコーチング対策ですよ Wrathのコーチング対策を聞きに来てますが 英語がわからない ネイティブ英語はまだまだでしょうか さあコーチングを まさか聞きに来る いやーそうですね",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "1足目を先に",
+      "corrected": "1ストック目を先に",
+      "rule": "misheard term"
+    },
+    {
+      "segment_idx": 9,
+      "original": "ラースのコーチング対策を聞きに来てますが",
+      "corrected": "Wrathのコーチング対策を聞きに来てますが",
+      "rule": "player name"
+    }
+  ]
+}

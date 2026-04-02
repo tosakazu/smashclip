@@ -1,0 +1,51 @@
+{
+  "id": "8ddf098e-fdbc-48ec-8e0d-5198e3cd21d5",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.54,
+      "text": "はい、ダッシュ攻撃切り込んできて",
+      "language": "ja"
+    },
+    {
+      "start": 1.54,
+      "end": 3.44,
+      "text": "そうですね、ピクミン今いなかったんで",
+      "language": "ja"
+    },
+    {
+      "start": 3.44,
+      "end": 5.12,
+      "text": "必ず引き抜こうというところ",
+      "language": "ja"
+    },
+    {
+      "start": 5.12,
+      "end": 6.76,
+      "text": "強気に仕掛けにかかる",
+      "language": "ja"
+    },
+    {
+      "start": 6.76,
+      "end": 10.12,
+      "text": "チャージショットから横強先端微調",
+      "language": "ja"
+    }
+  ],
+  "full_text": "はい、ダッシュ攻撃切り込んできて そうですね、ピクミン今いなかったんで 必ず引き抜こうというところ 強気に仕掛けにかかる チャージショットから横強先端微調",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "出し攻撃",
+      "corrected": "ダッシュ攻撃",
+      "rule": "misheard word"
+    },
+    {
+      "segment_idx": 2,
+      "original": "引き抜くとしょう",
+      "corrected": "引き抜こうという",
+      "rule": "misheard word"
+    }
+  ]
+}

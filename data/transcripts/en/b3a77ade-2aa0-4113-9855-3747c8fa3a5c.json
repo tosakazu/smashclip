@@ -1,0 +1,33 @@
+{
+  "id": "b3a77ade-2aa0-4113-9855-3747c8fa3a5c",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.08,
+      "text": "this is exactly what we're looking for right here clashing with the jabs now things are a",
+      "language": "en"
+    },
+    {
+      "start": 4.08,
+      "end": 7.64,
+      "text": "little bit tense he tried to go in for a cheeky little setup right there try to challenge the",
+      "language": "en"
+    },
+    {
+      "start": 7.64,
+      "end": 12.44,
+      "text": "options that waka had on the ledge oh he tried to go for it gotta respect it but the thing is",
+      "language": "en"
+    }
+  ],
+  "full_text": "this is exactly what we're looking for right here clashing with the jabs now things are a little bit tense he tried to go in for a cheeky little setup right there try to challenge the options that waka had on the ledge oh he tried to go for it gotta respect it but the thing is",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "coaching",
+      "corrected": "clashing",
+      "rule": "misheard word"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "792ded45-5c0d-49db-9340-6e460040be19",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.1,
+      "text": "And going for that deep bair!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そして空後一気に深くまで狙っていく"
+    },
+    {
+      "start": 3.1,
+      "end": 5.26,
+      "text": "Up B catches them! How will they get back?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "上B巻き込んでこれはどう戻るか"
+    },
+    {
+      "start": 5.26,
+      "end": 9.86,
+      "text": "Makes it back to ledge with a directional airdodge!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "回避がなんとか移動回避で崖に捕まることができました"
+    },
+    {
+      "start": 9.86,
+      "end": 12.8,
+      "text": "Bair from the ledge!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "崖際から空後ビハインド"
+    }
+  ],
+  "full_text": "And going for that deep bair! Up B catches them! How will they get back? Makes it back to ledge with a directional airdodge! Bair from the ledge!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "空中城",
+      "corrected": "空後",
+      "rule": "空中後ろ misheard as 空中城"
+    },
+    {
+      "segment_idx": 3,
+      "original": "崖以外から空中城",
+      "corrected": "崖際から空後",
+      "rule": "空中後ろ misheard as 空中城 + 崖以外→崖際"
+    }
+  ]
+}

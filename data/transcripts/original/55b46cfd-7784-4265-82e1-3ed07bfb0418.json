@@ -1,0 +1,50 @@
+{
+  "id": "55b46cfd-7784-4265-82e1-3ed07bfb0418",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.82,
+      "text": "MTK",
+      "language": "ja"
+    },
+    {
+      "start": 1.82,
+      "end": 3.22,
+      "text": "ここで倒しきりたいか",
+      "language": "ja"
+    },
+    {
+      "start": 3.22,
+      "end": 6.28,
+      "text": "ここは起き上がり攻撃に当たってしまう",
+      "language": "ja"
+    },
+    {
+      "start": 6.28,
+      "end": 8.16,
+      "text": "ジャクジャクジャク空中ニュートラル",
+      "language": "ja"
+    },
+    {
+      "start": 8.16,
+      "end": 10.32,
+      "text": "いやーしかし欲しいのは",
+      "language": "ja"
+    },
+    {
+      "start": 10.32,
+      "end": 11.4,
+      "text": "撃墜かというようなところ",
+      "language": "ja"
+    },
+    {
+      "start": 11.4,
+      "end": 12.7,
+      "text": "空中前で撃墜",
+      "language": "ja"
+    }
+  ],
+  "full_text": "MTK ここで倒しきりたいか ここは起き上がり攻撃に当たってしまう ジャクジャクジャク空中ニュートラル いやーしかし欲しいのは 撃墜かというようなところ 空中前で撃墜",
+  "detected_language": "ja",
+  "corrections": []
+}

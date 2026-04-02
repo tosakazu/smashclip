@@ -1,0 +1,24 @@
+{
+  "id": "7453f16b-91aa-4a1b-84df-8107c245fa7e",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.12,
+      "text": "Whoa! This is リゼアス, Marth moving in!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "おっとこれはリゼアス、マルスが仕掛けに"
+    }
+  ],
+  "full_text": "Whoa! This is リゼアス, Marth moving in!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "リゼアスマルス",
+      "corrected": "リゼアス、マルス",
+      "rule": "player name separation"
+    }
+  ]
+}

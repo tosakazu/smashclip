@@ -1,0 +1,39 @@
+{
+  "id": "548124c5-331c-41cf-8eb7-472cf5a29b01",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.66,
+      "text": "I think it was interesting that Chon went for an upward throw on one of the grenades",
+      "language": "en"
+    },
+    {
+      "start": 3.66,
+      "end": 5.18,
+      "text": "and it barely went anywhere at all.",
+      "language": "en"
+    },
+    {
+      "start": 5.26,
+      "end": 7.74,
+      "text": "I wonder if that's just a pot mechanic, but...",
+      "language": "en"
+    },
+    {
+      "start": 7.74,
+      "end": 7.96,
+      "text": "Ooh!",
+      "language": "en"
+    }
+  ],
+  "full_text": "I think it was interesting that Chon went for an upward throw on one of the grenades and it barely went anywhere at all. I wonder if that's just a pot mechanic, but... Ooh!",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "Chong",
+      "corrected": "Chon",
+      "rule": "player name"
+    }
+  ]
+}

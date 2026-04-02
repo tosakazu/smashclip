@@ -1,0 +1,33 @@
+{
+  "id": "c6fb530d-db60-4393-b98e-6a6313cdc10b",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.58,
+      "text": "That's a KO!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これは撃墜している"
+    },
+    {
+      "start": 4.58,
+      "end": 8.12,
+      "text": "Fair to call that Neo's bread and butter",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ネオ選手のお箱といっても構わないでしょう"
+    },
+    {
+      "start": 8.12,
+      "end": 10.9,
+      "text": "Kuuman's neutral B is pretty tricky though",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "クーマンNB相当むずいですけどね"
+    }
+  ],
+  "full_text": "That's a KO! Fair to call that Neo's bread and butter Kuuman's neutral B is pretty tricky though",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

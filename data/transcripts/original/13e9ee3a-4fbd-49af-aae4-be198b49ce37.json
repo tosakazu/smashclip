@@ -1,0 +1,38 @@
+{
+  "id": "13e9ee3a-4fbd-49af-aae4-be198b49ce37",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.14,
+      "text": "どうしてね、命しのぎを崩せる同士なんで",
+      "language": "ja"
+    },
+    {
+      "start": 2.14,
+      "end": 4.8,
+      "text": "ライバルだからこそね、この敵やつと",
+      "language": "ja"
+    },
+    {
+      "start": 4.8,
+      "end": 6.38,
+      "text": "そうですね、ここは",
+      "language": "ja"
+    },
+    {
+      "start": 6.38,
+      "end": 9.24,
+      "text": "あー、ギリギリ届かず",
+      "language": "ja"
+    },
+    {
+      "start": 9.24,
+      "end": 11.28,
+      "text": "これね、後ろ側のね、崖捕まる範囲",
+      "language": "ja"
+    }
+  ],
+  "full_text": "どうしてね、命しのぎを崩せる同士なんで ライバルだからこそね、この敵やつと そうですね、ここは あー、ギリギリ届かず これね、後ろ側のね、崖捕まる範囲",
+  "detected_language": "ja",
+  "corrections": []
+}

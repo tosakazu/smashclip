@@ -1,0 +1,33 @@
+{
+  "id": "0ab5b1a6-5a5b-45db-aaad-f566c9f8d9d1",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.66,
+      "text": "Solid parry, grabs into fair!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "しっかりとジャストガード掴んで空前"
+    },
+    {
+      "start": 2.66,
+      "end": 9.02,
+      "text": "Takes care of the mashouts and lands that bair!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "暴れをケアしながらもしかし空後をうまく出していく"
+    },
+    {
+      "start": 9.02,
+      "end": 12.12,
+      "text": "That's...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これはその"
+    }
+  ],
+  "full_text": "Solid parry, grabs into fair! Takes care of the mashouts and lands that bair! That's...",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

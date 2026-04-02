@@ -1,0 +1,20 @@
+{
+  "id": "03e839ee-3d5f-4265-99f5-59d929ce575c",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.76,
+      "text": "攻撃上がりの無敵で崖をさばいた",
+      "language": "ja"
+    },
+    {
+      "start": 4.76,
+      "end": 5.68,
+      "text": "つかみに",
+      "language": "ja"
+    }
+  ],
+  "full_text": "攻撃上がりの無敵で崖をさばいた つかみに",
+  "detected_language": "ja",
+  "corrections": []
+}

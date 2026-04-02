@@ -1,0 +1,51 @@
+{
+  "id": "4b3b0581-12d0-400f-a3e2-fff60f1fe843",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.72,
+      "text": "上に着地をしてターンを作ります",
+      "language": "ja"
+    },
+    {
+      "start": 2.72,
+      "end": 3.0,
+      "text": "ガット",
+      "language": "ja"
+    },
+    {
+      "start": 3.0,
+      "end": 4.62,
+      "text": "ここでとりあえず掴みたい",
+      "language": "ja"
+    },
+    {
+      "start": 4.62,
+      "end": 5.74,
+      "text": "DA",
+      "language": "ja"
+    },
+    {
+      "start": 5.74,
+      "end": 7.42,
+      "text": "これはつかんで後ろ投げ撃墜です",
+      "language": "ja"
+    }
+  ],
+  "full_text": "上に着地をしてターンを作ります ガット ここでとりあえず掴みたい DA これはつかんで後ろ投げ撃墜です",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "取り台がつかみたい",
+      "corrected": "とりあえず掴みたい",
+      "rule": "misheard words"
+    },
+    {
+      "segment_idx": 3,
+      "original": "出し攻撃",
+      "corrected": "DA",
+      "rule": "move abbreviation (ダッシュ攻撃→DA)"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "id": "191bdd95-c113-4c84-ba96-b692408646ed",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.72,
+      "text": "And there's the Whirlwind!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "で、旋風の嵐"
+    },
+    {
+      "start": 1.72,
+      "end": 8.56,
+      "text": "They manage to push off-stage with Flash Punch, but",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "閃光烈拳でなんとか崖外に追い出しますが"
+    },
+    {
+      "start": 8.56,
+      "end": 9.58,
+      "text": "it's still not the KO!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "まだ撃墜には至らない"
+    },
+    {
+      "start": 9.58,
+      "end": 11.68,
+      "text": "up special, the valiant Devil Wink, but",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "上必殺技、果敢なデビルウィンクですが"
+    },
+    {
+      "start": 11.68,
+      "end": 12.34,
+      "text": "and that also gets avoided!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これもかわされて"
+    }
+  ],
+  "full_text": "And there's the Whirlwind! They manage to push off-stage with Flash Punch, but it's still not the KO! up special, the valiant Devil Wink, but and that also gets avoided!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "で、神戦風の嵐",
+      "corrected": "で、旋風の嵐",
+      "rule": "Kanji homophone: 神戦風→旋風"
+    },
+    {
+      "segment_idx": 1,
+      "original": "駆け外に追い出しますが",
+      "corrected": "崖外に追い出しますが",
+      "rule": "Kanji homophone: 駆け外→崖外"
+    },
+    {
+      "segment_idx": 2,
+      "original": "まだ激戦には至らない",
+      "corrected": "まだ撃墜には至らない",
+      "rule": "Kanji homophone: 激戦→撃墜"
+    }
+  ]
+}

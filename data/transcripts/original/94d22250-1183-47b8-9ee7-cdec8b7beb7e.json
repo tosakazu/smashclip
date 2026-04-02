@@ -1,0 +1,81 @@
+{
+  "id": "94d22250-1183-47b8-9ee7-cdec8b7beb7e",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.06,
+      "text": "いきなり両者前に出てくる",
+      "language": "ja"
+    },
+    {
+      "start": 1.06,
+      "end": 2.22,
+      "text": "鉄がないので",
+      "language": "ja"
+    },
+    {
+      "start": 2.22,
+      "end": 2.98,
+      "text": "うますぎる",
+      "language": "ja"
+    },
+    {
+      "start": 2.98,
+      "end": 3.68,
+      "text": "これ毎回",
+      "language": "ja"
+    },
+    {
+      "start": 3.68,
+      "end": 4.98,
+      "text": "これは痛くないか",
+      "language": "ja"
+    },
+    {
+      "start": 4.98,
+      "end": 5.52,
+      "text": "これ痛い",
+      "language": "ja"
+    },
+    {
+      "start": 5.52,
+      "end": 6.6,
+      "text": "掘られちゃうのも痛いですが",
+      "language": "ja"
+    },
+    {
+      "start": 6.6,
+      "end": 7.42,
+      "text": "掘り切らないですね",
+      "language": "ja"
+    },
+    {
+      "start": 7.42,
+      "end": 8.28,
+      "text": "掘らずに",
+      "language": "ja"
+    },
+    {
+      "start": 8.28,
+      "end": 10.36,
+      "text": "横スマッシュで",
+      "language": "ja"
+    },
+    {
+      "start": 10.36,
+      "end": 11.66,
+      "text": "一気に切れー",
+      "language": "ja"
+    }
+  ],
+  "full_text": "いきなり両者前に出てくる 鉄がないので うますぎる これ毎回 これは痛くないか これ痛い 掘られちゃうのも痛いですが 掘り切らないですね 掘らずに 横スマッシュで 一気に切れー",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 9,
+      "original": "よーこスマッシュで",
+      "corrected": "横スマッシュで",
+      "rule": "move name"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "id": "15182809-7c35-462a-8a92-a52b6ef1a6eb",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.6,
+      "text": "Using that solid Prominence Revolt!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "固いプロミネンスリボルトを使って"
+    },
+    {
+      "start": 2.6,
+      "end": 4.92,
+      "text": "Adding pressure is still tough",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "リスクをつけるのはやはり難しいですね"
+    },
+    {
+      "start": 4.92,
+      "end": 6.86,
+      "text": "Right at the ledge getup moment",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "あくまで崖を上がる瞬間"
+    },
+    {
+      "start": 6.86,
+      "end": 7.64,
+      "text": "But dair",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "しかし空下"
+    },
+    {
+      "start": 7.64,
+      "end": 10.38,
+      "text": "Escapes off-stage!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "崖外に逃げて"
+    },
+    {
+      "start": 10.38,
+      "end": 13.28,
+      "text": "Locks them down with jabs and takes it!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "どうだ弱で固めてそのまま押し切った"
+    }
+  ],
+  "full_text": "Using that solid Prominence Revolt! Adding pressure is still tough. Right at the ledge getup moment. But dair. Escapes off-stage! Locks them down with jabs and takes it!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "固いプロミネーションボルトを使って",
+      "corrected": "固いプロミネンスリボルトを使って",
+      "rule": "Move name: プロミネーションボルト→プロミネンスリボルト (Pyra/Mythra up-B)"
+    },
+    {
+      "segment_idx": 3,
+      "original": "しかし空中した",
+      "corrected": "しかし空下",
+      "rule": "Move abbreviation: 空中した→空下"
+    }
+  ]
+}

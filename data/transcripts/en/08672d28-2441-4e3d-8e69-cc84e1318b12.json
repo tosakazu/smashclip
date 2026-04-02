@@ -1,0 +1,25 @@
+{
+  "id": "08672d28-2441-4e3d-8e69-cc84e1318b12",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.9,
+      "text": "He's airborne!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空中にいたれ"
+    },
+    {
+      "start": 0.9,
+      "end": 1.68,
+      "text": "Whoa, this is it!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "おっとこれは"
+    }
+  ],
+  "full_text": "He's airborne! Whoa, this is it!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

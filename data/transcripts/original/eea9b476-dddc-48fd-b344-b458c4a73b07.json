@@ -1,0 +1,105 @@
+{
+  "id": "eea9b476-dddc-48fd-b344-b458c4a73b07",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.2,
+      "text": "対して当たらない",
+      "language": "ja"
+    },
+    {
+      "start": 1.2,
+      "end": 3.72,
+      "text": "空後の暴れをうまく通した",
+      "language": "ja"
+    },
+    {
+      "start": 3.72,
+      "end": 4.28,
+      "text": "Yaura",
+      "language": "ja"
+    },
+    {
+      "start": 4.28,
+      "end": 6.04,
+      "text": "ダッシュショットはガードして",
+      "language": "ja"
+    },
+    {
+      "start": 6.04,
+      "end": 6.98,
+      "text": "Ryuk",
+      "language": "ja"
+    },
+    {
+      "start": 6.98,
+      "end": 8.88,
+      "text": "攻め入るんですけど",
+      "language": "ja"
+    },
+    {
+      "start": 8.88,
+      "end": 10.8,
+      "text": "距離を縮めても",
+      "language": "ja"
+    },
+    {
+      "start": 10.8,
+      "end": 12.36,
+      "text": "捕まることはしない",
+      "language": "ja"
+    },
+    {
+      "start": 12.36,
+      "end": 13.46,
+      "text": "NBも当てて",
+      "language": "ja"
+    },
+    {
+      "start": 13.46,
+      "end": 14.3,
+      "text": "これ入れるのか?",
+      "language": "ja"
+    },
+    {
+      "start": 15.14,
+      "end": 15.94,
+      "text": "入れない",
+      "language": "ja"
+    }
+  ],
+  "full_text": "対して当たらない 空後の暴れをうまく通した Yaura ダッシュショットはガードして Ryuk 攻め入るんですけど 距離を縮めても 捕まることはしない NBも当てて これ入れるのか? 入れない",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "空中後ろ手の暴れ",
+      "corrected": "空後の暴れ",
+      "rule": "abbreviation"
+    },
+    {
+      "segment_idx": 2,
+      "original": "矢浦",
+      "corrected": "Yaura",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 4,
+      "original": "リューク",
+      "corrected": "Ryuk",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 5,
+      "original": "攻めいるんですけど",
+      "corrected": "攻め入るんですけど",
+      "rule": "typo"
+    },
+    {
+      "segment_idx": 8,
+      "original": "Bも当てて",
+      "corrected": "NBも当てて",
+      "rule": "misheard: B→NB"
+    }
+  ]
+}

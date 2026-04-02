@@ -1,0 +1,26 @@
+{
+  "id": "207a2598-ee84-4bf1-bc80-037116f3271a",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.62,
+      "text": "Yeah, yeah, yeah, like the Looney Tunes sound effect, like...",
+      "language": "en"
+    },
+    {
+      "start": 2.62,
+      "end": 6.64,
+      "text": "Oh, the footstool into a jab, look, beautiful stuff!",
+      "language": "en"
+    },
+    {
+      "start": 6.92,
+      "end": 10.02,
+      "text": "Make it like an arch, finding it like a litter, that was the jab.",
+      "language": "en"
+    }
+  ],
+  "full_text": "Yeah, yeah, yeah, like the Looney Tunes sound effect, like... Oh, the footstool into a jab, look, beautiful stuff! Make it like an arch, finding it like a litter, that was the jab.",
+  "detected_language": "en",
+  "corrections": []
+}

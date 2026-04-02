@@ -1,0 +1,33 @@
+{
+  "id": "bd0f48c2-2447-459d-b1a5-66e2a77690f1",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.18,
+      "text": "Next, Fox Illusion, and nearly,",
+      "language": "en"
+    },
+    {
+      "start": 3.18,
+      "end": 6.18,
+      "text": "doing turn around down smash to catch the retreating option.",
+      "language": "en"
+    },
+    {
+      "start": 8.76,
+      "end": 9.6,
+      "text": "Oh.",
+      "language": "en"
+    }
+  ],
+  "full_text": "Next, Fox Illusion, and nearly, doing turn around down smash to catch the retreating option. Oh.",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "and smash the cat's retreating option",
+      "corrected": "down smash to catch the retreating option",
+      "rule": "move name"
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "id": "f8978dc5-b2b3-4dae-9f35-a2c1cebf527f",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.66,
+      "text": "Hmm...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "うーん"
+    },
+    {
+      "start": 0.66,
+      "end": 1.26,
+      "text": "Got the reflect off!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "反射撃ったねー"
+    },
+    {
+      "start": 1.26,
+      "end": 2.0,
+      "text": "So they just go for it",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "じゃあ撃とうかーって"
+    },
+    {
+      "start": 2.0,
+      "end": 2.5,
+      "text": "And it works!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "できちゃうんだよね"
+    },
+    {
+      "start": 2.5,
+      "end": 3.0,
+      "text": "Whoa!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "おっと!"
+    },
+    {
+      "start": 3.0,
+      "end": 4.0,
+      "text": "Does it land?!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "攻撃が取ったか!"
+    },
+    {
+      "start": 5.62,
+      "end": 6.12,
+      "text": "Oh!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "うわっ!"
+    },
+    {
+      "start": 6.12,
+      "end": 6.62,
+      "text": "Ah...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "あ…"
+    },
+    {
+      "start": 6.62,
+      "end": 7.3,
+      "text": "Actually, that's fine",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いや、これは大丈夫"
+    },
+    {
+      "start": 7.3,
+      "end": 7.8,
+      "text": "Wow!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いやー!"
+    },
+    {
+      "start": 7.8,
+      "end": 8.3,
+      "text": "Woah!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "うわー!"
+    },
+    {
+      "start": 8.3,
+      "end": 8.8,
+      "text": "I see!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "なるほど!"
+    }
+  ],
+  "full_text": "Hmm... Got the reflect off! So they just go for it And it works! Whoa! Does it land?! Oh! Ah... Actually, that's fine Wow! Woah! I see!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

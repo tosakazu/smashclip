@@ -1,0 +1,39 @@
+{
+  "id": "c6074668-05e7-49dc-ba4d-fde8ab248098",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.66,
+      "text": "Teaも結構いったるでみたいな",
+      "language": "ja"
+    },
+    {
+      "start": 2.66,
+      "end": 4.48,
+      "text": "そんな匂いを感じます",
+      "language": "ja"
+    },
+    {
+      "start": 4.48,
+      "end": 7.08,
+      "text": "これはでもソニックなら",
+      "language": "ja"
+    },
+    {
+      "start": 7.08,
+      "end": 11.36,
+      "text": "回避あれば戻ってこれるかというところでしたが",
+      "language": "ja"
+    }
+  ],
+  "full_text": "Teaも結構いったるでみたいな そんな匂いを感じます これはでもソニックなら 回避あれば戻ってこれるかというところでしたが",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "地位",
+      "corrected": "Tea",
+      "rule": "player name"
+    }
+  ]
+}

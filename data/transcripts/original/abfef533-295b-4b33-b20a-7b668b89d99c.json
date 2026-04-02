@@ -1,0 +1,39 @@
+{
+  "id": "abfef533-295b-4b33-b20a-7b668b89d99c",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.4,
+      "text": "空中下メテオを合わせていったロゼッタだったが、上目だったが、ジャンプを残していたので帰ってこられる鳥ちゃん ケン。",
+      "language": "ja"
+    },
+    {
+      "start": 8.4,
+      "end": 9.4,
+      "text": "空中、え、これはまさか?",
+      "language": "ja"
+    },
+    {
+      "start": 9.94,
+      "end": 10.42,
+      "text": "撃墜!",
+      "language": "ja"
+    },
+    {
+      "start": 11.16,
+      "end": 13.38,
+      "text": "そっち側に飛んでいるのでベクトル変更が難しい。",
+      "language": "ja"
+    }
+  ],
+  "full_text": "空中下メテオを合わせていったロゼッタだったが、上目だったが、ジャンプを残していたので帰ってこられる鳥ちゃん ケン。 空中、え、これはまさか? 撃墜! そっち側に飛んでいるのでベクトル変更が難しい。",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "鳥ちゃん兼",
+      "corrected": "鳥ちゃん ケン",
+      "rule": "Player/character: 兼→ケン(Ken)"
+    }
+  ]
+}

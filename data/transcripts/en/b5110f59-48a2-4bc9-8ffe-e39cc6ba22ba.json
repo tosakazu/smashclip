@@ -1,0 +1,45 @@
+{
+  "id": "b5110f59-48a2-4bc9-8ffe-e39cc6ba22ba",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.1,
+      "text": "Like, Gachipi's like, oh, I'm sitting at 195, I don't care.",
+      "language": "en"
+    },
+    {
+      "start": 2.24,
+      "end": 5.5,
+      "text": "Ooh, using the up B as movement is so funny to me.",
+      "language": "en"
+    },
+    {
+      "start": 5.54,
+      "end": 10.9,
+      "text": "It feels so goofy, but Gachipi utilizing it perfectly as he's managed to hold onto this stock.",
+      "language": "en"
+    },
+    {
+      "start": 11.16,
+      "end": 12.92,
+      "text": "It's so crazy how, like, hard it is.",
+      "language": "en"
+    }
+  ],
+  "full_text": "Like, Gachipi's like, oh, I'm sitting at 195, I don't care. Ooh, using the up B as movement is so funny to me. It feels so goofy, but Gachipi utilizing it perfectly as he's managed to hold onto this stock. It's so crazy how, like, hard it is.",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "Gatsby's",
+      "corrected": "Gachipi's",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 2,
+      "original": "Gatsby",
+      "corrected": "Gachipi",
+      "rule": "player name"
+    }
+  ]
+}

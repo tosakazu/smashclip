@@ -1,0 +1,40 @@
+{
+  "id": "171e6944-74b2-45c0-a52e-807c16da383b",
+  "segments": [
+    {
+      "start": 0.84,
+      "end": 6.1,
+      "text": "Now KEN takes the lead with the wing gone—can he extend it with Sephiroth?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあ即リードして羽も消えてしまったがこのままリード伸ばすことができるかKENセフィロス"
+    },
+    {
+      "start": 6.1,
+      "end": 8.92,
+      "text": "Nice shield on the throw!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "紫投げはしっかりシールド"
+    },
+    {
+      "start": 8.92,
+      "end": 10.6,
+      "text": "Whiff grab!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "すかしつかみ"
+    }
+  ],
+  "full_text": "Now KEN takes the lead with the wing gone—can he extend it with Sephiroth? Nice shield on the throw! Whiff grab!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "ケンセヒロス",
+      "corrected": "KENセフィロス",
+      "rule": "Player/character name: ケンセヒロス→KENセフィロス"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "3756872c-c561-43e5-b145-86fb01e024f8",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "キックギリギリ頼りで返しています",
+      "language": "ja"
+    },
+    {
+      "start": 2.0,
+      "end": 6.2,
+      "text": "上り空前から攻め込んでいくシュートン",
+      "language": "ja"
+    },
+    {
+      "start": 6.2,
+      "end": 8.92,
+      "text": "ここで勝負を決めきっていきたいんですが",
+      "language": "ja"
+    },
+    {
+      "start": 8.92,
+      "end": 9.94,
+      "text": "ここでラインが入れ替わった",
+      "language": "ja"
+    },
+    {
+      "start": 9.94,
+      "end": 10.32,
+      "text": "あー",
+      "language": "ja"
+    }
+  ],
+  "full_text": "キックギリギリ頼りで返しています 上り空前から攻め込んでいくシュートン ここで勝負を決めきっていきたいんですが ここでラインが入れ替わった あー",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "上りクーメから攻め込んでいくシュート",
+      "corrected": "上り空前から攻め込んでいくシュートン",
+      "rule": "misheard: 空前, player name: Shuton"
+    }
+  ]
+}

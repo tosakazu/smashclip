@@ -1,0 +1,33 @@
+{
+  "id": "542ddcea-b76a-43a3-81da-ede8fb707c6c",
+  "segments": [
+    {
+      "start": 0.4,
+      "end": 2.72,
+      "text": "回避は上にはフリップで掴んで",
+      "language": "ja"
+    },
+    {
+      "start": 2.72,
+      "end": 6.86,
+      "text": "さあもう一度撃墜が見えたか",
+      "language": "ja"
+    },
+    {
+      "start": 6.86,
+      "end": 8.76,
+      "text": "そしてフリップさすがにこれは撃墜",
+      "language": "ja"
+    }
+  ],
+  "full_text": "回避は上にはフリップで掴んで さあもう一度撃墜が見えたか そしてフリップさすがにこれは撃墜",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "回避はアガニにはフリップで掴んで",
+      "corrected": "回避は上にはフリップで掴んで",
+      "rule": "misheard word (アガニ→上に)"
+    }
+  ]
+}

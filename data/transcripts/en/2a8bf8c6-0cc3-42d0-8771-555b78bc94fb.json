@@ -1,0 +1,57 @@
+{
+  "id": "2a8bf8c6-0cc3-42d0-8771-555b78bc94fb",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.98,
+      "text": "And whatever else is needed",
+      "language": "en",
+      "original_language": "es",
+      "original_text": "Y todo lo que haga falta"
+    },
+    {
+      "start": 0.98,
+      "end": 4.72,
+      "text": "Right, now they need to process that information",
+      "language": "en",
+      "original_language": "es",
+      "original_text": "Claro, ahora tiene que tomar las informaciones"
+    },
+    {
+      "start": 4.72,
+      "end": 5.38,
+      "text": "That's it",
+      "language": "en",
+      "original_language": "es",
+      "original_text": "Eso es"
+    },
+    {
+      "start": 5.38,
+      "end": 6.74,
+      "text": "To adapt better in the next match",
+      "language": "en",
+      "original_language": "es",
+      "original_text": "Para adaptarse mejor en la próxima partida"
+    },
+    {
+      "start": 6.74,
+      "end": 7.96,
+      "text": "I think that's wrapped",
+      "language": "en",
+      "original_language": "es",
+      "original_text": "Creo que eso ya está, eh"
+    },
+    {
+      "start": 7.96,
+      "end": 9.5,
+      "text": "Wow, look at this!",
+      "language": "en",
+      "original_language": "es",
+      "original_text": "Madre mía, cómo está"
+    }
+  ],
+  "full_text": "And whatever else is needed. Right, now they need to process that information. That's it. To adapt better in the next match. I think that's wrapped. Wow, look at this!",
+  "detected_language": "en",
+  "original_language": "es",
+  "corrections": []
+}

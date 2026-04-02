@@ -1,0 +1,20 @@
+{
+  "id": "856e3ba6-f104-4973-b227-3896b9c9f176",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.38,
+      "text": "外に出されるとまずいっていう部分もあって",
+      "language": "ja"
+    },
+    {
+      "start": 5.38,
+      "end": 7.32,
+      "text": "例えばああいう状況で",
+      "language": "ja"
+    }
+  ],
+  "full_text": "外に出されるとまずいっていう部分もあって 例えばああいう状況で",
+  "detected_language": "ja",
+  "corrections": []
+}

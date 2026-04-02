@@ -1,0 +1,27 @@
+{
+  "id": "c03afe37-e777-4894-a536-1bb64231d481",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.02,
+      "text": "またのヨシドラの攻撃です",
+      "language": "ja"
+    },
+    {
+      "start": 1.02,
+      "end": 2.62,
+      "text": "今度は攻撃を受け上げにも",
+      "language": "ja"
+    }
+  ],
+  "full_text": "またのヨシドラの攻撃です 今度は攻撃を受け上げにも",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "またの吉川の攻撃です",
+      "corrected": "またのヨシドラの攻撃です",
+      "rule": "player name"
+    }
+  ]
+}

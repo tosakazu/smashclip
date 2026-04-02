@@ -1,0 +1,87 @@
+{
+  "id": "f34773bc-23f8-45d7-b9d7-5c7e702325e7",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.8,
+      "text": "4つ目に目立ちましたからねネオ選手の",
+      "language": "ja"
+    },
+    {
+      "start": 1.8,
+      "end": 5.5,
+      "text": "さあ崖回りのやりとり",
+      "language": "ja"
+    },
+    {
+      "start": 5.5,
+      "end": 6.94,
+      "text": "もう一つ二つ回っている",
+      "language": "ja"
+    },
+    {
+      "start": 6.94,
+      "end": 9.08,
+      "text": "空後ここはどうするか",
+      "language": "ja"
+    },
+    {
+      "start": 9.08,
+      "end": 10.54,
+      "text": "横必殺技は当たらないが",
+      "language": "ja"
+    },
+    {
+      "start": 10.54,
+      "end": 12.44,
+      "text": "その後のそのままがアルセーヌが寝る",
+      "language": "ja"
+    },
+    {
+      "start": 12.44,
+      "end": 14.8,
+      "text": "アルセーヌの切らせられるぞ",
+      "language": "ja"
+    },
+    {
+      "start": 14.8,
+      "end": 16.54,
+      "text": "空上なんで撃破できてる",
+      "language": "ja"
+    },
+    {
+      "start": 16.54,
+      "end": 22.56,
+      "text": "ここで回避上がりにさせていきました横スマッシュ",
+      "language": "ja"
+    }
+  ],
+  "full_text": "4つ目に目立ちましたからねネオ選手の さあ崖回りのやりとり もう一つ二つ回っている 空後ここはどうするか 横必殺技は当たらないが その後のそのままがアルセーヌが寝る アルセーヌの切らせられるぞ 空上なんで撃破できてる ここで回避上がりにさせていきました横スマッシュ",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 3,
+      "original": "空中しろ",
+      "corrected": "空後",
+      "rule": "misheard: 空中しろ→空後"
+    },
+    {
+      "segment_idx": 4,
+      "original": "横見つき寿司",
+      "corrected": "横必殺技",
+      "rule": "misheard"
+    },
+    {
+      "segment_idx": 5,
+      "original": "リオスが寝る",
+      "corrected": "アルセーヌが寝る",
+      "rule": "misheard: character name (Joker's Arsene)"
+    },
+    {
+      "segment_idx": 6,
+      "original": "あるせいの",
+      "corrected": "アルセーヌの",
+      "rule": "character name"
+    }
+  ]
+}

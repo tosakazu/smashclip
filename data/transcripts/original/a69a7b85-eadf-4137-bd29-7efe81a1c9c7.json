@@ -1,0 +1,67 @@
+{
+  "id": "a69a7b85-eadf-4137-bd29-7efe81a1c9c7",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "さぁお互い攻撃当たらない",
+      "language": "ja"
+    },
+    {
+      "start": 2.0,
+      "end": 3.94,
+      "text": "一幕を経て掴んだのは",
+      "language": "ja"
+    },
+    {
+      "start": 3.94,
+      "end": 5.06,
+      "text": "ドンキーコング",
+      "language": "ja"
+    },
+    {
+      "start": 5.06,
+      "end": 6.12,
+      "text": "耐久ダメージ伸ばして",
+      "language": "ja"
+    },
+    {
+      "start": 6.12,
+      "end": 6.92,
+      "text": "なるほど",
+      "language": "ja"
+    },
+    {
+      "start": 6.92,
+      "end": 7.46,
+      "text": "あれ?",
+      "language": "ja"
+    },
+    {
+      "start": 7.86,
+      "end": 8.02,
+      "text": "あれ?",
+      "language": "ja"
+    },
+    {
+      "start": 8.32,
+      "end": 8.74,
+      "text": "いや多分",
+      "language": "ja"
+    }
+  ],
+  "full_text": "さぁお互い攻撃当たらない 一幕を経て掴んだのは ドンキーコング 耐久ダメージ伸ばして なるほど あれ? あれ? いや多分",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "original": "一枠を経て",
+      "corrected": "一幕を経て",
+      "reason": "一幕（ひとまく）= one exchange/sequence"
+    },
+    {
+      "original": "耐久時間伸ばして",
+      "corrected": "耐久ダメージ伸ばして",
+      "reason": "ダメージを蓄積する"
+    }
+  ]
+}

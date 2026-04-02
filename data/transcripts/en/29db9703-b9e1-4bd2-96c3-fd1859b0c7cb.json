@@ -1,0 +1,20 @@
+{
+  "id": "29db9703-b9e1-4bd2-96c3-fd1859b0c7cb",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.86,
+      "text": "I could find his way back into this game. Who knows? He could, he could.",
+      "language": "en"
+    },
+    {
+      "start": 4.56,
+      "end": 5.48,
+      "text": "Oh, yep.",
+      "language": "en"
+    }
+  ],
+  "full_text": "I could find his way back into this game. Who knows? He could, he could. Oh, yep.",
+  "detected_language": "en",
+  "corrections": []
+}

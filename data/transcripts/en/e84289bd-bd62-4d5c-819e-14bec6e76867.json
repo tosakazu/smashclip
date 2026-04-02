@@ -1,0 +1,26 @@
+{
+  "id": "e84289bd-bd62-4d5c-819e-14bec6e76867",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.16,
+      "text": "Wow, still not enough to do it.",
+      "language": "en"
+    },
+    {
+      "start": 2.68,
+      "end": 4.32,
+      "text": "A little bit too far.",
+      "language": "en"
+    },
+    {
+      "start": 4.72,
+      "end": 6.94,
+      "text": "Oh, with the up smash there.",
+      "language": "en"
+    }
+  ],
+  "full_text": "Wow, still not enough to do it. A little bit too far. Oh, with the up smash there.",
+  "detected_language": "en",
+  "corrections": []
+}

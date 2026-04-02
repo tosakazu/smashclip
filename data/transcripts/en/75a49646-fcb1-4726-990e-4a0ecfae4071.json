@@ -1,0 +1,64 @@
+{
+  "id": "75a49646-fcb1-4726-990e-4a0ecfae4071",
+  "segments": [
+    {
+      "start": 0.76,
+      "end": 1.58,
+      "text": "Parry!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ジャストシールド"
+    },
+    {
+      "start": 1.58,
+      "end": 3.0,
+      "text": "That wasn't the finish!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "最終弾ではなかった"
+    },
+    {
+      "start": 3.0,
+      "end": 4.9,
+      "text": "Still had another fair!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "もう一弾残っていた空中前"
+    },
+    {
+      "start": 4.9,
+      "end": 8.1,
+      "text": "Against the dash attack,",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ダッシュアタックに対しては"
+    },
+    {
+      "start": 8.1,
+      "end": 9.34,
+      "text": "Perfect DI away—",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "外変更完璧で"
+    },
+    {
+      "start": 9.34,
+      "end": 12.18,
+      "text": "Breaks through with fair!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "壊した、そこから空前"
+    }
+  ],
+  "full_text": "Parry! That wasn't the finish! Still had another fair! Against the dash attack, Perfect DI away— Breaks through with fair!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 5,
+      "original": "壊した今日から空中前",
+      "corrected": "壊した、そこから空前",
+      "rule": "Whisper mishearing + move abbreviation"
+    }
+  ]
+}

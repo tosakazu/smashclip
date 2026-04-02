@@ -1,0 +1,73 @@
+{
+  "id": "79420dc9-bd5b-4d20-b43c-b04ae6374389",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.88,
+      "text": "With this fighter",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "このファイターではあるんですが"
+    },
+    {
+      "start": 1.88,
+      "end": 3.42,
+      "text": "though",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "あるんですが"
+    },
+    {
+      "start": 3.42,
+      "end": 5.08,
+      "text": "This parry shutting down momentum",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "起点を作らせないこのジャストシールド"
+    },
+    {
+      "start": 5.08,
+      "end": 7.72,
+      "text": "The falling aerial",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "下り空中攻撃"
+    },
+    {
+      "start": 7.72,
+      "end": 9.04,
+      "text": "Every single one",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そのことごとくを"
+    },
+    {
+      "start": 9.04,
+      "end": 10.36,
+      "text": "Answered with a parry",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ジャストシールドで対応ですが"
+    },
+    {
+      "start": 10.36,
+      "end": 10.8,
+      "text": "And this",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これも"
+    },
+    {
+      "start": 10.8,
+      "end": 11.34,
+      "text": "Directional airdodge",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "移動回避"
+    }
+  ],
+  "full_text": "With this fighter though, this parry shutting down momentum - the falling aerial, every single one answered with a parry, and this directional airdodge!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

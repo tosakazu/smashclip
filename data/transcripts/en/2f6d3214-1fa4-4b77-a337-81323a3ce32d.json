@@ -1,0 +1,24 @@
+{
+  "id": "2f6d3214-1fa4-4b77-a337-81323a3ce32d",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.46,
+      "text": "Even with that, they're checking the 50% airdodge getup too, but here—going for the jump!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "プリカーあっても円50%回避上がりも見ているんですがここはジャンプに"
+    }
+  ],
+  "full_text": "Even with that, they're checking the 50% airdodge getup too, but here—going for the jump!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "回帰上がり",
+      "corrected": "回避上がり",
+      "rule": "kanji homophone: 回帰→回避"
+    }
+  ]
+}

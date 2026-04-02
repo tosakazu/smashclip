@@ -1,0 +1,38 @@
+{
+  "id": "0801bbdd-82e0-42eb-81ab-3bfb2b7efb19",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.74,
+      "text": "あ",
+      "language": "ja"
+    },
+    {
+      "start": 1.74,
+      "end": 3.62,
+      "text": "さあむずい",
+      "language": "ja"
+    },
+    {
+      "start": 3.62,
+      "end": 6.08,
+      "text": "プリンの移動回避の後動きすぎ",
+      "language": "ja"
+    },
+    {
+      "start": 6.08,
+      "end": 7.86,
+      "text": "マジでむずい",
+      "language": "ja"
+    },
+    {
+      "start": 7.86,
+      "end": 9.44,
+      "text": "さあうまいぞ",
+      "language": "ja"
+    }
+  ],
+  "full_text": "あ さあむずい プリンの移動回避の後動きすぎ マジでむずい さあうまいぞ",
+  "detected_language": "ja",
+  "corrections": []
+}

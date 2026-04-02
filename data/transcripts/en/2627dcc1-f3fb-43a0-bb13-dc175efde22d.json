@@ -1,0 +1,49 @@
+{
+  "id": "2627dcc1-f3fb-43a0-bb13-dc175efde22d",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.4,
+      "text": "Setting up the wall!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ブロックを作って"
+    },
+    {
+      "start": 2.4,
+      "end": 3.46,
+      "text": "Now what?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあどうする"
+    },
+    {
+      "start": 3.46,
+      "end": 5.64,
+      "text": "Double jump directional airdodge!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "二段ジャンプを使って移動回避"
+    },
+    {
+      "start": 5.64,
+      "end": 7.58,
+      "text": "That's insane!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "面白すぎる"
+    },
+    {
+      "start": 7.58,
+      "end": 10.62,
+      "text": "Charging forward!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "前に行ったと"
+    }
+  ],
+  "full_text": "Setting up the wall! Now what? Double jump directional airdodge! That's insane! Charging forward!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

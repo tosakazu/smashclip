@@ -1,0 +1,38 @@
+{
+  "id": "49b36fd1-cc56-44db-9782-ab1260965ea0",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.1,
+      "text": "Dropped down B!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "下B落として"
+    },
+    {
+      "start": 4.1,
+      "end": 10.14,
+      "text": "Dair or... wait!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これは空下したかおっと"
+    }
+  ],
+  "full_text": "Dropped down B! Dair or... wait!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "下気落として",
+      "corrected": "下B落として",
+      "rule": "move abbreviation"
+    },
+    {
+      "segment_idx": 1,
+      "original": "空襲したか",
+      "corrected": "空下したか",
+      "rule": "move abbreviation"
+    }
+  ]
+}

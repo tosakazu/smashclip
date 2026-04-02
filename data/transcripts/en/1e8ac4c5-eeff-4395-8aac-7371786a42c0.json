@@ -1,0 +1,49 @@
+{
+  "id": "1e8ac4c5-eeff-4395-8aac-7371786a42c0",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.96,
+      "text": "He's shut down",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "阻むんですが"
+    },
+    {
+      "start": 1.96,
+      "end": 4.3,
+      "text": "But he still makes it back",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあそれでも帰ってこれる"
+    },
+    {
+      "start": 4.3,
+      "end": 5.64,
+      "text": "This Sonic fighter's",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "このソニックというファイターの"
+    },
+    {
+      "start": 5.64,
+      "end": 8.3,
+      "text": "Up B is strong—incredibly strong! After using that up B,",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "上必殺技強い強い上必殺技使った後に"
+    },
+    {
+      "start": 8.3,
+      "end": 9.8,
+      "text": "he can do all kinds of follow-ups",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いろんな動きをすることができます"
+    }
+  ],
+  "full_text": "He's shut down. But he still makes it back. This Sonic fighter's Up B is strong—incredibly strong! After using that up B, he can do all kinds of follow-ups.",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

@@ -1,0 +1,51 @@
+{
+  "id": "d0a69e01-49ba-4593-a949-cffd9a16fef4",
+  "segments": [
+    {
+      "start": 0.36,
+      "end": 1.26,
+      "text": "ここはなんとか大丈夫",
+      "language": "ja"
+    },
+    {
+      "start": 1.26,
+      "end": 3.52,
+      "text": "さあカズヒト選手この崖上がり",
+      "language": "ja"
+    },
+    {
+      "start": 3.52,
+      "end": 5.52,
+      "text": "やりきりタイガークースタバレ",
+      "language": "ja"
+    },
+    {
+      "start": 5.52,
+      "end": 7.22,
+      "text": "外に倒していたので",
+      "language": "ja"
+    },
+    {
+      "start": 7.22,
+      "end": 10.46,
+      "text": "なんとかそのまま横スマッシュや空中上での撃墜は免れたが",
+      "language": "ja"
+    },
+    {
+      "start": 10.46,
+      "end": 12.44,
+      "text": "アイテム投げで外に撃墜",
+      "language": "ja"
+    }
+  ],
+  "full_text": "ここはなんとか大丈夫 さあカズヒト選手この崖上がり やりきりタイガークースタバレ 外に倒していたので なんとかそのまま横スマッシュや空中上での撃墜は免れたが アイテム投げで外に撃墜",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 4,
+      "original": "ウェスマッシュ",
+      "corrected": "横スマッシュ",
+      "rule": "smash term (横スマ)"
+    }
+  ]
+}

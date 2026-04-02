@@ -1,0 +1,51 @@
+{
+  "id": "fed2fc8d-7193-4381-bcb2-3864cc5437ee",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.24,
+      "text": "TG to set up to get that grenade out.",
+      "language": "en"
+    },
+    {
+      "start": 2.8,
+      "end": 4.02,
+      "text": "Lui$ needs to get out of the corner, though.",
+      "language": "en"
+    },
+    {
+      "start": 4.08,
+      "end": 5.64,
+      "text": "He's been really locked down there.",
+      "language": "en"
+    },
+    {
+      "start": 7.04,
+      "end": 7.16,
+      "text": "Oh!",
+      "language": "en"
+    },
+    {
+      "start": 7.2,
+      "end": 8.22,
+      "text": "He just walked away.",
+      "language": "en"
+    }
+  ],
+  "full_text": "TG to set up to get that grenade out. Lui$ needs to get out of the corner, though. He's been really locked down there. Oh! He just walked away.",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "Gregory",
+      "corrected": "TG",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 1,
+      "original": "Louie",
+      "corrected": "Lui$",
+      "rule": "player name"
+    }
+  ]
+}

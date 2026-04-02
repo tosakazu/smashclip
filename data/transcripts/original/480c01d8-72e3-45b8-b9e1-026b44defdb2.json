@@ -1,0 +1,38 @@
+{
+  "id": "480c01d8-72e3-45b8-b9e1-026b44defdb2",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.94,
+      "text": "あのーキングファイターですよね",
+      "language": "ja"
+    },
+    {
+      "start": 1.94,
+      "end": 6.16,
+      "text": "あのーとにかく剣の先端でガード削って近づかせないようにして",
+      "language": "ja"
+    },
+    {
+      "start": 6.16,
+      "end": 6.98,
+      "text": "って感じですよね",
+      "language": "ja"
+    },
+    {
+      "start": 6.98,
+      "end": 9.02,
+      "text": "まあ一つ違うのは",
+      "language": "ja"
+    },
+    {
+      "start": 9.02,
+      "end": 10.08,
+      "text": "おっとここは",
+      "language": "ja"
+    }
+  ],
+  "full_text": "あのーキングファイターですよね あのーとにかく剣の先端でガード削って近づかせないようにして って感じですよね まあ一つ違うのは おっとここは",
+  "detected_language": "ja",
+  "corrections": []
+}

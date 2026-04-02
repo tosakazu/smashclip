@@ -1,0 +1,23 @@
+{
+  "id": "a5b6f26a-8239-47e8-a1ed-18ae96ba7299",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 18.66,
+      "text": "Even in this critical moment, they're landing the hardest combo!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "この重要な局面でも最難関コンボを決めていきます"
+    }
+  ],
+  "full_text": "Even in this critical moment, they're landing the hardest combo!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "original": "生かしていきます",
+      "corrected": "決めていきます",
+      "reason": "コンボを決める（成功させる）文脈"
+    }
+  ]
+}

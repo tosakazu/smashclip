@@ -1,0 +1,26 @@
+{
+  "id": "c3b97622-0393-4bf8-a153-fa92b9be8e7a",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.1,
+      "text": "...to get the back throw. So, Ross Budd, maybe an upper would be enough?",
+      "language": "en"
+    },
+    {
+      "start": 4.34,
+      "end": 7.0,
+      "text": "Because you cannot throw just the attack spot. Let's see if he gets the upper.",
+      "language": "en"
+    },
+    {
+      "start": 7.38,
+      "end": 9.16,
+      "text": "Not yet. Oh my god, he gets a second!",
+      "language": "en"
+    }
+  ],
+  "full_text": "...to get the back throw. So, Ross Budd, maybe an upper would be enough? Because you cannot throw just the attack spot. Let's see if he gets the upper. Not yet. Oh my god, he gets a second!",
+  "detected_language": "en",
+  "corrections": []
+}

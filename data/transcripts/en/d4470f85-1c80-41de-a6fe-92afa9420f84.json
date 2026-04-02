@@ -1,0 +1,76 @@
+{
+  "id": "d4470f85-1c80-41de-a6fe-92afa9420f84",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.16,
+      "text": "So when forced to jump, he's just not mobile enough",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "で、ジャンプをさせられると ちょっと機動力が足りないぞ"
+    },
+    {
+      "start": 3.16,
+      "end": 5.5,
+      "text": "Cornered here, goes with the bair",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここで追い詰められた状況だが 空中後ろ"
+    },
+    {
+      "start": 5.5,
+      "end": 7.24,
+      "text": "Gets it through as Steve advances!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "スティーブが前に出るタイミングで通す"
+    },
+    {
+      "start": 7.24,
+      "end": 8.5,
+      "text": "Oh no! That's falling apart, critical situation!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "あ、ボロになった ピンチになった"
+    },
+    {
+      "start": 8.5,
+      "end": 10.5,
+      "text": "How does he get back from ledge? Goes bair!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "この崖どう戻る? 空中後ろ"
+    },
+    {
+      "start": 10.5,
+      "end": 13.14,
+      "text": "That's a trade-off, and it's the KO!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これは痛み分けの形ですが 撃墜る"
+    }
+  ],
+  "full_text": "So when forced to jump, he's just not mobile enough Cornered here, goes with the bair Gets it through as Steve advances! Oh no! That's falling apart, critical situation! How does he get back from ledge? Goes bair! That's a trade-off, and it's the KO!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "機能力が足りない",
+      "corrected": "機動力が足りない",
+      "rule": "mishearing (機能力→機動力, mobility)"
+    },
+    {
+      "segment_idx": 3,
+      "original": "ポロになった",
+      "corrected": "ボロになった",
+      "rule": "mishearing (ポロ→ボロ, Steve equipment degraded)"
+    },
+    {
+      "segment_idx": 4,
+      "original": "このガキどう戻る",
+      "corrected": "この崖どう戻る",
+      "rule": "mishearing (ガキ→崖)"
+    }
+  ]
+}

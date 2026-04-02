@@ -1,0 +1,30 @@
+{
+  "id": "ed946471-3055-4a8a-a082-cccdfeb0698b",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.68,
+      "text": "He's going! DI wasn't there, so he just crushes through! Takes the stock!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いきます それこれをよくずちょっとベクトルが合わなかったのでそのまま潰すと取り切る"
+    }
+  ],
+  "full_text": "He's going! DI wasn't there, so he just crushes through! Takes the stock!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "地区が合わなかった",
+      "corrected": "ベクトルが合わなかった",
+      "rule": "misheard: 地区→ベクトル"
+    },
+    {
+      "segment_idx": 0,
+      "original": "潰すとが取り切る",
+      "corrected": "潰すと取り切る",
+      "rule": "typo"
+    }
+  ]
+}

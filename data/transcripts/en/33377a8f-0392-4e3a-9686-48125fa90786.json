@@ -1,0 +1,64 @@
+{
+  "id": "33377a8f-0392-4e3a-9686-48125fa90786",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.7,
+      "text": "No platforms",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "今度は台がない"
+    },
+    {
+      "start": 0.7,
+      "end": 2.5,
+      "text": "Attempting to land here",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "絡めて帯当てから"
+    },
+    {
+      "start": 2.5,
+      "end": 4.06,
+      "text": "Can they get it down?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "着地できるか"
+    },
+    {
+      "start": 4.06,
+      "end": 5.14,
+      "text": "If the landing connects",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "着地が通れば"
+    },
+    {
+      "start": 5.14,
+      "end": 7.26,
+      "text": "Even here the neutral's frame-tight",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここでも地上戦ギリギリのフレーム"
+    },
+    {
+      "start": 7.26,
+      "end": 9.16,
+      "text": "The opponent's ending lag",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "相手の後隙を"
+    }
+  ],
+  "full_text": "No platforms Attempting to land here Can they get it down? If the landing connects Even here the neutral's frame-tight The opponent's ending lag",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 5,
+      "original": "相手のアタスキを",
+      "corrected": "相手の後隙を",
+      "rule": "misheard: 後隙(あとすき)"
+    }
+  ]
+}

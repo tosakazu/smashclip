@@ -1,0 +1,33 @@
+{
+  "id": "f364fdb9-c669-47de-820d-35552be2f6e0",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.24,
+      "text": "着地狩りたいけどプリン着地悠々自適",
+      "language": "ja"
+    },
+    {
+      "start": 5.24,
+      "end": 9.26,
+      "text": "ただ差し合いは悠々自適ともいかず",
+      "language": "ja"
+    }
+  ],
+  "full_text": "着地狩りたいけどプリン着地悠々自適 ただ差し合いは悠々自適ともいかず",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "着地借りたいけどプリント着地悠々自敵",
+      "corrected": "着地狩りたいけどプリン着地悠々自適",
+      "rule": "misheard: 借り→狩り, プリント→プリン, 自敵→自適"
+    },
+    {
+      "segment_idx": 1,
+      "original": "悠々自敵",
+      "corrected": "悠々自適",
+      "rule": "kanji: 自敵→自適"
+    }
+  ]
+}

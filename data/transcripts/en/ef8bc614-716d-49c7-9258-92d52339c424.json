@@ -1,0 +1,54 @@
+{
+  "id": "ef8bc614-716d-49c7-9258-92d52339c424",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.18,
+      "text": "Fair into the dash fair!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空中前から走って空中前"
+    },
+    {
+      "start": 2.18,
+      "end": 3.78,
+      "text": "Going for the double-up, but—",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ダブルアップに行きましたが"
+    },
+    {
+      "start": 3.78,
+      "end": 4.66,
+      "text": "Shuoton mashes out!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここは暴れたシュートン"
+    },
+    {
+      "start": 4.66,
+      "end": 6.96,
+      "text": "Up air to finish it!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "最後空上"
+    }
+  ],
+  "full_text": "Fair into the dash fair! Going for the double-up, but— Shuoton mashes out! Up air to finish it!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "暴れたシュート",
+      "corrected": "暴れたシュートン",
+      "rule": "player name: シュート→シュートン"
+    },
+    {
+      "segment_idx": 3,
+      "original": "空中A",
+      "corrected": "空上",
+      "rule": "misheard: 空中A→空上"
+    }
+  ]
+}

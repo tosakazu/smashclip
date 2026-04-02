@@ -1,0 +1,51 @@
+{
+  "id": "9d140277-2e64-4980-898b-c4a5122daf58",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.54,
+      "text": "当たりますがここは上B確定反撃でしたが上強攻撃ですね",
+      "language": "ja"
+    },
+    {
+      "start": 3.54,
+      "end": 6.92,
+      "text": "ちょっと位置が高すぎましたが",
+      "language": "ja"
+    },
+    {
+      "start": 6.92,
+      "end": 9.54,
+      "text": "そして掴んで上に投げて確定をしないので",
+      "language": "ja"
+    },
+    {
+      "start": 9.54,
+      "end": 11.72,
+      "text": "一回様子を見て空前に降ってと",
+      "language": "ja"
+    },
+    {
+      "start": 11.72,
+      "end": 15.46,
+      "text": "笑っちゃう",
+      "language": "ja"
+    }
+  ],
+  "full_text": "当たりますがここは上B確定反撃でしたが上強攻撃ですね ちょっと位置が高すぎましたが そして掴んで上に投げて確定をしないので 一回様子を見て空前に降ってと 笑っちゃう",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "上必殺技確定反撃でした強攻撃",
+      "corrected": "上B確定反撃でしたが上強攻撃",
+      "rule": "move abbreviation"
+    },
+    {
+      "segment_idx": 3,
+      "original": "空中前に座ってと",
+      "corrected": "空前に降ってと",
+      "rule": "move abbreviation + Whisper misheard"
+    }
+  ]
+}

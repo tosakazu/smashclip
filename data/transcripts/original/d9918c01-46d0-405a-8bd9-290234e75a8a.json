@@ -1,0 +1,57 @@
+{
+  "id": "d9918c01-46d0-405a-8bd9-290234e75a8a",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.72,
+      "text": "空中下でさらにシールドに圧をかける",
+      "language": "ja"
+    },
+    {
+      "start": 1.72,
+      "end": 4.98,
+      "text": "だがここは上スマで拾うサムスの体重なら",
+      "language": "ja"
+    },
+    {
+      "start": 4.98,
+      "end": 6.5,
+      "text": "戦場の上の広さなら大丈夫",
+      "language": "ja"
+    },
+    {
+      "start": 6.5,
+      "end": 9.9,
+      "text": "PKサンダーは空中下でしっかりと打ち消して",
+      "language": "ja"
+    },
+    {
+      "start": 9.9,
+      "end": 11.38,
+      "text": "ファイヤー引っかかって気まずい",
+      "language": "ja"
+    },
+    {
+      "start": 11.38,
+      "end": 12.92,
+      "text": "気まずいそして上スマ",
+      "language": "ja"
+    }
+  ],
+  "full_text": "空中下でさらにシールドに圧をかける だがここは上スマで拾うサムスの体重なら 戦場の上の広さなら大丈夫 PKサンダーは空中下でしっかりと打ち消して ファイヤー引っかかって気まずい 気まずいそして上スマ",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "だがここは上相撲で拾うサムスの体重なら",
+      "corrected": "だがここは上スマで拾うサムスの体重なら",
+      "rule": "smash notation (上相撲→上スマ)"
+    },
+    {
+      "segment_idx": 5,
+      "original": "気まずいそして上相撲",
+      "corrected": "気まずいそして上スマ",
+      "rule": "smash notation (上相撲→上スマ)"
+    }
+  ]
+}

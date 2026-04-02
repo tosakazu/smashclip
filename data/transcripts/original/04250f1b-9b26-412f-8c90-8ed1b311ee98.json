@@ -1,0 +1,21 @@
+{
+  "id": "04250f1b-9b26-412f-8c90-8ed1b311ee98",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 8.24,
+      "text": "A lot of openings, so much damage tacked on, 89% Kaji not going to die quite yet, oh but you might like, but you might like, wow Town and City.",
+      "language": "en"
+    }
+  ],
+  "full_text": "A lot of openings, so much damage tacked on, 89% Kaji not going to die quite yet, oh but you might like, but you might like, wow Town and City.",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "town in city",
+      "corrected": "Town and City",
+      "rule": "stage name"
+    }
+  ]
+}

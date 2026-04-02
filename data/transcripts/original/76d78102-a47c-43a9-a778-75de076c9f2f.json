@@ -1,0 +1,33 @@
+{
+  "id": "76d78102-a47c-43a9-a778-75de076c9f2f",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.36,
+      "text": "However, we do know that Steve, and especially Steve, with the power that Onin has,",
+      "language": "en"
+    },
+    {
+      "start": 4.52,
+      "end": 10.78,
+      "text": "they are making you pay for every tiny mistake, but even then, Guilheww is showing up right now.",
+      "language": "en"
+    }
+  ],
+  "full_text": "However, we do know that Steve, and especially Steve, with the power that Onin has, they are making you pay for every tiny mistake, but even then, Guilheww is showing up right now.",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "Onan",
+      "corrected": "Onin",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 1,
+      "original": "Gilgamesh",
+      "corrected": "Guilheww",
+      "rule": "player name"
+    }
+  ]
+}

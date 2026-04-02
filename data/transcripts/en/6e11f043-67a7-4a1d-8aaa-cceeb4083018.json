@@ -1,0 +1,55 @@
+{
+  "id": "6e11f043-67a7-4a1d-8aaa-cceeb4083018",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.08,
+      "text": "That's still wrong!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "まだ違います"
+    },
+    {
+      "start": 1.08,
+      "end": 4.64,
+      "text": "Yamanakushan's Roy vs. Mild H.O's Donkey Kong.",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ヤマナクションのロイ対マイルドなH.Oのドンキーコング"
+    },
+    {
+      "start": 4.64,
+      "end": 7.68,
+      "text": "Let's check out this match!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "試合を見ていきましょう"
+    },
+    {
+      "start": 7.68,
+      "end": 12.82,
+      "text": "You see, Roy's recovery isn't that strong.",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "まあねロイがね復帰がめちゃめちゃ強いファイターではないので"
+    },
+    {
+      "start": 12.82,
+      "end": 14.98,
+      "text": "Oh, jab into jab here!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "おっとここは弱から弱"
+    }
+  ],
+  "full_text": "That's still wrong! Yamanakushan's Roy vs. Mild H.O's Donkey Kong. Let's check out this match! You see, Roy's recovery isn't that strong. Oh, jab into jab here!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_index": 1,
+      "original": "ヤマナクションのロイ対マイルドなHOのドンキーコング",
+      "corrected": "ヤマナクションのロイ対マイルドなH.Oのドンキーコング"
+    }
+  ]
+}

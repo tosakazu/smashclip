@@ -1,0 +1,32 @@
+{
+  "id": "d7f2a040-75d2-47d8-b702-48ee0ced3352",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.06,
+      "text": "Dodged by a hair! Just barely escaped!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "紙一重、間一髪、間一髪で避けきって"
+    },
+    {
+      "start": 3.06,
+      "end": 4.7,
+      "text": "But still, that's a tough spot",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いやしかし苦しいが"
+    }
+  ],
+  "full_text": "Dodged by a hair! Just barely escaped! But still, that's a tough spot",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "心、間髪、簡易一発で避けきって",
+      "corrected": "紙一重、間一髪、間一髪で避けきって",
+      "rule": "whisper_misrecognition"
+    }
+  ]
+}

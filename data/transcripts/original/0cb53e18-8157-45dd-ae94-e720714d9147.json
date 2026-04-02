@@ -1,0 +1,32 @@
+{
+  "id": "0cb53e18-8157-45dd-ae94-e720714d9147",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.4,
+      "text": "Mata once again, unfortunately the spike was right on the ledge.",
+      "language": "en"
+    },
+    {
+      "start": 4.08,
+      "end": 9.2,
+      "text": "So far, the strategy that Mata has to start taking is not getting him any opportunity.",
+      "language": "en"
+    },
+    {
+      "start": 9.58,
+      "end": 10.76,
+      "text": "The moment that spike...",
+      "language": "en"
+    },
+    {
+      "start": 10.76,
+      "end": 11.34,
+      "text": "See? That...",
+      "language": "en"
+    }
+  ],
+  "full_text": "Mata once again, unfortunately the spike was right on the ledge. So far, the strategy that Mata has to start taking is not getting him any opportunity. The moment that spike... See? That...",
+  "detected_language": "en",
+  "corrections": []
+}

@@ -1,0 +1,57 @@
+{
+  "id": "4fa4e782-5bfd-44f7-9323-449f7be960a3",
+  "segments": [
+    {
+      "start": 0.5,
+      "end": 3.12,
+      "text": "さあピクミンが結果として回ることになっており",
+      "language": "ja"
+    },
+    {
+      "start": 3.12,
+      "end": 4.16,
+      "text": "現在紫2匹",
+      "language": "ja"
+    },
+    {
+      "start": 4.16,
+      "end": 7.08,
+      "text": "さあ紫の空後が怖い怖い",
+      "language": "ja"
+    },
+    {
+      "start": 7.08,
+      "end": 9.58,
+      "text": "紫投げ切ってからスピンを起動",
+      "language": "ja"
+    },
+    {
+      "start": 9.58,
+      "end": 10.68,
+      "text": "スピンを起動",
+      "language": "ja"
+    },
+    {
+      "start": 10.68,
+      "end": 12.56,
+      "text": "だがここは空後",
+      "language": "ja"
+    }
+  ],
+  "full_text": "さあピクミンが結果として回ることになっており 現在紫2匹 さあ紫の空後が怖い怖い 紫投げ切ってからスピンを起動 スピンを起動 だがここは空後",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "空へが",
+      "corrected": "空後が",
+      "rule": "move abbreviation: 空へ→空後"
+    },
+    {
+      "segment_idx": 5,
+      "original": "空中後ろ",
+      "corrected": "空後",
+      "rule": "move abbreviation"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "0d1f8dfa-30d7-4741-b502-6d891f8235a0",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.72,
+      "text": "That's insane! Shuton is consistently breaking through the shield!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "マジでうまいわ徹底しているしゅーとんがガードの姿勢を崩し続ける"
+    },
+    {
+      "start": 6.72,
+      "end": 11.1,
+      "text": "But now the board state is in KO range",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあしかし盤面は撃墜の状況"
+    },
+    {
+      "start": 11.1,
+      "end": 15.44,
+      "text": "Big damage: 116.4%",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "大きな火力116.4"
+    },
+    {
+      "start": 15.44,
+      "end": 19.06,
+      "text": "That straightforward option came through!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "素直な択がここで通った"
+    }
+  ],
+  "full_text": "That's insane! Shuton is consistently breaking through the shield! But now the board state is in KO range Big damage: 116.4% That straightforward option came through!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

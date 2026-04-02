@@ -1,0 +1,39 @@
+{
+  "id": "457b3c3e-4542-43df-b1a4-391bf63a4938",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 7.44,
+      "text": "空中後ろもガードしていきながら",
+      "language": "ja"
+    },
+    {
+      "start": 7.44,
+      "end": 8.58,
+      "text": "しかし空中後ろ通す",
+      "language": "ja"
+    },
+    {
+      "start": 8.58,
+      "end": 12.16,
+      "text": "そして空中前です",
+      "language": "ja"
+    }
+  ],
+  "full_text": "空中後ろもガードしていきながら しかし空中後ろ通す そして空中前です",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "空中シロ",
+      "corrected": "空中後ろ",
+      "rule": "katakana to kanji (move name)"
+    },
+    {
+      "segment_idx": 1,
+      "original": "空中シロ",
+      "corrected": "空中後ろ",
+      "rule": "katakana to kanji (move name)"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "34571cef-f52e-455f-ad10-31b31e3def2d",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.82,
+      "text": "パーセントひっくり返ったぞ",
+      "language": "ja"
+    },
+    {
+      "start": 1.82,
+      "end": 3.88,
+      "text": "サンダーソードの空Nの",
+      "language": "ja"
+    },
+    {
+      "start": 3.88,
+      "end": 6.08,
+      "text": "先端当てのレンジが凄まじい",
+      "language": "ja"
+    },
+    {
+      "start": 6.08,
+      "end": 7.24,
+      "text": "そして駆け上がる",
+      "language": "ja"
+    }
+  ],
+  "full_text": "パーセントひっくり返ったぞ サンダーソードの空Nの 先端当てのレンジが凄まじい そして駆け上がる",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "空中ニュータル",
+      "corrected": "空N",
+      "rule": "move abbreviation"
+    },
+    {
+      "segment_idx": 2,
+      "original": "レンドが凄ましい",
+      "corrected": "レンジが凄まじい",
+      "rule": "misheard: レンジ, 凄まじい"
+    }
+  ]
+}

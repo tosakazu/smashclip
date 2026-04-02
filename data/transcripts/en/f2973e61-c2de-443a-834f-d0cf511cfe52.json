@@ -1,0 +1,160 @@
+{
+  "id": "f2973e61-c2de-443a-834f-d0cf511cfe52",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "text": "Strong!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "強い"
+    },
+    {
+      "start": 1.0,
+      "end": 2.24,
+      "text": "That should be tough, but...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "難しいはずなんですけど"
+    },
+    {
+      "start": 2.24,
+      "end": 3.04,
+      "text": "Still pulling it off!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "それでも通していきます"
+    },
+    {
+      "start": 3.04,
+      "end": 4.64,
+      "text": "While managing the banana...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "バナナの確認をしていながら"
+    },
+    {
+      "start": 4.64,
+      "end": 6.44,
+      "text": "Takes one with Oil Panic!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "オイルパニックを一滅し"
+    },
+    {
+      "start": 6.44,
+      "end": 7.34,
+      "text": "Can't throw!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "投げれない"
+    },
+    {
+      "start": 7.34,
+      "end": 9.12,
+      "text": "Parry!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここはジャストシールド"
+    },
+    {
+      "start": 9.12,
+      "end": 9.96,
+      "text": "Perfect!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "完璧すぎる"
+    },
+    {
+      "start": 9.96,
+      "end": 11.26,
+      "text": "Flashy kick!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "キック派手を呼んでいる"
+    },
+    {
+      "start": 11.26,
+      "end": 12.82,
+      "text": "When it connects...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "シェフが当たると"
+    },
+    {
+      "start": 12.82,
+      "end": 13.84,
+      "text": "Hold on!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ちょっと待て"
+    },
+    {
+      "start": 13.84,
+      "end": 15.04,
+      "text": "Gets caught by that jump!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ジャンプに食らえ"
+    },
+    {
+      "start": 15.04,
+      "end": 16.32,
+      "text": "Up B!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "上B"
+    },
+    {
+      "start": 16.32,
+      "end": 17.04,
+      "text": "To the ledge!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "崖まで"
+    },
+    {
+      "start": 17.04,
+      "end": 18.42,
+      "text": "Chasing right after!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "追いかけてきた"
+    }
+  ],
+  "full_text": "Strong! That should be tough, but... Still pulling it off! While managing the banana... Takes one with Oil Panic! Can't throw! Parry! Perfect! Flashy kick! When it connects... Hold on! Gets caught by that jump! Up B! To the ledge! Chasing right after!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 3,
+      "original": "バナナの顔を縦にしていながら",
+      "corrected": "バナナの確認をしていながら",
+      "rule": "misheard"
+    },
+    {
+      "segment_idx": 11,
+      "original": "ジャンプに食え",
+      "corrected": "ジャンプに食らえ",
+      "rule": "misheard"
+    },
+    {
+      "segment_idx": 12,
+      "original": "ウエビー",
+      "corrected": "上B",
+      "rule": "misheard: ウエビー→上B"
+    },
+    {
+      "segment_idx": 13,
+      "original": "口まで",
+      "corrected": "崖まで",
+      "rule": "misheard"
+    },
+    {
+      "segment_idx": 14,
+      "original": "死んできた",
+      "corrected": "追いかけてきた",
+      "rule": "misheard"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "5ab745ed-c714-4bd9-b7e2-1722052aed7a",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.22,
+      "text": "aware he might spam that cyclone a lot out of disadvantage just like that just to break up",
+      "language": "en"
+    },
+    {
+      "start": 4.22,
+      "end": 7.9,
+      "text": "your combo strings you gotta be aware of that you don't want to take too much more",
+      "language": "en"
+    },
+    {
+      "start": 7.9,
+      "end": 10.78,
+      "text": "Game and Watch far from the lightest characters that's why that up smash",
+      "language": "en"
+    }
+  ],
+  "full_text": "aware he might spam that cyclone a lot out of disadvantage just like that just to break up your combo strings you gotta be aware of that you don't want to take too much more Game and Watch far from the lightest characters that's why that up smash",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "game of watch",
+      "corrected": "Game and Watch",
+      "rule": "character name"
+    }
+  ]
+}

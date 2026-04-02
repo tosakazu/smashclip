@@ -1,0 +1,40 @@
+{
+  "id": "74622d9e-1039-4bd8-886b-fd7cfb1452cb",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.96,
+      "text": "Three bairs off the dash attack!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "DAから空後を3つ"
+    },
+    {
+      "start": 5.96,
+      "end": 7.98,
+      "text": "And caught in the up B!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そして上B巻き込んでいった"
+    },
+    {
+      "start": 7.98,
+      "end": 8.76,
+      "text": "That's no recovery!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これは戻れない"
+    }
+  ],
+  "full_text": "Three bairs off the dash attack! And caught in the up B! That's no recovery!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "空中白",
+      "corrected": "空後",
+      "rule": "move abbreviation: 空後"
+    }
+  ]
+}

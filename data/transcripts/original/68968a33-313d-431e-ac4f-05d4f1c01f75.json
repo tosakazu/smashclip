@@ -1,0 +1,39 @@
+{
+  "id": "68968a33-313d-431e-ac4f-05d4f1c01f75",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.16,
+      "text": "スイレーメガボルトそのまま起き上がりに突き刺さる",
+      "language": "ja"
+    },
+    {
+      "start": 4.16,
+      "end": 7.52,
+      "text": "さっきからね先出しメガボルトが多かったですけど",
+      "language": "ja"
+    },
+    {
+      "start": 7.52,
+      "end": 9.98,
+      "text": "ここに来てドラ右先に来てメガボルトっていうね",
+      "language": "ja"
+    },
+    {
+      "start": 9.98,
+      "end": 10.7,
+      "text": "それが",
+      "language": "ja"
+    }
+  ],
+  "full_text": "スイレーメガボルトそのまま起き上がりに突き刺さる さっきからね先出しメガボルトが多かったですけど ここに来てドラ右先に来てメガボルトっていうね それが",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "ドラゴン",
+      "corrected": "ドラ右",
+      "rule": "player name"
+    }
+  ]
+}

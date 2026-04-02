@@ -1,0 +1,51 @@
+{
+  "id": "5d9cc697-0e24-4977-bb8c-1c1766f2e592",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.86,
+      "text": "見えていきました",
+      "language": "ja"
+    },
+    {
+      "start": 0.86,
+      "end": 2.54,
+      "text": "追い詰めた",
+      "language": "ja"
+    },
+    {
+      "start": 2.54,
+      "end": 3.64,
+      "text": "崖の展開",
+      "language": "ja"
+    },
+    {
+      "start": 3.64,
+      "end": 5.0,
+      "text": "空中上を置く",
+      "language": "ja"
+    },
+    {
+      "start": 5.84,
+      "end": 8.06,
+      "text": "下強で",
+      "language": "ja"
+    }
+  ],
+  "full_text": "見えていきました 追い詰めた 崖の展開 空中上を置く 下強で",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 3,
+      "original": "空中城",
+      "corrected": "空中上",
+      "rule": "kanji homophone"
+    },
+    {
+      "segment_idx": 4,
+      "original": "下強制",
+      "corrected": "下強で",
+      "rule": "misheard word"
+    }
+  ]
+}

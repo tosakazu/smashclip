@@ -1,0 +1,39 @@
+{
+  "id": "95c990d3-b054-4fad-ae9f-9522010e1f46",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "text": "It comes with a risk.",
+      "language": "en"
+    },
+    {
+      "start": 3.0,
+      "end": 5.0,
+      "text": "Not even using one of the wings for that recovery.",
+      "language": "en"
+    },
+    {
+      "start": 5.0,
+      "end": 6.0,
+      "text": "Really smart.",
+      "language": "en"
+    },
+    {
+      "start": 6.0,
+      "end": 7.0,
+      "text": "And uh, yeah.",
+      "language": "en"
+    }
+  ],
+  "full_text": "It comes with a risk. Not even using one of the wings for that recovery. Really smart. And uh, yeah.",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "with a wrist",
+      "corrected": "with a risk",
+      "rule": "misheard word"
+    }
+  ]
+}

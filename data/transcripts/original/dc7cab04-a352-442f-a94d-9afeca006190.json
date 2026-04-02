@@ -1,0 +1,51 @@
+{
+  "id": "dc7cab04-a352-442f-a94d-9afeca006190",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.0,
+      "text": "ジャスガの精度はもちろん展開ディフェンサー",
+      "language": "ja"
+    },
+    {
+      "start": 5.0,
+      "end": 6.44,
+      "text": "この復帰が苦しい",
+      "language": "ja"
+    },
+    {
+      "start": 6.44,
+      "end": 7.8,
+      "text": "上Bの無敵合わせて",
+      "language": "ja"
+    },
+    {
+      "start": 7.8,
+      "end": 9.56,
+      "text": "これはもう次ですね",
+      "language": "ja"
+    }
+  ],
+  "full_text": "ジャスガの精度はもちろん展開ディフェンサー この復帰が苦しい 上Bの無敵合わせて これはもう次ですね",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "ジャスガー",
+      "corrected": "ジャスガ",
+      "rule": "smash term (just guard abbreviation)"
+    },
+    {
+      "segment_idx": 0,
+      "original": "展開テインサー",
+      "corrected": "展開ディフェンサー",
+      "rule": "misheard word"
+    },
+    {
+      "segment_idx": 2,
+      "original": "ウェビの無敵",
+      "corrected": "上Bの無敵",
+      "rule": "misheard word (上B=uebi)"
+    }
+  ]
+}

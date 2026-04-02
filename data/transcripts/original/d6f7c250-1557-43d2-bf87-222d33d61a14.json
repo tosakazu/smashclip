@@ -1,0 +1,45 @@
+{
+  "id": "d6f7c250-1557-43d2-bf87-222d33d61a14",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.42,
+      "text": "そのままブレずに採掘を進めるのはラリックス",
+      "language": "ja"
+    },
+    {
+      "start": 2.42,
+      "end": 3.74,
+      "text": "3セット目のダイヤ",
+      "language": "ja"
+    },
+    {
+      "start": 3.74,
+      "end": 6.72,
+      "text": "なんならこれが壊れてもダイヤの装備もう一回作れるような",
+      "language": "ja"
+    },
+    {
+      "start": 6.72,
+      "end": 7.38,
+      "text": "そのタイミング",
+      "language": "ja"
+    },
+    {
+      "start": 7.38,
+      "end": 9.68,
+      "text": "そしてじっくり見て装備",
+      "language": "ja"
+    }
+  ],
+  "full_text": "そのままブレずに採掘を進めるのはラリックス 3セット目のダイヤ なんならこれが壊れてもダイヤの装備もう一回作れるような そのタイミング そしてじっくり見て装備",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "3足目のダイヤ",
+      "corrected": "3セット目のダイヤ",
+      "rule": "mishearing (足→セット)"
+    }
+  ]
+}

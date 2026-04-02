@@ -1,0 +1,62 @@
+{
+  "id": "71ac7410-c1ec-4842-a0f0-bf79f89cfcc5",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.32,
+      "text": "うわー出たー",
+      "language": "ja"
+    },
+    {
+      "start": 1.32,
+      "end": 3.24,
+      "text": "そしてダウンしてしまったので",
+      "language": "ja"
+    },
+    {
+      "start": 3.24,
+      "end": 4.96,
+      "text": "だがまあ安く済んだほうでしょ",
+      "language": "ja"
+    },
+    {
+      "start": 4.96,
+      "end": 6.5,
+      "text": "投げがそうそうやばいっすけど",
+      "language": "ja"
+    },
+    {
+      "start": 6.5,
+      "end": 8.02,
+      "text": "やばいですけど",
+      "language": "ja"
+    },
+    {
+      "start": 8.02,
+      "end": 10.32,
+      "text": "ほかほかがちょっと悪さしたか",
+      "language": "ja"
+    },
+    {
+      "start": 10.32,
+      "end": 13.08,
+      "text": "難しそうなパーセントではあったかも",
+      "language": "ja"
+    },
+    {
+      "start": 13.08,
+      "end": 14.22,
+      "text": "さあこの崖",
+      "language": "ja"
+    },
+    {
+      "start": 14.22,
+      "end": 15.72,
+      "text": "ギリギリすぎる",
+      "language": "ja"
+    }
+  ],
+  "full_text": "うわー出たー そしてダウンしてしまったので だがまあ安く済んだほうでしょ 投げがそうそうやばいっすけど やばいですけど ほかほかがちょっと悪さしたか 難しそうなパーセントではあったかも さあこの崖 ギリギリすぎる",
+  "detected_language": "ja",
+  "corrections": []
+}

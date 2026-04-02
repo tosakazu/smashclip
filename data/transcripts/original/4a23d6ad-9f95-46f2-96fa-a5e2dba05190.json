@@ -1,0 +1,63 @@
+{
+  "id": "4a23d6ad-9f95-46f2-96fa-a5e2dba05190",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.26,
+      "text": "ずらして回避をして",
+      "language": "ja"
+    },
+    {
+      "start": 1.26,
+      "end": 2.58,
+      "text": "飛び込んで",
+      "language": "ja"
+    },
+    {
+      "start": 2.58,
+      "end": 3.64,
+      "text": "空前届いた",
+      "language": "ja"
+    },
+    {
+      "start": 3.64,
+      "end": 6.24,
+      "text": "しかし撃墜ラインはまだ飛び込めない",
+      "language": "ja"
+    },
+    {
+      "start": 6.24,
+      "end": 8.28,
+      "text": "この崖で仕留めたい",
+      "language": "ja"
+    },
+    {
+      "start": 8.28,
+      "end": 8.8,
+      "text": "空後",
+      "language": "ja"
+    },
+    {
+      "start": 8.8,
+      "end": 9.48,
+      "text": "完璧",
+      "language": "ja"
+    }
+  ],
+  "full_text": "ずらして回避をして 飛び込んで 空前届いた しかし撃墜ラインはまだ飛び込めない この崖で仕留めたい 空後 完璧",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "くちまえ届いた",
+      "corrected": "空前届いた",
+      "rule": "move abbreviation"
+    },
+    {
+      "segment_idx": 5,
+      "original": "くちんしろ",
+      "corrected": "空後",
+      "rule": "move abbreviation (空中後ろ→空後)"
+    }
+  ]
+}

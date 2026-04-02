@@ -1,0 +1,89 @@
+{
+  "id": "480bf163-fa95-482b-a32a-86dbb3b918b1",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.42,
+      "text": "That up air barely whiffs!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空中上はギリギリ当たらない"
+    },
+    {
+      "start": 3.42,
+      "end": 4.8,
+      "text": "Both trading blows back and forth",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "お互い攻撃をさばき合っている"
+    },
+    {
+      "start": 4.8,
+      "end": 5.82,
+      "text": "Grab connects!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "掴みが通った"
+    },
+    {
+      "start": 5.82,
+      "end": 7.1,
+      "text": "Still no KO",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "まだ撃墜はしません"
+    },
+    {
+      "start": 7.1,
+      "end": 8.38,
+      "text": "With Donkey Kong's weight...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ドンキーコングの重さならば"
+    },
+    {
+      "start": 8.38,
+      "end": 9.28,
+      "text": "That should be it next time",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "次ぐらいでしょうね"
+    },
+    {
+      "start": 9.28,
+      "end": 10.74,
+      "text": "We see neutral B there, but...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ニュートラル必殺技見えましたが"
+    },
+    {
+      "start": 10.74,
+      "end": 10.98,
+      "text": "And...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "あと"
+    },
+    {
+      "start": 10.98,
+      "end": 12.86,
+      "text": "Wow, that's insane, seriously!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いやえらいなマジで"
+    },
+    {
+      "start": 12.86,
+      "end": 15.54,
+      "text": "Things got chaotic off the ledge",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "少し崖外でごちゃった展開"
+    }
+  ],
+  "full_text": "That up air barely whiffs! Both trading blows back and forth. Grab connects! Still no KO. With Donkey Kong's weight... That should be it next time. We see neutral B there, but... And... Wow, that's insane, seriously! Things got chaotic off the ledge.",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "9b55d61b-6230-49bf-b80f-098d066233f0",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.22,
+      "text": "仕返しで植木を置いています",
+      "language": "ja"
+    },
+    {
+      "start": 1.22,
+      "end": 5.46,
+      "text": "空後?やっぶねー",
+      "language": "ja"
+    },
+    {
+      "start": 5.46,
+      "end": 6.76,
+      "text": "いやしかし回避しても",
+      "language": "ja"
+    }
+  ],
+  "full_text": "仕返しで植木を置いています 空後?やっぶねー いやしかし回避しても",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "空中射",
+      "corrected": "空後",
+      "rule": "move abbreviation"
+    }
+  ]
+}

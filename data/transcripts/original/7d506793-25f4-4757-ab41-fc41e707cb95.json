@@ -1,0 +1,99 @@
+{
+  "id": "7d506793-25f4-4757-ab41-fc41e707cb95",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.44,
+      "text": "空後に合わせて空上",
+      "language": "ja"
+    },
+    {
+      "start": 1.44,
+      "end": 2.78,
+      "text": "なんという択",
+      "language": "ja"
+    },
+    {
+      "start": 2.78,
+      "end": 5.78,
+      "text": "掴みを通したドンキー",
+      "language": "ja"
+    },
+    {
+      "start": 5.78,
+      "end": 6.7,
+      "text": "前に投げる",
+      "language": "ja"
+    },
+    {
+      "start": 6.7,
+      "end": 7.64,
+      "text": "重すぎ?",
+      "language": "ja"
+    },
+    {
+      "start": 8.38,
+      "end": 9.46,
+      "text": "クッパが耐える",
+      "language": "ja"
+    },
+    {
+      "start": 9.46,
+      "end": 10.46,
+      "text": "上から帰って",
+      "language": "ja"
+    },
+    {
+      "start": 10.46,
+      "end": 11.18,
+      "text": "折れない",
+      "language": "ja"
+    },
+    {
+      "start": 11.18,
+      "end": 12.3,
+      "text": "許さない",
+      "language": "ja"
+    },
+    {
+      "start": 12.3,
+      "end": 13.34,
+      "text": "そして空後",
+      "language": "ja"
+    },
+    {
+      "start": 13.34,
+      "end": 13.86,
+      "text": "つま先",
+      "language": "ja"
+    }
+  ],
+  "full_text": "空後に合わせて空上 なんという択 掴みを通したドンキー 前に投げる 重すぎ? クッパが耐える 上から帰って 折れない 許さない そして空後 つま先",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "空中後ろに合わせて空中上",
+      "corrected": "空後に合わせて空上",
+      "rule": "abbreviation: 空中後ろ→空後, 空中上→空上"
+    },
+    {
+      "segment_idx": 1,
+      "original": "タク",
+      "corrected": "択",
+      "rule": "katakana→kanji: タク→択"
+    },
+    {
+      "segment_idx": 2,
+      "original": "ドンキ",
+      "corrected": "ドンキー",
+      "rule": "truncation: ドンキ→ドンキー"
+    },
+    {
+      "segment_idx": 9,
+      "original": "空中後ろ",
+      "corrected": "空後",
+      "rule": "abbreviation: 空中後ろ→空後"
+    }
+  ]
+}

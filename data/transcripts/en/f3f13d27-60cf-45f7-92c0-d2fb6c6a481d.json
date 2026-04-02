@@ -1,0 +1,33 @@
+{
+  "id": "f3f13d27-60cf-45f7-92c0-d2fb6c6a481d",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 7.12,
+      "text": "instant Nikita nairs through it but still man still getting hit back off stage still had time",
+      "language": "en"
+    },
+    {
+      "start": 7.12,
+      "end": 11.68,
+      "text": "to back air that looked like a pure retreat option from Chon but still saw an opportunity to get it",
+      "language": "en"
+    }
+  ],
+  "full_text": "instant Nikita nairs through it but still man still getting hit back off stage still had time to back air that looked like a pure retreat option from Chon but still saw an opportunity to get it",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "back her",
+      "corrected": "back air",
+      "rule": "smash term"
+    },
+    {
+      "segment_idx": 1,
+      "original": "chon",
+      "corrected": "Chon",
+      "rule": "player name capitalization"
+    }
+  ]
+}

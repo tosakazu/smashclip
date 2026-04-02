@@ -1,0 +1,27 @@
+{
+  "id": "c2bf0684-c1c7-4843-aa64-939f10f32ac0",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.44,
+      "text": "and tried to go for it up there i mean it was long lasting i get it but",
+      "language": "en"
+    },
+    {
+      "start": 4.44,
+      "end": 9.22,
+      "text": "if you can nair and kill off the side a little bit sooner just like that gets rewarded he",
+      "language": "en"
+    }
+  ],
+  "full_text": "and tried to go for it up there i mean it was long lasting i get it but if you can nair and kill off the side a little bit sooner just like that gets rewarded he",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "narrow",
+      "corrected": "nair",
+      "rule": "smash term (neutral air)"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "f3eb0683-d7ce-42cd-985f-68ce30cb1260",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.2,
+      "text": "So I was wondering, I can't see Glutonny's hands right now, but like, is he playing with the pro controller still?",
+      "language": "en"
+    },
+    {
+      "start": 6.08,
+      "end": 6.78,
+      "text": "Oh my.",
+      "language": "en"
+    },
+    {
+      "start": 8.14,
+      "end": 8.5,
+      "text": "Yeah.",
+      "language": "en"
+    }
+  ],
+  "full_text": "So I was wondering, I can't see Glutonny's hands right now, but like, is he playing with the pro controller still? Oh my. Yeah.",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "Glenny's",
+      "corrected": "Glutonny's",
+      "rule": "player name"
+    }
+  ]
+}

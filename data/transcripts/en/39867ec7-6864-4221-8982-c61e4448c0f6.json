@@ -1,0 +1,54 @@
+{
+  "id": "39867ec7-6864-4221-8982-c61e4448c0f6",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.16,
+      "text": "Landing those KOs!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "撃墜を通していきました"
+    },
+    {
+      "start": 1.16,
+      "end": 5.6,
+      "text": "Up tilt to up air",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "上強から空上"
+    },
+    {
+      "start": 5.6,
+      "end": 7.88,
+      "text": "Reads the airdodge with bair!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "回避を切ったところに対して空後"
+    },
+    {
+      "start": 7.88,
+      "end": 9.12,
+      "text": "Well, this is...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "んーこれは"
+    }
+  ],
+  "full_text": "Landing those KOs! Up tilt to up air Reads the airdodge with bair! Well, this is...",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "上京から空中へ",
+      "corrected": "上強から空上",
+      "rule": "上京→上強, 空中へ→空上"
+    },
+    {
+      "segment_idx": 2,
+      "original": "空中しろ",
+      "corrected": "空後",
+      "rule": "空中しろ→空後"
+    }
+  ]
+}

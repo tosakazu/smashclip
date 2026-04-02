@@ -1,0 +1,102 @@
+{
+  "id": "882322e2-02ea-4d61-b02d-3358fdbdcff1",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.62,
+      "text": "That could've been a KO!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "もしかしたら撃墜になったかもしれないですね"
+    },
+    {
+      "start": 1.62,
+      "end": 3.36,
+      "text": "Down tilt into fair!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "下強から空前"
+    },
+    {
+      "start": 3.36,
+      "end": 4.72,
+      "text": "Still no KO!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "まだ撃墜しない"
+    },
+    {
+      "start": 4.72,
+      "end": 7.92,
+      "text": "Still can't land it!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "まだ当てでバレル当たらない"
+    },
+    {
+      "start": 7.92,
+      "end": 9.36,
+      "text": "Roll getup!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "回避上がり確認"
+    },
+    {
+      "start": 9.36,
+      "end": 10.66,
+      "text": "Pulling back with forward tilt!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "引き横強"
+    },
+    {
+      "start": 10.66,
+      "end": 13.24,
+      "text": "No stocks, no stocks!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いやー資材がない資材がない"
+    },
+    {
+      "start": 13.24,
+      "end": 14.38,
+      "text": "Right here!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここ"
+    },
+    {
+      "start": 14.38,
+      "end": 15.34,
+      "text": "Oh no!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いやー"
+    },
+    {
+      "start": 15.34,
+      "end": 17.28,
+      "text": "Platform landing!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "スリップ台上着地を"
+    }
+  ],
+  "full_text": "That could've been a KO! Down tilt into fair! Still no KO! Still can't land it! Roll getup! Pulling back with forward tilt! No stocks, no stocks! Right here! Oh no! Platform landing!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "下強から空中衝動弾",
+      "corrected": "下強から空前",
+      "rule": "move name (空中衝動弾→空前)"
+    },
+    {
+      "segment_idx": 9,
+      "original": "スリップ大上着地を",
+      "corrected": "スリップ台上着地を",
+      "rule": "kanji homophone (大上→台上)"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "2db8c2ff-5a41-45d2-977d-d53b15a1375c",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.52,
+      "text": "いやもう当たりたくないですね",
+      "language": "ja"
+    },
+    {
+      "start": 1.52,
+      "end": 3.42,
+      "text": "浮かされるだけでヒヤッとしてしまいます",
+      "language": "ja"
+    },
+    {
+      "start": 3.42,
+      "end": 6.78,
+      "text": "上から",
+      "language": "ja"
+    },
+    {
+      "start": 6.78,
+      "end": 7.48,
+      "text": "うーわ",
+      "language": "ja"
+    }
+  ],
+  "full_text": "いやもう当たりたくないですね 浮かされるだけでヒヤッとしてしまいます 上から うーわ",
+  "detected_language": "ja",
+  "corrections": []
+}

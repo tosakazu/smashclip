@@ -1,0 +1,46 @@
+{
+  "id": "8af1ec5e-e9e3-4af9-a523-19f6531c42e5",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.1,
+      "text": "一気にラインを詰めていく",
+      "language": "ja"
+    },
+    {
+      "start": 1.1,
+      "end": 5.2,
+      "text": "ジャック",
+      "language": "ja"
+    },
+    {
+      "start": 5.2,
+      "end": 8.56,
+      "text": "マイルドなH.Oの推進力が",
+      "language": "ja"
+    },
+    {
+      "start": 8.56,
+      "end": 10.0,
+      "text": "止まらない",
+      "language": "ja"
+    },
+    {
+      "start": 10.0,
+      "end": 11.68,
+      "text": "ただここは",
+      "language": "ja"
+    },
+    {
+      "start": 11.68,
+      "end": 12.44,
+      "text": "下B置いてる",
+      "language": "ja"
+    }
+  ],
+  "full_text": "一気にラインを詰めていく ジャック マイルドなH.Oの推進力が 止まらない ただここは 下B置いてる",
+  "detected_language": "ja",
+  "corrections": [
+    "シザビー→下B (down special, Roy's counter)"
+  ]
+}

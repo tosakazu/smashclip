@@ -1,0 +1,51 @@
+{
+  "id": "2d5a7cd9-2e41-4135-96f7-cc69e54e8ba3",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.04,
+      "text": "ジャスガード",
+      "language": "ja"
+    },
+    {
+      "start": 1.04,
+      "end": 3.32,
+      "text": "まずは消して",
+      "language": "ja"
+    },
+    {
+      "start": 3.32,
+      "end": 7.32,
+      "text": "いやーここは追いきっていく",
+      "language": "ja"
+    },
+    {
+      "start": 7.32,
+      "end": 8.24,
+      "text": "素晴らしい撃墜",
+      "language": "ja"
+    },
+    {
+      "start": 8.24,
+      "end": 10.76,
+      "text": "さあゲームスリー",
+      "language": "ja"
+    }
+  ],
+  "full_text": "ジャスガード まずは消して いやーここは追いきっていく 素晴らしい撃墜 さあゲームスリー",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "ジャスコード",
+      "corrected": "ジャスガード",
+      "rule": "misheard: ジャスコード→ジャスガード"
+    },
+    {
+      "segment_idx": 2,
+      "original": "響きついていく",
+      "corrected": "追いきっていく",
+      "rule": "misheard: 響き→追いきって"
+    }
+  ]
+}

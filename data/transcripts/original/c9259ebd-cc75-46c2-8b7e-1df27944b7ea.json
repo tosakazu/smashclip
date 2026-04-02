@@ -1,0 +1,51 @@
+{
+  "id": "c9259ebd-cc75-46c2-8b7e-1df27944b7ea",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.74,
+      "text": "これはグッと前から避けている",
+      "language": "ja"
+    },
+    {
+      "start": 1.74,
+      "end": 4.8,
+      "text": "外側をうまく見て差し込んでダブズですね",
+      "language": "ja"
+    },
+    {
+      "start": 4.8,
+      "end": 8.26,
+      "text": "挑戦状というこの狭めのステージも",
+      "language": "ja"
+    },
+    {
+      "start": 8.26,
+      "end": 9.96,
+      "text": "ちょっとフォックスが有利に運びそうです",
+      "language": "ja"
+    }
+  ],
+  "full_text": "これはグッと前から避けている 外側をうまく見て差し込んでダブズですね 挑戦状というこの狭めのステージも ちょっとフォックスが有利に運びそうです",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "グッズ前",
+      "corrected": "グッと前",
+      "rule": "mishearing"
+    },
+    {
+      "segment_idx": 1,
+      "original": "出しこいてダブルアップ",
+      "corrected": "差し込んでダブズ",
+      "rule": "player name (Dabuz) + mishearing"
+    },
+    {
+      "segment_idx": 3,
+      "original": "リリー運びそう",
+      "corrected": "有利に運びそう",
+      "rule": "mishearing"
+    }
+  ]
+}

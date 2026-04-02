@@ -1,0 +1,57 @@
+{
+  "id": "c9af7cb7-7550-41af-82d8-52a8e44d500d",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.8,
+      "text": "That's a tough matchup",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "挑戦となります"
+    },
+    {
+      "start": 0.8,
+      "end": 4.38,
+      "text": "Also, that's pretty uncharacteristic for Roy",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "あと結構ロイじゃねえや"
+    },
+    {
+      "start": 4.38,
+      "end": 5.88,
+      "text": "I wonder if Steve has a bad image",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "スティーブで嫌なイメージがあるのかな"
+    },
+    {
+      "start": 5.88,
+      "end": 6.62,
+      "text": "Against Donkey Kong",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ドンキーに対して"
+    },
+    {
+      "start": 6.62,
+      "end": 9.24,
+      "text": "This is what they're going with",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これは連れていく"
+    },
+    {
+      "start": 9.24,
+      "end": 10.7,
+      "text": "Great play!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "うまい"
+    }
+  ],
+  "full_text": "That's a tough matchup. Also, that's pretty uncharacteristic for Roy. I wonder if Steve has a bad image. Against Donkey Kong. This is what they're going with. Great play!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

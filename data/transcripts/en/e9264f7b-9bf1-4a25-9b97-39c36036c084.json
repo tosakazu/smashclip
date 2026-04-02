@@ -1,0 +1,80 @@
+{
+  "id": "e9264f7b-9bf1-4a25-9b97-39c36036c084",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.44,
+      "text": "Building into strength!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "作って強化状態"
+    },
+    {
+      "start": 1.44,
+      "end": 3.72,
+      "text": "Steve's in a dominant state!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "スティーブが強力な状態になりました"
+    },
+    {
+      "start": 3.72,
+      "end": 6.16,
+      "text": "Riding the minecart in while—",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "トロッコを送り込みながら"
+    },
+    {
+      "start": 6.16,
+      "end": 7.7,
+      "text": "placing blocks, but—",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ブロックを挟みますが"
+    },
+    {
+      "start": 7.7,
+      "end": 9.2,
+      "text": "even the blocks still have risk",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そのブロックにやはりリスクがつく"
+    },
+    {
+      "start": 9.2,
+      "end": 10.32,
+      "text": "Steve breaks through!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "スタブが超えるぞ"
+    },
+    {
+      "start": 10.32,
+      "end": 11.0,
+      "text": "What is this?!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "なんだこれ"
+    },
+    {
+      "start": 11.0,
+      "end": 13.18,
+      "text": "And there's a huge down smash!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "その間強力な下スマだ"
+    }
+  ],
+  "full_text": "Building into strength! Steve's in a dominant state! Riding the minecart in while— placing blocks, but— even the blocks still have risk. Steve breaks through! What is this?! And there's a huge down smash!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 7,
+      "original": "その魔界強力なシネオスだ",
+      "corrected": "その間強力な下スマだ",
+      "rule": "misheard: シネオス→下スマ"
+    }
+  ]
+}

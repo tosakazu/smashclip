@@ -1,0 +1,57 @@
+{
+  "id": "56fbb64e-a973-493c-beee-2000a2e11718",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.44,
+      "text": "サイクロンの後隙横スマッシュで撃墜をとって",
+      "language": "ja"
+    },
+    {
+      "start": 3.44,
+      "end": 6.2,
+      "text": "両者ストックは2ストック横並び",
+      "language": "ja"
+    },
+    {
+      "start": 6.2,
+      "end": 6.78,
+      "text": "返りはする",
+      "language": "ja"
+    },
+    {
+      "start": 6.78,
+      "end": 8.3,
+      "text": "空下?空下?もう一発?",
+      "language": "ja"
+    },
+    {
+      "start": 8.4,
+      "end": 9.28,
+      "text": "返りはしない",
+      "language": "ja"
+    },
+    {
+      "start": 9.28,
+      "end": 11.72,
+      "text": "今のその下入力の",
+      "language": "ja"
+    }
+  ],
+  "full_text": "サイクロンの後隙横スマッシュで撃墜をとって 両者ストックは2ストック横並び 返りはする 空下?空下?もう一発? 返りはしない 今のその下入力の",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "サイクロンの右側ふすましで撃墜をとって",
+      "corrected": "サイクロンの後隙横スマッシュで撃墜をとって",
+      "rule": "misheard word"
+    },
+    {
+      "segment_idx": 3,
+      "original": "空射?空射?もう一発?",
+      "corrected": "空下?空下?もう一発?",
+      "rule": "misheard word (空射→空下)"
+    }
+  ]
+}

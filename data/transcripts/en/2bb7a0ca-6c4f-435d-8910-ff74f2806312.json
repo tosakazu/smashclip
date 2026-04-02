@@ -1,0 +1,62 @@
+{
+  "id": "2bb7a0ca-6c4f-435d-8910-ff74f2806312",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.64,
+      "text": "Waiting for the block to break before going in!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ブロックが砕けるのを待ってから攻め込む"
+    },
+    {
+      "start": 3.64,
+      "end": 7.26,
+      "text": "Lands the banana and airdodges!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "バナナを当てて回避して"
+    },
+    {
+      "start": 7.26,
+      "end": 8.66,
+      "text": "Doesn't get hit by the minecart!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "トロッコに当たることはない"
+    },
+    {
+      "start": 8.66,
+      "end": 9.8,
+      "text": "But ダイヤ with the bair!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "しかしダイヤの空後"
+    },
+    {
+      "start": 9.8,
+      "end": 12.36,
+      "text": "Down tilt punishes the mining endlag!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ダイヤ採掘の後隙を下強でとがめた"
+    }
+  ],
+  "full_text": "Waiting for the block to break before going in! Lands the banana and airdodges! Doesn't get hit by the minecart! But ダイヤ with the bair! Down tilt punishes the mining endlag!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 3,
+      "original": "しかしダイヤの空豪",
+      "corrected": "しかしダイヤの空後",
+      "rule": "kanji: 空豪→空後"
+    },
+    {
+      "segment_idx": 4,
+      "original": "ダイヤチャージの後付けを下強でとがめた",
+      "corrected": "ダイヤ採掘の後隙を下強でとがめた",
+      "rule": "misheard: チャージの後付け→採掘の後隙"
+    }
+  ]
+}

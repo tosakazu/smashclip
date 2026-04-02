@@ -1,0 +1,87 @@
+{
+  "id": "e8cd6179-bf31-4365-a2dc-bcba5e601256",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.0,
+      "text": "回避を取った。さあ、中央。バナナが欲しいが、それに許さないTweek。",
+      "language": "ja"
+    },
+    {
+      "start": 5.0,
+      "end": 10.0,
+      "text": "崖の時間が長い。いやー、崖が長い。",
+      "language": "ja"
+    },
+    {
+      "start": 10.0,
+      "end": 14.0,
+      "text": "反対に行くと見せかけて。そうですね。この駆け引きも必要。",
+      "language": "ja"
+    },
+    {
+      "start": 14.0,
+      "end": 19.0,
+      "text": "飛ばない。さあ、バナナを我慢している。あくまで堅実なルーティン。",
+      "language": "ja"
+    },
+    {
+      "start": 19.0,
+      "end": 22.0,
+      "text": "まずは、まずは触れたいという、そんな姿勢でしょう。",
+      "language": "ja"
+    },
+    {
+      "start": 22.0,
+      "end": 25.0,
+      "text": "ジャストシールドの、どうだ、ナイスバック。",
+      "language": "ja"
+    },
+    {
+      "start": 25.0,
+      "end": 28.0,
+      "text": "空前、できない。",
+      "language": "ja"
+    },
+    {
+      "start": 28.0,
+      "end": 30.0,
+      "text": "ま、",
+      "language": "ja"
+    }
+  ],
+  "full_text": "回避を取った。さあ、中央。バナナが欲しいが、それに許さないTweek。 崖の時間が長い。いやー、崖が長い。 反対に行くと見せかけて。そうですね。この駆け引きも必要。 飛ばない。さあ、バナナを我慢している。あくまで堅実なルーティン。 まずは、まずは触れたいという、そんな姿勢でしょう。 ジャストシールドの、どうだ、ナイスバック。 空前、できない。 ま、",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "トラビギ",
+      "corrected": "Tweek",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 2,
+      "original": "このタコも必要",
+      "corrected": "この駆け引きも必要",
+      "rule": "misheard"
+    },
+    {
+      "segment_idx": 3,
+      "original": "見事なルール",
+      "corrected": "堅実なルーティン",
+      "rule": "misheard"
+    },
+    {
+      "segment_idx": 5,
+      "original": "ジャスタイル",
+      "corrected": "ジャストシールド",
+      "rule": "misheard: ジャスタイル→ジャストシールド"
+    },
+    {
+      "segment_idx": 6,
+      "original": "クッション",
+      "corrected": "空前",
+      "rule": "misheard: クッション→空前"
+    }
+  ]
+}

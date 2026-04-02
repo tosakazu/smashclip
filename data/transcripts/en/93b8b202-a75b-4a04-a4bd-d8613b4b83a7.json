@@ -1,0 +1,27 @@
+{
+  "id": "93b8b202-a75b-4a04-a4bd-d8613b4b83a7",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.14,
+      "text": "Somebody that said, if Game & Watch gets touched, he dies, and that is exactly what happened right there, right?",
+      "language": "en"
+    },
+    {
+      "start": 5.34,
+      "end": 13.24,
+      "text": "That's what said, give or take, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no.",
+      "language": "en"
+    }
+  ],
+  "full_text": "Somebody that said, if Game & Watch gets touched, he dies, and that is exactly what happened right there, right? That's what said, give or take, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no.",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "gets such",
+      "corrected": "gets touched",
+      "rule": "misheard word"
+    }
+  ]
+}

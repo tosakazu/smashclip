@@ -1,0 +1,38 @@
+{
+  "id": "7fa6ca27-fcf5-4418-a25a-9f74220e725f",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.74,
+      "text": "うますぎー",
+      "language": "ja"
+    },
+    {
+      "start": 1.74,
+      "end": 3.06,
+      "text": "おり空中へ",
+      "language": "ja"
+    },
+    {
+      "start": 3.06,
+      "end": 4.64,
+      "text": "スピンの足元を拾う",
+      "language": "ja"
+    },
+    {
+      "start": 4.64,
+      "end": 7.68,
+      "text": "反対側に横強出ちゃった",
+      "language": "ja"
+    },
+    {
+      "start": 7.68,
+      "end": 8.4,
+      "text": "パワー",
+      "language": "ja"
+    }
+  ],
+  "full_text": "うますぎー おり空中へ スピンの足元を拾う 反対側に横強出ちゃった パワー",
+  "detected_language": "ja",
+  "corrections": []
+}

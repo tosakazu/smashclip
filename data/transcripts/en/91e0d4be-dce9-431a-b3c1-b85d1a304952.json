@@ -1,0 +1,45 @@
+{
+  "id": "91e0d4be-dce9-431a-b3c1-b85d1a304952",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.5,
+      "text": "Oh, oh, he's looking, he's looking, he's looking for the air dodge.",
+      "language": "en"
+    },
+    {
+      "start": 2.58,
+      "end": 6.84,
+      "text": "He wanted it so bad, one dare right here, potentially he couldn't find it.",
+      "language": "en"
+    },
+    {
+      "start": 7.06,
+      "end": 9.06,
+      "text": "Is there a Cross Slash coming? Incredible move!",
+      "language": "en"
+    },
+    {
+      "start": 9.46,
+      "end": 11.34,
+      "text": "Well we got the dash attack, and that's gonna...",
+      "language": "en"
+    }
+  ],
+  "full_text": "Oh, oh, he's looking, he's looking, he's looking for the air dodge. He wanted it so bad, one dare right here, potentially he couldn't find it. Is there a Cross Slash coming? Incredible move! Well we got the dash attack, and that's gonna...",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "cross flash",
+      "corrected": "Cross Slash",
+      "rule": "move name"
+    },
+    {
+      "segment_idx": 2,
+      "original": "Invisible move",
+      "corrected": "Incredible move",
+      "rule": "misheard word"
+    }
+  ]
+}

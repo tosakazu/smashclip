@@ -1,0 +1,100 @@
+{
+  "id": "934c2fb7-3dea-4515-931b-f2a3a929035c",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.8,
+      "text": "Up tilt connects!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあしかし上強が取った"
+    },
+    {
+      "start": 1.8,
+      "end": 2.72,
+      "text": "High damage output!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "こちらも高火力"
+    },
+    {
+      "start": 2.72,
+      "end": 4.92,
+      "text": "Chains into up air!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空上まで繋いで"
+    },
+    {
+      "start": 4.92,
+      "end": 6.44,
+      "text": "And it keeps going!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "なんとその先を行く"
+    },
+    {
+      "start": 6.44,
+      "end": 8.64,
+      "text": "Falco's outdamaging Enderman!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "エンダーマンより火力が出るファルコ"
+    },
+    {
+      "start": 8.64,
+      "end": 10.14,
+      "text": "Forward smash too!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "横スマッシュも振っちゃって"
+    },
+    {
+      "start": 10.14,
+      "end": 11.94,
+      "text": "Up tilt into dair!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "上強空下"
+    },
+    {
+      "start": 11.94,
+      "end": 12.8,
+      "text": "Gets the tech!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "受け身を取って"
+    },
+    {
+      "start": 12.8,
+      "end": 14.74,
+      "text": "Finishes it!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "その後追い切った"
+    }
+  ],
+  "full_text": "Up tilt connects! High damage output! Chains into up air! And it keeps going! Falco's outdamaging Enderman! Forward smash too! Up tilt into dair! Gets the tech! Finishes it!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "上京が取った",
+      "corrected": "上強が取った",
+      "rule": "kanji homophone (上京→上強)"
+    },
+    {
+      "segment_idx": 2,
+      "original": "宇宙城まで繋いで",
+      "corrected": "空上まで繋いで",
+      "rule": "move name (宇宙城→空上)"
+    },
+    {
+      "segment_idx": 6,
+      "original": "上京空中した",
+      "corrected": "上強空下",
+      "rule": "kanji homophone + move abbreviation"
+    }
+  ]
+}

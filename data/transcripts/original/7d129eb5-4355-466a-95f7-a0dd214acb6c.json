@@ -1,0 +1,33 @@
+{
+  "id": "7d129eb5-4355-466a-95f7-a0dd214acb6c",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.68,
+      "text": "いやーそうなんだね 掴めないですよねあれ",
+      "language": "ja"
+    },
+    {
+      "start": 1.68,
+      "end": 7.48,
+      "text": "イリュージョンから先ほど見た展開ですが 空下の暴れが通ります",
+      "language": "ja"
+    },
+    {
+      "start": 7.48,
+      "end": 10.78,
+      "text": "いやーただの技で上スマッシュさあ",
+      "language": "ja"
+    }
+  ],
+  "full_text": "いやーそうなんだね 掴めないですよねあれ イリュージョンから先ほど見た展開ですが 空下の暴れが通ります いやーただの技で上スマッシュさあ",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "フィリュージョン",
+      "corrected": "イリュージョン",
+      "rule": "misheard: フィリュージョン→イリュージョン (Fox's side B)"
+    }
+  ]
+}

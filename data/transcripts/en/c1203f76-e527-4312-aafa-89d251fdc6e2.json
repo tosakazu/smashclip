@@ -1,0 +1,98 @@
+{
+  "id": "c1203f76-e527-4312-aafa-89d251fdc6e2",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.34,
+      "text": "From the parry",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ジャストシールドから"
+    },
+    {
+      "start": 2.34,
+      "end": 3.16,
+      "text": "Dash up tilt",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ダッシュ上強"
+    },
+    {
+      "start": 3.16,
+      "end": 7.5,
+      "text": "Up air spaced slightly away from opponent",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "若干相手と離れる間合いの空中上だったんで"
+    },
+    {
+      "start": 7.5,
+      "end": 8.58,
+      "text": "Parry",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ジャストシールド"
+    },
+    {
+      "start": 8.58,
+      "end": 10.2,
+      "text": "Can't confirm the punish",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "とっても反確が難しいという判断"
+    },
+    {
+      "start": 10.2,
+      "end": 12.48,
+      "text": "Can't link up tilt into up air anymore",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "上強から空中上もう繋がらないか"
+    },
+    {
+      "start": 12.48,
+      "end": 14.02,
+      "text": "Cut in",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "切り込んできた"
+    },
+    {
+      "start": 14.02,
+      "end": 16.92,
+      "text": "Both at bad kill percents, first to commit",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "お互い撃墜%嫌なところ先に動く"
+    }
+  ],
+  "full_text": "From the parry Dash up tilt Up air spaced slightly away from opponent Parry Can't confirm the punish Can't link up tilt into up air anymore Cut in Both at bad kill percents, first to commit",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "ゾンビと離れる感性の空中ショー",
+      "corrected": "相手と離れる間合いの空中上",
+      "rule": "smash term + misheard"
+    },
+    {
+      "segment_idx": 4,
+      "original": "反覚が難しい",
+      "corrected": "反確が難しい",
+      "rule": "smash term"
+    },
+    {
+      "segment_idx": 5,
+      "original": "空中ショーもう繋がらないか",
+      "corrected": "空中上もう繋がらないか",
+      "rule": "smash term"
+    },
+    {
+      "segment_idx": 7,
+      "original": "ゼロ系嫌なところ",
+      "corrected": "撃墜%嫌なところ",
+      "rule": "misheard word"
+    }
+  ]
+}

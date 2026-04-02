@@ -1,0 +1,39 @@
+{
+  "id": "fb0f08ea-edae-4450-b804-1fee86ee153e",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.72,
+      "text": "Didn't happen. Chon could have potentially connected an up air there.",
+      "language": "en"
+    },
+    {
+      "start": 4.06,
+      "end": 6.02,
+      "text": "Didn't quite react in time.",
+      "language": "en"
+    },
+    {
+      "start": 6.9,
+      "end": 11.0,
+      "text": "Oh my gosh. And finally throwing out a grab in that situation.",
+      "language": "en"
+    },
+    {
+      "start": 11.94,
+      "end": 13.8,
+      "text": "To the sky. Landing.",
+      "language": "en"
+    }
+  ],
+  "full_text": "Didn't happen. Chon could have potentially connected an up air there. Didn't quite react in time. Oh my gosh. And finally throwing out a grab in that situation. To the sky. Landing.",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "Sean",
+      "corrected": "Chon",
+      "rule": "player name"
+    }
+  ]
+}

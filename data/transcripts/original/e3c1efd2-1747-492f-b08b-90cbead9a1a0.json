@@ -1,0 +1,39 @@
+{
+  "id": "e3c1efd2-1747-492f-b08b-90cbead9a1a0",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.02,
+      "text": "to get them, Matador it's doing a phenomenal job at pushing Spargo i mean right now in terms of",
+      "language": "en"
+    },
+    {
+      "start": 6.02,
+      "end": 10.86,
+      "text": "percentage it's not looking too far i mean you can still do it but unfortunately the one two three jab",
+      "language": "en"
+    },
+    {
+      "start": 10.86,
+      "end": 11.4,
+      "text": "will",
+      "language": "en"
+    }
+  ],
+  "full_text": "to get them Matador it's doing a phenomenal job at pushing Spargo i mean right now in terms of percentage it's not looking too far i mean you can still do it but unfortunately the one two three jab will",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "to get them matador",
+      "corrected": "to get them, Matador",
+      "rule": "player name: Mata(Zero Suit Samus) referred to as Matador"
+    },
+    {
+      "segment_idx": 1,
+      "original": "the one two three job",
+      "corrected": "the one two three jab",
+      "rule": "misheard: jab"
+    }
+  ]
+}

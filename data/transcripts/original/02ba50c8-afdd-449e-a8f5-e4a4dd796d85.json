@@ -1,0 +1,33 @@
+{
+  "id": "02ba50c8-afdd-449e-a8f5-e4a4dd796d85",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 8.56,
+      "text": "押しここで通していったのが本命 Tweek ストック23リードを奪います",
+      "language": "ja"
+    },
+    {
+      "start": 8.56,
+      "end": 14.88,
+      "text": "その変更素晴らしいですね 本当に安定しますねあれ引っかかり始めたらそれこそ対DDめちゃくちゃ難しいなんですが",
+      "language": "ja"
+    },
+    {
+      "start": 14.88,
+      "end": 17.72,
+      "text": "ここで突破した",
+      "language": "ja"
+    }
+  ],
+  "full_text": "押しここで通していったのが本命 Tweek ストック23リードを奪います その変更素晴らしいですね 本当に安定しますねあれ引っかかり始めたらそれこそ対DDめちゃくちゃ難しいなんですが ここで突破した",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "本命たけ",
+      "corrected": "本命 Tweek",
+      "rule": "player name"
+    }
+  ]
+}

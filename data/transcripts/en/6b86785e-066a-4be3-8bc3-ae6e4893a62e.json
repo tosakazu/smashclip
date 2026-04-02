@@ -1,0 +1,33 @@
+{
+  "id": "6b86785e-066a-4be3-8bc3-ae6e4893a62e",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.44,
+      "text": "What was that?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "んー、今のは何だ?"
+    },
+    {
+      "start": 1.44,
+      "end": 2.44,
+      "text": "Is he open?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "開いてんのかな?"
+    },
+    {
+      "start": 4.24,
+      "end": 5.16,
+      "text": "Huh?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "えーと?"
+    }
+  ],
+  "full_text": "What was that? Is he open? Huh?",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

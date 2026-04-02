@@ -1,0 +1,100 @@
+{
+  "id": "17ea6306-30e4-4fb6-bbbf-3ac10f1768e7",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.62,
+      "text": "Purple and blue",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "紫と青"
+    },
+    {
+      "start": 2.62,
+      "end": 3.66,
+      "text": "Don't want to get grabbed",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "捕まれたくない"
+    },
+    {
+      "start": 3.66,
+      "end": 4.84,
+      "text": "Can't let that attack through",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "攻撃を通されたくない"
+    },
+    {
+      "start": 4.84,
+      "end": 6.42,
+      "text": "But backing up with the fair here",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "だがここは引いて空前"
+    },
+    {
+      "start": 6.42,
+      "end": 7.66,
+      "text": "That ledge defense is strong",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "崖での防御力の高さ"
+    },
+    {
+      "start": 7.66,
+      "end": 8.46,
+      "text": "Wings are out!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "羽が生えた"
+    },
+    {
+      "start": 8.46,
+      "end": 10.36,
+      "text": "That's Sephiroth's strength",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "セフィロスの強いところです"
+    },
+    {
+      "start": 10.36,
+      "end": 13.38,
+      "text": "Low bair here",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここは最低空で空後"
+    },
+    {
+      "start": 13.38,
+      "end": 13.72,
+      "text": "Delay",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ディレイ"
+    }
+  ],
+  "full_text": "Purple and blue Don't want to get grabbed Can't let that attack through But backing up with the fair here That ledge defense is strong Wings are out! That's Sephiroth's strength Low bair here Delay",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 3,
+      "original": "だがここは引いて空中前",
+      "corrected": "だがここは引いて空前",
+      "rule": "Move abbreviation: 空中前→空前"
+    },
+    {
+      "segment_idx": 6,
+      "original": "セヒロスの強いところです",
+      "corrected": "セフィロスの強いところです",
+      "rule": "Character name: セヒロス→セフィロス"
+    },
+    {
+      "segment_idx": 7,
+      "original": "ここは最低空で空中後ろ",
+      "corrected": "ここは最低空で空後",
+      "rule": "Move abbreviation: 空中後ろ→空後"
+    }
+  ]
+}

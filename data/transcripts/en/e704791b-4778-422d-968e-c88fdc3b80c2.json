@@ -1,0 +1,64 @@
+{
+  "id": "e704791b-4778-422d-968e-c88fdc3b80c2",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.56,
+      "text": "that's it, right?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ってことですよね"
+    },
+    {
+      "start": 0.56,
+      "end": 7.06,
+      "text": "spin comes out!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "スピンが抜ける"
+    },
+    {
+      "start": 7.06,
+      "end": 9.16,
+      "text": "Oh! On the platform!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "おっと台の上にいた"
+    },
+    {
+      "start": 9.16,
+      "end": 10.76,
+      "text": "forward smash right after!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "引っこ抜いた直後に横スマッシュ"
+    },
+    {
+      "start": 10.76,
+      "end": 12.14,
+      "text": "throw!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "投げだったり"
+    },
+    {
+      "start": 12.14,
+      "end": 12.44,
+      "text": "that!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "今の"
+    }
+  ],
+  "full_text": "that's it, right? spin comes out! Oh! On the platform! forward smash right after! throw! that!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 4,
+      "original": "投げたったり",
+      "corrected": "投げだったり",
+      "rule": "misheard"
+    }
+  ]
+}

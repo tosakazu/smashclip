@@ -1,0 +1,38 @@
+{
+  "id": "884859b9-e939-43d6-a31c-d8ee7a08f134",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 7.16,
+      "text": "Yeah, exactly - Sonic's been pressuring this whole time, but Calimero hasn't landed a single punish",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いやそうなんですよねここまでソニックが触っているのにカルメロがリターンの高い行動を一つも当てられていないという"
+    },
+    {
+      "start": 7.16,
+      "end": 8.54,
+      "text": "And then the nair—",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そして空Nが"
+    }
+  ],
+  "full_text": "Yeah, exactly - Sonic's been pressuring this whole time, but Calimero hasn't landed a single punish And then the nair—",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "コード",
+      "corrected": "行動",
+      "rule": "misheard word (コード→行動)"
+    },
+    {
+      "segment_idx": 1,
+      "original": "クーチンが",
+      "corrected": "空Nが",
+      "rule": "move name (クーチンが→空Nが)"
+    }
+  ]
+}

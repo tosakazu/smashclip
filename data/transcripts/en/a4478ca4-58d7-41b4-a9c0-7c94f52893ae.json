@@ -1,0 +1,26 @@
+{
+  "id": "a4478ca4-58d7-41b4-a9c0-7c94f52893ae",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.04,
+      "text": "I know, that's a new one.",
+      "language": "en"
+    },
+    {
+      "start": 2.0,
+      "end": 3.64,
+      "text": "It's a good option if you just want to get them all.",
+      "language": "en"
+    },
+    {
+      "start": 4.08,
+      "end": 7.96,
+      "text": "Inkling famously can't kill, so we're going to see if Inkling is able to pull some of that.",
+      "language": "en"
+    }
+  ],
+  "full_text": "I know, that's a new one. It's a good option if you just want to get them all. Inkling famously can't kill, so we're going to see if Inkling is able to pull some of that.",
+  "detected_language": "en",
+  "corrections": []
+}

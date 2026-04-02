@@ -1,0 +1,126 @@
+{
+  "id": "5c4294df-2eee-4295-8cd8-df45dc18b13e",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.64,
+      "text": "Got caught by the final smash!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "超必をくらってしまうなこれは"
+    },
+    {
+      "start": 1.64,
+      "end": 3.08,
+      "text": "Riddles isn't running to the ledge",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "Riddlesが端に逃げなくて"
+    },
+    {
+      "start": 3.08,
+      "end": 4.4,
+      "text": "And fighting center stage too",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "中央で戦ってるっていうのもね"
+    },
+    {
+      "start": 4.4,
+      "end": 5.32,
+      "text": "Totally that's it",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "完全にそれですよね"
+    },
+    {
+      "start": 5.32,
+      "end": 5.58,
+      "text": "Yeah",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "うん"
+    },
+    {
+      "start": 5.58,
+      "end": 6.82,
+      "text": "Just needs to avoid the KO",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "撃墜されなければいい"
+    },
+    {
+      "start": 6.82,
+      "end": 8.02,
+      "text": "Yeah yeah yeah",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そうそうそう"
+    },
+    {
+      "start": 8.02,
+      "end": 9.56,
+      "text": "Alright, 162",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあ162"
+    },
+    {
+      "start": 9.56,
+      "end": 10.14,
+      "text": "That's insane",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "やばすぎ"
+    },
+    {
+      "start": 10.14,
+      "end": 11.26,
+      "text": "Oh man, that's nice!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "あー面白い"
+    },
+    {
+      "start": 11.26,
+      "end": 13.02,
+      "text": "Tried the spacing and it caught!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "横距離差し返そうとしたら引っかかるか"
+    },
+    {
+      "start": 13.02,
+      "end": 13.3,
+      "text": "I see",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "なるほど"
+    },
+    {
+      "start": 13.3,
+      "end": 13.72,
+      "text": "Alright",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあ"
+    }
+  ],
+  "full_text": "Got caught by the final smash! Riddles isn't running to the ledge And fighting center stage too Totally that's it Yeah Just needs to avoid the KO Yeah yeah yeah Alright, 162 That's insane Oh man, that's nice! Tried the spacing and it caught! I see Alright",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "チョヒー",
+      "corrected": "超必",
+      "rule": "kanji homophone"
+    },
+    {
+      "segment_idx": 1,
+      "original": "リドレス",
+      "corrected": "Riddles",
+      "rule": "player name"
+    }
+  ]
+}

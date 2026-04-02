@@ -1,0 +1,48 @@
+{
+  "id": "93d70727-35ef-4135-bd15-4d39fb69cccd",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.86,
+      "text": "Here comes Inglis, rushing in aggressively!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあイングリッツいきなり目の前に前を詰めてきた"
+    },
+    {
+      "start": 2.86,
+      "end": 3.82,
+      "text": "Straight approach!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "まっすぐやろ"
+    },
+    {
+      "start": 3.82,
+      "end": 8.42,
+      "text": "Takes it and counters with an up smash!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "捨て身で耐えて上スマッシュで拳突き上げ"
+    },
+    {
+      "start": 8.42,
+      "end": 10.08,
+      "text": "Gets the KO!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "撃墜を通す"
+    }
+  ],
+  "full_text": "Here comes Inglis, rushing in aggressively! Straight approach! Takes it and counters with an up smash! Gets the KO!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "ステビンが耐えて上スマッシュでへっこぶし突き上げ",
+      "corrected": "捨て身で耐えて上スマッシュで拳突き上げ",
+      "rule": "misheard word"
+    }
+  ]
+}

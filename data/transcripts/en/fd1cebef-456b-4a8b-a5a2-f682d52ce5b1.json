@@ -1,0 +1,48 @@
+{
+  "id": "fd1cebef-456b-4a8b-a5a2-f682d52ce5b1",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.38,
+      "text": "Counter!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "反撃"
+    },
+    {
+      "start": 0.38,
+      "end": 5.54,
+      "text": "By landing that counter,",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "この反撃を取ったことによって"
+    },
+    {
+      "start": 5.54,
+      "end": 7.24,
+      "text": "he successfully activated Arsene!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "アルセーヌを呼び出すことに成功"
+    },
+    {
+      "start": 7.24,
+      "end": 9.98,
+      "text": "and got his opponent slightly overcommitted!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ザクレイをやや前のめりにさせて"
+    }
+  ],
+  "full_text": "Counter! By landing that counter, he successfully activated Arsene! and got his opponent slightly overcommitted!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "R性能を呼び出す",
+      "corrected": "アルセーヌを呼び出す",
+      "rule": "misheard: R性能→アルセーヌ (Joker's Arsene)"
+    }
+  ]
+}

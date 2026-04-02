@@ -1,0 +1,72 @@
+{
+  "id": "3b1f09f7-1800-426c-95a0-37e89f41c8cc",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.12,
+      "text": "Alright, with DK that heavy and Pokemon Stadium 2 that wide...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあ、ドンキーコングの重さとポケモンスタジアム2の横の広さなら"
+    },
+    {
+      "start": 3.12,
+      "end": 4.32,
+      "text": "What!?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "えぇ!?"
+    },
+    {
+      "start": 4.32,
+      "end": 5.42,
+      "text": "What!?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "えぇ!?"
+    },
+    {
+      "start": 5.42,
+      "end": 6.54,
+      "text": "I mean...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "あ、まあさすがに"
+    },
+    {
+      "start": 6.54,
+      "end": 7.44,
+      "text": "What? What?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "え?え?"
+    },
+    {
+      "start": 7.86,
+      "end": 8.48,
+      "text": "What's...?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "なに?なんか"
+    },
+    {
+      "start": 8.48,
+      "end": 9.96,
+      "text": "Whoa, he almost didn't grab the ledge!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "わーちょっと崖を掴まない"
+    }
+  ],
+  "full_text": "Alright, with DK that heavy and Pokemon Stadium 2 that wide... What!? What!? I mean... What? What? What's...? Whoa, he almost didn't grab the ledge!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 6,
+      "original": "崖をつかない",
+      "corrected": "崖を掴まない",
+      "rule": "misheard word"
+    }
+  ]
+}

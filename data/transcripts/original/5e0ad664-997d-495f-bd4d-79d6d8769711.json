@@ -1,0 +1,27 @@
+{
+  "id": "5e0ad664-997d-495f-bd4d-79d6d8769711",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.4,
+      "text": "だがもういろいろ怖いいろいろ怖い",
+      "language": "ja"
+    },
+    {
+      "start": 5.4,
+      "end": 9.94,
+      "text": "崖に一旦行くがその場上がりを横強で狩って",
+      "language": "ja"
+    }
+  ],
+  "full_text": "だがもういろいろ怖いいろいろ怖い 崖に一旦行くがその場上がりを横強で狩って",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "その場を横強で勝って",
+      "corrected": "その場上がりを横強で狩って",
+      "rule": "smash term (崖上がり狩り)"
+    }
+  ]
+}

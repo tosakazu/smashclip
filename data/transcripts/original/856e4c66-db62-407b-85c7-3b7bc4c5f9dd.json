@@ -1,0 +1,44 @@
+{
+  "id": "856e4c66-db62-407b-85c7-3b7bc4c5f9dd",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.54,
+      "text": "素晴らしいね",
+      "language": "ja"
+    },
+    {
+      "start": 4.54,
+      "end": 6.64,
+      "text": "結局こういうところだよな",
+      "language": "ja"
+    },
+    {
+      "start": 6.64,
+      "end": 8.6,
+      "text": "自分の思うように",
+      "language": "ja"
+    },
+    {
+      "start": 8.6,
+      "end": 10.38,
+      "text": "どんだけキャラ動かせるかが",
+      "language": "ja"
+    },
+    {
+      "start": 10.38,
+      "end": 12.26,
+      "text": "やっぱ大部分占めると思うわこのゲーム",
+      "language": "ja"
+    },
+    {
+      "start": 12.26,
+      "end": 14.18,
+      "text": "痛い",
+      "language": "ja"
+    }
+  ],
+  "full_text": "素晴らしいね 結局こういうところだよな 自分の思うように どんだけキャラ動かせるかが やっぱ大部分占めると思うわこのゲーム 痛い",
+  "detected_language": "ja",
+  "corrections": []
+}

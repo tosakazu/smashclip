@@ -1,0 +1,41 @@
+{
+  "id": "27dfe9bb-9320-4d89-897c-74ddd95fc31c",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.66,
+      "text": "Even with that kind of player precision",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ああいったところでも本当にプレイヤーの精度でもって"
+    },
+    {
+      "start": 3.66,
+      "end": 8.6,
+      "text": "They're looking to perfect their matchups against Steve, Alex, and Raricus",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "対スティーブ、対アレックス、ラリックスを完成させようという構えです"
+    },
+    {
+      "start": 8.6,
+      "end": 10.46,
+      "text": "And with that",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあそれもあって"
+    },
+    {
+      "start": 10.46,
+      "end": 12.54,
+      "text": "Bair!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "わーっと空後"
+    }
+  ],
+  "full_text": "Even with that kind of player precision They're looking to perfect their matchups against Steve, Alex, and Raricus And with that Bair!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

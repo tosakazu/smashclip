@@ -1,0 +1,44 @@
+{
+  "id": "f9205721-71bd-479e-88a7-a9841cad0155",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.62,
+      "text": "お互いに何か",
+      "language": "ja"
+    },
+    {
+      "start": 1.62,
+      "end": 2.92,
+      "text": "危なかった",
+      "language": "ja"
+    },
+    {
+      "start": 2.92,
+      "end": 6.14,
+      "text": "内側から返ってきて",
+      "language": "ja"
+    },
+    {
+      "start": 6.14,
+      "end": 7.44,
+      "text": "着地を見逃しません",
+      "language": "ja"
+    },
+    {
+      "start": 7.44,
+      "end": 8.6,
+      "text": "これは",
+      "language": "ja"
+    },
+    {
+      "start": 8.6,
+      "end": 9.92,
+      "text": "あ",
+      "language": "ja"
+    }
+  ],
+  "full_text": "お互いに何か 危なかった 内側から返ってきて 着地を見逃しません これは あ",
+  "detected_language": "ja",
+  "corrections": []
+}

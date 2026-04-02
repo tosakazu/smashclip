@@ -1,0 +1,162 @@
+{
+  "id": "ef0648f3-feba-4da4-a8ff-139aa18fa5bf",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.7,
+      "text": "Whoa!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "おー"
+    },
+    {
+      "start": 2.7,
+      "end": 5.26,
+      "text": "Still pursuing even after the trade!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "相打ちでも追いかけてくる"
+    },
+    {
+      "start": 5.26,
+      "end": 5.8,
+      "text": "Luigi",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ルイージ"
+    },
+    {
+      "start": 5.8,
+      "end": 8.36,
+      "text": "103",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "103"
+    },
+    {
+      "start": 8.36,
+      "end": 10.72,
+      "text": "Whoa!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "おー"
+    },
+    {
+      "start": 10.72,
+      "end": 11.82,
+      "text": "Spacing on the edge!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ギリギリの間合い"
+    },
+    {
+      "start": 11.82,
+      "end": 14.82,
+      "text": "Being able to stay right at the edge of the opponent's range...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "やはり相手の間合いのギリギリを行けるのは"
+    },
+    {
+      "start": 14.82,
+      "end": 16.44,
+      "text": "That's Glutony's specialty!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "グラトニーの専売特許"
+    },
+    {
+      "start": 16.44,
+      "end": 18.96,
+      "text": "That was scary, but Link's here!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "相当怖かったがここはリンク"
+    },
+    {
+      "start": 18.96,
+      "end": 20.74,
+      "text": "The hero shows his power!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "英雄の力を見せたか"
+    },
+    {
+      "start": 20.74,
+      "end": 22.8,
+      "text": "Using nair while...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空中Nを撃ちながら"
+    },
+    {
+      "start": 22.8,
+      "end": 23.96,
+      "text": "Creating distance!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "距離を離し"
+    },
+    {
+      "start": 23.96,
+      "end": 26.96,
+      "text": "He's looking— throwing it!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "見てるー投げているのはらるー"
+    },
+    {
+      "start": 26.96,
+      "end": 27.94,
+      "text": "That's the kill!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これは撃墜"
+    },
+    {
+      "start": 27.94,
+      "end": 29.98,
+      "text": "It connects!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "届いているー"
+    },
+    {
+      "start": 29.98,
+      "end": 30.4,
+      "text": "Whoa!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "おー"
+    }
+  ],
+  "full_text": "Whoa! Still pursuing even after the trade! Luigi 103 Whoa! Spacing on the edge! Being able to stay right at the edge of the opponent's range... That's Glutony's specialty! That was scary, but Link's here! The hero shows his power! Using nair while... Creating distance! He's looking— throwing it! That's the kill! It connects! Whoa!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 7,
+      "original": "ウラトリーの先輩特許",
+      "corrected": "グラトニーの専売特許",
+      "rule": "player name + misheard: ウラトリー→グラトニー, 先輩特許→専売特許"
+    },
+    {
+      "segment_idx": 10,
+      "original": "空中に撃たながら",
+      "corrected": "空中Nを撃ちながら",
+      "rule": "misheard: 空中に→空中N"
+    },
+    {
+      "segment_idx": 11,
+      "original": "距離を剥がし",
+      "corrected": "距離を離し",
+      "rule": "misheard"
+    },
+    {
+      "segment_idx": 12,
+      "original": "ラルー",
+      "corrected": "らるー",
+      "rule": "player name"
+    }
+  ]
+}

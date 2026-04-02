@@ -1,0 +1,89 @@
+{
+  "id": "56ba853c-ff2f-47c2-b674-3359bed4e072",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "He's cracked! He's so cracked!",
+      "language": "en",
+      "original_language": "es",
+      "original_text": "¡Él es vener! ¡Él es muy vener!"
+    },
+    {
+      "start": 2.0,
+      "end": 3.0,
+      "text": "He's so cracked!",
+      "language": "en",
+      "original_language": "es",
+      "original_text": "¡Él es muy vener!"
+    },
+    {
+      "start": 3.0,
+      "end": 4.0,
+      "text": "He's making anything work!",
+      "language": "en",
+      "original_language": "es",
+      "original_text": "¡Él hace cualquier cosa!"
+    },
+    {
+      "start": 4.0,
+      "end": 6.0,
+      "text": "He's doing something wild!",
+      "language": "en",
+      "original_language": "es",
+      "original_text": "Está haciendo no sé qué."
+    },
+    {
+      "start": 6.0,
+      "end": 7.0,
+      "text": "Yeah.",
+      "language": "en",
+      "original_language": "es",
+      "original_text": "Bueno."
+    },
+    {
+      "start": 7.0,
+      "end": 8.0,
+      "text": "What's Ani doing?",
+      "language": "en",
+      "original_language": "es",
+      "original_text": "¿Qué hace Ani?"
+    },
+    {
+      "start": 8.0,
+      "end": 12.0,
+      "text": "Watch out, watch out—this could be huge for Kazuya! He's going for the down throw!",
+      "language": "en",
+      "original_language": "es",
+      "original_text": "Ojo, cuidado, porque aquí esto puede ser buena situación para el Cazuya, que va a salir con el downer."
+    },
+    {
+      "start": 12.0,
+      "end": 15.0,
+      "text": "I think Spargo could've gone for something there, but didn't.",
+      "language": "en",
+      "original_language": "es",
+      "original_text": "Creo que Taki Spargo podía haber intentado encontrar algo, pero no."
+    },
+    {
+      "start": 15.0,
+      "end": 17.0,
+      "text": "Going for the down throw again!",
+      "language": "en",
+      "original_language": "es",
+      "original_text": "Decide salir otra vez con el Fele a buscar el downer."
+    },
+    {
+      "start": 17.0,
+      "end": 18.0,
+      "text": "And then López...",
+      "language": "en",
+      "original_language": "es",
+      "original_text": "Y el López más, que va a..."
+    }
+  ],
+  "full_text": "He's cracked! He's so cracked! He's so cracked! He's making anything work! He's doing something wild! Yeah. What's Ani doing? Watch out, watch out—this could be huge for Kazuya! He's going for the down throw! I think Spargo could've gone for something there, but didn't. Going for the down throw again! And then López...",
+  "detected_language": "en",
+  "original_language": "es",
+  "corrections": []
+}

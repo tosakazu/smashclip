@@ -1,0 +1,32 @@
+{
+  "id": "fb2e1385-abaa-45a3-961e-81c499aa20af",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Yeah!",
+      "language": "en"
+    },
+    {
+      "start": 2.0,
+      "end": 4.0,
+      "text": "Yeah!",
+      "language": "en"
+    },
+    {
+      "start": 4.0,
+      "end": 6.0,
+      "text": "Speed!",
+      "language": "en"
+    },
+    {
+      "start": 8.0,
+      "end": 10.0,
+      "text": "Yeah!",
+      "language": "en"
+    }
+  ],
+  "full_text": "Yeah! Yeah! Speed! Yeah!",
+  "detected_language": "en",
+  "corrections": []
+}

@@ -1,0 +1,41 @@
+{
+  "id": "96f519ed-717e-4016-90f5-2a483c6787ef",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.5,
+      "text": "Oh, Korla's in trouble!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "あ、苦しいかコーラ選手"
+    },
+    {
+      "start": 1.5,
+      "end": 3.18,
+      "text": "That's risky!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "危ないよ"
+    },
+    {
+      "start": 3.18,
+      "end": 5.68,
+      "text": "He got it!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "あ、やったー"
+    },
+    {
+      "start": 5.68,
+      "end": 6.24,
+      "text": "Jump!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ジャンプ"
+    }
+  ],
+  "full_text": "Oh, Korla's in trouble! That's risky! He got it! Jump!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

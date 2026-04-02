@@ -1,0 +1,65 @@
+{
+  "id": "4afe0d36-bb49-40ef-90c0-ed869e32765f",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.0,
+      "text": "Tough to press the offense here",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "先制的にはちょっと打ちにくい"
+    },
+    {
+      "start": 3.0,
+      "end": 4.46,
+      "text": "They're down on stock too",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ストックもダウンしてますしね"
+    },
+    {
+      "start": 4.46,
+      "end": 5.42,
+      "text": "Wow!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いやー"
+    },
+    {
+      "start": 5.42,
+      "end": 6.72,
+      "text": "That ledge trap is so strong!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "がけ固めこれが強い"
+    },
+    {
+      "start": 6.72,
+      "end": 8.08,
+      "text": "Alright, getting back",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあ復帰させ"
+    },
+    {
+      "start": 8.08,
+      "end": 9.42,
+      "text": "Here we go!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "見てるー"
+    },
+    {
+      "start": 9.42,
+      "end": 10.94,
+      "text": "Going for the finish!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "決めきります"
+    }
+  ],
+  "full_text": "Tough to press the offense here They're down on stock too Wow! That ledge trap is so strong! Alright, getting back Here we go! Going for the finish!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

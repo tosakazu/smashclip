@@ -1,0 +1,63 @@
+{
+  "id": "5a77177d-b6c0-48be-b00e-c156e23b0c4c",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.44,
+      "text": "だから裏から空Nとか空前が飛んでくる",
+      "language": "ja"
+    },
+    {
+      "start": 2.44,
+      "end": 5.28,
+      "text": "Lunamado選手の強いところですね",
+      "language": "ja"
+    },
+    {
+      "start": 5.28,
+      "end": 5.56,
+      "text": "そうですね",
+      "language": "ja"
+    },
+    {
+      "start": 5.56,
+      "end": 6.42,
+      "text": "これも一つ",
+      "language": "ja"
+    },
+    {
+      "start": 6.42,
+      "end": 8.64,
+      "text": "バチバチバチバチ引いていったが",
+      "language": "ja"
+    },
+    {
+      "start": 8.64,
+      "end": 9.82,
+      "text": "逆にマイナスになって",
+      "language": "ja"
+    }
+  ],
+  "full_text": "だから裏から空Nとか空前が飛んでくる Lunamado選手の強いところですね そうですね これも一つ バチバチバチバチ引いていったが 逆にマイナスになって",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "ケンミーとかカクミー",
+      "corrected": "空Nとか空前",
+      "rule": "move abbreviation"
+    },
+    {
+      "segment_idx": 1,
+      "original": "ルナワド",
+      "corrected": "Lunamado",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 4,
+      "original": "パツイパツイ",
+      "corrected": "バチバチバチバチ",
+      "rule": "misheard word"
+    }
+  ]
+}

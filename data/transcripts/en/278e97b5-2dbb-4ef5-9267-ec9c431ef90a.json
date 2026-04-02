@@ -1,0 +1,49 @@
+{
+  "id": "278e97b5-2dbb-4ef5-9267-ec9c431ef90a",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.86,
+      "text": "That DI was effective!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ベク変が効いていました"
+    },
+    {
+      "start": 0.86,
+      "end": 5.0,
+      "text": "Spinning through into fair!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "スピン通していって空前"
+    },
+    {
+      "start": 5.0,
+      "end": 7.72,
+      "text": "What's next? No airdodge left!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "次はどうする?回避は切った"
+    },
+    {
+      "start": 7.72,
+      "end": 10.32,
+      "text": "Up air while mixing up the timing!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空上も使いつつタイミングをずらして"
+    },
+    {
+      "start": 10.32,
+      "end": 12.62,
+      "text": "Coming back with a gentler approach here!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここは戻ってきましたマイルドな"
+    }
+  ],
+  "full_text": "That DI was effective! Spinning through into fair! What's next? No airdodge left! Up air while mixing up the timing! Coming back with a gentler approach here!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

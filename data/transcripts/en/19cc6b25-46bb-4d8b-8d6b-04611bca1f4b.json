@@ -1,0 +1,32 @@
+{
+  "id": "19cc6b25-46bb-4d8b-8d6b-04611bca1f4b",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.32,
+      "text": "If they try to avoid it, they're pretty limited routing-wise, so",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "避けようと思うとかなりルート制限されてしまうんで"
+    },
+    {
+      "start": 3.32,
+      "end": 6.7,
+      "text": "Pressuring with the aerial threat while fishing for the grab",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空中攻撃がありますよっていう圧をかけつつ掴みを"
+    }
+  ],
+  "full_text": "If they try to avoid it, they're pretty limited routing-wise, so pressuring with the aerial threat while fishing for the grab",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "圧をかけつつ踏みを",
+      "corrected": "圧をかけつつ掴みを",
+      "rule": "Kanji homophone: 踏み→掴み"
+    }
+  ]
+}

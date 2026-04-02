@@ -1,0 +1,64 @@
+{
+  "id": "01595dce-e6ad-4350-b170-37ecd20032d4",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 10.18,
+      "text": "Out of shield up B to counter!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ガーキャン上Bで反撃して"
+    },
+    {
+      "start": 10.18,
+      "end": 11.96,
+      "text": "If he doesn't secure the KO",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "このまま撃墜しないと"
+    },
+    {
+      "start": 11.96,
+      "end": 13.48,
+      "text": "For Simon",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "シモンとしては"
+    },
+    {
+      "start": 13.48,
+      "end": 14.84,
+      "text": "that's bad",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "まずいと"
+    },
+    {
+      "start": 14.84,
+      "end": 18.34,
+      "text": "because each hit does insane damage",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "なぜなら一発の火力が非常に強力"
+    },
+    {
+      "start": 18.34,
+      "end": 20.34,
+      "text": "In this situation",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "この展開は"
+    }
+  ],
+  "full_text": "Out of shield up B to counter! If he doesn't secure the KO for Simon that's bad because each hit does insane damage in this situation",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "ガーギャンウェビで反撃して",
+      "corrected": "ガーキャン上Bで反撃して",
+      "rule": "misheard term"
+    }
+  ]
+}

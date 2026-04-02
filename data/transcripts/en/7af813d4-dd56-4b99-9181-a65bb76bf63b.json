@@ -1,0 +1,32 @@
+{
+  "id": "7af813d4-dd56-4b99-9181-a65bb76bf63b",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.2,
+      "text": "Shuton's taking stocks",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "Shutonとしてストックを奪っていきます"
+    },
+    {
+      "start": 2.2,
+      "end": 5.7,
+      "text": "Game 2 was the same, but off-stage there's just not enough time to adjust...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "2戦目もそうでしたけどやっぱり崖外はね色整える時間が"
+    }
+  ],
+  "full_text": "Shuton's taking stocks Game 2 was the same, but off-stage there's just not enough time to adjust...",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "スープとしてストックを大切っていきます",
+      "corrected": "Shutonとしてストックを奪っていきます",
+      "rule": "player name + whisper misrecognition"
+    }
+  ]
+}

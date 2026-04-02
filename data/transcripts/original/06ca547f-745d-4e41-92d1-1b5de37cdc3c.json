@@ -1,0 +1,20 @@
+{
+  "id": "06ca547f-745d-4e41-92d1-1b5de37cdc3c",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "通してさあリードバッター",
+      "language": "ja"
+    },
+    {
+      "start": 2.0,
+      "end": 3.82,
+      "text": "がその後",
+      "language": "ja"
+    }
+  ],
+  "full_text": "通してさあリードバッター がその後",
+  "detected_language": "ja",
+  "corrections": []
+}

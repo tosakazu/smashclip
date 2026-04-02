@@ -1,0 +1,49 @@
+{
+  "id": "a0e571f7-6aee-41ba-b8e5-a7806af05d6e",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Still hanging in!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "まだ耐える!"
+    },
+    {
+      "start": 2.0,
+      "end": 3.0,
+      "text": "I see!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "なるほど"
+    },
+    {
+      "start": 3.0,
+      "end": 5.0,
+      "text": "You thought that wasn't enough?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "足りないと判断してるのだったんですか"
+    },
+    {
+      "start": 5.0,
+      "end": 7.0,
+      "text": "That's plenty of damage!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ダメージとしても十分ですからね"
+    },
+    {
+      "start": 7.0,
+      "end": 9.0,
+      "text": "Both at 100%!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあお互い100%"
+    }
+  ],
+  "full_text": "Still hanging in! I see! You thought that wasn't enough? That's plenty of damage! Both at 100%!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

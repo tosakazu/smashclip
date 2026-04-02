@@ -1,0 +1,25 @@
+{
+  "id": "e6515b7f-7969-45c1-ba57-61112d651a7e",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.64,
+      "text": "Here's the combos, Espargo still following up cleanly, hitting kill percent now, finally, you gotta commit one way or the other, right?",
+      "language": "en",
+      "original_language": "es",
+      "original_text": "Están los combos, todavía lo sigue Espargo de una manera impecable, si muera por ciento ya está, finalmente, se tiene que ir a alguna cosa u otra, ¿no?"
+    },
+    {
+      "start": 6.98,
+      "end": 12.0,
+      "text": "But no, Espargo's still here, at 180 percent and...",
+      "language": "en",
+      "original_language": "es",
+      "original_text": "Pero no, Espargo todavía tiene acto de presencia, 180% y..."
+    }
+  ],
+  "full_text": "Here's the combos, Espargo still following up cleanly, hitting kill percent now, finally, you gotta commit one way or the other, right? But no, Espargo's still here, at 180 percent and...",
+  "detected_language": "en",
+  "original_language": "es",
+  "corrections": []
+}

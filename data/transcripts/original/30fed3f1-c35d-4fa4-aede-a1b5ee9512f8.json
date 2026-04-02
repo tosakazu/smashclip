@@ -1,0 +1,45 @@
+{
+  "id": "30fed3f1-c35d-4fa4-aede-a1b5ee9512f8",
+  "segments": [
+    {
+      "start": 0.76,
+      "end": 2.96,
+      "text": "さあモナードスマッシュに変えていって",
+      "language": "ja"
+    },
+    {
+      "start": 2.96,
+      "end": 4.12,
+      "text": "ここで決めきるか",
+      "language": "ja"
+    },
+    {
+      "start": 4.12,
+      "end": 4.76,
+      "text": "来るぞ来るぞ",
+      "language": "ja"
+    },
+    {
+      "start": 4.76,
+      "end": 5.76,
+      "text": "空N",
+      "language": "ja"
+    },
+    {
+      "start": 5.76,
+      "end": 6.24,
+      "text": "大きく",
+      "language": "ja"
+    }
+  ],
+  "full_text": "さあモナードスマッシュに変えていって ここで決めきるか 来るぞ来るぞ 空N 大きく",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 3,
+      "original": "空中ニュートラル",
+      "corrected": "空N",
+      "rule": "move name normalization"
+    }
+  ]
+}

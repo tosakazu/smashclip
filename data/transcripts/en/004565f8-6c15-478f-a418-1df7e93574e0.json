@@ -1,0 +1,64 @@
+{
+  "id": "004565f8-6c15-478f-a418-1df7e93574e0",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.08,
+      "text": "Solid shield!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "しっかりシールド仕切って"
+    },
+    {
+      "start": 2.08,
+      "end": 3.3,
+      "text": "Ledge trap setup!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "崖奪いを見せていく"
+    },
+    {
+      "start": 3.3,
+      "end": 5.94,
+      "text": "Watch out! Going for the fast fall!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "危ないぞ!急降下を打って"
+    },
+    {
+      "start": 5.94,
+      "end": 8.28,
+      "text": "Beats out the forward smash startup!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "横スマの発生に勝っていく"
+    },
+    {
+      "start": 8.28,
+      "end": 10.76,
+      "text": "Coming back from below but...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "下から返ってくるが"
+    },
+    {
+      "start": 10.76,
+      "end": 11.04,
+      "text": "Fast fall!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "急降下"
+    }
+  ],
+  "full_text": "Solid shield! Ledge trap setup! Watch out! Going for the fast fall! Beats out the forward smash startup! Coming back from below but... Fast fall!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 3,
+      "original": "横スマッシュの発生に勝っていく",
+      "corrected": "横スマの発生に勝っていく",
+      "rule": "auto-rule"
+    }
+  ]
+}

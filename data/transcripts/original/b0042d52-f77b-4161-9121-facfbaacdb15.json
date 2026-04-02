@@ -1,0 +1,45 @@
+{
+  "id": "b0042d52-f77b-4161-9121-facfbaacdb15",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.56,
+      "text": "これが少し引きすぎましたね",
+      "language": "ja"
+    },
+    {
+      "start": 1.56,
+      "end": 3.36,
+      "text": "さあここ追い詰めているが",
+      "language": "ja"
+    },
+    {
+      "start": 3.36,
+      "end": 4.74,
+      "text": "暴れたシュートン",
+      "language": "ja"
+    },
+    {
+      "start": 4.74,
+      "end": 10.22,
+      "text": "これを密着昇竜拳",
+      "language": "ja"
+    },
+    {
+      "start": 10.22,
+      "end": 10.88,
+      "text": "さすがに許した",
+      "language": "ja"
+    }
+  ],
+  "full_text": "これが少し引きすぎましたね さあここ追い詰めているが 暴れたシュートン これを密着昇竜拳 さすがに許した",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "さあここ向いているが",
+      "corrected": "さあここ追い詰めているが",
+      "rule": "mishearing"
+    }
+  ]
+}

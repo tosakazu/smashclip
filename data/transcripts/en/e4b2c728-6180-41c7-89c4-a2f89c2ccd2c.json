@@ -1,0 +1,72 @@
+{
+  "id": "e4b2c728-6180-41c7-89c4-a2f89c2ccd2c",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "This is becoming an issue",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ちょっと問題視されつつあるか"
+    },
+    {
+      "start": 2.0,
+      "end": 3.06,
+      "text": "Yeah",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そうですね"
+    },
+    {
+      "start": 3.06,
+      "end": 6.38,
+      "text": "Even if you go for it, you're still in a bad spot",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "作ってもダイヤなんですよね"
+    },
+    {
+      "start": 6.38,
+      "end": 8.86,
+      "text": "So there's really no reason to try it here?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここで作る選択肢だけはないって感じですか"
+    },
+    {
+      "start": 8.86,
+      "end": 9.38,
+      "text": "Right",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そうですね"
+    },
+    {
+      "start": 9.38,
+      "end": 10.46,
+      "text": "Yeah, you don't want to risk it",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "作りたくないですよね"
+    },
+    {
+      "start": 10.46,
+      "end": 12.28,
+      "text": "Fair came in and caught them!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空前で捉えに来ました"
+    }
+  ],
+  "full_text": "This is becoming an issue Yeah Even if you go for it, you're still in a bad spot So there's really no reason to try it here? Right Yeah, you don't want to risk it Fair came in and caught them!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 6,
+      "original": "クルチュマへ捉えに来ました",
+      "corrected": "空前で捉えに来ました",
+      "rule": "move abbreviation: 空前"
+    }
+  ]
+}

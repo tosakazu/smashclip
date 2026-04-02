@@ -1,0 +1,41 @@
+{
+  "id": "cebdd5a1-dbea-4a54-95ea-61a030dddd7e",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.16,
+      "text": "So with the timing being just that narrow and tight, you can move like this.",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "このように、タイムレバーは、ただ融合的な狭いんで、あれかのように動けます。"
+    },
+    {
+      "start": 5.42,
+      "end": 7.2,
+      "text": "There's no recovery coming with it, so—",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ちょっと、リターンがついてくるわけじゃないですから、"
+    },
+    {
+      "start": 7.78,
+      "end": 9.66,
+      "text": "When you're thinking about this situation,",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "この辺を考えることと言いますと、"
+    },
+    {
+      "start": 10.18,
+      "end": 11.74,
+      "text": "You want to get ahead.",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "リーダーを手にする方がいいです。"
+    }
+  ],
+  "full_text": "So with the timing being just that narrow and tight, you can move like this. There's no recovery coming with it, so— When you're thinking about this situation, You want to get ahead.",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

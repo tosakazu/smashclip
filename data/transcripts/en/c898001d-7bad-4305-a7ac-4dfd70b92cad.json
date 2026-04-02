@@ -1,0 +1,39 @@
+{
+  "id": "c898001d-7bad-4305-a7ac-4dfd70b92cad",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.32,
+      "text": "was a little too pre-emptive Yamanaction getting a quick",
+      "language": "en"
+    },
+    {
+      "start": 2.32,
+      "end": 6.32,
+      "text": "jab into a forward air the up tilt backhand killing from now oh my god",
+      "language": "en"
+    },
+    {
+      "start": 6.32,
+      "end": 9.0,
+      "text": "oh no",
+      "language": "en"
+    }
+  ],
+  "full_text": "was a little too pre-emptive Yamanaction getting a quick jab into a forward air the up tilt backhand killing from now oh my god oh no",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "yam and action",
+      "corrected": "Yamanaction",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 1,
+      "original": "forward add",
+      "corrected": "forward air",
+      "rule": "smash term (空前/forward air)"
+    }
+  ]
+}

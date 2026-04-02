@@ -1,0 +1,20 @@
+{
+  "id": "239af178-dc21-4573-a56d-8dee81fa018f",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.7,
+      "text": "Leo Classic. Either he gets the last tickle of Arsene to kill you, or he uses it to set up a kill.",
+      "language": "en"
+    },
+    {
+      "start": 5.78,
+      "end": 9.16,
+      "text": "And is that exactly what happened there? Hurt managing to keep up.",
+      "language": "en"
+    }
+  ],
+  "full_text": "Leo Classic. Either he gets the last tickle of Arsene to kill you, or he uses it to set up a kill. And is that exactly what happened there? Hurt managing to keep up.",
+  "detected_language": "en",
+  "corrections": []
+}

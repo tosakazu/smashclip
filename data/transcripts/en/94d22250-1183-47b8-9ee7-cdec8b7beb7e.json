@@ -1,0 +1,104 @@
+{
+  "id": "94d22250-1183-47b8-9ee7-cdec8b7beb7e",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.06,
+      "text": "Both step right in!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いきなり両者前に出てくる"
+    },
+    {
+      "start": 1.06,
+      "end": 2.22,
+      "text": "No way to answer!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "鉄がないので"
+    },
+    {
+      "start": 2.22,
+      "end": 2.98,
+      "text": "Too clean!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "うますぎる"
+    },
+    {
+      "start": 2.98,
+      "end": 3.68,
+      "text": "Every single time!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これ毎回"
+    },
+    {
+      "start": 3.68,
+      "end": 4.98,
+      "text": "Doesn't that hurt?!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これは痛くないか"
+    },
+    {
+      "start": 4.98,
+      "end": 5.52,
+      "text": "That hurts!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これ痛い"
+    },
+    {
+      "start": 5.52,
+      "end": 6.6,
+      "text": "Getting juggled is painful too, but...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "掘られちゃうのも痛いですが"
+    },
+    {
+      "start": 6.6,
+      "end": 7.42,
+      "text": "Not committing to the full juggle",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "掘り切らないですね"
+    },
+    {
+      "start": 7.42,
+      "end": 8.28,
+      "text": "Skipping the juggle",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "掘らずに"
+    },
+    {
+      "start": 8.28,
+      "end": 10.36,
+      "text": "Forward smash takes it",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "横スマッシュで"
+    },
+    {
+      "start": 10.36,
+      "end": 11.66,
+      "text": "That's the KO!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "一気に切れー"
+    }
+  ],
+  "full_text": "Both step right in! No way to answer! Too clean! Every single time! Doesn't that hurt?! That hurts! Getting juggled is painful too, but... Not committing to the full juggle Skipping the juggle Forward smash takes it That's the KO!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 9,
+      "original": "よーこスマッシュで",
+      "corrected": "横スマッシュで",
+      "rule": "move name"
+    }
+  ]
+}

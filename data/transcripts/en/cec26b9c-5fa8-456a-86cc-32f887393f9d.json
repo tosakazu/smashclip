@@ -1,0 +1,102 @@
+{
+  "id": "cec26b9c-5fa8-456a-86cc-32f887393f9d",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.58,
+      "text": "On Daifuku's side",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "大福選手側"
+    },
+    {
+      "start": 0.58,
+      "end": 3.4,
+      "text": "Commits with the down tilt here, but",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここでしゃがみ捨てに当てるが"
+    },
+    {
+      "start": 3.4,
+      "end": 4.72,
+      "text": "Up tilt into Witch Twist!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "上強からウィッチツイスト"
+    },
+    {
+      "start": 4.72,
+      "end": 6.78,
+      "text": "Chasing after the escape",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "抜け出し位置に対して追いかける"
+    },
+    {
+      "start": 6.78,
+      "end": 8.14,
+      "text": "A mixup develops",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "読み合いが発生します"
+    },
+    {
+      "start": 8.14,
+      "end": 11.72,
+      "text": "Managing the SDI here is key",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "このずらし対応というところもね"
+    },
+    {
+      "start": 11.72,
+      "end": 13.64,
+      "text": "That becomes essential for Daifuku",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "たまP大福選手側に必要になってきますね"
+    },
+    {
+      "start": 13.64,
+      "end": 14.06,
+      "text": "Exactly",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そうですね"
+    },
+    {
+      "start": 14.06,
+      "end": 18.24,
+      "text": "There's the KO!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "金床はなんとこの撃墜だ"
+    },
+    {
+      "start": 18.24,
+      "end": 21.24,
+      "text": "They came down from way up there",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "あそこまで降りかけた"
+    }
+  ],
+  "full_text": "On Daifuku's side Commits with the down tilt here, but Up tilt into Witch Twist! Chasing after the escape A mixup develops Managing the SDI here is key That becomes essential for Daifuku Exactly There's the KO! They came down from way up there",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "上京からウィッチツイスト",
+      "corrected": "上強からウィッチツイスト",
+      "rule": "smash term (上強=up tilt)"
+    },
+    {
+      "segment_idx": 6,
+      "original": "玉木大福選手側",
+      "corrected": "たまP大福選手側",
+      "rule": "player name (たまPだいふく)"
+    }
+  ]
+}

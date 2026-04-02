@@ -1,0 +1,32 @@
+{
+  "id": "9e3d63eb-ff73-4fff-b4da-0ca400dca892",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.74,
+      "text": "And still, regardless, we do see the changeup within Waka's playstyle.",
+      "language": "en"
+    },
+    {
+      "start": 3.84,
+      "end": 6.42,
+      "text": "It seems like he's going just a little bit more aggressive than what we're used to.",
+      "language": "en"
+    },
+    {
+      "start": 6.68,
+      "end": 8.04,
+      "text": "Go for it with the super giant punch.",
+      "language": "en"
+    },
+    {
+      "start": 8.44,
+      "end": 9.36,
+      "text": "Six points.",
+      "language": "en"
+    }
+  ],
+  "full_text": "And still, regardless, we do see the changeup within Waka's playstyle. It seems like he's going just a little bit more aggressive than what we're used to. Go for it with the super giant punch. Six points.",
+  "detected_language": "en",
+  "corrections": []
+}

@@ -1,0 +1,57 @@
+{
+  "id": "f15332f8-6b8f-4184-a108-25cd87888d5a",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.8,
+      "text": "なかなか撃墜技がちょっと遠いですよね",
+      "language": "ja"
+    },
+    {
+      "start": 1.8,
+      "end": 4.58,
+      "text": "確定コンボ帯を逃してしまうと",
+      "language": "ja"
+    },
+    {
+      "start": 4.58,
+      "end": 6.44,
+      "text": "一気にきつくなるか",
+      "language": "ja"
+    },
+    {
+      "start": 6.44,
+      "end": 6.8,
+      "text": "そう",
+      "language": "ja"
+    },
+    {
+      "start": 6.8,
+      "end": 9.76,
+      "text": "ここはドンキーコングの",
+      "language": "ja"
+    },
+    {
+      "start": 9.76,
+      "end": 10.76,
+      "text": "苛烈な復帰阻止",
+      "language": "ja"
+    }
+  ],
+  "full_text": "なかなか撃墜技がちょっと遠いですよね 確定コンボ帯を逃してしまうと 一気にきつくなるか そう ここはドンキーコングの 苛烈な復帰阻止",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "確定コンボ体",
+      "corrected": "確定コンボ帯",
+      "rule": "kanji: 体→帯"
+    },
+    {
+      "segment_idx": 5,
+      "original": "可烈な",
+      "corrected": "苛烈な",
+      "rule": "kanji: 可烈→苛烈"
+    }
+  ]
+}

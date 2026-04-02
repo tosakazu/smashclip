@@ -1,0 +1,63 @@
+{
+  "id": "62606543-2dc1-4232-83b5-b865ea1577e3",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.62,
+      "text": "最低限のダメージに抑えながら",
+      "language": "ja"
+    },
+    {
+      "start": 2.62,
+      "end": 4.02,
+      "text": "戦っています",
+      "language": "ja"
+    },
+    {
+      "start": 4.02,
+      "end": 5.24,
+      "text": "打ち前固めている",
+      "language": "ja"
+    },
+    {
+      "start": 5.24,
+      "end": 6.24,
+      "text": "ここは投げが通る",
+      "language": "ja"
+    },
+    {
+      "start": 6.24,
+      "end": 7.84,
+      "text": "前投げからターン継続",
+      "language": "ja"
+    },
+    {
+      "start": 7.84,
+      "end": 9.66,
+      "text": "またしても崖展開",
+      "language": "ja"
+    },
+    {
+      "start": 9.66,
+      "end": 11.0,
+      "text": "これはハイドシルビー",
+      "language": "ja"
+    },
+    {
+      "start": 11.88,
+      "end": 13.68,
+      "text": "打ち前の爆弾が",
+      "language": "ja"
+    }
+  ],
+  "full_text": "最低限のダメージに抑えながら 戦っています 打ち前固めている ここは投げが通る 前投げからターン継続 またしても崖展開 これはハイドシルビー 打ち前の爆弾が",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 5,
+      "original": "ちょっと展開",
+      "corrected": "崖展開",
+      "rule": "smash term"
+    }
+  ]
+}

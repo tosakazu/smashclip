@@ -1,0 +1,105 @@
+{
+  "id": "ab939c9d-d238-4a98-b13a-c559ef7b21f9",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.76,
+      "text": "上がらせない空中後ろ 復帰阻止がダメなら崖でっていうね",
+      "language": "ja"
+    },
+    {
+      "start": 5.76,
+      "end": 17.0,
+      "text": "しゃがんで浮遊を避けたかまさか ミュートエース苦しい展開ガリガリと体力を削ってくるMiyaの主力",
+      "language": "ja"
+    },
+    {
+      "start": 17.54,
+      "end": 25.66,
+      "text": "空N 前回避も許さないその技の振り方 空中後ろ下スマッシュ上から差し返す",
+      "language": "ja"
+    },
+    {
+      "start": 25.66,
+      "end": 31.3,
+      "text": "攻撃上がり通して読み合いが回る バケツを見てからカブを投げたのかまさか",
+      "language": "ja"
+    },
+    {
+      "start": 31.3,
+      "end": 36.56,
+      "text": "掴んでさあ外に出す ミーヤーのプレッシャー再び",
+      "language": "ja"
+    },
+    {
+      "start": 36.56,
+      "end": 41.62,
+      "text": "ただ継続はうまいですね 攻撃上がりですね アドリブのシェフの位置だったので",
+      "language": "ja"
+    },
+    {
+      "start": 41.62,
+      "end": 47.62,
+      "text": "早いです 優秀すぎる弱1段 そりゃガード張りますよ 誰が避けれるのか",
+      "language": "ja"
+    },
+    {
+      "start": 47.62,
+      "end": 52.9,
+      "text": "ゲムヲの空中後ろがまだまだ続いて",
+      "language": "ja"
+    }
+  ],
+  "full_text": "上がらせない空中後ろ 復帰阻止がダメなら崖でっていうね しゃがんで浮遊を避けたかまさか ミュートエース苦しい展開ガリガリと体力を削ってくるMiyaの主力 空N 前回避も許さないその技の振り方 空中後ろ下スマッシュ上から差し返す 攻撃上がり通して読み合いが回る バケツを見てからカブを投げたのかまさか 掴んでさあ外に出す ミーヤーのプレッシャー再び ただ継続はうまいですね 攻撃上がりですね アドリブのシェフの位置だったので 早いです 優秀すぎる弱1段 そりゃガード張りますよ 誰が避けれるのか ゲムヲの空中後ろがまだまだ続いて",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "空中しろ",
+      "corrected": "空中後ろ",
+      "rule": "Move: 空中しろ→空中後ろ(空後)"
+    },
+    {
+      "segment_idx": 0,
+      "original": "復帰としてがダメなら",
+      "corrected": "復帰阻止がダメなら",
+      "rule": "Smash term: 復帰として→復帰阻止"
+    },
+    {
+      "segment_idx": 1,
+      "original": "ミーヤーの主役",
+      "corrected": "Miyaの主力",
+      "rule": "Player name: ミーヤー→Miya; homophone: 主役→主力"
+    },
+    {
+      "segment_idx": 2,
+      "original": "クエネ前回秘も許さない",
+      "corrected": "空N 前回避も許さない",
+      "rule": "Move: クエネ→空N; homophone: 回秘→回避"
+    },
+    {
+      "segment_idx": 2,
+      "original": "空中しろ下スマッシュ",
+      "corrected": "空中後ろ下スマッシュ",
+      "rule": "Move: 空中しろ→空中後ろ"
+    },
+    {
+      "segment_idx": 3,
+      "original": "カボを投げた",
+      "corrected": "カブを投げた",
+      "rule": "Peach move: カボ→カブ(turnip)"
+    },
+    {
+      "segment_idx": 6,
+      "original": "優勝するエビ弱1弾",
+      "corrected": "優秀すぎる弱1段",
+      "rule": "Mishearing: 優勝するエビ→優秀すぎる; 弾→段"
+    },
+    {
+      "segment_idx": 7,
+      "original": "ゲンダムの空中しろ",
+      "corrected": "ゲムヲの空中後ろ",
+      "rule": "Character name: ゲンダム→ゲムヲ(Mr. Game & Watch); Move: 空中しろ→空中後ろ"
+    }
+  ]
+}

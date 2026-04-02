@@ -1,0 +1,43 @@
+{
+  "id": "8a81b53f-3dab-452c-8da1-9de0f7977399",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.3,
+      "text": "PKファイヤーで一発火力を放ちます",
+      "language": "ja"
+    },
+    {
+      "start": 2.3,
+      "end": 4.04,
+      "text": "空中前に横強",
+      "language": "ja"
+    },
+    {
+      "start": 4.04,
+      "end": 5.34,
+      "text": "完璧な前回り受け身",
+      "language": "ja"
+    },
+    {
+      "start": 5.34,
+      "end": 7.76,
+      "text": "だがしかし返ってくる",
+      "language": "ja"
+    },
+    {
+      "start": 7.76,
+      "end": 9.04,
+      "text": "これは確かに撃墜",
+      "language": "ja"
+    }
+  ],
+  "full_text": "PKファイヤーで一発火力を放ちます 空中前に横強 完璧な前回り受け身 だがしかし返ってくる これは確かに撃墜",
+  "detected_language": "ja",
+  "corrections": [
+    "BK→PK (Lucas's PK Fire)",
+    "一力不利→一発火力 (burst of damage)",
+    "素敵→受け身 (tech/ukemi)",
+    "敵→撃墜 (kill, kanji homophone てき→げきつい... actually phonetic: teki→gekitsui doesn't match. More likely 的→撃墜 context correction)"
+  ]
+}

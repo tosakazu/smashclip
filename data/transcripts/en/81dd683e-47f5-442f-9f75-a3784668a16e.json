@@ -1,0 +1,96 @@
+{
+  "id": "81dd683e-47f5-442f-9f75-a3784668a16e",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "text": "Nice!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "うまー!"
+    },
+    {
+      "start": 1.0,
+      "end": 2.0,
+      "text": "Yeah, but...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いやーそうですが"
+    },
+    {
+      "start": 2.0,
+      "end": 4.0,
+      "text": "I thought the blast might help, but...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "爆風がね助けてくれるかなと思ったんですけど"
+    },
+    {
+      "start": 4.0,
+      "end": 5.0,
+      "text": "Yeah, I felt that, but...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そうですね思ったんですけど"
+    },
+    {
+      "start": 5.0,
+      "end": 6.0,
+      "text": "Just barely!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ギリッギリー"
+    },
+    {
+      "start": 6.0,
+      "end": 8.0,
+      "text": "Yeah, good reads from both",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いやーあれねいい判断だったんですけどお互い"
+    },
+    {
+      "start": 8.0,
+      "end": 10.0,
+      "text": "Rage is up and that's rough",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあレイジ溜まってて嫌な展開"
+    },
+    {
+      "start": 10.0,
+      "end": 11.0,
+      "text": "Alright, here's the thing",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあこれね"
+    },
+    {
+      "start": 11.0,
+      "end": 12.0,
+      "text": "Whoa!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "やっ"
+    },
+    {
+      "start": 12.0,
+      "end": 13.0,
+      "text": "Just barely!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "あーギリギリ"
+    }
+  ],
+  "full_text": "Nice! Yeah, but... I thought the blast might help, but... Yeah, I felt that, but... Just barely! Yeah, good reads from both Rage is up and that's rough Alright, here's the thing Whoa! Just barely!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 4,
+      "original": "キリッキリー",
+      "corrected": "ギリッギリー",
+      "rule": "Whisper mishearing"
+    }
+  ]
+}

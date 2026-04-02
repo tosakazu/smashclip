@@ -1,0 +1,96 @@
+{
+  "id": "cdc2c317-10d4-4045-843e-c343e70ec9aa",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.12,
+      "text": "Lunamon still has to commit to offense",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあルナマドとしてはやはり攻めをせざるを得ないが"
+    },
+    {
+      "start": 3.12,
+      "end": 4.94,
+      "text": "Down a stock here",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "○○1ストックのビハインド状況"
+    },
+    {
+      "start": 4.94,
+      "end": 8.08,
+      "text": "Down throw off center platform, into the air!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "中央台絡んで下に投げて空中へ空中へ"
+    },
+    {
+      "start": 8.08,
+      "end": 9.0,
+      "text": "Lunamon's turn",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ルナマドのターン"
+    },
+    {
+      "start": 9.64,
+      "end": 10.84,
+      "text": "Sword dash approach, I see",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ソードダッシュ経由でなるほど"
+    },
+    {
+      "start": 10.84,
+      "end": 11.86,
+      "text": "Using it for the landing!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "着地に使うんだ"
+    },
+    {
+      "start": 11.86,
+      "end": 14.78,
+      "text": "Won't allow that twice!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "何回も許さない"
+    },
+    {
+      "start": 14.78,
+      "end": 19.74,
+      "text": "Down air from above to cover",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "上から空中下をかぶせて"
+    },
+    {
+      "start": 19.74,
+      "end": 20.68,
+      "text": "Keeps the momentum",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ターンを維持"
+    },
+    {
+      "start": 20.68,
+      "end": 22.7,
+      "text": "Wait, is that the KO?!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "え?死ぬんだ"
+    }
+  ],
+  "full_text": "Lunamon still has to commit to offense Down a stock here Down throw off center platform, into the air! Lunamon's turn Sword dash approach, I see Using it for the landing! Won't allow that twice! Down air from above to cover Keeps the momentum Wait, is that the KO?!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "近目面をせざるを得ない",
+      "corrected": "攻めをせざるを得ない",
+      "rule": "mishearing (せめ→近目面)"
+    }
+  ]
+}

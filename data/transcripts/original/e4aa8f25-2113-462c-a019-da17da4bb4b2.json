@@ -1,0 +1,51 @@
+{
+  "id": "e4aa8f25-2113-462c-a019-da17da4bb4b2",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.54,
+      "text": "この男の間合いをどのように崩すか",
+      "language": "ja"
+    },
+    {
+      "start": 2.54,
+      "end": 7.22,
+      "text": "横スマッシュ",
+      "language": "ja"
+    },
+    {
+      "start": 7.22,
+      "end": 8.7,
+      "text": "あまりにも強気たく",
+      "language": "ja"
+    },
+    {
+      "start": 8.7,
+      "end": 9.34,
+      "text": "だが",
+      "language": "ja"
+    },
+    {
+      "start": 9.34,
+      "end": 11.14,
+      "text": "DenKOTAにとっては",
+      "language": "ja"
+    }
+  ],
+  "full_text": "この男の間合いをどのように崩すか 横スマッシュ あまりにも強気たく だが DenKOTAにとっては",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "この男の間違いをどのように崩すか",
+      "corrected": "この男の間合いをどのように崩すか",
+      "rule": "misheard: 間合い(spacing)"
+    },
+    {
+      "segment_idx": 4,
+      "original": "デンコタにとっては",
+      "corrected": "DenKOTAにとっては",
+      "rule": "player name"
+    }
+  ]
+}

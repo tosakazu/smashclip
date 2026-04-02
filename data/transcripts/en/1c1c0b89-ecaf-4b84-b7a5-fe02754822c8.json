@@ -1,0 +1,25 @@
+{
+  "id": "1c1c0b89-ecaf-4b84-b7a5-fe02754822c8",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.72,
+      "text": "Going deep in neutral here",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "の展開空中ニュートラル深めに"
+    },
+    {
+      "start": 1.72,
+      "end": 4.1,
+      "text": "Can't make it back—went too deep!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これ帰ってこれないちょっと深すぎましたね"
+    }
+  ],
+  "full_text": "Going deep in neutral here Can't make it back—went too deep!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

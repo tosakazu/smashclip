@@ -1,0 +1,27 @@
+{
+  "id": "b10decc4-21e8-47aa-be25-ebe210057596",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.6,
+      "text": "Oh man, tell anybody I dare.",
+      "language": "en"
+    },
+    {
+      "start": 2.42,
+      "end": 7.72,
+      "text": "Utilizing that up special, the tether, grab to kind of reverse some of the momentum.",
+      "language": "en"
+    }
+  ],
+  "full_text": "Oh man, tell anybody I dare. Utilizing that up special, the tether, grab to kind of reverse some of the momentum.",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "memento",
+      "corrected": "momentum",
+      "rule": "mishearing"
+    }
+  ]
+}

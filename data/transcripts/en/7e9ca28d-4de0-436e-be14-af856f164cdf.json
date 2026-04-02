@@ -1,0 +1,48 @@
+{
+  "id": "7e9ca28d-4de0-436e-be14-af856f164cdf",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.86,
+      "text": "One-hit comeback potential",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "一発逆転の要素"
+    },
+    {
+      "start": 2.86,
+      "end": 4.24,
+      "text": "Already burned that earlier",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "おならは先ほど使ってしまった"
+    },
+    {
+      "start": 4.24,
+      "end": 6.1,
+      "text": "Now it's neutral territory",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "この先はニュートラルの時間"
+    },
+    {
+      "start": 6.1,
+      "end": 7.28,
+      "text": "Keep it up",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "このまま"
+    }
+  ],
+  "full_text": "One-hit comeback potential. Already burned that earlier. Now it's neutral territory. Keep it up.",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "小田原は先ほど使ってしまった",
+      "corrected": "おならは先ほど使ってしまった",
+      "rule": "misheard: 小田原→おなら (Wario's Waft move)"
+    }
+  ]
+}

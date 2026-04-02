@@ -1,0 +1,81 @@
+{
+  "id": "5c30affe-8dca-4e49-886c-d20f7967da9c",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "text": "まだ撃墜してない",
+      "language": "ja"
+    },
+    {
+      "start": 1.0,
+      "end": 2.5,
+      "text": "下B",
+      "language": "ja"
+    },
+    {
+      "start": 2.5,
+      "end": 3.42,
+      "text": "暴れが通って",
+      "language": "ja"
+    },
+    {
+      "start": 3.42,
+      "end": 5.18,
+      "text": "もう一度メテオが見えたが",
+      "language": "ja"
+    },
+    {
+      "start": 5.18,
+      "end": 6.5,
+      "text": "上強でここは",
+      "language": "ja"
+    },
+    {
+      "start": 6.5,
+      "end": 7.06,
+      "text": "ダブルアップ",
+      "language": "ja"
+    },
+    {
+      "start": 7.06,
+      "end": 8.7,
+      "text": "内側から返ってくることで",
+      "language": "ja"
+    },
+    {
+      "start": 8.7,
+      "end": 9.08,
+      "text": "横スマッシュ",
+      "language": "ja"
+    },
+    {
+      "start": 9.08,
+      "end": 10.06,
+      "text": "これは横スマ",
+      "language": "ja"
+    },
+    {
+      "start": 10.06,
+      "end": 10.8,
+      "text": "さあ",
+      "language": "ja"
+    }
+  ],
+  "full_text": "まだ撃墜してない 下B 暴れが通って もう一度メテオが見えたが 上強でここは ダブルアップ 内側から返ってくることで 横スマッシュ これは横スマ さあ",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "下見",
+      "corrected": "下B",
+      "rule": "move abbreviation"
+    },
+    {
+      "segment_idx": 2,
+      "original": "アマレ",
+      "corrected": "暴れ",
+      "rule": "misheard word"
+    }
+  ]
+}

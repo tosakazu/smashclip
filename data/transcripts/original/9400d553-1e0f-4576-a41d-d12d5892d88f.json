@@ -1,0 +1,27 @@
+{
+  "id": "9400d553-1e0f-4576-a41d-d12d5892d88f",
+  "segments": [
+    {
+      "start": 0.36,
+      "end": 2.76,
+      "text": "そして上Bに対しては横強下シフト",
+      "language": "ja"
+    },
+    {
+      "start": 2.76,
+      "end": 5.18,
+      "text": "横強だったかな今?無シフトかな?",
+      "language": "ja"
+    }
+  ],
+  "full_text": "そして上Bに対しては横強下シフト 横強だったかな今?無シフトかな?",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "ウェビーに対しては",
+      "corrected": "上Bに対しては",
+      "rule": "move name (ウェビー→上B)"
+    }
+  ]
+}

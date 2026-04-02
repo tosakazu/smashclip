@@ -1,0 +1,45 @@
+{
+  "id": "15dd4b22-a9ff-42c3-8431-4714e9260344",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.16,
+      "text": "立ち回りの対策はいろいろあるかと思いますが",
+      "language": "ja"
+    },
+    {
+      "start": 2.16,
+      "end": 3.82,
+      "text": "ソニックは前に出ることを選んでいる",
+      "language": "ja"
+    },
+    {
+      "start": 3.82,
+      "end": 5.96,
+      "text": "たださすがに白ピクミンは剥がしてますね",
+      "language": "ja"
+    },
+    {
+      "start": 5.96,
+      "end": 8.56,
+      "text": "白はねちょっと馬鹿にならないダメージが出ますから",
+      "language": "ja"
+    }
+  ],
+  "full_text": "立ち回りの対策はいろいろあるかと思いますが ソニックは前に出ることを選んでいる たださすがに白ピクミンは剥がしてますね 白はねちょっと馬鹿にならないダメージが出ますから",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "タゴとの対策はいろいろあるかと思いますが",
+      "corrected": "立ち回りの対策はいろいろあるかと思いますが",
+      "rule": "Garbled transcription: タゴとの→立ち回りの"
+    },
+    {
+      "segment_idx": 3,
+      "original": "派手にならないダメージが出ますから",
+      "corrected": "馬鹿にならないダメージが出ますから",
+      "rule": "Kanji homophone: 派手にならない→馬鹿にならない (idiomatic expression)"
+    }
+  ]
+}

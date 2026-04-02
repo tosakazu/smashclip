@@ -1,0 +1,33 @@
+{
+  "id": "dd0d48e8-eb70-4d86-84b8-a43b9b49c693",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.4,
+      "text": "in the wrong direction not really working out in his favor just like that ShinyMark",
+      "language": "en"
+    },
+    {
+      "start": 4.4,
+      "end": 7.68,
+      "text": "has so much advantage can we potentially find the spike right here",
+      "language": "en"
+    },
+    {
+      "start": 7.68,
+      "end": 15.92,
+      "text": "the weak hit sending off stage this could be the stock right here",
+      "language": "en"
+    }
+  ],
+  "full_text": "in the wrong direction not really working out in his favor just like that ShinyMark has so much advantage can we potentially find the spike right here the weak hit sending off stage this could be the stock right here",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "shiny mark",
+      "corrected": "ShinyMark",
+      "rule": "player name"
+    }
+  ]
+}

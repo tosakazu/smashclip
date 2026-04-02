@@ -1,0 +1,57 @@
+{
+  "id": "f83f0b8b-fe0c-4036-86d7-5450ea7dcd18",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.04,
+      "text": "消滅してしまうので",
+      "language": "ja"
+    },
+    {
+      "start": 1.04,
+      "end": 2.42,
+      "text": "そういうところちょっと",
+      "language": "ja"
+    },
+    {
+      "start": 2.42,
+      "end": 5.16,
+      "text": "なかなか噛み合いは良くはなさそうですね",
+      "language": "ja"
+    },
+    {
+      "start": 5.16,
+      "end": 8.48,
+      "text": "ピクミンなしの状態で",
+      "language": "ja"
+    },
+    {
+      "start": 8.48,
+      "end": 11.12,
+      "text": "カムイの崖狩りと向き合わなきゃいけない可能性も出てくるわけですから",
+      "language": "ja"
+    },
+    {
+      "start": 11.12,
+      "end": 11.52,
+      "text": "そうですね",
+      "language": "ja"
+    },
+    {
+      "start": 11.52,
+      "end": 13.68,
+      "text": "おっと奥向いて",
+      "language": "ja"
+    }
+  ],
+  "full_text": "消滅してしまうので そういうところちょっと なかなか噛み合いは良くはなさそうですね ピクミンなしの状態で カムイの崖狩りと向き合わなきゃいけない可能性も出てくるわけですから そうですね おっと奥向いて",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 4,
+      "original": "ガキ狩り",
+      "corrected": "崖狩り",
+      "rule": "misheard: ガキ→崖"
+    }
+  ]
+}

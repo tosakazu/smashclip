@@ -1,0 +1,62 @@
+{
+  "id": "c1d1be43-abe2-4db8-83c2-b5a639327354",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.12,
+      "text": "He's going to knock it out of riddles now.",
+      "language": "en"
+    },
+    {
+      "start": 1.16,
+      "end": 2.16,
+      "text": "He's got to get it done the hard way.",
+      "language": "en"
+    },
+    {
+      "start": 2.52,
+      "end": 5.1,
+      "text": "And one thing Light is doing that I think was really smart,",
+      "language": "en"
+    },
+    {
+      "start": 5.7,
+      "end": 7.82,
+      "text": "and just as soon as I say it, he's going to eat.",
+      "language": "en"
+    },
+    {
+      "start": 8.06,
+      "end": 8.76,
+      "text": "Oh, no.",
+      "language": "en"
+    },
+    {
+      "start": 8.88,
+      "end": 9.46,
+      "text": "Are you kidding?",
+      "language": "en"
+    },
+    {
+      "start": 9.46,
+      "end": 9.98,
+      "text": "No.",
+      "language": "en"
+    },
+    {
+      "start": 10.12,
+      "end": 10.62,
+      "text": "You're gone.",
+      "language": "en"
+    },
+    {
+      "start": 11.04,
+      "end": 12.98,
+      "text": "You missed, and you died.",
+      "language": "en"
+    }
+  ],
+  "full_text": "He's going to knock it out of riddles now. He's got to get it done the hard way. And one thing Light is doing that I think was really smart, and just as soon as I say it, he's going to eat. Oh, no. Are you kidding? No. You're gone. You missed, and you died.",
+  "detected_language": "en",
+  "corrections": []
+}

@@ -1,0 +1,39 @@
+{
+  "id": "115764af-547c-4c5e-9ac4-f5af5919015e",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.32,
+      "text": "Accelerator more, it's pressing W more than ever.",
+      "language": "en"
+    },
+    {
+      "start": 3.46,
+      "end": 8.38,
+      "text": "Yeah, going in strong, trying to defend the nerfs, but the bomb is going to do it, barely graces the blast zone.",
+      "language": "en"
+    },
+    {
+      "start": 8.72,
+      "end": 13.56,
+      "text": "Surviving Raflow, again, still has to be again, another chance, what a back air!",
+      "language": "en"
+    },
+    {
+      "start": 14.14,
+      "end": 16.6,
+      "text": "It forces the airdodge again, no, two times!",
+      "language": "en"
+    }
+  ],
+  "full_text": "Accelerator more, it's pressing W more than ever. Yeah, going in strong, trying to defend the nerfs, but the bomb is going to do it, barely graces the blast zone. Surviving Raflow, again, still has to be again, another chance, what a back air! It forces the airdodge again, no, two times!",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "Surviving Reflow, again, still has to be again, another chance, what a backer!",
+      "corrected": "Surviving Raflow, again, still has to be again, another chance, what a back air!",
+      "rule": "Player name: Reflow→Raflow; Smash terminology: backer→back air"
+    }
+  ]
+}

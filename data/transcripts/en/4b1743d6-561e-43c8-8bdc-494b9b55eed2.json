@@ -1,0 +1,48 @@
+{
+  "id": "4b1743d6-561e-43c8-8bdc-494b9b55eed2",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.14,
+      "text": "Mashing out on the respawning minecart!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあ復活しているトロッコでの暴れ"
+    },
+    {
+      "start": 2.14,
+      "end": 4.94,
+      "text": "Nice back air spacing!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空後うまく差し込み"
+    },
+    {
+      "start": 4.94,
+      "end": 6.14,
+      "text": "Breaks the workbench in the process!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "作業台もついでに壊して"
+    },
+    {
+      "start": 6.14,
+      "end": 10.44,
+      "text": "Grabbing the ledge with the tether!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあ崖に糸掴ま"
+    }
+  ],
+  "full_text": "Mashing out on the respawning minecart! Nice back air spacing! Breaks the workbench in the process! Grabbing the ledge with the tether!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "空中後ろうまく差し込み",
+      "corrected": "空後うまく差し込み",
+      "rule": "move abbreviation"
+    }
+  ]
+}

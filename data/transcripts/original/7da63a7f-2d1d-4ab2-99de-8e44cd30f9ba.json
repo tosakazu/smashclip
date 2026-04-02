@@ -1,0 +1,45 @@
+{
+  "id": "7da63a7f-2d1d-4ab2-99de-8e44cd30f9ba",
+  "segments": [
+    {
+      "start": 0.5,
+      "end": 2.78,
+      "text": "ベクトル変更でこれを耐えかぶりましたが",
+      "language": "ja"
+    },
+    {
+      "start": 2.78,
+      "end": 5.92,
+      "text": "台の上からディレイをかけた空N",
+      "language": "ja"
+    },
+    {
+      "start": 5.92,
+      "end": 11.9,
+      "text": "先に最終ストック手をかけた黒船ですが空上",
+      "language": "ja"
+    }
+  ],
+  "full_text": "ベクトル変更でこれを耐えかぶりましたが 台の上からディレイをかけた空N 先に最終ストック手をかけた黒船ですが空上",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "レクトル変更でこれを買いかぶりましたが",
+      "corrected": "ベクトル変更でこれを耐えかぶりましたが",
+      "rule": "misheard: レクトル→ベクトル, 買いかぶり→耐えかぶり (ベク変 smash term)"
+    },
+    {
+      "segment_idx": 1,
+      "original": "空中ニュートラル",
+      "corrected": "空N",
+      "rule": "abbreviation: 空中ニュートラル→空N"
+    },
+    {
+      "segment_idx": 2,
+      "original": "空中",
+      "corrected": "空上",
+      "rule": "context: move is 空上"
+    }
+  ]
+}

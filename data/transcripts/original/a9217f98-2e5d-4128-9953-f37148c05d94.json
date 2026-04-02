@@ -1,0 +1,27 @@
+{
+  "id": "a9217f98-2e5d-4128-9953-f37148c05d94",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.16,
+      "text": "のもう1匹来る前の可能性もあります",
+      "language": "ja"
+    },
+    {
+      "start": 6.16,
+      "end": 8.24,
+      "text": "ワーク",
+      "language": "ja"
+    }
+  ],
+  "full_text": "のもう1匹来る前の可能性もあります ワーク",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "のもと1匹くる前の可能性もあります",
+      "corrected": "のもう1匹来る前の可能性もあります",
+      "rule": "Mishearing: のもと→のもう"
+    }
+  ]
+}

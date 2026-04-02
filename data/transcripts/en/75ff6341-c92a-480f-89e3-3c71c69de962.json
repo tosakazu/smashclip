@@ -1,0 +1,62 @@
+{
+  "id": "75ff6341-c92a-480f-89e3-3c71c69de962",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.5,
+      "text": "If Chef had kept it going, they'd eat the fair, but",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "シェフ継続してたら空前食らってますけど"
+    },
+    {
+      "start": 2.5,
+      "end": 4.06,
+      "text": "By stopping Chef at just one",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "シェフ1個でやめたことによって"
+    },
+    {
+      "start": 4.06,
+      "end": 6.76,
+      "text": "Miya was able to get the next side B",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "Miya側が次横Bを出す権利を得たっていう"
+    },
+    {
+      "start": 6.76,
+      "end": 9.38,
+      "text": "Chef's hitstop jams up the fair",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "シェフのヒットストップで空前突っかかっちゃうんで"
+    },
+    {
+      "start": 9.38,
+      "end": 10.56,
+      "text": "That's the play",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "行くんですね"
+    }
+  ],
+  "full_text": "If Chef had kept it going, they'd eat the fair, but By stopping Chef at just one Miya was able to get the next side B Chef's hitstop jams up the fair That's the play",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "空前下ってますけど",
+      "corrected": "空前食らってますけど",
+      "rule": "Whisper mishearing"
+    },
+    {
+      "segment_idx": 2,
+      "original": "右側側が次横気を出す権利を得るたっていう",
+      "corrected": "Miya側が次横Bを出す権利を得たっていう",
+      "rule": "player name + move name"
+    }
+  ]
+}

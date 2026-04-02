@@ -1,0 +1,44 @@
+{
+  "id": "69aab478-33f7-4da7-8771-d8743fcb1774",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 9.8,
+      "text": "Clashing with spins—there's still mashing potential, more action! Skip one, one more hit!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "はいとスピンぶつかり合って これはねでも暴れはあるまだあるな1回飛ばして1枚"
+    },
+    {
+      "start": 9.8,
+      "end": 18.12,
+      "text": "That's not necessarily the KO! Ohhhhhhh, he's sealed it! No way—upward!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "うっ撃墜とは限らないああああああああ 仕留めましたいやー上"
+    }
+  ],
+  "full_text": "Clashing with spins—there's still mashing potential, more action! Skip one, one more hit! That's not necessarily the KO! Ohhhhhhh, he's sealed it! No way—upward!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "おばあさんはある",
+      "corrected": "暴れはある",
+      "rule": "Whisper mishearing"
+    },
+    {
+      "segment_idx": 1,
+      "original": "きれいとは限られ",
+      "corrected": "撃墜とは限らない",
+      "rule": "Whisper mishearing"
+    },
+    {
+      "segment_idx": 1,
+      "original": "仕切りました",
+      "corrected": "仕留めました",
+      "rule": "Whisper mishearing"
+    }
+  ]
+}

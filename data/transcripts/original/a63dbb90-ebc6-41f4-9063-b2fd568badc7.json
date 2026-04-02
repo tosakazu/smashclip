@@ -1,0 +1,32 @@
+{
+  "id": "a63dbb90-ebc6-41f4-9063-b2fd568badc7",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.04,
+      "text": "それを当ててやろうと",
+      "language": "ja"
+    },
+    {
+      "start": 1.04,
+      "end": 2.76,
+      "text": "そういったね",
+      "language": "ja"
+    },
+    {
+      "start": 2.76,
+      "end": 5.6,
+      "text": "気概が見えるような気がします",
+      "language": "ja"
+    },
+    {
+      "start": 5.6,
+      "end": 7.42,
+      "text": "ここは空中下決めていきます",
+      "language": "ja"
+    }
+  ],
+  "full_text": "それを当ててやろうと そういったね 気概が見えるような気がします ここは空中下決めていきます",
+  "detected_language": "ja",
+  "corrections": []
+}

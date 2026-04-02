@@ -1,0 +1,62 @@
+{
+  "id": "65fac39c-ffc6-45bd-9723-fe769c1ee8d0",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.86,
+      "text": "The flow continues!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "しかし展開継続"
+    },
+    {
+      "start": 1.86,
+      "end": 3.8,
+      "text": "Whoa! Anti-air!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "うおー対空"
+    },
+    {
+      "start": 3.8,
+      "end": 5.8,
+      "text": "Fair from there!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そこに対して空中前で"
+    },
+    {
+      "start": 5.8,
+      "end": 7.94,
+      "text": "Out of the knockdown...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "転倒からここは"
+    },
+    {
+      "start": 7.94,
+      "end": 8.8,
+      "text": "Up smash!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "上スマッシュ"
+    }
+  ],
+  "full_text": "The flow continues! Whoa! Anti-air! Fair from there! Out of the knockdown... Up smash!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 3,
+      "original": "点灯からここは下",
+      "corrected": "転倒からここは",
+      "rule": "kanji homophone (てんとう=転倒, banana slip)"
+    },
+    {
+      "segment_idx": 4,
+      "original": "強運スマッシュ",
+      "corrected": "上スマッシュ",
+      "rule": "move name (上スマ)"
+    }
+  ]
+}

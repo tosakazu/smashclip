@@ -1,0 +1,90 @@
+{
+  "id": "6832e41c-5f89-4231-863e-c15b41fb8bf7",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.22,
+      "text": "Continuing to juggle with bair",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空中後ろで着地狩り継続"
+    },
+    {
+      "start": 1.22,
+      "end": 3.64,
+      "text": "They're not using down B at all, huh?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "なんか下B一切使わないですね"
+    },
+    {
+      "start": 3.64,
+      "end": 5.96,
+      "text": "Yeah, down B is pretty useful",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そうですね下B結構"
+    },
+    {
+      "start": 5.96,
+      "end": 7.48,
+      "text": "No way, is it different?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "まさか違うのか"
+    },
+    {
+      "start": 7.48,
+      "end": 9.78,
+      "text": "What else did down B have?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "下Bほかになんかあったっけ"
+    },
+    {
+      "start": 9.78,
+      "end": 10.96,
+      "text": "Like counters and stuff though, right?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "カウンターとかですけどね"
+    },
+    {
+      "start": 10.96,
+      "end": 12.14,
+      "text": "Alright, airdodging back",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあ後ろに回避"
+    }
+  ],
+  "full_text": "Continuing to juggle with bair. They're not using down B at all, huh? Yeah, down B is pretty useful. No way, is it different? What else did down B have? Like counters and stuff though, right? Alright, airdodging back",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "宇宙後ろ",
+      "corrected": "空中後ろ",
+      "rule": "kanji homophone (うちゅう→くうちゅう)"
+    },
+    {
+      "segment_idx": 1,
+      "original": "下火",
+      "corrected": "下B",
+      "rule": "move input (したビー)"
+    },
+    {
+      "segment_idx": 2,
+      "original": "下火",
+      "corrected": "下B",
+      "rule": "move input (したビー)"
+    },
+    {
+      "segment_idx": 4,
+      "original": "下火ほっかりなんかあったっけ",
+      "corrected": "下Bほかになんかあったっけ",
+      "rule": "move input + misheard word"
+    }
+  ]
+}

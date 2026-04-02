@@ -1,0 +1,98 @@
+{
+  "id": "ba16e188-8824-4405-9355-eeca6624b59a",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.62,
+      "text": "Yeah, totally possible",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "うーん 全然ありそう"
+    },
+    {
+      "start": 2.62,
+      "end": 5.28,
+      "text": "Oh! Dash grab! By the hydrant!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "おぉ!ダッシュつかみ! 消火栓の後ろに"
+    },
+    {
+      "start": 5.28,
+      "end": 9.32,
+      "text": "If he escapes, dash in!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "逃げるのであれば ダッシュで近づくぞと"
+    },
+    {
+      "start": 9.32,
+      "end": 11.7,
+      "text": "Ugh! This ledge? There's an apple, but...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "うぅ!この崖? リンゴが置いてあるが"
+    },
+    {
+      "start": 11.7,
+      "end": 13.84,
+      "text": "Down smash is also set",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "下スマッシュも置いてある"
+    },
+    {
+      "start": 13.84,
+      "end": 15.66,
+      "text": "That's way too much!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "無理すぎー"
+    },
+    {
+      "start": 15.66,
+      "end": 17.82,
+      "text": "Yeah, this ledge trap",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いやーこの崖固めで"
+    },
+    {
+      "start": 17.82,
+      "end": 20.26,
+      "text": "Took it clean first",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "まずはここ取り切りました"
+    }
+  ],
+  "full_text": "Yeah, totally possible Oh! Dash grab! By the hydrant! If he escapes, dash in! Ugh! This ledge? There's an apple, but... Down smash is also set That's way too much! Yeah, this ledge trap Took it clean first",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "ショウカゼンの後ろに",
+      "corrected": "消火栓の後ろに",
+      "rule": "Whisper error"
+    },
+    {
+      "segment_idx": 6,
+      "original": "崖がためで",
+      "corrected": "崖固めで",
+      "rule": "Whisper error"
+    },
+    {
+      "segment_idx": 3,
+      "original": "リンコ",
+      "corrected": "リンゴ",
+      "rule": "kanji homophone"
+    },
+    {
+      "segment_idx": 4,
+      "original": "スタスマッチ",
+      "corrected": "下スマッシュ",
+      "rule": "move name"
+    }
+  ]
+}

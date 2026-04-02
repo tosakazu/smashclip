@@ -1,0 +1,46 @@
+{
+  "id": "58ae9fc6-bfaa-4dbe-a85f-74cd2dbe19a6",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.0,
+      "text": "Forward throw sends them to the ledge!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "遠すぎる前投げて崖に追い込む"
+    },
+    {
+      "start": 4.0,
+      "end": 6.08,
+      "text": "Up special whiffs, ground KO!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "上必殺技やり過ごして地上バースト"
+    },
+    {
+      "start": 6.08,
+      "end": 8.28,
+      "text": "Great hit confirm!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "よくヒット確認"
+    }
+  ],
+  "full_text": "Forward throw sends them to the ledge! Up special whiffs, ground KO! Great hit confirm!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "地上バルト",
+      "corrected": "地上バースト",
+      "rule": "misheard word"
+    },
+    {
+      "segment_idx": 2,
+      "original": "よく仮に確認",
+      "corrected": "よくヒット確認",
+      "rule": "misheard word"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "id": "cf2ca125-e2e2-4677-8734-ad65fe78e946",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.8,
+      "text": "Megavolt and right there!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "メガボルト そしてここで"
+    },
+    {
+      "start": 1.8,
+      "end": 4.0,
+      "text": "Got it again! High on the hurtbox!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "再び当てたか 打点高め"
+    },
+    {
+      "start": 4.0,
+      "end": 4.92,
+      "text": "Did they airdodge?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "回避か"
+    },
+    {
+      "start": 4.92,
+      "end": 7.32,
+      "text": "Catches them with the grab!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "追い切れる 掴みで"
+    },
+    {
+      "start": 7.32,
+      "end": 9.44,
+      "text": "That's rough for Min Min!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これはミンミンにきつい"
+    },
+    {
+      "start": 9.44,
+      "end": 11.9,
+      "text": "Yeah but with that arm reach...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いやー今の腕伸ばしだと"
+    }
+  ],
+  "full_text": "Megavolt and right there! Got it again! High on the hurtbox! Did they airdodge? Catches them with the grab! That's rough for Min Min! Yeah but with that arm reach...",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 4,
+      "original": "これはみなぎにくつい",
+      "corrected": "これはミンミンにきつい",
+      "rule": "character name + mishearing (Min Min)"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "id": "82655b68-f8cf-44bb-afb1-66b3f3a62974",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.4,
+      "text": "内側変更は高く飛ぶか",
+      "language": "ja"
+    },
+    {
+      "start": 2.4,
+      "end": 3.96,
+      "text": "空下から空後",
+      "language": "ja"
+    },
+    {
+      "start": 3.96,
+      "end": 5.76,
+      "text": "空Nで着地",
+      "language": "ja"
+    },
+    {
+      "start": 5.76,
+      "end": 7.52,
+      "text": "この判定のデカいですね",
+      "language": "ja"
+    },
+    {
+      "start": 7.52,
+      "end": 9.54,
+      "text": "ガンダッシュ掴みから空N",
+      "language": "ja"
+    },
+    {
+      "start": 9.54,
+      "end": 11.62,
+      "text": "初めて見せただけでしたね",
+      "language": "ja"
+    },
+    {
+      "start": 11.62,
+      "end": 12.2,
+      "text": "深くま",
+      "language": "ja"
+    }
+  ],
+  "full_text": "内側変更は高く飛ぶか 空下から空後 空Nで着地 この判定のデカいですね ガンダッシュ掴みから空N 初めて見せただけでしたね 深くま",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "空下から空号",
+      "corrected": "空下から空後",
+      "rule": "kanji homophone"
+    },
+    {
+      "segment_idx": 2,
+      "original": "QNで着地",
+      "corrected": "空Nで着地",
+      "rule": "move abbreviation"
+    },
+    {
+      "segment_idx": 3,
+      "original": "この幅で当初のデカいですね",
+      "corrected": "この判定のデカいですね",
+      "rule": "Whisper mishearing"
+    },
+    {
+      "segment_idx": 4,
+      "original": "ガンダッシュ掴みからQN",
+      "corrected": "ガンダッシュ掴みから空N",
+      "rule": "move abbreviation"
+    }
+  ]
+}

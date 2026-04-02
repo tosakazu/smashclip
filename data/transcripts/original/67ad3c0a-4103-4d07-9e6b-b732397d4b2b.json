@@ -1,0 +1,27 @@
+{
+  "id": "67ad3c0a-4103-4d07-9e6b-b732397d4b2b",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.36,
+      "text": "互いに撃墜帯に入っていこうかというところ",
+      "language": "ja"
+    },
+    {
+      "start": 2.36,
+      "end": 4.96,
+      "text": "空中前これは",
+      "language": "ja"
+    }
+  ],
+  "full_text": "互いに撃墜帯に入っていこうかというところ 空中前これは",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "撃墜隊",
+      "corrected": "撃墜帯",
+      "rule": "kanji homophone (たい=帯, kill percent range)"
+    }
+  ]
+}

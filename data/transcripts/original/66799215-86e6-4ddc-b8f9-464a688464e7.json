@@ -1,0 +1,57 @@
+{
+  "id": "66799215-86e6-4ddc-b8f9-464a688464e7",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.58,
+      "text": "察力が",
+      "language": "ja"
+    },
+    {
+      "start": 0.58,
+      "end": 3.54,
+      "text": "窮地を救う",
+      "language": "ja"
+    },
+    {
+      "start": 3.54,
+      "end": 5.76,
+      "text": "回避上がりの上スマッシュ",
+      "language": "ja"
+    },
+    {
+      "start": 5.76,
+      "end": 6.78,
+      "text": "まだ撃墜はしません",
+      "language": "ja"
+    },
+    {
+      "start": 6.78,
+      "end": 8.9,
+      "text": "リードがなんとか助けてくれたが",
+      "language": "ja"
+    },
+    {
+      "start": 8.9,
+      "end": 9.98,
+      "text": "ここは上強空上",
+      "language": "ja"
+    }
+  ],
+  "full_text": "察力が 窮地を救う 回避上がりの上スマッシュ まだ撃墜はしません リードがなんとか助けてくれたが ここは上強空上",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "殺力",
+      "corrected": "察力",
+      "rule": "misheard word"
+    },
+    {
+      "segment_idx": 5,
+      "original": "上強空",
+      "corrected": "上強空上",
+      "rule": "move name completion (上強→空上 combo)"
+    }
+  ]
+}

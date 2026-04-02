@@ -1,0 +1,60 @@
+{
+  "id": "7d41e1cf-070f-4ffb-ad58-268790a2d149",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.7,
+      "text": "There are tons of moves that chain into up air, which is one of the best ways to extend your momentum,",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "伸びるゲインの一つである空上に繋がる技がかなり多いので"
+    },
+    {
+      "start": 4.7,
+      "end": 7.78,
+      "text": "So damage tends to rack up without you even noticing it, and that happens pretty often",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そういうところで知らない間にパーセントが溜まっているというのは結構あります"
+    },
+    {
+      "start": 7.78,
+      "end": 11.04,
+      "text": "Once one hit connects, you get about two more attacks following right after!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "一発当たったらその後もう2個くらい技ついてきます"
+    },
+    {
+      "start": 11.04,
+      "end": 14.02,
+      "text": "Oh! The throw—",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "おーっと投げバが"
+    }
+  ],
+  "full_text": "There are tons of moves that chain into up air, which is one of the best ways to extend your momentum, So damage tends to rack up without you even noticing it, and that happens pretty often Once one hit connects, you get about two more attacks following right after! Oh! The throw—",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "空中上",
+      "corrected": "空上",
+      "rule": "abbreviation: 空中上→空上"
+    },
+    {
+      "segment_idx": 1,
+      "original": "パーセル",
+      "corrected": "パーセント",
+      "rule": "misheard: パーセル→パーセント"
+    },
+    {
+      "segment_idx": 3,
+      "original": "投げ場が",
+      "corrected": "投げバが",
+      "rule": "misheard: 投げ場→投げバ (投げバースト)"
+    }
+  ]
+}

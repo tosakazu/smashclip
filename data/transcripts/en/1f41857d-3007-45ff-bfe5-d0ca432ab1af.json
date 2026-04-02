@@ -1,0 +1,25 @@
+{
+  "id": "1f41857d-3007-45ff-bfe5-d0ca432ab1af",
+  "segments": [
+    {
+      "start": 0.76,
+      "end": 4.6,
+      "text": "Reads the recovery and lands a clean Dolphin Slash!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "見ています後ろに帰ったところにしっかりとドルフィンを当てて合わせていきました"
+    },
+    {
+      "start": 4.6,
+      "end": 5.28,
+      "text": "fair",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空前"
+    }
+  ],
+  "full_text": "Reads the recovery and lands a clean Dolphin Slash! fair",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

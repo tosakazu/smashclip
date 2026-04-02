@@ -1,0 +1,63 @@
+{
+  "id": "ea66b74b-53ac-4cd6-89f0-6434102419be",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.4,
+      "text": "生存できたのはでかいと見るがそうと見るが",
+      "language": "ja"
+    },
+    {
+      "start": 2.4,
+      "end": 5.28,
+      "text": "ダイヤを2個採掘は完了していて",
+      "language": "ja"
+    },
+    {
+      "start": 5.28,
+      "end": 7.08,
+      "text": "ダッシュ攻撃に差し返しのダッシュ攻撃",
+      "language": "ja"
+    },
+    {
+      "start": 7.08,
+      "end": 9.34,
+      "text": "3段4段ブロックを重ねて",
+      "language": "ja"
+    },
+    {
+      "start": 9.34,
+      "end": 11.1,
+      "text": "らるが帰ってこれないぞ",
+      "language": "ja"
+    },
+    {
+      "start": 11.1,
+      "end": 12.0,
+      "text": "あ、逃げない",
+      "language": "ja"
+    },
+    {
+      "start": 12.0,
+      "end": 14.34,
+      "text": "もう壁が作られ",
+      "language": "ja"
+    }
+  ],
+  "full_text": "生存できたのはでかいと見るがそうと見るが ダイヤを2個採掘は完了していて ダッシュ攻撃に差し返しのダッシュ攻撃 3段4段ブロックを重ねて らるが帰ってこれないぞ あ、逃げない もう壁が作られ",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "存命できた",
+      "corrected": "生存できた",
+      "rule": "context"
+    },
+    {
+      "segment_idx": 4,
+      "original": "ライジ",
+      "corrected": "らる",
+      "rule": "player name"
+    }
+  ]
+}

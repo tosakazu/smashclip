@@ -1,0 +1,62 @@
+{
+  "id": "098c359b-3100-4bb3-8c67-d834fe008d6c",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.66,
+      "text": "Connected deep, so no confirmed combo",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "深いところで当てたんで確定は無いっすね"
+    },
+    {
+      "start": 1.66,
+      "end": 3.7,
+      "text": "Anti-air doesn't have a good route",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "対空なんでいいルートは無いか"
+    },
+    {
+      "start": 3.7,
+      "end": 4.7,
+      "text": "Back air!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空後"
+    },
+    {
+      "start": 4.7,
+      "end": 6.38,
+      "text": "90 percent and they're out!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "90パー飛び出してきた"
+    },
+    {
+      "start": 6.38,
+      "end": 8.08,
+      "text": "Forward air!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空前"
+    }
+  ],
+  "full_text": "Connected deep, so no confirmed combo. Anti-air doesn't have a good route. Back air! 90 percent and they're out! Forward air!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "90後ろ",
+      "corrected": "空後",
+      "rule": "Move abbreviation correction (90後ろ → 空後, Whisper confused kuu with ku/9)"
+    },
+    {
+      "segment_idx": 4,
+      "original": "90前",
+      "corrected": "空前",
+      "rule": "Move abbreviation correction (90前 → 空前, Whisper confused kuu with ku/9)"
+    }
+  ]
+}

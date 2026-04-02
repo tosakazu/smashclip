@@ -1,0 +1,33 @@
+{
+  "id": "477b2637-059e-4278-88f3-91cc2ef9d61c",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.84,
+      "text": "2回目の崖捕まりに対して",
+      "language": "ja"
+    },
+    {
+      "start": 4.84,
+      "end": 7.4,
+      "text": "結構ダッシュ攻撃しに行けるんですけど",
+      "language": "ja"
+    },
+    {
+      "start": 7.4,
+      "end": 9.22,
+      "text": "怖すぎるけどね行くのね",
+      "language": "ja"
+    }
+  ],
+  "full_text": "2回目の崖捕まりに対して 結構ダッシュ攻撃しに行けるんですけど 怖すぎるけどね行くのね",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "ガキ捕まり",
+      "corrected": "崖捕まり",
+      "rule": "kanji homophone"
+    }
+  ]
+}

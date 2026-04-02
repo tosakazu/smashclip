@@ -1,0 +1,45 @@
+{
+  "id": "132a8af4-6e62-4194-b22f-dd56c054ec73",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.54,
+      "text": "横スマッシュは仕事に出して",
+      "language": "ja"
+    },
+    {
+      "start": 1.54,
+      "end": 3.08,
+      "text": "横スマッシュ",
+      "language": "ja"
+    },
+    {
+      "start": 3.08,
+      "end": 5.68,
+      "text": "ここに来て掴みの距離も",
+      "language": "ja"
+    },
+    {
+      "start": 5.68,
+      "end": 7.04,
+      "text": "逆手に取っていくのか",
+      "language": "ja"
+    },
+    {
+      "start": 7.04,
+      "end": 9.06,
+      "text": "それでもすぐに取り",
+      "language": "ja"
+    }
+  ],
+  "full_text": "横スマッシュは仕事に出して 横スマッシュ ここに来て掴みの距離も 逆手に取っていくのか それでもすぐに取り",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "ここに来て掴みの弓矢も",
+      "corrected": "ここに来て掴みの距離も",
+      "rule": "Whisper mishearing: 弓矢→距離"
+    }
+  ]
+}

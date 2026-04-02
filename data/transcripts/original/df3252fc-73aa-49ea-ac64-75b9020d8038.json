@@ -1,0 +1,45 @@
+{
+  "id": "df3252fc-73aa-49ea-ac64-75b9020d8038",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.18,
+      "text": "分かっていた!",
+      "language": "ja"
+    },
+    {
+      "start": 1.4,
+      "end": 2.36,
+      "text": "あー回避見てる!",
+      "language": "ja"
+    },
+    {
+      "start": 2.92,
+      "end": 5.24,
+      "text": "ラインがあるのでまだ下スマしなかったが",
+      "language": "ja"
+    },
+    {
+      "start": 5.24,
+      "end": 6.58,
+      "text": "おー!",
+      "language": "ja"
+    },
+    {
+      "start": 6.76,
+      "end": 7.46,
+      "text": "余裕してる",
+      "language": "ja"
+    }
+  ],
+  "full_text": "分かっていた! あー回避見てる! ラインがあるのでまだ下スマしなかったが おー! 余裕してる",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "下水しなかったが",
+      "corrected": "下スマしなかったが",
+      "rule": "smash term (down smash)"
+    }
+  ]
+}

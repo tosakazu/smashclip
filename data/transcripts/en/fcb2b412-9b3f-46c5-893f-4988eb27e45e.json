@@ -1,0 +1,70 @@
+{
+  "id": "fcb2b412-9b3f-46c5-893f-4988eb27e45e",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.4,
+      "text": "Playing fearless here",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここ弱気がない状態で"
+    },
+    {
+      "start": 3.4,
+      "end": 4.0,
+      "text": "Playing fearless here",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここ弱気がない状態で"
+    },
+    {
+      "start": 4.0,
+      "end": 5.0,
+      "text": "That's tough!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "難しいか"
+    },
+    {
+      "start": 5.0,
+      "end": 5.72,
+      "text": "Can they land it?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ポーミング出るのか"
+    },
+    {
+      "start": 5.72,
+      "end": 6.02,
+      "text": "Seriously?!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "マジか"
+    },
+    {
+      "start": 6.02,
+      "end": 7.78,
+      "text": "That's insane!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "すっげー"
+    }
+  ],
+  "full_text": "Playing fearless here Playing fearless here That's tough! Can they land it? Seriously?! That's insane!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 3,
+      "original": "ポーニング出るのか",
+      "corrected": "ポーミング出るのか",
+      "rule": "misheard"
+    },
+    {
+      "segment_idx": 4,
+      "original": "マリック",
+      "corrected": "マジか",
+      "rule": "misheard"
+    }
+  ]
+}

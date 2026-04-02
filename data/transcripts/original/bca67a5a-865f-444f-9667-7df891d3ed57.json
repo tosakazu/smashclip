@@ -1,0 +1,45 @@
+{
+  "id": "bca67a5a-865f-444f-9667-7df891d3ed57",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.18,
+      "text": "もちろん普通の攻撃上がり",
+      "language": "ja"
+    },
+    {
+      "start": 3.18,
+      "end": 5.1,
+      "text": "勝つことができる",
+      "language": "ja"
+    },
+    {
+      "start": 5.1,
+      "end": 6.64,
+      "text": "いやーヤマナクション攻撃上がり",
+      "language": "ja"
+    },
+    {
+      "start": 6.64,
+      "end": 8.44,
+      "text": "ここはずぶといだが",
+      "language": "ja"
+    },
+    {
+      "start": 8.44,
+      "end": 9.3,
+      "text": "回避を",
+      "language": "ja"
+    }
+  ],
+  "full_text": "もちろん普通の攻撃上がり 勝つことができる いやーヤマナクション攻撃上がり ここはずぶといだが 回避を",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "オナクション",
+      "corrected": "ヤマナクション",
+      "rule": "player name"
+    }
+  ]
+}

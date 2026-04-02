@@ -1,0 +1,97 @@
+{
+  "id": "6daf94df-519a-4ce3-a304-7b132074ba9e",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.72,
+      "text": "Stopping that spin with neutral B is pretty tricky, you know?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "1Bでスピンを止めるっていうのもなかなかクセものですよね"
+    },
+    {
+      "start": 2.72,
+      "end": 6.46,
+      "text": "Yeah, you have to navigate through that carefully, Lars",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そうですねそこはかいくぐっていかなければいけませんねラース選手"
+    },
+    {
+      "start": 6.46,
+      "end": 8.84,
+      "text": "That getup isn't precise enough",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "的確にぴったりその上がりをしていません"
+    },
+    {
+      "start": 8.84,
+      "end": 10.94,
+      "text": "Forward tilt doesn't hit anymore",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "横強からもう当たらない"
+    },
+    {
+      "start": 10.94,
+      "end": 11.84,
+      "text": "Homing Attack",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ホーミングアタック"
+    },
+    {
+      "start": 11.84,
+      "end": 13.38,
+      "text": "Still has a jump, but...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ジャンプはまだ残っているが"
+    },
+    {
+      "start": 13.38,
+      "end": 13.94,
+      "text": "Nice!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "うまい"
+    },
+    {
+      "start": 13.94,
+      "end": 15.04,
+      "text": "Stops it completely—well done!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "止め切りますお見事"
+    },
+    {
+      "start": 15.04,
+      "end": 16.88,
+      "text": "Yeah, when it comes to Final Destination...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "まあねあの終点っていうと"
+    }
+  ],
+  "full_text": "Stopping that spin with neutral B is pretty tricky, you know? Yeah, you have to navigate through that carefully, Lars. That getup isn't precise enough. Forward tilt doesn't hit anymore. Homing Attack. Still has a jump, but... Nice! Stops it completely—well done! Yeah, when it comes to Final Destination...",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_index": 0,
+      "original": "ワンピューブでスピンを止めるっていうのもなかなかクセものですよね",
+      "corrected": "1Bでスピンを止めるっていうのもなかなかクセものですよね"
+    },
+    {
+      "segment_index": 2,
+      "original": "違う器用にピカがその上がりをしていません",
+      "corrected": "的確にぴったりその上がりをしていません"
+    },
+    {
+      "segment_index": 4,
+      "original": "オーディングアタック",
+      "corrected": "ホーミングアタック"
+    }
+  ]
+}

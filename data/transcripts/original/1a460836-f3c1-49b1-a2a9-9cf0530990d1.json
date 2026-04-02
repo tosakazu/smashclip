@@ -1,0 +1,45 @@
+{
+  "id": "1a460836-f3c1-49b1-a2a9-9cf0530990d1",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.56,
+      "text": "今度はツムストとドクターマリオ",
+      "language": "ja"
+    },
+    {
+      "start": 1.56,
+      "end": 5.2,
+      "text": "カプセル読み合い",
+      "language": "ja"
+    },
+    {
+      "start": 5.2,
+      "end": 8.28,
+      "text": "つかみをジャンプで受ける白雪",
+      "language": "ja"
+    },
+    {
+      "start": 8.28,
+      "end": 10.02,
+      "text": "上Bを",
+      "language": "ja"
+    },
+    {
+      "start": 10.02,
+      "end": 11.24,
+      "text": "入れてきてきて",
+      "language": "ja"
+    }
+  ],
+  "full_text": "今度はツムストとドクターマリオ カプセル読み合い つかみをジャンプで受ける白雪 上Bを 入れてきてきて",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "今度はジムスとダクターマリオ",
+      "corrected": "今度はツムストとドクターマリオ",
+      "rule": "Player name correction: ジムス→ツムスト (Tsumusuto), ダクター→ドクター"
+    }
+  ]
+}

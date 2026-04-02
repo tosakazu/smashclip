@@ -1,0 +1,51 @@
+{
+  "id": "ce226578-54f5-4264-a579-3eefcc3af9ab",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.62,
+      "text": "この空下コンボは夢が詰まっているから",
+      "language": "ja"
+    },
+    {
+      "start": 2.62,
+      "end": 4.46,
+      "text": "ただ空後",
+      "language": "ja"
+    },
+    {
+      "start": 4.46,
+      "end": 5.8,
+      "text": "あ、叩くで",
+      "language": "ja"
+    },
+    {
+      "start": 5.8,
+      "end": 8.74,
+      "text": "受け身がないのは怖すぎるんだよな",
+      "language": "ja"
+    },
+    {
+      "start": 8.74,
+      "end": 11.16,
+      "text": "あ、さすがにこれは月光河の横スマッシュで",
+      "language": "ja"
+    },
+    {
+      "start": 11.16,
+      "end": 12.38,
+      "text": "オムラオとニッコリ",
+      "language": "ja"
+    }
+  ],
+  "full_text": "この空下コンボは夢が詰まっているから ただ空後 あ、叩くで 受け身がないのは怖すぎるんだよな あ、さすがにこれは月光河の横スマッシュで オムラオとニッコリ",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "ただ空中しろ",
+      "corrected": "ただ空後",
+      "rule": "smash term (空後=back air)"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "9fa958da-43e4-4945-b67b-0d344ff8864f",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.58,
+      "text": "どうだ空中下",
+      "language": "ja"
+    },
+    {
+      "start": 2.58,
+      "end": 3.62,
+      "text": "入ったぞ",
+      "language": "ja"
+    },
+    {
+      "start": 3.62,
+      "end": 4.86,
+      "text": "これはどうだ",
+      "language": "ja"
+    },
+    {
+      "start": 4.86,
+      "end": 6.12,
+      "text": "飛んでいく",
+      "language": "ja"
+    }
+  ],
+  "full_text": "どうだ空中下 入ったぞ これはどうだ 飛んでいく",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "空中死亡",
+      "corrected": "空中下",
+      "rule": "move name (down air)"
+    }
+  ]
+}

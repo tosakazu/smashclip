@@ -1,0 +1,57 @@
+{
+  "id": "58db4ea1-7576-4047-9747-9e040f1e3c48",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.68,
+      "text": "Bro, come here.",
+      "language": "en"
+    },
+    {
+      "start": 0.74,
+      "end": 1.62,
+      "text": "Caught you air dodging there.",
+      "language": "en"
+    },
+    {
+      "start": 1.68,
+      "end": 4.66,
+      "text": "He's going to get you back off the stage exactly where he wants you.",
+      "language": "en"
+    },
+    {
+      "start": 5.24,
+      "end": 6.7,
+      "text": "He's going to opt for the chef there.",
+      "language": "en"
+    },
+    {
+      "start": 6.8,
+      "end": 8.16,
+      "text": "Tries to get the bomb in the ledge.",
+      "language": "en"
+    },
+    {
+      "start": 8.42,
+      "end": 9.82,
+      "text": "That'll going to kill, though.",
+      "language": "en"
+    }
+  ],
+  "full_text": "Bro, come here. Caught you air dodging there. He's going to get you back off the stage exactly where he wants you. He's going to opt for the chef there. Tries to get the bomb in the ledge. That'll going to kill, though.",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "hair dodging",
+      "corrected": "air dodging",
+      "rule": "misheard word"
+    },
+    {
+      "segment_idx": 5,
+      "original": "Turtle",
+      "corrected": "That'll",
+      "rule": "misheard word"
+    }
+  ]
+}

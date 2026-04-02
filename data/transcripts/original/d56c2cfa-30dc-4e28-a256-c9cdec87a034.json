@@ -1,0 +1,27 @@
+{
+  "id": "d56c2cfa-30dc-4e28-a256-c9cdec87a034",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.16,
+      "text": "Just like a vibe check. Are you ready? Are you holding shield? Are you looking out for this?",
+      "language": "en"
+    },
+    {
+      "start": 5.46,
+      "end": 7.24,
+      "text": "And Raflow in a critical state. Into shield!",
+      "language": "en"
+    }
+  ],
+  "full_text": "Just like a vibe check. Are you ready? Are you holding shield? Are you looking out for this? And Raflow in a critical state. Into shield!",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "Ruffalo",
+      "corrected": "Raflow",
+      "rule": "player name"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "dbeffd02-b316-42e9-89d2-d0a47e7a9c86",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.36,
+      "text": "的確一閃",
+      "language": "ja"
+    }
+  ],
+  "full_text": "的確一閃",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "敵歴一戦",
+      "corrected": "的確一閃",
+      "rule": "misheard word"
+    }
+  ]
+}

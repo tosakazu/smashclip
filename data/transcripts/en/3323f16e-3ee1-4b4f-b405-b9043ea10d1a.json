@@ -1,0 +1,40 @@
+{
+  "id": "3323f16e-3ee1-4b4f-b405-b9043ea10d1a",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.78,
+      "text": "Racking up tons of damage through multi-hit combos, working toward the stock - that's the gameplan",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "触れた回数ダメージコンボをいっぱい稼いで撃墜までというイメージで"
+    },
+    {
+      "start": 5.78,
+      "end": 10.8,
+      "text": "Acola's Steve, though, shows off that bold, one-shot KO power",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "アコラ選手側のスティーブは何か大胆な一発の撃墜力というのを見せてくれるようなイメージがありますが"
+    },
+    {
+      "start": 10.8,
+      "end": 11.98,
+      "text": "And there it is!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあこれですよね"
+    }
+  ],
+  "full_text": "Racking up tons of damage through multi-hit combos, working toward the stock - that's the gameplan Acola's Steve, though, shows off that bold, one-shot KO power And there it is!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "振れて回数ダメージコンボ",
+      "corrected": "触れた回数ダメージコンボ",
+      "rule": "misheard: 触れた"
+    }
+  ]
+}

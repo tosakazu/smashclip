@@ -1,0 +1,70 @@
+{
+  "id": "1b746866-a7b0-49a8-843e-b6563eb43014",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.04,
+      "text": "Making it back clean is enough for that player",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "戻っただけ通していいですよねそういう選手的には"
+    },
+    {
+      "start": 3.04,
+      "end": 5.72,
+      "text": "Doesn't need the KO, just needs to play it out",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "撃墜しなきゃいいんだよね"
+    },
+    {
+      "start": 5.72,
+      "end": 7.86,
+      "text": "Spring throw won't make it in time",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "じゃあスプリング投げは間に合わない"
+    },
+    {
+      "start": 7.86,
+      "end": 9.42,
+      "text": "Working it as a follow-up situation",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "拾いとして展開"
+    },
+    {
+      "start": 9.42,
+      "end": 11.88,
+      "text": "Taking the down hit",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "下受けてる"
+    },
+    {
+      "start": 11.88,
+      "end": 14.76,
+      "text": "Great reaction there!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "よく反応しました"
+    }
+  ],
+  "full_text": "Making it back clean is enough for that player Doesn't need the KO, just needs to play it out Spring throw won't make it in time Working it as a follow-up situation Taking the down hit Great reaction there!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "じゃあスシロップ投げは間に合わない",
+      "corrected": "じゃあスプリング投げは間に合わない",
+      "rule": "Whisper mishearing: スシロップ→スプリング (Sonic move)"
+    },
+    {
+      "segment_idx": 3,
+      "original": "ヒアリーとして展開",
+      "corrected": "拾いとして展開",
+      "rule": "Whisper mishearing: ヒアリー→拾い"
+    }
+  ]
+}

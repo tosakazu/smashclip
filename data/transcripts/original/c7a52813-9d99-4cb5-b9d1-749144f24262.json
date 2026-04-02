@@ -1,0 +1,33 @@
+{
+  "id": "c7a52813-9d99-4cb5-b9d1-749144f24262",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.86,
+      "text": "空中ニュートラルから弓矢は大丈夫ですね",
+      "language": "ja"
+    },
+    {
+      "start": 2.86,
+      "end": 8.28,
+      "text": "ここどうするか空中ニュートラル弓矢",
+      "language": "ja"
+    },
+    {
+      "start": 8.28,
+      "end": 11.56,
+      "text": "これは上Bであっと上Bは届かなかった",
+      "language": "ja"
+    }
+  ],
+  "full_text": "空中ニュートラルから弓矢は大丈夫ですね ここどうするか空中ニュートラル弓矢 これは上Bであっと上Bは届かなかった",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "上火",
+      "corrected": "上B",
+      "rule": "smash term (上必殺技)"
+    }
+  ]
+}

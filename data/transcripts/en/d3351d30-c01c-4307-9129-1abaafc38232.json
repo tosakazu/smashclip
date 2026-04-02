@@ -1,0 +1,24 @@
+{
+  "id": "d3351d30-c01c-4307-9129-1abaafc38232",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 12.12,
+      "text": "Converting those punishes is crucial to winning this match—especially against Hero where the spell game creates massive swing potential. That's where you gotta separate yourself. But first, showing Mera into the fair, another fair to secure the stock!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "リターンを得ることが出るか勝敗特に呪文という莫大な一発なリターン差が出る勇者に対してはそこで差をつけていきたいところですがまずはメラチラ見せから降り空中前もう一回空中前で足を潰して"
+    }
+  ],
+  "full_text": "Converting those punishes is crucial to winning this match—especially against Hero where the spell game creates massive swing potential. That's where you gotta separate yourself. But first, showing Mera into the fair, another fair to secure the stock!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "メラチラ見せから下ない空中前",
+      "corrected": "メラチラ見せから降り空中前",
+      "rule": "smash term (下ない→降り, descending aerial)"
+    }
+  ]
+}

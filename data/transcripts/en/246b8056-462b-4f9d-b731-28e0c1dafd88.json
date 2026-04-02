@@ -1,0 +1,41 @@
+{
+  "id": "246b8056-462b-4f9d-b731-28e0c1dafd88",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.24,
+      "text": "Setting up that down smash with long active frames!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これは持続が長い下スマッシュを置いていきます"
+    },
+    {
+      "start": 3.24,
+      "end": 4.82,
+      "text": "Off the jump getup!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ジャンプ上がりでね"
+    },
+    {
+      "start": 4.82,
+      "end": 6.62,
+      "text": "That counts as a smash attack!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これじゃこっちがスマッシュだって"
+    },
+    {
+      "start": 6.62,
+      "end": 7.64,
+      "text": "Why?!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "なんでだよ"
+    }
+  ],
+  "full_text": "Setting up that down smash with long active frames! Off the jump getup! That counts as a smash attack! Why?!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

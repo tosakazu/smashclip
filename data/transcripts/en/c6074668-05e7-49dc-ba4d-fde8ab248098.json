@@ -1,0 +1,48 @@
+{
+  "id": "c6074668-05e7-49dc-ba4d-fde8ab248098",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.66,
+      "text": "Tea's also pushing it hard, looks like",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "Teaも結構いったるでみたいな"
+    },
+    {
+      "start": 2.66,
+      "end": 4.48,
+      "text": "I'm getting that vibe",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そんな匂いを感じます"
+    },
+    {
+      "start": 4.48,
+      "end": 7.08,
+      "text": "But with Sonic though...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これはでもソニックなら"
+    },
+    {
+      "start": 7.08,
+      "end": 11.36,
+      "text": "If they could get that dodge, it was about whether they could recover, but...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "回避あれば戻ってこれるかというところでしたが"
+    }
+  ],
+  "full_text": "Tea's also pushing it hard, looks like I'm getting that vibe But with Sonic though... If they could get that dodge, it was about whether they could recover, but...",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "地位",
+      "corrected": "Tea",
+      "rule": "player name"
+    }
+  ]
+}

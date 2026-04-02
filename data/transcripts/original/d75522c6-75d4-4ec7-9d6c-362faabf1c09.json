@@ -1,0 +1,51 @@
+{
+  "id": "d75522c6-75d4-4ec7-9d6c-362faabf1c09",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.72,
+      "text": "さあここは撃墜帯のアイスクライマー",
+      "language": "ja"
+    },
+    {
+      "start": 1.72,
+      "end": 3.02,
+      "text": "横必殺食らってしまうと",
+      "language": "ja"
+    },
+    {
+      "start": 3.02,
+      "end": 5.56,
+      "text": "さあどういうルートから即死をかましてくるのかわからない",
+      "language": "ja"
+    },
+    {
+      "start": 5.56,
+      "end": 7.46,
+      "text": "この全員一合クラスをしてみてよ",
+      "language": "ja"
+    },
+    {
+      "start": 7.46,
+      "end": 9.4,
+      "text": "幕開け",
+      "language": "ja"
+    }
+  ],
+  "full_text": "さあここは撃墜帯のアイスクライマー 横必殺食らってしまうと さあどういうルートから即死をかましてくるのかわからない この全員一合クラスをしてみてよ 幕開け",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "さあここは撃墜投射のアイスクライマー",
+      "corrected": "さあここは撃墜帯のアイスクライマー",
+      "rule": "smash terminology (撃墜帯)"
+    },
+    {
+      "segment_idx": 4,
+      "original": "幕開き",
+      "corrected": "幕開け",
+      "rule": "whisper_misrecognition"
+    }
+  ]
+}

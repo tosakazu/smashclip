@@ -1,0 +1,49 @@
+{
+  "id": "8ab81f9f-873c-4bce-8dfd-b075bcb6c451",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.56,
+      "text": "I think it comes out pretty often, so...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "かなり起きるのかなと思っているので"
+    },
+    {
+      "start": 1.56,
+      "end": 4.0,
+      "text": "Honestly, I think any option works",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "正直色はどれでもいいのかなと思ってます"
+    },
+    {
+      "start": 4.0,
+      "end": 9.56,
+      "text": "Oh",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "おーと"
+    },
+    {
+      "start": 9.56,
+      "end": 12.56,
+      "text": "Making it look like going all-in on the purple tech",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "紫処理に全力と見せかけて"
+    },
+    {
+      "start": 12.56,
+      "end": 12.94,
+      "text": "Right away",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "すぐ"
+    }
+  ],
+  "full_text": "I think it comes out pretty often, so... Honestly, I think any option works. Oh. Making it look like going all-in on the purple tech. Right away.",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

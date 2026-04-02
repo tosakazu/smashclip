@@ -1,0 +1,48 @@
+{
+  "id": "9763012e-85d2-4807-9ac3-ee4c8f6124d3",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.1,
+      "text": "Yeah, Sonic's applying pressure!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "はい、ソニック詰めてきている"
+    },
+    {
+      "start": 3.1,
+      "end": 4.02,
+      "text": "And forward smash!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そして横スマッシュ"
+    },
+    {
+      "start": 4.02,
+      "end": 5.88,
+      "text": "That cancel's timing though—",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "今のもキャンセルのタイミングの"
+    },
+    {
+      "start": 5.88,
+      "end": 6.82,
+      "text": "—depending on it, that could've been a KO!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いかによっては撃墜でしたか"
+    }
+  ],
+  "full_text": "Yeah, Sonic's applying pressure! And forward smash! That cancel's timing though— —depending on it, that could've been a KO!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 3,
+      "original": "激戦でしたか",
+      "corrected": "撃墜でしたか",
+      "rule": "kanji homophone (激戦→撃墜)"
+    }
+  ]
+}

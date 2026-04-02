@@ -1,0 +1,68 @@
+{
+  "id": "6eeebe0e-9ee6-484e-9e40-55bb157161e3",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "5% against Gamowitch, that's nothing to scoff at",
+      "language": "en"
+    },
+    {
+      "start": 2.0,
+      "end": 4.0,
+      "text": "Nah look at that, look a perfect chase down",
+      "language": "en"
+    },
+    {
+      "start": 4.0,
+      "end": 6.0,
+      "text": "Throws the ferret in case you go to ledge but also",
+      "language": "en"
+    },
+    {
+      "start": 6.0,
+      "end": 8.0,
+      "text": "ready to intercept you, oh again",
+      "language": "en"
+    },
+    {
+      "start": 8.0,
+      "end": 10.0,
+      "text": "on the stage, coming back, you're not going",
+      "language": "en"
+    },
+    {
+      "start": 10.0,
+      "end": 12.0,
+      "text": "out of the way, you're gonna stay out there",
+      "language": "en"
+    },
+    {
+      "start": 12.0,
+      "end": 14.0,
+      "text": "until I say so, dash attack, not yet",
+      "language": "en"
+    },
+    {
+      "start": 14.0,
+      "end": 16.0,
+      "text": "but still a really good showing, look at that",
+      "language": "en"
+    },
+    {
+      "start": 16.0,
+      "end": 18.0,
+      "text": "floating slowly, using the down beat to float",
+      "language": "en"
+    },
+    {
+      "start": 18.0,
+      "end": 20.0,
+      "text": "slowly",
+      "language": "en"
+    }
+  ],
+  "full_text": "5% against Gamowitch, that's nothing to scoff at Nah look at that, look a perfect chase down Throws the ferret in case you go to ledge but also ready to intercept you, oh again on the stage, coming back, you're not going out of the way, you're gonna stay out there until I say so, dash attack, not yet but still a really good showing, look at that floating slowly, using the down beat to float slowly",
+  "detected_language": "en",
+  "corrections": []
+}

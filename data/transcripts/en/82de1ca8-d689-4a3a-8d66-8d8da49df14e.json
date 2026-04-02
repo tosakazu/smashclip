@@ -1,0 +1,48 @@
+{
+  "id": "82de1ca8-d689-4a3a-8d66-8d8da49df14e",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.2,
+      "text": "Left or right?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "左側か右側か"
+    },
+    {
+      "start": 2.2,
+      "end": 3.16,
+      "text": "True 50-50!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "二者択一のところ"
+    },
+    {
+      "start": 3.16,
+      "end": 6.08,
+      "text": "Tensoku is way too good!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "天空上手すぎなるほど"
+    },
+    {
+      "start": 6.08,
+      "end": 7.96,
+      "text": "Got the mixup!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "めくったところ"
+    }
+  ],
+  "full_text": "Left or right? True 50-50! Tensoku is way too good! Got the mixup!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "二者卓一のところ",
+      "corrected": "二者択一のところ",
+      "rule": "kanji homophone"
+    }
+  ]
+}

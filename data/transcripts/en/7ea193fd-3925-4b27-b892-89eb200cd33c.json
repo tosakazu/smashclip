@@ -1,0 +1,78 @@
+{
+  "id": "7ea193fd-3925-4b27-b892-89eb200cd33c",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "I see",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "なるほど"
+    },
+    {
+      "start": 2.0,
+      "end": 3.0,
+      "text": "It's 1-1",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "対戦数は1-1"
+    },
+    {
+      "start": 3.0,
+      "end": 4.0,
+      "text": "109%",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "109%"
+    },
+    {
+      "start": 4.0,
+      "end": 5.0,
+      "text": "Nah",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いやー"
+    },
+    {
+      "start": 5.0,
+      "end": 6.0,
+      "text": "Like this",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "こう"
+    },
+    {
+      "start": 6.0,
+      "end": 7.0,
+      "text": "Whoa!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "うえぇー"
+    },
+    {
+      "start": 7.0,
+      "end": 9.0,
+      "text": "Got away!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "抜けちー"
+    }
+  ],
+  "full_text": "I see It's 1-1 109% Nah Like this Whoa! Got away!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "打速は1-1",
+      "corrected": "対戦数は1-1",
+      "rule": "misheard: 打速→対戦数"
+    },
+    {
+      "segment_idx": 6,
+      "original": "負けちー",
+      "corrected": "抜けちー",
+      "rule": "misheard: 負けちー→抜けちー (escaped/broke free)"
+    }
+  ]
+}

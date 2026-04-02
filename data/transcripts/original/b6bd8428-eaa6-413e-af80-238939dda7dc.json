@@ -1,0 +1,63 @@
+{
+  "id": "b6bd8428-eaa6-413e-af80-238939dda7dc",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.06,
+      "text": "標準搭載",
+      "language": "ja"
+    },
+    {
+      "start": 1.06,
+      "end": 2.94,
+      "text": "今日のこの切り離しに",
+      "language": "ja"
+    },
+    {
+      "start": 2.94,
+      "end": 3.96,
+      "text": "空中上を合わせて",
+      "language": "ja"
+    },
+    {
+      "start": 3.96,
+      "end": 5.42,
+      "text": "スマッシュ攻撃",
+      "language": "ja"
+    },
+    {
+      "start": 5.42,
+      "end": 7.42,
+      "text": "上からもしかし見えている",
+      "language": "ja"
+    },
+    {
+      "start": 7.42,
+      "end": 9.52,
+      "text": "よく通ったね",
+      "language": "ja"
+    },
+    {
+      "start": 9.52,
+      "end": 10.58,
+      "text": "上投げできる",
+      "language": "ja"
+    }
+  ],
+  "full_text": "標準搭載 今日のこの切り離しに 空中上を合わせて スマッシュ攻撃 上からもしかし見えている よく通ったね 上投げできる",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "空中城",
+      "corrected": "空中上",
+      "rule": "move name"
+    },
+    {
+      "segment_idx": 3,
+      "original": "スタッチ攻撃",
+      "corrected": "スマッシュ攻撃",
+      "rule": "misheard word"
+    }
+  ]
+}

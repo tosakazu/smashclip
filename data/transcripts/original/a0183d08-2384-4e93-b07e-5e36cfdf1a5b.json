@@ -1,0 +1,26 @@
+{
+  "id": "a0183d08-2384-4e93-b07e-5e36cfdf1a5b",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.66,
+      "text": "という形になるでしょうか",
+      "language": "ja"
+    },
+    {
+      "start": 1.66,
+      "end": 3.72,
+      "text": "ステージは小戦場",
+      "language": "ja"
+    },
+    {
+      "start": 3.72,
+      "end": 5.52,
+      "text": "おーっとなんと",
+      "language": "ja"
+    }
+  ],
+  "full_text": "という形になるでしょうか ステージは小戦場 おーっとなんと",
+  "detected_language": "ja",
+  "corrections": []
+}

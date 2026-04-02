@@ -1,0 +1,48 @@
+{
+  "id": "7840f670-ad28-4667-8b75-3437cc86a60d",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "text": "Ledge skip!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "崖スキップ!"
+    },
+    {
+      "start": 1.0,
+      "end": 2.0,
+      "text": "They're not grounded",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "地上にいないから"
+    },
+    {
+      "start": 2.0,
+      "end": 4.0,
+      "text": "But we're also in the air",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ただこちらもジャンプなので"
+    },
+    {
+      "start": 4.0,
+      "end": 6.14,
+      "text": "This knee attack doesn't work",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "この膝っきりは崩れにならないですね"
+    }
+  ],
+  "full_text": "Ledge skip! They're not grounded But we're also in the air This knee attack doesn't work",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "ガキスキップ",
+      "corrected": "崖スキップ",
+      "rule": "kanji homophone"
+    }
+  ]
+}

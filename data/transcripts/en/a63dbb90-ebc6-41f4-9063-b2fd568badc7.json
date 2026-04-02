@@ -1,0 +1,41 @@
+{
+  "id": "a63dbb90-ebc6-41f4-9063-b2fd568badc7",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.04,
+      "text": "Going for it!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "それを当ててやろうと"
+    },
+    {
+      "start": 1.04,
+      "end": 2.76,
+      "text": "That's right!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そういったね"
+    },
+    {
+      "start": 2.76,
+      "end": 5.6,
+      "text": "You can see the determination!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "気概が見えるような気がします"
+    },
+    {
+      "start": 5.6,
+      "end": 7.42,
+      "text": "Committing to the dair!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここは空中下決めていきます"
+    }
+  ],
+  "full_text": "Going for it! That's right! You can see the determination! Committing to the dair!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

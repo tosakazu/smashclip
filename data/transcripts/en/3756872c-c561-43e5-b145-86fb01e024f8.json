@@ -1,0 +1,56 @@
+{
+  "id": "3756872c-c561-43e5-b145-86fb01e024f8",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Barely recovering with those kicks",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "キックギリギリ頼りで返しています"
+    },
+    {
+      "start": 2.0,
+      "end": 6.2,
+      "text": "Shuuton pressing the offense with that rising fair",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "上り空前から攻め込んでいくシュートン"
+    },
+    {
+      "start": 6.2,
+      "end": 8.92,
+      "text": "Looking to seal it here, but...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここで勝負を決めきっていきたいんですが"
+    },
+    {
+      "start": 8.92,
+      "end": 9.94,
+      "text": "And here the momentum shifts",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここでラインが入れ替わった"
+    },
+    {
+      "start": 9.94,
+      "end": 10.32,
+      "text": "Ohhh!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "あー"
+    }
+  ],
+  "full_text": "Barely recovering with those kicks Shuuton pressing the offense with that rising fair Looking to seal it here, but... And here the momentum shifts Ohhh!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "上りクーメから攻め込んでいくシュート",
+      "corrected": "上り空前から攻め込んでいくシュートン",
+      "rule": "misheard: 空前, player name: Shuton"
+    }
+  ]
+}

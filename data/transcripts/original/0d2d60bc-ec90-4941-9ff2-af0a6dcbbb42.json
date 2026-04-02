@@ -1,0 +1,50 @@
+{
+  "id": "0d2d60bc-ec90-4941-9ff2-af0a6dcbbb42",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.68,
+      "text": "遠かったですね",
+      "language": "ja"
+    },
+    {
+      "start": 0.68,
+      "end": 3.88,
+      "text": "攻撃判定を出さないことでさらに遠くに逃げる",
+      "language": "ja"
+    },
+    {
+      "start": 3.88,
+      "end": 6.66,
+      "text": "アルセーヌが帰宅",
+      "language": "ja"
+    },
+    {
+      "start": 6.66,
+      "end": 9.18,
+      "text": "このアルセーヌをやり過ごしたのは",
+      "language": "ja"
+    },
+    {
+      "start": 9.18,
+      "end": 10.54,
+      "text": "かなり大きいが",
+      "language": "ja"
+    },
+    {
+      "start": 10.54,
+      "end": 11.94,
+      "text": "空後に対して",
+      "language": "ja"
+    },
+    {
+      "start": 11.94,
+      "end": 12.9,
+      "text": "ガーキャン上スマ",
+      "language": "ja"
+    }
+  ],
+  "full_text": "遠かったですね 攻撃判定を出さないことでさらに遠くに逃げる アルセーヌが帰宅 このアルセーヌをやり過ごしたのは かなり大きいが 空後に対して ガーキャン上スマ",
+  "detected_language": "ja",
+  "corrections": []
+}

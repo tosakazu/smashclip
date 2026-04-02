@@ -1,0 +1,33 @@
+{
+  "id": "9cbac216-1305-41a4-8abc-7a938007d19a",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.88,
+      "text": "Even blue Pikmin with all that HP...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "青ピクミンとかHPが多いピクミンであっても"
+    },
+    {
+      "start": 2.88,
+      "end": 6.06,
+      "text": "One hit eliminates them all!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "一発当てた後に体力がなくなっても"
+    },
+    {
+      "start": 6.06,
+      "end": 6.24,
+      "text": "Finally!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ついに"
+    }
+  ],
+  "full_text": "Even blue Pikmin with all that HP... One hit eliminates them all! Finally!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

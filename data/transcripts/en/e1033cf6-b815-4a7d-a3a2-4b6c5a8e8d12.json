@@ -1,0 +1,62 @@
+{
+  "id": "e1033cf6-b815-4a7d-a3a2-4b6c5a8e8d12",
+  "segments": [
+    {
+      "start": 0.88,
+      "end": 2.82,
+      "text": "Juneeve with the nair first!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ジュネーヴ選手空中ニュートラル1段目"
+    },
+    {
+      "start": 2.82,
+      "end": 5.26,
+      "text": "Bair to counter the approach!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "駆け上がりには空中後ろ"
+    },
+    {
+      "start": 5.26,
+      "end": 5.96,
+      "text": "Follows it up!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そのまま合わせ"
+    },
+    {
+      "start": 5.96,
+      "end": 7.06,
+      "text": "Oh, they're out of jumps!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "おっとこれはもうジャンプがない"
+    },
+    {
+      "start": 7.06,
+      "end": 7.78,
+      "text": "Can't get back!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "返ってこれない"
+    }
+  ],
+  "full_text": "Juneeve with the nair first! Bair to counter the approach! Follows it up! Oh, they're out of jumps! Can't get back!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "全部選手",
+      "corrected": "ジュネーヴ選手",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 2,
+      "original": "そのままに合わせ",
+      "corrected": "そのまま合わせ",
+      "rule": "misheard word"
+    }
+  ]
+}

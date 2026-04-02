@@ -1,0 +1,26 @@
+{
+  "id": "0ae993d4-8bce-41b9-973f-ef18a270abc6",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.56,
+      "text": "またしてもちょっと展開これはハイドシュルビー",
+      "language": "ja"
+    },
+    {
+      "start": 3.56,
+      "end": 7.16,
+      "text": "空前の爆弾がぴったり迫ってきます",
+      "language": "ja"
+    },
+    {
+      "start": 7.16,
+      "end": 10.06,
+      "text": "ルートがなかなか見つからない",
+      "language": "ja"
+    }
+  ],
+  "full_text": "またしてもちょっと展開これはハイドシュルビー 空前の爆弾がぴったり迫ってきます ルートがなかなか見つからない",
+  "detected_language": "ja",
+  "corrections": []
+}

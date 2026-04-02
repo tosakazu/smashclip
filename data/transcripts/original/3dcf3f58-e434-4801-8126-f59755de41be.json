@@ -1,0 +1,45 @@
+{
+  "id": "3dcf3f58-e434-4801-8126-f59755de41be",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.8,
+      "text": "どこに活路を見出していくか 見出していくか",
+      "language": "ja"
+    },
+    {
+      "start": 3.8,
+      "end": 5.62,
+      "text": "それともすでに見出しているのか",
+      "language": "ja"
+    },
+    {
+      "start": 5.62,
+      "end": 9.5,
+      "text": "白ピクミンダメージが痛い",
+      "language": "ja"
+    },
+    {
+      "start": 9.5,
+      "end": 14.54,
+      "text": "スマッシュはガードしつつ 内容を仕上げていきましたが",
+      "language": "ja"
+    },
+    {
+      "start": 14.54,
+      "end": 16.36,
+      "text": "最後は空中上でした",
+      "language": "ja"
+    }
+  ],
+  "full_text": "どこに活路を見出していくか 見出していくか それともすでに見出しているのか 白ピクミンダメージが痛い スマッシュはガードしつつ 内容を仕上げていきましたが 最後は空中上でした",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "白チクフィンダメージ",
+      "corrected": "白ピクミンダメージ",
+      "rule": "character term: Olimar's white Pikmin = 白ピクミン"
+    }
+  ]
+}

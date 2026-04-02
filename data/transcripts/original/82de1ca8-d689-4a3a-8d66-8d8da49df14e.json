@@ -1,0 +1,39 @@
+{
+  "id": "82de1ca8-d689-4a3a-8d66-8d8da49df14e",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.2,
+      "text": "左側か右側か",
+      "language": "ja"
+    },
+    {
+      "start": 2.2,
+      "end": 3.16,
+      "text": "二者択一のところ",
+      "language": "ja"
+    },
+    {
+      "start": 3.16,
+      "end": 6.08,
+      "text": "天空上手すぎなるほど",
+      "language": "ja"
+    },
+    {
+      "start": 6.08,
+      "end": 7.96,
+      "text": "めくったところ",
+      "language": "ja"
+    }
+  ],
+  "full_text": "左側か右側か 二者択一のところ 天空上手すぎなるほど めくったところ",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "二者卓一のところ",
+      "corrected": "二者択一のところ",
+      "rule": "kanji homophone"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "5b3de0b8-6e38-4f73-b787-c1e1feb0e553",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.8,
+      "text": "Wow, committing deep here!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いやーここで深めに来た"
+    },
+    {
+      "start": 2.8,
+      "end": 7.3,
+      "text": "This is a trade!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これは相打ちになって"
+    }
+  ],
+  "full_text": "Wow, committing deep here! This is a trade!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

@@ -1,0 +1,96 @@
+{
+  "id": "d471bfdd-4bb8-454e-bb5d-7821b97c1ee5",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Could've had the KO right there!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ワンチャン、撃墜してたけどな今"
+    },
+    {
+      "start": 3.0,
+      "end": 5.0,
+      "text": "Locking in shield, controlling spacing",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ガードを固め、ラインを詰める"
+    },
+    {
+      "start": 7.0,
+      "end": 9.0,
+      "text": "But he's adjusting that spacing so easily",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "しかし、そのラインをゆうゆう入れ替え"
+    },
+    {
+      "start": 9.0,
+      "end": 11.0,
+      "text": "Timing invincibility frames with the clock",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "時間を使う無敵を合わせて"
+    },
+    {
+      "start": 11.0,
+      "end": 12.0,
+      "text": "Way too tight!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "カチカチすぎる"
+    },
+    {
+      "start": 12.0,
+      "end": 14.0,
+      "text": "Nothing's getting through!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いやー何も通らない"
+    },
+    {
+      "start": 14.0,
+      "end": 15.0,
+      "text": "Too much!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "キツすぎるー"
+    },
+    {
+      "start": 15.0,
+      "end": 16.0,
+      "text": "KO!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "撃墜"
+    },
+    {
+      "start": 16.0,
+      "end": 17.0,
+      "text": "KO!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "撃墜だー"
+    },
+    {
+      "start": 20.0,
+      "end": 21.0,
+      "text": "Game!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ゲーム"
+    }
+  ],
+  "full_text": "Could've had the KO right there! Locking in shield, controlling spacing But he's adjusting that spacing so easily Timing invincibility frames with the clock Way too tight! Nothing's getting through! Too much! KO! KO! Game!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 6,
+      "original": "ギターすぎるー",
+      "corrected": "キツすぎるー",
+      "rule": "mishearing (ギター→キツ)"
+    }
+  ]
+}

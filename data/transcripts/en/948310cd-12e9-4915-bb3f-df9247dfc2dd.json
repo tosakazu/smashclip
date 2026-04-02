@@ -1,0 +1,40 @@
+{
+  "id": "948310cd-12e9-4915-bb3f-df9247dfc2dd",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Trading hits back and forth!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "お互い技が当たり合っていってきましたね"
+    },
+    {
+      "start": 2.0,
+      "end": 4.0,
+      "text": "Grab into up air, up air!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "つかみ通して空上空上"
+    },
+    {
+      "start": 4.0,
+      "end": 5.04,
+      "text": "BOOM!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ドカーン"
+    }
+  ],
+  "full_text": "Trading hits back and forth! Grab into up air, up air! BOOM!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "クーエクエ",
+      "corrected": "空上空上",
+      "rule": "move name"
+    }
+  ]
+}

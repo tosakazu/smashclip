@@ -1,0 +1,63 @@
+{
+  "id": "98f124f4-63da-4f98-9af3-c1442f4ea4fc",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.78,
+      "text": "あの横Bかけにあの第2撃タイミングずらしも厄介ですよね",
+      "language": "ja"
+    },
+    {
+      "start": 4.78,
+      "end": 5.28,
+      "text": "そうですね",
+      "language": "ja"
+    },
+    {
+      "start": 5.28,
+      "end": 11.44,
+      "text": "結構カムイに限らず剣キャラなくてジャストシールドを対策とする状況が多いと思うんですが",
+      "language": "ja"
+    },
+    {
+      "start": 11.44,
+      "end": 13.46,
+      "text": "おっとこれは掴み取れてませんか",
+      "language": "ja"
+    }
+  ],
+  "full_text": "あの横Bかけにあの第2撃タイミングずらしも厄介ですよね そうですね 結構カムイに限らず剣キャラなくてジャストシールドを対策とする状況が多いと思うんですが おっとこれは掴み取れてませんか",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "横火がけ",
+      "corrected": "横Bかけ",
+      "rule": "move name"
+    },
+    {
+      "segment_idx": 0,
+      "original": "第2冊",
+      "corrected": "第2撃",
+      "rule": "kanji homophone"
+    },
+    {
+      "segment_idx": 2,
+      "original": "神威",
+      "corrected": "カムイ",
+      "rule": "character kanji (Corrin)"
+    },
+    {
+      "segment_idx": 2,
+      "original": "謙虚なくて",
+      "corrected": "剣キャラなくて",
+      "rule": "Whisper misheard"
+    },
+    {
+      "segment_idx": 3,
+      "original": "突き取れてません",
+      "corrected": "掴み取れてません",
+      "rule": "Whisper misheard"
+    }
+  ]
+}

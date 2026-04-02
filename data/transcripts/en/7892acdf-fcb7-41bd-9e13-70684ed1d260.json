@@ -1,0 +1,33 @@
+{
+  "id": "7892acdf-fcb7-41bd-9e13-70684ed1d260",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.08,
+      "text": "There's a lot of Arm Opening from mashing at the ledge, but...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "この隙の崖に暴れでアームオープンが非常に多いんですが"
+    },
+    {
+      "start": 5.08,
+      "end": 9.14,
+      "text": "They're mixing up their getup options...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "それを出し分けて上がってきますからね"
+    },
+    {
+      "start": 9.14,
+      "end": 14.84,
+      "text": "That's a free win! They won't reach from there!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これはおいしい!距離は届かないでしょう"
+    }
+  ],
+  "full_text": "There's a lot of Arm Opening from mashing at the ledge, but... They're mixing up their getup options... That's a free win! They won't reach from there!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

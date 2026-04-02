@@ -1,0 +1,25 @@
+{
+  "id": "022624b3-920a-4b69-84e5-e3a0e5190367",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.46,
+      "text": "This Zelda is playing pretty solid, huh?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "なかなかこうゼルダね"
+    },
+    {
+      "start": 2.46,
+      "end": 7.32,
+      "text": "Though there are moments where panic kicks in and they try to force it.",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "焦って追い返そうとしちゃうところもあるんですが"
+    }
+  ],
+  "full_text": "This Zelda is playing pretty solid, huh? Though there are moments where panic kicks in and they try to force it.",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

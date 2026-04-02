@@ -1,0 +1,62 @@
+{
+  "id": "6f98bdcf-8cf3-4abb-a8d4-8fa10c11146e",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.06,
+      "text": "動き出し空中前",
+      "language": "ja"
+    },
+    {
+      "start": 1.06,
+      "end": 3.84,
+      "text": "これ美味しいぞ",
+      "language": "ja"
+    },
+    {
+      "start": 3.84,
+      "end": 5.0,
+      "text": "卵が当たって空中前",
+      "language": "ja"
+    },
+    {
+      "start": 5.0,
+      "end": 6.24,
+      "text": "追撃可能です",
+      "language": "ja"
+    },
+    {
+      "start": 6.24,
+      "end": 8.12,
+      "text": "弱で",
+      "language": "ja"
+    },
+    {
+      "start": 8.12,
+      "end": 10.62,
+      "text": "めっちゃくちゃ動き出したいところに発生の早い",
+      "language": "ja"
+    },
+    {
+      "start": 10.62,
+      "end": 12.46,
+      "text": "弱を置いて吉沢展開を作ります",
+      "language": "ja"
+    },
+    {
+      "start": 12.46,
+      "end": 12.68,
+      "text": "これは",
+      "language": "ja"
+    },
+    {
+      "start": 12.68,
+      "end": 14.0,
+      "text": "いやこの",
+      "language": "ja"
+    }
+  ],
+  "full_text": "動き出し空中前 これ美味しいぞ 卵が当たって空中前 追撃可能です 弱で めっちゃくちゃ動き出したいところに発生の早い 弱を置いて吉沢展開を作ります これは いやこの",
+  "detected_language": "ja",
+  "corrections": []
+}

@@ -1,0 +1,54 @@
+{
+  "id": "db01b9cf-7a9d-4743-b34d-a73637a2082d",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.0,
+      "text": "Huge aerial!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空中でかい"
+    },
+    {
+      "start": 6.0,
+      "end": 8.46,
+      "text": "That aerial is massive!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空中がでかい"
+    },
+    {
+      "start": 8.46,
+      "end": 9.32,
+      "text": "bair",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空後"
+    },
+    {
+      "start": 9.32,
+      "end": 9.54,
+      "text": "bair",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空後"
+    }
+  ],
+  "full_text": "Huge aerial! That aerial is massive! bair bair",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "空中しろ",
+      "corrected": "空後",
+      "rule": "smash notation (空中しろ→空後)"
+    },
+    {
+      "segment_idx": 3,
+      "original": "空中しろ",
+      "corrected": "空後",
+      "rule": "smash notation (空中しろ→空後)"
+    }
+  ]
+}

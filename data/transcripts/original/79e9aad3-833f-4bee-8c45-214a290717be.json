@@ -1,0 +1,21 @@
+{
+  "id": "79e9aad3-833f-4bee-8c45-214a290717be",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 8.58,
+      "text": "いい感じか。",
+      "language": "ja"
+    }
+  ],
+  "full_text": "いい感じか。",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "language: ko",
+      "corrected": "language: ja",
+      "rule": "language detection fix"
+    }
+  ]
+}

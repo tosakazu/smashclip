@@ -1,0 +1,39 @@
+{
+  "id": "36ae99a9-4608-40f7-87da-9d902f36bf78",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.36,
+      "text": "少しおいしいかアシモよ",
+      "language": "ja"
+    },
+    {
+      "start": 1.36,
+      "end": 4.72,
+      "text": "おっと置いています",
+      "language": "ja"
+    },
+    {
+      "start": 4.72,
+      "end": 6.66,
+      "text": "横スマッシュも置いている",
+      "language": "ja"
+    },
+    {
+      "start": 6.66,
+      "end": 7.52,
+      "text": "うまいなぁ",
+      "language": "ja"
+    }
+  ],
+  "full_text": "少しおいしいかアシモよ おっと置いています 横スマッシュも置いている うまいなぁ",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "少し美味しいか足守よ",
+      "corrected": "少しおいしいかアシモよ",
+      "rule": "player name: Asimo"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "17e0f2ad-3a6f-48fc-81e5-45bdf86c7903",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.08,
+      "text": "Desperate attempts of Miya of getting Palutena and again, oh my god, he just went into the single pump.",
+      "language": "en"
+    }
+  ],
+  "full_text": "Desperate attempts of Miya of getting Palutena and again, oh my god, he just went into the single pump.",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "Mia of getting Palutena",
+      "corrected": "Miya of getting Palutena",
+      "rule": "Player name: Mia→Miya"
+    },
+    {
+      "segment_idx": 0,
+      "original": "the single bump",
+      "corrected": "the single pump",
+      "rule": "Smash term: bump→pump (G&W up-B Fire single pump)"
+    }
+  ]
+}

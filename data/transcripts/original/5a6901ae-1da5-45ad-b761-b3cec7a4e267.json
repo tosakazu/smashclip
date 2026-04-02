@@ -1,0 +1,32 @@
+{
+  "id": "5a6901ae-1da5-45ad-b761-b3cec7a4e267",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.6,
+      "text": "最初の攻略として",
+      "language": "ja"
+    },
+    {
+      "start": 2.6,
+      "end": 5.8,
+      "text": "ここを狙っていきたいですが",
+      "language": "ja"
+    },
+    {
+      "start": 5.8,
+      "end": 6.62,
+      "text": "よかった",
+      "language": "ja"
+    },
+    {
+      "start": 6.62,
+      "end": 8.14,
+      "text": "完璧ヒット確認",
+      "language": "ja"
+    }
+  ],
+  "full_text": "最初の攻略として ここを狙っていきたいですが よかった 完璧ヒット確認",
+  "detected_language": "ja",
+  "corrections": []
+}

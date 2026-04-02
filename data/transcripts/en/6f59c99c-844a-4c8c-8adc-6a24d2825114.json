@@ -1,0 +1,41 @@
+{
+  "id": "6f59c99c-844a-4c8c-8adc-6a24d2825114",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.0,
+      "text": "Spin Wave...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "スピンウェイブが"
+    },
+    {
+      "start": 3.0,
+      "end": 6.84,
+      "text": "Yeah, with Corrin's mobility though",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "あれちょっとカムイの機動力だと"
+    },
+    {
+      "start": 6.84,
+      "end": 10.34,
+      "text": "It's pretty hard to catch a mistake on that Spin Wave recovery",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "スピンウェイブによるライン回復にミスくっつけるのはなかなか難しいですかね"
+    },
+    {
+      "start": 10.34,
+      "end": 12.56,
+      "text": "In neutral, I want to approach with good spacing",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "立ち回りではとあざわでいきたいですね"
+    }
+  ],
+  "full_text": "Spin Wave... Yeah, with Corrin's mobility though it's pretty hard to catch a mistake on that Spin Wave recovery. In neutral, I want to approach with good spacing",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

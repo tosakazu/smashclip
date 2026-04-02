@@ -1,0 +1,90 @@
+{
+  "id": "a724db19-ac2c-4215-9472-b87d74c76ede",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.48,
+      "text": "Couldn't see it. Here the dair usage on landing is so clean!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "見えませんでしたそうですね 着地ここは空中下を通してくるのうまいぞ"
+    },
+    {
+      "start": 6.48,
+      "end": 13.68,
+      "text": "With the line shifting so rapidly, the grab reads are incredible. The Bike is positioned right there.",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ラインが目まぐるしく入れ替わると掴みを通した判断が素晴らしい バイクが置いてある"
+    },
+    {
+      "start": 13.68,
+      "end": 18.96,
+      "text": "Not retreating with bair. Going for another approach with the fair.",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空中後ろ返さない もう一つ狙っていきたい空中前"
+    },
+    {
+      "start": 18.96,
+      "end": 25.12,
+      "text": "Landing the dair here. Going for another dair, but reversing and switching into dair again.",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここで空中下を当てて 空下も狙ってくる逆に入れ替わってから空中下"
+    },
+    {
+      "start": 25.12,
+      "end": 28.92,
+      "text": "Similarly going for the KO here but...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "同様に撃墜狙いに行ったんですけど"
+    }
+  ],
+  "full_text": "Couldn't see it. Here the dair usage on landing is so clean! With the line shifting so rapidly, the grab reads are incredible. The Bike is positioned right there. Not retreating with bair. Going for another approach with the fair. Landing the dair here. Going for another dair, but reversing and switching into dair again. Similarly going for the KO here but...",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "original": "空中したを通してくれるの",
+      "corrected": "空中下を通してくるの",
+      "reason": "空中下攻撃"
+    },
+    {
+      "original": "だけが目まぐるしく入れ替わると",
+      "corrected": "ラインが目まぐるしく入れ替わると",
+      "reason": "ライン（位置関係）の入れ替わり"
+    },
+    {
+      "original": "やつ神を通した",
+      "corrected": "掴みを通した",
+      "reason": "掴み（grab）"
+    },
+    {
+      "original": "空中しろ",
+      "corrected": "空中後ろ",
+      "reason": "空中後ろ攻撃"
+    },
+    {
+      "original": "空中所",
+      "corrected": "空中前",
+      "reason": "空中前攻撃"
+    },
+    {
+      "original": "空中者らを当てて",
+      "corrected": "空中下を当てて",
+      "reason": "空中下攻撃"
+    },
+    {
+      "original": "空車も",
+      "corrected": "空下も",
+      "reason": "空中下の略称"
+    },
+    {
+      "original": "同翼にへ",
+      "corrected": "同様に",
+      "reason": "同様に撃墜を狙う"
+    }
+  ]
+}

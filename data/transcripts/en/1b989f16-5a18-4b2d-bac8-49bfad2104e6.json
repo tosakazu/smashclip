@@ -1,0 +1,64 @@
+{
+  "id": "1b989f16-5a18-4b2d-bac8-49bfad2104e6",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.76,
+      "text": "That's insane!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "クレイジーですよ"
+    },
+    {
+      "start": 1.76,
+      "end": 2.88,
+      "text": "That's enough even with blue Pikmin!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "青ピクミンにも十分"
+    },
+    {
+      "start": 2.88,
+      "end": 7.74,
+      "text": "That KO went through, but...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "カラゴン撃墜通したが"
+    },
+    {
+      "start": 7.74,
+      "end": 10.0,
+      "text": "I don't think there was over 100% damage gap",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "100%以上差があったとは思えない"
+    },
+    {
+      "start": 10.0,
+      "end": 11.12,
+      "text": "The neutral",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "やりとり"
+    },
+    {
+      "start": 11.12,
+      "end": 12.52,
+      "text": "Depending on the recovery, that could be true",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "折り返しによっては本当"
+    }
+  ],
+  "full_text": "That's insane! That's enough even with blue Pikmin! That KO went through, but... I don't think there was over 100% damage gap The neutral Depending on the recovery, that could be true",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 5,
+      "original": "折り口によったら本話",
+      "corrected": "折り返しによっては本当",
+      "rule": "Whisper mishearing: 折り口→折り返し, 本話→本当"
+    }
+  ]
+}

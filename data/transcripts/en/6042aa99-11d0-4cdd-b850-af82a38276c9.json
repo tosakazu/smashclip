@@ -1,0 +1,32 @@
+{
+  "id": "6042aa99-11d0-4cdd-b850-af82a38276c9",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.74,
+      "text": "Gamen Neko has really clean gameplay, but they're insane at forcing their moves on the opponent, so...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "画面もねこの非常に丁寧ではあるんですけど相手に技を押し付けるっていうのがめちゃくちゃ上手いプレイヤーなんで"
+    },
+    {
+      "start": 5.74,
+      "end": 8.28,
+      "text": "Nice! Chasing with jab!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "うま!弱で追っ"
+    }
+  ],
+  "full_text": "Gamen Neko has really clean gameplay, but they're insane at forcing their moves on the opponent, so... Nice! Chasing with jab!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "弱でお",
+      "corrected": "弱で追っ",
+      "rule": "truncated word"
+    }
+  ]
+}

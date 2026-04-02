@@ -1,0 +1,51 @@
+{
+  "id": "8565c5fa-3931-4e7c-ae46-fdf7e14114ab",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.38,
+      "text": "撃墜を通すとなると難しそうに見えます",
+      "language": "ja"
+    },
+    {
+      "start": 2.38,
+      "end": 3.66,
+      "text": "レオネットね",
+      "language": "ja"
+    },
+    {
+      "start": 3.66,
+      "end": 6.32,
+      "text": "立ち回りで撃墜するってなると",
+      "language": "ja"
+    },
+    {
+      "start": 6.32,
+      "end": 9.14,
+      "text": "こんな感じでコンボを当てるしかほぼなくて",
+      "language": "ja"
+    },
+    {
+      "start": 9.14,
+      "end": 9.82,
+      "text": "そうですよね",
+      "language": "ja"
+    },
+    {
+      "start": 9.82,
+      "end": 12.52,
+      "text": "さあここはちょっとミスが出て",
+      "language": "ja"
+    }
+  ],
+  "full_text": "撃墜を通すとなると難しそうに見えます レオネットね 立ち回りで撃墜するってなると こんな感じでコンボを当てるしかほぼなくて そうですよね さあここはちょっとミスが出て",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 3,
+      "original": "空母を当てする",
+      "corrected": "コンボを当てる",
+      "rule": "misheard word (空母→コンボ)"
+    }
+  ]
+}

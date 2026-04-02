@@ -1,0 +1,60 @@
+{
+  "id": "5ffd5c0f-24ec-4f1c-ae56-44bdb2417444",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.0,
+      "text": "He's pushing DK with down smash - knockback away!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ドミノグを押している 下スマッシュ引くベクトルだ"
+    },
+    {
+      "start": 3.0,
+      "end": 7.0,
+      "text": "Rough spot - way back on stage... and he recovers!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "かなり苦しいぞ ステージ後方 戻ってきた"
+    },
+    {
+      "start": 7.0,
+      "end": 11.0,
+      "text": "DK's back in with the aerial, throw - and it chains perfectly!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ドミノグ反転は空中攻撃に挑戦できて 投げたしかもこれはつながるパーフェクト"
+    },
+    {
+      "start": 11.0,
+      "end": 12.0,
+      "text": "Down special to finish it!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "下Bで決め切る"
+    }
+  ],
+  "full_text": "He's pushing DK with down smash - knockback away! Rough spot - way back on stage... and he recovers! DK's back in with the aerial, throw - and it chains perfectly! Down special to finish it!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "引くイベクトルだ",
+      "corrected": "引くベクトルだ",
+      "rule": "misheard word"
+    },
+    {
+      "segment_idx": 1,
+      "original": "スタート後方",
+      "corrected": "ステージ後方",
+      "rule": "misheard word"
+    },
+    {
+      "segment_idx": 3,
+      "original": "大黒で決め切る",
+      "corrected": "下Bで決め切る",
+      "rule": "move abbreviation"
+    }
+  ]
+}

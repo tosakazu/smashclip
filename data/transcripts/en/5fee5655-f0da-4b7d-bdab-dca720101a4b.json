@@ -1,0 +1,94 @@
+{
+  "id": "5fee5655-f0da-4b7d-bdab-dca720101a4b",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.38,
+      "text": "Struggling a bit with the Spring",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "スプリングでちょっと苦しいところ"
+    },
+    {
+      "start": 1.38,
+      "end": 3.4,
+      "text": "Move choice timing",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "技選択タイミング"
+    },
+    {
+      "start": 3.4,
+      "end": 5.36,
+      "text": "Coming back with Rage Rocket for recovery",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "レイジロケットを使って復帰してきた"
+    },
+    {
+      "start": 5.36,
+      "end": 6.38,
+      "text": "Oh!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "らる"
+    },
+    {
+      "start": 6.38,
+      "end": 9.02,
+      "text": "Sliding forward but...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "オバキュームを使って前を滑るが"
+    },
+    {
+      "start": 9.02,
+      "end": 9.64,
+      "text": "Pushes them away",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "押しのける"
+    },
+    {
+      "start": 9.64,
+      "end": 12.04,
+      "text": "Mashing from up air into the landing",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "暴れの空中上から着地はどうだ"
+    },
+    {
+      "start": 12.04,
+      "end": 14.2,
+      "text": "Spring recovery into bair on landing!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "スプリングから着地際に空中後ろ"
+    },
+    {
+      "start": 14.2,
+      "end": 15.52,
+      "text": "What an incredible play!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "なんとダイネ"
+    }
+  ],
+  "full_text": "Struggling a bit with the Spring Move choice timing Coming back with Rage Rocket for recovery Oh! Sliding forward but... Pushes them away Mashing from up air into the landing Spring recovery into bair on landing! What an incredible play!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 3,
+      "original": "ラル",
+      "corrected": "らる",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 7,
+      "original": "着地へに",
+      "corrected": "着地際に",
+      "rule": "misheard word"
+    }
+  ]
+}

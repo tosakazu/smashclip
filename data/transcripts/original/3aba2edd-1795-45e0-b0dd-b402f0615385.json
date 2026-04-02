@@ -1,0 +1,39 @@
+{
+  "id": "3aba2edd-1795-45e0-b0dd-b402f0615385",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.4,
+      "text": "切り交わして空への落とし空前まで うおーうまい",
+      "language": "ja"
+    },
+    {
+      "start": 5.4,
+      "end": 11.96,
+      "text": "冬まで使ってこれはどうだ打ち転がり 窮地に一勝すぎる",
+      "language": "ja"
+    },
+    {
+      "start": 11.96,
+      "end": 16.76,
+      "text": "王冠でぶん殴って ギリギリ当たらないまたしてもこの展開",
+      "language": "ja"
+    }
+  ],
+  "full_text": "切り交わして空への落とし空前まで うおーうまい 冬まで使ってこれはどうだ打ち転がり 窮地に一勝すぎる 王冠でぶん殴って ギリギリ当たらないまたしてもこの展開",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "空中前",
+      "corrected": "空前",
+      "rule": "空中前→空前"
+    },
+    {
+      "segment_idx": 1,
+      "original": "急死に1勝すぎる",
+      "corrected": "窮地に一勝すぎる",
+      "rule": "misheard word"
+    }
+  ]
+}

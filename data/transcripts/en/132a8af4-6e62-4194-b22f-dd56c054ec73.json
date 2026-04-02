@@ -1,0 +1,56 @@
+{
+  "id": "132a8af4-6e62-4194-b22f-dd56c054ec73",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.54,
+      "text": "Forward smash putting in work",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "横スマッシュは仕事に出して"
+    },
+    {
+      "start": 1.54,
+      "end": 3.08,
+      "text": "Forward smash",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "横スマッシュ"
+    },
+    {
+      "start": 3.08,
+      "end": 5.68,
+      "text": "And the grab range too",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここに来て掴みの距離も"
+    },
+    {
+      "start": 5.68,
+      "end": 7.04,
+      "text": "Are they switching it up?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "逆手に取っていくのか"
+    },
+    {
+      "start": 7.04,
+      "end": 9.06,
+      "text": "Still going for the grab",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "それでもすぐに取り"
+    }
+  ],
+  "full_text": "Forward smash putting in work Forward smash And the grab range too Are they switching it up? Still going for the grab",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "ここに来て掴みの弓矢も",
+      "corrected": "ここに来て掴みの距離も",
+      "rule": "Whisper mishearing: 弓矢→距離"
+    }
+  ]
+}

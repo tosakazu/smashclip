@@ -1,0 +1,50 @@
+{
+  "id": "b8e97b65-de8c-4eef-85a8-ea111d11b874",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 7.3,
+      "text": "Dash attack launches, forward smash is scary if it connects! Against nair, max punish!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "が何かあってもおかしくないでしょうダッシュアタックで打ち上げて 横スマが通ると怖い空Nに対しては最大反撃合っている"
+    },
+    {
+      "start": 7.3,
+      "end": 11.4,
+      "text": "All the Pikmin got destroyed in that edgeguard, so he's coming back without them, but...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあこの復帰阻止ピクミンは全滅していて素手から帰ってくるんですが"
+    }
+  ],
+  "full_text": "Dash attack launches, forward smash is scary if it connects! Against nair, max punish! All the Pikmin got destroyed in that edgeguard, so he's coming back without them, but...",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "空中ニュートラルに対しては最大打ち感性あっている",
+      "corrected": "空Nに対しては最大反撃合っている",
+      "rule": "kanji homophone"
+    },
+    {
+      "segment_idx": 1,
+      "original": "吹き阻止",
+      "corrected": "復帰阻止",
+      "rule": "Whisper error"
+    },
+    {
+      "segment_idx": 1,
+      "original": "ピクニン",
+      "corrected": "ピクミン",
+      "rule": "kanji homophone"
+    },
+    {
+      "segment_idx": 1,
+      "original": "相当から",
+      "corrected": "素手から",
+      "rule": "Whisper error"
+    }
+  ]
+}

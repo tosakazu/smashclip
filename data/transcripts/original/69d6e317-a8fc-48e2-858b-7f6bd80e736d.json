@@ -1,0 +1,32 @@
+{
+  "id": "69d6e317-a8fc-48e2-858b-7f6bd80e736d",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.98,
+      "text": "対空が非常にきつくなってきてる",
+      "language": "ja"
+    },
+    {
+      "start": 2.98,
+      "end": 3.92,
+      "text": "この銀の向きを",
+      "language": "ja"
+    },
+    {
+      "start": 3.92,
+      "end": 19.88,
+      "text": "うまい ギリギリ届いた",
+      "language": "ja"
+    },
+    {
+      "start": 19.88,
+      "end": 22.18,
+      "text": "判定が達していきます",
+      "language": "ja"
+    }
+  ],
+  "full_text": "対空が非常にきつくなってきてる この銀の向きを うまい ギリギリ届いた 判定が達していきます",
+  "detected_language": "ja",
+  "corrections": []
+}

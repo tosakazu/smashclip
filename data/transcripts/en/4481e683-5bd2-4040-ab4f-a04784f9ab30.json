@@ -1,0 +1,118 @@
+{
+  "id": "4481e683-5bd2-4040-ab4f-a04784f9ab30",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.72,
+      "text": "That was the throw off the spot dodge!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "今度はその場回避を見てからの投げでした"
+    },
+    {
+      "start": 4.72,
+      "end": 7.32,
+      "text": "The landing's gonna be brutal from that platform spacing",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これジャンプラインじゃ着地が厳しいぞ"
+    },
+    {
+      "start": 7.32,
+      "end": 9.86,
+      "text": "Looked like they held on there, but...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "笛を吹いて耐えたかに見えましたが"
+    },
+    {
+      "start": 9.86,
+      "end": 10.96,
+      "text": "Still hitting with the aerial!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "まだ当たる空中A"
+    },
+    {
+      "start": 10.96,
+      "end": 11.94,
+      "text": "Now the nair!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "今度は空N"
+    },
+    {
+      "start": 11.94,
+      "end": 13.3,
+      "text": "Perfectly threaded that airdodge",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "うまく回避通して"
+    },
+    {
+      "start": 13.3,
+      "end": 15.94,
+      "text": "Had one more opening, but it was over",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "一回展開を作ったが最後"
+    },
+    {
+      "start": 15.94,
+      "end": 18.3,
+      "text": "Neo's relentless pressure",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "終わらないネオのターン"
+    },
+    {
+      "start": 18.3,
+      "end": 22.8,
+      "text": "That side B goes straight through the dodge",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "この横Bは回避を通して"
+    },
+    {
+      "start": 22.8,
+      "end": 24.82,
+      "text": "And it was absolutely devastating",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "最後は超相達でした"
+    },
+    {
+      "start": 24.82,
+      "end": 26.74,
+      "text": "Finished it clean in one turn",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ワンターンでそのまま決めきりました"
+    },
+    {
+      "start": 26.74,
+      "end": 56.72,
+      "text": "Thanks for watching!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ご視聴ありがとうございました"
+    }
+  ],
+  "full_text": "That was the throw off the spot dodge! The landing's gonna be brutal from that platform spacing Looked like they held on there, but... Still hitting with the aerial! Now the nair! Perfectly threaded that airdodge Had one more opening, but it was over Neo's relentless pressure That side B goes straight through the dodge And it was absolutely devastating Finished it clean in one turn Thanks for watching!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 4,
+      "original": "QN",
+      "corrected": "空N",
+      "rule": "misheard move abbreviation"
+    },
+    {
+      "segment_idx": 7,
+      "original": "レオ",
+      "corrected": "ネオ",
+      "rule": "player name"
+    }
+  ]
+}

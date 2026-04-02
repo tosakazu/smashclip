@@ -1,0 +1,84 @@
+{
+  "id": "1bed1ce1-b044-4187-8514-fc94add3e60d",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.24,
+      "text": "Launched into the air—that's a tight spot!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "打ち上げて空中へ 苦しいところです"
+    },
+    {
+      "start": 2.24,
+      "end": 4.04,
+      "text": "The dair won't make it in time, though",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空ダは間に合わないが"
+    },
+    {
+      "start": 4.04,
+      "end": 6.5,
+      "text": "From the rising dair into the tech mixup,",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "上り空ダから受け身の読み合いですけれども"
+    },
+    {
+      "start": 6.5,
+      "end": 10.62,
+      "text": "Dabuz is just one step short",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "Dabuz選手が一歩手前"
+    },
+    {
+      "start": 10.62,
+      "end": 12.76,
+      "text": "Up smash—that was a risky hit!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "上スマッシュ ちょっと危ない当たり方でした"
+    },
+    {
+      "start": 12.76,
+      "end": 14.92,
+      "text": "At 124%... this is Vision",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "124% これはビジョン"
+    },
+    {
+      "start": 14.92,
+      "end": 16.12,
+      "text": "Solid out of shield",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ガードからしっかり"
+    }
+  ],
+  "full_text": "Launched into the air—that's a tight spot! The dair won't make it in time, though From the rising dair into the tech mixup, Dabuz is just one step short Up smash—that was a risky hit! At 124%... this is Vision Solid out of shield",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "クーダーは間に合うがない",
+      "corrected": "空ダは間に合わないが",
+      "rule": "Whisper mishearing: クーダー→空ダ, word order"
+    },
+    {
+      "segment_idx": 2,
+      "original": "上りクーダーから受け身の読み合いですけれども",
+      "corrected": "上り空ダから受け身の読み合いですけれども",
+      "rule": "Whisper mishearing: クーダー→空ダ"
+    },
+    {
+      "segment_idx": 3,
+      "original": "ダブル選手が一歩手前",
+      "corrected": "Dabuz選手が一歩手前",
+      "rule": "Player name correction: ダブル→Dabuz (metadata)"
+    }
+  ]
+}

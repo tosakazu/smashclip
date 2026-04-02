@@ -1,0 +1,40 @@
+{
+  "id": "7806c6e2-9e93-4ae4-bb0c-1195c466518e",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.26,
+      "text": "Going for the finish here, but the dodge beats it!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここで仕留めたい 回避を切らされた"
+    },
+    {
+      "start": 1.26,
+      "end": 3.62,
+      "text": "Nice! Applying inward momentum this time!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "うまい 今度は内側への慣性をかけて"
+    },
+    {
+      "start": 3.62,
+      "end": 6.0,
+      "text": "Oh, that's some solid play!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "おっと さすがにですね"
+    }
+  ],
+  "full_text": "Going for the finish here, but the dodge beats it! Nice! Applying inward momentum this time! Oh, that's some solid play!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "感性",
+      "corrected": "慣性",
+      "rule": "kanji homophone"
+    }
+  ]
+}

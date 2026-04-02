@@ -1,0 +1,27 @@
+{
+  "id": "5421b44a-74ab-44f2-83e8-633ef3166513",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.1,
+      "text": "I'm in the opposite direction. That can't have been what Sisqui was going for.",
+      "language": "en"
+    },
+    {
+      "start": 4.34,
+      "end": 7.74,
+      "text": "Now he covers the roll with the dash.",
+      "language": "en"
+    }
+  ],
+  "full_text": "I'm in the opposite direction. That can't have been what Sisqui was going for. Now he covers the roll with the dash.",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "Siski",
+      "corrected": "Sisqui",
+      "rule": "player name"
+    }
+  ]
+}

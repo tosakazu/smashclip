@@ -1,0 +1,92 @@
+{
+  "id": "e29345a4-9a82-4ce2-87f0-58dada2c9e32",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.66,
+      "text": "Converting on this valuable chance, but",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "貴重なチャンスを確実に物にはしているが"
+    },
+    {
+      "start": 2.66,
+      "end": 3.98,
+      "text": "Miya's still alive, though",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ミヤは生存しているものの"
+    },
+    {
+      "start": 3.98,
+      "end": 4.66,
+      "text": "That's the dash attack, right?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "DAよね"
+    },
+    {
+      "start": 4.66,
+      "end": 6.36,
+      "text": "Dash attack into forward smash",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "DAに横スマッシュ"
+    },
+    {
+      "start": 6.36,
+      "end": 8.2,
+      "text": "Simple spacing",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "シンプルな技置き"
+    },
+    {
+      "start": 8.2,
+      "end": 9.36,
+      "text": "Committed to the first option, but",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "一手目にぶつけていったが"
+    },
+    {
+      "start": 9.36,
+      "end": 10.2,
+      "text": "Airdodge!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "回避よね"
+    },
+    {
+      "start": 10.2,
+      "end": 11.34,
+      "text": "Invulnerability frames",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "無敵時間"
+    }
+  ],
+  "full_text": "Converting on this valuable chance, but Miya's still alive, though That's the dash attack, right? Dash attack into forward smash Simple spacing Committed to the first option, but Airdodge! Invulnerability frames",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "ダッシュよね",
+      "corrected": "DAよね",
+      "rule": "move abbreviation: DA(ダッシュアタック)"
+    },
+    {
+      "segment_idx": 3,
+      "original": "ダッシュに横スマッシュ",
+      "corrected": "DAに横スマッシュ",
+      "rule": "move abbreviation: DA"
+    },
+    {
+      "segment_idx": 5,
+      "original": "一手目にぶつけていってが",
+      "corrected": "一手目にぶつけていったが",
+      "rule": "minor grammar"
+    }
+  ]
+}

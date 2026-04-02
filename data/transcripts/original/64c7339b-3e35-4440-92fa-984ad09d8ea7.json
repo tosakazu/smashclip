@@ -1,0 +1,33 @@
+{
+  "id": "64c7339b-3e35-4440-92fa-984ad09d8ea7",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.0,
+      "text": "割れるタイミングとかの数値がすごい良いんですよね、アコーラ選手",
+      "language": "ja"
+    },
+    {
+      "start": 4.0,
+      "end": 6.5,
+      "text": "このブロックはこの技使ったら割れるとか",
+      "language": "ja"
+    },
+    {
+      "start": 6.5,
+      "end": 8.32,
+      "text": "多分そういう感",
+      "language": "ja"
+    }
+  ],
+  "full_text": "割れるタイミングとかの数値がすごい良いんですよね、アコーラ選手 このブロックはこの技使ったら割れるとか 多分そういう感",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "軸値",
+      "corrected": "数値",
+      "rule": "kanji homophone (じくち→すうち)"
+    }
+  ]
+}

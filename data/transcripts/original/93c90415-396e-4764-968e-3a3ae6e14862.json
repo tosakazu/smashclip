@@ -1,0 +1,69 @@
+{
+  "id": "93c90415-396e-4764-968e-3a3ae6e14862",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.98,
+      "text": "ただ状況は苦しいのは続いている",
+      "language": "ja"
+    },
+    {
+      "start": 1.98,
+      "end": 4.02,
+      "text": "撃に変えていって圧をかけていく",
+      "language": "ja"
+    },
+    {
+      "start": 4.02,
+      "end": 5.74,
+      "text": "さあこの状況",
+      "language": "ja"
+    },
+    {
+      "start": 5.74,
+      "end": 7.92,
+      "text": "まずは掻い潜りたいが",
+      "language": "ja"
+    },
+    {
+      "start": 7.92,
+      "end": 10.16,
+      "text": "撃墜しなければ安いもの",
+      "language": "ja"
+    },
+    {
+      "start": 10.16,
+      "end": 11.12,
+      "text": "というようなところですが",
+      "language": "ja"
+    },
+    {
+      "start": 11.12,
+      "end": 11.74,
+      "text": "掻い潜って",
+      "language": "ja"
+    }
+  ],
+  "full_text": "ただ状況は苦しいのは続いている 撃に変えていって圧をかけていく さあこの状況 まずは掻い潜りたいが 撃墜しなければ安いもの というようなところですが 掻い潜って",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "劇に変えていって",
+      "corrected": "撃に変えていって",
+      "rule": "kanji homophone (劇→撃, Shulk Monado Art)"
+    },
+    {
+      "segment_idx": 3,
+      "original": "飼いくぐり隊が",
+      "corrected": "掻い潜りたいが",
+      "rule": "misheard word (飼いくぐり隊→掻い潜りたい)"
+    },
+    {
+      "segment_idx": 6,
+      "original": "飼いくぐって",
+      "corrected": "掻い潜って",
+      "rule": "misheard word"
+    }
+  ]
+}

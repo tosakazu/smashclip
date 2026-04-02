@@ -1,0 +1,41 @@
+{
+  "id": "8c5123cb-7f05-4799-b654-dc0cb988f771",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.44,
+      "text": "Stomp! Oh! The recovery cancel didn't come out!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "踏みつけ!おっと!浮遊キャンセルが出なかったか"
+    },
+    {
+      "start": 3.44,
+      "end": 7.12,
+      "text": "Get below!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "下を取れ"
+    },
+    {
+      "start": 7.12,
+      "end": 9.4,
+      "text": "That recovery is insane!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "復帰がうますぎる"
+    },
+    {
+      "start": 9.4,
+      "end": 11.1,
+      "text": "Down smash! Whoa!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "下スマッシュ!おっと!"
+    }
+  ],
+  "full_text": "Stomp! Oh! The recovery cancel didn't come out! Get below! That recovery is insane! Down smash! Whoa!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

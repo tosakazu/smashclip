@@ -1,0 +1,64 @@
+{
+  "id": "6066d952-3f92-4dd0-bf39-f87593d5c096",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.74,
+      "text": "Chishi attacks!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "チシの攻撃"
+    },
+    {
+      "start": 0.74,
+      "end": 4.28,
+      "text": "Nao with Diddy Kong",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "なおちゃディディー"
+    },
+    {
+      "start": 4.28,
+      "end": 6.7,
+      "text": "Backing up, loading bananas",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "一旦引いてバナナを装填しながら"
+    },
+    {
+      "start": 6.7,
+      "end": 8.14,
+      "text": "Going for the whiff punish, but...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "差し返しを狙いますが"
+    },
+    {
+      "start": 8.14,
+      "end": 10.06,
+      "text": "Now Yamana moves in!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあヤマナクション"
+    },
+    {
+      "start": 10.06,
+      "end": 12.24,
+      "text": "Pressing in with bair!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここは空中後ろで攻め込み"
+    }
+  ],
+  "full_text": "Chishi attacks! Nao with Diddy Kong Backing up, loading bananas Going for the whiff punish, but... Now Yamana moves in! Pressing in with bair!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "ナオチャディリー",
+      "corrected": "なおちゃディディー",
+      "rule": "player name + character name"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "3f4afa42-a0b6-4b67-b744-cbceb27d2ae6",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.62,
+      "text": "出し攻撃狙ってますよ",
+      "language": "ja"
+    },
+    {
+      "start": 2.62,
+      "end": 3.54,
+      "text": "ベース",
+      "language": "ja"
+    },
+    {
+      "start": 3.54,
+      "end": 4.3,
+      "text": "あベース",
+      "language": "ja"
+    }
+  ],
+  "full_text": "出し攻撃狙ってますよ ベース あベース",
+  "detected_language": "ja",
+  "corrections": []
+}

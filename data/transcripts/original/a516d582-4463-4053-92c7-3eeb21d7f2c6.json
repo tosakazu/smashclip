@@ -1,0 +1,50 @@
+{
+  "id": "a516d582-4463-4053-92c7-3eeb21d7f2c6",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.5,
+      "text": "掴み抜け 選択して みたいなところはあると思うんですけど",
+      "language": "ja"
+    },
+    {
+      "start": 3.5,
+      "end": 4.7,
+      "text": "さあ モンキーフリップ",
+      "language": "ja"
+    },
+    {
+      "start": 4.7,
+      "end": 5.7,
+      "text": "マントで掴めるところ",
+      "language": "ja"
+    },
+    {
+      "start": 5.7,
+      "end": 7.4,
+      "text": "もしくは Snow乗れば ガードが速すぎるだけ",
+      "language": "ja"
+    },
+    {
+      "start": 7.4,
+      "end": 9.0,
+      "text": "ああ なるほど",
+      "language": "ja"
+    },
+    {
+      "start": 9.0,
+      "end": 11.0,
+      "text": "この上 スマッシュ!",
+      "language": "ja"
+    }
+  ],
+  "full_text": "掴み抜け 選択して みたいなところはあると思うんですけど さあ モンキーフリップ マントで掴めるところ もしくは Snow乗れば ガードが速すぎるだけ ああ なるほど この上 スマッシュ!",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "original": "スノー乗れば ガジェが速すぎるだけ",
+      "corrected": "Snow乗れば ガードが速すぎるだけ",
+      "reason": "プレイヤー名Snow、ガード反応の話"
+    }
+  ]
+}

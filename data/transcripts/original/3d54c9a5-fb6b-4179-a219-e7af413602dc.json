@@ -1,0 +1,27 @@
+{
+  "id": "3d54c9a5-fb6b-4179-a219-e7af413602dc",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.14,
+      "text": "中央も陣取ってるぞ まだ止まらないさあ降りに空中前",
+      "language": "ja"
+    },
+    {
+      "start": 6.14,
+      "end": 15.94,
+      "text": "復帰がやはりうますぎるうますぎないけどどうやったら狩れるんだ 196.3これはさすがにかさすがに止めきる",
+      "language": "ja"
+    }
+  ],
+  "full_text": "中央も陣取ってるぞ まだ止まらないさあ降りに空中前 復帰がやはりうますぎるうますぎないけどどうやったら狩れるんだ 196.3これはさすがにかさすがに止めきる",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "大折りに",
+      "corrected": "降りに",
+      "rule": "Smash term: 降り空前 (descending forward air)"
+    }
+  ]
+}

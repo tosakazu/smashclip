@@ -1,0 +1,38 @@
+{
+  "id": "705651ef-764e-4f29-b0e1-1ae7ce3f364e",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "レイジに対しては十分に距離を取る",
+      "language": "ja"
+    },
+    {
+      "start": 2.0,
+      "end": 4.28,
+      "text": "空中前",
+      "language": "ja"
+    },
+    {
+      "start": 4.28,
+      "end": 6.34,
+      "text": "外に出す回避は切った",
+      "language": "ja"
+    },
+    {
+      "start": 6.34,
+      "end": 8.84,
+      "text": "そこで空下",
+      "language": "ja"
+    }
+  ],
+  "full_text": "レイジに対しては十分に距離を取る 空中前 外に出す回避は切った そこで空下",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_index": 3,
+      "original": "そこで空中した",
+      "corrected": "そこで空下"
+    }
+  ]
+}

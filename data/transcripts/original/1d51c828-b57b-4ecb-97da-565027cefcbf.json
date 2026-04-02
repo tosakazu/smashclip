@@ -1,0 +1,38 @@
+{
+  "id": "1d51c828-b57b-4ecb-97da-565027cefcbf",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.32,
+      "text": "I think it was a wrong choice for Leo there",
+      "language": "en"
+    },
+    {
+      "start": 2.32,
+      "end": 6.36,
+      "text": "He's like throwing a fireball, you have to be really wary of the opponent being in the right spot",
+      "language": "en"
+    },
+    {
+      "start": 6.36,
+      "end": 9.84,
+      "text": "So you can use it to its maximum, but it's the fullest, but it's not gonna work",
+      "language": "en"
+    },
+    {
+      "start": 9.84,
+      "end": 12.56,
+      "text": "Oh the taunt tilt and the airdodge, forcing the airdodge!",
+      "language": "en"
+    },
+    {
+      "start": 12.56,
+      "end": 13.32,
+      "text": "She didn't...",
+      "language": "en"
+    }
+  ],
+  "full_text": "I think it was a wrong choice for Leo there He's like throwing a fireball, you have to be really wary of the opponent being in the right spot So you can use it to its maximum, but it's the fullest, but it's not gonna work Oh the taunt tilt and the airdodge, forcing the airdodge! She didn't...",
+  "detected_language": "en",
+  "corrections": []
+}

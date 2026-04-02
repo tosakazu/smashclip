@@ -1,0 +1,39 @@
+{
+  "id": "ef6c71ff-6f57-4de1-805a-1bd01da7d769",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.06,
+      "text": "絶対に死なない選択肢っていうのを取ったと思います",
+      "language": "ja"
+    },
+    {
+      "start": 2.06,
+      "end": 3.28,
+      "text": "うーまい!",
+      "language": "ja"
+    },
+    {
+      "start": 3.42,
+      "end": 5.58,
+      "text": "うーまい!",
+      "language": "ja"
+    }
+  ],
+  "full_text": "絶対に死なない選択肢っていうのを取ったと思います うーまい! うーまい!",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "わーまい",
+      "corrected": "うーまい",
+      "rule": "misheard"
+    },
+    {
+      "segment_idx": 2,
+      "original": "わーまい",
+      "corrected": "うーまい",
+      "rule": "misheard"
+    }
+  ]
+}

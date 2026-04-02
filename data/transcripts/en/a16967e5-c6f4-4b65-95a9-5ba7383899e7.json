@@ -1,0 +1,33 @@
+{
+  "id": "a16967e5-c6f4-4b65-95a9-5ba7383899e7",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.72,
+      "text": "How much you can make spacing your weapon",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "武器としての展開をどれだけ大事にできるかというのは"
+    },
+    {
+      "start": 4.72,
+      "end": 6.38,
+      "text": "becomes the key, right?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "鍵となってきますよね"
+    },
+    {
+      "start": 6.38,
+      "end": 7.8,
+      "text": "Let me step back from the commentary for a moment",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "少し実況離れます"
+    }
+  ],
+  "full_text": "How much you can make spacing your weapon becomes the key, right? Let me step back from the commentary for a moment",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "d68ed24b-fef3-4e15-a970-286f6a43a52b",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.3,
+      "text": "Enough hits done after that forward air, allowing Kameme to answer with a forward air of his own.",
+      "language": "en"
+    },
+    {
+      "start": 5.44,
+      "end": 11.3,
+      "text": "Tosses the bike up, Crash Bomber on the side, and he actually managed to recover a good amount of health from that too.",
+      "language": "en"
+    },
+    {
+      "start": 11.8,
+      "end": 14.26,
+      "text": "I'm going to note that's what they love to do, but he's slapping them out.",
+      "language": "en"
+    }
+  ],
+  "full_text": "Enough hits done after that forward air, allowing Kameme to answer with a forward air of his own. Tosses the bike up, Crash Bomber on the side, and he actually managed to recover a good amount of health from that too. I'm going to note that's what they love to do, but he's slapping them out.",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "KamenMate",
+      "corrected": "Kameme",
+      "rule": "player name"
+    }
+  ]
+}

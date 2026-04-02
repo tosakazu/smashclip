@@ -1,0 +1,57 @@
+{
+  "id": "9670290d-48e7-4f7c-9d4f-e5db34211b3a",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.0,
+      "text": "空中後ろ、ここは反転入力で外側に押し出していきます",
+      "language": "ja"
+    },
+    {
+      "start": 3.0,
+      "end": 7.8,
+      "text": "ディディーのDA攻撃、かなり距離の確認難しいんですけど",
+      "language": "ja"
+    },
+    {
+      "start": 7.8,
+      "end": 11.12,
+      "text": "ワンツーバナナと掴みを狙っていったが、内側上スマッシュ",
+      "language": "ja"
+    },
+    {
+      "start": 11.12,
+      "end": 13.26,
+      "text": "ここに対してもケアをしている",
+      "language": "ja"
+    },
+    {
+      "start": 13.26,
+      "end": 14.66,
+      "text": "スノー選手まずは1ストック先行",
+      "language": "ja"
+    }
+  ],
+  "full_text": "空中後ろ、ここは反転入力で外側に押し出していきます ディディーのDA攻撃、かなり距離の確認難しいんですけど ワンツーバナナと掴みを狙っていったが、内側上スマッシュ ここに対してもケアをしている スノー選手まずは1ストック先行",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "ディニーのPA攻撃",
+      "corrected": "ディディーのDA攻撃",
+      "rule": "character name + move name (PA→DA)"
+    },
+    {
+      "segment_idx": 2,
+      "original": "128番線と掴みを狙っていったが、内側上スマッシュ",
+      "corrected": "ワンツーバナナと掴みを狙っていったが、内側上スマッシュ",
+      "rule": "misheard word"
+    },
+    {
+      "segment_idx": 4,
+      "original": "一時速先行",
+      "corrected": "1ストック先行",
+      "rule": "misheard word"
+    }
+  ]
+}

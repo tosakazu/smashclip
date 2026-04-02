@@ -1,0 +1,33 @@
+{
+  "id": "b84be27c-39c0-43ab-b075-9ae45aa34a1a",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.9,
+      "text": "The offense with blue pikmin in front is scary, but it's just blue pikmin",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "の攻め アオピクミンが先頭でちょっと怖いがアオピクミン"
+    },
+    {
+      "start": 3.9,
+      "end": 7.76,
+      "text": "From the opposite side, it won't KO",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "反対側からならまだ撃墜をしない"
+    },
+    {
+      "start": 8.06,
+      "end": 17.44,
+      "text": "Here he backs off, backs off, chips away the pikmin. Ken jumps, jumps, but gets mashed through by the fair!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここは引いて引いてピクミンを削って ケン選手ジャンプしてジャンプしてしかし空中前暴れ通される"
+    }
+  ],
+  "full_text": "The offense with blue pikmin in front is scary, but it's just blue pikmin From the opposite side, it won't KO Here he backs off, backs off, chips away the pikmin. Ken jumps, jumps, but gets mashed through by the fair!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

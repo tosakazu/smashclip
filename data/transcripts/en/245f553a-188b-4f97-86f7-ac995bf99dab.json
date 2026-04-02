@@ -1,0 +1,49 @@
+{
+  "id": "245f553a-188b-4f97-86f7-ac995bf99dab",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.14,
+      "text": "Catches the opponent in the hit!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ずらして相手を攻撃判定に巻き込みます"
+    },
+    {
+      "start": 2.14,
+      "end": 3.9,
+      "text": "And that's the KO!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そしてそんなことを言っていたら撃墜ですね"
+    },
+    {
+      "start": 3.9,
+      "end": 6.0,
+      "text": "In the last game",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "先ほどのゲームでは"
+    },
+    {
+      "start": 6.0,
+      "end": 9.62,
+      "text": "Genève was making a huge turnaround mid-game, but...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "途中ジュネーヴ選手が大きくターンを取り戻すような形だったんですが"
+    },
+    {
+      "start": 9.62,
+      "end": 11.34,
+      "text": "This time, Kazuhito is...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "今回はかずひと選手が"
+    }
+  ],
+  "full_text": "Catches the opponent in the hit! And that's the KO! In the last game Genève was making a huge turnaround mid-game, but... This time, Kazuhito is...",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

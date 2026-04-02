@@ -1,0 +1,21 @@
+{
+  "id": "f0803a2d-0d85-4bf9-aa9e-84a5d15245fe",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.52,
+      "text": "It is King K. Rool he's got a lot a lot big heavy guy. Okay. Well as I say that",
+      "language": "en"
+    }
+  ],
+  "full_text": "It is King K. Rool he's got a lot a lot big heavy guy. Okay. Well as I say that",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "kick your own",
+      "corrected": "King K. Rool",
+      "rule": "misheard character name"
+    }
+  ]
+}

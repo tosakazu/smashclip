@@ -1,0 +1,50 @@
+{
+  "id": "15b87aec-1e2c-4a15-8037-7328dbccd424",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.16,
+      "text": "チコを倒す2回横スマッシュ",
+      "language": "ja"
+    },
+    {
+      "start": 4.16,
+      "end": 5.8,
+      "text": "恨みがすごいですね",
+      "language": "ja"
+    },
+    {
+      "start": 5.8,
+      "end": 7.34,
+      "text": "そうですね本当に",
+      "language": "ja"
+    },
+    {
+      "start": 7.34,
+      "end": 8.0,
+      "text": "絶対倒す",
+      "language": "ja"
+    },
+    {
+      "start": 8.0,
+      "end": 10.08,
+      "text": "絶対お前倒してやるからなっていう",
+      "language": "ja"
+    },
+    {
+      "start": 10.08,
+      "end": 10.88,
+      "text": "上スマッシュ",
+      "language": "ja"
+    },
+    {
+      "start": 10.88,
+      "end": 11.96,
+      "text": "待ってたんだよ",
+      "language": "ja"
+    }
+  ],
+  "full_text": "チコを倒す2回横スマッシュ 恨みがすごいですね そうですね本当に 絶対倒す 絶対お前倒してやるからなっていう 上スマッシュ 待ってたんだよ",
+  "detected_language": "ja",
+  "corrections": []
+}

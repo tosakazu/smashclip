@@ -1,0 +1,39 @@
+{
+  "id": "c4233c06-6da1-4dbe-ac02-acb11ebb9365",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.94,
+      "text": "Are we still getting on this edge guard?",
+      "language": "en"
+    },
+    {
+      "start": 4.04,
+      "end": 6.06,
+      "text": "Watch out. Oh my goodness, that's really rough.",
+      "language": "en"
+    },
+    {
+      "start": 6.34,
+      "end": 7.36,
+      "text": "How did he get back in behind?",
+      "language": "en"
+    },
+    {
+      "start": 8.28,
+      "end": 10.12,
+      "text": "Oh my god, we're still in pitbull.",
+      "language": "en"
+    }
+  ],
+  "full_text": "Are we still getting on this edge guard? Watch out. Oh my goodness, that's really rough. How did he get back in behind? Oh my god, we're still in pitbull.",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "edge car",
+      "corrected": "edge guard",
+      "rule": "smash term"
+    }
+  ]
+}

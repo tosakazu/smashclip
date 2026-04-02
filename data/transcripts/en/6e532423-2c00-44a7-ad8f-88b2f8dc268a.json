@@ -1,0 +1,33 @@
+{
+  "id": "6e532423-2c00-44a7-ad8f-88b2f8dc268a",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.86,
+      "text": "This is insane! There it is! We're living the Smash Bros we wanted to play!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "すごいぞあるぞ俺たちのやりたいスマブラを体験してる"
+    },
+    {
+      "start": 3.86,
+      "end": 8.42,
+      "text": "But the TG player says this is what modern Smash Bros is all about!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "しかし令和のスマブラはこれだぞと言うTGの選手"
+    },
+    {
+      "start": 8.42,
+      "end": 9.22,
+      "text": "Whoa!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "うわっ"
+    }
+  ],
+  "full_text": "This is insane! There it is! We're living the Smash Bros we wanted to play! But the TG player says this is what modern Smash Bros is all about! Whoa!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

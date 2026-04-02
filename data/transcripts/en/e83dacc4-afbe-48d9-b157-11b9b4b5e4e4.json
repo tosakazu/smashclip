@@ -1,0 +1,54 @@
+{
+  "id": "e83dacc4-afbe-48d9-b157-11b9b4b5e4e4",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.92,
+      "text": "This setup's looking good, but...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "この形成が光るが"
+    },
+    {
+      "start": 0.92,
+      "end": 2.66,
+      "text": "Dash attack connects!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ダッシュ攻撃が通った"
+    },
+    {
+      "start": 2.66,
+      "end": 4.74,
+      "text": "That's the spot that takes longest to chase!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "一番拾う時間がかかるところ"
+    },
+    {
+      "start": 4.74,
+      "end": 6.36,
+      "text": "Against the aerial, meets it in the air!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "飛び越えに対して空中"
+    }
+  ],
+  "full_text": "This setup's looking good, but... Dash attack connects! That's the spot that takes longest to chase! Against the aerial, meets it in the air!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "形勢",
+      "corrected": "形成",
+      "rule": "context: 形成 (formation/play)"
+    },
+    {
+      "segment_idx": 2,
+      "original": "僕時間",
+      "corrected": "拾う時間",
+      "rule": "misheard: 僕→拾う"
+    }
+  ]
+}

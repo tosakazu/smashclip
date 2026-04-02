@@ -1,0 +1,56 @@
+{
+  "id": "fcfb6f81-247b-47ac-8e5e-25bf039aa68b",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.46,
+      "text": "Jump getup",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ジャンプ上がりを"
+    },
+    {
+      "start": 1.46,
+      "end": 4.22,
+      "text": "No punish, back to the mixup game!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "とがめないここは読み合いに持ち込む"
+    },
+    {
+      "start": 4.22,
+      "end": 6.08,
+      "text": "Nao sends them flying with back air!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "なおちゃ空中後ろで外に追い出して"
+    },
+    {
+      "start": 6.08,
+      "end": 7.58,
+      "text": "Banana into fair!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここはバナナから空中前"
+    },
+    {
+      "start": 7.58,
+      "end": 8.44,
+      "text": "Nao",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "なおちゃ選手"
+    }
+  ],
+  "full_text": "Jump getup No punish, back to the mixup game! Nao sends them flying with back air! Banana into fair! Nao",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "ナオチャ",
+      "corrected": "なおちゃ",
+      "rule": "player name"
+    }
+  ]
+}

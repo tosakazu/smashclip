@@ -1,0 +1,49 @@
+{
+  "id": "cc6bfbf5-94be-444f-aa5f-2e6b5c05b8bf",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.44,
+      "text": "That's incredible コイド play!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "コイドの使い方がお見事なんですよね"
+    },
+    {
+      "start": 1.44,
+      "end": 1.88,
+      "text": "Nice!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "うまいですね"
+    },
+    {
+      "start": 1.88,
+      "end": 4.18,
+      "text": "Captain Falcon as well!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "キャプテンファルコンもね"
+    },
+    {
+      "start": 4.18,
+      "end": 6.4,
+      "text": "That's a fighter with great aerial mobility",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "相当空中を泳いでくるファイターだと思うんですけれども"
+    },
+    {
+      "start": 6.4,
+      "end": 7.68,
+      "text": "Wario's like that too",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ワリオもまた泳いでくる"
+    }
+  ],
+  "full_text": "That's incredible コイド play! Nice! Captain Falcon as well! That's a fighter with great aerial mobility Wario's like that too",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

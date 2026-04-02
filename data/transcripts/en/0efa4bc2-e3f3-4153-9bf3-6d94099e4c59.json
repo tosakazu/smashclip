@@ -1,0 +1,80 @@
+{
+  "id": "0efa4bc2-e3f3-4153-9bf3-6d94099e4c59",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.1,
+      "text": "Down 96%!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあ96%のビハインド"
+    },
+    {
+      "start": 2.1,
+      "end": 4.64,
+      "text": "Down a full stock too!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "丸々1ストックの差もあって"
+    },
+    {
+      "start": 4.64,
+      "end": 6.48,
+      "text": "This is absolutely devastating!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これはかなり大きな絶望"
+    },
+    {
+      "start": 6.48,
+      "end": 7.2,
+      "text": "Back throw!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "後ろ投げ"
+    },
+    {
+      "start": 7.2,
+      "end": 8.78,
+      "text": "Samus's weight still saves her!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "サムスの体重ならまだ耐える"
+    },
+    {
+      "start": 8.78,
+      "end": 10.56,
+      "text": "But the juggle continues!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "だがこの着地狩りの展開"
+    },
+    {
+      "start": 10.56,
+      "end": 12.6,
+      "text": "Launched by PK Thunder!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "PKサンダーで打ち上げられて"
+    },
+    {
+      "start": 12.6,
+      "end": 14.24,
+      "text": "And back in!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあすまほで"
+    }
+  ],
+  "full_text": "Down 96%! Down a full stock too! This is absolutely devastating! Back throw! Samus's weight still saves her! But the juggle continues! Launched by PK Thunder! And back in!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 7,
+      "original": "さあスマホで",
+      "corrected": "さあすまほで",
+      "rule": "Player name: スマホ→すまほ (player name, not smartphone)"
+    }
+  ]
+}

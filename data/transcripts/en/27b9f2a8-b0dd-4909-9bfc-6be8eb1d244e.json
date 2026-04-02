@@ -1,0 +1,81 @@
+{
+  "id": "27b9f2a8-b0dd-4909-9bfc-6be8eb1d244e",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.7,
+      "text": "He broke through!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "前を抜いちゃった"
+    },
+    {
+      "start": 0.7,
+      "end": 4.06,
+      "text": "Is he going for that up B catch?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "狙ってますかねこの上Bの巻き込み"
+    },
+    {
+      "start": 4.06,
+      "end": 5.44,
+      "text": "That definitely looks intentional!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これはかなり狙ってそうですね"
+    },
+    {
+      "start": 5.44,
+      "end": 7.58,
+      "text": "Even if it doesn't land",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "当たらなかったとしても"
+    },
+    {
+      "start": 7.58,
+      "end": 8.64,
+      "text": "Even if he barely clips him",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ちょっとだけ当たったとしても"
+    },
+    {
+      "start": 8.64,
+      "end": 9.44,
+      "text": "Then the opponent gets their window",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "その後リターンになると"
+    },
+    {
+      "start": 9.44,
+      "end": 10.98,
+      "text": "What's the play?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "どうするの?"
+    },
+    {
+      "start": 11.38,
+      "end": 12.36,
+      "text": "Ooh, he's bailing!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "おー離脱する"
+    },
+    {
+      "start": 12.36,
+      "end": 13.24,
+      "text": "Just force him down!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "もう降ろさせて"
+    }
+  ],
+  "full_text": "He broke through! Is he going for that up B catch? That definitely looks intentional! Even if it doesn't land, even if he barely clips him, then the opponent gets their window. What's the play? Ooh, he's bailing! Just force him down!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

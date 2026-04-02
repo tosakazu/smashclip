@@ -1,0 +1,57 @@
+{
+  "id": "ab2143e4-c9a7-4f4e-a41d-03d01b9e5e74",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Pretty sketchy",
+      "language": "en",
+      "original_language": "es",
+      "original_text": "bastante sospechoso"
+    },
+    {
+      "start": 2.0,
+      "end": 4.0,
+      "text": "Yeah, honestly",
+      "language": "en",
+      "original_language": "es",
+      "original_text": "la verdad es que si"
+    },
+    {
+      "start": 4.0,
+      "end": 6.0,
+      "text": "Curious watching him try to escape",
+      "language": "en",
+      "original_language": "es",
+      "original_text": "estoy un poquito curioso intentándose de quitar"
+    },
+    {
+      "start": 6.0,
+      "end": 7.82,
+      "text": "Doesn't want to stick around",
+      "language": "en",
+      "original_language": "es",
+      "original_text": "porque no se quiere mantener ahí cerca"
+    },
+    {
+      "start": 7.82,
+      "end": 9.92,
+      "text": "From Spargo, that Rage Ram keeps coming out",
+      "language": "en",
+      "original_language": "es",
+      "original_text": "de lo que puede ser Spargo, el Rage Ram que lleva saliendo"
+    },
+    {
+      "start": 9.92,
+      "end": 11.86,
+      "text": "That incredible parry and he lands it!",
+      "language": "en",
+      "original_language": "es",
+      "original_text": "el parry fenomenal y claro lo agarra"
+    }
+  ],
+  "full_text": "Pretty sketchy Yeah, honestly Curious watching him try to escape Doesn't want to stick around From Spargo, that Rage Ram keeps coming out That incredible parry and he lands it!",
+  "detected_language": "en",
+  "original_language": "es",
+  "corrections": []
+}

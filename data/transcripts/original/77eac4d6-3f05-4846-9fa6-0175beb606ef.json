@@ -1,0 +1,45 @@
+{
+  "id": "77eac4d6-3f05-4846-9fa6-0175beb606ef",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.3,
+      "text": "ステージはホロウバスティオンです",
+      "language": "ja"
+    },
+    {
+      "start": 1.3,
+      "end": 8.46,
+      "text": "BO5の状況、いわゆる3先の状況で",
+      "language": "ja"
+    },
+    {
+      "start": 8.46,
+      "end": 10.42,
+      "text": "ゲームカウント1、2というところ",
+      "language": "ja"
+    },
+    {
+      "start": 10.42,
+      "end": 11.62,
+      "text": "これは空中回避",
+      "language": "ja"
+    }
+  ],
+  "full_text": "ステージはホロウバスティオンです BO5の状況、いわゆる3先の状況で ゲームカウント1、2というところ これは空中回避",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "ゲージ",
+      "corrected": "ステージ",
+      "rule": "whisper misrecognition"
+    },
+    {
+      "segment_idx": 0,
+      "original": "ホローバスティオン",
+      "corrected": "ホロウバスティオン",
+      "rule": "stage name"
+    }
+  ]
+}

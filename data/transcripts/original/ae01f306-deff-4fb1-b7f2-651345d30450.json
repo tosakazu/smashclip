@@ -1,0 +1,63 @@
+{
+  "id": "ae01f306-deff-4fb1-b7f2-651345d30450",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.44,
+      "text": "ジャンプ空前とかにちょうど当たっちゃいましたね",
+      "language": "ja"
+    },
+    {
+      "start": 2.44,
+      "end": 2.86,
+      "text": "そうですね",
+      "language": "ja"
+    },
+    {
+      "start": 2.86,
+      "end": 5.22,
+      "text": "ジャンプしたところに置いていました",
+      "language": "ja"
+    },
+    {
+      "start": 5.22,
+      "end": 6.9,
+      "text": "空中下",
+      "language": "ja"
+    },
+    {
+      "start": 6.9,
+      "end": 8.54,
+      "text": "ここで地獄門を通す",
+      "language": "ja"
+    },
+    {
+      "start": 8.54,
+      "end": 11.28,
+      "text": "これはもうそもそも変われないですね",
+      "language": "ja"
+    },
+    {
+      "start": 11.28,
+      "end": 12.58,
+      "text": "さすがにそもそも",
+      "language": "ja"
+    }
+  ],
+  "full_text": "ジャンプ空前とかにちょうど当たっちゃいましたね そうですね ジャンプしたところに置いていました 空中下 ここで地獄門を通す これはもうそもそも変われないですね さすがにそもそも",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "ジャンプしたところが消えていました",
+      "corrected": "ジャンプしたところに置いていました",
+      "rule": "homophone (消えて→置いて)"
+    },
+    {
+      "segment_idx": 3,
+      "original": "空中しろ",
+      "corrected": "空中下",
+      "rule": "move name abbreviation"
+    }
+  ]
+}

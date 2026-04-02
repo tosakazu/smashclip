@@ -1,0 +1,26 @@
+{
+  "id": "caf6134e-0707-4799-8573-569ef506c574",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.36,
+      "text": "You've got to get rid of this stock. ASAP.",
+      "language": "en"
+    },
+    {
+      "start": 3.28,
+      "end": 5.2,
+      "text": "Do not want to let this lead stretch you at all.",
+      "language": "en"
+    },
+    {
+      "start": 5.3,
+      "end": 9.54,
+      "text": "An upthrow just barely, not killing you just yet, but the Nair will take it.",
+      "language": "en"
+    }
+  ],
+  "full_text": "You've got to get rid of this stock. ASAP. Do not want to let this lead stretch you at all. An upthrow just barely, not killing you just yet, but the Nair will take it.",
+  "detected_language": "en",
+  "corrections": []
+}

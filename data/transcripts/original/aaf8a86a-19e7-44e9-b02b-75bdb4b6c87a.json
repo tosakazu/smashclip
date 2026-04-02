@@ -1,0 +1,33 @@
+{
+  "id": "aaf8a86a-19e7-44e9-b02b-75bdb4b6c87a",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.76,
+      "text": "very very excellent work yeah but we have BetaMan with a lot of percentage",
+      "language": "en"
+    },
+    {
+      "start": 3.76,
+      "end": 9.76,
+      "text": "damage percentage right there uh let's see who makes the first approach from the stock and",
+      "language": "en"
+    },
+    {
+      "start": 10.4,
+      "end": 15.92,
+      "text": "if he can even a little bit the situation but it's not gonna be possible",
+      "language": "en"
+    }
+  ],
+  "full_text": "very very excellent work yeah but we have BetaMan with a lot of percentage damage percentage right there uh let's see who makes the first approach from the stock and if he can even a little bit the situation but it's not gonna be possible",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "vitamin",
+      "corrected": "BetaMan",
+      "rule": "Player name: vitamin→BetaMan"
+    }
+  ]
+}

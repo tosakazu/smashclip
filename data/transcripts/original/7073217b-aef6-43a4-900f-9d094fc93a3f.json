@@ -1,0 +1,73 @@
+{
+  "id": "7073217b-aef6-43a4-900f-9d094fc93a3f",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.26,
+      "text": "もう一度崖のターン",
+      "language": "ja"
+    },
+    {
+      "start": 1.26,
+      "end": 2.18,
+      "text": "崖奪い",
+      "language": "ja"
+    },
+    {
+      "start": 2.18,
+      "end": 3.24,
+      "text": "崖奪いをしたが",
+      "language": "ja"
+    },
+    {
+      "start": 3.24,
+      "end": 4.62,
+      "text": "その後の読み合い",
+      "language": "ja"
+    },
+    {
+      "start": 4.62,
+      "end": 5.5,
+      "text": "制したのはジュネーヴか",
+      "language": "ja"
+    },
+    {
+      "start": 5.5,
+      "end": 6.4,
+      "text": "空Nさらに暴れ",
+      "language": "ja"
+    },
+    {
+      "start": 6.4,
+      "end": 7.52,
+      "text": "崖外に追い出されたクロム",
+      "language": "ja"
+    },
+    {
+      "start": 7.52,
+      "end": 9.18,
+      "text": "回避で戻ってきて",
+      "language": "ja"
+    },
+    {
+      "start": 9.18,
+      "end": 10.0,
+      "text": "ギガファイヤーの後",
+      "language": "ja"
+    }
+  ],
+  "full_text": "もう一度崖のターン 崖奪い 崖奪いをしたが その後の読み合い 制したのはジュネーヴか 空Nさらに暴れ 崖外に追い出されたクロム 回避で戻ってきて ギガファイヤーの後",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_index": 4,
+      "original": "制したのはジュネーブか",
+      "corrected": "制したのはジュネーヴか"
+    },
+    {
+      "segment_index": 5,
+      "original": "空中にさら暴れ",
+      "corrected": "空Nさらに暴れ"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "179f54dd-5762-443e-a1db-695781fb6d78",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 9.88,
+      "text": "With his slower movement speed and limited aerial horizontal mobility, the challenge is how to approach and actually hit Sonic when he's constantly running around side to side like that.",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "足が遅かったり、空中の横移動もそんなに優秀ではないので、どのように横、左右にね、走り回っているソニックに触りにいくかといったところが課題になりますね。"
+    },
+    {
+      "start": 10.2,
+      "end": 15.1,
+      "text": "And if you try to win those hitbox trades, you tend to just get caught by his attacks anyway.",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "やはり技の判定で打ち勝たないといけないという部分だったら、やはりこういうのに当たってしまいがちですよね。"
+    }
+  ],
+  "full_text": "With his slower movement speed and limited aerial horizontal mobility, the challenge is how to approach and actually hit Sonic when he's constantly running around side to side like that. And if you try to win those hitbox trades, you tend to just get caught by his attacks anyway.",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "置き回っているソニックに触りにくいかといったところ",
+      "corrected": "走り回っているソニックに触りにいくかといったところ",
+      "rule": "Garbled transcription: 置き回っている→走り回っている; 触りにくい→触りにいく"
+    }
+  ]
+}

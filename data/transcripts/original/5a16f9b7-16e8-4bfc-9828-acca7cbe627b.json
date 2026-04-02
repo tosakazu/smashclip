@@ -1,0 +1,56 @@
+{
+  "id": "5a16f9b7-16e8-4bfc-9828-acca7cbe627b",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.8,
+      "text": "スマッシュが丁寧です",
+      "language": "ja"
+    },
+    {
+      "start": 0.8,
+      "end": 1.86,
+      "text": "横スマッシュ",
+      "language": "ja"
+    },
+    {
+      "start": 1.86,
+      "end": 4.2,
+      "text": "これにはリスクをつけたいが",
+      "language": "ja"
+    },
+    {
+      "start": 4.2,
+      "end": 5.44,
+      "text": "確認をして",
+      "language": "ja"
+    },
+    {
+      "start": 5.44,
+      "end": 7.22,
+      "text": "避けることが大事だからこそ",
+      "language": "ja"
+    },
+    {
+      "start": 7.22,
+      "end": 8.54,
+      "text": "反応するのは少し難しい",
+      "language": "ja"
+    },
+    {
+      "start": 8.54,
+      "end": 10.18,
+      "text": "今度もうまく避けた",
+      "language": "ja"
+    },
+    {
+      "start": 10.18,
+      "end": 11.52,
+      "text": "飛び込んでけ",
+      "language": "ja"
+    }
+  ],
+  "full_text": "スマッシュが丁寧です 横スマッシュ これにはリスクをつけたいが 確認をして 避けることが大事だからこそ 反応するのは少し難しい 今度もうまく避けた 飛び込んでけ",
+  "detected_language": "ja",
+  "corrections": []
+}

@@ -1,0 +1,39 @@
+{
+  "id": "9b88286f-f5ea-4002-b1b8-2242fb177b24",
+  "segments": [
+    {
+      "start": 0.12,
+      "end": 5.6,
+      "text": "Luigi is such a great combo breaker. He's a little bit too far off. Yeah, he is, but it doesn't I don't know if it's gonna matter",
+      "language": "en"
+    },
+    {
+      "start": 5.6,
+      "end": 9.88,
+      "text": "He's gonna go for a back air can Light make it back just barely what an angle",
+      "language": "en"
+    },
+    {
+      "start": 9.88,
+      "end": 13.16,
+      "text": "Wow, I was I was sure he was dead there, but a shine",
+      "language": "en"
+    },
+    {
+      "start": 13.16,
+      "end": 15.6,
+      "text": "Light does",
+      "language": "en"
+    }
+  ],
+  "full_text": "Luigi is such a great combo breaker. He's a little bit too far off. Yeah, he is, but it doesn't I don't know if it's gonna matter He's gonna go for a back air can Light make it back just barely what an angle Wow, I was I was sure he was dead there, but a shine Light does",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "light",
+      "corrected": "Light",
+      "rule": "player name capitalization"
+    }
+  ]
+}

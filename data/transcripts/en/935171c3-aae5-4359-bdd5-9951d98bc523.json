@@ -1,0 +1,65 @@
+{
+  "id": "935171c3-aae5-4359-bdd5-9951d98bc523",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.2,
+      "text": "Sure enough",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "やはり"
+    },
+    {
+      "start": 1.2,
+      "end": 3.54,
+      "text": "threw Gigadyne out",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ギガデイン打っていったが"
+    },
+    {
+      "start": 3.54,
+      "end": 4.04,
+      "text": "the",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これは"
+    },
+    {
+      "start": 4.04,
+      "end": 6.46,
+      "text": "lightning connects",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "落雷部分が当たったことによって"
+    },
+    {
+      "start": 6.46,
+      "end": 8.18,
+      "text": "and it works!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "なんとかなりましたね"
+    },
+    {
+      "start": 8.18,
+      "end": 12.6,
+      "text": "Now it's charging, shield",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあ溜まっているのでシールドで"
+    },
+    {
+      "start": 12.6,
+      "end": 14.36,
+      "text": "gets through clean",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "うまくやり過ごして"
+    }
+  ],
+  "full_text": "Sure enough threw Gigadyne out the lightning connects and it works! Now it's charging, shield gets through clean",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

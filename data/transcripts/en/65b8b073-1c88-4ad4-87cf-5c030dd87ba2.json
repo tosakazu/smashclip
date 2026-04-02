@@ -1,0 +1,76 @@
+{
+  "id": "65b8b073-1c88-4ad4-87cf-5c030dd87ba2",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.76,
+      "text": "Prominence Revolt yet again!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さらにプロミネンスリボルト"
+    },
+    {
+      "start": 2.76,
+      "end": 6.08,
+      "text": "At the ledge...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "お崖は"
+    },
+    {
+      "start": 6.08,
+      "end": 7.72,
+      "text": "Holding it down!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "セビ耐えて"
+    },
+    {
+      "start": 7.72,
+      "end": 10.44,
+      "text": "Great spacing there!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "上手に差し置いています"
+    },
+    {
+      "start": 10.44,
+      "end": 12.14,
+      "text": "Right here!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここで"
+    },
+    {
+      "start": 12.14,
+      "end": 14.26,
+      "text": "Extended aerial duration!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空中で持続の伸びる"
+    }
+  ],
+  "full_text": "Prominence Revolt yet again! At the ledge... Holding it down! Great spacing there! Right here! Extended aerial duration!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "おかけは",
+      "corrected": "お崖は",
+      "rule": "kanji homophone"
+    },
+    {
+      "segment_idx": 2,
+      "original": "背びれ耐えて",
+      "corrected": "セビ耐えて",
+      "rule": "Ryu move term (セービング/Focus Attack)"
+    },
+    {
+      "segment_idx": 3,
+      "original": "宇宙車置いています",
+      "corrected": "上手に差し置いています",
+      "rule": "misheard phrase"
+    }
+  ]
+}

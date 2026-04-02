@@ -1,0 +1,108 @@
+{
+  "id": "5322f411-ad0a-4b76-bacb-83291104691a",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.86,
+      "text": "Whiffs it!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "こっちをミスる"
+    },
+    {
+      "start": 0.86,
+      "end": 2.52,
+      "text": "Didn't land the meteor!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "今のメテオ部分じゃないんだな"
+    },
+    {
+      "start": 2.52,
+      "end": 4.38,
+      "text": "From the spin",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "スピンから"
+    },
+    {
+      "start": 4.38,
+      "end": 5.48,
+      "text": "Covers it instantly!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "一気にカバー"
+    },
+    {
+      "start": 5.48,
+      "end": 6.28,
+      "text": "Power Dunk!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "パワーダンク"
+    },
+    {
+      "start": 6.28,
+      "end": 7.82,
+      "text": "Oh!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いやー"
+    },
+    {
+      "start": 7.82,
+      "end": 8.98,
+      "text": "Jab jab",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "弱弱"
+    },
+    {
+      "start": 8.98,
+      "end": 10.84,
+      "text": "KO with Rising Tackle!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ライジングタックルで撃墜"
+    },
+    {
+      "start": 10.84,
+      "end": 11.78,
+      "text": "That was tough!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "今のむずいな"
+    },
+    {
+      "start": 11.78,
+      "end": 12.12,
+      "text": "But",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "しかし"
+    }
+  ],
+  "full_text": "Whiffs it! Didn't land the meteor! From the spin Covers it instantly! Power Dunk! Oh! Jab jab KO with Rising Tackle! That was tough! But",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 3,
+      "original": "1位でカバリ",
+      "corrected": "一気にカバー",
+      "rule": "misheard word"
+    },
+    {
+      "segment_idx": 4,
+      "original": "ポーダンク",
+      "corrected": "パワーダンク",
+      "rule": "move name: Terry's Power Dunk"
+    },
+    {
+      "segment_idx": 6,
+      "original": "ジャクジャク",
+      "corrected": "弱弱",
+      "rule": "kanji homophone: ジャクジャク→弱弱"
+    }
+  ]
+}

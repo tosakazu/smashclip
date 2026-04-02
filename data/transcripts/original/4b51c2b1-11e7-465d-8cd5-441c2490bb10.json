@@ -1,0 +1,69 @@
+{
+  "id": "4b51c2b1-11e7-465d-8cd5-441c2490bb10",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "なんだと!? 崖をスキップしてくる!",
+      "language": "ja"
+    },
+    {
+      "start": 2.0,
+      "end": 3.6,
+      "text": "大胆不敵 神出鬼没!",
+      "language": "ja"
+    },
+    {
+      "start": 3.6,
+      "end": 5.2,
+      "text": "なんとか戻ってきて",
+      "language": "ja"
+    },
+    {
+      "start": 5.2,
+      "end": 6.2,
+      "text": "金掘った",
+      "language": "ja"
+    },
+    {
+      "start": 6.2,
+      "end": 7.2,
+      "text": "今度はその場上がり",
+      "language": "ja"
+    },
+    {
+      "start": 7.2,
+      "end": 8.3,
+      "text": "崖スキップが効いているが",
+      "language": "ja"
+    },
+    {
+      "start": 8.3,
+      "end": 10.3,
+      "text": "横スマ!",
+      "language": "ja"
+    }
+  ],
+  "full_text": "なんだと!? 崖をスキップしてくる! 大胆不敵 神出鬼没! なんとか戻ってきて 金掘った 今度はその場上がり 崖スキップが効いているが 横スマ!",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "進出鬼没",
+      "corrected": "神出鬼没",
+      "rule": "kanji homophone"
+    },
+    {
+      "segment_idx": 4,
+      "original": "今度はそのばかり",
+      "corrected": "今度はその場上がり",
+      "rule": "Smash terminology (その場上がり)"
+    },
+    {
+      "segment_idx": 6,
+      "original": "よっこすます",
+      "corrected": "横スマ",
+      "rule": "move abbreviation (横スマッシュ→横スマ)"
+    }
+  ]
+}

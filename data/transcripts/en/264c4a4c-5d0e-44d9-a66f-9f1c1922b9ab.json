@@ -1,0 +1,65 @@
+{
+  "id": "264c4a4c-5d0e-44d9-a66f-9f1c1922b9ab",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.58,
+      "text": "He's been dominating from the start!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "取り切ってみせた、さっきから"
+    },
+    {
+      "start": 1.58,
+      "end": 4.8,
+      "text": "Caught on landing!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "着地は、相手のキャッチ"
+    },
+    {
+      "start": 4.8,
+      "end": 8.12,
+      "text": "Banana in hand now",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "一旦ね、バナナ持って"
+    },
+    {
+      "start": 8.12,
+      "end": 10.7,
+      "text": "Gets the parry from there!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "じっくりからジャストシールド"
+    },
+    {
+      "start": 10.7,
+      "end": 12.12,
+      "text": "But even with the parry",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "しかしジャストシールドでも"
+    },
+    {
+      "start": 12.12,
+      "end": 14.76,
+      "text": "Tweek gets the punish!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "反撃を取ったのは、Tweek側だ!"
+    },
+    {
+      "start": 15.96,
+      "end": 17.18,
+      "text": "Just like the finish of the last game!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "先ほどの試合の決め方"
+    }
+  ],
+  "full_text": "He's been dominating from the start! Caught on landing! Banana in hand now Gets the parry from there! But even with the parry Tweek gets the punish! Just like the finish of the last game!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

@@ -1,0 +1,57 @@
+{
+  "id": "b3d62929-3400-4e20-8aa1-d4ac02820a95",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.06,
+      "text": "展開維持",
+      "language": "ja"
+    },
+    {
+      "start": 1.06,
+      "end": 3.38,
+      "text": "パクってるがベルを取っているが",
+      "language": "ja"
+    },
+    {
+      "start": 3.38,
+      "end": 4.9,
+      "text": "しかしここは",
+      "language": "ja"
+    },
+    {
+      "start": 4.9,
+      "end": 7.52,
+      "text": "それを追い込み済みのタケノコ選手",
+      "language": "ja"
+    },
+    {
+      "start": 7.52,
+      "end": 9.18,
+      "text": "うまく崖外に追いやった",
+      "language": "ja"
+    },
+    {
+      "start": 9.18,
+      "end": 11.7,
+      "text": "空中前かぶせて",
+      "language": "ja"
+    },
+    {
+      "start": 11.7,
+      "end": 13.9,
+      "text": "ここは本命の勝負",
+      "language": "ja"
+    }
+  ],
+  "full_text": "展開維持 パクってるがベルを取っているが しかしここは それを追い込み済みのタケノコ選手 うまく崖外に追いやった 空中前かぶせて ここは本命の勝負",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 3,
+      "original": "竹の子選手",
+      "corrected": "タケノコ選手",
+      "rule": "player name"
+    }
+  ]
+}

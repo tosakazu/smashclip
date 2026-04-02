@@ -1,0 +1,60 @@
+{
+  "id": "64c9c572-9d38-4ed1-88fd-0f4c55c52798",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.12,
+      "text": "Insane fair! Beautiful cancel, showing off the skill!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空中前 素晴らしい前キャンだ こちらも見せつける"
+    },
+    {
+      "start": 3.12,
+      "end": 4.98,
+      "text": "3-2 stocks, DenKota with the lead",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ストック3-2 リードはデンコタ"
+    },
+    {
+      "start": 4.98,
+      "end": 7.6,
+      "text": "Forward tilt tipper!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "横強先端"
+    },
+    {
+      "start": 7.6,
+      "end": 13.48,
+      "text": "PK Freeze off the read!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "PKフリーズ 見てから確実に"
+    }
+  ],
+  "full_text": "Insane fair! Beautiful cancel, showing off the skill! 3-2 stocks, DenKota with the lead Forward tilt tipper! PK Freeze off the read!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "前カンディ",
+      "corrected": "前キャンだ",
+      "rule": "misheard abbreviation"
+    },
+    {
+      "segment_idx": 2,
+      "original": "有効強",
+      "corrected": "横強",
+      "rule": "kanji homophone (ゆうこうきょう→よこきょう)"
+    },
+    {
+      "segment_idx": 3,
+      "original": "TKフリーズ",
+      "corrected": "PKフリーズ",
+      "rule": "Lucas move name"
+    }
+  ]
+}

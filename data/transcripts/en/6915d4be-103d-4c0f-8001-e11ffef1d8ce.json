@@ -1,0 +1,44 @@
+{
+  "id": "6915d4be-103d-4c0f-8001-e11ffef1d8ce",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.74,
+      "text": "Knocked down! Confirming the down throw into fair!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "落としてさあこれしっかり確認下投げから空前"
+    },
+    {
+      "start": 2.74,
+      "end": 9.02,
+      "text": "Mashing out — down throw into bair — and the fair!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあ暴れはしっかり下投げ空後さあここは空前"
+    }
+  ],
+  "full_text": "Knocked down! Confirming the down throw into fair! Mashing out — down throw into bair — and the fair!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "空中しろ",
+      "corrected": "空後",
+      "rule": "move abbreviation"
+    },
+    {
+      "segment_idx": 1,
+      "original": "空中前",
+      "corrected": "空前",
+      "rule": "move abbreviation"
+    },
+    {
+      "segment_idx": 0,
+      "original": "空中前",
+      "corrected": "空前",
+      "rule": "move abbreviation"
+    }
+  ]
+}

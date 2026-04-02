@@ -1,0 +1,48 @@
+{
+  "id": "ffa189bc-e656-4ab4-81a4-48b94523c9c0",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.48,
+      "text": "Pressuring Sonic's strong horizontal spacing with Pikmin throws and lingering forward smash",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ソニックが得意である横軸の差し合いをピクミン投げと横スマッシュの持続とかで"
+    },
+    {
+      "start": 5.48,
+      "end": 9.22,
+      "text": "And Pikmin & Olimar is advancing the match quite favorably with this approach",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "かなり試合を優位に進めてくるのがピクミン&オリマーなので"
+    },
+    {
+      "start": 9.22,
+      "end": 13.24,
+      "text": "So how to overcome this becomes the key",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここをどうやって乗り越えていくのかが鍵となってきます"
+    },
+    {
+      "start": 13.24,
+      "end": 17.66,
+      "text": "When throwing out forward smashes, that yellow Pikmin attachment is important too",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "横スマッシュを振っていくにあたっては先ほどついていた黄色ピクミンもね"
+    }
+  ],
+  "full_text": "Pressuring Sonic's strong horizontal spacing with Pikmin throws and lingering forward smash And Pikmin & Olimar is advancing the match quite favorably with this approach So how to overcome this becomes the key When throwing out forward smashes, that yellow Pikmin attachment is important too",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "ピクミン&オリマン",
+      "corrected": "ピクミン&オリマー",
+      "rule": "character name: オリマン→オリマー"
+    }
+  ]
+}

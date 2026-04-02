@@ -1,0 +1,41 @@
+{
+  "id": "9b83033a-bf2d-469c-8ff1-815caa32f70f",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.76,
+      "text": "Insane, insane!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "やばいやばい"
+    },
+    {
+      "start": 0.76,
+      "end": 2.44,
+      "text": "Oh, he got it!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "あー勝った"
+    },
+    {
+      "start": 2.44,
+      "end": 6.46,
+      "text": "Whoa!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いやー"
+    },
+    {
+      "start": 6.46,
+      "end": 7.06,
+      "text": "Semiro",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "セミロ"
+    }
+  ],
+  "full_text": "Insane, insane! Oh, he got it! Whoa! Semiro",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

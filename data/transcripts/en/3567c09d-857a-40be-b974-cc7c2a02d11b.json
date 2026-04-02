@@ -1,0 +1,46 @@
+{
+  "id": "3567c09d-857a-40be-b974-cc7c2a02d11b",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.7,
+      "text": "He's back!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "戻ってきて"
+    },
+    {
+      "start": 3.7,
+      "end": 6.84,
+      "text": "In the exchange, opening with nair!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "接戦のところ空Nを開始していく"
+    },
+    {
+      "start": 6.84,
+      "end": 8.6,
+      "text": "But that's bair!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "しかしこれは空後"
+    }
+  ],
+  "full_text": "He's back! In the exchange, opening with nair! But that's bair!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "説明のところ空中を開始していく",
+      "corrected": "接戦のところ空Nを開始していく",
+      "rule": "misheard: 接戦, 空N"
+    },
+    {
+      "segment_idx": 2,
+      "original": "空中城",
+      "corrected": "空後",
+      "rule": "Whisper error: 空中城→空後"
+    }
+  ]
+}

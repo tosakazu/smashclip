@@ -1,0 +1,57 @@
+{
+  "id": "3d494f9a-d744-4eb5-9ba2-35af81cedd69",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.54,
+      "text": "下がって",
+      "language": "ja"
+    },
+    {
+      "start": 0.54,
+      "end": 3.88,
+      "text": "もうネオ選手側としても",
+      "language": "ja"
+    },
+    {
+      "start": 3.88,
+      "end": 5.94,
+      "text": "かなり付き合わなくてもいい状態でありますからね",
+      "language": "ja"
+    },
+    {
+      "start": 5.94,
+      "end": 6.44,
+      "text": "そうですね",
+      "language": "ja"
+    },
+    {
+      "start": 6.44,
+      "end": 9.88,
+      "text": "少しでもパーセントさえ稼いでしまえばといったところですが",
+      "language": "ja"
+    },
+    {
+      "start": 9.88,
+      "end": 11.9,
+      "text": "ピクミン投擲に対して",
+      "language": "ja"
+    },
+    {
+      "start": 11.9,
+      "end": 14.14,
+      "text": "紫に対しても大ジャンプから",
+      "language": "ja"
+    }
+  ],
+  "full_text": "下がって もうネオ選手側としても かなり付き合わなくてもいい状態でありますからね そうですね 少しでもパーセントさえ稼いでしまえばといったところですが ピクミン投擲に対して 紫に対しても大ジャンプから",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 5,
+      "original": "ヒクミン",
+      "corrected": "ピクミン",
+      "rule": "character name: Olimar's Pikmin = ピクミン"
+    }
+  ]
+}

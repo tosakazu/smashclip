@@ -1,0 +1,45 @@
+{
+  "id": "90e6fabd-1a9d-46bd-9d91-3a5cab478bfe",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.86,
+      "text": "確認して下スマッシュしっかりと",
+      "language": "ja"
+    },
+    {
+      "start": 1.86,
+      "end": 4.64,
+      "text": "さあうっちー選手大きなリード",
+      "language": "ja"
+    },
+    {
+      "start": 4.64,
+      "end": 6.04,
+      "text": "さあ空前はガードして",
+      "language": "ja"
+    },
+    {
+      "start": 6.04,
+      "end": 8.36,
+      "text": "しかし当たったここは空中後ろ撃墜",
+      "language": "ja"
+    }
+  ],
+  "full_text": "確認して下スマッシュしっかりと さあうっちー選手大きなリード さあ空前はガードして しかし当たったここは空中後ろ撃墜",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "内井選手",
+      "corrected": "うっちー選手",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 2,
+      "original": "空中権",
+      "corrected": "空前",
+      "rule": "move abbreviation"
+    }
+  ]
+}

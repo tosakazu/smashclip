@@ -1,0 +1,51 @@
+{
+  "id": "8e7d9ea4-cabd-4515-911b-6728e5e96127",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.16,
+      "text": "帰ってこれるのか?どうなんですか?",
+      "language": "ja"
+    },
+    {
+      "start": 2.26,
+      "end": 3.66,
+      "text": "復帰阻止が来なければ帰れます",
+      "language": "ja"
+    },
+    {
+      "start": 3.66,
+      "end": 6.88,
+      "text": "ここはあえてラスト我慢です",
+      "language": "ja"
+    },
+    {
+      "start": 6.88,
+      "end": 8.08,
+      "text": "先ほどからつかまって",
+      "language": "ja"
+    },
+    {
+      "start": 8.08,
+      "end": 9.46,
+      "text": "まずいか?まずい!",
+      "language": "ja"
+    },
+    {
+      "start": 10.8,
+      "end": 11.58,
+      "text": "ここからでも",
+      "language": "ja"
+    }
+  ],
+  "full_text": "帰ってこれるのか?どうなんですか? 復帰阻止が来なければ帰れます ここはあえてラスト我慢です 先ほどからつかまって まずいか?まずい! ここからでも",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 3,
+      "original": "つらまって",
+      "corrected": "つかまって",
+      "rule": "misheard word"
+    }
+  ]
+}

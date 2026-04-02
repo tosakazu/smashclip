@@ -1,0 +1,45 @@
+{
+  "id": "44658061-aada-49ba-bd1a-40de8204a6b0",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.24,
+      "text": "メラゾーマはやはり貪欲に狙いますね",
+      "language": "ja"
+    },
+    {
+      "start": 4.24,
+      "end": 7.88,
+      "text": "やっぱりMPはあれだけ使った方が得ですからね",
+      "language": "ja"
+    },
+    {
+      "start": 7.88,
+      "end": 9.58,
+      "text": "溢れさせるよりは",
+      "language": "ja"
+    },
+    {
+      "start": 9.58,
+      "end": 10.64,
+      "text": "余りよりかは",
+      "language": "ja"
+    },
+    {
+      "start": 10.64,
+      "end": 11.88,
+      "text": "どんどんどんどん",
+      "language": "ja"
+    }
+  ],
+  "full_text": "メラゾーマはやはり貪欲に狙いますね やっぱりMPはあれだけ使った方が得ですからね 溢れさせるよりは 余りよりかは どんどんどんどん",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "シーメラゾー",
+      "corrected": "メラゾーマ",
+      "rule": "misheard Hero spell name"
+    }
+  ]
+}

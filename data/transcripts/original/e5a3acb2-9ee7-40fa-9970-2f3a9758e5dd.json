@@ -1,0 +1,39 @@
+{
+  "id": "e5a3acb2-9ee7-40fa-9970-2f3a9758e5dd",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.94,
+      "text": "time you know it's like Marth Cloud slightly faster doesn't have to worry about tipper as well so you",
+      "language": "en"
+    },
+    {
+      "start": 5.94,
+      "end": 10.08,
+      "text": "know i feel like you know maybe a little bit of an upgrade as well getting that down smash oh no",
+      "language": "en"
+    },
+    {
+      "start": 10.08,
+      "end": 10.96,
+      "text": "whipping the last",
+      "language": "en"
+    }
+  ],
+  "full_text": "time you know it's like Marth Cloud slightly faster doesn't have to worry about tipper as well so you know i feel like you know maybe a little bit of an upgrade as well getting that down smash oh no whipping the last",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "mark cloud",
+      "corrected": "Marth Cloud",
+      "rule": "character names"
+    },
+    {
+      "segment_idx": 1,
+      "original": "doubt smash",
+      "corrected": "down smash",
+      "rule": "misheard: down smash"
+    }
+  ]
+}

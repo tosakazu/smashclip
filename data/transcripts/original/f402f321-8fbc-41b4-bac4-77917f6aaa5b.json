@@ -1,0 +1,51 @@
+{
+  "id": "f402f321-8fbc-41b4-bac4-77917f6aaa5b",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.24,
+      "text": "あってないよっていいそんな風に見えません これだけ",
+      "language": "ja"
+    },
+    {
+      "start": 5.24,
+      "end": 9.76,
+      "text": "掴みから 火力が痛い%増えてきた",
+      "language": "ja"
+    },
+    {
+      "start": 9.76,
+      "end": 18.88,
+      "text": "上強も怖いぞ 空前だし受け身の展開うわぁそこから攻めてくるか",
+      "language": "ja"
+    }
+  ],
+  "full_text": "あってないよっていいそんな風に見えません これだけ 掴みから 火力が痛い%増えてきた 上強も怖いぞ 空前だし受け身の展開うわぁそこから攻めてくるか",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "9枚増えてきた",
+      "corrected": "%増えてきた",
+      "rule": "misheard"
+    },
+    {
+      "segment_idx": 2,
+      "original": "上今日も怖いぞ",
+      "corrected": "上強も怖いぞ",
+      "rule": "kanji homophone: 上今日→上強"
+    },
+    {
+      "segment_idx": 2,
+      "original": "宇宙前だし",
+      "corrected": "空前だし",
+      "rule": "misheard: 宇宙→空"
+    },
+    {
+      "segment_idx": 2,
+      "original": "そうから伝えてくるか",
+      "corrected": "そこから攻めてくるか",
+      "rule": "misheard"
+    }
+  ]
+}

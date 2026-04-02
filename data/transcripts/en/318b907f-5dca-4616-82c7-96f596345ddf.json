@@ -1,0 +1,49 @@
+{
+  "id": "318b907f-5dca-4616-82c7-96f596345ddf",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "text": "That guy's insane!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "男はうーまい!"
+    },
+    {
+      "start": 1.0,
+      "end": 2.0,
+      "text": "Mine Cart pursuit!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "あートロッコ追撃!"
+    },
+    {
+      "start": 2.0,
+      "end": 3.0,
+      "text": "Nice!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "うまっ!"
+    },
+    {
+      "start": 4.0,
+      "end": 5.0,
+      "text": "Right here!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここで、わー!"
+    },
+    {
+      "start": 5.0,
+      "end": 6.0,
+      "text": "He pulled it off!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "やったぞ!"
+    }
+  ],
+  "full_text": "That guy's insane! Mine Cart pursuit! Nice! Right here! He pulled it off!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

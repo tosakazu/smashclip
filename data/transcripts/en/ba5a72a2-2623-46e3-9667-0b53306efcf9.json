@@ -1,0 +1,33 @@
+{
+  "id": "ba5a72a2-2623-46e3-9667-0b53306efcf9",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.8,
+      "text": "Back to ledge",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "再びがけ"
+    },
+    {
+      "start": 0.8,
+      "end": 3.48,
+      "text": "When this connects",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ウリサツ当たってしまうと"
+    },
+    {
+      "start": 3.48,
+      "end": 6.18,
+      "text": "Doc's side gets put in a risky position",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ツムスト側ドクターマリオ側がリスクついてくるので"
+    }
+  ],
+  "full_text": "Back to ledge. When this connects, Doc's side gets put in a risky position",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

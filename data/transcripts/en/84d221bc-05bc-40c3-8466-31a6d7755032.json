@@ -1,0 +1,48 @@
+{
+  "id": "84d221bc-05bc-40c3-8466-31a6d7755032",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.44,
+      "text": "Reads the dodge, dash attack!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "回避見てダッシュ攻撃"
+    },
+    {
+      "start": 2.44,
+      "end": 5.1,
+      "text": "He's back with Roura, but...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ルーラで戻ってきますが"
+    },
+    {
+      "start": 5.1,
+      "end": 6.12,
+      "text": "MP is zero.",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "MPはゼロ"
+    },
+    {
+      "start": 6.12,
+      "end": 8.7,
+      "text": "Up smash on the landing!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "着地に上スマッシュで反撃"
+    }
+  ],
+  "full_text": "Reads the dodge, dash attack! He's back with Roura, but... MP is zero. Up smash on the landing!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 3,
+      "original": "着々に上スマッシュで反撃",
+      "corrected": "着地に上スマッシュで反撃",
+      "rule": "misheard word (着々→着地)"
+    }
+  ]
+}

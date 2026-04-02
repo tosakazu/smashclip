@@ -1,0 +1,21 @@
+{
+  "id": "c1511068-2a49-464b-8655-600dea2e0b4f",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.24,
+      "text": "In the same way, Sisqui is going to get rid of that one.",
+      "language": "en"
+    }
+  ],
+  "full_text": "In the same way, Sisqui is going to get rid of that one.",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "Siski",
+      "corrected": "Sisqui",
+      "rule": "player name"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "id": "a67ca1b2-8dd9-4af0-83d4-3366f45627fc",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.8,
+      "text": "Here's the turnaround!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここから逆転"
+    },
+    {
+      "start": 0.8,
+      "end": 3.58,
+      "text": "KEN wants to close this out fast",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "KENとしては早く決めきりたいでしょう"
+    },
+    {
+      "start": 3.58,
+      "end": 6.08,
+      "text": "Fair still won't KO",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空中前もまだ撃墜はしない"
+    },
+    {
+      "start": 6.08,
+      "end": 7.7,
+      "text": "Going in deep",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "深くまで追っていく"
+    },
+    {
+      "start": 7.7,
+      "end": 9.18,
+      "text": "The edgeguard situation",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "この復帰阻止展開"
+    },
+    {
+      "start": 9.18,
+      "end": 10.12,
+      "text": "Finishes with the fair!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "最後は空中前"
+    }
+  ],
+  "full_text": "Here's the turnaround! KEN wants to close this out fast Fair still won't KO Going in deep The edgeguard situation Finishes with the fair!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "original": "剣としては",
+      "corrected": "KENとしては",
+      "reason": "プレイヤー名KEN"
+    },
+    {
+      "original": "空中城",
+      "corrected": "空中前",
+      "reason": "空中前攻撃（forward air）"
+    }
+  ]
+}

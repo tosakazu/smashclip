@@ -1,0 +1,118 @@
+{
+  "id": "ab9c4c3a-90f5-44ea-ab54-d9e5ca60deb3",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.1,
+      "text": "Alright, similar situation to before—this time avoiding the charge shot while...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあ先ほどと同じような展開今度はチャージショットを避けながら"
+    },
+    {
+      "start": 3.1,
+      "end": 4.08,
+      "text": "What now!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "どうだ"
+    },
+    {
+      "start": 4.08,
+      "end": 5.16,
+      "text": "Dash grab!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ダッシュつかみ"
+    },
+    {
+      "start": 5.16,
+      "end": 6.66,
+      "text": "He dodges it and—",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "かわしているやおら"
+    },
+    {
+      "start": 6.66,
+      "end": 9.64,
+      "text": "Go for the charge shot or the grab?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "チャージショットを貯めるかそれともグラップ"
+    },
+    {
+      "start": 9.64,
+      "end": 11.54,
+      "text": "Pushing that range!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "リーチを押し付けるように"
+    },
+    {
+      "start": 11.54,
+      "end": 12.86,
+      "text": "What about a Screw Attack!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これはどうだスクリューアタック"
+    },
+    {
+      "start": 12.86,
+      "end": 15.48,
+      "text": "Still holding on!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "寿命はまだまだ耐えられる"
+    },
+    {
+      "start": 15.48,
+      "end": 16.82,
+      "text": "180!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "180%"
+    },
+    {
+      "start": 16.82,
+      "end": 18.68,
+      "text": "Now the dinosaur's at—",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあ恐竜の寿命は"
+    },
+    {
+      "start": 18.68,
+      "end": 20.66,
+      "text": "What's the percentage? Charge shot!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "あと何%チャージショット"
+    },
+    {
+      "start": 20.66,
+      "end": 21.64,
+      "text": "KO!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "撃墜"
+    }
+  ],
+  "full_text": "Alright, similar situation to before—this time avoiding the charge shot while... What now! Dash grab! He dodges it and— Go for the charge shot or the grab? Pushing that range! What about a Screw Attack! Still holding on! 180! Now the dinosaur's at— What's the percentage? Charge shot! KO!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 6,
+      "original": "スクリアアタック",
+      "corrected": "スクリューアタック",
+      "rule": "Move name: スクリア→スクリュー"
+    },
+    {
+      "segment_idx": 11,
+      "original": "げっつい",
+      "corrected": "撃墜",
+      "rule": "Smash term: げっつい→撃墜"
+    }
+  ]
+}

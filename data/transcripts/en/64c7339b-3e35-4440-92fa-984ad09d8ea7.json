@@ -1,0 +1,40 @@
+{
+  "id": "64c7339b-3e35-4440-92fa-984ad09d8ea7",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.0,
+      "text": "Acola's got those incredible shield break numbers, really solid timing",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "割れるタイミングとかの数値がすごい良いんですよね、アコーラ選手"
+    },
+    {
+      "start": 4.0,
+      "end": 6.5,
+      "text": "This move breaks that shield",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "このブロックはこの技使ったら割れるとか"
+    },
+    {
+      "start": 6.5,
+      "end": 8.32,
+      "text": "That's probably the vibe",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "多分そういう感"
+    }
+  ],
+  "full_text": "Acola's got those incredible shield break numbers, really solid timing This move breaks that shield That's probably the vibe",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "軸値",
+      "corrected": "数値",
+      "rule": "kanji homophone (じくち→すうち)"
+    }
+  ]
+}

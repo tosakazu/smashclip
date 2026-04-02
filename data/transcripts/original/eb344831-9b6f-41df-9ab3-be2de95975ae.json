@@ -1,0 +1,56 @@
+{
+  "id": "eb344831-9b6f-41df-9ab3-be2de95975ae",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.12,
+      "text": "はいはいはいはい",
+      "language": "ja"
+    },
+    {
+      "start": 1.12,
+      "end": 1.84,
+      "text": "前の方がどこ?",
+      "language": "ja"
+    },
+    {
+      "start": 1.96,
+      "end": 2.76,
+      "text": "前の方がどこですか?",
+      "language": "ja"
+    },
+    {
+      "start": 3.28,
+      "end": 4.24,
+      "text": "だいたい後ろか",
+      "language": "ja"
+    },
+    {
+      "start": 4.24,
+      "end": 4.72,
+      "text": "そうですね",
+      "language": "ja"
+    },
+    {
+      "start": 4.72,
+      "end": 5.98,
+      "text": "前後系のスマッシュ",
+      "language": "ja"
+    },
+    {
+      "start": 5.98,
+      "end": 6.9,
+      "text": "おー",
+      "language": "ja"
+    },
+    {
+      "start": 6.9,
+      "end": 8.8,
+      "text": "爆弾で行きましたか",
+      "language": "ja"
+    }
+  ],
+  "full_text": "はいはいはいはい 前の方がどこ? 前の方がどこですか? だいたい後ろか そうですね 前後系のスマッシュ おー 爆弾で行きましたか",
+  "detected_language": "ja",
+  "corrections": []
+}

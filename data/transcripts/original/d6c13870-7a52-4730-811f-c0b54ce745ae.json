@@ -1,0 +1,117 @@
+{
+  "id": "d6c13870-7a52-4730-811f-c0b54ce745ae",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.64,
+      "text": "あ、どうする?",
+      "language": "ja"
+    },
+    {
+      "start": 3.86,
+      "end": 5.26,
+      "text": "あ、今のは多分体がね",
+      "language": "ja"
+    },
+    {
+      "start": 5.26,
+      "end": 6.14,
+      "text": "それジャスガ取る",
+      "language": "ja"
+    },
+    {
+      "start": 6.14,
+      "end": 7.54,
+      "text": "下強ジャスガ",
+      "language": "ja"
+    },
+    {
+      "start": 7.54,
+      "end": 8.92,
+      "text": "空前から",
+      "language": "ja"
+    },
+    {
+      "start": 8.92,
+      "end": 10.5,
+      "text": "いやー、着地が怖いが",
+      "language": "ja"
+    },
+    {
+      "start": 10.5,
+      "end": 11.44,
+      "text": "空前に対処して",
+      "language": "ja"
+    },
+    {
+      "start": 11.44,
+      "end": 12.08,
+      "text": "もういいよ",
+      "language": "ja"
+    },
+    {
+      "start": 12.08,
+      "end": 13.28,
+      "text": "いやー、怖いよ",
+      "language": "ja"
+    },
+    {
+      "start": 13.28,
+      "end": 14.64,
+      "text": "着地もっかい",
+      "language": "ja"
+    },
+    {
+      "start": 14.64,
+      "end": 15.34,
+      "text": "いやー、さすがに",
+      "language": "ja"
+    },
+    {
+      "start": 15.34,
+      "end": 16.16,
+      "text": "はいはい",
+      "language": "ja"
+    }
+  ],
+  "full_text": "あ、どうする? あ、今のは多分体がね それジャスガ取る 下強ジャスガ 空前から いやー、着地が怖いが 空前に対処して もういいよ いやー、怖いよ 着地もっかい いやー、さすがに はいはい",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "それジャスが取る",
+      "corrected": "それジャスガ取る",
+      "rule": "smash term (ジャスが→ジャスガ = just guard/parry)"
+    },
+    {
+      "segment_idx": 3,
+      "original": "スタキョウジャスが",
+      "corrected": "下強ジャスガ",
+      "rule": "smash term (スタキョウ→下強, ジャスが→ジャスガ)"
+    },
+    {
+      "segment_idx": 4,
+      "original": "クジエンから",
+      "corrected": "空前から",
+      "rule": "smash term (クジエン→空前)"
+    },
+    {
+      "segment_idx": 5,
+      "original": "チャクチが怖いが",
+      "corrected": "着地が怖いが",
+      "rule": "kanji (チャクチ→着地)"
+    },
+    {
+      "segment_idx": 6,
+      "original": "クジエンに対処して",
+      "corrected": "空前に対処して",
+      "rule": "smash term (クジエン→空前)"
+    },
+    {
+      "segment_idx": 9,
+      "original": "チャクチもっかい",
+      "corrected": "着地もっかい",
+      "rule": "kanji (チャクチ→着地)"
+    }
+  ]
+}

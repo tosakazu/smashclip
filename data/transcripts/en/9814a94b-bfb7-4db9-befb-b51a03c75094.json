@@ -1,0 +1,49 @@
+{
+  "id": "9814a94b-bfb7-4db9-befb-b51a03c75094",
+  "segments": [
+    {
+      "start": 0.68,
+      "end": 3.22,
+      "text": "Both of them perform really well on Town & City, you know",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "お互いに村町結構強いイメージありますけどね"
+    },
+    {
+      "start": 3.22,
+      "end": 6.38,
+      "text": "I can't help but anticipate when Town & City comes up in the stage selection",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "村と町が出てくるタイミングをどうしても期待してしまうんですが"
+    },
+    {
+      "start": 6.38,
+      "end": 8.22,
+      "text": "Small Battlefield ranks just outside the top 5",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "まずは小戦場5位の下といったところ"
+    },
+    {
+      "start": 8.22,
+      "end": 10.08,
+      "text": "Edgeguard secured!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "復帰阻止完遂です"
+    },
+    {
+      "start": 10.08,
+      "end": 12.84,
+      "text": "Once off the ledge...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "崖外に出ると"
+    }
+  ],
+  "full_text": "Both of them perform really well on Town & City, you know I can't help but anticipate when Town & City comes up in the stage selection Small Battlefield ranks just outside the top 5 Edgeguard secured! Once off the ledge...",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

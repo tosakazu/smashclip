@@ -1,0 +1,62 @@
+{
+  "id": "c086d882-52cc-42d4-9a28-ae2619cf5f85",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.96,
+      "text": "Never misses those openings!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "一瞬のチャンスを逃しませんね"
+    },
+    {
+      "start": 2.96,
+      "end": 6.4,
+      "text": "In situations like that, when defending...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ああいう場面って自分の防御ターンに"
+    },
+    {
+      "start": 6.4,
+      "end": 8.46,
+      "text": "you gotta land that quick punish!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ちょっと反撃しなきゃいけない"
+    },
+    {
+      "start": 8.46,
+      "end": 11.6,
+      "text": "Bair! Gets it! Bair!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空中後ろ!着地ができる!空中後ろ!"
+    },
+    {
+      "start": 14.0,
+      "end": 15.76,
+      "text": "The pressure was definitely on though",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "かなりプレッシャーはかかっていましたが"
+    }
+  ],
+  "full_text": "Never misses those openings! In situations like that, when defending... you gotta land that quick punish! Bair! Gets it! Bair! The pressure was definitely on though",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "はしゃぐしなきゃいけない",
+      "corrected": "反撃しなきゃいけない",
+      "rule": "misheard word"
+    },
+    {
+      "segment_idx": 3,
+      "original": "空中しろ",
+      "corrected": "空中後ろ",
+      "rule": "smash term"
+    }
+  ]
+}

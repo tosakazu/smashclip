@@ -1,0 +1,40 @@
+{
+  "id": "f2f86e38-56dd-40a0-8ab3-d12d8e4de74c",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.54,
+      "text": "The third doesn't connect, back to neutral!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "3番目が当たらず展開がニュートラルへ"
+    },
+    {
+      "start": 2.54,
+      "end": 4.78,
+      "text": "Rizeasu can't open anything up with the chain grab!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "連鎖取りして開かないRizeasu(渋井)が"
+    },
+    {
+      "start": 4.78,
+      "end": 5.32,
+      "text": "Here we go!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "こう"
+    }
+  ],
+  "full_text": "The third doesn't connect, back to neutral! Rizeasu can't open anything up with the chain grab! Here we go!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "渋井",
+      "corrected": "Rizeasu(渋井)",
+      "rule": "player name context"
+    }
+  ]
+}

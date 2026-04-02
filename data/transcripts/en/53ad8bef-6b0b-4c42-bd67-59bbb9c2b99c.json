@@ -1,0 +1,26 @@
+{
+  "id": "53ad8bef-6b0b-4c42-bd67-59bbb9c2b99c",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.84,
+      "text": "But it's the light nature of Fox and the explosive,",
+      "language": "en"
+    },
+    {
+      "start": 4.46,
+      "end": 6.88,
+      "text": "pun definitely intended, nature of Snake.",
+      "language": "en"
+    },
+    {
+      "start": 7.02,
+      "end": 7.78,
+      "text": "But that F-Smash.",
+      "language": "en"
+    }
+  ],
+  "full_text": "But it's the light nature of Fox and the explosive, pun definitely intended, nature of Snake. But that F-Smash.",
+  "detected_language": "en",
+  "corrections": []
+}

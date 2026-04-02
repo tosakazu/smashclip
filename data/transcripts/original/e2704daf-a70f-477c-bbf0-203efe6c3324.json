@@ -1,0 +1,51 @@
+{
+  "id": "e2704daf-a70f-477c-bbf0-203efe6c3324",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.8,
+      "text": "ありましたね シンプルな投げ",
+      "language": "ja"
+    },
+    {
+      "start": 3.8,
+      "end": 9.26,
+      "text": "崩しにきたバーナーをかいくぐって浮きに持ってったぞ しかし崖に追い詰められている",
+      "language": "ja"
+    },
+    {
+      "start": 9.26,
+      "end": 13.1,
+      "text": "早い 上スマッシュのモーションのような込みが見えました",
+      "language": "ja"
+    },
+    {
+      "start": 13.1,
+      "end": 16.0,
+      "text": "危なかったです あーやばいぞ隙を見せた",
+      "language": "ja"
+    }
+  ],
+  "full_text": "ありましたね シンプルな投げ 崩しにきたバーナーをかいくぐって浮きに持ってったぞ しかし崖に追い詰められている 早い 上スマッシュのモーションのような込みが見えました 危なかったです あーやばいぞ隙を見せた",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "浮き身にとったぞ",
+      "corrected": "浮きに持ってったぞ",
+      "rule": "misheard phrase"
+    },
+    {
+      "segment_idx": 2,
+      "original": "上スマッシュのモーションのようなゴムが見えました",
+      "corrected": "上スマッシュのモーションのような込みが見えました",
+      "rule": "misheard: 込み(commitment)"
+    },
+    {
+      "segment_idx": 3,
+      "original": "浮き身を見せた",
+      "corrected": "隙を見せた",
+      "rule": "misheard: 隙"
+    }
+  ]
+}

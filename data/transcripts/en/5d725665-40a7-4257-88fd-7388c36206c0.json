@@ -1,0 +1,54 @@
+{
+  "id": "5d725665-40a7-4257-88fd-7388c36206c0",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.78,
+      "text": "Great spacing from Chrom on that aerial flip, but the hit whiffs!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いやー空中反転で撃つが当たらない姿勢がいいですねクロム"
+    },
+    {
+      "start": 3.78,
+      "end": 8.46,
+      "text": "Nair sends them up higher, then the empty grab attempt, but it doesn't connect!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空中ニュートラルでさらに浮かせてスカシ掴みを見せますがこれは通らず"
+    },
+    {
+      "start": 8.46,
+      "end": 11.64,
+      "text": "Now it's Geneva's turn to strike back! Up air into another up air!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ジュネーヴ選手反撃のターン空中上からの空中上"
+    },
+    {
+      "start": 11.64,
+      "end": 13.32,
+      "text": "Pulling back slightly while reading the opponent's movement...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "引き気味ながらも相手の行動し"
+    }
+  ],
+  "full_text": "Great spacing from Chrom on that aerial flip, but the hit whiffs! Nair sends them up higher, then the empty grab attempt, but it doesn't connect! Now it's Geneva's turn to strike back! Up air into another up air! Pulling back slightly while reading the opponent's movement...",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "チェネブ選手",
+      "corrected": "ジュネーヴ選手",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 3,
+      "original": "比較的ながらも",
+      "corrected": "引き気味ながらも",
+      "rule": "misheard word"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "e461b699-8445-4b8f-b6ff-94ca918c066e",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.4,
+      "text": "there Light still fighting yeah Light is just teeing off right now everything is going his way",
+      "language": "en"
+    },
+    {
+      "start": 6.4,
+      "end": 11.7,
+      "text": "the nairs the dash attacks the grabs Riddles just not knowing how to slow anything down",
+      "language": "en"
+    }
+  ],
+  "full_text": "there Light still fighting yeah Light is just teeing off right now everything is going his way the nairs the dash attacks the grabs Riddles just not knowing how to slow anything down",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "the nares",
+      "corrected": "the nairs",
+      "rule": "move abbreviation: nair(neutral air)"
+    },
+    {
+      "segment_idx": 1,
+      "original": "riddles",
+      "corrected": "Riddles",
+      "rule": "player name capitalization"
+    }
+  ]
+}

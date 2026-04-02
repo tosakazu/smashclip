@@ -1,0 +1,48 @@
+{
+  "id": "079687e8-b2df-4c8f-aba0-08cc15db299f",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.16,
+      "text": "Keeps going with up air, feinting another one",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "緩めない空上もう一回空上すると見せかけて"
+    },
+    {
+      "start": 3.16,
+      "end": 5.44,
+      "text": "Steve's mash-out looks like it's coming in time",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあスティーブの暴れが間に合いそうだと"
+    },
+    {
+      "start": 5.44,
+      "end": 7.56,
+      "text": "The moment he sees it, he resets",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "見るや否や一旦リセット"
+    },
+    {
+      "start": 7.56,
+      "end": 8.92,
+      "text": "Shields the down smash",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "下スマッシュをシールドして"
+    }
+  ],
+  "full_text": "Keeps going with up air, feinting another one Steve's mash-out looks like it's coming in time The moment he sees it, he resets Shields the down smash",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "緩めない空中へもう一回空へすると見せかけて",
+      "corrected": "緩めない空上もう一回空上すると見せかけて",
+      "rule": "Move abbreviation correction (空中へ/空へ → 空上)"
+    }
+  ]
+}

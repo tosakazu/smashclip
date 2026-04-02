@@ -1,0 +1,120 @@
+{
+  "id": "1d862040-bdcb-4b30-b528-5419249668e7",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Inkling!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いか"
+    },
+    {
+      "start": 2.0,
+      "end": 4.0,
+      "text": "Who's gonna stop these tweaks?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ノリノリツイークを誰が止める"
+    },
+    {
+      "start": 4.0,
+      "end": 6.0,
+      "text": "Can they stop it?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ドラ右が止められるか"
+    },
+    {
+      "start": 6.0,
+      "end": 8.0,
+      "text": "Fair incoming!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "飛んできた 空前"
+    },
+    {
+      "start": 8.0,
+      "end": 10.0,
+      "text": "Bananas!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "バナナピーナッツ"
+    },
+    {
+      "start": 10.0,
+      "end": 12.0,
+      "text": "Ledge trap - can't even mash out!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "崖の固め 暴れることもできない"
+    },
+    {
+      "start": 12.0,
+      "end": 14.0,
+      "text": "Oh scary! Banana fair right here!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあ怖い ここでバナナ空前"
+    },
+    {
+      "start": 14.0,
+      "end": 16.0,
+      "text": "Sealed with the tweak!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "決めたツイーク"
+    },
+    {
+      "start": 16.0,
+      "end": 18.0,
+      "text": "That's a tweak!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ツイークだ"
+    },
+    {
+      "start": 18.0,
+      "end": 20.0,
+      "text": "That's game!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "決めました"
+    }
+  ],
+  "full_text": "Inkling! Who's gonna stop these tweaks? Can they stop it? Fair incoming! Bananas! Ledge trap - can't even mash out! Oh scary! Banana fair right here! Sealed with the tweak! That's a tweak! That's game!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "ドラミキが止められるか",
+      "corrected": "ドラ右が止められるか",
+      "rule": "Player name correction: ドラミキ→ドラ右 (metadata)"
+    },
+    {
+      "segment_idx": 5,
+      "original": "崖の片目 暴れることもできない",
+      "corrected": "崖の固め 暴れることもできない",
+      "rule": "Whisper kanji homophone: 片目→固め"
+    },
+    {
+      "segment_idx": 3,
+      "original": "飛んできた 空中へ",
+      "corrected": "飛んできた 空前",
+      "rule": "Whisper mishearing: 空中へ→空前"
+    },
+    {
+      "segment_idx": 6,
+      "original": "さあ怖い ここでバナナ空中へ",
+      "corrected": "さあ怖い ここでバナナ空前",
+      "rule": "Whisper mishearing: 空中へ→空前"
+    },
+    {
+      "segment_idx": 7,
+      "original": "敵ツイーク",
+      "corrected": "決めたツイーク",
+      "rule": "Whisper mishearing: 敵→決めた"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "b89c83cc-c414-42d6-b85b-782fb155baf4",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.34,
+      "text": "空中後ろ暴れ",
+      "language": "ja"
+    },
+    {
+      "start": 1.34,
+      "end": 2.86,
+      "text": "差し込みが通ります",
+      "language": "ja"
+    },
+    {
+      "start": 2.86,
+      "end": 7.2,
+      "text": "崖掴みに対して上スマッシュ",
+      "language": "ja"
+    },
+    {
+      "start": 7.2,
+      "end": 8.8,
+      "text": "発生4フレって聞いたけど",
+      "language": "ja"
+    },
+    {
+      "start": 8.8,
+      "end": 10.08,
+      "text": "だがここは",
+      "language": "ja"
+    }
+  ],
+  "full_text": "空中後ろ暴れ 差し込みが通ります 崖掴みに対して上スマッシュ 発生4フレって聞いたけど だがここは",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 3,
+      "original": "発生時触れって聞いたけど",
+      "corrected": "発生4フレって聞いたけど",
+      "rule": "Whisper error"
+    }
+  ]
+}

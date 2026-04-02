@@ -1,0 +1,21 @@
+{
+  "id": "4ef99c85-d8c9-45f8-ba10-e11c30671d69",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 12.52,
+      "text": "ステージに乗り込むと、ステージに乗り込むと、ステージに乗り込むと、",
+      "language": "ja"
+    }
+  ],
+  "full_text": "ステージに乗り込むと、ステージに乗り込むと、ステージに乗り込むと、",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "ステージに乗り込むと、ステージに乗り込むと、ステージに乗り込むと、",
+      "corrected": "ステージに乗り込むと、ステージに乗り込むと、ステージに乗り込むと、",
+      "rule": "whisper hallucination (repeated text), unable to recover original"
+    }
+  ]
+}

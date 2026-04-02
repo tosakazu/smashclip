@@ -1,0 +1,39 @@
+{
+  "id": "4afe614f-580b-42ef-97dc-e2f161db8c93",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.46,
+      "text": "まだ撃墜はされないぞタケノコ選手",
+      "language": "ja"
+    },
+    {
+      "start": 2.46,
+      "end": 4.06,
+      "text": "まだ撃墜はされないぞ",
+      "language": "ja"
+    },
+    {
+      "start": 4.06,
+      "end": 6.56,
+      "text": "掴み仕掛けガードしたところを",
+      "language": "ja"
+    },
+    {
+      "start": 6.56,
+      "end": 7.1,
+      "text": "使われた",
+      "language": "ja"
+    }
+  ],
+  "full_text": "まだ撃墜はされないぞタケノコ選手 まだ撃墜はされないぞ 掴み仕掛けガードしたところを 使われた",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "超火線ガードしたところを",
+      "corrected": "掴み仕掛けガードしたところを",
+      "rule": "kanji homophone (超→掴み)"
+    }
+  ]
+}

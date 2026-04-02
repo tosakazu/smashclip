@@ -1,0 +1,76 @@
+{
+  "id": "9b02938d-2d44-41eb-aefa-9fb28424b18a",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.76,
+      "text": "Dash attack connected and that's the situation",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "DAも通していこうかというところで終わったんですけどもね"
+    },
+    {
+      "start": 3.76,
+      "end": 7.0,
+      "text": "Gold showing solid work here",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ゴルドがいい仕事ここでしていきます"
+    },
+    {
+      "start": 7.0,
+      "end": 9.98,
+      "text": "Nair sends them",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空Nはトス"
+    },
+    {
+      "start": 9.98,
+      "end": 12.24,
+      "text": "In the damage race, slightly",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ダメージレースではやや"
+    },
+    {
+      "start": 12.24,
+      "end": 15.54,
+      "text": "Corrin's ahead on-platform",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "台上のカムイ有利というところですが"
+    },
+    {
+      "start": 15.54,
+      "end": 16.02,
+      "text": "This is",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これは"
+    }
+  ],
+  "full_text": "Dash attack connected and that's the situation Gold showing solid work here Nair sends them In the damage race, slightly Corrin's ahead on-platform This is",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "BA",
+      "corrected": "DA",
+      "rule": "move abbreviation (dash attack)"
+    },
+    {
+      "segment_idx": 2,
+      "original": "宇宙白トース",
+      "corrected": "空Nはトス",
+      "rule": "宇宙→空中 Whisper pattern + move name"
+    },
+    {
+      "segment_idx": 4,
+      "original": "第5のカムイウイ",
+      "corrected": "台上のカムイ有利",
+      "rule": "kanji homophone (台上, 有利)"
+    }
+  ]
+}

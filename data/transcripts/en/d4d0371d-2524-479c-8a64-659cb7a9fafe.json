@@ -1,0 +1,54 @@
+{
+  "id": "d4d0371d-2524-479c-8a64-659cb7a9fafe",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.64,
+      "text": "He's dodging it",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "食らわない"
+    },
+    {
+      "start": 5.64,
+      "end": 6.4,
+      "text": "Is this",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これは"
+    },
+    {
+      "start": 6.4,
+      "end": 9.34,
+      "text": "a bair?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空中後ろですかね"
+    },
+    {
+      "start": 9.34,
+      "end": 11.46,
+      "text": "If that connects, it's rough",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これが当たっていっちゃきつい"
+    }
+  ],
+  "full_text": "He's dodging it Is this a bair? If that connects, it's rough",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "くま来らない",
+      "corrected": "食らわない",
+      "rule": "mishearing (くま来らない→食らわない)"
+    },
+    {
+      "segment_idx": 3,
+      "original": "当たっていってきゃきつい",
+      "corrected": "当たっていっちゃきつい",
+      "rule": "mishearing (てきゃ→ちゃ)"
+    }
+  ]
+}

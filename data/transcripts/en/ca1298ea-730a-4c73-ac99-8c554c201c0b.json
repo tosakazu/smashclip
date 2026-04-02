@@ -1,0 +1,84 @@
+{
+  "id": "ca1298ea-730a-4c73-ac99-8c554c201c0b",
+  "segments": [
+    {
+      "start": 0.32,
+      "end": 1.36,
+      "text": "Did that nair mashing work?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空Nの暴れが通った?"
+    },
+    {
+      "start": 1.64,
+      "end": 2.42,
+      "text": "Nair, nair, nair?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空N空N空N?"
+    },
+    {
+      "start": 2.9,
+      "end": 4.04,
+      "text": "No way, no way?!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "まさか?まさか?"
+    },
+    {
+      "start": 4.86,
+      "end": 5.34,
+      "text": "Got out!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "抜けた!"
+    },
+    {
+      "start": 6.06,
+      "end": 7.0,
+      "text": "And now for the final",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあ最後の"
+    },
+    {
+      "start": 7.0,
+      "end": 9.86,
+      "text": "neutral special...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ニュートラル必殺技が"
+    },
+    {
+      "start": 9.86,
+      "end": 11.2,
+      "text": "slipped through!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "抜けてしまった"
+    }
+  ],
+  "full_text": "Did that nair mashing work? Nair, nair, nair? No way, no way?! Got out! And now for the final neutral special... slipped through!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "クエの哀れ",
+      "corrected": "空Nの暴れ",
+      "rule": "smash term (空N + 暴れ)"
+    },
+    {
+      "segment_idx": 1,
+      "original": "クエクエクエ",
+      "corrected": "空N空N空N",
+      "rule": "smash term (空N)"
+    },
+    {
+      "segment_idx": 5,
+      "original": "ニュータラル",
+      "corrected": "ニュートラル",
+      "rule": "smash term (neutral)"
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "id": "d9444b76-31d3-4e5b-a2e4-0e85aa7907a4",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.3,
+      "text": "This moment is eating away at Acola's stocks!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "この一瞬がアコラの寿命を蝕んでいく"
+    },
+    {
+      "start": 4.3,
+      "end": 4.88,
+      "text": "The minecart!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "トロッコだ"
+    },
+    {
+      "start": 4.88,
+      "end": 7.38,
+      "text": "Confirmed the hazard avoid!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "トロッコを無視を確認しているか"
+    },
+    {
+      "start": 7.38,
+      "end": 9.1,
+      "text": "Up B reading the airdodge",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "上必殺技は回避を見ていて"
+    },
+    {
+      "start": 9.1,
+      "end": 11.06,
+      "text": "Platform land, nair, airdodge land, got through!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "台上着地N回避着地通った"
+    },
+    {
+      "start": 11.06,
+      "end": 13.06,
+      "text": "Oh, shielding to read the situation",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "あ、展開シールド様子見ですが"
+    },
+    {
+      "start": 13.06,
+      "end": 13.76,
+      "text": "No!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いやよ"
+    },
+    {
+      "start": 13.76,
+      "end": 14.72,
+      "text": "That...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "その"
+    }
+  ],
+  "full_text": "This moment is eating away at Acola's stocks! The minecart! Confirmed the hazard avoid! Up B reading the airdodge Platform land, nair, airdodge land, got through! Oh, shielding to read the situation No! That...",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "この一瞬がアコーラの寿命を蝕んでいく",
+      "corrected": "この一瞬がアコラの寿命を蝕んでいく",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 1,
+      "original": "ツッポルケだ",
+      "corrected": "トロッコだ",
+      "rule": "Steve move name (トロッコ)"
+    },
+    {
+      "segment_idx": 2,
+      "original": "ツッポルケを無視を確認しているか",
+      "corrected": "トロッコを無視を確認しているか",
+      "rule": "Steve move name (トロッコ)"
+    },
+    {
+      "segment_idx": 4,
+      "original": "第4着地N回避着地通った",
+      "corrected": "台上着地N回避着地通った",
+      "rule": "whisper_misrecognition"
+    },
+    {
+      "segment_idx": 5,
+      "original": "アーテンシールドヨスミクですが",
+      "corrected": "あ、展開シールド様子見ですが",
+      "rule": "whisper_misrecognition"
+    }
+  ]
+}

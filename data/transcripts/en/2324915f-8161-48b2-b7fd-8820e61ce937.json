@@ -1,0 +1,33 @@
+{
+  "id": "2324915f-8161-48b2-b7fd-8820e61ce937",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.38,
+      "text": "Come on, pull it off! Rising into that bair—and he's through! My heart's pounding at 225%!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さすがに取ってくれ 上り空後 完成 心臓太すぎる 225%"
+    },
+    {
+      "start": 5.38,
+      "end": 8.54,
+      "text": "This isn't a game decided purely by damage percentage!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "パーセントでできるゲームじゃない"
+    },
+    {
+      "start": 9.4,
+      "end": 10.88,
+      "text": "It's all reads!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "クイズですよ"
+    }
+  ],
+  "full_text": "Come on, pull it off! Rising into that bair—and he's through! My heart's pounding at 225%! This isn't a game decided purely by damage percentage! It's all reads!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

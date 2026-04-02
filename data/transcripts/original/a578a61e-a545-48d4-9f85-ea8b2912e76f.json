@@ -1,0 +1,31 @@
+{
+  "id": "a578a61e-a545-48d4-9f85-ea8b2912e76f",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.54,
+      "text": "叩いた 空中後ろ",
+      "language": "ja"
+    },
+    {
+      "start": 1.54,
+      "end": 4.6,
+      "text": "トルネード 両者攻撃先",
+      "language": "ja"
+    }
+  ],
+  "full_text": "叩いた 空中後ろ トルネード 両者攻撃先",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "original": "状態 空中しろ",
+      "corrected": "叩いた 空中後ろ",
+      "reason": "空中後ろ攻撃"
+    },
+    {
+      "original": "両攻撃戦",
+      "corrected": "両者攻撃先",
+      "reason": "両者が攻撃を先に出す展開"
+    }
+  ]
+}

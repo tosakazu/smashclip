@@ -1,0 +1,72 @@
+{
+  "id": "98f124f4-63da-4f98-9af3-c1442f4ea4fc",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.78,
+      "text": "That side B with the second hit timing variation is super tricky too, right?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "あの横Bかけにあの第2撃タイミングずらしも厄介ですよね"
+    },
+    {
+      "start": 4.78,
+      "end": 5.28,
+      "text": "Yeah",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そうですね"
+    },
+    {
+      "start": 5.28,
+      "end": 11.44,
+      "text": "I'd say parry is the standard answer against swordies in general, not just Corrin",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "結構カムイに限らず剣キャラなくてジャストシールドを対策とする状況が多いと思うんですが"
+    },
+    {
+      "start": 11.44,
+      "end": 13.46,
+      "text": "Oh, they didn't grab that?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "おっとこれは掴み取れてませんか"
+    }
+  ],
+  "full_text": "That side B with the second hit timing variation is super tricky too, right? Yeah I'd say parry is the standard answer against swordies in general, not just Corrin Oh, they didn't grab that?",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "横火がけ",
+      "corrected": "横Bかけ",
+      "rule": "move name"
+    },
+    {
+      "segment_idx": 0,
+      "original": "第2冊",
+      "corrected": "第2撃",
+      "rule": "kanji homophone"
+    },
+    {
+      "segment_idx": 2,
+      "original": "神威",
+      "corrected": "カムイ",
+      "rule": "character kanji (Corrin)"
+    },
+    {
+      "segment_idx": 2,
+      "original": "謙虚なくて",
+      "corrected": "剣キャラなくて",
+      "rule": "Whisper misheard"
+    },
+    {
+      "segment_idx": 3,
+      "original": "突き取れてません",
+      "corrected": "掴み取れてません",
+      "rule": "Whisper misheard"
+    }
+  ]
+}

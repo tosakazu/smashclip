@@ -1,0 +1,40 @@
+{
+  "id": "ca6e450d-9d60-4b7a-959a-7dbc2d71934f",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.94,
+      "text": "Now it's the ledge mixup!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあ崖からの読み合い"
+    },
+    {
+      "start": 2.94,
+      "end": 7.9,
+      "text": "He's doing a great job shutting down those early approaches!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "かなり前に来るタイミングを潰すのがうまくいっています"
+    },
+    {
+      "start": 7.9,
+      "end": 8.84,
+      "text": "That's Wisper!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これはウィスター"
+    }
+  ],
+  "full_text": "Now it's the ledge mixup! He's doing a great job shutting down those early approaches! That's Wisper!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "今日からの",
+      "corrected": "崖からの",
+      "rule": "smash term (崖)"
+    }
+  ]
+}

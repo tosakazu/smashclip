@@ -1,0 +1,56 @@
+{
+  "id": "5f5656ff-9d0e-468b-af3c-2b9ff9d12444",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.16,
+      "text": "I hate ledge traps!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ガケ狩りが嫌すぎる"
+    },
+    {
+      "start": 4.16,
+      "end": 6.0,
+      "text": "Jab into forward smash!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "弱から横スマッシュ"
+    },
+    {
+      "start": 6.78,
+      "end": 7.52,
+      "text": "What?!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "え?"
+    },
+    {
+      "start": 7.86,
+      "end": 9.82,
+      "text": "No way! No way! No way!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "なになになになになに"
+    },
+    {
+      "start": 9.82,
+      "end": 11.4,
+      "text": "The ball?!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ボールか"
+    }
+  ],
+  "full_text": "I hate ledge traps! Jab into forward smash! What?! No way! No way! No way! The ball?!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "ジャックから明日スマッシュ",
+      "corrected": "弱から横スマッシュ",
+      "rule": "misheard smash terms"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "id": "42f7858d-2446-43e7-98ca-4a08c375073d",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.12,
+      "text": "Going for the KO!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "撃墜狙いに来る"
+    },
+    {
+      "start": 1.12,
+      "end": 2.04,
+      "text": "Out to the edge,",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "遠い奥に"
+    },
+    {
+      "start": 2.04,
+      "end": 3.66,
+      "text": "one-shot strike!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ワンチャンストライクに来るぞ"
+    },
+    {
+      "start": 3.66,
+      "end": 4.22,
+      "text": "This is",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここは"
+    },
+    {
+      "start": 4.22,
+      "end": 5.24,
+      "text": "the setup",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "仕込んだ"
+    },
+    {
+      "start": 5.24,
+      "end": 6.9,
+      "text": "from up tilt!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "上強から"
+    }
+  ],
+  "full_text": "Going for the KO! Out to the edge, one-shot strike! This is the setup from up tilt!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "激強",
+      "corrected": "撃墜",
+      "rule": "kanji homophone"
+    },
+    {
+      "segment_idx": 5,
+      "original": "上京片",
+      "corrected": "上強から",
+      "rule": "kanji homophone (move name)"
+    }
+  ]
+}

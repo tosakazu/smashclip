@@ -1,0 +1,43 @@
+{
+  "id": "8b5e8243-a644-4f50-aab0-49b77d991cc3",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.92,
+      "text": "Floating straight up and it looks like it could connect at this percent, but they're gonna keep playing neutral for now.",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空へ真上に浮いて雷が決まりそうなパーセントでしたが一旦ここは展開継続"
+    },
+    {
+      "start": 3.92,
+      "end": 6.12,
+      "text": "It's not that.",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "雷じゃなくて"
+    },
+    {
+      "start": 6.12,
+      "end": 6.8,
+      "text": "Oh I see.",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "あーなるほど"
+    },
+    {
+      "start": 6.8,
+      "end": 8.76,
+      "text": "Oh, it goes flying in the direction they're facing!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "あー向いてる方向に飛んでいく"
+    }
+  ],
+  "full_text": "Floating straight up and it looks like it could connect at this percent, but they're gonna keep playing neutral for now. It's not that. Oh I see. Oh, it goes flying in the direction they're facing!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    "隠れそうな→決まりそうな (likely to land/kill, Pichu's Thunder)"
+  ]
+}

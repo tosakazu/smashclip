@@ -1,0 +1,35 @@
+{
+  "id": "8b3c8eab-f00d-45bd-b0c8-8e4180802495",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.5,
+      "text": "いやーピョーリングの今面白かったのが空ダ使って逃げるっていうのは確かにそうなんですけど",
+      "language": "ja"
+    },
+    {
+      "start": 4.5,
+      "end": 7.82,
+      "text": "空ダ使って攻めのなんか択増やしてましたね",
+      "language": "ja"
+    },
+    {
+      "start": 7.82,
+      "end": 12.24,
+      "text": "さあ回避通して上スマッシュここで荒れてるのは隊長",
+      "language": "ja"
+    },
+    {
+      "start": 12.24,
+      "end": 17.18,
+      "text": "タメルが来ました内側",
+      "language": "ja"
+    }
+  ],
+  "full_text": "いやーピョーリングの今面白かったのが空ダ使って逃げるっていうのは確かにそうなんですけど 空ダ使って攻めのなんか択増やしてましたね さあ回避通して上スマッシュここで荒れてるのは隊長 タメルが来ました内側",
+  "detected_language": "ja",
+  "corrections": [
+    "空打→空ダ (aerial dodge, 空中回避 abbreviation)",
+    "覚悟→択 (options/mixups, common Smash term)"
+  ]
+}

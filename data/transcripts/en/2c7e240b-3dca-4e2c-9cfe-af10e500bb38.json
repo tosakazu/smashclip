@@ -1,0 +1,48 @@
+{
+  "id": "2c7e240b-3dca-4e2c-9cfe-af10e500bb38",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.06,
+      "text": "And on top of that, there's so much packed in here...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これしかも鉄だらけなんで"
+    },
+    {
+      "start": 2.06,
+      "end": 3.76,
+      "text": "Wow, what's happening?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いやーどう動くこれ"
+    },
+    {
+      "start": 3.76,
+      "end": 6.1,
+      "text": "From",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "から"
+    },
+    {
+      "start": 6.1,
+      "end": 9.14,
+      "text": "Do bair!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空後しろー"
+    }
+  ],
+  "full_text": "And on top of that, there's so much packed in here... Wow, what's happening? From Do bair!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 3,
+      "original": "グッチしろー",
+      "corrected": "空後しろー",
+      "rule": "garbled: グッチ→空後"
+    }
+  ]
+}

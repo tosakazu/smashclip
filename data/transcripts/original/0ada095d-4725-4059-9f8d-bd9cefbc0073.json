@@ -1,0 +1,38 @@
+{
+  "id": "0ada095d-4725-4059-9f8d-bd9cefbc0073",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.96,
+      "text": "これかなり欲しいですよ",
+      "language": "ja"
+    },
+    {
+      "start": 0.96,
+      "end": 1.46,
+      "text": "はい",
+      "language": "ja"
+    },
+    {
+      "start": 2.38,
+      "end": 3.02,
+      "text": "食える?",
+      "language": "ja"
+    },
+    {
+      "start": 3.02,
+      "end": 4.02,
+      "text": "どうなる?",
+      "language": "ja"
+    },
+    {
+      "start": 4.02,
+      "end": 5.06,
+      "text": "食え!ちぃしろ!",
+      "language": "ja"
+    }
+  ],
+  "full_text": "これかなり欲しいですよ はい 食える? どうなる? 食え!ちぃしろ!",
+  "detected_language": "ja",
+  "corrections": []
+}

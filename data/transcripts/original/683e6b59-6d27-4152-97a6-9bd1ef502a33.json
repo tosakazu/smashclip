@@ -1,0 +1,27 @@
+{
+  "id": "683e6b59-6d27-4152-97a6-9bd1ef502a33",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.36,
+      "text": "and make something happen here okay great catch with the nair that is something that",
+      "language": "en"
+    },
+    {
+      "start": 5.36,
+      "end": 9.56,
+      "text": "Lui$ is going to need to do more than just the initial hit there we go",
+      "language": "en"
+    }
+  ],
+  "full_text": "and make something happen here okay great catch with the nair that is something that Lui$ is going to need to do more than just the initial hit there we go",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "luis",
+      "corrected": "Lui$",
+      "rule": "player name"
+    }
+  ]
+}

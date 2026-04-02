@@ -1,0 +1,57 @@
+{
+  "id": "889799d0-2070-4be3-8c79-4cebb0009ff6",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.04,
+      "text": "That was probably at Summit a while back, right?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ちょっと前のねサミットかな"
+    },
+    {
+      "start": 2.04,
+      "end": 4.06,
+      "text": "After I saw it at Summit",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "サミットで見てからね"
+    },
+    {
+      "start": 4.06,
+      "end": 5.56,
+      "text": "I'm already sold on that",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "もう惚れましたね"
+    },
+    {
+      "start": 5.56,
+      "end": 7.94,
+      "text": "Still hasn't reached that level from Summit though",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "サミットのスローンにはまだなってないよ"
+    },
+    {
+      "start": 7.94,
+      "end": 9.3,
+      "text": "That was back during Summit",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "サミットの頃だったんです"
+    },
+    {
+      "start": 9.3,
+      "end": 9.9,
+      "text": "Yeah, next one",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "はい今次"
+    }
+  ],
+  "full_text": "That was probably at Summit a while back, right? After I saw it at Summit I'm already sold on that Still hasn't reached that level from Summit though That was back during Summit Yeah, next one",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

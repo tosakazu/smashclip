@@ -1,0 +1,110 @@
+{
+  "id": "aacff815-185f-4fc8-98ae-c89073a97802",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.84,
+      "text": "Up to 143%",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "143%まで"
+    },
+    {
+      "start": 1.84,
+      "end": 3.9,
+      "text": "Will there be a one-shot KO?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあ一発も撃墜があるかという"
+    },
+    {
+      "start": 3.9,
+      "end": 5.04,
+      "text": "At that percentage though",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "パーセントではありますけれども"
+    },
+    {
+      "start": 5.04,
+      "end": 7.48,
+      "text": "The offense just isn't connecting",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "なかなか通せないような時間が続いていく"
+    },
+    {
+      "start": 7.48,
+      "end": 10.02,
+      "text": "And damage keeps building for Snow on the second stock",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そして2ストック目スノー選手側に対してもダメージが乗っていきます"
+    },
+    {
+      "start": 10.02,
+      "end": 11.7,
+      "text": "49",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "49と"
+    },
+    {
+      "start": 11.7,
+      "end": 12.76,
+      "text": "58",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "58と"
+    },
+    {
+      "start": 12.76,
+      "end": 14.7,
+      "text": "Steadily catching up",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "じりじりと追いついてくる"
+    },
+    {
+      "start": 14.7,
+      "end": 15.8,
+      "text": "Tweek's Donkey Kong",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ツイークのDDコング"
+    },
+    {
+      "start": 15.8,
+      "end": 17.22,
+      "text": "Back air",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空中後ろ"
+    },
+    {
+      "start": 17.22,
+      "end": 19.48,
+      "text": "Banana throw! Stop that!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "バナナ投げ 空中止めてよ"
+    }
+  ],
+  "full_text": "Up to 143% Will there be a one-shot KO? At that percentage though The offense just isn't connecting And damage keeps building for Snow on the second stock 49 58 Steadily catching up Tweek's Donkey Kong Back air Banana throw! Stop that!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 9,
+      "original": "空中しろ",
+      "corrected": "空中後ろ",
+      "rule": "Move: 空中しろ→空中後ろ(空後)"
+    },
+    {
+      "segment_idx": 10,
+      "original": "バラのトシ空中止めてよ",
+      "corrected": "バナナ投げ 空中止めてよ",
+      "rule": "Diddy Kong move: バラのトシ→バナナ投げ"
+    }
+  ]
+}

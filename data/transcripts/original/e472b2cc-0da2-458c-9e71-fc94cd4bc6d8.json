@@ -1,0 +1,189 @@
+{
+  "id": "e472b2cc-0da2-458c-9e71-fc94cd4bc6d8",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.52,
+      "text": "守りがさらに強くなりますね",
+      "language": "ja"
+    },
+    {
+      "start": 2.52,
+      "end": 4.52,
+      "text": "リターンが出ないのだけが救いというか",
+      "language": "ja"
+    },
+    {
+      "start": 4.52,
+      "end": 5.4,
+      "text": "確かにね",
+      "language": "ja"
+    },
+    {
+      "start": 5.4,
+      "end": 6.58,
+      "text": "終わってる",
+      "language": "ja"
+    },
+    {
+      "start": 6.58,
+      "end": 9.32,
+      "text": "危ねーけどここは着地を通した",
+      "language": "ja"
+    },
+    {
+      "start": 9.32,
+      "end": 11.2,
+      "text": "空Nから空上は当たらず",
+      "language": "ja"
+    },
+    {
+      "start": 11.2,
+      "end": 13.62,
+      "text": "投げて冷静ですねTaikei選手",
+      "language": "ja"
+    },
+    {
+      "start": 13.62,
+      "end": 15.94,
+      "text": "ソニックス選手相手に投げを通しまくってます",
+      "language": "ja"
+    },
+    {
+      "start": 15.94,
+      "end": 18.28,
+      "text": "しかもスピンの出だしも止まえる",
+      "language": "ja"
+    },
+    {
+      "start": 18.28,
+      "end": 19.24,
+      "text": "空後",
+      "language": "ja"
+    },
+    {
+      "start": 19.24,
+      "end": 20.62,
+      "text": "着地狩りも完璧で",
+      "language": "ja"
+    },
+    {
+      "start": 20.62,
+      "end": 21.4,
+      "text": "バランスがいい",
+      "language": "ja"
+    },
+    {
+      "start": 21.4,
+      "end": 24.36,
+      "text": "待つと見せかけて焦って攻めさせるソニックス選手",
+      "language": "ja"
+    },
+    {
+      "start": 24.36,
+      "end": 26.38,
+      "text": "時々は間に出るっていう",
+      "language": "ja"
+    },
+    {
+      "start": 26.38,
+      "end": 28.04,
+      "text": "逆で倒せれば",
+      "language": "ja"
+    },
+    {
+      "start": 28.04,
+      "end": 29.6,
+      "text": "御の字だがソニックスは帰ってきます",
+      "language": "ja"
+    },
+    {
+      "start": 29.6,
+      "end": 31.54,
+      "text": "DAよく見てる",
+      "language": "ja"
+    },
+    {
+      "start": 31.54,
+      "end": 32.88,
+      "text": "上手すぎる",
+      "language": "ja"
+    },
+    {
+      "start": 32.88,
+      "end": 34.46,
+      "text": "今のめくりの判断",
+      "language": "ja"
+    },
+    {
+      "start": 34.46,
+      "end": 35.46,
+      "text": "横スマ",
+      "language": "ja"
+    },
+    {
+      "start": 35.46,
+      "end": 36.92,
+      "text": "一発決めていきました",
+      "language": "ja"
+    },
+    {
+      "start": 36.92,
+      "end": 38.8,
+      "text": "初打決めていきました",
+      "language": "ja"
+    }
+  ],
+  "full_text": "守りがさらに強くなりますね リターンが出ないのだけが救いというか 確かにね 終わってる 危ねーけどここは着地を通した 空Nから空上は当たらず 投げて冷静ですねTaikei選手 ソニックス選手相手に投げを通しまくってます しかもスピンの出だしも止まえる 空後 着地狩りも完璧で バランスがいい 待つと見せかけて焦って攻めさせるソニックス選手 時々は間に出るっていう 逆で倒せれば 御の字だがソニックスは帰ってきます DAよく見てる 上手すぎる 今のめくりの判断 早い 横スマ 一発決めていきました",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 5,
+      "original": "クエネから口上は当たらず",
+      "corrected": "空Nから空上は当たらず",
+      "rule": "move abbreviation: 空N, 空上"
+    },
+    {
+      "segment_idx": 6,
+      "original": "大慶選手",
+      "corrected": "Taikei選手",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 8,
+      "original": "しかもスキンの出だしも遠まえる",
+      "corrected": "しかもスピンの出だしも止まえる",
+      "rule": "misheard: スピン(Sonic spin)"
+    },
+    {
+      "segment_idx": 9,
+      "original": "空中しろ",
+      "corrected": "空後",
+      "rule": "move abbreviation: 空後"
+    },
+    {
+      "segment_idx": 12,
+      "original": "マスト見せかけて焦って攻めさせるソニックス選手",
+      "corrected": "待つと見せかけて焦って攻めさせるソニックス選手",
+      "rule": "misheard: 待つ"
+    },
+    {
+      "segment_idx": 16,
+      "original": "ディエオよく見てる",
+      "corrected": "DA よく見てる",
+      "rule": "move abbreviation: DA"
+    },
+    {
+      "segment_idx": 19,
+      "original": "よこすな",
+      "corrected": "横スマ",
+      "rule": "move abbreviation: 横スマ(横スマッシュ)"
+    },
+    {
+      "segment_idx": 20,
+      "original": "初打決めていきました",
+      "corrected": "一発決めていきました",
+      "rule": "misheard: 一発"
+    }
+  ]
+}

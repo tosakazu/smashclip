@@ -1,0 +1,31 @@
+{
+  "id": "a3d1a0a3-4db4-4957-a52f-d94cd0763923",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.14,
+      "text": "He's trying to go for an up tilt, but he's not going to hit.",
+      "language": "en"
+    },
+    {
+      "start": 2.86,
+      "end": 5.24,
+      "text": "Not enough for the kill, not perfectly spaced.",
+      "language": "en"
+    }
+  ],
+  "full_text": "He's trying to go for an up tilt, but he's not going to hit. Not enough for the kill, not perfectly spaced.",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "original": "uphill",
+      "corrected": "up tilt",
+      "reason": "up tilt = 上強攻撃"
+    },
+    {
+      "original": "for the ball",
+      "corrected": "for the kill",
+      "reason": "撃墜に足りなかった"
+    }
+  ]
+}

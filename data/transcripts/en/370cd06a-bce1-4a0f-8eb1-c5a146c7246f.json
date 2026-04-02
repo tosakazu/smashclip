@@ -1,0 +1,98 @@
+{
+  "id": "370cd06a-bce1-4a0f-8eb1-c5a146c7246f",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "That's scary! Up tilt incoming!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "お前怖い!上強が見えているぞ!"
+    },
+    {
+      "start": 2.0,
+      "end": 4.0,
+      "text": "If that connects...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "あの上強当たればまさか?"
+    },
+    {
+      "start": 4.0,
+      "end": 5.5,
+      "text": "That spacing is way too tight!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "クリンチ状態すぎるあの位置"
+    },
+    {
+      "start": 5.5,
+      "end": 7.0,
+      "text": "Nair right off the spin!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあスピンから空中ニュートラル"
+    },
+    {
+      "start": 7.0,
+      "end": 8.0,
+      "text": "Sends him up!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "上に打ち上げて"
+    },
+    {
+      "start": 8.0,
+      "end": 9.0,
+      "text": "Plays it safe!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "無理はしないKEN"
+    },
+    {
+      "start": 9.0,
+      "end": 10.0,
+      "text": "Looking for the whiff punish!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "差し返しを狙う"
+    },
+    {
+      "start": 10.0,
+      "end": 12.0,
+      "text": "Forward smash! Baits the dodge!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "横スマッシュ!その場回避を誘発!"
+    }
+  ],
+  "full_text": "That's scary! Up tilt incoming! If that connects... That spacing is way too tight! Nair right off the spin! Sends him up! Plays it safe! Looking for the whiff punish! Forward smash! Baits the dodge!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "上鏡",
+      "corrected": "上強",
+      "rule": "kanji homophone: 上鏡→上強"
+    },
+    {
+      "segment_idx": 1,
+      "original": "上鏡",
+      "corrected": "上強",
+      "rule": "kanji homophone: 上鏡→上強"
+    },
+    {
+      "segment_idx": 5,
+      "original": "無理はしないけん",
+      "corrected": "無理はしないKEN",
+      "rule": "player name: KEN"
+    },
+    {
+      "segment_idx": 7,
+      "original": "その魔界気を誘発",
+      "corrected": "その場回避を誘発",
+      "rule": "misheard: その場回避"
+    }
+  ]
+}

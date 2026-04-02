@@ -1,0 +1,65 @@
+{
+  "id": "0331e783-92e3-4289-827c-c98af2e365f0",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.08,
+      "text": "He's barely landing anything in this match!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ほとんど当たってないんじゃないですかこの試合"
+    },
+    {
+      "start": 2.08,
+      "end": 2.62,
+      "text": "Nothing's connecting!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "当たってない"
+    },
+    {
+      "start": 2.62,
+      "end": 4.42,
+      "text": "Perfect spacing throughout.",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "全部ちゃんと引いてますね"
+    },
+    {
+      "start": 4.42,
+      "end": 6.08,
+      "text": "Diving in right here!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "飛び込んだここで"
+    },
+    {
+      "start": 6.08,
+      "end": 8.02,
+      "text": "Whoa!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "おー"
+    },
+    {
+      "start": 8.02,
+      "end": 9.98,
+      "text": "Oh!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "うわー"
+    },
+    {
+      "start": 9.98,
+      "end": 11.48,
+      "text": "That's rough!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "むずい"
+    }
+  ],
+  "full_text": "He's barely landing anything in this match! Nothing's connecting! Perfect spacing throughout. Diving in right here! Whoa! Oh! That's rough!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

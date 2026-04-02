@@ -1,0 +1,68 @@
+{
+  "id": "8e0dcd52-1c3c-480e-b22d-b1a0b92617ab",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.46,
+      "text": "Shuton comes back!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "シュートン君に返ってきて"
+    },
+    {
+      "start": 4.46,
+      "end": 7.88,
+      "text": "But that spin startup though...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いやーしかしスピンの出だしをね"
+    },
+    {
+      "start": 7.88,
+      "end": 9.04,
+      "text": "He gets through it and punishes!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "抜かしまして狩り取っていきます"
+    },
+    {
+      "start": 9.04,
+      "end": 10.06,
+      "text": "Shuton is incredibly strong!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "シュートン君非常に強い"
+    },
+    {
+      "start": 10.06,
+      "end": 11.92,
+      "text": "And there's the recovery!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そして返ってくるところ"
+    }
+  ],
+  "full_text": "Shuton comes back! But that spin startup though... He gets through it and punishes! Shuton is incredibly strong! And there's the recovery!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "サウタ君",
+      "corrected": "シュートン君",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 1,
+      "original": "スキン",
+      "corrected": "スピン",
+      "rule": "misheard word"
+    },
+    {
+      "segment_idx": 3,
+      "original": "サウタ君",
+      "corrected": "シュートン君",
+      "rule": "player name"
+    }
+  ]
+}

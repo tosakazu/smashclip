@@ -1,0 +1,62 @@
+{
+  "id": "508fddb6-1853-4428-88b1-5acc5b13b0af",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.84,
+      "text": "Samus at this percent as always",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "パーセントやはりサムスといえば"
+    },
+    {
+      "start": 1.84,
+      "end": 3.74,
+      "text": "up throw's a KO",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "上投げ撃墜が"
+    },
+    {
+      "start": 3.74,
+      "end": 5.48,
+      "text": "the setup's there, but Greninja grabbed",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "匂い展開だが掴んでいるのは"
+    },
+    {
+      "start": 5.48,
+      "end": 7.76,
+      "text": "with nair, clean knockdown was in sight",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ゲッコウガ先 空Nで落としが見えたが"
+    },
+    {
+      "start": 7.76,
+      "end": 8.96,
+      "text": "but it ended up awkward",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "中途半端落としになってしまった"
+    }
+  ],
+  "full_text": "Samus at this percent as always up throw's a KO the setup's there, but Greninja grabbed with nair, clean knockdown was in sight but it ended up awkward",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 3,
+      "original": "月光河川空中へ落とし",
+      "corrected": "ゲッコウガ先 空Nで落とし",
+      "rule": "kanji homophone: 月光河川→ゲッコウガ先, 空中へ→空Nで"
+    },
+    {
+      "segment_idx": 4,
+      "original": "チーム半端落とし",
+      "corrected": "中途半端落とし",
+      "rule": "misheard: チーム→中途"
+    }
+  ]
+}

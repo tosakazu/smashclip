@@ -1,0 +1,50 @@
+{
+  "id": "a4cb20b8-9130-4eca-985d-e73cc93d4ebc",
+  "segments": [
+    {
+      "start": 0.66,
+      "end": 1.7,
+      "text": "触れるところで振る",
+      "language": "ja"
+    },
+    {
+      "start": 1.7,
+      "end": 4.78,
+      "text": "シールドキャンセルから無理に暴れはしません",
+      "language": "ja"
+    },
+    {
+      "start": 4.78,
+      "end": 5.84,
+      "text": "クーティニーにも冷静",
+      "language": "ja"
+    },
+    {
+      "start": 5.84,
+      "end": 6.88,
+      "text": "しかしいい位置で当たって",
+      "language": "ja"
+    },
+    {
+      "start": 6.88,
+      "end": 7.64,
+      "text": "上スマッシュ",
+      "language": "ja"
+    },
+    {
+      "start": 7.64,
+      "end": 8.8,
+      "text": "またしても逃げ",
+      "language": "ja"
+    }
+  ],
+  "full_text": "触れるところで振る シールドキャンセルから無理に暴れはしません クーティニーにも冷静 しかしいい位置で当たって 上スマッシュ またしても逃げ",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "original": "フーティにも冷静",
+      "corrected": "クーティニーにも冷静",
+      "reason": "プレイヤー名クーティニー"
+    }
+  ]
+}

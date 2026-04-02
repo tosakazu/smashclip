@@ -1,0 +1,33 @@
+{
+  "id": "76af1512-01e8-4f93-83b9-ebf052795059",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.44,
+      "text": "You've gotta keep that shield solid and work your ground approaches",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ガードを固めながらというか地上での差し込みをしなければならないような"
+    },
+    {
+      "start": 4.44,
+      "end": 5.96,
+      "text": "That's what this matchup is",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そんなマッチアップになっているんでしょうか"
+    },
+    {
+      "start": 5.96,
+      "end": 7.9,
+      "text": "Because Yaura's got the Yoshi matchup locked down",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "矢浦が対ヨッシー仕上がっているからこそ"
+    }
+  ],
+  "full_text": "You've gotta keep that shield solid and work your ground approaches. That's what this matchup is. Because Yaura's got the Yoshi matchup locked down.",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

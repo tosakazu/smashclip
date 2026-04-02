@@ -1,0 +1,57 @@
+{
+  "id": "26ede1c3-dbad-49a7-b8c4-6f5c4e688087",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.12,
+      "text": "Gotta keep going",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "やっていくしかないです"
+    },
+    {
+      "start": 2.12,
+      "end": 3.3,
+      "text": "Keep trying different approaches",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "たくさんチャレンジをして"
+    },
+    {
+      "start": 3.3,
+      "end": 5.18,
+      "text": "and wait for something to land",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "何かが通るところを待つしかない"
+    },
+    {
+      "start": 5.18,
+      "end": 7.98,
+      "text": "If you just endure, something good will eventually come",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "耐えて耐えていればいつかいいことがあります"
+    },
+    {
+      "start": 7.98,
+      "end": 9.16,
+      "text": "It connects!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ぶっ刺さる!"
+    },
+    {
+      "start": 9.16,
+      "end": 10.04,
+      "text": "Up smash",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "上スマッシュ"
+    }
+  ],
+  "full_text": "Gotta keep going keep trying different approaches and wait for something to land If you just endure, something good will eventually come It connects! Up smash",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

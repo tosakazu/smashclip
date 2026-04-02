@@ -1,0 +1,48 @@
+{
+  "id": "d7fb4747-350d-458f-ab1a-7ea4cd19209c",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.48,
+      "text": "and that's it",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いるんですよ"
+    },
+    {
+      "start": 0.48,
+      "end": 6.76,
+      "text": "just maneuvering around",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "だけでコネコネしながら"
+    },
+    {
+      "start": 6.76,
+      "end": 8.16,
+      "text": "against the ledge getup",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "崖上着地に対して"
+    },
+    {
+      "start": 8.16,
+      "end": 9.44,
+      "text": "nailing the bair for the lift",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空中後ろでちゃんとリフト"
+    }
+  ],
+  "full_text": "and that's it just maneuvering around against the ledge getup nailing the bair for the lift",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "外上着地に対して",
+      "corrected": "崖上着地に対して",
+      "rule": "kanji homophone (崖)"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "05c8d315-10ab-4671-a6e1-b5a38a3af493",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "text": "so there's that",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "というところはあるので"
+    },
+    {
+      "start": 1.0,
+      "end": 3.78,
+      "text": "nair",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空N"
+    },
+    {
+      "start": 3.78,
+      "end": 6.44,
+      "text": "Barely avoids the KO and the spring catches the airdodge!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ギリギリ撃墜せずに移動回避にはバネが当たれ"
+    },
+    {
+      "start": 6.44,
+      "end": 7.76,
+      "text": "drone",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ドローン"
+    },
+    {
+      "start": 7.76,
+      "end": 8.62,
+      "text": "keep cycling",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "回していく"
+    }
+  ],
+  "full_text": "so there's that nair Barely avoids the KO and the spring catches the airdodge! drone keep cycling",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "空中ニュートラル",
+      "corrected": "空N",
+      "rule": "auto-rule"
+    }
+  ]
+}

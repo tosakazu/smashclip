@@ -1,0 +1,81 @@
+{
+  "id": "50106f43-6902-4cf4-b872-d4d805b2e235",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.16,
+      "text": "state like he's missing being these attack ups but yeah well here we are",
+      "language": "en"
+    },
+    {
+      "start": 4.16,
+      "end": 7.44,
+      "text": "game three last stock scenario only one of these players is going to be able to",
+      "language": "en"
+    },
+    {
+      "start": 7.44,
+      "end": 12.72,
+      "text": "progress into winners finals of pools and we'll see which one it is so far Sin",
+      "language": "en"
+    },
+    {
+      "start": 12.72,
+      "end": 20.56,
+      "text": "with the damage advantage but just needs to keep him down unfortunately yeah misses",
+      "language": "en"
+    },
+    {
+      "start": 20.56,
+      "end": 24.36,
+      "text": "the inputs there but whoo up smash just straight up and notice do you",
+      "language": "en"
+    },
+    {
+      "start": 24.36,
+      "end": 29.0,
+      "text": "think we got the up tilt that's it there you go just about managing to clutch it",
+      "language": "en"
+    },
+    {
+      "start": 29.0,
+      "end": 31.12,
+      "text": "out",
+      "language": "en"
+    }
+  ],
+  "full_text": "state like he's missing being these attack ups but yeah well here we are game three last stock scenario only one of these players is going to be able to progress into winners finals of pools and we'll see which one it is so far Sin with the damage advantage but just needs to keep him down unfortunately yeah misses the inputs there but whoo up smash just straight up and notice do you think we got the up tilt that's it there you go just about managing to clutch it out",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "lost stock",
+      "corrected": "last stock",
+      "rule": "misheard: lost→last"
+    },
+    {
+      "segment_idx": 2,
+      "original": "sin",
+      "corrected": "Sin",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 3,
+      "original": "keep us down",
+      "corrected": "keep him down",
+      "rule": "misheard word"
+    },
+    {
+      "segment_idx": 3,
+      "original": "miss is",
+      "corrected": "misses",
+      "rule": "misheard word"
+    },
+    {
+      "segment_idx": 4,
+      "original": "know this do you",
+      "corrected": "notice do you",
+      "rule": "misheard word"
+    }
+  ]
+}

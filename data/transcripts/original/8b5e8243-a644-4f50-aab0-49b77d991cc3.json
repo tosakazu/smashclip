@@ -1,0 +1,34 @@
+{
+  "id": "8b5e8243-a644-4f50-aab0-49b77d991cc3",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.92,
+      "text": "空へ真上に浮いて雷が決まりそうなパーセントでしたが一旦ここは展開継続",
+      "language": "ja"
+    },
+    {
+      "start": 3.92,
+      "end": 6.12,
+      "text": "雷じゃなくて",
+      "language": "ja"
+    },
+    {
+      "start": 6.12,
+      "end": 6.8,
+      "text": "あーなるほど",
+      "language": "ja"
+    },
+    {
+      "start": 6.8,
+      "end": 8.76,
+      "text": "あー向いてる方向に飛んでいく",
+      "language": "ja"
+    }
+  ],
+  "full_text": "空へ真上に浮いて雷が決まりそうなパーセントでしたが一旦ここは展開継続 雷じゃなくて あーなるほど あー向いてる方向に飛んでいく",
+  "detected_language": "ja",
+  "corrections": [
+    "隠れそうな→決まりそうな (likely to land/kill, Pichu's Thunder)"
+  ]
+}

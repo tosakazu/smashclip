@@ -1,0 +1,33 @@
+{
+  "id": "476ea97a-225d-43d0-8e1d-a922dd690730",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 7.8,
+      "text": "Get the stock off of Spargo, but now glowing blue Spargo trying to get this stock count even, but zackray's already racked up 74 damage.",
+      "language": "en"
+    },
+    {
+      "start": 8.08,
+      "end": 8.26,
+      "text": "Yup.",
+      "language": "en"
+    }
+  ],
+  "full_text": "Get the stock off of Spargo, but now glowing blue Spargo trying to get this stock count even, but zackray's already racked up 74 damage. Yup.",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "stalk",
+      "corrected": "stock",
+      "rule": "misheard smash term"
+    },
+    {
+      "segment_idx": 0,
+      "original": "Zachary's",
+      "corrected": "zackray's",
+      "rule": "player name"
+    }
+  ]
+}

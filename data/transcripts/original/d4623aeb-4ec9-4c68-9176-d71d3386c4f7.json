@@ -1,0 +1,51 @@
+{
+  "id": "d4623aeb-4ec9-4c68-9176-d71d3386c4f7",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.64,
+      "text": "しんは、え、まさか?撃墜!",
+      "language": "ja"
+    },
+    {
+      "start": 4.08,
+      "end": 6.18,
+      "text": "さあ、切り離して、空中前メテオ",
+      "language": "ja"
+    },
+    {
+      "start": 6.18,
+      "end": 8.14,
+      "text": "まあ、何パーセントからでも撃墜しますからね",
+      "language": "ja"
+    },
+    {
+      "start": 8.14,
+      "end": 10.22,
+      "text": "さあ、ダンク、撃墜してくれないぞ",
+      "language": "ja"
+    },
+    {
+      "start": 10.22,
+      "end": 10.64,
+      "text": "こいつは",
+      "language": "ja"
+    }
+  ],
+  "full_text": "しんは、え、まさか?撃墜! さあ、切り離して、空中前メテオ まあ、何パーセントからでも撃墜しますからね さあ、ダンク、撃墜してくれないぞ こいつは",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "新技は",
+      "corrected": "しんは",
+      "rule": "player name (新技→しん/Sin)"
+    },
+    {
+      "segment_idx": 3,
+      "original": "撃変してくれないぞ",
+      "corrected": "撃墜してくれないぞ",
+      "rule": "smash term (撃変→撃墜)"
+    }
+  ]
+}

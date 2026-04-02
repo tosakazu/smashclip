@@ -1,0 +1,26 @@
+{
+  "id": "6564138c-4895-48c2-8697-85fda03bc99e",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.12,
+      "text": "後ろにいたんじゃないかというところで",
+      "language": "ja"
+    },
+    {
+      "start": 5.12,
+      "end": 6.0,
+      "text": "ガーキャン掴みから",
+      "language": "ja"
+    },
+    {
+      "start": 6.0,
+      "end": 8.8,
+      "text": "ボムを使ってタイミングずらすのであれば",
+      "language": "ja"
+    }
+  ],
+  "full_text": "後ろにいたんじゃないかというところで ガーキャン掴みから ボムを使ってタイミングずらすのであれば",
+  "detected_language": "ja",
+  "corrections": []
+}

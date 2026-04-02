@@ -1,0 +1,129 @@
+{
+  "id": "fb291659-80ef-4bcc-96c7-e9d5f5e91821",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.74,
+      "text": "復帰ルートがなかなか見つからない",
+      "language": "ja"
+    },
+    {
+      "start": 1.74,
+      "end": 3.02,
+      "text": "空中後ろをなんとか捉えた",
+      "language": "ja"
+    },
+    {
+      "start": 3.02,
+      "end": 6.18,
+      "text": "今空Nとコードを合わせて",
+      "language": "ja"
+    },
+    {
+      "start": 6.18,
+      "end": 7.56,
+      "text": "目を向けてきました",
+      "language": "ja"
+    },
+    {
+      "start": 7.56,
+      "end": 8.54,
+      "text": "さあ2対1",
+      "language": "ja"
+    },
+    {
+      "start": 8.54,
+      "end": 11.02,
+      "text": "ただ依然としてラストストック",
+      "language": "ja"
+    },
+    {
+      "start": 11.02,
+      "end": 12.94,
+      "text": "残っている%はもう少なくない",
+      "language": "ja"
+    },
+    {
+      "start": 12.94,
+      "end": 15.6,
+      "text": "ジャックから百裂",
+      "language": "ja"
+    },
+    {
+      "start": 15.6,
+      "end": 17.86,
+      "text": "いやー下スマッシュこれはどうだ",
+      "language": "ja"
+    },
+    {
+      "start": 17.86,
+      "end": 20.72,
+      "text": "ジャンプ残っているが上Bでもう一度追い出して",
+      "language": "ja"
+    },
+    {
+      "start": 20.72,
+      "end": 23.26,
+      "text": "空中後ろからとどめの一撃",
+      "language": "ja"
+    },
+    {
+      "start": 23.26,
+      "end": 26.92,
+      "text": "やり切ったMiya",
+      "language": "ja"
+    },
+    {
+      "start": 26.92,
+      "end": 28.38,
+      "text": "あのー復帰阻止上手すぎます",
+      "language": "ja"
+    },
+    {
+      "start": 28.38,
+      "end": 29.44,
+      "text": "はい上手すぎますね",
+      "language": "ja"
+    },
+    {
+      "start": 29.44,
+      "end": 31.18,
+      "text": "今のあのー見た",
+      "language": "ja"
+    }
+  ],
+  "full_text": "復帰ルートがなかなか見つからない 空中後ろをなんとか捉えた 今空Nとコードを合わせて 目を向けてきました さあ2対1 ただ依然としてラストストック 残っている%はもう少なくない ジャックから百裂 いやー下スマッシュこれはどうだ ジャンプ残っているが上Bでもう一度追い出して 空中後ろからとどめの一撃 やり切ったMiya あのー復帰阻止上手すぎます はい上手すぎますね 今のあのー見た",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "くじくとコード",
+      "corrected": "空Nとコード",
+      "rule": "misheard"
+    },
+    {
+      "segment_idx": 3,
+      "original": "目を開けてきました",
+      "corrected": "目を向けてきました",
+      "rule": "misheard"
+    },
+    {
+      "segment_idx": 6,
+      "original": "残っているヌチはもう少なくない",
+      "corrected": "残っている%はもう少なくない",
+      "rule": "misheard"
+    },
+    {
+      "segment_idx": 11,
+      "original": "ミヤー",
+      "corrected": "Miya",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 12,
+      "original": "復帰スマッシュ",
+      "corrected": "復帰阻止",
+      "rule": "misheard: スマッシュ→阻止"
+    }
+  ]
+}

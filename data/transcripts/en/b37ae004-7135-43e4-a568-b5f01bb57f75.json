@@ -1,0 +1,50 @@
+{
+  "id": "b37ae004-7135-43e4-a568-b5f01bb57f75",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Doesn't get a punch off of holy water though.",
+      "language": "en"
+    },
+    {
+      "start": 2.0,
+      "end": 4.0,
+      "text": "He seems to get away from ledge, I just wonder...",
+      "language": "en"
+    },
+    {
+      "start": 4.0,
+      "end": 5.0,
+      "text": "Can he get a punch?",
+      "language": "en"
+    },
+    {
+      "start": 5.0,
+      "end": 7.0,
+      "text": "Grab, there, there.",
+      "language": "en"
+    },
+    {
+      "start": 7.0,
+      "end": 8.0,
+      "text": "Mmm.",
+      "language": "en"
+    },
+    {
+      "start": 8.0,
+      "end": 10.0,
+      "text": "That's what you guys tell me, that Upi never kills.",
+      "language": "en"
+    },
+    {
+      "start": 10.0,
+      "end": 12.0,
+      "text": "If you DI that well, he just never kills.",
+      "language": "en"
+    }
+  ],
+  "full_text": "Doesn't get a punch off of holy water though. He seems to get away from ledge, I just wonder... Can he get a punch? Grab, there, there. Mmm. That's what you guys tell me, that Upi never kills. If you DI that well, he just never kills.",
+  "detected_language": "en",
+  "corrections": []
+}

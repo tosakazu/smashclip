@@ -1,0 +1,39 @@
+{
+  "id": "079687e8-b2df-4c8f-aba0-08cc15db299f",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.16,
+      "text": "緩めない空上もう一回空上すると見せかけて",
+      "language": "ja"
+    },
+    {
+      "start": 3.16,
+      "end": 5.44,
+      "text": "さあスティーブの暴れが間に合いそうだと",
+      "language": "ja"
+    },
+    {
+      "start": 5.44,
+      "end": 7.56,
+      "text": "見るや否や一旦リセット",
+      "language": "ja"
+    },
+    {
+      "start": 7.56,
+      "end": 8.92,
+      "text": "下スマッシュをシールドして",
+      "language": "ja"
+    }
+  ],
+  "full_text": "緩めない空上もう一回空上すると見せかけて さあスティーブの暴れが間に合いそうだと 見るや否や一旦リセット 下スマッシュをシールドして",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "緩めない空中へもう一回空へすると見せかけて",
+      "corrected": "緩めない空上もう一回空上すると見せかけて",
+      "rule": "Move abbreviation correction (空中へ/空へ → 空上)"
+    }
+  ]
+}

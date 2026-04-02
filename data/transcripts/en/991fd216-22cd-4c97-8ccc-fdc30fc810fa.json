@@ -1,0 +1,33 @@
+{
+  "id": "991fd216-22cd-4c97-8ccc-fdc30fc810fa",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.12,
+      "text": "Parry into the side special!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ジャストシールドから横必殺技"
+    },
+    {
+      "start": 3.12,
+      "end": 7.06,
+      "text": "Lunamode's Body Press keeps landing!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ルナマドのボディープレスが刺さる刺さる"
+    },
+    {
+      "start": 7.06,
+      "end": 8.48,
+      "text": "And on that getup...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そしてその上がりに"
+    }
+  ],
+  "full_text": "Parry into the side special! Lunamode's Body Press keeps landing! And on that getup...",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

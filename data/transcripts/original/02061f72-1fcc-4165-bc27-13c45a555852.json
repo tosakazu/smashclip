@@ -1,0 +1,51 @@
+{
+  "id": "02061f72-1fcc-4165-bc27-13c45a555852",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.14,
+      "text": "ファイヤー 回避上がりに 通した",
+      "language": "ja"
+    },
+    {
+      "start": 1.14,
+      "end": 4.04,
+      "text": "さあ下からの復帰にどうリスクをつけるか",
+      "language": "ja"
+    },
+    {
+      "start": 4.04,
+      "end": 5.88,
+      "text": "PKファイヤー",
+      "language": "ja"
+    },
+    {
+      "start": 5.88,
+      "end": 8.02,
+      "text": "ジャンプ読み",
+      "language": "ja"
+    },
+    {
+      "start": 8.02,
+      "end": 9.88,
+      "text": "宙への対空",
+      "language": "ja"
+    }
+  ],
+  "full_text": "ファイヤー 回避上がりに 通した さあ下からの復帰にどうリスクをつけるか PKファイヤー ジャンプ読み 宙への対空",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "カイアガリッジ",
+      "corrected": "回避上がりに",
+      "rule": "misheard term"
+    },
+    {
+      "segment_idx": 3,
+      "original": "ジャンプビッグ",
+      "corrected": "ジャンプ読み",
+      "rule": "misheard term"
+    }
+  ]
+}

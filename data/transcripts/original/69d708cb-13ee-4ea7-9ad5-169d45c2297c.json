@@ -1,0 +1,69 @@
+{
+  "id": "69d708cb-13ee-4ea7-9ad5-169d45c2297c",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.5,
+      "text": "狙っていく",
+      "language": "ja"
+    },
+    {
+      "start": 0.5,
+      "end": 2.36,
+      "text": "空下のメテオはなんとか",
+      "language": "ja"
+    },
+    {
+      "start": 2.36,
+      "end": 3.74,
+      "text": "ドルフィンで先に崖を掴んで",
+      "language": "ja"
+    },
+    {
+      "start": 3.74,
+      "end": 5.5,
+      "text": "横スマッシュ?回避が見えてるの?",
+      "language": "ja"
+    },
+    {
+      "start": 6.26,
+      "end": 6.88,
+      "text": "なんとか",
+      "language": "ja"
+    },
+    {
+      "start": 6.88,
+      "end": 8.36,
+      "text": "かわしているのはザクレイ",
+      "language": "ja"
+    },
+    {
+      "start": 8.36,
+      "end": 10.54,
+      "text": "空上は途中で止まっちゃって",
+      "language": "ja"
+    },
+    {
+      "start": 10.54,
+      "end": 11.78,
+      "text": "コマが当たってるのは",
+      "language": "ja"
+    }
+  ],
+  "full_text": "狙っていく 空下のメテオはなんとか ドルフィンで先に崖を掴んで 横スマッシュ?回避が見えてるの? なんとか かわしているのはザクレイ 空上は途中で止まっちゃって コマが当たってるのは",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "ガキを捕まって",
+      "corrected": "崖を掴んで",
+      "rule": "Whisper mishearing (がき→がけ)"
+    },
+    {
+      "segment_idx": 7,
+      "original": "クマ",
+      "corrected": "コマ",
+      "rule": "Whisper mishearing (R.O.B. gyro)"
+    }
+  ]
+}

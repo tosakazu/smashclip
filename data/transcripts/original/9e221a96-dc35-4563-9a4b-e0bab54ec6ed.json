@@ -1,0 +1,26 @@
+{
+  "id": "9e221a96-dc35-4563-9a4b-e0bab54ec6ed",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.64,
+      "text": "さあじわりじわりと撃墜ラインが",
+      "language": "ja"
+    },
+    {
+      "start": 3.64,
+      "end": 8.86,
+      "text": "撃墜までのラインがどんどん見えていくというところ",
+      "language": "ja"
+    },
+    {
+      "start": 8.86,
+      "end": 10.36,
+      "text": "これは上必殺技",
+      "language": "ja"
+    }
+  ],
+  "full_text": "さあじわりじわりと撃墜ラインが 撃墜までのラインがどんどん見えていくというところ これは上必殺技",
+  "detected_language": "ja",
+  "corrections": []
+}

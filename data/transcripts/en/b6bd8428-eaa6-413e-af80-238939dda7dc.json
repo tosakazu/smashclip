@@ -1,0 +1,78 @@
+{
+  "id": "b6bd8428-eaa6-413e-af80-238939dda7dc",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.06,
+      "text": "Stock!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "標準搭載"
+    },
+    {
+      "start": 1.06,
+      "end": 2.94,
+      "text": "In this clean spacing,",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "今日のこの切り離しに"
+    },
+    {
+      "start": 2.94,
+      "end": 3.96,
+      "text": "Into up air,",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空中上を合わせて"
+    },
+    {
+      "start": 3.96,
+      "end": 5.42,
+      "text": "Smash attack!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "スマッシュ攻撃"
+    },
+    {
+      "start": 5.42,
+      "end": 7.42,
+      "text": "Catches from up top!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "上からもしかし見えている"
+    },
+    {
+      "start": 7.42,
+      "end": 9.52,
+      "text": "That connected!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "よく通ったね"
+    },
+    {
+      "start": 9.52,
+      "end": 10.58,
+      "text": "Up throw!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "上投げできる"
+    }
+  ],
+  "full_text": "Stock! In this clean spacing, Into up air, Smash attack! Catches from up top! That connected! Up throw!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "空中城",
+      "corrected": "空中上",
+      "rule": "move name"
+    },
+    {
+      "segment_idx": 3,
+      "original": "スタッチ攻撃",
+      "corrected": "スマッシュ攻撃",
+      "rule": "misheard word"
+    }
+  ]
+}

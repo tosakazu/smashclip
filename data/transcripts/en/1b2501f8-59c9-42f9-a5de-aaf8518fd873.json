@@ -1,0 +1,25 @@
+{
+  "id": "1b2501f8-59c9-42f9-a5de-aaf8518fd873",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.54,
+      "text": "They've got the damage, but",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "火力はとってはいるんですが"
+    },
+    {
+      "start": 2.54,
+      "end": 4.86,
+      "text": "this situation",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "この展開"
+    }
+  ],
+  "full_text": "They've got the damage, but this situation",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

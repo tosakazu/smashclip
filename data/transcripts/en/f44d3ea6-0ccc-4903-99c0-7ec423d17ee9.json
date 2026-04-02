@@ -1,0 +1,86 @@
+{
+  "id": "f44d3ea6-0ccc-4903-99c0-7ec423d17ee9",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.16,
+      "text": "That's the key - setting it up and reading the mixup!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "作り出して読み合いするのが一番ですね"
+    },
+    {
+      "start": 2.16,
+      "end": 4.64,
+      "text": "No DI or SDI?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ベク変ずらしから抜け目ですか?"
+    },
+    {
+      "start": 4.8,
+      "end": 5.02,
+      "text": "Yeah",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そうですね"
+    },
+    {
+      "start": 5.02,
+      "end": 7.22,
+      "text": "No DI and that's a stock!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ベク変入れてないとおそらく撃墜しましたね"
+    },
+    {
+      "start": 7.22,
+      "end": 8.1,
+      "text": "That was close!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "あぶないか"
+    },
+    {
+      "start": 8.1,
+      "end": 8.88,
+      "text": "Jab, jab, jab",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "弱弱弱"
+    },
+    {
+      "start": 8.88,
+      "end": 9.98,
+      "text": "Didn't land the full punch",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "拳半端取らなかった"
+    },
+    {
+      "start": 9.98,
+      "end": 12.7,
+      "text": "Tornado for the KO!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "竜巻でなんと撃墜"
+    }
+  ],
+  "full_text": "That's the key - setting it up and reading the mixup! No DI or SDI? Yeah No DI and that's a stock! That was close! Jab, jab, jab Didn't land the full punch Tornado for the KO!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "撃ちずらしから抜き目",
+      "corrected": "ベク変ずらしから抜け目",
+      "rule": "smash term: 撃ちずらし→ベク変ずらし"
+    },
+    {
+      "segment_idx": 3,
+      "original": "撃ち入れてないと",
+      "corrected": "ベク変入れてないと",
+      "rule": "smash term: 撃ち→ベク変"
+    }
+  ]
+}

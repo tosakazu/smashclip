@@ -1,0 +1,39 @@
+{
+  "id": "07396dea-5766-4bfc-89ff-60aca79609e3",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.7,
+      "text": "これ、勘がね、爆発しそうなイメージなんですけど、そうでもないですね",
+      "language": "ja"
+    },
+    {
+      "start": 4.7,
+      "end": 7.0,
+      "text": "上強から眠るー!",
+      "language": "ja"
+    },
+    {
+      "start": 7.8,
+      "end": 8.36,
+      "text": "撃墜",
+      "language": "ja"
+    }
+  ],
+  "full_text": "これ、勘がね、爆発しそうなイメージなんですけど、そうでもないですね 上強から眠るー! 撃墜",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "うえ、今日から眠れー!",
+      "corrected": "上強から眠るー!",
+      "rule": "Kanji homophone correction (今日から眠れ → 上強から眠る)"
+    },
+    {
+      "segment_idx": 2,
+      "original": "げっせい",
+      "corrected": "撃墜",
+      "rule": "Kanji homophone correction (げっせい → 撃墜)"
+    }
+  ]
+}

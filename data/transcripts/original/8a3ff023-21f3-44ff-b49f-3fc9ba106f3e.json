@@ -1,0 +1,55 @@
+{
+  "id": "8a3ff023-21f3-44ff-b49f-3fc9ba106f3e",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.88,
+      "text": "かなり動かしづらい状況",
+      "language": "ja"
+    },
+    {
+      "start": 0.88,
+      "end": 3.28,
+      "text": "ジャンプ横B投撃から対空",
+      "language": "ja"
+    },
+    {
+      "start": 3.28,
+      "end": 5.74,
+      "text": "上B空中して追いかけに来たところ",
+      "language": "ja"
+    },
+    {
+      "start": 5.74,
+      "end": 6.8,
+      "text": "即座にテシも反応",
+      "language": "ja"
+    },
+    {
+      "start": 6.8,
+      "end": 8.8,
+      "text": "素晴らしいニュートラル回避",
+      "language": "ja"
+    },
+    {
+      "start": 8.8,
+      "end": 10.42,
+      "text": "さらには空中前上がりも通した",
+      "language": "ja"
+    },
+    {
+      "start": 10.42,
+      "end": 13.66,
+      "text": "回避上がり下スマッシュ",
+      "language": "ja"
+    }
+  ],
+  "full_text": "かなり動かしづらい状況 ジャンプ横B投撃から対空 上B空中して追いかけに来たところ 即座にテシも反応 素晴らしいニュートラル回避 さらには空中前上がりも通した 回避上がり下スマッシュ",
+  "detected_language": "ja",
+  "corrections": [
+    "横尾→横B (side special, お→B misheard)",
+    "テシモ→テシも (Te-sHi player name + particle も)",
+    "ニュータル→ニュートラル (neutral, missing ト)",
+    "シャスマッシュ→下スマッシュ (down smash, confirmed by metadata)"
+  ]
+}

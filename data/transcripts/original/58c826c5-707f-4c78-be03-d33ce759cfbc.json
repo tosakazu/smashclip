@@ -1,0 +1,27 @@
+{
+  "id": "58c826c5-707f-4c78-be03-d33ce759cfbc",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.42,
+      "text": "You're pushing them back off the stage gonna be able to get through here. No more wonder wings, though",
+      "language": "en"
+    },
+    {
+      "start": 3.64,
+      "end": 8.62,
+      "text": "It's making recovery a little harder. He's gonna go for the grenade recovery instead. It doesn't matter though down tilt",
+      "language": "en"
+    }
+  ],
+  "full_text": "You're pushing them back off the stage gonna be able to get through here. No more wonder wings, though It's making recovery a little harder. He's gonna go for the grenade recovery instead. It doesn't matter though down tilt",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "down till",
+      "corrected": "down tilt",
+      "rule": "move name"
+    }
+  ]
+}

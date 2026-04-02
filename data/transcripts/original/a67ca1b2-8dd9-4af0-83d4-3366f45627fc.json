@@ -1,0 +1,55 @@
+{
+  "id": "a67ca1b2-8dd9-4af0-83d4-3366f45627fc",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.8,
+      "text": "ここから逆転",
+      "language": "ja"
+    },
+    {
+      "start": 0.8,
+      "end": 3.58,
+      "text": "KENとしては早く決めきりたいでしょう",
+      "language": "ja"
+    },
+    {
+      "start": 3.58,
+      "end": 6.08,
+      "text": "空中前もまだ撃墜はしない",
+      "language": "ja"
+    },
+    {
+      "start": 6.08,
+      "end": 7.7,
+      "text": "深くまで追っていく",
+      "language": "ja"
+    },
+    {
+      "start": 7.7,
+      "end": 9.18,
+      "text": "この復帰阻止展開",
+      "language": "ja"
+    },
+    {
+      "start": 9.18,
+      "end": 10.12,
+      "text": "最後は空中前",
+      "language": "ja"
+    }
+  ],
+  "full_text": "ここから逆転 KENとしては早く決めきりたいでしょう 空中前もまだ撃墜はしない 深くまで追っていく この復帰阻止展開 最後は空中前",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "original": "剣としては",
+      "corrected": "KENとしては",
+      "reason": "プレイヤー名KEN"
+    },
+    {
+      "original": "空中城",
+      "corrected": "空中前",
+      "reason": "空中前攻撃（forward air）"
+    }
+  ]
+}

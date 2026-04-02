@@ -1,0 +1,27 @@
+{
+  "id": "7dfec6da-7fa7-4262-ad3f-59fc236d5c76",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.06,
+      "text": "at that percent with little to no reward and ends up just you know eating the f-air for it just like",
+      "language": "en"
+    },
+    {
+      "start": 5.06,
+      "end": 10.34,
+      "text": "that and here we are at even oh no never mind my god that was disgusting dude we're just",
+      "language": "en"
+    }
+  ],
+  "full_text": "at that percent with little to no reward and ends up just you know eating the f-air for it just like that and here we are at even oh no never mind my god that was disgusting dude we're just",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "the fb",
+      "corrected": "the f-air",
+      "rule": "smash term: fb→f-air (forward air)"
+    }
+  ]
+}

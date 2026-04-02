@@ -1,0 +1,158 @@
+{
+  "id": "2ebf23f7-5277-46fb-a859-fc9c5943b6c1",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.24,
+      "text": "Sephiroth - just throw out that up B and...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "神威って上B出しちゃえすれば出しちゃえさえすれば"
+    },
+    {
+      "start": 3.24,
+      "end": 5.46,
+      "text": "It's pretty hard to edgeguard from the side though...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "結構横から復帰阻止ができないからだから"
+    },
+    {
+      "start": 5.46,
+      "end": 9.68,
+      "text": "From the side, the invincible wings handle it well",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "横からの復帰阻止は無敵の翼で結構どうにかなるっていう"
+    },
+    {
+      "start": 9.68,
+      "end": 13.52,
+      "text": "Except from straight up, he can defend against most of it - that's his strength, but...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "真上以外はなんとかなるっていうのが結構神威の強みではあるんですけど"
+    },
+    {
+      "start": 13.52,
+      "end": 16.1,
+      "text": "If you rush in with up B invincibility...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "それに対して無敵判定の上Bで突っ込んじゃえば"
+    },
+    {
+      "start": 16.1,
+      "end": 17.98,
+      "text": "those wings don't matter",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "翼なんて関係ないよねっていう"
+    },
+    {
+      "start": 17.98,
+      "end": 21.22,
+      "text": "This really shows Game & Watch's edgeguard strength",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これ完全にゲーム&ウォッチの復帰阻止の強さを支えていますね"
+    },
+    {
+      "start": 21.22,
+      "end": 23.58,
+      "text": "If you have invincibility, I'm invincible too",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "お前が無敵なら俺も無敵になると"
+    },
+    {
+      "start": 23.58,
+      "end": 25.02,
+      "text": "Actually, I'm completely invincible end to end here",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "なんならこっち全身無敵ですからね"
+    },
+    {
+      "start": 25.02,
+      "end": 26.16,
+      "text": "The finish is dair?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "最後は空下?"
+    },
+    {
+      "start": 26.42,
+      "end": 28.18,
+      "text": "Meteor connects!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "メテオが刺さって"
+    },
+    {
+      "start": 30.0,
+      "end": 34.26,
+      "text": "Miiyya's edgeguard seals it at the end",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "最後もやはりこのミイヤーの復帰阻止が"
+    },
+    {
+      "start": 34.26,
+      "end": 34.7,
+      "text": "Yeah",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "はい"
+    },
+    {
+      "start": 34.7,
+      "end": 36.8,
+      "text": "takes the match",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "試合を決定できました"
+    },
+    {
+      "start": 36.8,
+      "end": 38.8,
+      "text": "Game count 3-1",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ゲームカウント3対1"
+    },
+    {
+      "start": 38.8,
+      "end": 43.18,
+      "text": "Impact Reijya 1 champion: Miiyya!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "第1回インパクトレジャー優勝はミイヤー"
+    },
+    {
+      "start": 43.18,
+      "end": 44.68,
+      "text": "Congratulations!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "おめでとうございます"
+    }
+  ],
+  "full_text": "Sephiroth - just throw out that up B and... It's pretty hard to edgeguard from the side though... From the side, the invincible wings handle it well Except from straight up, he can defend against most of it - that's his strength, but... If you rush in with up B invincibility... those wings don't matter This really shows Game & Watch's edgeguard strength If you have invincibility, I'm invincible too Actually, I'm completely invincible end to end here The finish is dair? Meteor connects! Miiyya's edgeguard seals it at the end Yeah takes the match Game count 3-1 Impact Reijya 1 champion: Miiyya! Congratulations!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 9,
+      "original": "最後はクエスト?",
+      "corrected": "最後は空下?",
+      "rule": "move name: クエスト→空下"
+    },
+    {
+      "segment_idx": 10,
+      "original": "ねえテオが刺さって",
+      "corrected": "メテオが刺さって",
+      "rule": "misheard: テオ→メテオ"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "2192a48c-d373-4057-b8d0-f10b82e4ff4b",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.46,
+      "text": "Diving right under the dash dance!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "前ステップ真下に潜り込みます"
+    },
+    {
+      "start": 3.46,
+      "end": 5.82,
+      "text": "Perfect counter to that spin!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "スピンの最ものアンチ"
+    },
+    {
+      "start": 5.82,
+      "end": 9.62,
+      "text": "That's it!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "くらいいい"
+    },
+    {
+      "start": 9.62,
+      "end": 10.6,
+      "text": "Nice swing!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "振りましたね"
+    }
+  ],
+  "full_text": "Diving right under the dash dance! Perfect counter to that spin! That's it! Nice swing!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

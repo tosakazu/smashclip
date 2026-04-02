@@ -1,0 +1,76 @@
+{
+  "id": "ffc23665-f4f4-46e5-9810-415053d1ea01",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.76,
+      "text": "Ledge getup is getting trapped immediately too",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "崖上がりももちろん即狩り"
+    },
+    {
+      "start": 1.76,
+      "end": 3.24,
+      "text": "Going in with aggressive pressure",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ガン詰めにしていく"
+    },
+    {
+      "start": 3.24,
+      "end": 5.02,
+      "text": "Forward attack after the confirm",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "確認してからの横攻撃"
+    },
+    {
+      "start": 5.02,
+      "end": 5.84,
+      "text": "Down smash",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "下スマッシュ"
+    },
+    {
+      "start": 5.84,
+      "end": 6.96,
+      "text": "One more time",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "もう一度"
+    },
+    {
+      "start": 6.96,
+      "end": 8.54,
+      "text": "This one has great duration",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これは持続が長い"
+    }
+  ],
+  "full_text": "Ledge getup is getting trapped immediately too Going in with aggressive pressure Forward attack after the confirm Down smash One more time This one has great duration",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "息上がりももちろん束縛",
+      "corrected": "崖上がりももちろん即狩り",
+      "rule": "misheard words (ledge getup punish)"
+    },
+    {
+      "segment_idx": 1,
+      "original": "眼中絡みにしていく",
+      "corrected": "ガン詰めにしていく",
+      "rule": "misheard word (pressure)"
+    },
+    {
+      "segment_idx": 2,
+      "original": "確認してからの出し攻撃",
+      "corrected": "確認してからの横攻撃",
+      "rule": "misheard word"
+    }
+  ]
+}

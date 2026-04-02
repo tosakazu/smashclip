@@ -1,0 +1,38 @@
+{
+  "id": "8730f1fb-bbdf-4018-82d9-5f285fc3c69a",
+  "segments": [
+    {
+      "start": 0.66,
+      "end": 2.82,
+      "text": "Looking to land the KO, but Kyonlink",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "とりあえず撃墜を通したいがキョンリンク"
+    },
+    {
+      "start": 2.82,
+      "end": 6.36,
+      "text": "Get that fair through!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空前を通してあげて"
+    }
+  ],
+  "full_text": "Looking to land the KO, but Kyonlink Get that fair through!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "激戦に通したいが",
+      "corrected": "撃墜を通したいが",
+      "rule": "kanji homophone (激戦→撃墜)"
+    },
+    {
+      "segment_idx": 1,
+      "original": "クーマへ通してあげて",
+      "corrected": "空前を通してあげて",
+      "rule": "move name (クーマ→空前)"
+    }
+  ]
+}

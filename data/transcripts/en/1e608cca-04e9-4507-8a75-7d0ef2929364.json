@@ -1,0 +1,57 @@
+{
+  "id": "1e608cca-04e9-4507-8a75-7d0ef2929364",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.96,
+      "text": "Keeps the offense rolling with those mix-ups!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "混ぜしながら浮かした展開そのまま火力を伸ばす"
+    },
+    {
+      "start": 2.96,
+      "end": 6.28,
+      "text": "And goes for the edgeguard!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そして復帰阻止に回されて追いかけた"
+    },
+    {
+      "start": 6.28,
+      "end": 10.16,
+      "text": "Doesn't let that dodge out and takes the punish!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "回り込み回避もしっかりと許さず取ってくる"
+    },
+    {
+      "start": 10.16,
+      "end": 11.62,
+      "text": "That completely whiffed!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これマジで当たらんかった"
+    },
+    {
+      "start": 11.62,
+      "end": 14.32,
+      "text": "And that aerial takes the stock!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そして空中攻撃このまま撃墜に至っている"
+    },
+    {
+      "start": 14.32,
+      "end": 16.64,
+      "text": "Incredibly tight!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "難しかったな"
+    }
+  ],
+  "full_text": "Keeps the offense rolling with those mix-ups! And goes for the edgeguard! Doesn't let that dodge out and takes the punish! That completely whiffed! And that aerial takes the stock! Incredibly tight!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

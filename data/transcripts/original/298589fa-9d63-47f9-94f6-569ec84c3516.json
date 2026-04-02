@@ -1,0 +1,27 @@
+{
+  "id": "298589fa-9d63-47f9-94f6-569ec84c3516",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.68,
+      "text": "危ないもうなんかシュッていう音が出る度に体が怖がっちゃいますよね",
+      "language": "ja"
+    },
+    {
+      "start": 3.68,
+      "end": 7.44,
+      "text": "わかるわこれーしかも今横強を置いてたのに",
+      "language": "ja"
+    }
+  ],
+  "full_text": "危ないもうなんかシュッていう音が出る度に体が怖がっちゃいますよね わかるわこれーしかも今横強を置いてたのに",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "横胸",
+      "corrected": "横強",
+      "rule": "kanji homophone: 横胸→横強"
+    }
+  ]
+}

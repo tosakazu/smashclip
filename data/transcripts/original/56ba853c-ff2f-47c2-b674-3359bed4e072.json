@@ -1,0 +1,68 @@
+{
+  "id": "56ba853c-ff2f-47c2-b674-3359bed4e072",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "¡Él es vener! ¡Él es muy vener!",
+      "language": "es"
+    },
+    {
+      "start": 2.0,
+      "end": 3.0,
+      "text": "¡Él es muy vener!",
+      "language": "es"
+    },
+    {
+      "start": 3.0,
+      "end": 4.0,
+      "text": "¡Él hace cualquier cosa!",
+      "language": "es"
+    },
+    {
+      "start": 4.0,
+      "end": 6.0,
+      "text": "Está haciendo no sé qué.",
+      "language": "es"
+    },
+    {
+      "start": 6.0,
+      "end": 7.0,
+      "text": "Bueno.",
+      "language": "es"
+    },
+    {
+      "start": 7.0,
+      "end": 8.0,
+      "text": "¿Qué hace Ani?",
+      "language": "es"
+    },
+    {
+      "start": 8.0,
+      "end": 12.0,
+      "text": "Ojo, cuidado, porque aquí esto puede ser buena situación para el Cazuya, que va a salir con el downer.",
+      "language": "es"
+    },
+    {
+      "start": 12.0,
+      "end": 15.0,
+      "text": "Creo que Taki Spargo podía haber intentado encontrar algo, pero no.",
+      "language": "es"
+    },
+    {
+      "start": 15.0,
+      "end": 17.0,
+      "text": "Decide salir otra vez con el Fele a buscar el downer.",
+      "language": "es"
+    },
+    {
+      "start": 17.0,
+      "end": 18.0,
+      "text": "Y el López más, que va a...",
+      "language": "es"
+    }
+  ],
+  "full_text": "¡Él es vener! ¡Él es muy vener! ¡Él es muy vener! ¡Él hace cualquier cosa! Está haciendo no sé qué. Bueno. ¿Qué hace Ani? Ojo, cuidado, porque aquí esto puede ser buena situación para el Cazuya, que va a salir con el downer. Creo que Taki Spargo podía haber intentado encontrar algo, pero no. Decide salir otra vez con el Fele a buscar el downer. Y el López más, que va a...",
+  "detected_language": "es",
+  "corrections": []
+}

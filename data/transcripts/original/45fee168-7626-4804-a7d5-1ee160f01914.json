@@ -1,0 +1,51 @@
+{
+  "id": "45fee168-7626-4804-a7d5-1ee160f01914",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.6,
+      "text": "アコーラスティーブ",
+      "language": "ja"
+    },
+    {
+      "start": 0.6,
+      "end": 2.54,
+      "text": "Bホールドきっちり",
+      "language": "ja"
+    },
+    {
+      "start": 2.54,
+      "end": 3.46,
+      "text": "上スマッシュですと",
+      "language": "ja"
+    },
+    {
+      "start": 3.46,
+      "end": 9.72,
+      "text": "アシモリュウが対策を積んでいるにしても",
+      "language": "ja"
+    },
+    {
+      "start": 9.72,
+      "end": 12.9,
+      "text": "じゃあアコーラスティーブがリュウ対策を積んでないかと言われると",
+      "language": "ja"
+    },
+    {
+      "start": 12.9,
+      "end": 13.16,
+      "text": "そう",
+      "language": "ja"
+    }
+  ],
+  "full_text": "アコーラスティーブ Bホールドきっちり 上スマッシュですと アシモリュウが対策を積んでいるにしても じゃあアコーラスティーブがリュウ対策を積んでないかと言われると そう",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "ビホールド",
+      "corrected": "Bホールド",
+      "rule": "misheard game term (B button hold)"
+    }
+  ]
+}

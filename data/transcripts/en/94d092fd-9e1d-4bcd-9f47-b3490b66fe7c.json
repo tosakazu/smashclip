@@ -1,0 +1,70 @@
+{
+  "id": "94d092fd-9e1d-4bcd-9f47-b3490b66fe7c",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.78,
+      "text": "Clean dair escape switches up the positioning!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空下暴れがうまくラインを入れ替えてくれる"
+    },
+    {
+      "start": 2.78,
+      "end": 5.32,
+      "text": "He's setting up the dair situation, but...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空中下を匂わせる展開ですが"
+    },
+    {
+      "start": 5.32,
+      "end": 6.36,
+      "text": "Mild H.O doesn't phase them",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "マイルドなH.O動じない"
+    },
+    {
+      "start": 6.36,
+      "end": 8.28,
+      "text": "Is this the KO?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これは撃墜か"
+    },
+    {
+      "start": 8.28,
+      "end": 9.6,
+      "text": "That's the KO!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "撃墜だ"
+    },
+    {
+      "start": 9.6,
+      "end": 11.42,
+      "text": "Up special!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "上必殺技を"
+    }
+  ],
+  "full_text": "Clean dair escape switches up the positioning! He's setting up the dair situation, but... Mild H.O doesn't phase them Is this the KO? That's the KO! Up special!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "空中下アワレが",
+      "corrected": "空下暴れが",
+      "rule": "move abbreviation + kanji"
+    },
+    {
+      "segment_idx": 2,
+      "original": "マイルドな影響をどうしない",
+      "corrected": "マイルドなH.O動じない",
+      "rule": "player name + misheard word"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "id": "1376aa33-c8d1-46b8-9dba-f59166b25b4f",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.26,
+      "text": "多くの技が撃墜帯になったパーセント",
+      "language": "ja"
+    },
+    {
+      "start": 2.26,
+      "end": 6.5,
+      "text": "上強を当てたいダッシュに対して",
+      "language": "ja"
+    },
+    {
+      "start": 6.5,
+      "end": 9.48,
+      "text": "空後攻撃ダッシュガードが出ないフレームにしっかり合わせている",
+      "language": "ja"
+    },
+    {
+      "start": 9.48,
+      "end": 10.54,
+      "text": "釣っている",
+      "language": "ja"
+    },
+    {
+      "start": 10.54,
+      "end": 12.2,
+      "text": "もう一つ上",
+      "language": "ja"
+    }
+  ],
+  "full_text": "多くの技が撃墜帯になったパーセント 上強を当てたいダッシュに対して 空後攻撃ダッシュガードが出ないフレームにしっかり合わせている 釣っている もう一つ上",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "オークの技が撃墜体になったリーチ",
+      "corrected": "多くの技が撃墜帯になったパーセント",
+      "rule": "Whisper mishearing: オーク→多く; 撃墜体→撃墜帯; リーチ→パーセント"
+    },
+    {
+      "segment_idx": 2,
+      "original": "空中白攻撃ダッシュガードが出ないフレームにしっかり合わせている",
+      "corrected": "空後攻撃ダッシュガードが出ないフレームにしっかり合わせている",
+      "rule": "Move abbreviation: 空中白→空後 (back air)"
+    }
+  ]
+}

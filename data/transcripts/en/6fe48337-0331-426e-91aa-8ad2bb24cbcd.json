@@ -1,0 +1,39 @@
+{
+  "id": "6fe48337-0331-426e-91aa-8ad2bb24cbcd",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.14,
+      "text": "Incredible!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "素晴らしいです"
+    },
+    {
+      "start": 1.14,
+      "end": 3.24,
+      "text": "That's probably forbidden!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "禁じ手ですよ多分"
+    },
+    {
+      "start": 3.24,
+      "end": 5.84,
+      "text": "I was deliberately positioned in front of the Phantom!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "あえてファントムの前にいたんです"
+    }
+  ],
+  "full_text": "Incredible! That's probably forbidden! I was deliberately positioned in front of the Phantom!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_index": 1,
+      "original": "金銀ですよ多分",
+      "corrected": "禁じ手ですよ多分"
+    }
+  ]
+}

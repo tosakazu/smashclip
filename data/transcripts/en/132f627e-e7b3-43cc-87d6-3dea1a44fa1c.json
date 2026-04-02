@@ -1,0 +1,82 @@
+{
+  "id": "132f627e-e7b3-43cc-87d6-3dea1a44fa1c",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.4,
+      "text": "The dair spam shuts down the player's KO mixups",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "選手の撃墜択を通させてくれない空下暴れ"
+    },
+    {
+      "start": 2.4,
+      "end": 3.78,
+      "text": "Bair mashing",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空後暴れ"
+    },
+    {
+      "start": 3.78,
+      "end": 4.82,
+      "text": "Aggressive option",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "強気な択"
+    },
+    {
+      "start": 4.82,
+      "end": 7.6,
+      "text": "And here comes the nair as expected",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあやはり空N"
+    },
+    {
+      "start": 7.6,
+      "end": 9.32,
+      "text": "If the second hit connects too, that's really valuable",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "2段目も当たればかなりおいしい"
+    },
+    {
+      "start": 9.32,
+      "end": 11.1,
+      "text": "Up throw is the KO here",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここは上投げで撃墜ですね"
+    }
+  ],
+  "full_text": "The dair spam shuts down the player's KO mixups Bair mashing Aggressive option And here comes the nair as expected If the second hit connects too, that's really valuable Up throw is the KO here",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "選手の撃墜タクを通させてくれない空中下暴れ",
+      "corrected": "選手の撃墜択を通させてくれない空下暴れ",
+      "rule": "Kanji/abbreviation: タク→択, 空中下→空下"
+    },
+    {
+      "segment_idx": 1,
+      "original": "空中後ろ暴れ",
+      "corrected": "空後暴れ",
+      "rule": "Move abbreviation: 空中後ろ→空後"
+    },
+    {
+      "segment_idx": 2,
+      "original": "強気なタク",
+      "corrected": "強気な択",
+      "rule": "Kanji: タク→択"
+    },
+    {
+      "segment_idx": 3,
+      "original": "さあやはり空中ニュートラル",
+      "corrected": "さあやはり空N",
+      "rule": "Move abbreviation: 空中ニュートラル→空N"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "30537ae5-7388-43ad-9b48-5429935586cf",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.5,
+      "text": "We'll see.",
+      "language": "en"
+    },
+    {
+      "start": 0.5,
+      "end": 2.0,
+      "text": "Yeah, you'll take those upairs, but...",
+      "language": "en"
+    },
+    {
+      "start": 3.0,
+      "end": 4.0,
+      "text": "Offstage now, yeah.",
+      "language": "en"
+    },
+    {
+      "start": 4.7,
+      "end": 5.5,
+      "text": "Just gonna get hit.",
+      "language": "en"
+    },
+    {
+      "start": 5.5,
+      "end": 6.5,
+      "text": "Ooh!",
+      "language": "en"
+    },
+    {
+      "start": 6.5,
+      "end": 7.5,
+      "text": "Good airdodge.",
+      "language": "en"
+    },
+    {
+      "start": 9.5,
+      "end": 10.5,
+      "text": "That was like the...",
+      "language": "en"
+    }
+  ],
+  "full_text": "We'll see. Yeah, you'll take those upairs, but... Offstage now, yeah. Just gonna get hit. Ooh! Good airdodge. That was like the...",
+  "detected_language": "en",
+  "corrections": []
+}

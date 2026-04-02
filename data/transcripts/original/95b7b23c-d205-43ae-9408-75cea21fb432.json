@@ -1,0 +1,69 @@
+{
+  "id": "95b7b23c-d205-43ae-9408-75cea21fb432",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.6,
+      "text": "そこまで飛ばないですからね",
+      "language": "ja"
+    },
+    {
+      "start": 1.6,
+      "end": 2.84,
+      "text": "思ったよりかは",
+      "language": "ja"
+    },
+    {
+      "start": 2.84,
+      "end": 3.3,
+      "text": "なんか",
+      "language": "ja"
+    },
+    {
+      "start": 3.3,
+      "end": 4.24,
+      "text": "飛ばす技として",
+      "language": "ja"
+    },
+    {
+      "start": 4.24,
+      "end": 7.26,
+      "text": "なんか70ぐらいから死ぬような印象がある",
+      "language": "ja"
+    },
+    {
+      "start": 7.26,
+      "end": 7.94,
+      "text": "あの回転切り",
+      "language": "ja"
+    },
+    {
+      "start": 7.94,
+      "end": 9.4,
+      "text": "あ、うまいなそれ",
+      "language": "ja"
+    },
+    {
+      "start": 9.4,
+      "end": 10.92,
+      "text": "これはもう帰れない",
+      "language": "ja"
+    }
+  ],
+  "full_text": "そこまで飛ばないですからね 思ったよりかは なんか 飛ばす技として なんか70ぐらいから死ぬような印象がある あの回転切り あ、うまいなそれ これはもう帰れない",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 3,
+      "original": "詳しい技として",
+      "corrected": "飛ばす技として",
+      "rule": "misheard word"
+    },
+    {
+      "segment_idx": 5,
+      "original": "回転ギリ",
+      "corrected": "回転切り",
+      "rule": "katakana→kanji (ギリ→切り)"
+    }
+  ]
+}

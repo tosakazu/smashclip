@@ -1,0 +1,70 @@
+{
+  "id": "8a3ff023-21f3-44ff-b49f-3fc9ba106f3e",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.88,
+      "text": "Incredibly difficult situation",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "かなり動かしづらい状況"
+    },
+    {
+      "start": 0.88,
+      "end": 3.28,
+      "text": "Jump side B into anti-air",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ジャンプ横B投撃から対空"
+    },
+    {
+      "start": 3.28,
+      "end": 5.74,
+      "text": "Coming back with up B pursuit in the air",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "上B空中して追いかけに来たところ"
+    },
+    {
+      "start": 5.74,
+      "end": 6.8,
+      "text": "Teshi responds immediately!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "即座にテシも反応"
+    },
+    {
+      "start": 6.8,
+      "end": 8.8,
+      "text": "Fantastic neutral airdodge!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "素晴らしいニュートラル回避"
+    },
+    {
+      "start": 8.8,
+      "end": 10.42,
+      "text": "Gets the fair through on the rise!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さらには空中前上がりも通した"
+    },
+    {
+      "start": 10.42,
+      "end": 13.66,
+      "text": "Roll getup down smash!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "回避上がり下スマッシュ"
+    }
+  ],
+  "full_text": "Incredibly difficult situation Jump side B into anti-air Coming back with up B pursuit in the air Teshi responds immediately! Fantastic neutral airdodge! Gets the fair through on the rise! Roll getup down smash!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    "横尾→横B (side special, お→B misheard)",
+    "テシモ→テシも (Te-sHi player name + particle も)",
+    "ニュータル→ニュートラル (neutral, missing ト)",
+    "シャスマッシュ→下スマッシュ (down smash, confirmed by metadata)"
+  ]
+}

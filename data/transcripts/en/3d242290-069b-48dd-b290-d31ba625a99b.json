@@ -1,0 +1,41 @@
+{
+  "id": "3d242290-069b-48dd-b290-d31ba625a99b",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.6,
+      "text": "Buried by that aerial!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "埋まってしまって空中白攻撃"
+    },
+    {
+      "start": 2.6,
+      "end": 5.52,
+      "text": "Down behind at 135%!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあビハインド135%"
+    },
+    {
+      "start": 5.52,
+      "end": 8.4,
+      "text": "Can he make a comeback from here?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "こっからあるのかマイホドンキー"
+    },
+    {
+      "start": 8.4,
+      "end": 11.34,
+      "text": "From nair into weak air!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここは空中ニュートラルから弱空中"
+    }
+  ],
+  "full_text": "Buried by that aerial! Down behind at 135%! Can he make a comeback from here? From nair into weak air!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

@@ -1,0 +1,26 @@
+{
+  "id": "21cd3e36-a899-401f-842e-c6d022ab2cda",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.58,
+      "text": "A little surprising, but still though, despite that little flub,",
+      "language": "en"
+    },
+    {
+      "start": 4.0,
+      "end": 7.32,
+      "text": "Light is going to be able to find a lead once again.",
+      "language": "en"
+    },
+    {
+      "start": 8.56,
+      "end": 10.72,
+      "text": "Oh, all the way across the...",
+      "language": "en"
+    }
+  ],
+  "full_text": "A little surprising, but still though, despite that little flub, Light is going to be able to find a lead once again. Oh, all the way across the...",
+  "detected_language": "en",
+  "corrections": []
+}

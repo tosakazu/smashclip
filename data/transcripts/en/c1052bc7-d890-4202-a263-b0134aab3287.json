@@ -1,0 +1,94 @@
+{
+  "id": "c1052bc7-d890-4202-a263-b0134aab3287",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.74,
+      "text": "Everyone needs time",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "みんな時間が必要"
+    },
+    {
+      "start": 0.74,
+      "end": 1.92,
+      "text": "Yellow forward smash!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "黄色の横スマッシュ"
+    },
+    {
+      "start": 1.92,
+      "end": 3.28,
+      "text": "The knockback's shallow",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "吹っ飛ばしは若干浅いので"
+    },
+    {
+      "start": 3.28,
+      "end": 4.34,
+      "text": "Won't get the KO though",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "撃墜はされないが"
+    },
+    {
+      "start": 4.34,
+      "end": 6.44,
+      "text": "...back to the ledge",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "崖へ這い上がりでした"
+    },
+    {
+      "start": 6.44,
+      "end": 7.08,
+      "text": "Coming in for the finish!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "仕留めに来る"
+    },
+    {
+      "start": 7.08,
+      "end": 8.62,
+      "text": "Already at 197%!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "もう197%"
+    },
+    {
+      "start": 8.62,
+      "end": 10.06,
+      "text": "White Pikmin alone is enough but...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "白ピクミンのだけでも十分ですが"
+    },
+    {
+      "start": 10.06,
+      "end": 10.42,
+      "text": "Ooh!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "うっ"
+    }
+  ],
+  "full_text": "Everyone needs time Yellow forward smash! The knockback's shallow Won't get the KO though ...back to the ledge Coming in for the finish! Already at 197%! White Pikmin alone is enough but... Ooh!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "黄色の猫スマッシュ",
+      "corrected": "黄色の横スマッシュ",
+      "rule": "smash term"
+    },
+    {
+      "segment_idx": 4,
+      "original": "こう崖へバイク撃ちでした",
+      "corrected": "崖へ這い上がりでした",
+      "rule": "misheard phrase"
+    }
+  ]
+}

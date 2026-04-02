@@ -1,0 +1,65 @@
+{
+  "id": "3461e2c3-7bdb-42f6-b75b-43da95ffd961",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.62,
+      "text": "Yaubara's Samus sitting on an 80% lead!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "80%のリードを矢浦サムスが取っている状態"
+    },
+    {
+      "start": 2.62,
+      "end": 3.48,
+      "text": "And now the ledge...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そしてこの崖"
+    },
+    {
+      "start": 3.48,
+      "end": 5.32,
+      "text": "Can he make it back?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "帰れるんですか?"
+    },
+    {
+      "start": 5.54,
+      "end": 7.42,
+      "text": "Ness coming up from below with max delay",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ネスが下から最大ディレイで"
+    },
+    {
+      "start": 7.42,
+      "end": 8.82,
+      "text": "riding the bomb on the way in, but",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ボムを操作しながら帰ってくるが"
+    },
+    {
+      "start": 8.82,
+      "end": 9.94,
+      "text": "Charged Shot to the ledge getup!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "崖上がりにチャージショット"
+    },
+    {
+      "start": 9.94,
+      "end": 10.6,
+      "text": "Nice!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "しっかり"
+    }
+  ],
+  "full_text": "Yaubara's Samus sitting on an 80% lead! And now the ledge... Can he make it back? Ness coming up from below with max delay riding the bomb on the way in, but Charged Shot to the ledge getup! Nice!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

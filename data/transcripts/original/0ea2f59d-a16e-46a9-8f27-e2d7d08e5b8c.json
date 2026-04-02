@@ -1,0 +1,33 @@
+{
+  "id": "0ea2f59d-a16e-46a9-8f27-e2d7d08e5b8c",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.96,
+      "text": "You could get, like, two stock potential.",
+      "language": "en"
+    },
+    {
+      "start": 3.3,
+      "end": 4.26,
+      "text": "Okay, nice, nice.",
+      "language": "en"
+    },
+    {
+      "start": 4.28,
+      "end": 7.68,
+      "text": "I feel like the pace of the game, like, suits, like, um...",
+      "language": "en"
+    }
+  ],
+  "full_text": "You could get, like, two stock potential. Okay, nice, nice. I feel like the pace of the game, like, suits, like, um...",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "You could get, like, two-lot potential.",
+      "corrected": "You could get, like, two stock potential.",
+      "rule": "Smash terminology: two-lot→two stock"
+    }
+  ]
+}

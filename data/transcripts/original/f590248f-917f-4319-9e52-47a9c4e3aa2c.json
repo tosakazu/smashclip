@@ -1,0 +1,39 @@
+{
+  "id": "f590248f-917f-4319-9e52-47a9c4e3aa2c",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.4,
+      "text": "みたいな感じの思考が読み取れる",
+      "language": "ja"
+    },
+    {
+      "start": 3.4,
+      "end": 4.52,
+      "text": "空前",
+      "language": "ja"
+    },
+    {
+      "start": 4.52,
+      "end": 5.88,
+      "text": "空後",
+      "language": "ja"
+    },
+    {
+      "start": 5.88,
+      "end": 7.42,
+      "text": "根元に当たってきっちり",
+      "language": "ja"
+    }
+  ],
+  "full_text": "みたいな感じの思考が読み取れる 空前 空後 根元に当たってきっちり",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "空中しろ",
+      "corrected": "空後",
+      "rule": "misheard: 空中しろ→空後"
+    }
+  ]
+}

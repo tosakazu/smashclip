@@ -1,0 +1,27 @@
+{
+  "id": "c3fc93df-916f-4aac-9e5c-c28c2b08aaaf",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.76,
+      "text": "さあしかし",
+      "language": "ja"
+    },
+    {
+      "start": 1.76,
+      "end": 2.8,
+      "text": "ダッシュ攻撃",
+      "language": "ja"
+    }
+  ],
+  "full_text": "さあしかし ダッシュ攻撃",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "ダッシュコッキー",
+      "corrected": "ダッシュ攻撃",
+      "rule": "misheard move name"
+    }
+  ]
+}

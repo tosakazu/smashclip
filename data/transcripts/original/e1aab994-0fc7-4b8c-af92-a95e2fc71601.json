@@ -1,0 +1,117 @@
+{
+  "id": "e1aab994-0fc7-4b8c-af92-a95e2fc71601",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.58,
+      "text": "チャージショット見せているか",
+      "language": "ja"
+    },
+    {
+      "start": 1.58,
+      "end": 3.3,
+      "text": "後ろを取ったヨシドラ",
+      "language": "ja"
+    },
+    {
+      "start": 3.3,
+      "end": 5.92,
+      "text": "崖は飛び込むか",
+      "language": "ja"
+    },
+    {
+      "start": 5.92,
+      "end": 6.76,
+      "text": "我慢する",
+      "language": "ja"
+    },
+    {
+      "start": 6.76,
+      "end": 9.34,
+      "text": "卵タイミングをコントロールする",
+      "language": "ja"
+    },
+    {
+      "start": 9.34,
+      "end": 10.62,
+      "text": "掴みがかわす",
+      "language": "ja"
+    },
+    {
+      "start": 10.62,
+      "end": 12.58,
+      "text": "チャージショットを貯めるかそれとも",
+      "language": "ja"
+    },
+    {
+      "start": 12.58,
+      "end": 13.78,
+      "text": "前を詰めてくるヨシドラに対して",
+      "language": "ja"
+    },
+    {
+      "start": 13.78,
+      "end": 14.56,
+      "text": "おっと苦しい後ろ",
+      "language": "ja"
+    },
+    {
+      "start": 14.56,
+      "end": 15.32,
+      "text": "打点が高い",
+      "language": "ja"
+    },
+    {
+      "start": 15.32,
+      "end": 16.06,
+      "text": "どうだ空中前",
+      "language": "ja"
+    },
+    {
+      "start": 16.06,
+      "end": 17.36,
+      "text": "これは撃ついた",
+      "language": "ja"
+    },
+    {
+      "start": 17.36,
+      "end": 20.84,
+      "text": "最後の最後で飛び",
+      "language": "ja"
+    }
+  ],
+  "full_text": "チャージショット見せているか 後ろを取ったヨシドラ 崖は飛び込むか 我慢する 卵タイミングをコントロールする 掴みがかわす チャージショットを貯めるかそれとも 前を詰めてくるヨシドラに対して おっと苦しい後ろ 打点が高い どうだ空中前 これは撃ついた 最後の最後で飛び",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "吉澤",
+      "corrected": "ヨシドラ",
+      "rule": "player name (Yoshidora)"
+    },
+    {
+      "segment_idx": 7,
+      "original": "吉澤",
+      "corrected": "ヨシドラ",
+      "rule": "player name (Yoshidora)"
+    },
+    {
+      "segment_idx": 8,
+      "original": "苦しいしろ",
+      "corrected": "苦しい後ろ",
+      "rule": "misheard word (back air)"
+    },
+    {
+      "segment_idx": 10,
+      "original": "どうだくじまえ",
+      "corrected": "どうだ空中前",
+      "rule": "smash term (forward air)"
+    },
+    {
+      "segment_idx": 11,
+      "original": "これは激つい",
+      "corrected": "これは撃ついた",
+      "rule": "misheard word"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": "7ae76021-7854-44a2-a871-b624aeb5387d",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.78,
+      "text": "誰もが息を飲む",
+      "language": "ja"
+    },
+    {
+      "start": 2.78,
+      "end": 4.42,
+      "text": "いやー狙ってくる",
+      "language": "ja"
+    },
+    {
+      "start": 4.42,
+      "end": 5.44,
+      "text": "いやこれいくんじゃない",
+      "language": "ja"
+    },
+    {
+      "start": 5.44,
+      "end": 7.3,
+      "text": "いってしまう",
+      "language": "ja"
+    },
+    {
+      "start": 7.3,
+      "end": 9.38,
+      "text": "さあ",
+      "language": "ja"
+    }
+  ],
+  "full_text": "誰もが息を飲む いやー狙ってくる いやこれいくんじゃない いってしまう さあ",
+  "detected_language": "ja",
+  "corrections": []
+}

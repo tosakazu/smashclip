@@ -1,0 +1,57 @@
+{
+  "id": "2c827c53-3b6e-40c7-94f3-f82e82414d73",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.4,
+      "text": "さあ空後が",
+      "language": "ja"
+    },
+    {
+      "start": 3.4,
+      "end": 4.54,
+      "text": "刈られて",
+      "language": "ja"
+    },
+    {
+      "start": 4.54,
+      "end": 7.42,
+      "text": "嫌すぎる",
+      "language": "ja"
+    },
+    {
+      "start": 7.42,
+      "end": 8.58,
+      "text": "空後",
+      "language": "ja"
+    },
+    {
+      "start": 8.58,
+      "end": 11.12,
+      "text": "当たった",
+      "language": "ja"
+    },
+    {
+      "start": 11.12,
+      "end": 11.38,
+      "text": "シュー",
+      "language": "ja"
+    }
+  ],
+  "full_text": "さあ空後が 刈られて 嫌すぎる 空後 当たった シュー",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "口が",
+      "corrected": "空後が",
+      "rule": "misheard: 口→空後"
+    },
+    {
+      "segment_idx": 3,
+      "original": "空中白",
+      "corrected": "空後",
+      "rule": "move abbrev: 空中白→空後"
+    }
+  ]
+}

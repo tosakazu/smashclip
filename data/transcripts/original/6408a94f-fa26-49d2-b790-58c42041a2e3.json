@@ -1,0 +1,45 @@
+{
+  "id": "6408a94f-fa26-49d2-b790-58c42041a2e3",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.64,
+      "text": "確定はなしで見送って崖展開ですとこう言ってきました",
+      "language": "ja"
+    },
+    {
+      "start": 2.64,
+      "end": 7.8,
+      "text": "やはりソニック側で弱点の一つとして回避は早いんですけど",
+      "language": "ja"
+    },
+    {
+      "start": 7.8,
+      "end": 11.1,
+      "text": "横移動はスピンとか使っちゃうとそんなにないので",
+      "language": "ja"
+    },
+    {
+      "start": 11.1,
+      "end": 13.18,
+      "text": "着地狩りの展開に持っていかれると結構",
+      "language": "ja"
+    }
+  ],
+  "full_text": "確定はなしで見送って崖展開ですとこう言ってきました やはりソニック側で弱点の一つとして回避は早いんですけど 横移動はスピンとか使っちゃうとそんなにないので 着地狩りの展開に持っていかれると結構",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "賭け展開",
+      "corrected": "崖展開",
+      "rule": "kanji homophone (かけ→がけ)"
+    },
+    {
+      "segment_idx": 3,
+      "original": "着地側の展開",
+      "corrected": "着地狩りの展開",
+      "rule": "Smash term (着地狩り)"
+    }
+  ]
+}

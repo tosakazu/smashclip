@@ -1,0 +1,68 @@
+{
+  "id": "436def31-1924-42ee-adb5-18f3300a130b",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.24,
+      "text": "Still holding on from inside!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "内側からでもドラ右がまだ耐えています"
+    },
+    {
+      "start": 3.24,
+      "end": 5.54,
+      "text": "Fair mash connects!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空前暴れが通ります"
+    },
+    {
+      "start": 5.54,
+      "end": 6.62,
+      "text": "Flip! How's that?!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "フリップこれはどうだ"
+    },
+    {
+      "start": 6.62,
+      "end": 7.64,
+      "text": "Percent's high, but...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "パーセントが高いが"
+    },
+    {
+      "start": 7.64,
+      "end": 8.26,
+      "text": "That's the KO!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "撃墜だ"
+    }
+  ],
+  "full_text": "Still holding on from inside! Fair mash connects! Flip! How's that?! Percent's high, but... That's the KO!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "トライザー",
+      "corrected": "ドラ右",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 1,
+      "original": "口前",
+      "corrected": "空前",
+      "rule": "kanji homophone (move name)"
+    },
+    {
+      "segment_idx": 3,
+      "original": "アセント",
+      "corrected": "パーセント",
+      "rule": "misheard word"
+    }
+  ]
+}

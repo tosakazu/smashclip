@@ -1,0 +1,63 @@
+{
+  "id": "60a3060b-38e6-4414-bbf1-e703cb4211cd",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.52,
+      "text": "ステップを使って揺さぶって空中下からの展開",
+      "language": "ja"
+    },
+    {
+      "start": 2.52,
+      "end": 3.62,
+      "text": "ガードは盛り上がっている",
+      "language": "ja"
+    },
+    {
+      "start": 3.62,
+      "end": 4.86,
+      "text": "空中下はまだ大丈夫",
+      "language": "ja"
+    },
+    {
+      "start": 4.86,
+      "end": 7.74,
+      "text": "苦しいところをお互いにコーパーからチューパー",
+      "language": "ja"
+    },
+    {
+      "start": 7.74,
+      "end": 9.52,
+      "text": "ジャンプの一つを取ってみても",
+      "language": "ja"
+    },
+    {
+      "start": 9.52,
+      "end": 11.0,
+      "text": "撃墜に繋がる",
+      "language": "ja"
+    },
+    {
+      "start": 11.0,
+      "end": 12.6,
+      "text": "上スマッシュ",
+      "language": "ja"
+    },
+    {
+      "start": 12.6,
+      "end": 14.82,
+      "text": "ここで鳴り響いた",
+      "language": "ja"
+    }
+  ],
+  "full_text": "ステップを使って揺さぶって空中下からの展開 ガードは盛り上がっている 空中下はまだ大丈夫 苦しいところをお互いにコーパーからチューパー ジャンプの一つを取ってみても 撃墜に繋がる 上スマッシュ ここで鳴り響いた",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 5,
+      "original": "激戦と繋がる",
+      "corrected": "撃墜に繋がる",
+      "rule": "kanji homophone (撃墜)"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "id": "e29b5dff-f4cc-46f9-93e4-64d9d155b9d5",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.02,
+      "text": "前とDAの姿勢というかポーズが似てるから",
+      "language": "ja"
+    },
+    {
+      "start": 3.02,
+      "end": 3.8,
+      "text": "おっとこれは?",
+      "language": "ja"
+    },
+    {
+      "start": 4.4,
+      "end": 6.3,
+      "text": "逆に空Nうまく引かれて上に飛んで",
+      "language": "ja"
+    },
+    {
+      "start": 6.3,
+      "end": 7.84,
+      "text": "すごい良いベクトルだったんですが",
+      "language": "ja"
+    },
+    {
+      "start": 7.84,
+      "end": 8.94,
+      "text": "その場回避を見ている",
+      "language": "ja"
+    },
+    {
+      "start": 8.94,
+      "end": 10.14,
+      "text": "下投げから",
+      "language": "ja"
+    },
+    {
+      "start": 10.14,
+      "end": 12.72,
+      "text": "上強空上 ロボットの十八番",
+      "language": "ja"
+    }
+  ],
+  "full_text": "前とDAの姿勢というかポーズが似てるから おっとこれは? 逆に空Nうまく引かれて上に飛んで すごい良いベクトルだったんですが その場回避を見ている 下投げから 上強空上 ロボットの十八番",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "前とBAの姿勢",
+      "corrected": "前とDAの姿勢",
+      "rule": "move abbreviation: DA"
+    },
+    {
+      "segment_idx": 2,
+      "original": "逆中ニュートラル",
+      "corrected": "逆に空Nうまく",
+      "rule": "misheard: 空N(空中ニュートラル)"
+    },
+    {
+      "segment_idx": 4,
+      "original": "そのばかりを見ている",
+      "corrected": "その場回避を見ている",
+      "rule": "misheard: その場回避"
+    },
+    {
+      "segment_idx": 6,
+      "original": "上強空へロボットの電火の砲",
+      "corrected": "上強空上 ロボットの十八番",
+      "rule": "misheard: 空上, 十八番(おはこ)"
+    }
+  ]
+}

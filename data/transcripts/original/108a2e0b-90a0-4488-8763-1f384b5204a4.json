@@ -1,0 +1,39 @@
+{
+  "id": "108a2e0b-90a0-4488-8763-1f384b5204a4",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.94,
+      "text": "村人に対して有効です",
+      "language": "ja"
+    },
+    {
+      "start": 1.94,
+      "end": 5.46,
+      "text": "なのでかなり撃墜",
+      "language": "ja"
+    },
+    {
+      "start": 5.46,
+      "end": 6.44,
+      "text": "おっとこれ",
+      "language": "ja"
+    },
+    {
+      "start": 6.44,
+      "end": 8.24,
+      "text": "帰れないのか",
+      "language": "ja"
+    }
+  ],
+  "full_text": "村人に対して有効です なのでかなり撃墜 おっとこれ 帰れないのか",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "なのでかなり激推",
+      "corrected": "なのでかなり撃墜",
+      "rule": "Kanji homophone: 激推→撃墜"
+    }
+  ]
+}

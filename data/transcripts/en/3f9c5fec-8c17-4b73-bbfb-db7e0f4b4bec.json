@@ -1,0 +1,38 @@
+{
+  "id": "3f9c5fec-8c17-4b73-bbfb-db7e0f4b4bec",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.4,
+      "text": "Aggressive down B mash — bold choice right there",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "って言ったところに下B暴れ強気な 選択肢"
+    },
+    {
+      "start": 4.92,
+      "end": 7.8,
+      "text": "That's a ledge grab",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これは崖掴まれ"
+    }
+  ],
+  "full_text": "Aggressive down B mash — bold choice right there That's a ledge grab",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "下火あわれ",
+      "corrected": "下B暴れ",
+      "rule": "Smash terms: 下B (down special) + 暴れ (mashing)"
+    },
+    {
+      "segment_idx": 1,
+      "original": "だけつかまれ",
+      "corrected": "崖掴まれ",
+      "rule": "Smash term: 崖 (ledge) misheard as だけ"
+    }
+  ]
+}

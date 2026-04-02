@@ -1,0 +1,110 @@
+{
+  "id": "3085d0ca-963b-4bd8-b426-1967f1bc9b81",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "text": "You getting heated?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "君キレるか?"
+    },
+    {
+      "start": 1.0,
+      "end": 2.0,
+      "text": "No grab there",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "クシャン取らず"
+    },
+    {
+      "start": 2.0,
+      "end": 3.0,
+      "text": "Just right there",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "クゴン"
+    },
+    {
+      "start": 3.0,
+      "end": 5.0,
+      "text": "No, that's the jump whiff",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いや、ジャンプ空振り"
+    },
+    {
+      "start": 5.0,
+      "end": 6.0,
+      "text": "What's going on?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "どうする?"
+    },
+    {
+      "start": 6.0,
+      "end": 7.0,
+      "text": "No, this is—",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いや、これは"
+    },
+    {
+      "start": 7.0,
+      "end": 8.0,
+      "text": "And then—",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "まずは犬が"
+    },
+    {
+      "start": 8.0,
+      "end": 9.0,
+      "text": "Come on!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いやー"
+    },
+    {
+      "start": 9.0,
+      "end": 10.0,
+      "text": "With a whiff",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空振りで"
+    },
+    {
+      "start": 10.0,
+      "end": 11.0,
+      "text": "Come on!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いやー"
+    },
+    {
+      "start": 11.0,
+      "end": 12.0,
+      "text": "Corner to corner!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "コーカーホーカー"
+    }
+  ],
+  "full_text": "You getting heated? No grab there. Just right there. No, that's the jump whiff. What's going on? No, this is— And then— Come on! With a whiff. Come on! Corner to corner!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 3,
+      "original": "ジャンプキューバイ",
+      "corrected": "ジャンプ空振り",
+      "rule": "Whisper misrecognition"
+    },
+    {
+      "segment_idx": 8,
+      "original": "キューバイで",
+      "corrected": "空振りで",
+      "rule": "Whisper misrecognition"
+    }
+  ]
+}

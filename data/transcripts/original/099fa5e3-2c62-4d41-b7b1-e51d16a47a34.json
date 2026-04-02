@@ -1,0 +1,20 @@
+{
+  "id": "099fa5e3-2c62-4d41-b7b1-e51d16a47a34",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.04,
+      "text": "I'm not saying don't use the option, but also be careful.",
+      "language": "en"
+    },
+    {
+      "start": 4.04,
+      "end": 4.82,
+      "text": "Oh, dang.",
+      "language": "en"
+    }
+  ],
+  "full_text": "I'm not saying don't use the option, but also be careful. Oh, dang.",
+  "detected_language": "en",
+  "corrections": []
+}

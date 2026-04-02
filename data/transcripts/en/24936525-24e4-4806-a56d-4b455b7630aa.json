@@ -1,0 +1,33 @@
+{
+  "id": "24936525-24e4-4806-a56d-4b455b7630aa",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "He's got this!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "できる"
+    },
+    {
+      "start": 5.36,
+      "end": 7.36,
+      "text": "Up throw!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあ上投げで"
+    },
+    {
+      "start": 8.68,
+      "end": 10.68,
+      "text": "Nice dodge!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "うまーい回避見てる"
+    }
+  ],
+  "full_text": "He's got this! Up throw! Nice dodge!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

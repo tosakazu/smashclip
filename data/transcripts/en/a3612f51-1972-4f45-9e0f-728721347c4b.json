@@ -1,0 +1,52 @@
+{
+  "id": "a3612f51-1972-4f45-9e0f-728721347c4b",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.28,
+      "text": "Shields it perfectly by himself",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "きっちり缶を自分だけガードして"
+    },
+    {
+      "start": 3.28,
+      "end": 4.54,
+      "text": "Baits out Jigglypuff",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "プリンのポイント誘って"
+    },
+    {
+      "start": 4.54,
+      "end": 7.1,
+      "text": "Gets it with the nair!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空中ニュートラルでゲッツ"
+    },
+    {
+      "start": 7.1,
+      "end": 8.22,
+      "text": "Barely makes it!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここはなんとか"
+    }
+  ],
+  "full_text": "Shields it perfectly by himself Baits out Jigglypuff Gets it with the nair! Barely makes it!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "original": "カン",
+      "corrected": "缶",
+      "reason": "Duck Huntの缶（NB飛び道具）"
+    },
+    {
+      "original": "クルチューディザルでゲッツィ",
+      "corrected": "空中ニュートラルでゲッツ",
+      "reason": "空Nの聞き取りミス"
+    }
+  ]
+}

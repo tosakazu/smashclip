@@ -1,0 +1,45 @@
+{
+  "id": "90140e35-0609-46d7-beea-4ae609ffecf7",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.8,
+      "text": "もう当てた空中前スカってしまった",
+      "language": "ja"
+    },
+    {
+      "start": 1.8,
+      "end": 4.3,
+      "text": "これは冷静に空中に届かない",
+      "language": "ja"
+    },
+    {
+      "start": 4.3,
+      "end": 7.96,
+      "text": "さあ私の声も",
+      "language": "ja"
+    },
+    {
+      "start": 7.96,
+      "end": 9.86,
+      "text": "もはや響きに近くなっているんですが",
+      "language": "ja"
+    },
+    {
+      "start": 9.86,
+      "end": 11.46,
+      "text": "マイルドなH.O選手",
+      "language": "ja"
+    }
+  ],
+  "full_text": "もう当てた空中前スカってしまった これは冷静に空中に届かない さあ私の声も もはや響きに近くなっているんですが マイルドなH.O選手",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 4,
+      "original": "マイルナエイチグオー選手",
+      "corrected": "マイルドなH.O選手",
+      "rule": "player name"
+    }
+  ]
+}

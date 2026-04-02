@@ -1,0 +1,75 @@
+{
+  "id": "f4476ab5-c8ce-40f1-b5d8-f82c9da79f1b",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.58,
+      "text": "サムスというファイターちょっと重めだぞ",
+      "language": "ja"
+    },
+    {
+      "start": 1.58,
+      "end": 2.96,
+      "text": "はいパワードスーツしてるんだけど",
+      "language": "ja"
+    },
+    {
+      "start": 2.96,
+      "end": 4.7,
+      "text": "着地の展開",
+      "language": "ja"
+    },
+    {
+      "start": 4.7,
+      "end": 5.7,
+      "text": "ジリジリと",
+      "language": "ja"
+    },
+    {
+      "start": 5.7,
+      "end": 7.44,
+      "text": "接近拒否の空中ニュートラル",
+      "language": "ja"
+    },
+    {
+      "start": 7.44,
+      "end": 9.36,
+      "text": "おっと圧に負けたか",
+      "language": "ja"
+    },
+    {
+      "start": 9.36,
+      "end": 10.6,
+      "text": "上必殺技起きますが",
+      "language": "ja"
+    },
+    {
+      "start": 10.6,
+      "end": 10.74,
+      "text": "え?",
+      "language": "ja"
+    },
+    {
+      "start": 10.94,
+      "end": 11.1,
+      "text": "え?",
+      "language": "ja"
+    },
+    {
+      "start": 11.44,
+      "end": 12.26,
+      "text": "空後!",
+      "language": "ja"
+    }
+  ],
+  "full_text": "サムスというファイターちょっと重めだぞ はいパワードスーツしてるんだけど 着地の展開 ジリジリと 接近拒否の空中ニュートラル おっと圧に負けたか 上必殺技起きますが え? え? 空後!",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 9,
+      "original": "空中にしろ",
+      "corrected": "空後",
+      "rule": "misheard: 空中にしろ→空後"
+    }
+  ]
+}

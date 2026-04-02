@@ -1,0 +1,73 @@
+{
+  "id": "1b320b60-6d9b-4817-ac77-277f0b93c5f2",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.76,
+      "text": "Ignoring the back pikmin",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "後ろピクミンも無視して"
+    },
+    {
+      "start": 1.76,
+      "end": 3.28,
+      "text": "Going aggressive, going in hard!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "攻め入る攻め入るけん"
+    },
+    {
+      "start": 3.28,
+      "end": 4.54,
+      "text": "But it's purple pikmin, purple!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "しかし紫紫だぞ"
+    },
+    {
+      "start": 4.54,
+      "end": 5.46,
+      "text": "Burned the airdodge!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "回避を切った"
+    },
+    {
+      "start": 5.46,
+      "end": 6.5,
+      "text": "Once that airdodge is gone",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "回避を切ってしまうと"
+    },
+    {
+      "start": 6.5,
+      "end": 8.4,
+      "text": "The ledge gets tight, but",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "この崖がちょっと苦しかったが"
+    },
+    {
+      "start": 8.4,
+      "end": 9.58,
+      "text": "Works through it smoothly",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "うまく通していって"
+    },
+    {
+      "start": 9.58,
+      "end": 10.96,
+      "text": "And nails the up air!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空中上ちゃんと"
+    }
+  ],
+  "full_text": "Ignoring the back pikmin Going aggressive, going in hard! But it's purple pikmin, purple! Burned the airdodge! Once that airdodge is gone The ledge gets tight, but Works through it smoothly And nails the up air!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

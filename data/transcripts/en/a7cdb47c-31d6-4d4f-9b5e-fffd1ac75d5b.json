@@ -1,0 +1,33 @@
+{
+  "id": "a7cdb47c-31d6-4d4f-9b5e-fffd1ac75d5b",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.66,
+      "text": "Gets that bair!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空中後ろを見せる"
+    },
+    {
+      "start": 1.66,
+      "end": 2.44,
+      "text": "They dodge!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "避けたね"
+    },
+    {
+      "start": 2.44,
+      "end": 4.04,
+      "text": "But just a little...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ただここは少し"
+    }
+  ],
+  "full_text": "Gets that bair! They dodge! But just a little...",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

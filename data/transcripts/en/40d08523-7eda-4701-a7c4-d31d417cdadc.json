@@ -1,0 +1,65 @@
+{
+  "id": "40d08523-7eda-4701-a7c4-d31d417cdadc",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.9,
+      "text": "gets used a lot with Mach Punch",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "マッハパンチに採用されがちです"
+    },
+    {
+      "start": 1.9,
+      "end": 3.38,
+      "text": "so then",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "となると"
+    },
+    {
+      "start": 3.38,
+      "end": 4.4,
+      "text": "the projectiles though",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "飛び道具がですね"
+    },
+    {
+      "start": 4.4,
+      "end": 5.22,
+      "text": "oh but that's—",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "おっとこれは"
+    },
+    {
+      "start": 5.22,
+      "end": 6.82,
+      "text": "got 'em!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "げっついたね"
+    },
+    {
+      "start": 6.82,
+      "end": 8.02,
+      "text": "yeah",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そうだね"
+    },
+    {
+      "start": 8.02,
+      "end": 9.34,
+      "text": "lightweight",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "体重の軽い"
+    }
+  ],
+  "full_text": "gets used a lot with Mach Punch so then the projectiles though oh but that's— got 'em! yeah lightweight",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

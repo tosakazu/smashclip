@@ -1,0 +1,62 @@
+{
+  "id": "f7c1c43d-cdf0-4e37-9d7f-d7a63e50190a",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.0,
+      "text": "The minecart timed with that banana throw",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "バナナ投げのタイミングに合わせたトロッコは"
+    },
+    {
+      "start": 4.0,
+      "end": 6.62,
+      "text": "And cola's side has been dropping gradually",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "だんだんあcola側が落ちていけましたね"
+    },
+    {
+      "start": 6.62,
+      "end": 8.5,
+      "text": "Mining becoming more consistent now",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "採掘を安定してできるようになってきて"
+    },
+    {
+      "start": 8.5,
+      "end": 10.7,
+      "text": "Wall positioning coming through too",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "壁も立ち回りで"
+    },
+    {
+      "start": 10.7,
+      "end": 14.02,
+      "text": "You can see them gradually adapting better to their opponent's movements",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "だんだん相手の動きに対応してきているような印象を受けます"
+    }
+  ],
+  "full_text": "The minecart timed with that banana throw And cola's side has been dropping gradually Mining becoming more consistent now Wall positioning coming through too You can see them gradually adapting better to their opponent's movements",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "アコーラ側",
+      "corrected": "あcola側",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 4,
+      "original": "相手の角に対応",
+      "corrected": "相手の動きに対応",
+      "rule": "misheard"
+    }
+  ]
+}

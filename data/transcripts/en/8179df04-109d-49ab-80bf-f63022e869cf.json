@@ -1,0 +1,41 @@
+{
+  "id": "8179df04-109d-49ab-80bf-f63022e869cf",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.02,
+      "text": "Grab combo there!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "グーパンチが見えました"
+    },
+    {
+      "start": 1.02,
+      "end": 3.38,
+      "text": "5-stocked at this rate!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "このままかいかれよ5強"
+    },
+    {
+      "start": 3.38,
+      "end": 5.58,
+      "text": "Parry!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ジャストシールド"
+    },
+    {
+      "start": 5.58,
+      "end": 7.02,
+      "text": "Insane!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "うますぎる"
+    }
+  ],
+  "full_text": "Grab combo there! 5-stocked at this rate! Parry! Insane!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

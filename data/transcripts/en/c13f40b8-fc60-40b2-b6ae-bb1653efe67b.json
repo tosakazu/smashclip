@@ -1,0 +1,56 @@
+{
+  "id": "c13f40b8-fc60-40b2-b6ae-bb1653efe67b",
+  "segments": [
+    {
+      "start": 0.72,
+      "end": 2.9,
+      "text": "Forced to keep fighting",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "勝負をしなければいけない状況が続く"
+    },
+    {
+      "start": 2.9,
+      "end": 5.86,
+      "text": "Shield break with forward tilt!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ガードめくって横強で"
+    },
+    {
+      "start": 5.86,
+      "end": 8.62,
+      "text": "How's the ledge?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "崖はどうか"
+    },
+    {
+      "start": 8.62,
+      "end": 9.68,
+      "text": "Jump getup into",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ジャンプ上がりからの"
+    },
+    {
+      "start": 9.68,
+      "end": 11.42,
+      "text": "max speed bair!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "最速空中後ろで"
+    }
+  ],
+  "full_text": "Forced to keep fighting Shield break with forward tilt! How's the ledge? Jump getup into max speed bair!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 4,
+      "original": "最速空中射で",
+      "corrected": "最速空中後ろで",
+      "rule": "smash term"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "5dbd23f8-dac6-419a-b438-e5fd6a22bded",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.52,
+      "text": "もう一回",
+      "language": "ja"
+    },
+    {
+      "start": 0.52,
+      "end": 3.16,
+      "text": "このブーメランからブーメラン非常に強力です",
+      "language": "ja"
+    },
+    {
+      "start": 3.16,
+      "end": 6.38,
+      "text": "そして戻りブーメランもケアしたよくすまして",
+      "language": "ja"
+    },
+    {
+      "start": 6.38,
+      "end": 7.96,
+      "text": "そしてキョンと",
+      "language": "ja"
+    }
+  ],
+  "full_text": "もう一回 このブーメランからブーメラン非常に強力です そして戻りブーメランもケアしたよくすまして そしてキョンと",
+  "detected_language": "ja",
+  "corrections": []
+}

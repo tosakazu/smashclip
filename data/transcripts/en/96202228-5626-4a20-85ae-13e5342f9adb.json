@@ -1,0 +1,75 @@
+{
+  "id": "96202228-5626-4a20-85ae-13e5342f9adb",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.7,
+      "text": "Nobody likes waiting. Let's take it a step further. Nobody likes waiting for anything.",
+      "language": "en"
+    },
+    {
+      "start": 3.86,
+      "end": 5.14,
+      "text": "Ooh, that's the...",
+      "language": "en"
+    },
+    {
+      "start": 5.14,
+      "end": 5.32,
+      "text": "Oh!",
+      "language": "en"
+    },
+    {
+      "start": 5.44,
+      "end": 5.76,
+      "text": "Spiked him.",
+      "language": "en"
+    },
+    {
+      "start": 5.96,
+      "end": 6.76,
+      "text": "Spiked you, bro.",
+      "language": "en"
+    },
+    {
+      "start": 7.26,
+      "end": 8.56,
+      "text": "Spiked you, bro. My bad.",
+      "language": "en"
+    },
+    {
+      "start": 8.64,
+      "end": 9.44,
+      "text": "Oh, the back air.",
+      "language": "en"
+    }
+  ],
+  "full_text": "Nobody likes waiting. Let's take it a step further. Nobody likes waiting for anything. Ooh, that's the... Oh! Spiked him. Spiked you, bro. Spiked you, bro. My bad. Oh, the back air.",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 3,
+      "original": "Speak up.",
+      "corrected": "Spiked him.",
+      "rule": "misheard word"
+    },
+    {
+      "segment_idx": 4,
+      "original": "Speak at you, bro.",
+      "corrected": "Spiked you, bro.",
+      "rule": "misheard word"
+    },
+    {
+      "segment_idx": 5,
+      "original": "Speak at you, bro. My bad.",
+      "corrected": "Spiked you, bro. My bad.",
+      "rule": "misheard word"
+    },
+    {
+      "segment_idx": 6,
+      "original": "Oh, the back there.",
+      "corrected": "Oh, the back air.",
+      "rule": "misheard word (there→air, move name)"
+    }
+  ]
+}

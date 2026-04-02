@@ -1,0 +1,62 @@
+{
+  "id": "6a6a8043-b8c1-4a43-b786-d822867c28fa",
+  "segments": [
+    {
+      "start": 1.0,
+      "end": 2.24,
+      "text": "それも待っているか",
+      "language": "ja"
+    },
+    {
+      "start": 2.24,
+      "end": 3.92,
+      "text": "しっかりかわして",
+      "language": "ja"
+    },
+    {
+      "start": 3.92,
+      "end": 4.96,
+      "text": "差し返しのような",
+      "language": "ja"
+    },
+    {
+      "start": 4.96,
+      "end": 5.5,
+      "text": "違っている投げ",
+      "language": "ja"
+    },
+    {
+      "start": 5.5,
+      "end": 5.76,
+      "text": "上",
+      "language": "ja"
+    },
+    {
+      "start": 5.76,
+      "end": 7.0,
+      "text": "クッション",
+      "language": "ja"
+    },
+    {
+      "start": 8.58,
+      "end": 9.22,
+      "text": "よっしゃー",
+      "language": "ja"
+    },
+    {
+      "start": 9.22,
+      "end": 9.74,
+      "text": "失敗した",
+      "language": "ja"
+    },
+    {
+      "start": 9.74,
+      "end": 10.1,
+      "text": "失敗した",
+      "language": "ja"
+    }
+  ],
+  "full_text": "それも待っているか しっかりかわして 差し返しのような 違っている投げ 上 クッション よっしゃー 失敗した 失敗した",
+  "detected_language": "ja",
+  "corrections": []
+}

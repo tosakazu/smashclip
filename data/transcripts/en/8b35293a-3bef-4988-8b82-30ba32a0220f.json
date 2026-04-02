@@ -1,0 +1,53 @@
+{
+  "id": "8b35293a-3bef-4988-8b82-30ba32a0220f",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.72,
+      "text": "Things got wild in a flash!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "一気に展開がわからなくなった"
+    },
+    {
+      "start": 1.72,
+      "end": 5.08,
+      "text": "Block situation's crazy!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ブロックがサイクオネシアル"
+    },
+    {
+      "start": 5.08,
+      "end": 6.48,
+      "text": "Did he predict this too?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これも折り込み済みか"
+    },
+    {
+      "start": 6.48,
+      "end": 9.0,
+      "text": "Both players heading for a trade! Mutual KO incoming!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "相打ちになって両者撃墜しそうな展開"
+    },
+    {
+      "start": 9.0,
+      "end": 11.16,
+      "text": "Bair!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空後"
+    }
+  ],
+  "full_text": "Things got wild in a flash! Block situation's crazy! Did he predict this too? Both players heading for a trade! Mutual KO incoming! Bair!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    "ゼミ→済み (already anticipated, Whisper phonetic error)",
+    "激戦→撃墜 (both could get killed, kanji homophone)",
+    "空中しろ→空後 (back air, 空中後ろ abbreviated)"
+  ]
+}

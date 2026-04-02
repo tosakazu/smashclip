@@ -1,0 +1,56 @@
+{
+  "id": "4552d37d-f2db-463c-a3ad-35348b16d6cc",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.9,
+      "text": "動いてもおかしくない",
+      "language": "ja"
+    },
+    {
+      "start": 0.9,
+      "end": 1.52,
+      "text": "崖",
+      "language": "ja"
+    },
+    {
+      "start": 1.52,
+      "end": 2.44,
+      "text": "狩り続けて",
+      "language": "ja"
+    },
+    {
+      "start": 2.44,
+      "end": 3.44,
+      "text": "転がり上がり",
+      "language": "ja"
+    },
+    {
+      "start": 3.44,
+      "end": 4.12,
+      "text": "回転切り反転",
+      "language": "ja"
+    },
+    {
+      "start": 4.12,
+      "end": 5.44,
+      "text": "横スマッシュ",
+      "language": "ja"
+    },
+    {
+      "start": 5.44,
+      "end": 7.02,
+      "text": "え?嘘だ",
+      "language": "ja"
+    },
+    {
+      "start": 7.02,
+      "end": 9.06,
+      "text": "え?先端じゃないのに",
+      "language": "ja"
+    }
+  ],
+  "full_text": "動いてもおかしくない 崖 狩り続けて 転がり上がり 回転切り反転 横スマッシュ え?嘘だ え?先端じゃないのに",
+  "detected_language": "ja",
+  "corrections": []
+}

@@ -1,0 +1,27 @@
+{
+  "id": "9cd6a191-c774-474a-85aa-7a0aaa36f5b3",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.48,
+      "text": "conscious of that C4 obviously right in the dead center of the platform there it's exploded now",
+      "language": "en"
+    },
+    {
+      "start": 6.48,
+      "end": 10.8,
+      "text": "but surely Chon was well aware of it it wasn't exactly a hidden one but her just knowing",
+      "language": "en"
+    }
+  ],
+  "full_text": "conscious of that C4 obviously right in the dead center of the platform there it's exploded now but surely Chon was well aware of it it wasn't exactly a hidden one but her just knowing",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "c4",
+      "corrected": "C4",
+      "rule": "move name (Snake C4)"
+    }
+  ]
+}

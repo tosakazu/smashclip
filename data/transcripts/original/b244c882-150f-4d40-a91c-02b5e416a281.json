@@ -1,0 +1,33 @@
+{
+  "id": "b244c882-150f-4d40-a91c-02b5e416a281",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.38,
+      "text": "マッパで決めていきました",
+      "language": "ja"
+    },
+    {
+      "start": 2.38,
+      "end": 6.24,
+      "text": "なるほどそして少し小突いたところは積極的に",
+      "language": "ja"
+    }
+  ],
+  "full_text": "マッパで決めていきました なるほどそして少し小突いたところは積極的に",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "マッパーで",
+      "corrected": "マッパで",
+      "rule": "minor transcription"
+    },
+    {
+      "segment_idx": 1,
+      "original": "小づいた",
+      "corrected": "小突いた",
+      "rule": "kanji (小突く)"
+    }
+  ]
+}

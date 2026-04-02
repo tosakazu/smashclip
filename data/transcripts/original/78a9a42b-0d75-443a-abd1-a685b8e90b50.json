@@ -1,0 +1,27 @@
+{
+  "id": "78a9a42b-0d75-443a-abd1-a685b8e90b50",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 7.12,
+      "text": "Oh, thank goodness that Mythra does a little jump before doing that, and now Leo does it again, just to get some damage.",
+      "language": "en"
+    },
+    {
+      "start": 7.4,
+      "end": 9.02,
+      "text": "Oh my god, where are you?",
+      "language": "en"
+    }
+  ],
+  "full_text": "Oh, thank goodness that Mythra does a little jump before doing that, and now Leo does it again, just to get some damage. Oh my god, where are you?",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "Mithra",
+      "corrected": "Mythra",
+      "rule": "character name"
+    }
+  ]
+}

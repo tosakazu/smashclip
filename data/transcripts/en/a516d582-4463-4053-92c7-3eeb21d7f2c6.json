@@ -1,0 +1,63 @@
+{
+  "id": "a516d582-4463-4053-92c7-3eeb21d7f2c6",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.5,
+      "text": "I think there might be spots where you'd want to tech out though",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "掴み抜け 選択して みたいなところはあると思うんですけど"
+    },
+    {
+      "start": 3.5,
+      "end": 4.7,
+      "text": "Alright, here comes Monkey Flip!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあ モンキーフリップ"
+    },
+    {
+      "start": 4.7,
+      "end": 5.7,
+      "text": "Can grab with the cape there",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "マントで掴めるところ"
+    },
+    {
+      "start": 5.7,
+      "end": 7.4,
+      "text": "Or on the ice platform, his shield's just way too fast",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "もしくは Snow乗れば ガードが速すぎるだけ"
+    },
+    {
+      "start": 7.4,
+      "end": 9.0,
+      "text": "Ah, I see",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ああ なるほど"
+    },
+    {
+      "start": 9.0,
+      "end": 11.0,
+      "text": "Up smash!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "この上 スマッシュ!"
+    }
+  ],
+  "full_text": "I think there might be spots where you'd want to tech out though Alright, here comes Monkey Flip! Can grab with the cape there Or on the ice platform, his shield's just way too fast Ah, I see Up smash!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "original": "スノー乗れば ガジェが速すぎるだけ",
+      "corrected": "Snow乗れば ガードが速すぎるだけ",
+      "reason": "プレイヤー名Snow、ガード反応の話"
+    }
+  ]
+}

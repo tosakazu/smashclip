@@ -1,0 +1,39 @@
+{
+  "id": "03fbc22c-ab4c-4cee-80c9-6af8309457f9",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.46,
+      "text": "ジャストシールド",
+      "language": "ja"
+    },
+    {
+      "start": 1.46,
+      "end": 5.04,
+      "text": "これそうですねレジがちょっと邪魔ですよね",
+      "language": "ja"
+    },
+    {
+      "start": 5.04,
+      "end": 7.54,
+      "text": "あーかんねえ",
+      "language": "ja"
+    },
+    {
+      "start": 7.54,
+      "end": 8.46,
+      "text": "まあ今のは",
+      "language": "ja"
+    }
+  ],
+  "full_text": "ジャストシールド これそうですねレジがちょっと邪魔ですよね あーかんねえ まあ今のは",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "ジャスティールド",
+      "corrected": "ジャストシールド",
+      "rule": "misheard term"
+    }
+  ]
+}

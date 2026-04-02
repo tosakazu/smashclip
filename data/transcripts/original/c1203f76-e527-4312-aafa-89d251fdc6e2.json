@@ -1,0 +1,81 @@
+{
+  "id": "c1203f76-e527-4312-aafa-89d251fdc6e2",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.34,
+      "text": "ジャストシールドから",
+      "language": "ja"
+    },
+    {
+      "start": 2.34,
+      "end": 3.16,
+      "text": "ダッシュ上強",
+      "language": "ja"
+    },
+    {
+      "start": 3.16,
+      "end": 7.5,
+      "text": "若干相手と離れる間合いの空中上だったんで",
+      "language": "ja"
+    },
+    {
+      "start": 7.5,
+      "end": 8.58,
+      "text": "ジャストシールド",
+      "language": "ja"
+    },
+    {
+      "start": 8.58,
+      "end": 10.2,
+      "text": "とっても反確が難しいという判断",
+      "language": "ja"
+    },
+    {
+      "start": 10.2,
+      "end": 12.48,
+      "text": "上強から空中上もう繋がらないか",
+      "language": "ja"
+    },
+    {
+      "start": 12.48,
+      "end": 14.02,
+      "text": "切り込んできた",
+      "language": "ja"
+    },
+    {
+      "start": 14.02,
+      "end": 16.92,
+      "text": "お互い撃墜%嫌なところ先に動く",
+      "language": "ja"
+    }
+  ],
+  "full_text": "ジャストシールドから ダッシュ上強 若干相手と離れる間合いの空中上だったんで ジャストシールド とっても反確が難しいという判断 上強から空中上もう繋がらないか 切り込んできた お互い撃墜%嫌なところ先に動く",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "ゾンビと離れる感性の空中ショー",
+      "corrected": "相手と離れる間合いの空中上",
+      "rule": "smash term + misheard"
+    },
+    {
+      "segment_idx": 4,
+      "original": "反覚が難しい",
+      "corrected": "反確が難しい",
+      "rule": "smash term"
+    },
+    {
+      "segment_idx": 5,
+      "original": "空中ショーもう繋がらないか",
+      "corrected": "空中上もう繋がらないか",
+      "rule": "smash term"
+    },
+    {
+      "segment_idx": 7,
+      "original": "ゼロ系嫌なところ",
+      "corrected": "撃墜%嫌なところ",
+      "rule": "misheard word"
+    }
+  ]
+}

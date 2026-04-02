@@ -1,0 +1,57 @@
+{
+  "id": "c8437792-1982-46e6-bd4d-4137c5c74f97",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.32,
+      "text": "引き空前",
+      "language": "ja"
+    },
+    {
+      "start": 1.32,
+      "end": 3.54,
+      "text": "上手く下必殺技も相殺している",
+      "language": "ja"
+    },
+    {
+      "start": 3.54,
+      "end": 5.36,
+      "text": "あと",
+      "language": "ja"
+    },
+    {
+      "start": 5.36,
+      "end": 7.78,
+      "text": "上必殺1段目はガードしたんですが",
+      "language": "ja"
+    },
+    {
+      "start": 7.78,
+      "end": 8.98,
+      "text": "ゲッコウガのジャンプが早すぎて",
+      "language": "ja"
+    },
+    {
+      "start": 8.98,
+      "end": 9.16,
+      "text": "え?",
+      "language": "ja"
+    }
+  ],
+  "full_text": "引き空前 上手く下必殺技も相殺している あと 上必殺1段目はガードしたんですが ゲッコウガのジャンプが早すぎて え?",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "引き食う前",
+      "corrected": "引き空前",
+      "rule": "smash term (空中前攻撃)"
+    },
+    {
+      "segment_idx": 4,
+      "original": "月光河",
+      "corrected": "ゲッコウガ",
+      "rule": "character name (Greninja)"
+    }
+  ]
+}

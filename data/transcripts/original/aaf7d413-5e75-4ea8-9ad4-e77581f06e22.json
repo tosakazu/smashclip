@@ -1,0 +1,57 @@
+{
+  "id": "aaf7d413-5e75-4ea8-9ad4-e77581f06e22",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.92,
+      "text": "飛び出してホムラで空中下",
+      "language": "ja"
+    },
+    {
+      "start": 1.92,
+      "end": 2.58,
+      "text": "当たれば撃墜",
+      "language": "ja"
+    },
+    {
+      "start": 2.58,
+      "end": 4.04,
+      "text": "破壊",
+      "language": "ja"
+    },
+    {
+      "start": 4.04,
+      "end": 5.4,
+      "text": "スマッシュ",
+      "language": "ja"
+    },
+    {
+      "start": 5.4,
+      "end": 6.82,
+      "text": "おっとこれも耐えています",
+      "language": "ja"
+    },
+    {
+      "start": 6.82,
+      "end": 8.42,
+      "text": "グッドタイミング",
+      "language": "ja"
+    },
+    {
+      "start": 8.42,
+      "end": 12.42,
+      "text": "弱でさすがに撃墜",
+      "language": "ja"
+    }
+  ],
+  "full_text": "飛び出してホムラで空中下 当たれば撃墜 破壊 スマッシュ おっとこれも耐えています グッドタイミング 弱でさすがに撃墜",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 5,
+      "original": "グッドDアイアン",
+      "corrected": "グッドタイミング",
+      "rule": "Mishearing: Dアイアン→タイミング"
+    }
+  ]
+}

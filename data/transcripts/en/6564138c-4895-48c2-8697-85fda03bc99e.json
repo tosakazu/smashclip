@@ -1,0 +1,33 @@
+{
+  "id": "6564138c-4895-48c2-8697-85fda03bc99e",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.12,
+      "text": "Right there, I thought he was in the back!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "後ろにいたんじゃないかというところで"
+    },
+    {
+      "start": 5.12,
+      "end": 6.0,
+      "text": "Out of shield grab from...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ガーキャン掴みから"
+    },
+    {
+      "start": 6.0,
+      "end": 8.8,
+      "text": "If he's using the bomb to shift the timing...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ボムを使ってタイミングずらすのであれば"
+    }
+  ],
+  "full_text": "Right there, I thought he was in the back! Out of shield grab from... If he's using the bomb to shift the timing...",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

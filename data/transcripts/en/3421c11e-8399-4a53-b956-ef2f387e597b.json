@@ -1,0 +1,48 @@
+{
+  "id": "3421c11e-8399-4a53-b956-ef2f387e597b",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.7,
+      "text": "Continuing to punish!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "とがめていきます"
+    },
+    {
+      "start": 0.7,
+      "end": 3.5,
+      "text": "Capitalizing!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "カートでとがめつつ"
+    },
+    {
+      "start": 3.5,
+      "end": 6.38,
+      "text": "Down tilt into up air!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "下強からの空上へ"
+    },
+    {
+      "start": 6.38,
+      "end": 8.18,
+      "text": "That's the game!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これは当たってのゲーム"
+    }
+  ],
+  "full_text": "Continuing to punish! Capitalizing! Down tilt into up air! That's the game!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "下京からの空中へ",
+      "corrected": "下強からの空上へ",
+      "rule": "kanji homophone: 下京→下強, 空中→空上"
+    }
+  ]
+}

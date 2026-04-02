@@ -1,0 +1,33 @@
+{
+  "id": "805293bb-0f8c-4a12-a067-f20dffc0e6a1",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.26,
+      "text": "Stock-for-stock,",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "一枚"
+    },
+    {
+      "start": 0.26,
+      "end": 4.62,
+      "text": "both players keeping the firepower restrained,",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "互いに若干火力は抑えめ"
+    },
+    {
+      "start": 4.62,
+      "end": 7.0,
+      "text": "and the match is starting at a slow pace, but",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "スローペースにゲームが始まりますが"
+    }
+  ],
+  "full_text": "Stock-for-stock, both players keeping the firepower restrained, and the match is starting at a slow pace, but",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

@@ -1,0 +1,26 @@
+{
+  "id": "b05f68a8-16c7-4215-b0f0-af9aee3a4843",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.22,
+      "text": "Değişikliği anlattık.",
+      "language": "tr"
+    },
+    {
+      "start": 1.22,
+      "end": 2.36,
+      "text": "İzlediğiniz için teşekkürler.",
+      "language": "tr"
+    },
+    {
+      "start": 3.36,
+      "end": 5.3,
+      "text": "İzlediğiniz için teşekkürler.",
+      "language": "tr"
+    }
+  ],
+  "full_text": "Değişikliği anlattık. İzlediğiniz için teşekkürler. İzlediğiniz için teşekkürler.",
+  "detected_language": "ja",
+  "corrections": []
+}

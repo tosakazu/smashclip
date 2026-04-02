@@ -1,0 +1,70 @@
+{
+  "id": "19a1513c-4cff-4de7-a34e-cf56e53b4935",
+  "segments": [
+    {
+      "start": 0.3,
+      "end": 2.0,
+      "text": "Parry into down tilt!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ジャストシールド下強を食らわし"
+    },
+    {
+      "start": 2.0,
+      "end": 3.02,
+      "text": "Down tilt connects!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "下強を食らわし"
+    },
+    {
+      "start": 3.02,
+      "end": 4.88,
+      "text": "Oh, but they don't fall off here!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "おっとここは落ちきらなかったが"
+    },
+    {
+      "start": 4.88,
+      "end": 7.0,
+      "text": "They're not securing the ledge advantage",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "崖展開を奪えていません"
+    },
+    {
+      "start": 7.0,
+      "end": 7.86,
+      "text": "Can they seal it?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "決めきれるか"
+    },
+    {
+      "start": 7.86,
+      "end": 9.18,
+      "text": "On the approach...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "差し込みの"
+    }
+  ],
+  "full_text": "Parry into down tilt! Down tilt connects! Oh, but they don't fall off here! They're not securing the ledge advantage Can they seal it? On the approach...",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "ジャスシールド下強を食い残し",
+      "corrected": "ジャストシールド下強を食らわし",
+      "rule": "Smash term: ジャスシールド→ジャストシールド; 食い残し→食らわし"
+    },
+    {
+      "segment_idx": 1,
+      "original": "下強を食い残し",
+      "corrected": "下強を食らわし",
+      "rule": "Garbled transcription: 食い残し→食らわし"
+    }
+  ]
+}

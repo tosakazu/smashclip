@@ -1,0 +1,41 @@
+{
+  "id": "0a3202fd-f345-4599-83f6-2241fcd4369d",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.6,
+      "text": "And recovers back to stage!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そしてライン回復する"
+    },
+    {
+      "start": 1.6,
+      "end": 5.74,
+      "text": "Mid-range",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "中間距離"
+    },
+    {
+      "start": 5.74,
+      "end": 7.36,
+      "text": "Let's go!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "やるわ"
+    },
+    {
+      "start": 7.36,
+      "end": 8.46,
+      "text": "Plants the spacing!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "どっしりと構えるか"
+    }
+  ],
+  "full_text": "And recovers back to stage! Mid-range Let's go! Plants the spacing!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

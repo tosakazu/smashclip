@@ -1,0 +1,32 @@
+{
+  "id": "82985a2a-9310-4938-9f04-c531f26eabd3",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 7.94,
+      "text": "There's the counterattack!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここは反撃出してきたか"
+    },
+    {
+      "start": 7.94,
+      "end": 9.18,
+      "text": "Alright!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあ"
+    }
+  ],
+  "full_text": "There's the counterattack! Alright!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "ここは反省出してきたか",
+      "corrected": "ここは反撃出してきたか",
+      "rule": "Whisper mishearing"
+    }
+  ]
+}

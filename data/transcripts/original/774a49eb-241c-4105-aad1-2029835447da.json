@@ -1,0 +1,45 @@
+{
+  "id": "774a49eb-241c-4105-aad1-2029835447da",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.42,
+      "text": "なんかここでスピンが通るが",
+      "language": "ja"
+    },
+    {
+      "start": 2.42,
+      "end": 4.74,
+      "text": "このラインであれば命に別状はない",
+      "language": "ja"
+    },
+    {
+      "start": 4.74,
+      "end": 6.14,
+      "text": "サイドだけ",
+      "language": "ja"
+    },
+    {
+      "start": 6.14,
+      "end": 7.7,
+      "text": "横スマッシュは大丈夫",
+      "language": "ja"
+    },
+    {
+      "start": 7.7,
+      "end": 9.44,
+      "text": "ならば横強が待っている",
+      "language": "ja"
+    }
+  ],
+  "full_text": "なんかここでスピンが通るが このラインであれば命に別状はない サイドだけ 横スマッシュは大丈夫 ならば横強が待っている",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "別情",
+      "corrected": "別状",
+      "rule": "kanji homophone"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "id": "85030873-bbdb-4d7a-8371-acd45ee400eb",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.8,
+      "text": "Up special whiffs, but the bair gets through!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "上必殺技通らずしかし空後が通っていく"
+    },
+    {
+      "start": 3.8,
+      "end": 5.34,
+      "text": "Forward tilt going in—",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "横強行して"
+    },
+    {
+      "start": 5.34,
+      "end": 10.8,
+      "text": "Bair's not connecting",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空後通らない"
+    },
+    {
+      "start": 10.8,
+      "end": 13.16,
+      "text": "That's the side special!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これは横必殺技"
+    },
+    {
+      "start": 13.16,
+      "end": 15.02,
+      "text": "Cart takes the KO right there!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そのままカートで一気に撃墜"
+    }
+  ],
+  "full_text": "Up special whiffs, but the bair gets through! Forward tilt going in— Bair's not connecting That's the side special! Cart takes the KO right there!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "空中白",
+      "corrected": "空後",
+      "rule": "move name (空中白→空後)"
+    },
+    {
+      "segment_idx": 2,
+      "original": "空中白",
+      "corrected": "空後",
+      "rule": "move name (空中白→空後)"
+    }
+  ]
+}

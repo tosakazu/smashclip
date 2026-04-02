@@ -1,0 +1,45 @@
+{
+  "id": "853f266d-38cc-4561-b1d6-f099d5c0fe38",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.5,
+      "text": "TG now trying to get a little fancy with the F-Smash coming out. Not gonna hit though.",
+      "language": "en"
+    },
+    {
+      "start": 3.5,
+      "end": 4.0,
+      "text": "Uh oh.",
+      "language": "en"
+    },
+    {
+      "start": 5.0,
+      "end": 6.0,
+      "text": "Oh, there you go.",
+      "language": "en"
+    },
+    {
+      "start": 6.0,
+      "end": 6.5,
+      "text": "Oh!",
+      "language": "en"
+    },
+    {
+      "start": 6.5,
+      "end": 8.5,
+      "text": "And the tech called out his wife!",
+      "language": "en"
+    }
+  ],
+  "full_text": "TG now trying to get a little fancy with the F-Smash coming out. Not gonna hit though. Uh oh. Oh, there you go. Oh! And the tech called out his wife!",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "Tori Geary",
+      "corrected": "TG",
+      "rule": "player name"
+    }
+  ]
+}

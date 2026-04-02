@@ -1,0 +1,57 @@
+{
+  "id": "7ea72662-51e9-4ed5-9de9-586ed298bb13",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.42,
+      "text": "Back-to-back risky forward smash!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "パチンコと何度も何度もリスク付け横スマッシュ"
+    },
+    {
+      "start": 3.42,
+      "end": 4.24,
+      "text": "Just barely doesn't connect!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "わずかに間に合わない"
+    },
+    {
+      "start": 4.24,
+      "end": 4.88,
+      "text": "Parry!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ジャスシールド"
+    },
+    {
+      "start": 4.88,
+      "end": 5.54,
+      "text": "Up tilt!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "上強"
+    },
+    {
+      "start": 5.54,
+      "end": 7.44,
+      "text": "Sleep doesn't hit!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "眠るが当たらない"
+    },
+    {
+      "start": 7.44,
+      "end": 9.48,
+      "text": "Up smash for the KO!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "上スマッシュで撃墜"
+    }
+  ],
+  "full_text": "Back-to-back risky forward smash! Just barely doesn't connect! Parry! Up tilt! Sleep doesn't hit! Up smash for the KO!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

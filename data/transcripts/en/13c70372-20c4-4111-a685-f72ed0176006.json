@@ -1,0 +1,78 @@
+{
+  "id": "13c70372-20c4-4111-a685-f72ed0176006",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.58,
+      "text": "This is",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これは"
+    },
+    {
+      "start": 1.58,
+      "end": 3.46,
+      "text": "insane!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "おもろすぎる"
+    },
+    {
+      "start": 3.46,
+      "end": 5.48,
+      "text": "Shoryuken!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "昇竜拳"
+    },
+    {
+      "start": 5.48,
+      "end": 8.56,
+      "text": "anti-airing the float!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "浮きを対空から"
+    },
+    {
+      "start": 8.56,
+      "end": 10.24,
+      "text": "up smash!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "上スマッシュ"
+    },
+    {
+      "start": 10.24,
+      "end": 11.2,
+      "text": "This is",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これは"
+    },
+    {
+      "start": 11.2,
+      "end": 12.1,
+      "text": "a roll!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "転がり"
+    }
+  ],
+  "full_text": "This is insane! Shoryuken! Anti-airing the float! Up smash! This is a roll!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "勝利拳",
+      "corrected": "昇竜拳",
+      "rule": "Kanji homophone: 勝利拳→昇竜拳 (Shoryuken)"
+    },
+    {
+      "segment_idx": 3,
+      "original": "植木を対空から",
+      "corrected": "浮きを対空から",
+      "rule": "Whisper mishearing: 植木→浮き (launched state)"
+    }
+  ]
+}

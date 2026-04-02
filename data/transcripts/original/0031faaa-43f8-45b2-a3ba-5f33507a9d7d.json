@@ -1,0 +1,39 @@
+{
+  "id": "0031faaa-43f8-45b2-a3ba-5f33507a9d7d",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.76,
+      "text": "ライオン利用して横スマとか見てて分かる通り",
+      "language": "ja"
+    },
+    {
+      "start": 2.76,
+      "end": 7.38,
+      "text": "対策に関してはもう文句ないみたいなところだと思うんで",
+      "language": "ja"
+    },
+    {
+      "start": 7.38,
+      "end": 9.98,
+      "text": "お互いに",
+      "language": "ja"
+    },
+    {
+      "start": 9.98,
+      "end": 11.2,
+      "text": "おっとここも",
+      "language": "ja"
+    }
+  ],
+  "full_text": "ライオン利用して横スマとか見てて分かる通り 対策に関してはもう文句ないみたいなところだと思うんで お互いに おっとここも",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "ライオン利用して横スマッシュとか見てて分かる通り",
+      "corrected": "ライオン利用して横スマとか見てて分かる通り",
+      "rule": "auto-rule"
+    }
+  ]
+}

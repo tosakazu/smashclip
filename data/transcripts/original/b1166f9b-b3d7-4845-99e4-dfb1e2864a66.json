@@ -1,0 +1,75 @@
+{
+  "id": "b1166f9b-b3d7-4845-99e4-dfb1e2864a66",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.92,
+      "text": "浮いたの降りていて",
+      "language": "ja"
+    },
+    {
+      "start": 0.92,
+      "end": 3.64,
+      "text": "いやーこれとどめの撃ち筋がちょっと遠いか",
+      "language": "ja"
+    },
+    {
+      "start": 3.64,
+      "end": 6.1,
+      "text": "いやーあのガードが固いぞ",
+      "language": "ja"
+    },
+    {
+      "start": 6.1,
+      "end": 7.0,
+      "text": "相打ちから",
+      "language": "ja"
+    },
+    {
+      "start": 7.0,
+      "end": 10.26,
+      "text": "先に地面戻ったのはどちらか",
+      "language": "ja"
+    },
+    {
+      "start": 10.26,
+      "end": 11.74,
+      "text": "うおー",
+      "language": "ja"
+    },
+    {
+      "start": 11.74,
+      "end": 12.34,
+      "text": "うーん",
+      "language": "ja"
+    }
+  ],
+  "full_text": "浮いたの降りていて いやーこれとどめの撃ち筋がちょっと遠いか いやーあのガードが固いぞ 相打ちから 先に地面戻ったのはどちらか うおー うーん",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "ウィンダウンしていて",
+      "corrected": "浮いたの降りていて",
+      "rule": "mishearing"
+    },
+    {
+      "segment_idx": 1,
+      "original": "打ち引き",
+      "corrected": "撃ち筋",
+      "rule": "homophone"
+    },
+    {
+      "segment_idx": 2,
+      "original": "あのが固いぞ",
+      "corrected": "あのガードが固いぞ",
+      "rule": "missing word"
+    },
+    {
+      "segment_idx": 4,
+      "original": "先に地面戻ったのをどちらか",
+      "corrected": "先に地面戻ったのはどちらか",
+      "rule": "particle correction"
+    }
+  ]
+}

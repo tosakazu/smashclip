@@ -1,0 +1,57 @@
+{
+  "id": "f359c587-2434-494a-9787-c405c2c458cc",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.28,
+      "text": "sy選手とすれば",
+      "language": "ja"
+    },
+    {
+      "start": 2.28,
+      "end": 5.0,
+      "text": "やっぱり横軸の差し合い",
+      "language": "ja"
+    },
+    {
+      "start": 5.0,
+      "end": 6.36,
+      "text": "基本的にはディフェンシブ",
+      "language": "ja"
+    },
+    {
+      "start": 6.36,
+      "end": 8.04,
+      "text": "ディフェンシブに戦ってきますから",
+      "language": "ja"
+    },
+    {
+      "start": 8.04,
+      "end": 9.12,
+      "text": "Yン選手が",
+      "language": "ja"
+    },
+    {
+      "start": 9.12,
+      "end": 12.08,
+      "text": "うまーい",
+      "language": "ja"
+    }
+  ],
+  "full_text": "sy選手とすれば やっぱり横軸の差し合い 基本的にはディフェンシブ ディフェンシブに戦ってきますから Yン選手が うまーい",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "SY選手",
+      "corrected": "sy選手",
+      "rule": "player name case"
+    },
+    {
+      "segment_idx": 4,
+      "original": "ワイン選手",
+      "corrected": "Yン選手",
+      "rule": "player name: ワイン→Yン"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "c54f57b0-dad7-472c-91a8-0570a7a44955",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.5,
+      "text": "Oh, shield's breaking but he's safe!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "おっと割れそうだから大丈夫"
+    },
+    {
+      "start": 1.5,
+      "end": 4.04,
+      "text": "Grab confirms, forward throw!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "掴み通してこれは前に投げる"
+    },
+    {
+      "start": 4.04,
+      "end": 6.06,
+      "text": "Now check this situation!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあこの状況"
+    },
+    {
+      "start": 6.06,
+      "end": 8.0,
+      "text": "Off the parry with the pull-out!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ジャストガードからの引っこ抜きで"
+    }
+  ],
+  "full_text": "Oh, shield's breaking but he's safe! Grab confirms, forward throw! Now check this situation! Off the parry with the pull-out!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "深み通して",
+      "corrected": "掴み通して",
+      "rule": "misheard word"
+    }
+  ]
+}

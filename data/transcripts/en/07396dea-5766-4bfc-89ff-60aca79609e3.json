@@ -1,0 +1,46 @@
+{
+  "id": "07396dea-5766-4bfc-89ff-60aca79609e3",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.7,
+      "text": "I thought this would blow up, but it didn't!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これ、勘がね、爆発しそうなイメージなんですけど、そうでもないですね"
+    },
+    {
+      "start": 4.7,
+      "end": 7.0,
+      "text": "Up tilt to sleep!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "上強から眠るー!"
+    },
+    {
+      "start": 7.8,
+      "end": 8.36,
+      "text": "KO!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "撃墜"
+    }
+  ],
+  "full_text": "I thought this would blow up, but it didn't! Up tilt to sleep! KO!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "うえ、今日から眠れー!",
+      "corrected": "上強から眠るー!",
+      "rule": "Kanji homophone correction (今日から眠れ → 上強から眠る)"
+    },
+    {
+      "segment_idx": 2,
+      "original": "げっせい",
+      "corrected": "撃墜",
+      "rule": "Kanji homophone correction (げっせい → 撃墜)"
+    }
+  ]
+}

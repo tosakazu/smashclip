@@ -1,0 +1,45 @@
+{
+  "id": "593cd7d2-0e2d-4c40-96d4-64f7f303dd65",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.98,
+      "text": "out as much damage as he possibly can but Miya doesn't want to allow that to happen in any way",
+      "language": "en"
+    },
+    {
+      "start": 3.98,
+      "end": 7.78,
+      "text": "shape or form looking for the for the back air sorry wasn't able to find it tries to find the",
+      "language": "en"
+    },
+    {
+      "start": 7.78,
+      "end": 13.82,
+      "text": "grab there on the get up again not too good here from him there and Miya is going to take out KEN",
+      "language": "en"
+    },
+    {
+      "start": 13.82,
+      "end": 14.32,
+      "text": "that is the",
+      "language": "en"
+    }
+  ],
+  "full_text": "out as much damage as he possibly can but Miya doesn't want to allow that to happen in any way shape or form looking for the for the back air sorry wasn't able to find it tries to find the grab there on the get up again not too good here from him there and Miya is going to take out KEN that is the",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "mia",
+      "corrected": "Miya",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 2,
+      "original": "ken",
+      "corrected": "KEN",
+      "rule": "player name"
+    }
+  ]
+}

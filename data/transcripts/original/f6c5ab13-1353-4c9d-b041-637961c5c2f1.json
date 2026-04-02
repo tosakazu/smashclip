@@ -1,0 +1,27 @@
+{
+  "id": "f6c5ab13-1353-4c9d-b041-637961c5c2f1",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.8,
+      "text": "the grab this is real like boss battle music going on right now",
+      "language": "en"
+    },
+    {
+      "start": 4.8,
+      "end": 8.88,
+      "text": "like Yamanaction is looking so so scary right now MkLeo",
+      "language": "en"
+    }
+  ],
+  "full_text": "the grab this is real like boss battle music going on right now like Yamanaction is looking so so scary right now MkLeo",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "yammer action",
+      "corrected": "Yamanaction",
+      "rule": "player name"
+    }
+  ]
+}

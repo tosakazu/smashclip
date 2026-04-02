@@ -1,0 +1,75 @@
+{
+  "id": "cdc2c317-10d4-4045-843e-c343e70ec9aa",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.12,
+      "text": "さあルナマドとしてはやはり攻めをせざるを得ないが",
+      "language": "ja"
+    },
+    {
+      "start": 3.12,
+      "end": 4.94,
+      "text": "○○1ストックのビハインド状況",
+      "language": "ja"
+    },
+    {
+      "start": 4.94,
+      "end": 8.08,
+      "text": "中央台絡んで下に投げて空中へ空中へ",
+      "language": "ja"
+    },
+    {
+      "start": 8.08,
+      "end": 9.0,
+      "text": "ルナマドのターン",
+      "language": "ja"
+    },
+    {
+      "start": 9.64,
+      "end": 10.84,
+      "text": "ソードダッシュ経由でなるほど",
+      "language": "ja"
+    },
+    {
+      "start": 10.84,
+      "end": 11.86,
+      "text": "着地に使うんだ",
+      "language": "ja"
+    },
+    {
+      "start": 11.86,
+      "end": 14.78,
+      "text": "何回も許さない",
+      "language": "ja"
+    },
+    {
+      "start": 14.78,
+      "end": 19.74,
+      "text": "上から空中下をかぶせて",
+      "language": "ja"
+    },
+    {
+      "start": 19.74,
+      "end": 20.68,
+      "text": "ターンを維持",
+      "language": "ja"
+    },
+    {
+      "start": 20.68,
+      "end": 22.7,
+      "text": "え?死ぬんだ",
+      "language": "ja"
+    }
+  ],
+  "full_text": "さあルナマドとしてはやはり攻めをせざるを得ないが ○○1ストックのビハインド状況 中央台絡んで下に投げて空中へ空中へ ルナマドのターン ソードダッシュ経由でなるほど 着地に使うんだ 何回も許さない 上から空中下をかぶせて ターンを維持 え?死ぬんだ",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "近目面をせざるを得ない",
+      "corrected": "攻めをせざるを得ない",
+      "rule": "mishearing (せめ→近目面)"
+    }
+  ]
+}

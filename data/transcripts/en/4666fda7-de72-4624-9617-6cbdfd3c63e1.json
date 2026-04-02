@@ -1,0 +1,38 @@
+{
+  "id": "4666fda7-de72-4624-9617-6cbdfd3c63e1",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Vital to K.Rool's toolkit!",
+      "language": "en"
+    },
+    {
+      "start": 2.0,
+      "end": 4.0,
+      "text": "Uh, dude, that could've been game over.",
+      "language": "en"
+    },
+    {
+      "start": 4.0,
+      "end": 6.0,
+      "text": "Oh, okay.",
+      "language": "en"
+    },
+    {
+      "start": 6.0,
+      "end": 8.0,
+      "text": "Going back and forth in dash tech!",
+      "language": "en"
+    },
+    {
+      "start": 8.0,
+      "end": 10.0,
+      "text": "Just barely gonna do it!",
+      "language": "en"
+    }
+  ],
+  "full_text": "Vital to K.Rool's toolkit! Uh, dude, that could've been game over. Oh, okay. Going back and forth in dash tech! Just barely gonna do it!",
+  "detected_language": "en",
+  "corrections": []
+}

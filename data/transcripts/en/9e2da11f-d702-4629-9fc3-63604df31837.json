@@ -1,0 +1,174 @@
+{
+  "id": "9e2da11f-d702-4629-9fc3-63604df31837",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Trolley, bair!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "トロッコ、空後!"
+    },
+    {
+      "start": 2.0,
+      "end": 4.0,
+      "text": "Who takes it?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "どっちが削る?"
+    },
+    {
+      "start": 4.0,
+      "end": 5.0,
+      "text": "Off the bair!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空後ろから!"
+    },
+    {
+      "start": 5.0,
+      "end": 7.0,
+      "text": "Up smash!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "上スマッシュ!"
+    },
+    {
+      "start": 8.0,
+      "end": 9.0,
+      "text": "Still hanging in!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "まだ耐えて!"
+    },
+    {
+      "start": 9.0,
+      "end": 10.0,
+      "text": "Final stock!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "最終弾"
+    },
+    {
+      "start": 10.0,
+      "end": 11.0,
+      "text": "Going ledge!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "一旦崖に行く"
+    },
+    {
+      "start": 11.0,
+      "end": 12.0,
+      "text": "Mixup!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "読み合い!"
+    },
+    {
+      "start": 12.0,
+      "end": 13.0,
+      "text": "Bair, bair!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空後ろ、空後ろ!"
+    },
+    {
+      "start": 13.0,
+      "end": 14.0,
+      "text": "Dodge!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "避けて!"
+    },
+    {
+      "start": 14.0,
+      "end": 15.0,
+      "text": "Shoryuken!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "昇竜!"
+    },
+    {
+      "start": 15.0,
+      "end": 16.0,
+      "text": "Let's go!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "行くぞー!"
+    },
+    {
+      "start": 16.0,
+      "end": 18.0,
+      "text": "Go, go!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "行けー!"
+    },
+    {
+      "start": 27.0,
+      "end": 28.0,
+      "text": "Nooo!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いやー"
+    },
+    {
+      "start": 28.0,
+      "end": 32.0,
+      "text": "Reached the peak!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "頂点に手が届いた!"
+    },
+    {
+      "start": 32.0,
+      "end": 35.0,
+      "text": "The 51st Smabato SP!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "第51回スマバトSP!"
+    }
+  ],
+  "full_text": "Trolley, bair! Who takes it? Off the bair! Up smash! Still hanging in! Final stock! Going ledge! Mixup! Bair, bair! Dodge! Shoryuken! Let's go! Go, go! Nooo! Reached the peak! The 51st Smabato SP!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "トロコ",
+      "corrected": "トロッコ",
+      "rule": "character move (Steve minecart)"
+    },
+    {
+      "segment_idx": 3,
+      "original": "上すばしゅー",
+      "corrected": "上スマッシュ",
+      "rule": "move name"
+    },
+    {
+      "segment_idx": 6,
+      "original": "ガキ",
+      "corrected": "崖",
+      "rule": "kanji homophone"
+    },
+    {
+      "segment_idx": 10,
+      "original": "上じゃく",
+      "corrected": "昇竜",
+      "rule": "move name (Ryu shoryuken)"
+    },
+    {
+      "segment_idx": 15,
+      "original": "スマートSP",
+      "corrected": "スマバトSP",
+      "rule": "tournament name"
+    },
+    {
+      "segment_idx": 0,
+      "original": "空中しろ",
+      "corrected": "空後",
+      "rule": "move abbreviation (back air)"
+    }
+  ]
+}

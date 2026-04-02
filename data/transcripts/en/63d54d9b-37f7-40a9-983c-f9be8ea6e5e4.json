@@ -1,0 +1,68 @@
+{
+  "id": "63d54d9b-37f7-40a9-983c-f9be8ea6e5e4",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.5,
+      "text": "Now they've got the grab all figured out!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "今度は掴みしっかりわかっている"
+    },
+    {
+      "start": 2.5,
+      "end": 4.92,
+      "text": "Town & City",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "村と町"
+    },
+    {
+      "start": 4.92,
+      "end": 6.44,
+      "text": "Town & City has platforms",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "村と町の台がある"
+    },
+    {
+      "start": 6.44,
+      "end": 8.16,
+      "text": "Whoa, that up air was risky!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "おっと空上危ないところでした"
+    },
+    {
+      "start": 8.16,
+      "end": 8.72,
+      "text": "That was...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "今のは"
+    }
+  ],
+  "full_text": "Now they've got the grab all figured out! Town & City Town & City has platforms Whoa, that up air was risky! That was...",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "村の街",
+      "corrected": "村と町",
+      "rule": "stage name"
+    },
+    {
+      "segment_idx": 2,
+      "original": "村と街",
+      "corrected": "村と町",
+      "rule": "stage name"
+    },
+    {
+      "segment_idx": 3,
+      "original": "空中",
+      "corrected": "空上",
+      "rule": "move name (kill move)"
+    }
+  ]
+}

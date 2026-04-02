@@ -1,0 +1,110 @@
+{
+  "id": "e7a1f478-bcfa-43ff-9254-cb5821669669",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.32,
+      "text": "Still gets the grab",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "それでも掴む"
+    },
+    {
+      "start": 1.32,
+      "end": 4.78,
+      "text": "Controlling close range is",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "より近距離を制していくのは"
+    },
+    {
+      "start": 4.78,
+      "end": 5.42,
+      "text": "Miya",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "Miya側"
+    },
+    {
+      "start": 5.42,
+      "end": 6.5,
+      "text": "The getup attack",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "攻撃上がりを"
+    },
+    {
+      "start": 6.5,
+      "end": 8.04,
+      "text": "Spaces it out",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "引きで透かして"
+    },
+    {
+      "start": 8.04,
+      "end": 9.82,
+      "text": "Incredible positioning",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "位置調整が素晴らしい"
+    },
+    {
+      "start": 9.82,
+      "end": 10.94,
+      "text": "Absolute bait",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "完全に誘ってましたね"
+    },
+    {
+      "start": 10.94,
+      "end": 12.42,
+      "text": "Deceptive setup",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "思わせぶりな"
+    },
+    {
+      "start": 12.42,
+      "end": 14.9,
+      "text": "Back throw",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "引き出しですが後ろ投げ"
+    },
+    {
+      "start": 14.9,
+      "end": 16.76,
+      "text": "More could develop",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "まだ展開いるからなりそう"
+    },
+    {
+      "start": 16.76,
+      "end": 17.86,
+      "text": "Bair",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空中後ろ"
+    }
+  ],
+  "full_text": "Still gets the grab controlling close range is Miya the getup attack spaces it out incredible positioning absolute bait deceptive setup back throw more could develop bair",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "宮川",
+      "corrected": "Miya側",
+      "rule": "player name: Miya"
+    },
+    {
+      "segment_idx": 4,
+      "original": "ビリーで透かして",
+      "corrected": "引きで透かして",
+      "rule": "misheard: 引き"
+    }
+  ]
+}

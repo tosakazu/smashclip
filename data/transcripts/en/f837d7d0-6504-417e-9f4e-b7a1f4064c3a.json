@@ -1,0 +1,56 @@
+{
+  "id": "f837d7d0-6504-417e-9f4e-b7a1f4064c3a",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.56,
+      "text": "Back air connects!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "効いての空中後ろ"
+    },
+    {
+      "start": 4.56,
+      "end": 6.56,
+      "text": "Flamethrower burns Roy!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "火炎放射がロイの体を焦がす"
+    },
+    {
+      "start": 6.56,
+      "end": 9.2,
+      "text": "Still burning!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ロイの体をまだ焦がす"
+    },
+    {
+      "start": 9.2,
+      "end": 10.32,
+      "text": "Can he get up from the ledge?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "崖上がり許されるか"
+    },
+    {
+      "start": 10.32,
+      "end": 11.58,
+      "text": "Stops the fair!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "許さない空中前"
+    }
+  ],
+  "full_text": "Back air connects! Flamethrower burns Roy! Still burning! Can he get up from the ledge? Stops the fair!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "聞いての",
+      "corrected": "効いての",
+      "rule": "kanji: 聞いて→効いて"
+    }
+  ]
+}

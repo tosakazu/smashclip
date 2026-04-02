@@ -1,0 +1,122 @@
+{
+  "id": "7d506793-25f4-4757-ab41-fc41e707cb95",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.44,
+      "text": "Up air on the bair!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空後に合わせて空上"
+    },
+    {
+      "start": 1.44,
+      "end": 2.78,
+      "text": "What a choice!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "なんという択"
+    },
+    {
+      "start": 2.78,
+      "end": 5.78,
+      "text": "Donkey Kong gets the grab!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "掴みを通したドンキー"
+    },
+    {
+      "start": 5.78,
+      "end": 6.7,
+      "text": "Forward throw!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "前に投げる"
+    },
+    {
+      "start": 6.7,
+      "end": 7.64,
+      "text": "Too heavy?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "重すぎ?"
+    },
+    {
+      "start": 8.38,
+      "end": 9.46,
+      "text": "Bowser survives!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "クッパが耐える"
+    },
+    {
+      "start": 9.46,
+      "end": 10.46,
+      "text": "Coming back from above!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "上から帰って"
+    },
+    {
+      "start": 10.46,
+      "end": 11.18,
+      "text": "Still in it!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "折れない"
+    },
+    {
+      "start": 11.18,
+      "end": 12.3,
+      "text": "Won't allow it!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "許さない"
+    },
+    {
+      "start": 12.3,
+      "end": 13.34,
+      "text": "And the bair!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そして空後"
+    },
+    {
+      "start": 13.34,
+      "end": 13.86,
+      "text": "The tipper!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "つま先"
+    }
+  ],
+  "full_text": "Up air on the bair! What a choice! Donkey Kong gets the grab! Forward throw! Too heavy? Bowser survives! Coming back from above! Still in it! Won't allow it! And the bair! The tipper!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "空中後ろに合わせて空中上",
+      "corrected": "空後に合わせて空上",
+      "rule": "abbreviation: 空中後ろ→空後, 空中上→空上"
+    },
+    {
+      "segment_idx": 1,
+      "original": "タク",
+      "corrected": "択",
+      "rule": "katakana→kanji: タク→択"
+    },
+    {
+      "segment_idx": 2,
+      "original": "ドンキ",
+      "corrected": "ドンキー",
+      "rule": "truncation: ドンキ→ドンキー"
+    },
+    {
+      "segment_idx": 9,
+      "original": "空中後ろ",
+      "corrected": "空後",
+      "rule": "abbreviation: 空中後ろ→空後"
+    }
+  ]
+}

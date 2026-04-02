@@ -1,0 +1,17 @@
+{
+  "id": "f7544a8a-b234-4672-9ed3-63787c1817cd",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.18,
+      "text": "They don't have a jump—they can't recover!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ジャンプないから帰れないんじゃない"
+    }
+  ],
+  "full_text": "They don't have a jump—they can't recover!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

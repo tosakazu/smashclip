@@ -1,0 +1,39 @@
+{
+  "id": "885d3f25-f97e-4fc1-9fb3-df9e86e17ed5",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.96,
+      "text": "does oh man forward tilt coming out here looking for the back air wasn't able to find it again",
+      "language": "en"
+    },
+    {
+      "start": 6.96,
+      "end": 9.98,
+      "text": "Miya still has uh Ken in the palm of",
+      "language": "en"
+    }
+  ],
+  "full_text": "does oh man forward tilt coming out here looking for the back air wasn't able to find it again Miya still has uh Ken in the palm of",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "four tilt",
+      "corrected": "forward tilt",
+      "rule": "move name"
+    },
+    {
+      "segment_idx": 0,
+      "original": "back here",
+      "corrected": "back air",
+      "rule": "move name"
+    },
+    {
+      "segment_idx": 1,
+      "original": "mia",
+      "corrected": "Miya",
+      "rule": "player name"
+    }
+  ]
+}

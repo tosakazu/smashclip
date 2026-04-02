@@ -1,0 +1,56 @@
+{
+  "id": "1b77c93d-25b0-46a0-ae9c-e7efac97ce98",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.12,
+      "text": "Neo is also showing counter picks",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ネオもカウンターという逆択を見せていく"
+    },
+    {
+      "start": 2.12,
+      "end": 5.86,
+      "text": "Like placing fair against airdodges and stuff",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "回避に対して空中前を置いとくなどっていうのは"
+    },
+    {
+      "start": 5.86,
+      "end": 7.48,
+      "text": "Is pretty easy for Greninja to execute",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "結構ゲッチ側がやりやすい"
+    },
+    {
+      "start": 7.48,
+      "end": 8.24,
+      "text": "Yeah, yeah, yeah, yeah",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "はいはいはいはい"
+    },
+    {
+      "start": 8.24,
+      "end": 10.14,
+      "text": "Whoa!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "おっとー!"
+    }
+  ],
+  "full_text": "Neo is also showing counter picks Like placing fair against airdodges and stuff Is pretty easy for Greninja to execute Yeah, yeah, yeah, yeah Whoa!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "ネオもカウンターという逆作を見せていく",
+      "corrected": "ネオもカウンターという逆択を見せていく",
+      "rule": "Whisper kanji homophone: 逆作→逆択"
+    }
+  ]
+}

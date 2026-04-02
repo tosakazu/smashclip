@@ -1,0 +1,33 @@
+{
+  "id": "b2d5876e-9232-4247-9b50-356e60989151",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.14,
+      "text": "ゲームエンド",
+      "language": "ja"
+    },
+    {
+      "start": 1.14,
+      "end": 8.5,
+      "text": "ゲームセット",
+      "language": "ja"
+    }
+  ],
+  "full_text": "ゲームエンド ゲームセット",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "レイズエンド",
+      "corrected": "ゲームエンド",
+      "rule": "mishearing"
+    },
+    {
+      "segment_idx": 1,
+      "original": "レイズセット",
+      "corrected": "ゲームセット",
+      "rule": "mishearing (ゲームセット=Game Set)"
+    }
+  ]
+}

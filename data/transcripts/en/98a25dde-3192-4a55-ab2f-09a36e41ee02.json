@@ -1,0 +1,54 @@
+{
+  "id": "98a25dde-3192-4a55-ab2f-09a36e41ee02",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.92,
+      "text": "Dodged the projectile—",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "弾を避けたものの"
+    },
+    {
+      "start": 1.92,
+      "end": 3.48,
+      "text": "And didn't take the hit!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "食らっちゃうないです"
+    },
+    {
+      "start": 3.48,
+      "end": 4.66,
+      "text": "Seals the stock!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "止め切りました"
+    },
+    {
+      "start": 4.66,
+      "end": 6.16,
+      "text": "Absolutely flawless!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "完璧すぎる"
+    }
+  ],
+  "full_text": "Dodged the projectile— And didn't take the hit! Seals the stock! Absolutely flawless!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "男",
+      "corrected": "弾",
+      "rule": "kanji homophone"
+    },
+    {
+      "segment_idx": 1,
+      "original": "グルーチューナイです",
+      "corrected": "食らっちゃうないです",
+      "rule": "Whisper misheard"
+    }
+  ]
+}

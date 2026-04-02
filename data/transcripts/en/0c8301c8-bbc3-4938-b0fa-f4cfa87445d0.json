@@ -1,0 +1,65 @@
+{
+  "id": "0c8301c8-bbc3-4938-b0fa-f4cfa87445d0",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.08,
+      "text": "Without DI, he's done!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ベク変しないと死ななかった"
+    },
+    {
+      "start": 1.08,
+      "end": 3.1,
+      "text": "Wow, this exchange!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いやーここの打ち合い"
+    },
+    {
+      "start": 3.1,
+      "end": 5.28,
+      "text": "Can they turn it around?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "流れを変えるか"
+    },
+    {
+      "start": 5.28,
+      "end": 5.74,
+      "text": "Juggle!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "追撃!"
+    },
+    {
+      "start": 6.28,
+      "end": 7.34,
+      "text": "Won't let the grab!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "掴みはさせない!"
+    },
+    {
+      "start": 7.42,
+      "end": 8.28,
+      "text": "Doesn't secure the KO",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "撃墜はしないが"
+    },
+    {
+      "start": 8.28,
+      "end": 10.08,
+      "text": "Back aerial!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここで空後!"
+    }
+  ],
+  "full_text": "Without DI, he's done! Wow, this exchange! Can they turn it around? Juggle! Won't let the grab! Doesn't secure the KO. Back aerial!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

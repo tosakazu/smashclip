@@ -1,0 +1,69 @@
+{
+  "id": "153278ab-e68e-4dd7-808d-a6bf3f23dc09",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.3,
+      "text": "っていうのをTweek選手がもう逃げ出していきたいところですが",
+      "language": "ja"
+    },
+    {
+      "start": 3.3,
+      "end": 6.24,
+      "text": "結構差し合いでの横強が光ってますねSnow選手",
+      "language": "ja"
+    },
+    {
+      "start": 6.24,
+      "end": 6.8,
+      "text": "そうですね",
+      "language": "ja"
+    },
+    {
+      "start": 6.8,
+      "end": 8.42,
+      "text": "かなりヒット率が高い",
+      "language": "ja"
+    },
+    {
+      "start": 8.42,
+      "end": 9.28,
+      "text": "回避上がりに上スマッシュ",
+      "language": "ja"
+    },
+    {
+      "start": 9.28,
+      "end": 12.84,
+      "text": "ずっとこの後隙は最大の横スマッシュで撃墜",
+      "language": "ja"
+    }
+  ],
+  "full_text": "っていうのをTweek選手がもう逃げ出していきたいところですが 結構差し合いでの横強が光ってますねSnow選手 そうですね かなりヒット率が高い 回避上がりに上スマッシュ ずっとこの後隙は最大の横スマッシュで撃墜",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "ツイキ選手",
+      "corrected": "Tweek選手",
+      "rule": "Player name: ツイキ→Tweek"
+    },
+    {
+      "segment_idx": 1,
+      "original": "その選手",
+      "corrected": "Snow選手",
+      "rule": "Player name: その→Snow"
+    },
+    {
+      "segment_idx": 4,
+      "original": "回復キティウエスマス",
+      "corrected": "回避上がりに上スマッシュ",
+      "rule": "Garbled transcription: 回復キティウエスマス→回避上がりに上スマッシュ"
+    },
+    {
+      "segment_idx": 5,
+      "original": "横スマッシュで撃つ",
+      "corrected": "横スマッシュで撃墜",
+      "rule": "Kanji homophone: 撃つ→撃墜"
+    }
+  ]
+}

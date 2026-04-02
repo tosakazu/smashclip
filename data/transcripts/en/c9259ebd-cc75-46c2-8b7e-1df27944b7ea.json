@@ -1,0 +1,60 @@
+{
+  "id": "c9259ebd-cc75-46c2-8b7e-1df27944b7ea",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.74,
+      "text": "He's been avoiding that this whole time",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これはグッと前から避けている"
+    },
+    {
+      "start": 1.74,
+      "end": 4.8,
+      "text": "Reading the outside spacing perfectly and closing in – that's the key!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "外側をうまく見て差し込んでダブズですね"
+    },
+    {
+      "start": 4.8,
+      "end": 8.26,
+      "text": "And on this cramped stage too",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "挑戦状というこの狭めのステージも"
+    },
+    {
+      "start": 8.26,
+      "end": 9.96,
+      "text": "Fox is looking really strong right now",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ちょっとフォックスが有利に運びそうです"
+    }
+  ],
+  "full_text": "He's been avoiding that this whole time Reading the outside spacing perfectly and closing in – that's the key! And on this cramped stage too Fox is looking really strong right now",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "グッズ前",
+      "corrected": "グッと前",
+      "rule": "mishearing"
+    },
+    {
+      "segment_idx": 1,
+      "original": "出しこいてダブルアップ",
+      "corrected": "差し込んでダブズ",
+      "rule": "player name (Dabuz) + mishearing"
+    },
+    {
+      "segment_idx": 3,
+      "original": "リリー運びそう",
+      "corrected": "有利に運びそう",
+      "rule": "mishearing"
+    }
+  ]
+}

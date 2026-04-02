@@ -1,0 +1,38 @@
+{
+  "id": "2bba10f5-9dd3-421e-bc8f-b0570593ed97",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.88,
+      "text": "That bair was scary! Scary stuff!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ものがありますが恐ろしかったですね 空後"
+    },
+    {
+      "start": 4.88,
+      "end": 7.82,
+      "text": "Down tilt, up smash!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "下強 上スマッシュ"
+    }
+  ],
+  "full_text": "That bair was scary! Scary stuff! Down tilt, up smash!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "空5",
+      "corrected": "空後",
+      "rule": "misheard: 空5→空後"
+    },
+    {
+      "segment_idx": 1,
+      "original": "した今日",
+      "corrected": "下強",
+      "rule": "kanji: した今日→下強"
+    }
+  ]
+}

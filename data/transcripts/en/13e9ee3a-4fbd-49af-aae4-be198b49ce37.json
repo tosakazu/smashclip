@@ -1,0 +1,49 @@
+{
+  "id": "13e9ee3a-4fbd-49af-aae4-be198b49ce37",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.14,
+      "text": "That's why we're rivals—because we can both break through each other",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "どうしてね、命しのぎを崩せる同士なんで"
+    },
+    {
+      "start": 2.14,
+      "end": 4.8,
+      "text": "That's what makes us rivals against this opponent",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ライバルだからこそね、この敵やつと"
+    },
+    {
+      "start": 4.8,
+      "end": 6.38,
+      "text": "Yeah, right there...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そうですね、ここは"
+    },
+    {
+      "start": 6.38,
+      "end": 9.24,
+      "text": "Oh, just barely short!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "あー、ギリギリ届かず"
+    },
+    {
+      "start": 9.24,
+      "end": 11.28,
+      "text": "That's the ledge grab range in the back",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これね、後ろ側のね、崖捕まる範囲"
+    }
+  ],
+  "full_text": "That's why we're rivals—because we can both break through each other That's what makes us rivals against this opponent Yeah, right there... Oh, just barely short! That's the ledge grab range in the back",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

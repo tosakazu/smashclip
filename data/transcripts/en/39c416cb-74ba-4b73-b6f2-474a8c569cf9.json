@@ -1,0 +1,56 @@
+{
+  "id": "39c416cb-74ba-4b73-b6f2-474a8c569cf9",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Did the momentum shift?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いや流れが変わったか?"
+    },
+    {
+      "start": 2.0,
+      "end": 3.0,
+      "text": "Nice!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "うまい!"
+    },
+    {
+      "start": 3.0,
+      "end": 6.0,
+      "text": "Ken's control here is really sharp, right?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "こういうコントロールやっぱりKENうまいですよね"
+    },
+    {
+      "start": 6.0,
+      "end": 8.0,
+      "text": "Spin into grab!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "スピンからグーマン!"
+    },
+    {
+      "start": 8.0,
+      "end": 9.0,
+      "text": "Got the hit!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ゲッツヒットしましたね"
+    }
+  ],
+  "full_text": "Did the momentum shift? Nice! Ken's control here is really sharp, right? Spin into grab! Got the hit!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "ケイテジュウ",
+      "corrected": "KEN",
+      "rule": "player name"
+    }
+  ]
+}

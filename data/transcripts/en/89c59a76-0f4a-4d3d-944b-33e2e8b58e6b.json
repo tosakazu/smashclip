@@ -1,0 +1,49 @@
+{
+  "id": "89c59a76-0f4a-4d3d-944b-33e2e8b58e6b",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.08,
+      "text": "If he gets that rush going, it's all over!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ラッシュしてたらひとたまりもない"
+    },
+    {
+      "start": 2.08,
+      "end": 4.8,
+      "text": "Grab connects into back throw!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "つかみ通して後ろ投げて"
+    },
+    {
+      "start": 4.8,
+      "end": 6.26,
+      "text": "And the potted plant is coming in too!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "植木鉢も襲いかかってくる"
+    },
+    {
+      "start": 6.26,
+      "end": 7.48,
+      "text": "If he tries to jump...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ジャンプするものならば"
+    },
+    {
+      "start": 7.48,
+      "end": 8.88,
+      "text": "Oh no! That's dangerous!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "危なーい"
+    }
+  ],
+  "full_text": "If he gets that rush going, it's all over! Grab connects into back throw! And the potted plant is coming in too! If he tries to jump... Oh no! That's dangerous!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

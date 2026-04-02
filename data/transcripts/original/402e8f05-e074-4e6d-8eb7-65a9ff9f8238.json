@@ -1,0 +1,26 @@
+{
+  "id": "402e8f05-e074-4e6d-8eb7-65a9ff9f8238",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.32,
+      "text": "とてもエクティブ!",
+      "language": "ja"
+    },
+    {
+      "start": 1.86,
+      "end": 2.64,
+      "text": "狙っていきます!",
+      "language": "ja"
+    },
+    {
+      "start": 7.36,
+      "end": 8.68,
+      "text": "ゲームセット!",
+      "language": "ja"
+    }
+  ],
+  "full_text": "とてもエクティブ! 狙っていきます! ゲームセット!",
+  "detected_language": "ja",
+  "corrections": []
+}

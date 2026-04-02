@@ -1,0 +1,70 @@
+{
+  "id": "06a07e81-2a17-489d-b611-9b644d7928e5",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.36,
+      "text": "And the spin finally connects!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあ念願スピン通りましたね"
+    },
+    {
+      "start": 2.36,
+      "end": 4.44,
+      "text": "Yeah, when that spin lands the damage just shoots up!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "やはりスピンが通ると火力一気に伸びますね"
+    },
+    {
+      "start": 4.44,
+      "end": 5.66,
+      "text": "Alright!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあ"
+    },
+    {
+      "start": 5.66,
+      "end": 8.0,
+      "text": "That nair is looking great!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空Nが偉いですね"
+    },
+    {
+      "start": 8.0,
+      "end": 9.58,
+      "text": "Now the spin's starting to work!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここに来てスピンが通り出した"
+    },
+    {
+      "start": 9.58,
+      "end": 10.64,
+      "text": "The juggle...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "着地狩りがよう…"
+    }
+  ],
+  "full_text": "And the spin finally connects! Yeah, when that spin lands the damage just shoots up! Alright! That nair is looking great! Now the spin's starting to work! The juggle...",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 3,
+      "original": "空中ネムが偉いですね",
+      "corrected": "空Nが偉いですね",
+      "rule": "Move abbreviation correction (空中ネム → 空N)"
+    },
+    {
+      "segment_idx": 5,
+      "original": "アクシガリがようこそ",
+      "corrected": "着地狩りがよう…",
+      "rule": "Kanji homophone correction (アクシガリ → 着地狩り)"
+    }
+  ]
+}

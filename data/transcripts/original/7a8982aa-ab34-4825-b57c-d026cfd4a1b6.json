@@ -1,0 +1,69 @@
+{
+  "id": "7a8982aa-ab34-4825-b57c-d026cfd4a1b6",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.32,
+      "text": "内側こそ一番見たい択なので",
+      "language": "ja"
+    },
+    {
+      "start": 2.32,
+      "end": 5.26,
+      "text": "掴んで後ろに投げるが",
+      "language": "ja"
+    },
+    {
+      "start": 5.26,
+      "end": 6.1,
+      "text": "反撃",
+      "language": "ja"
+    },
+    {
+      "start": 6.1,
+      "end": 6.88,
+      "text": "取って",
+      "language": "ja"
+    },
+    {
+      "start": 6.88,
+      "end": 7.48,
+      "text": "2回目",
+      "language": "ja"
+    },
+    {
+      "start": 7.48,
+      "end": 8.3,
+      "text": "引きずり出すが",
+      "language": "ja"
+    },
+    {
+      "start": 8.3,
+      "end": 9.28,
+      "text": "崖メテオ",
+      "language": "ja"
+    },
+    {
+      "start": 9.28,
+      "end": 12.84,
+      "text": "よく",
+      "language": "ja"
+    }
+  ],
+  "full_text": "内側こそ一番見たい択なので 掴んで後ろに投げるが 反撃 取って 2回目 引きずり出すが 崖メテオ よく",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "タク",
+      "corrected": "択",
+      "rule": "katakana to kanji"
+    },
+    {
+      "segment_idx": 2,
+      "original": "反逆",
+      "corrected": "反撃",
+      "rule": "kanji homophone"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "657cff6b-0cf8-48b9-a3f7-ba2163976258",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.14,
+      "text": "That's Super Aike!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "スーパーアイクです"
+    },
+    {
+      "start": 3.14,
+      "end": 5.86,
+      "text": "He flies from a percentage where normal Ike would be totally fine!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "アイクなんて目じゃないぐらいのパーセントから飛びますけど"
+    },
+    {
+      "start": 5.86,
+      "end": 7.74,
+      "text": "Whiff punish with the forward tilt!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "横強で差し返す"
+    },
+    {
+      "start": 7.74,
+      "end": 12.2,
+      "text": "Shield and up tilt!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "シールドして上強攻撃"
+    }
+  ],
+  "full_text": "That's Super Aike! He flies from a percentage where normal Ike would be totally fine! Whiff punish with the forward tilt! Shield and up tilt!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

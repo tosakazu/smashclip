@@ -1,0 +1,69 @@
+{
+  "id": "d099bdaa-a292-470d-a25e-d64e99f1d847",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.78,
+      "text": "あれだなラルくんってとてもジャスガうまいじゃないですか",
+      "language": "ja"
+    },
+    {
+      "start": 2.78,
+      "end": 5.84,
+      "text": "だけどリンクの空中後ろがいい味出してるわ",
+      "language": "ja"
+    },
+    {
+      "start": 5.84,
+      "end": 7.82,
+      "text": "ジャスガに対して次のタッチになってる",
+      "language": "ja"
+    },
+    {
+      "start": 7.82,
+      "end": 10.18,
+      "text": "こういうディレイもうまいし",
+      "language": "ja"
+    },
+    {
+      "start": 10.18,
+      "end": 11.5,
+      "text": "そうだね",
+      "language": "ja"
+    },
+    {
+      "start": 11.5,
+      "end": 13.36,
+      "text": "やはり体一つで叩かれてきた男",
+      "language": "ja"
+    },
+    {
+      "start": 13.36,
+      "end": 14.56,
+      "text": "あー撃墜しちゃったー",
+      "language": "ja"
+    },
+    {
+      "start": 14.56,
+      "end": 15.04,
+      "text": "あの後",
+      "language": "ja"
+    }
+  ],
+  "full_text": "あれだなラルくんってとてもジャスガうまいじゃないですか だけどリンクの空中後ろがいい味出してるわ ジャスガに対して次のタッチになってる こういうディレイもうまいし そうだね やはり体一つで叩かれてきた男 あー撃墜しちゃったー あの後",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "空中白",
+      "corrected": "空中後ろ",
+      "rule": "smash term (空中後ろ=back air)"
+    },
+    {
+      "segment_idx": 6,
+      "original": "激戦しちゃったー",
+      "corrected": "撃墜しちゃったー",
+      "rule": "smash term (撃墜)"
+    }
+  ]
+}

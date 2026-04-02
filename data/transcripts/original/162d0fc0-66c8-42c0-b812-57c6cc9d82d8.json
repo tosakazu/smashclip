@@ -1,0 +1,51 @@
+{
+  "id": "162d0fc0-66c8-42c0-b812-57c6cc9d82d8",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.36,
+      "text": "いいと思います",
+      "language": "ja"
+    },
+    {
+      "start": 0.36,
+      "end": 1.56,
+      "text": "分かる多分",
+      "language": "ja"
+    },
+    {
+      "start": 1.56,
+      "end": 4.74,
+      "text": "おっと横Bすら抜いてきましたね",
+      "language": "ja"
+    },
+    {
+      "start": 4.74,
+      "end": 6.32,
+      "text": "今ちょっとディレイかけましたかね",
+      "language": "ja"
+    },
+    {
+      "start": 6.32,
+      "end": 6.76,
+      "text": "ディレイ",
+      "language": "ja"
+    },
+    {
+      "start": 6.76,
+      "end": 7.5,
+      "text": "うおー",
+      "language": "ja"
+    }
+  ],
+  "full_text": "いいと思います 分かる多分 おっと横Bすら抜いてきましたね 今ちょっとディレイかけましたかね ディレイ うおー",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "おっと横帯すら抜いてきましたね",
+      "corrected": "おっと横Bすら抜いてきましたね",
+      "rule": "Move name: 横帯→横B"
+    }
+  ]
+}

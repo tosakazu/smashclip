@@ -1,0 +1,27 @@
+{
+  "id": "aeedb192-4f75-41f3-af1d-30872efa88e4",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.28,
+      "text": "Good counter pick, Hollow Bastion was a really smart pick for Miya",
+      "language": "en"
+    },
+    {
+      "start": 3.28,
+      "end": 9.2,
+      "text": "And you mentioned that it's just because of the platform stun that Raflow just changed the way he's recovering in the back",
+      "language": "en"
+    }
+  ],
+  "full_text": "Good counter pick, Hollow Bastion was a really smart pick for Miya And you mentioned that it's just because of the platform stun that Raflow just changed the way he's recovering in the back",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "Laura flowed to just change",
+      "corrected": "Raflow just changed",
+      "rule": "player name (Raflow)"
+    }
+  ]
+}

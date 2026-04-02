@@ -1,0 +1,33 @@
+{
+  "id": "efb14f95-fbf6-41f7-8a59-3d20ea42b35e",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.06,
+      "text": "Foresight ain't much, but we need something to have the anvil again.",
+      "language": "en"
+    },
+    {
+      "start": 3.08,
+      "end": 5.7,
+      "text": "I just remembered the name, Photon Edge. Photon Edge is the side B.",
+      "language": "en"
+    },
+    {
+      "start": 6.1,
+      "end": 7.7,
+      "text": "Oh, Photon Edge, there we go.",
+      "language": "en"
+    }
+  ],
+  "full_text": "Foresight ain't much, but we need something to have the anvil again. I just remembered the name, Photon Edge. Photon Edge is the side B. Oh, Photon Edge, there we go.",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "site B",
+      "corrected": "side B",
+      "rule": "misheard: site→side"
+    }
+  ]
+}

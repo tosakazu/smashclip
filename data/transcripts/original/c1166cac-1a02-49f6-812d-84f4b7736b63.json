@@ -1,0 +1,45 @@
+{
+  "id": "c1166cac-1a02-49f6-812d-84f4b7736b63",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.12,
+      "text": "このままぼったくりに行くのはヨシドラ",
+      "language": "ja"
+    },
+    {
+      "start": 2.12,
+      "end": 3.74,
+      "text": "空中前が当たればストック関係なく",
+      "language": "ja"
+    },
+    {
+      "start": 3.74,
+      "end": 6.5,
+      "text": "しかしちょっとラインがあったので200%",
+      "language": "ja"
+    },
+    {
+      "start": 6.5,
+      "end": 7.8,
+      "text": "長寿の恐竜",
+      "language": "ja"
+    },
+    {
+      "start": 7.8,
+      "end": 10.4,
+      "text": "これをヤウラ空中上取れた",
+      "language": "ja"
+    }
+  ],
+  "full_text": "このままぼったくりに行くのはヨシドラ 空中前が当たればストック関係なく しかしちょっとラインがあったので200% 長寿の恐竜 これをヤウラ空中上取れた",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 4,
+      "original": "柔らか空中ウェルトがめた",
+      "corrected": "ヤウラ空中上取れた",
+      "rule": "player name + smash term"
+    }
+  ]
+}

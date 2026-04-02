@@ -1,0 +1,33 @@
+{
+  "id": "9eeceb11-1d9f-4d5a-a437-9cc31a338576",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.94,
+      "text": "着地をしたいなるほど暴れる横Bしっかりと着地に対してガードもできない横B置いていたんですが",
+      "language": "ja"
+    },
+    {
+      "start": 6.94,
+      "end": 10.92,
+      "text": "おっとこれはどうだこの位置よりあえて横Bそして空中後ろ冷静です",
+      "language": "ja"
+    }
+  ],
+  "full_text": "着地をしたいなるほど暴れる横Bしっかりと着地に対してガードもできない横B置いていたんですが おっとこれはどうだこの位置よりあえて横Bそして空中後ろ冷静です",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "横一つ",
+      "corrected": "横B",
+      "rule": "move abbreviation (side special)"
+    },
+    {
+      "segment_idx": 1,
+      "original": "横一つ",
+      "corrected": "横B",
+      "rule": "move abbreviation (side special)"
+    }
+  ]
+}

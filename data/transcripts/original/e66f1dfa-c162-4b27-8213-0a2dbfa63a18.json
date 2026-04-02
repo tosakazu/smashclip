@@ -1,0 +1,51 @@
+{
+  "id": "e66f1dfa-c162-4b27-8213-0a2dbfa63a18",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.3,
+      "text": "しかし100%のゼニガメ",
+      "language": "ja"
+    },
+    {
+      "start": 2.3,
+      "end": 4.04,
+      "text": "ポケモンチェンジでゼニガメに変わる",
+      "language": "ja"
+    },
+    {
+      "start": 4.04,
+      "end": 6.34,
+      "text": "ゼニガメは体が軽いそして横強が",
+      "language": "ja"
+    },
+    {
+      "start": 6.34,
+      "end": 7.86,
+      "text": "え?なんだ今の",
+      "language": "ja"
+    },
+    {
+      "start": 7.86,
+      "end": 10.24,
+      "text": "上に大きく飛んだがギリギリ",
+      "language": "ja"
+    },
+    {
+      "start": 10.24,
+      "end": 10.9,
+      "text": "消せず",
+      "language": "ja"
+    }
+  ],
+  "full_text": "しかし100%のゼニガメ ポケモンチェンジでゼニガメに変わる ゼニガメは体が軽いそして横強が え?なんだ今の 上に大きく飛んだがギリギリ 消せず",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "横強化",
+      "corrected": "横強が",
+      "rule": "misheard: 横強が"
+    }
+  ]
+}

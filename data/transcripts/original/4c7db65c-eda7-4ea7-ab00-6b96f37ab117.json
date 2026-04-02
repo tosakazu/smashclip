@@ -1,0 +1,45 @@
+{
+  "id": "4c7db65c-eda7-4ea7-ab00-6b96f37ab117",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "空前攻撃から差し込んで",
+      "language": "ja"
+    },
+    {
+      "start": 2.0,
+      "end": 7.98,
+      "text": "ドルフィン、空N",
+      "language": "ja"
+    },
+    {
+      "start": 7.98,
+      "end": 9.66,
+      "text": "帰ってこれるかリゼアスマルス",
+      "language": "ja"
+    },
+    {
+      "start": 9.66,
+      "end": 12.1,
+      "text": "空中上攻撃で仕留めきっていった",
+      "language": "ja"
+    }
+  ],
+  "full_text": "空前攻撃から差し込んで ドルフィン、空N 帰ってこれるかリゼアスマルス 空中上攻撃で仕留めきっていった",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "空中前攻撃からなし込んで",
+      "corrected": "空前攻撃から差し込んで",
+      "rule": "move abbreviation + misheard word"
+    },
+    {
+      "segment_idx": 1,
+      "original": "ドルフィン空中ニュートラル",
+      "corrected": "ドルフィン、空N",
+      "rule": "move abbreviation (空中ニュートラル→空N)"
+    }
+  ]
+}

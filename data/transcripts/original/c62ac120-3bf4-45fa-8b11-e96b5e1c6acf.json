@@ -1,0 +1,39 @@
+{
+  "id": "c62ac120-3bf4-45fa-8b11-e96b5e1c6acf",
+  "segments": [
+    {
+      "start": 0.92,
+      "end": 2.56,
+      "text": "ここは回り込んでの空中前",
+      "language": "ja"
+    },
+    {
+      "start": 2.56,
+      "end": 4.42,
+      "text": "モナドのスマッシュに変えて空中前",
+      "language": "ja"
+    }
+  ],
+  "full_text": "ここは回り込んでの空中前 モナドのスマッシュに変えて空中前",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "空中スロー",
+      "corrected": "空中前",
+      "rule": "misheard move name"
+    },
+    {
+      "segment_idx": 1,
+      "original": "モナの",
+      "corrected": "モナドの",
+      "rule": "misheard character term (Monado)"
+    },
+    {
+      "segment_idx": 1,
+      "original": "空中スロー",
+      "corrected": "空中前",
+      "rule": "misheard move name"
+    }
+  ]
+}

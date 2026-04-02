@@ -1,0 +1,49 @@
+{
+  "id": "9e4f39d8-869a-4190-b2d9-c6af165900ec",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.52,
+      "text": "That was close too, cutting the dodge",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "今のも危なかった 回避を切る"
+    },
+    {
+      "start": 1.52,
+      "end": 3.94,
+      "text": "Using PK Flash, yeah that's right",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "PKフラッシュを使って これはそうですね"
+    },
+    {
+      "start": 3.94,
+      "end": 5.54,
+      "text": "And that ledge exchange too",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "今の崖の攻防も"
+    },
+    {
+      "start": 5.54,
+      "end": 8.12,
+      "text": "Still not quite to the ledge",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "まだそこまで崖"
+    },
+    {
+      "start": 8.12,
+      "end": 9.18,
+      "text": "All kinds of things",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いろいろ"
+    }
+  ],
+  "full_text": "That was close too, cutting the dodge Using PK Flash, yeah that's right And that ledge exchange too Still not quite to the ledge All kinds of things",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

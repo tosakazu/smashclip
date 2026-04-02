@@ -1,0 +1,48 @@
+{
+  "id": "5cec6692-f658-4555-b7be-285ba6b356da",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.6,
+      "text": "Banana combo looking spicy, but...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "バナナ経由の面白いコンボが見れそうだったんですが"
+    },
+    {
+      "start": 2.6,
+      "end": 4.44,
+      "text": "H.O firmly shuts it down",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "マイルドなH.O選手これをしっかり拒否"
+    },
+    {
+      "start": 4.44,
+      "end": 5.62,
+      "text": "...mashing up air",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空中上で暴れて"
+    },
+    {
+      "start": 5.62,
+      "end": 8.3,
+      "text": "Now in the vertical axis game—going deep with nair!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあ縦軸の展開空中ニュートラル深めに"
+    }
+  ],
+  "full_text": "Banana combo looking spicy, but... H.O firmly shuts it down ...mashing up air Now in the vertical axis game—going deep with nair!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "マルタン・エイチョウ選手",
+      "corrected": "マイルドなH.O選手",
+      "rule": "player name"
+    }
+  ]
+}

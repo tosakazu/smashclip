@@ -1,0 +1,54 @@
+{
+  "id": "90e6fabd-1a9d-46bd-9d91-3a5cab478bfe",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.86,
+      "text": "Down smash confirms it—nice and solid!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "確認して下スマッシュしっかりと"
+    },
+    {
+      "start": 1.86,
+      "end": 4.64,
+      "text": "And Utsui's got a big lead!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあうっちー選手大きなリード"
+    },
+    {
+      "start": 4.64,
+      "end": 6.04,
+      "text": "The fair gets shielded!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあ空前はガードして"
+    },
+    {
+      "start": 6.04,
+      "end": 8.36,
+      "text": "But the back air connects—KO!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "しかし当たったここは空中後ろ撃墜"
+    }
+  ],
+  "full_text": "Down smash confirms it—nice and solid! And Utsui's got a big lead! The fair gets shielded! But the back air connects—KO!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "内井選手",
+      "corrected": "うっちー選手",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 2,
+      "original": "空中権",
+      "corrected": "空前",
+      "rule": "move abbreviation"
+    }
+  ]
+}

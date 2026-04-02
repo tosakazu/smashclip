@@ -1,0 +1,123 @@
+{
+  "id": "cb118b43-4037-43dc-8fce-27a6131b58c5",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.2,
+      "text": "お!いい位置だ!",
+      "language": "ja"
+    },
+    {
+      "start": 1.36,
+      "end": 3.92,
+      "text": "いやー!うーわ!今の上手かったけどね!",
+      "language": "ja"
+    },
+    {
+      "start": 4.94,
+      "end": 7.04,
+      "text": "木を相殺するところまではOKなんですが",
+      "language": "ja"
+    },
+    {
+      "start": 7.04,
+      "end": 9.28,
+      "text": "その後の追撃をかわすために横慣性",
+      "language": "ja"
+    },
+    {
+      "start": 9.28,
+      "end": 12.28,
+      "text": "崖に捕まるまでの移動距離は足りませんでしたね",
+      "language": "ja"
+    },
+    {
+      "start": 12.28,
+      "end": 15.66,
+      "text": "横にはね、全然開かないですからね",
+      "language": "ja"
+    },
+    {
+      "start": 15.66,
+      "end": 17.46,
+      "text": "この突き上げアッパーカットは",
+      "language": "ja"
+    },
+    {
+      "start": 17.46,
+      "end": 20.76,
+      "text": "さあこれですこれ!ハニワ諸共なんですよ",
+      "language": "ja"
+    },
+    {
+      "start": 20.76,
+      "end": 24.02,
+      "text": "これがね、ハニワと一緒に安全に上がりたい",
+      "language": "ja"
+    },
+    {
+      "start": 24.02,
+      "end": 27.0,
+      "text": "えー、村人側に対してかなり",
+      "language": "ja"
+    },
+    {
+      "start": 28.26,
+      "end": 29.56,
+      "text": "刺さってきますからね",
+      "language": "ja"
+    },
+    {
+      "start": 29.56,
+      "end": 32.82,
+      "text": "で、今ね、こうやって対格闘Miiだったりとか",
+      "language": "ja"
+    },
+    {
+      "start": 32.82,
+      "end": 34.64,
+      "text": "対村人の情報を言ってるんですけども",
+      "language": "ja"
+    },
+    {
+      "start": 34.64,
+      "end": 36.7,
+      "text": "なぜこんな堂々と言ってるかというと",
+      "language": "ja"
+    },
+    {
+      "start": 36.7,
+      "end": 39.38,
+      "text": "両選手が折り込み済みで戦っているからですね",
+      "language": "ja"
+    },
+    {
+      "start": 39.38,
+      "end": 41.0,
+      "text": "上スマッシュ!撃墜だー!",
+      "language": "ja"
+    }
+  ],
+  "full_text": "お!いい位置だ! いやー!うーわ!今の上手かったけどね! 木を相殺するところまではOKなんですが その後の追撃をかわすために横慣性 崖に捕まるまでの移動距離は足りませんでしたね 横にはね、全然開かないですからね この突き上げアッパーカットは さあこれですこれ!ハニワ諸共なんですよ これがね、ハニワと一緒に安全に上がりたい えー、村人側に対してかなり 刺さってきますからね で、今ね、こうやって対格闘Miiだったりとか 対村人の情報を言ってるんですけども なぜこんな堂々と言ってるかというと 両選手が折り込み済みで戦っているからですね 上スマッシュ!撃墜だー!",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 3,
+      "original": "横完成",
+      "corrected": "横慣性",
+      "rule": "smash term (横慣性/horizontal momentum)"
+    },
+    {
+      "segment_idx": 11,
+      "original": "対格闘味",
+      "corrected": "対格闘Mii",
+      "rule": "character name (Mii Brawler/格闘Mii)"
+    },
+    {
+      "segment_idx": 14,
+      "original": "折り込みで",
+      "corrected": "折り込み済みで",
+      "rule": "mishearing"
+    }
+  ]
+}

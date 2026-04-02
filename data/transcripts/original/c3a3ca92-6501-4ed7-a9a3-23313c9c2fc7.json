@@ -1,0 +1,45 @@
+{
+  "id": "c3a3ca92-6501-4ed7-a9a3-23313c9c2fc7",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.34,
+      "text": "ちゃうんで",
+      "language": "ja"
+    },
+    {
+      "start": 3.34,
+      "end": 7.74,
+      "text": "リーチで打開していって",
+      "language": "ja"
+    },
+    {
+      "start": 7.74,
+      "end": 10.84,
+      "text": "さあこの飛ばした復帰がうまい",
+      "language": "ja"
+    },
+    {
+      "start": 10.84,
+      "end": 12.04,
+      "text": "空中後ろその",
+      "language": "ja"
+    }
+  ],
+  "full_text": "ちゃうんで リーチで打開していって さあこの飛ばした復帰がうまい 空中後ろその",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "リエ",
+      "corrected": "リーチ",
+      "rule": "misheard word"
+    },
+    {
+      "segment_idx": 3,
+      "original": "空中しろ",
+      "corrected": "空中後ろ",
+      "rule": "misheard move name"
+    }
+  ]
+}

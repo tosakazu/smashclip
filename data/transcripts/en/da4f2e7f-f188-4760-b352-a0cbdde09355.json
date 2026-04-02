@@ -1,0 +1,25 @@
+{
+  "id": "da4f2e7f-f188-4760-b352-a0cbdde09355",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.34,
+      "text": "Alright, so Doner's in a tight spot here, almost got shipwrecked but he's gonna make it.",
+      "language": "en",
+      "original_language": "es",
+      "original_text": "Pero bueno, vamos a ver aquí este Doner que está encontrado, casi lo ha shipwrecked, pero bueno, no va a pasar."
+    },
+    {
+      "start": 6.6,
+      "end": 7.26,
+      "text": "And there's Dash.",
+      "language": "en",
+      "original_language": "es",
+      "original_text": "Y aquí está Dash."
+    }
+  ],
+  "full_text": "Alright, so Doner's in a tight spot here, almost got shipwrecked but he's gonna make it. And there's Dash.",
+  "detected_language": "en",
+  "original_language": "es",
+  "corrections": []
+}

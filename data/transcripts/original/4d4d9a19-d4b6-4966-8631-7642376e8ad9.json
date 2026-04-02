@@ -1,0 +1,87 @@
+{
+  "id": "4d4d9a19-d4b6-4966-8631-7642376e8ad9",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.82,
+      "text": "空前",
+      "language": "ja"
+    },
+    {
+      "start": 0.82,
+      "end": 2.2,
+      "text": "展開作って",
+      "language": "ja"
+    },
+    {
+      "start": 2.2,
+      "end": 5.94,
+      "text": "さあ空Nで飛び込んだ",
+      "language": "ja"
+    },
+    {
+      "start": 5.94,
+      "end": 7.06,
+      "text": "前投げ",
+      "language": "ja"
+    },
+    {
+      "start": 7.06,
+      "end": 8.6,
+      "text": "反転空後",
+      "language": "ja"
+    },
+    {
+      "start": 8.6,
+      "end": 10.02,
+      "text": "爆弾ひとまず",
+      "language": "ja"
+    },
+    {
+      "start": 10.02,
+      "end": 13.2,
+      "text": "崖バイバイ",
+      "language": "ja"
+    },
+    {
+      "start": 13.2,
+      "end": 14.04,
+      "text": "通して撃墜",
+      "language": "ja"
+    }
+  ],
+  "full_text": "空前 展開作って さあ空Nで飛び込んだ 前投げ 反転空後 爆弾ひとまず 崖バイバイ 通して撃墜",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "空中前",
+      "corrected": "空前",
+      "rule": "move abbreviation"
+    },
+    {
+      "segment_idx": 2,
+      "original": "空への飛び込んだ",
+      "corrected": "空Nで飛び込んだ",
+      "rule": "move abbreviation: 空へ→空N"
+    },
+    {
+      "segment_idx": 4,
+      "original": "反転空中しろ",
+      "corrected": "反転空後",
+      "rule": "move abbreviation: 空中しろ→空後"
+    },
+    {
+      "segment_idx": 6,
+      "original": "崖バイエビー",
+      "corrected": "崖バイバイ",
+      "rule": "misheard word"
+    },
+    {
+      "segment_idx": 7,
+      "original": "激戦",
+      "corrected": "撃墜",
+      "rule": "kanji homophone: 激戦→撃墜"
+    }
+  ]
+}

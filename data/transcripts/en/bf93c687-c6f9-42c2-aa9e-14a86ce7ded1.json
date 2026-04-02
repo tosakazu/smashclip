@@ -1,0 +1,100 @@
+{
+  "id": "bf93c687-c6f9-42c2-aa9e-14a86ce7ded1",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.32,
+      "text": "Going out! Danger!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "出る!危ない!"
+    },
+    {
+      "start": 1.64,
+      "end": 2.62,
+      "text": "Minecart! Fair!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "トロッコ!空前!"
+    },
+    {
+      "start": 3.44,
+      "end": 3.82,
+      "text": "Come on!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "お願いします!"
+    },
+    {
+      "start": 5.38,
+      "end": 7.28,
+      "text": "At the ledge! Danger!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "うー、崖際のところ!危ない!"
+    },
+    {
+      "start": 7.48,
+      "end": 8.28,
+      "text": "Gotta be solid there!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "あのとこはしっかりと!"
+    },
+    {
+      "start": 8.44,
+      "end": 8.72,
+      "text": "There it is!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "搭載!"
+    },
+    {
+      "start": 9.86,
+      "end": 10.7,
+      "text": "Off the spin!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "スピンからは!"
+    },
+    {
+      "start": 10.92,
+      "end": 11.5,
+      "text": "Coming down!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "降りては!"
+    },
+    {
+      "start": 12.08,
+      "end": 12.6,
+      "text": "SEGA!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "セガー!"
+    }
+  ],
+  "full_text": "Going out! Danger! Minecart! Fair! Come on! At the ledge! Danger! Gotta be solid there! There it is! Off the spin! Coming down! SEGA!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "貸せ前",
+      "corrected": "空前",
+      "rule": "smash term"
+    },
+    {
+      "segment_idx": 3,
+      "original": "崖使いのところ",
+      "corrected": "崖際のところ",
+      "rule": "misheard word"
+    },
+    {
+      "segment_idx": 6,
+      "original": "スーピンからは",
+      "corrected": "スピンからは",
+      "rule": "character move"
+    }
+  ]
+}

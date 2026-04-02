@@ -1,0 +1,84 @@
+{
+  "id": "18edd9ef-6485-49f2-8ceb-e0c2f2c08639",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.16,
+      "text": "This Corrin's been looking really different from the rest!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "今まで他のカムイと違ってとても面白いですよね"
+    },
+    {
+      "start": 3.16,
+      "end": 5.08,
+      "text": "So...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあそんな"
+    },
+    {
+      "start": 5.08,
+      "end": 7.08,
+      "text": "Oh! That nair as well!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "おお今の空Nも"
+    },
+    {
+      "start": 7.08,
+      "end": 9.46,
+      "text": "If the active frames catch, that's gonna be huge, but...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "持続で当たるとえらいことになりますが"
+    },
+    {
+      "start": 9.46,
+      "end": 12.32,
+      "text": "It's not a meteor, but...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "メテオにはならないが"
+    },
+    {
+      "start": 12.32,
+      "end": 13.08,
+      "text": "Made the recovery!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "帰ってきた"
+    },
+    {
+      "start": 13.08,
+      "end": 14.4,
+      "text": "Watching the ledge getup",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "崖の上がりを見ている"
+    }
+  ],
+  "full_text": "This Corrin's been looking really different from the rest! So... Oh! That nair as well! If the active frames catch, that's gonna be huge, but... It's not a meteor, but... Made the recovery! Watching the ledge getup",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "今まで他の神威と違って",
+      "corrected": "今まで他のカムイと違って",
+      "rule": "Character name: 神威→カムイ (Corrin)"
+    },
+    {
+      "segment_idx": 2,
+      "original": "おお今のクエネも",
+      "corrected": "おお今の空Nも",
+      "rule": "Move abbreviation: クエネ→空N (neutral air)"
+    },
+    {
+      "segment_idx": 6,
+      "original": "かわいい仕上がりを見ている",
+      "corrected": "崖の上がりを見ている",
+      "rule": "Garbled transcription: かわいい仕上がり→崖の上がり"
+    }
+  ]
+}

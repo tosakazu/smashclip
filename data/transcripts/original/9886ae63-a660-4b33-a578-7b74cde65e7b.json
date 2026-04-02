@@ -1,0 +1,27 @@
+{
+  "id": "9886ae63-a660-4b33-a578-7b74cde65e7b",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.08,
+      "text": "they are complete right my friend there's a lot of extra credit right here for Sisqui who",
+      "language": "en"
+    },
+    {
+      "start": 4.08,
+      "end": 8.56,
+      "text": "wants to bring it home game number one has his name and he wants to sign it",
+      "language": "en"
+    }
+  ],
+  "full_text": "they are complete right my friend there's a lot of extra credit right here for Sisqui who wants to bring it home game number one has his name and he wants to sign it",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "ziske",
+      "corrected": "Sisqui",
+      "rule": "player name"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "ba6b697e-8a99-4261-a9b3-cb0dcbce78cf",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.9,
+      "text": "This is healthy damage right here for Toriguri.",
+      "language": "en"
+    },
+    {
+      "start": 2.46,
+      "end": 3.32,
+      "text": "Regal Blaster is out.",
+      "language": "en"
+    },
+    {
+      "start": 3.56,
+      "end": 3.84,
+      "text": "How do you-",
+      "language": "en"
+    },
+    {
+      "start": 3.84,
+      "end": 4.02,
+      "text": "Oh!",
+      "language": "en"
+    },
+    {
+      "start": 4.34,
+      "end": 4.98,
+      "text": "I'm totally-",
+      "language": "en"
+    },
+    {
+      "start": 4.98,
+      "end": 6.56,
+      "text": "No way did that get-",
+      "language": "en"
+    },
+    {
+      "start": 6.56,
+      "end": 8.24,
+      "text": "That was like 90 before hit.",
+      "language": "en"
+    }
+  ],
+  "full_text": "This is healthy damage right here for Toriguri. Regal Blaster is out. How do you- Oh! I'm totally- No way did that get- That was like 90 before hit.",
+  "detected_language": "en",
+  "corrections": []
+}

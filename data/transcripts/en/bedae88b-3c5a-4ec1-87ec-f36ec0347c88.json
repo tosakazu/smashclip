@@ -1,0 +1,68 @@
+{
+  "id": "bedae88b-3c5a-4ec1-87ec-f36ec0347c88",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.5,
+      "text": "Forward smash is the only way KOs are coming through",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "横スマキックでしか撃墜をむしろ通してないという"
+    },
+    {
+      "start": 2.5,
+      "end": 3.96,
+      "text": "That's a strange situation",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "おかしな展開"
+    },
+    {
+      "start": 3.96,
+      "end": 6.46,
+      "text": "This is good for whoever defies the prediction",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これは予想裏切る側はいいんでした"
+    },
+    {
+      "start": 6.46,
+      "end": 8.16,
+      "text": "But also",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "しかし同じく"
+    },
+    {
+      "start": 8.16,
+      "end": 10.62,
+      "text": "Ninba is also landing KOs off bair",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "にんば選手も空中後ろ攻撃での撃墜を"
+    }
+  ],
+  "full_text": "Forward smash is the only way KOs are coming through. That's a strange situation. This is good for whoever defies the prediction. But also Ninba is also landing KOs off bair",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "矢妻キック",
+      "corrected": "横スマキック",
+      "rule": "smash term"
+    },
+    {
+      "segment_idx": 4,
+      "original": "忍法戦士",
+      "corrected": "にんば選手",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 4,
+      "original": "空中白攻撃",
+      "corrected": "空中後ろ攻撃",
+      "rule": "smash term"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "id": "68aa41ce-4f9c-4c5e-8e55-431f9edfaacc",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.3,
+      "text": "trading back and forth here...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "やりとするような"
+    },
+    {
+      "start": 1.3,
+      "end": 3.6,
+      "text": "Something dangerous at the ledge...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここでね何か崖で嫌なものを"
+    },
+    {
+      "start": 3.6,
+      "end": 4.94,
+      "text": "and there's a risk of a ledge trap...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "植えたりする可能性もあるわけですから"
+    },
+    {
+      "start": 4.94,
+      "end": 7.08,
+      "text": "recovery...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ライン回復が"
+    },
+    {
+      "start": 7.08,
+      "end": 9.68,
+      "text": "Here they managed to get back with...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここでウェビーで何とか返した"
+    },
+    {
+      "start": 9.68,
+      "end": 10.9,
+      "text": "back air!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空後で"
+    },
+    {
+      "start": 10.9,
+      "end": 11.84,
+      "text": "Oh!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いってー"
+    }
+  ],
+  "full_text": "trading back and forth here... Something dangerous at the ledge... and there's a risk of a ledge trap... recovery... Here they managed to get back with... back air! Oh!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "株",
+      "corrected": "崖",
+      "rule": "kanji homophone"
+    },
+    {
+      "segment_idx": 5,
+      "original": "空中白",
+      "corrected": "空後",
+      "rule": "kanji homophone (しろ→後)"
+    }
+  ]
+}

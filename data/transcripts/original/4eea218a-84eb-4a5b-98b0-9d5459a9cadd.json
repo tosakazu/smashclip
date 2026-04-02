@@ -1,0 +1,39 @@
+{
+  "id": "4eea218a-84eb-4a5b-98b0-9d5459a9cadd",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 7.68,
+      "text": "but nonetheless Mark running for dear life as the clock continues to expire lord have mercy",
+      "language": "en"
+    },
+    {
+      "start": 7.68,
+      "end": 12.24,
+      "text": "mixes it in no down B I like that just waiting but then oh the shift",
+      "language": "en"
+    }
+  ],
+  "full_text": "but nonetheless Mark running for dear life as the clock continues to expire lord have mercy mixes it in no down B I like that just waiting but then oh the shift",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "mark",
+      "corrected": "Mark",
+      "rule": "player name: ShinyMark"
+    },
+    {
+      "segment_idx": 1,
+      "original": "mix it in no downbeat",
+      "corrected": "mixes it in no down B",
+      "rule": "move name: downbeat→down B"
+    },
+    {
+      "segment_idx": 1,
+      "original": "the shirt",
+      "corrected": "the shift",
+      "rule": "misheard word"
+    }
+  ]
+}

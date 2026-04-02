@@ -1,0 +1,27 @@
+{
+  "id": "bf3ac904-04f1-45b0-98a2-0df7607e70b0",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.44,
+      "text": "touch and he knows that absolutely does and light says look but i can i can kill you off of several",
+      "language": "en"
+    },
+    {
+      "start": 5.44,
+      "end": 11.84,
+      "text": "touches and doing just that still at zero percent found that back air found that stock zero to death",
+      "language": "en"
+    }
+  ],
+  "full_text": "touch and he knows that absolutely does and light says look but i can i can kill you off of several touches and doing just that still at zero percent found that back air found that stock zero to death",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "found that sucks",
+      "corrected": "found that stock",
+      "rule": "misheard word"
+    }
+  ]
+}

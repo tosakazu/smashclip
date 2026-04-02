@@ -1,0 +1,50 @@
+{
+  "id": "07cff485-5234-4a1b-a875-2865d6cba60b",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.78,
+      "text": "Pegó y dijo, ya está.",
+      "language": "es"
+    },
+    {
+      "start": 1.42,
+      "end": 2.32,
+      "text": "Justito, justito.",
+      "language": "es"
+    },
+    {
+      "start": 2.4,
+      "end": 6.12,
+      "text": "Se estuvo una interacción bien curiosa, pero...",
+      "language": "es"
+    },
+    {
+      "start": 6.12,
+      "end": 6.84,
+      "text": "It is what it is.",
+      "language": "es"
+    },
+    {
+      "start": 6.94,
+      "end": 7.1,
+      "text": "¡No!",
+      "language": "es"
+    },
+    {
+      "start": 7.9,
+      "end": 8.68,
+      "text": "¿What? ¿What?",
+      "language": "es"
+    },
+    {
+      "start": 8.84,
+      "end": 10.52,
+      "text": "Sí, o sea, por favor.",
+      "language": "es"
+    }
+  ],
+  "full_text": "Pegó y dijo, ya está. Justito, justito. Se estuvo una interacción bien curiosa, pero... It is what it is. ¡No! ¿What? ¿What? Sí, o sea, por favor.",
+  "detected_language": "es",
+  "corrections": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "832e5d66-5c9b-4013-ad43-711b35e8ce6a",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.36,
+      "text": "that is going to put Guilheww off the stage and the grab and you know that is oh I thought he",
+      "language": "en"
+    },
+    {
+      "start": 4.36,
+      "end": 8.64,
+      "text": "might go for the up throw but not quite yeah I'm gonna be honest uh I might sound a little",
+      "language": "en"
+    },
+    {
+      "start": 8.64,
+      "end": 10.46,
+      "text": "ignorant that's a nice up throw but",
+      "language": "en"
+    }
+  ],
+  "full_text": "that is going to put Guilheww off the stage and the grab and you know that is oh I thought he might go for the up throw but not quite yeah I'm gonna be honest uh I might sound a little ignorant that's a nice up throw but",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "Gil Hugh",
+      "corrected": "Guilheww",
+      "rule": "player name"
+    }
+  ]
+}

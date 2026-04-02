@@ -1,0 +1,25 @@
+{
+  "id": "4bb56630-65e4-4250-80d1-0384b3ed9cbb",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.12,
+      "text": "This fighter really has the freedom to throw out attacks when they've got the space.",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ないところでかなりね自由に技を振れるファイターではありますね"
+    },
+    {
+      "start": 3.12,
+      "end": 9.68,
+      "text": "Yeah, that's gorilla.",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そうこれはゴリラ"
+    }
+  ],
+  "full_text": "This fighter really has the freedom to throw out attacks when they've got the space. Yeah, that's gorilla.",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

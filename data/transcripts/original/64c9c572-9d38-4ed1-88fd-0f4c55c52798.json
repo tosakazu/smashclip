@@ -1,0 +1,51 @@
+{
+  "id": "64c9c572-9d38-4ed1-88fd-0f4c55c52798",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.12,
+      "text": "空中前 素晴らしい前キャンだ こちらも見せつける",
+      "language": "ja"
+    },
+    {
+      "start": 3.12,
+      "end": 4.98,
+      "text": "ストック3-2 リードはデンコタ",
+      "language": "ja"
+    },
+    {
+      "start": 4.98,
+      "end": 7.6,
+      "text": "横強先端",
+      "language": "ja"
+    },
+    {
+      "start": 7.6,
+      "end": 13.48,
+      "text": "PKフリーズ 見てから確実に",
+      "language": "ja"
+    }
+  ],
+  "full_text": "空中前 素晴らしい前キャンだ こちらも見せつける ストック3-2 リードはデンコタ 横強先端 PKフリーズ 見てから確実に",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "前カンディ",
+      "corrected": "前キャンだ",
+      "rule": "misheard abbreviation"
+    },
+    {
+      "segment_idx": 2,
+      "original": "有効強",
+      "corrected": "横強",
+      "rule": "kanji homophone (ゆうこうきょう→よこきょう)"
+    },
+    {
+      "segment_idx": 3,
+      "original": "TKフリーズ",
+      "corrected": "PKフリーズ",
+      "rule": "Lucas move name"
+    }
+  ]
+}

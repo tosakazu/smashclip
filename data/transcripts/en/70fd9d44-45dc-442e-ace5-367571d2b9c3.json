@@ -1,0 +1,103 @@
+{
+  "id": "70fd9d44-45dc-442e-ace5-367571d2b9c3",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.76,
+      "text": "Trying to escape to the side with flip to adjust spacing",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "横にフリップで逃げて横軸合わせようとすると"
+    },
+    {
+      "start": 2.76,
+      "end": 5.06,
+      "text": "But the flip gets them clear",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "今度はフリップでもうそこにいないという"
+    },
+    {
+      "start": 5.06,
+      "end": 7.04,
+      "text": "This flip-based juggle escape is",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "フリップでの着地狩り拒否が"
+    },
+    {
+      "start": 7.04,
+      "end": 8.44,
+      "text": "A solid option here, but",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "なかなか光りそうなカードですが"
+    },
+    {
+      "start": 8.44,
+      "end": 10.42,
+      "text": "They're going for damage instead",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここはダメージ稼ぎを優先だが"
+    },
+    {
+      "start": 10.42,
+      "end": 12.24,
+      "text": "Grabbed and sent airborne",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "掴んで空中した"
+    },
+    {
+      "start": 12.24,
+      "end": 13.98,
+      "text": "Building damage with nair",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空中ニュートラルでダメージを伸ばす"
+    },
+    {
+      "start": 13.98,
+      "end": 15.0,
+      "text": "On-platform mixup",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "台上の読み合い"
+    },
+    {
+      "start": 15.0,
+      "end": 17.96,
+      "text": "And neutral B too, scary stuff!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ニュートラル必殺技もあって怖い怖い"
+    },
+    {
+      "start": 17.96,
+      "end": 19.24,
+      "text": "That's the true combo",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これは確定"
+    },
+    {
+      "start": 19.24,
+      "end": 21.9,
+      "text": "Around 75 percent earlier",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さっき75%ほどで"
+    }
+  ],
+  "full_text": "Trying to escape to the side with flip to adjust spacing But the flip gets them clear This flip-based juggle escape is A solid option here, but They're going for damage instead Grabbed and sent airborne Building damage with nair On-platform mixup And neutral B too, scary stuff! That's the true combo Around 75 percent earlier",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_index": 7,
+      "original": "大上の読み合い",
+      "corrected": "台上の読み合い"
+    }
+  ]
+}

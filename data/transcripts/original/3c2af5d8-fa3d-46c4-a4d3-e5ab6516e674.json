@@ -1,0 +1,33 @@
+{
+  "id": "3c2af5d8-fa3d-46c4-a4d3-e5ab6516e674",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.0,
+      "text": "空前",
+      "language": "ja"
+    },
+    {
+      "start": 3.0,
+      "end": 4.0,
+      "text": "崖は上がった",
+      "language": "ja"
+    },
+    {
+      "start": 4.0,
+      "end": 8.1,
+      "text": "ここはスピンから空後",
+      "language": "ja"
+    }
+  ],
+  "full_text": "空前 崖は上がった ここはスピンから空後",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "空中",
+      "corrected": "空後",
+      "rule": "空中→空後 (横B→空後 combo)"
+    }
+  ]
+}

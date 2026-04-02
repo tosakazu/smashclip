@@ -1,0 +1,33 @@
+{
+  "id": "2d7d9c2d-e5b7-49db-a547-3b0bf061f30c",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.7,
+      "text": "暴れウルフレ、ギガファイア引っかかって",
+      "language": "ja"
+    },
+    {
+      "start": 1.7,
+      "end": 3.64,
+      "text": "リザイアは当たりませんでしたが",
+      "language": "ja"
+    },
+    {
+      "start": 3.64,
+      "end": 5.68,
+      "text": "ここは横強攻撃、カズヒト選手ライン",
+      "language": "ja"
+    }
+  ],
+  "full_text": "暴れウルフレ、ギガファイア引っかかって リザイアは当たりませんでしたが ここは横強攻撃、カズヒト選手ライン",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "カザヒト",
+      "corrected": "カズヒト",
+      "rule": "player name"
+    }
+  ]
+}

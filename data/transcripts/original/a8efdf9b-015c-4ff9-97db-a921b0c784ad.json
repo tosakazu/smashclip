@@ -1,0 +1,33 @@
+{
+  "id": "a8efdf9b-015c-4ff9-97db-a921b0c784ad",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.16,
+      "text": "ルイージは空中横機動力はそこまで優秀ではないですから",
+      "language": "ja"
+    },
+    {
+      "start": 3.16,
+      "end": 4.08,
+      "text": "あれを",
+      "language": "ja"
+    },
+    {
+      "start": 4.08,
+      "end": 4.92,
+      "text": "おー",
+      "language": "ja"
+    }
+  ],
+  "full_text": "ルイージは空中横機動力はそこまで優秀ではないですから あれを おー",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "ブイージ",
+      "corrected": "ルイージ",
+      "rule": "Character name: ブイージ→ルイージ(Luigi)"
+    }
+  ]
+}

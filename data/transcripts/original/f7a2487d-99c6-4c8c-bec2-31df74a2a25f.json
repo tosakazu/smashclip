@@ -1,0 +1,51 @@
+{
+  "id": "f7a2487d-99c6-4c8c-bec2-31df74a2a25f",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.2,
+      "text": "そちらも準備完了か? 0%がもはや危険か?",
+      "language": "ja"
+    },
+    {
+      "start": 3.2,
+      "end": 3.7,
+      "text": "え、まじで?",
+      "language": "ja"
+    },
+    {
+      "start": 3.7,
+      "end": 4.2,
+      "text": "上手すぎる!",
+      "language": "ja"
+    },
+    {
+      "start": 4.2,
+      "end": 6.6,
+      "text": "2回目の上Bにジャストシールドを取って",
+      "language": "ja"
+    },
+    {
+      "start": 6.6,
+      "end": 7.8,
+      "text": "展開を奪い取って",
+      "language": "ja"
+    },
+    {
+      "start": 7.8,
+      "end": 10.7,
+      "text": "はぁぁぁぁぁぁぁ",
+      "language": "ja"
+    }
+  ],
+  "full_text": "そちらも準備完了か? 0%がもはや危険か? え、まじで? 上手すぎる! 2回目の上Bにジャストシールドを取って 展開を奪い取って はぁぁぁぁぁぁぁ",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 3,
+      "original": "植木王",
+      "corrected": "上B",
+      "rule": "misheard: 植木王→上B"
+    }
+  ]
+}

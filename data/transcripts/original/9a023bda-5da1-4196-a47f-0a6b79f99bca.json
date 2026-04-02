@@ -1,0 +1,45 @@
+{
+  "id": "9a023bda-5da1-4196-a47f-0a6b79f99bca",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.8,
+      "text": "横B付け足しで戻ってきましたが",
+      "language": "ja"
+    },
+    {
+      "start": 1.8,
+      "end": 2.96,
+      "text": "僕は下投げ",
+      "language": "ja"
+    },
+    {
+      "start": 2.96,
+      "end": 4.68,
+      "text": "後ろ投げのOPを取っておく選択",
+      "language": "ja"
+    },
+    {
+      "start": 4.68,
+      "end": 5.18,
+      "text": "なるほど",
+      "language": "ja"
+    },
+    {
+      "start": 5.18,
+      "end": 7.24,
+      "text": "早出し",
+      "language": "ja"
+    }
+  ],
+  "full_text": "横B付け足しで戻ってきましたが 僕は下投げ 後ろ投げのOPを取っておく選択 なるほど 早出し",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "横見つけすし",
+      "corrected": "横B付け足し",
+      "rule": "move name misheard"
+    }
+  ]
+}

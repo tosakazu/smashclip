@@ -1,0 +1,87 @@
+{
+  "id": "b4aadefa-3ecd-48d7-bad6-68fa8986e897",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.68,
+      "text": "後ろが空中上で反応している",
+      "language": "ja"
+    },
+    {
+      "start": 2.68,
+      "end": 4.86,
+      "text": "ここも空中上",
+      "language": "ja"
+    },
+    {
+      "start": 4.86,
+      "end": 5.5,
+      "text": "Tweek選手",
+      "language": "ja"
+    },
+    {
+      "start": 5.5,
+      "end": 8.32,
+      "text": "できればこの下り決めきりたいところですが",
+      "language": "ja"
+    },
+    {
+      "start": 8.32,
+      "end": 9.4,
+      "text": "下強から",
+      "language": "ja"
+    },
+    {
+      "start": 9.4,
+      "end": 10.8,
+      "text": "ダッシュ上スマッシュ",
+      "language": "ja"
+    },
+    {
+      "start": 10.8,
+      "end": 11.46,
+      "text": "ナイスクリーン",
+      "language": "ja"
+    }
+  ],
+  "full_text": "後ろが空中上で反応している ここも空中上 Tweek選手 できればこの下り決めきりたいところですが 下強から ダッシュ上スマッシュ ナイスクリーン",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "空中城",
+      "corrected": "空中上",
+      "rule": "move name"
+    },
+    {
+      "segment_idx": 1,
+      "original": "空中城",
+      "corrected": "空中上",
+      "rule": "move name"
+    },
+    {
+      "segment_idx": 2,
+      "original": "ツイックス選手",
+      "corrected": "Tweek選手",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 3,
+      "original": "この限り",
+      "corrected": "この下り",
+      "rule": "misheard word"
+    },
+    {
+      "segment_idx": 4,
+      "original": "スタキオから",
+      "corrected": "下強から",
+      "rule": "move name"
+    },
+    {
+      "segment_idx": 6,
+      "original": "スタッシュクリーニング",
+      "corrected": "ナイスクリーン",
+      "rule": "misheard word"
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "id": "f1215751-34e1-422f-b024-a18309ac588f",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.64,
+      "text": "Showering them with aerials!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空中を浴びてもらおう"
+    },
+    {
+      "start": 1.64,
+      "end": 3.06,
+      "text": "Up air, up air!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空上空上"
+    },
+    {
+      "start": 3.06,
+      "end": 4.22,
+      "text": "Another up air!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "もう一回空上"
+    },
+    {
+      "start": 4.22,
+      "end": 5.34,
+      "text": "Sidestepping nair",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空Nも避けつつ"
+    },
+    {
+      "start": 5.34,
+      "end": 6.56,
+      "text": "Bair!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空後"
+    },
+    {
+      "start": 6.56,
+      "end": 11.3,
+      "text": "Even catching the mashed landing!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "相手の暴れ着地にすらリスクをつけてきて"
+    },
+    {
+      "start": 11.3,
+      "end": 13.88,
+      "text": "Dair dodged but tilt catches!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空下避けても横強攻撃の持続で"
+    },
+    {
+      "start": 13.88,
+      "end": 16.26,
+      "text": "How about another aerial?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "もう一回エアリアルはどうだ"
+    },
+    {
+      "start": 16.26,
+      "end": 17.8,
+      "text": "Launching upward",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "下が浮かされると"
+    },
+    {
+      "start": 17.8,
+      "end": 19.44,
+      "text": "Direct finish!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "直接叩き切る"
+    }
+  ],
+  "full_text": "Showering them with aerials! Up air, up air! Another up air! Sidestepping nair Bair! Even catching the mashed landing! Dair dodged but tilt catches! How about another aerial? Launching upward Direct finish!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "空へ空へ",
+      "corrected": "空上空上",
+      "rule": "misheard: 空へ→空上"
+    },
+    {
+      "segment_idx": 2,
+      "original": "もう一回空へ",
+      "corrected": "もう一回空上",
+      "rule": "misheard"
+    },
+    {
+      "segment_idx": 3,
+      "original": "空とこも避けつつ",
+      "corrected": "空Nも避けつつ",
+      "rule": "misheard"
+    },
+    {
+      "segment_idx": 4,
+      "original": "空中しろ",
+      "corrected": "空後",
+      "rule": "misheard: 空中しろ→空後"
+    },
+    {
+      "segment_idx": 7,
+      "original": "エリサはどうだ",
+      "corrected": "エアリアルはどうだ",
+      "rule": "misheard"
+    },
+    {
+      "segment_idx": 8,
+      "original": "下が浮かれると",
+      "corrected": "下が浮かされると",
+      "rule": "typo"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "bfb27a41-869c-4be3-b2f5-b3b07d8fb3bf",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 7.78,
+      "text": "Single hit into the reversed up smash for max return—that entire first stock was absolutely flawless!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "一撃 そして反転上スマッシュという最大リターンを取ったところまでも全てが完璧な1ストック目でした"
+    },
+    {
+      "start": 7.78,
+      "end": 11.34,
+      "text": "At 2v2 stocks, if that up smash lands, anything could happen!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "2対2ストック並べば何が起きてもおかしくない上スマッシュ"
+    }
+  ],
+  "full_text": "Single hit into the reversed up smash for max return—that entire first stock was absolutely flawless! At 2v2 stocks, if that up smash lands, anything could happen!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "判定上スマッシュという最大破格",
+      "corrected": "反転上スマッシュという最大リターン",
+      "rule": "smash term"
+    }
+  ]
+}

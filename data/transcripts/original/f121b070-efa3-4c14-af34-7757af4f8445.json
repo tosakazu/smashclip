@@ -1,0 +1,45 @@
+{
+  "id": "f121b070-efa3-4c14-af34-7757af4f8445",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.08,
+      "text": "うまいいなし方だ",
+      "language": "ja"
+    },
+    {
+      "start": 1.08,
+      "end": 3.08,
+      "text": "ブリザーはね",
+      "language": "ja"
+    },
+    {
+      "start": 3.08,
+      "end": 4.28,
+      "text": "まさか撃墜",
+      "language": "ja"
+    },
+    {
+      "start": 4.28,
+      "end": 5.76,
+      "text": "さあ完璧",
+      "language": "ja"
+    }
+  ],
+  "full_text": "うまいいなし方だ ブリザーはね まさか撃墜 さあ完璧",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "言いなし方",
+      "corrected": "いなし方",
+      "rule": "typo"
+    },
+    {
+      "segment_idx": 2,
+      "original": "激戦",
+      "corrected": "撃墜",
+      "rule": "kanji homophone: 激戦→撃墜"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "id": "16a14554-2838-44bb-aac9-f051f8f61988",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.48,
+      "text": "went for it!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "っていきました"
+    },
+    {
+      "start": 0.48,
+      "end": 2.34,
+      "text": "Gets grabbed here!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここは捕まってしまう"
+    },
+    {
+      "start": 2.34,
+      "end": 3.0,
+      "text": "Repoka so fast!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "レポカちゃん早っ"
+    },
+    {
+      "start": 4.12,
+      "end": 4.72,
+      "text": "What do you do?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "どうする?"
+    },
+    {
+      "start": 6.38,
+      "end": 7.88,
+      "text": "Cola picked up that up tilt!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "上強拾ったのはあcolaが"
+    },
+    {
+      "start": 7.88,
+      "end": 8.14,
+      "text": "Yeah",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そ"
+    }
+  ],
+  "full_text": "went for it! Gets grabbed here! Repoka so fast! What do you do? Cola picked up that up tilt! Yeah",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 4,
+      "original": "上今日拾ったのはコーラが",
+      "corrected": "上強拾ったのはあcolaが",
+      "rule": "Kanji homophone: 上今日→上強; Player name: コーラ→あcola"
+    }
+  ]
+}

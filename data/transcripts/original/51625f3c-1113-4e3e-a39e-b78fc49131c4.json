@@ -1,0 +1,39 @@
+{
+  "id": "51625f3c-1113-4e3e-a39e-b78fc49131c4",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.8,
+      "text": "さあメタラがうまく今度は上から帰ってくることで",
+      "language": "ja"
+    },
+    {
+      "start": 2.8,
+      "end": 4.4,
+      "text": "読み合いを回していって",
+      "language": "ja"
+    },
+    {
+      "start": 4.4,
+      "end": 6.14,
+      "text": "アルセーヌが来たが",
+      "language": "ja"
+    },
+    {
+      "start": 6.14,
+      "end": 7.48,
+      "text": "上スマッシュ再び",
+      "language": "ja"
+    }
+  ],
+  "full_text": "さあメタラがうまく今度は上から帰ってくることで 読み合いを回していって アルセーヌが来たが 上スマッシュ再び",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "ベタラガー",
+      "corrected": "メタラ",
+      "rule": "player name: めたら/Metara"
+    }
+  ]
+}

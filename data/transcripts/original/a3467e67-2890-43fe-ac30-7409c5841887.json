@@ -1,0 +1,32 @@
+{
+  "id": "a3467e67-2890-43fe-ac30-7409c5841887",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.88,
+      "text": "容赦ないですねこのジャストガード",
+      "language": "ja"
+    },
+    {
+      "start": 1.88,
+      "end": 3.24,
+      "text": "帰れ",
+      "language": "ja"
+    },
+    {
+      "start": 3.24,
+      "end": 5.84,
+      "text": "いやもうそうだよね",
+      "language": "ja"
+    },
+    {
+      "start": 5.84,
+      "end": 8.42,
+      "text": "ここは",
+      "language": "ja"
+    }
+  ],
+  "full_text": "容赦ないですねこのジャストガード 帰れ いやもうそうだよね ここは",
+  "detected_language": "ja",
+  "corrections": []
+}

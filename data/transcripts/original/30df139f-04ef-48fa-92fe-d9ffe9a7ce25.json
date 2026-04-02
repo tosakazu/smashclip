@@ -1,0 +1,111 @@
+{
+  "id": "30df139f-04ef-48fa-92fe-d9ffe9a7ce25",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.58,
+      "text": "決まったか",
+      "language": "ja"
+    },
+    {
+      "start": 0.58,
+      "end": 2.26,
+      "text": "ボスギャラガは撒いて",
+      "language": "ja"
+    },
+    {
+      "start": 2.26,
+      "end": 3.32,
+      "text": "パワーエースを狙うか",
+      "language": "ja"
+    },
+    {
+      "start": 3.32,
+      "end": 4.8,
+      "text": "14秒",
+      "language": "ja"
+    },
+    {
+      "start": 4.8,
+      "end": 7.18,
+      "text": "ここで空後",
+      "language": "ja"
+    },
+    {
+      "start": 7.18,
+      "end": 9.18,
+      "text": "100%を超えるが",
+      "language": "ja"
+    },
+    {
+      "start": 9.18,
+      "end": 11.52,
+      "text": "脱出力が凄い、さばいていく",
+      "language": "ja"
+    },
+    {
+      "start": 11.52,
+      "end": 13.24,
+      "text": "これは",
+      "language": "ja"
+    },
+    {
+      "start": 13.24,
+      "end": 15.32,
+      "text": "もうちょっと無理ですね",
+      "language": "ja"
+    },
+    {
+      "start": 15.32,
+      "end": 16.06,
+      "text": "3",
+      "language": "ja"
+    },
+    {
+      "start": 16.06,
+      "end": 18.1,
+      "text": "いやーそうですね",
+      "language": "ja"
+    },
+    {
+      "start": 18.1,
+      "end": 20.78,
+      "text": "まあTea選手が",
+      "language": "ja"
+    },
+    {
+      "start": 20.78,
+      "end": 21.12,
+      "text": "リーズ",
+      "language": "ja"
+    }
+  ],
+  "full_text": "決まったか ボスギャラガは撒いて パワーエースを狙うか 14秒 ここで空後 100%を超えるが 脱出力が凄い、さばいていく これは もうちょっと無理ですね 3 いやーそうですね まあTea選手が リーズ",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "ボスギャラクシーは巻いて",
+      "corrected": "ボスギャラガは撒いて",
+      "rule": "move name: ボスギャラクシー→ボスギャラガ"
+    },
+    {
+      "segment_idx": 4,
+      "original": "空中しろ",
+      "corrected": "空後",
+      "rule": "move name normalization"
+    },
+    {
+      "segment_idx": 6,
+      "original": "脱出力がすごろさばいていく",
+      "corrected": "脱出力が凄い、さばいていく",
+      "rule": "Whisper misrecognition"
+    },
+    {
+      "segment_idx": 11,
+      "original": "T選手",
+      "corrected": "Tea選手",
+      "rule": "Whisper misrecognition"
+    }
+  ]
+}

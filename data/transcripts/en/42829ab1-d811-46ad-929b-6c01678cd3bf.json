@@ -1,0 +1,39 @@
+{
+  "id": "42829ab1-d811-46ad-929b-6c01678cd3bf",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.32,
+      "text": "and now we have the lemons again catching his movement in the air and see how he tries to",
+      "language": "en"
+    },
+    {
+      "start": 5.32,
+      "end": 9.06,
+      "text": "okay it looks like since butani doesn't always recover low you don't always see a lot of down",
+      "language": "en"
+    },
+    {
+      "start": 9.06,
+      "end": 11.8,
+      "text": "airs coming through from high that's a free back air",
+      "language": "en"
+    }
+  ],
+  "full_text": "and now we have the lemons again catching his movement in the air and see how he tries to okay it looks like since butani doesn't always recover low you don't always see a lot of down airs coming through from high that's a free back air",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "ears",
+      "corrected": "airs",
+      "rule": "misheard word (smash term)"
+    },
+    {
+      "segment_idx": 2,
+      "original": "backhand",
+      "corrected": "back air",
+      "rule": "misheard word (smash term)"
+    }
+  ]
+}

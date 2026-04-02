@@ -1,0 +1,87 @@
+{
+  "id": "ece941c5-decb-46c3-bf59-0b1755232079",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.32,
+      "text": "しかしライン入れ替わって",
+      "language": "ja"
+    },
+    {
+      "start": 1.32,
+      "end": 2.78,
+      "text": "こうなると怖い空N溜めてを",
+      "language": "ja"
+    },
+    {
+      "start": 2.78,
+      "end": 3.8,
+      "text": "うまく暴れを通して",
+      "language": "ja"
+    },
+    {
+      "start": 3.8,
+      "end": 4.98,
+      "text": "ラインを入れ替えていく",
+      "language": "ja"
+    },
+    {
+      "start": 4.98,
+      "end": 5.74,
+      "text": "空Nニュートラル",
+      "language": "ja"
+    },
+    {
+      "start": 5.74,
+      "end": 6.8,
+      "text": "嫌なベクトルだったが",
+      "language": "ja"
+    },
+    {
+      "start": 6.8,
+      "end": 7.54,
+      "text": "これはまさか",
+      "language": "ja"
+    },
+    {
+      "start": 7.54,
+      "end": 8.12,
+      "text": "昇竜拳で",
+      "language": "ja"
+    },
+    {
+      "start": 8.12,
+      "end": 8.48,
+      "text": "嘘",
+      "language": "ja"
+    },
+    {
+      "start": 8.48,
+      "end": 9.5,
+      "text": "撃墜",
+      "language": "ja"
+    }
+  ],
+  "full_text": "しかしライン入れ替わって こうなると怖い空N溜めてを うまく暴れを通して ラインを入れ替えていく 空Nニュートラル 嫌なベクトルだったが これはまさか 昇竜拳で 嘘 撃墜",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "空地溜めてを",
+      "corrected": "空N溜めてを",
+      "rule": "misheard: 空地→空N"
+    },
+    {
+      "segment_idx": 4,
+      "original": "空中ネタラル",
+      "corrected": "空Nニュートラル",
+      "rule": "misheard"
+    },
+    {
+      "segment_idx": 9,
+      "original": "激推",
+      "corrected": "撃墜",
+      "rule": "kanji homophone: 激推→撃墜"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "ad9b9887-cf22-4849-9a5d-21421060cf59",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.0,
+      "text": "putting in we'll have to see what can be done and trying to find a bear but",
+      "language": "en"
+    },
+    {
+      "start": 5.0,
+      "end": 8.24,
+      "text": "Lammers playing so well in this corner oh my god the pressure",
+      "language": "en"
+    }
+  ],
+  "full_text": "putting in we'll have to see what can be done and trying to find a bear but Lammers playing so well in this corner oh my god the pressure",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "lamers",
+      "corrected": "Lammers",
+      "rule": "Player name: lamers→Lammers"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "80b614ab-28d7-428d-a890-43094a4316e6",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.66,
+      "text": "反抗への意志",
+      "language": "ja"
+    },
+    {
+      "start": 3.66,
+      "end": 4.88,
+      "text": "途切れさせてはいけない",
+      "language": "ja"
+    },
+    {
+      "start": 4.88,
+      "end": 7.96,
+      "text": "試合を決めに来るアコーラ",
+      "language": "ja"
+    },
+    {
+      "start": 7.96,
+      "end": 9.64,
+      "text": "空後が刺さって",
+      "language": "ja"
+    },
+    {
+      "start": 9.64,
+      "end": 10.26,
+      "text": "ゲット",
+      "language": "ja"
+    }
+  ],
+  "full_text": "反抗への意志 途切れさせてはいけない 試合を決めに来るアコーラ 空後が刺さって ゲット",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 3,
+      "original": "空白が刺さって",
+      "corrected": "空後が刺さって",
+      "rule": "move name homophone"
+    }
+  ]
+}

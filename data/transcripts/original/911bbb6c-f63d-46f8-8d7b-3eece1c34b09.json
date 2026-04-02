@@ -1,0 +1,45 @@
+{
+  "id": "911bbb6c-f63d-46f8-8d7b-3eece1c34b09",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.5,
+      "text": "伸ばしていくロゼッタ空N当てて",
+      "language": "ja"
+    },
+    {
+      "start": 2.5,
+      "end": 5.34,
+      "text": "おっと空上がチコも混じって多段ですね",
+      "language": "ja"
+    },
+    {
+      "start": 5.34,
+      "end": 6.8,
+      "text": "そして横スマッシュ",
+      "language": "ja"
+    },
+    {
+      "start": 6.8,
+      "end": 7.46,
+      "text": "初マッシュ",
+      "language": "ja"
+    }
+  ],
+  "full_text": "伸ばしていくロゼッタ空N当てて おっと空上がチコも混じって多段ですね そして横スマッシュ 初マッシュ",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "アメロゼッタ空中ニュートラル",
+      "corrected": "ロゼッタ空N",
+      "rule": "move abbreviation"
+    },
+    {
+      "segment_idx": 1,
+      "original": "空中上",
+      "corrected": "空上",
+      "rule": "move abbreviation"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": "8f641c01-f001-4fbb-89d9-bb8fc72db23a",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.96,
+      "text": "Mild H.O is camping the platform!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあ台上で待ってるのはマイルドなH.O"
+    },
+    {
+      "start": 6.96,
+      "end": 8.42,
+      "text": "Aerial fire!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここで空中射撃"
+    }
+  ],
+  "full_text": "Mild H.O is camping the platform! Aerial fire!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "大上",
+      "corrected": "台上",
+      "rule": "kanji homophone"
+    },
+    {
+      "segment_idx": 0,
+      "original": "舞穂川",
+      "corrected": "マイルドなH.O",
+      "rule": "player name"
+    }
+  ]
+}

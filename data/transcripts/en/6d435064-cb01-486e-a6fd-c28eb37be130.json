@@ -1,0 +1,47 @@
+{
+  "id": "6d435064-cb01-486e-a6fd-c28eb37be130",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.66,
+      "text": "Steve's caught up on damage in a flash with that diamond combo!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "スティーブのダイヤコンボであっという間に火力を追いついた"
+    },
+    {
+      "start": 2.66,
+      "end": 6.18,
+      "text": "Resources may be depleted, but the damage has finally caught up!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあ資材こそ枯れているがダメージは追いついたぞとうとう"
+    },
+    {
+      "start": 6.18,
+      "end": 11.04,
+      "text": "Great utilization of Steve's high-damage KO!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "スティーブの高火力撃墜をうまく活かしたヤマナクション"
+    },
+    {
+      "start": 11.04,
+      "end": 12.8,
+      "text": "And whiff punishes with the bair!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そして空中後ろで差し返す"
+    }
+  ],
+  "full_text": "Steve's caught up on damage in a flash with that diamond combo! Resources may be depleted, but the damage has finally caught up! Great utilization of Steve's high-damage KO! And whiff punishes with the bair!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_index": 2,
+      "original": "スティーブの高火力攻撃推をうまく活かした山田クション",
+      "corrected": "スティーブの高火力撃墜をうまく活かしたヤマナクション"
+    }
+  ]
+}

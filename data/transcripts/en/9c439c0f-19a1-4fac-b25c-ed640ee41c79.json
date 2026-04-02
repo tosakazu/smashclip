@@ -1,0 +1,38 @@
+{
+  "id": "9c439c0f-19a1-4fac-b25c-ed640ee41c79",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.96,
+      "text": "That was kind of nasty, man.",
+      "language": "en"
+    },
+    {
+      "start": 0.98,
+      "end": 2.94,
+      "text": "That means he has a lot of experience versus Rob.",
+      "language": "en"
+    },
+    {
+      "start": 3.22,
+      "end": 7.28,
+      "text": "Yeah, I mean, certainly he's had to have tried Rob at some point in his career, right?",
+      "language": "en"
+    },
+    {
+      "start": 7.58,
+      "end": 10.28,
+      "text": "Like, even in friendlies, but that's going to be the kill right there.",
+      "language": "en"
+    },
+    {
+      "start": 10.68,
+      "end": 11.72,
+      "text": "I mean, it's really high percentage.",
+      "language": "en"
+    }
+  ],
+  "full_text": "That was kind of nasty, man. That means he has a lot of experience versus Rob. Yeah, I mean, certainly he's had to have tried Rob at some point in his career, right? Like, even in friendlies, but that's going to be the kill right there. I mean, it's really high percentage.",
+  "detected_language": "en",
+  "corrections": []
+}

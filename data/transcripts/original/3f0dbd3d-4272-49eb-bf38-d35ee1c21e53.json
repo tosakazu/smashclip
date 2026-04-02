@@ -1,0 +1,51 @@
+{
+  "id": "3f0dbd3d-4272-49eb-bf38-d35ee1c21e53",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.3,
+      "text": "75%",
+      "language": "ja"
+    },
+    {
+      "start": 1.3,
+      "end": 3.28,
+      "text": "イナ80%リードしているのは",
+      "language": "ja"
+    },
+    {
+      "start": 3.28,
+      "end": 4.0,
+      "text": "ジュネーヴ側",
+      "language": "ja"
+    },
+    {
+      "start": 4.0,
+      "end": 5.6,
+      "text": "ゾマ95%",
+      "language": "ja"
+    },
+    {
+      "start": 5.6,
+      "end": 8.46,
+      "text": "しかし何が起こるか分からなかったが",
+      "language": "ja"
+    },
+    {
+      "start": 8.46,
+      "end": 9.46,
+      "text": "ギガファイヤー引っかかって",
+      "language": "ja"
+    }
+  ],
+  "full_text": "75% イナ80%リードしているのは ジュネーヴ側 ゾマ95% しかし何が起こるか分からなかったが ギガファイヤー引っかかって",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "ジュネーブ",
+      "corrected": "ジュネーヴ",
+      "rule": "player name: ジュネーヴ"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "8b35293a-3bef-4988-8b82-30ba32a0220f",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.72,
+      "text": "一気に展開がわからなくなった",
+      "language": "ja"
+    },
+    {
+      "start": 1.72,
+      "end": 5.08,
+      "text": "ブロックがサイクオネシアル",
+      "language": "ja"
+    },
+    {
+      "start": 5.08,
+      "end": 6.48,
+      "text": "これも折り込み済みか",
+      "language": "ja"
+    },
+    {
+      "start": 6.48,
+      "end": 9.0,
+      "text": "相打ちになって両者撃墜しそうな展開",
+      "language": "ja"
+    },
+    {
+      "start": 9.0,
+      "end": 11.16,
+      "text": "空後",
+      "language": "ja"
+    }
+  ],
+  "full_text": "一気に展開がわからなくなった ブロックがサイクオネシアル これも折り込み済みか 相打ちになって両者撃墜しそうな展開 空後",
+  "detected_language": "ja",
+  "corrections": [
+    "ゼミ→済み (already anticipated, Whisper phonetic error)",
+    "激戦→撃墜 (both could get killed, kanji homophone)",
+    "空中しろ→空後 (back air, 空中後ろ abbreviated)"
+  ]
+}

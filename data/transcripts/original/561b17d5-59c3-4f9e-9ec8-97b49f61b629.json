@@ -1,0 +1,27 @@
+{
+  "id": "561b17d5-59c3-4f9e-9ec8-97b49f61b629",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.54,
+      "text": "5%この空中上をまだ耐える",
+      "language": "ja"
+    },
+    {
+      "start": 2.54,
+      "end": 5.66,
+      "text": "これは絶望的ですが",
+      "language": "ja"
+    }
+  ],
+  "full_text": "5%この空中上をまだ耐える これは絶望的ですが",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "空中スローをまだ耐える",
+      "corrected": "空中上をまだ耐える",
+      "rule": "misheard word (スロー→上)"
+    }
+  ]
+}

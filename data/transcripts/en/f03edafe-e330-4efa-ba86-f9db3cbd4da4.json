@@ -1,0 +1,80 @@
+{
+  "id": "f03edafe-e330-4efa-ba86-f9db3cbd4da4",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Completely shuts down that approach!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "こんなルートに抑え切った"
+    },
+    {
+      "start": 2.0,
+      "end": 4.7,
+      "text": "Devilun probes in here",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここはなるほどデビルンが頭を出してきて"
+    },
+    {
+      "start": 4.7,
+      "end": 5.86,
+      "text": "Changing up the spacing",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ラインを入れ替えます"
+    },
+    {
+      "start": 5.86,
+      "end": 7.6,
+      "text": "And they're reading it!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そしてよく見ている"
+    },
+    {
+      "start": 7.6,
+      "end": 10.22,
+      "text": "Not going for the KO yet, but...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "まだ撃墜はしないが"
+    },
+    {
+      "start": 10.22,
+      "end": 11.92,
+      "text": "Back to recovery",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "再び復帰の展開"
+    },
+    {
+      "start": 11.92,
+      "end": 13.74,
+      "text": "Going for it!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここを狙ってますね"
+    },
+    {
+      "start": 13.74,
+      "end": 15.34,
+      "text": "Parry to jab 3!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ジャストシールドからジャブ3"
+    }
+  ],
+  "full_text": "Completely shuts down that approach! Devilun probes in here Changing up the spacing And they're reading it! Not going for the KO yet, but... Back to recovery Going for it! Parry to jab 3!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 7,
+      "original": "ジャクサ",
+      "corrected": "ジャブ3",
+      "rule": "misheard: ジャクサ→ジャブ3"
+    }
+  ]
+}

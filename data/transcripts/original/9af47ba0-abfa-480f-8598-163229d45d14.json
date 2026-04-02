@@ -1,0 +1,44 @@
+{
+  "id": "9af47ba0-abfa-480f-8598-163229d45d14",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.56,
+      "text": "回避が遅い",
+      "language": "ja"
+    },
+    {
+      "start": 0.56,
+      "end": 1.6,
+      "text": "あーこれ",
+      "language": "ja"
+    },
+    {
+      "start": 1.6,
+      "end": 2.82,
+      "text": "撃墜がさー",
+      "language": "ja"
+    },
+    {
+      "start": 2.82,
+      "end": 3.6,
+      "text": "あー",
+      "language": "ja"
+    },
+    {
+      "start": 3.6,
+      "end": 5.02,
+      "text": "避けられません",
+      "language": "ja"
+    },
+    {
+      "start": 5.02,
+      "end": 6.4,
+      "text": "マジで避けづらい",
+      "language": "ja"
+    }
+  ],
+  "full_text": "回避が遅い あーこれ 撃墜がさー あー 避けられません マジで避けづらい",
+  "detected_language": "ja",
+  "corrections": []
+}

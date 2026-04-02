@@ -1,0 +1,45 @@
+{
+  "id": "d025abb5-aff6-4c83-ba39-6a2fd1219605",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.32,
+      "text": "Yeah, Miya is crazy, man.",
+      "language": "en"
+    },
+    {
+      "start": 3.94,
+      "end": 6.2,
+      "text": "Miya's slick, Miya's in his Gucci bag right now.",
+      "language": "en"
+    },
+    {
+      "start": 6.28,
+      "end": 10.12,
+      "text": "That is unreal levels of confidence and flexing.",
+      "language": "en"
+    },
+    {
+      "start": 10.68,
+      "end": 11.62,
+      "text": "Literally, if you...",
+      "language": "en"
+    }
+  ],
+  "full_text": "Yeah, Miya is crazy, man. Miya's slick, Miya's in his Gucci bag right now. That is unreal levels of confidence and flexing. Literally, if you...",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "Mia",
+      "corrected": "Miya",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 1,
+      "original": "Mia's dick, Mia's",
+      "corrected": "Miya's slick, Miya's",
+      "rule": "player name + mishearing (slick not dick)"
+    }
+  ]
+}

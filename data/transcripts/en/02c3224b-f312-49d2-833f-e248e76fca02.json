@@ -1,0 +1,62 @@
+{
+  "id": "02c3224b-f312-49d2-833f-e248e76fca02",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.76,
+      "text": "Bair sends them flying!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "宇宙にとる空後"
+    },
+    {
+      "start": 1.76,
+      "end": 4.22,
+      "text": "Constantly going for smashes!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ひたすらスマして狙っていく"
+    },
+    {
+      "start": 4.22,
+      "end": 5.36,
+      "text": "Tornado",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "トルネード"
+    },
+    {
+      "start": 5.36,
+      "end": 7.58,
+      "text": "Whiff punishing!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空振りに対して"
+    },
+    {
+      "start": 7.58,
+      "end": 8.5,
+      "text": "And then",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そして"
+    }
+  ],
+  "full_text": "Bair sends them flying! Constantly going for smashes! Tornado Whiff punishing! And then",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "宇宙にとる宇宙城",
+      "corrected": "宇宙にとる空後",
+      "rule": "auto-rule"
+    },
+    {
+      "segment_idx": 1,
+      "original": "ひたすまして狙っていく",
+      "corrected": "ひたすらスマして狙っていく",
+      "rule": "misheard word"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "id": "34544566-8b47-48b1-833b-a5e99e7a93c9",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.86,
+      "text": "That's where it gets tricky",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "難しいところだったらおそらくそういうところでしょう"
+    },
+    {
+      "start": 1.86,
+      "end": 6.84,
+      "text": "Still setting up for the next approach",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあそれでも次の紫を構えつつ"
+    },
+    {
+      "start": 6.84,
+      "end": 9.4,
+      "text": "In kill percent range",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "撃墜を狙うパーセント帯"
+    },
+    {
+      "start": 9.4,
+      "end": 12.82,
+      "text": "Shuuton's been forcing the bair shield",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "シュートン選手側が先ほどから空後をガードさせて"
+    },
+    {
+      "start": 12.82,
+      "end": 14.24,
+      "text": "And reading the follow-up beautifully",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "その後の読みをうまく制して"
+    }
+  ],
+  "full_text": "That's where it gets tricky Still setting up for the next approach In kill percent range Shuuton's been forcing the bair shield And reading the follow-up beautifully",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "パーセントタイ",
+      "corrected": "パーセント帯",
+      "rule": "kanji: 帯(たい)"
+    },
+    {
+      "segment_idx": 3,
+      "original": "中東選手",
+      "corrected": "シュートン選手",
+      "rule": "player name: Shuton"
+    },
+    {
+      "segment_idx": 3,
+      "original": "空中白",
+      "corrected": "空後",
+      "rule": "misheard: 空中白→空後"
+    },
+    {
+      "segment_idx": 4,
+      "original": "余命",
+      "corrected": "読み",
+      "rule": "misheard: 読み"
+    }
+  ]
+}

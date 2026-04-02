@@ -1,0 +1,33 @@
+{
+  "id": "8fdc4fa4-7bb8-4fc7-8f4d-0d3d987dfdb7",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.62,
+      "text": "前から出しただけ50%",
+      "language": "ja"
+    },
+    {
+      "start": 1.62,
+      "end": 3.36,
+      "text": "9割読んでる",
+      "language": "ja"
+    },
+    {
+      "start": 3.36,
+      "end": 4.92,
+      "text": "おつよき",
+      "language": "ja"
+    }
+  ],
+  "full_text": "前から出しただけ50% 9割読んでる おつよき",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "90万読んでる",
+      "corrected": "9割読んでる",
+      "rule": "misheard word"
+    }
+  ]
+}

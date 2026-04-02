@@ -1,0 +1,38 @@
+{
+  "id": "0b0ea1b4-3c7f-4f63-9e7d-dde1d11a37ce",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.3,
+      "text": "求められるのはあcolaか",
+      "language": "ja"
+    },
+    {
+      "start": 1.3,
+      "end": 3.54,
+      "text": "メテオになるか",
+      "language": "ja"
+    },
+    {
+      "start": 3.54,
+      "end": 6.08,
+      "text": "これは空後",
+      "language": "ja"
+    },
+    {
+      "start": 6.08,
+      "end": 8.2,
+      "text": "ここに来て相手の足場をとらえず",
+      "language": "ja"
+    },
+    {
+      "start": 8.2,
+      "end": 10.0,
+      "text": "メテオにガッツリ",
+      "language": "ja"
+    }
+  ],
+  "full_text": "求められるのはあcolaか メテオになるか これは空後 ここに来て相手の足場をとらえず メテオにガッツリ",
+  "detected_language": "ja",
+  "corrections": []
+}

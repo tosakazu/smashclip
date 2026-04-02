@@ -1,0 +1,86 @@
+{
+  "id": "7a8982aa-ab34-4825-b57c-d026cfd4a1b6",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.32,
+      "text": "That's the read!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "内側こそ一番見たい択なので"
+    },
+    {
+      "start": 2.32,
+      "end": 5.26,
+      "text": "Grabs and back throw but...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "掴んで後ろに投げるが"
+    },
+    {
+      "start": 5.26,
+      "end": 6.1,
+      "text": "Countered!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "反撃"
+    },
+    {
+      "start": 6.1,
+      "end": 6.88,
+      "text": "Gets another!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "取って"
+    },
+    {
+      "start": 6.88,
+      "end": 7.48,
+      "text": "Second one!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "2回目"
+    },
+    {
+      "start": 7.48,
+      "end": 8.3,
+      "text": "Drags them out but...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "引きずり出すが"
+    },
+    {
+      "start": 8.3,
+      "end": 9.28,
+      "text": "Ledge meteor!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "崖メテオ"
+    },
+    {
+      "start": 9.28,
+      "end": 12.84,
+      "text": "Nice!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "よく"
+    }
+  ],
+  "full_text": "That's the read! Grabs and back throw but... Countered! Gets another! Second one! Drags them out but... Ledge meteor! Nice!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "タク",
+      "corrected": "択",
+      "rule": "katakana to kanji"
+    },
+    {
+      "segment_idx": 2,
+      "original": "反逆",
+      "corrected": "反撃",
+      "rule": "kanji homophone"
+    }
+  ]
+}

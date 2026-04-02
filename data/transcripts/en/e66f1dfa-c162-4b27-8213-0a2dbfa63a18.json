@@ -1,0 +1,64 @@
+{
+  "id": "e66f1dfa-c162-4b27-8213-0a2dbfa63a18",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.3,
+      "text": "But Squirtle at 100%",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "しかし100%のゼニガメ"
+    },
+    {
+      "start": 2.3,
+      "end": 4.04,
+      "text": "Switches to Squirtle with Pokémon Change",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ポケモンチェンジでゼニガメに変わる"
+    },
+    {
+      "start": 4.04,
+      "end": 6.34,
+      "text": "Squirtle has a light body and forward tilt is...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ゼニガメは体が軽いそして横強が"
+    },
+    {
+      "start": 6.34,
+      "end": 7.86,
+      "text": "Huh? What was that?!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "え?なんだ今の"
+    },
+    {
+      "start": 7.86,
+      "end": 10.24,
+      "text": "Flew up high but just barely...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "上に大きく飛んだがギリギリ"
+    },
+    {
+      "start": 10.24,
+      "end": 10.9,
+      "text": "Didn't finish it",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "消せず"
+    }
+  ],
+  "full_text": "But Squirtle at 100% Switches to Squirtle with Pokémon Change Squirtle has a light body and forward tilt is... Huh? What was that?! Flew up high but just barely... Didn't finish it",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "横強化",
+      "corrected": "横強が",
+      "rule": "misheard: 横強が"
+    }
+  ]
+}

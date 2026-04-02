@@ -1,0 +1,69 @@
+{
+  "id": "8062ddda-6731-44da-93fc-bc406a7dc973",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "トップする形",
+      "language": "ja"
+    },
+    {
+      "start": 2.0,
+      "end": 4.0,
+      "text": "下強、当然外変更",
+      "language": "ja"
+    },
+    {
+      "start": 4.0,
+      "end": 6.0,
+      "text": "素晴らしい",
+      "language": "ja"
+    },
+    {
+      "start": 6.0,
+      "end": 8.0,
+      "text": "タイミングバッチリ",
+      "language": "ja"
+    },
+    {
+      "start": 8.0,
+      "end": 10.0,
+      "text": "動き出しを捉えた空中上から",
+      "language": "ja"
+    },
+    {
+      "start": 10.0,
+      "end": 12.0,
+      "text": "ライン有利を奪ったしゅーとん",
+      "language": "ja"
+    },
+    {
+      "start": 12.0,
+      "end": 14.0,
+      "text": "空中上、ここは上に回避を通し",
+      "language": "ja"
+    }
+  ],
+  "full_text": "トップする形 下強、当然外変更 素晴らしい タイミングバッチリ 動き出しを捉えた空中上から ライン有利を奪ったしゅーとん 空中上、ここは上に回避を通し",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 4,
+      "original": "動き出しを捉えた空中城から",
+      "corrected": "動き出しを捉えた空中上から",
+      "rule": "kanji homophone"
+    },
+    {
+      "segment_idx": 5,
+      "original": "ライン有利を奪ったシュート",
+      "corrected": "ライン有利を奪ったしゅーとん",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 6,
+      "original": "空中城、ここは上人へ回避を通し",
+      "corrected": "空中上、ここは上に回避を通し",
+      "rule": "kanji homophone"
+    }
+  ]
+}

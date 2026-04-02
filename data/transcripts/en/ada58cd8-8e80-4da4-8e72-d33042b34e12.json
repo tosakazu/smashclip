@@ -1,0 +1,48 @@
+{
+  "id": "ada58cd8-8e80-4da4-8e72-d33042b34e12",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.0,
+      "text": "If they can just set this up...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "このダイヤさえ作れれば"
+    },
+    {
+      "start": 4.0,
+      "end": 8.0,
+      "text": "They're getting juggled again",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "また浮かされる展開になってしまう"
+    },
+    {
+      "start": 8.0,
+      "end": 9.2,
+      "text": "Ha!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "草!"
+    },
+    {
+      "start": 9.4,
+      "end": 11.56,
+      "text": "Up air, great read!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空上 よく見ていた"
+    }
+  ],
+  "full_text": "If they can just set this up... They're getting juggled again Ha! Up air, great read!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 3,
+      "original": "空中へよく見ていた",
+      "corrected": "空上 よく見ていた",
+      "rule": "Move: 空中へ→空上"
+    }
+  ]
+}

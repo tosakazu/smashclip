@@ -1,0 +1,33 @@
+{
+  "id": "3f4afa42-a0b6-4b67-b744-cbceb27d2ae6",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.62,
+      "text": "They're aiming for spacing!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "出し攻撃狙ってますよ"
+    },
+    {
+      "start": 2.62,
+      "end": 3.54,
+      "text": "Base",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ベース"
+    },
+    {
+      "start": 3.54,
+      "end": 4.3,
+      "text": "Ah, base!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "あベース"
+    }
+  ],
+  "full_text": "They're aiming for spacing! Base Ah, base!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

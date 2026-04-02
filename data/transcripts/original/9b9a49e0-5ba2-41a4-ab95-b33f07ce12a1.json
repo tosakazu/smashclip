@@ -1,0 +1,56 @@
+{
+  "id": "9b9a49e0-5ba2-41a4-ab95-b33f07ce12a1",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.96,
+      "text": "こいつが待ってるぞ",
+      "language": "ja"
+    },
+    {
+      "start": 0.96,
+      "end": 5.82,
+      "text": "しかしソニックスも慌てずに様子を伺っていく",
+      "language": "ja"
+    },
+    {
+      "start": 5.82,
+      "end": 7.84,
+      "text": "上から近づいて",
+      "language": "ja"
+    },
+    {
+      "start": 7.84,
+      "end": 9.7,
+      "text": "バックジャンプ",
+      "language": "ja"
+    },
+    {
+      "start": 9.7,
+      "end": 10.8,
+      "text": "壁を張るが",
+      "language": "ja"
+    },
+    {
+      "start": 10.8,
+      "end": 13.28,
+      "text": "ベルからの上スマッシュ",
+      "language": "ja"
+    },
+    {
+      "start": 13.28,
+      "end": 14.34,
+      "text": "なんでだよ",
+      "language": "ja"
+    },
+    {
+      "start": 14.34,
+      "end": 15.84,
+      "text": "いやーそこ",
+      "language": "ja"
+    }
+  ],
+  "full_text": "こいつが待ってるぞ しかしソニックスも慌てずに様子を伺っていく 上から近づいて バックジャンプ 壁を張るが ベルからの上スマッシュ なんでだよ いやーそこ",
+  "detected_language": "ja",
+  "corrections": []
+}

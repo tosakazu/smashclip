@@ -1,0 +1,48 @@
+{
+  "id": "fb182eab-a9ab-4d16-a9a3-715bb0623220",
+  "segments": [
+    {
+      "start": 0.8,
+      "end": 6.24,
+      "text": "Looking to land a bair at the ledge, but Kazuya reads it and dives in with the fastest Raging Demon!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "崖の展開で空中後ろを当てたいところでありますがそれを分かって潜り込んでの最速風神拳"
+    },
+    {
+      "start": 6.24,
+      "end": 10.52,
+      "text": "This is really bad, this is really dire—but there's still a chance!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "本当にまずいこれは本当にあでもリベットがある"
+    },
+    {
+      "start": 10.52,
+      "end": 13.96,
+      "text": "Somehow he survives! And then straight into the bair!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "なんとか助かったそしてそのまま空中後ろを"
+    },
+    {
+      "start": 13.96,
+      "end": 14.24,
+      "text": "Kazuya",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "カズヤ"
+    }
+  ],
+  "full_text": "Looking to land a bair at the ledge, but Kazuya reads it and dives in with the fastest Raging Demon! This is really bad, this is really dire—but there's still a chance! Somehow he survives! And then straight into the bair! Kazuya",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "最速封じ意見",
+      "corrected": "最速風神拳",
+      "rule": "misheard: 封じ意見→風神拳 (Kazuya move)"
+    }
+  ]
+}

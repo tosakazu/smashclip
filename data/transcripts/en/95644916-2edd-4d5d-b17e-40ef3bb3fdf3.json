@@ -1,0 +1,49 @@
+{
+  "id": "95644916-2edd-4d5d-b17e-40ef3bb3fdf3",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.96,
+      "text": "Actually, it's Laryx who's adjusting their approach",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "なくって逆にラリックス選手が出し分けるみたいな感じですかね"
+    },
+    {
+      "start": 4.96,
+      "end": 8.16,
+      "text": "So when Laryx goes up against other Falco mains,",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "なのでラリックス選手対他のファルコ使いってなると"
+    },
+    {
+      "start": 8.16,
+      "end": 10.18,
+      "text": "We rarely get to see Falco mirrors, but",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "結構ファルコミラー見ることお預けになるんですけど"
+    },
+    {
+      "start": 10.18,
+      "end": 11.56,
+      "text": "We have one this time",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "今回はありました"
+    },
+    {
+      "start": 11.56,
+      "end": 12.76,
+      "text": "And",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そして"
+    }
+  ],
+  "full_text": "Actually, it's Laryx who's adjusting their approach. So when Laryx goes up against other Falco mains, we rarely get to see Falco mirrors, but we have one this time. And",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

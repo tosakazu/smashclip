@@ -1,0 +1,69 @@
+{
+  "id": "883fd7f8-d3cc-48f8-a57b-ac79ed45d8b4",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.32,
+      "text": "いい確定撃墜いいじゃないギリギリ耐える",
+      "language": "ja"
+    },
+    {
+      "start": 2.32,
+      "end": 3.66,
+      "text": "そうですねベクトル変更",
+      "language": "ja"
+    },
+    {
+      "start": 3.66,
+      "end": 6.36,
+      "text": "ずらし活用して生存することには成功した",
+      "language": "ja"
+    },
+    {
+      "start": 6.36,
+      "end": 7.72,
+      "text": "さあ狭いステージ",
+      "language": "ja"
+    },
+    {
+      "start": 7.72,
+      "end": 9.0,
+      "text": "うますぎるけど",
+      "language": "ja"
+    },
+    {
+      "start": 9.0,
+      "end": 9.88,
+      "text": "なんとか",
+      "language": "ja"
+    },
+    {
+      "start": 9.88,
+      "end": 13.24,
+      "text": "場外に出すことがホムラサイドでもできますが",
+      "language": "ja"
+    }
+  ],
+  "full_text": "いい確定撃墜いいじゃないギリギリ耐える そうですねベクトル変更 ずらし活用して生存することには成功した さあ狭いステージ うますぎるけど なんとか 場外に出すことがホムラサイドでもできますが",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "災害撃活用して生存することには成功した",
+      "corrected": "ずらし活用して生存することには成功した",
+      "rule": "Smash term (災害撃→ずらし/SDI)"
+    },
+    {
+      "segment_idx": 6,
+      "original": "ホームヒカサイドでもできますが",
+      "corrected": "ホムラサイドでもできますが",
+      "rule": "character name (ホームヒカ→ホムラ/Pyra)"
+    },
+    {
+      "segment_idx": 1,
+      "original": "スペクトル変更",
+      "corrected": "ベクトル変更",
+      "rule": "Smash term (スペクトル→ベクトル/DI)"
+    }
+  ]
+}

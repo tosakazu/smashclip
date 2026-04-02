@@ -1,0 +1,207 @@
+{
+  "id": "a70bff85-0184-4157-ad73-2206387a9b5d",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.38,
+      "text": "The damage gap is showing now!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "パーセントももうこの差がついてきているぞ"
+    },
+    {
+      "start": 3.38,
+      "end": 9.84,
+      "text": "He went for the up smash to stop it, but threw out nair early to shut down the spin",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "上スマで止めに行ったが早めに空Nを出してスピンを止めていく"
+    },
+    {
+      "start": 9.84,
+      "end": 13.74,
+      "text": "Yellow Pikmin's giving some solid hitboxes there",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "今黄色ピクミンだったんでかなり判定持ち優秀だったと思うんですけど"
+    },
+    {
+      "start": 13.74,
+      "end": 18.18,
+      "text": "Black Ship threw it out even earlier with nair",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そこをさらに1個手前で空N通していった黒船選手"
+    },
+    {
+      "start": 18.18,
+      "end": 19.5,
+      "text": "Incredible momentum preservation!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "素晴らしい前慣性です"
+    },
+    {
+      "start": 19.5,
+      "end": 22.8,
+      "text": "A matchup where both players' momentum game is shining",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあお互いに前慣性が光る試合展開の中"
+    },
+    {
+      "start": 22.8,
+      "end": 26.04,
+      "text": "Who's gonna secure that final stock?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "先に最終ストック手をかけるのはどちらになるか"
+    },
+    {
+      "start": 26.04,
+      "end": 28.02,
+      "text": "The KO is in sight for Sonic",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "もうソニック側も撃墜見えてますね"
+    },
+    {
+      "start": 28.02,
+      "end": 33.94,
+      "text": "At the ledge, looking for that bair",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここの崖どうにか空中後ろを狙いつつ"
+    },
+    {
+      "start": 33.94,
+      "end": 36.08,
+      "text": "And the action continues",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "展開は続いていますよ"
+    },
+    {
+      "start": 36.08,
+      "end": 41.84,
+      "text": "Going back to that bair option over and over",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "本命択の空中後ろをこれでもかと見せながら"
+    },
+    {
+      "start": 41.84,
+      "end": 43.88,
+      "text": "Stock chase situation",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ストック取り展開"
+    },
+    {
+      "start": 43.88,
+      "end": 47.14,
+      "text": "Looking for more at ledge",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "この崖でさらなるリターンを求めていきます"
+    },
+    {
+      "start": 47.14,
+      "end": 49.56,
+      "text": "Both want that KO",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "どうにかして撃墜をお互いに取りたい"
+    },
+    {
+      "start": 49.56,
+      "end": 52.38,
+      "text": "The tension is real!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ひりついております"
+    },
+    {
+      "start": 52.38,
+      "end": 55.62,
+      "text": "Wraps around that bair with the forward tilt",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空後の間に裏に回って横強"
+    },
+    {
+      "start": 55.62,
+      "end": 58.0,
+      "text": "Dealing with blue Pikmin",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "青ピクミンの処理"
+    },
+    {
+      "start": 58.0,
+      "end": 60.28,
+      "text": "One nair",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空N一発"
+    },
+    {
+      "start": 60.28,
+      "end": 62.96,
+      "text": "He got out with DI but...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ベクトル変更でこれをかいくぐりましたが"
+    }
+  ],
+  "full_text": "The damage gap is showing now! He went for the up smash to stop it, but threw out nair early to shut down the spin. Yellow Pikmin's giving some solid hitboxes there. Black Ship threw it out even earlier with nair. Incredible momentum preservation! A matchup where both players' momentum game is shining. Who's gonna secure that final stock? The KO is in sight for Sonic. At the ledge, looking for that bair. And the action continues. Going back to that bair option over and over. Stock chase situation. Looking for more at ledge. Both want that KO. The tension is real! Wraps around that bair with the forward tilt. Dealing with blue Pikmin. One nair. He got out with DI but...",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "original": "ウエスマ",
+      "corrected": "上スマ",
+      "reason": "上スマッシュの略称"
+    },
+    {
+      "original": "クウエル",
+      "corrected": "空N",
+      "reason": "空中ニュートラル攻撃の略称"
+    },
+    {
+      "original": "前感じ",
+      "corrected": "前慣性",
+      "reason": "前慣性（移動慣性を利用した技術）"
+    },
+    {
+      "original": "激推",
+      "corrected": "撃墜",
+      "reason": "撃墜（kill）の同音異字"
+    },
+    {
+      "original": "本命宅の",
+      "corrected": "本命択の",
+      "reason": "本命択（メインの選択肢）"
+    },
+    {
+      "original": "スクッと頼り展開",
+      "corrected": "ストック取り展開",
+      "reason": "ストックを取る展開"
+    },
+    {
+      "original": "空国の仲間に",
+      "corrected": "空後の間に",
+      "reason": "空中後ろ攻撃の間に"
+    },
+    {
+      "original": "クウエル一族",
+      "corrected": "空N一発",
+      "reason": "空N一発で決める"
+    },
+    {
+      "original": "かいくぬりました",
+      "corrected": "かいくぐりました",
+      "reason": "かいくぐる（evade/dodge）"
+    }
+  ]
+}

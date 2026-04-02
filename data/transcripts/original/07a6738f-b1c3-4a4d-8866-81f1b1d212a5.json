@@ -1,0 +1,33 @@
+{
+  "id": "07a6738f-b1c3-4a4d-8866-81f1b1d212a5",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.82,
+      "text": "バレルこの攻撃能力なかなかスティーブではとがめられないでしょう",
+      "language": "ja"
+    },
+    {
+      "start": 4.82,
+      "end": 9.54,
+      "text": "結局ここのアコーラの拒否もまた光るというところか",
+      "language": "ja"
+    },
+    {
+      "start": 9.54,
+      "end": 12.24,
+      "text": "バナナ当て空前そのまま撃墜",
+      "language": "ja"
+    }
+  ],
+  "full_text": "バレルこの攻撃能力なかなかスティーブではとがめられないでしょう 結局ここのアコーラの拒否もまた光るというところか バナナ当て空前そのまま撃墜",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "バナナアテック打ち前そのまま撃墜",
+      "corrected": "バナナ当て空前そのまま撃墜",
+      "rule": "Move abbreviation correction (アテック打ち前 → 当て空前)"
+    }
+  ]
+}

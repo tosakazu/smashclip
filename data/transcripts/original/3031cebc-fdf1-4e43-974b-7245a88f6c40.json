@@ -1,0 +1,20 @@
+{
+  "id": "3031cebc-fdf1-4e43-974b-7245a88f6c40",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.62,
+      "text": "Okay, okay, okay, it doesn't kill a chance",
+      "language": "en"
+    },
+    {
+      "start": 5.76,
+      "end": 10.06,
+      "text": "Oh, he didn't react to the roll, but you get that instead",
+      "language": "en"
+    }
+  ],
+  "full_text": "Okay, okay, okay, it doesn't kill a chance Oh, he didn't react to the roll, but you get that instead",
+  "detected_language": "en",
+  "corrections": []
+}

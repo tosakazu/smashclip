@@ -1,0 +1,54 @@
+{
+  "id": "7eb89ab4-5d50-4a17-96f0-d963ac74948a",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.72,
+      "text": "Spacing situation developing!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "当て半になりそうな雰囲気"
+    },
+    {
+      "start": 1.72,
+      "end": 3.1,
+      "text": "Unfavorable position, but",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "嫌な展開だったが"
+    },
+    {
+      "start": 3.1,
+      "end": 4.32,
+      "text": "Jab!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "横弱"
+    },
+    {
+      "start": 4.32,
+      "end": 7.44,
+      "text": "But",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "かなとこが"
+    }
+  ],
+  "full_text": "Spacing situation developing! Unfavorable position, but Jab! But",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "当てはんになりそうな雰囲気",
+      "corrected": "当て半になりそうな雰囲気",
+      "rule": "kanji: 当てはん→当て半"
+    },
+    {
+      "segment_idx": 2,
+      "original": "よこしゃく",
+      "corrected": "横弱",
+      "rule": "misheard: よこしゃく→横弱 (よこじゃく, side weak attack)"
+    }
+  ]
+}

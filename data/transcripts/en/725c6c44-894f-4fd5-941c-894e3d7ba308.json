@@ -1,0 +1,33 @@
+{
+  "id": "725c6c44-894f-4fd5-941c-894e3d7ba308",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.26,
+      "text": "This is getting rough",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "嫌な展開になる"
+    },
+    {
+      "start": 1.26,
+      "end": 3.84,
+      "text": "Spins away to the opposite ledge",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "スピンで逆の崖に逃げつつ"
+    },
+    {
+      "start": 3.84,
+      "end": 8.14,
+      "text": "And here, really making that spin arc work",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここもスピンの軌道をうまく活かして"
+    }
+  ],
+  "full_text": "This is getting rough. Spins away to the opposite ledge. And here, really making that spin arc work",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

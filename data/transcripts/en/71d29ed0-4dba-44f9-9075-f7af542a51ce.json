@@ -1,0 +1,33 @@
+{
+  "id": "71d29ed0-4dba-44f9-9075-f7af542a51ce",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.56,
+      "text": "Look at this—so focused, but you often can't see what's happening",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ぜひ見てから こうやりますねピオリ夢中にあんまりだとよくこのとか見えなかった"
+    },
+    {
+      "start": 5.56,
+      "end": 11.4,
+      "text": "He's getting more aggressive, really committing to the juggle!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "積極的になっています 食べる上だけ着地狩りへ"
+    },
+    {
+      "start": 11.4,
+      "end": 14.06,
+      "text": "Distance is key after all",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "やはり距離"
+    }
+  ],
+  "full_text": "Look at this—so focused, but you often can't see what's happening He's getting more aggressive, really committing to the juggle! Distance is key after all",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

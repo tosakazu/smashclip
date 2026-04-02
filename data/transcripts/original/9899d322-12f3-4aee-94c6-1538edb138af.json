@@ -1,0 +1,45 @@
+{
+  "id": "9899d322-12f3-4aee-94c6-1538edb138af",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.7,
+      "text": "逆によく外に逃げてるなって感じですね",
+      "language": "ja"
+    },
+    {
+      "start": 2.7,
+      "end": 5.6,
+      "text": "雨で勝負しすぎるとずっと9にループしちゃうんで",
+      "language": "ja"
+    },
+    {
+      "start": 5.6,
+      "end": 7.04,
+      "text": "ちゃんと外に逃げなきゃいけないです",
+      "language": "ja"
+    },
+    {
+      "start": 7.04,
+      "end": 8.68,
+      "text": "うまーい",
+      "language": "ja"
+    },
+    {
+      "start": 8.68,
+      "end": 10.38,
+      "text": "深めに飛び込むトートル",
+      "language": "ja"
+    }
+  ],
+  "full_text": "逆によく外に逃げてるなって感じですね 雨で勝負しすぎるとずっと9にループしちゃうんで ちゃんと外に逃げなきゃいけないです うまーい 深めに飛び込むトートル",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "急に",
+      "corrected": "9に",
+      "rule": "G&W judge number misheard"
+    }
+  ]
+}

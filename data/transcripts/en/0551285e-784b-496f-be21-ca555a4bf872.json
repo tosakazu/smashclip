@@ -1,0 +1,33 @@
+{
+  "id": "0551285e-784b-496f-be21-ca555a4bf872",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.72,
+      "text": "Belmont 12 vs Link",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ベル12リンク"
+    },
+    {
+      "start": 0.72,
+      "end": 7.36,
+      "text": "Up throw KO!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これは掴んでしかし上投げで撃墜"
+    },
+    {
+      "start": 7.36,
+      "end": 9.48,
+      "text": "170 percent!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さすがにパーセンテージ170"
+    }
+  ],
+  "full_text": "Belmont 12 vs Link. Up throw KO! 170 percent!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

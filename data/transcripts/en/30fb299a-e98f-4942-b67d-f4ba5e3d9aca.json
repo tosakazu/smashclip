@@ -1,0 +1,118 @@
+{
+  "id": "30fb299a-e98f-4942-b67d-f4ba5e3d9aca",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.68,
+      "text": "Huh?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "え?"
+    },
+    {
+      "start": 0.68,
+      "end": 2.12,
+      "text": "Um...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "あーーーっと"
+    },
+    {
+      "start": 2.12,
+      "end": 3.34,
+      "text": "That got chaotic",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "急にデュエマになった"
+    },
+    {
+      "start": 3.34,
+      "end": 5.44,
+      "text": "That kind of setup",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ヘブンズドア系"
+    },
+    {
+      "start": 5.44,
+      "end": 6.14,
+      "text": "Oops",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "間違えちゃった"
+    },
+    {
+      "start": 6.14,
+      "end": 7.64,
+      "text": "Two blockers",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ブロッカー2体召喚してるじゃねえの"
+    },
+    {
+      "start": 7.64,
+      "end": 9.52,
+      "text": "Got one",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "召喚しちゃった"
+    },
+    {
+      "start": 9.52,
+      "end": 9.96,
+      "text": "bair",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空後"
+    },
+    {
+      "start": 9.96,
+      "end": 11.0,
+      "text": "Reads the jump!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "対空で当てる"
+    },
+    {
+      "start": 11.0,
+      "end": 11.72,
+      "text": "Down throw setup",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "被せ下投げ"
+    },
+    {
+      "start": 11.72,
+      "end": 12.64,
+      "text": "There we go!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "どうだ"
+    },
+    {
+      "start": 12.64,
+      "end": 14.44,
+      "text": "Beautiful!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "うまーい"
+    }
+  ],
+  "full_text": "Huh? Um... That got chaotic That kind of setup Oops Two blockers Got one bair Reads the jump! Down throw setup There we go! Beautiful!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 7,
+      "original": "空中しろ",
+      "corrected": "空後",
+      "rule": "move name normalization"
+    },
+    {
+      "segment_idx": 9,
+      "original": "かぶしたのげ",
+      "corrected": "被せ下投げ",
+      "rule": "Whisper misrecognition"
+    }
+  ]
+}

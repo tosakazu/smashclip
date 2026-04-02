@@ -1,0 +1,63 @@
+{
+  "id": "9b5f0a1b-47be-4dce-88b1-5b57b2d43207",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.02,
+      "text": "空前",
+      "language": "ja"
+    },
+    {
+      "start": 2.02,
+      "end": 3.22,
+      "text": "追い出して追い出して",
+      "language": "ja"
+    },
+    {
+      "start": 3.22,
+      "end": 4.56,
+      "text": "空N",
+      "language": "ja"
+    },
+    {
+      "start": 4.56,
+      "end": 6.6,
+      "text": "さあここは回避を切ってしまって",
+      "language": "ja"
+    },
+    {
+      "start": 6.6,
+      "end": 8.92,
+      "text": "しっかりと空下メテオ",
+      "language": "ja"
+    }
+  ],
+  "full_text": "空前 追い出して追い出して 空N さあここは回避を切ってしまって しっかりと空下メテオ",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "空中前",
+      "corrected": "空前",
+      "rule": "move abbreviation"
+    },
+    {
+      "segment_idx": 1,
+      "original": "オフ出して出して",
+      "corrected": "追い出して追い出して",
+      "rule": "Whisper misheard"
+    },
+    {
+      "segment_idx": 2,
+      "original": "空中ニュートラル",
+      "corrected": "空N",
+      "rule": "move abbreviation"
+    },
+    {
+      "segment_idx": 4,
+      "original": "空中下め",
+      "corrected": "空下メテオ",
+      "rule": "move abbreviation"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "759031d6-53b0-428c-b9fc-f3b3370f6265",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.88,
+      "text": "Holding stage like that, that position is unbeatable!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "晴れ残る限りね 陣地はね 最強ですよ"
+    },
+    {
+      "start": 2.88,
+      "end": 5.46,
+      "text": "Whoa, what a great read!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあ おっとここは 読み勝ち"
+    }
+  ],
+  "full_text": "Holding stage like that, that position is unbeatable! Whoa, what a great read!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "オッドここは 読み勝手",
+      "corrected": "おっとここは 読み勝ち",
+      "rule": "Whisper mishearing"
+    }
+  ]
+}

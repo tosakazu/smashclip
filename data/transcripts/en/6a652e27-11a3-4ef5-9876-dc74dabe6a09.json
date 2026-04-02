@@ -1,0 +1,32 @@
+{
+  "id": "6a652e27-11a3-4ef5-9876-dc74dabe6a09",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.04,
+      "text": "Matching up the sustained part of that counter with perfect timing",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "お互いにそのカウンターの持続部分をね合わせるためにビタでそのフルタイミングを"
+    },
+    {
+      "start": 6.04,
+      "end": 7.76,
+      "text": "Whoa, right at the ledge!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "うわぁここは崖"
+    }
+  ],
+  "full_text": "Matching up the sustained part of that counter with perfect timing Whoa, right at the ledge!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "ガキ",
+      "corrected": "崖",
+      "rule": "Whisper mishearing (がき→がけ)"
+    }
+  ]
+}

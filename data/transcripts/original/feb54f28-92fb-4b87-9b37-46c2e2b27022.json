@@ -1,0 +1,33 @@
+{
+  "id": "feb54f28-92fb-4b87-9b37-46c2e2b27022",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.66,
+      "text": "上投げを選択",
+      "language": "ja"
+    },
+    {
+      "start": 0.66,
+      "end": 2.38,
+      "text": "浮いの展開に戻っていく",
+      "language": "ja"
+    },
+    {
+      "start": 2.38,
+      "end": 3.12,
+      "text": "さあここは",
+      "language": "ja"
+    }
+  ],
+  "full_text": "上投げを選択 浮いの展開に戻っていく さあここは",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "違いの展開",
+      "corrected": "浮いの展開",
+      "rule": "misheard: 違い→浮い"
+    }
+  ]
+}

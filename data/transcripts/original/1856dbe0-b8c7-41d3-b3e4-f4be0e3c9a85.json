@@ -1,0 +1,33 @@
+{
+  "id": "1856dbe0-b8c7-41d3-b3e4-f4be0e3c9a85",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.52,
+      "text": "Okay, if this turns into a reverse 0-to-death, I am going to laugh like you have no idea.",
+      "language": "en"
+    },
+    {
+      "start": 4.9,
+      "end": 12.04,
+      "text": "68% returning the favor as of this moment, 78% looking to get even stronger as of this point, but finally Sisqui says yes to it.",
+      "language": "en"
+    }
+  ],
+  "full_text": "Okay, if this turns into a reverse 0-to-death, I am going to laugh like you have no idea. 68% returning the favor as of this moment, 78% looking to get even stronger as of this point, but finally Sisqui says yes to it.",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "a reverse 0-2 death",
+      "corrected": "a reverse 0-to-death",
+      "rule": "Smash term: 0-2 death→0-to-death"
+    },
+    {
+      "segment_idx": 1,
+      "original": "finally Siski says yes to it",
+      "corrected": "finally Sisqui says yes to it",
+      "rule": "Player name: Siski→Sisqui"
+    }
+  ]
+}

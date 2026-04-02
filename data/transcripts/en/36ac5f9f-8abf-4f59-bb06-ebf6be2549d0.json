@@ -1,0 +1,78 @@
+{
+  "id": "36ac5f9f-8abf-4f59-bb06-ebf6be2549d0",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.96,
+      "text": "Right side, once they're airborne watch the bair!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "右アーク、空中入ったら空後は避けて"
+    },
+    {
+      "start": 3.12,
+      "end": 5.46,
+      "text": "How many times is that grab gonna land?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "- 何回このつかみが通るんか"
+    },
+    {
+      "start": 5.54,
+      "end": 7.48,
+      "text": "With the weight difference, it's about 50-50 from this position!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "体重差で5分ぐらいですよこの位置関係なら"
+    },
+    {
+      "start": 7.58,
+      "end": 8.08,
+      "text": "Yeah!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "- 確かに"
+    },
+    {
+      "start": 8.42,
+      "end": 8.94,
+      "text": "Oh!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "あー"
+    },
+    {
+      "start": 8.98,
+      "end": 11.26,
+      "text": "That's the fair!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ほんがウェイ空前"
+    },
+    {
+      "start": 11.38,
+      "end": 11.94,
+      "text": "Explosive!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "爆発"
+    }
+  ],
+  "full_text": "Right side, once they're airborne watch the bair! How many times is that grab gonna land? With the weight difference, it's about 50-50 from this position! Yeah! Oh! That's the fair! Explosive!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "宇宙入ったら空 後ろは",
+      "corrected": "空中入ったら空後は",
+      "rule": "Whisper error: 宇宙→空中/空"
+    },
+    {
+      "segment_idx": 5,
+      "original": "ホン・ガ・ウェー空中前",
+      "corrected": "ほんがウェイ空前",
+      "rule": "move abbreviation: 空中前→空前"
+    }
+  ]
+}

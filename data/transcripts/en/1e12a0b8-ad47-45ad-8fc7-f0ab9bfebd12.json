@@ -1,0 +1,41 @@
+{
+  "id": "1e12a0b8-ad47-45ad-8fc7-f0ab9bfebd12",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.5,
+      "text": "Yeah, yeah",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "はいはい"
+    },
+    {
+      "start": 0.5,
+      "end": 3.38,
+      "text": "Not that the players can hear this, but...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "選手の方々に聞こえてないという体でいるんですけど"
+    },
+    {
+      "start": 3.38,
+      "end": 5.86,
+      "text": "So Young Link can land down throw into forward tilt at what percentage?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "あのー子供リンクは下投げ横強が入るパーセント"
+    },
+    {
+      "start": 5.86,
+      "end": 6.9,
+      "text": "Right, I see",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "あーなるほどなるほど"
+    }
+  ],
+  "full_text": "Yeah, yeah Not that the players can hear this, but... So Young Link can land down throw into forward tilt at what percentage? Right, I see",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

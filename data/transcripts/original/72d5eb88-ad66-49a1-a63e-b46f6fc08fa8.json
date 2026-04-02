@@ -1,0 +1,69 @@
+{
+  "id": "72d5eb88-ad66-49a1-a63e-b46f6fc08fa8",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "ゲームスピードの速さについてこれるか",
+      "language": "ja"
+    },
+    {
+      "start": 2.0,
+      "end": 4.12,
+      "text": "まあ守備で",
+      "language": "ja"
+    },
+    {
+      "start": 4.12,
+      "end": 6.42,
+      "text": "守備で何も",
+      "language": "ja"
+    },
+    {
+      "start": 6.42,
+      "end": 6.96,
+      "text": "あーこれまさか",
+      "language": "ja"
+    },
+    {
+      "start": 6.96,
+      "end": 8.48,
+      "text": "おー一回ね",
+      "language": "ja"
+    },
+    {
+      "start": 8.48,
+      "end": 10.16,
+      "text": "これはちょっと",
+      "language": "ja"
+    },
+    {
+      "start": 10.16,
+      "end": 12.36,
+      "text": "まだ撃墜してないクッパの重さが",
+      "language": "ja"
+    },
+    {
+      "start": 12.36,
+      "end": 15.12,
+      "text": "だがうちから空後",
+      "language": "ja"
+    }
+  ],
+  "full_text": "ゲームスピードの速さについてこれるか まあ守備で 守備で何も あーこれまさか おー一回ね これはちょっと まだ撃墜してないクッパの重さが だがうちから空後",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 6,
+      "original": "撃沈",
+      "corrected": "撃墜",
+      "rule": "kanji homophone: 撃沈→撃墜"
+    },
+    {
+      "segment_idx": 7,
+      "original": "だが内から空中しろ",
+      "corrected": "だがうちから空後",
+      "rule": "move abbreviation: 空後"
+    }
+  ]
+}

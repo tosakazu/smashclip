@@ -1,0 +1,46 @@
+{
+  "id": "d849b2dc-e2c6-4c2c-b988-39bba1a77428",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.0,
+      "text": "Couldn't execute it, so he brings the jump back—doesn't end there, cuts right as he swings through!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ことができなかったのでジャンプを復活して終わらず 振り切った瞬間切り"
+    },
+    {
+      "start": 4.0,
+      "end": 11.76,
+      "text": "Connects the up tilt combo, chasing the damage! Pushes it to 78%, locks it down with down tilt, and throws!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "上強からのコンボを通してダメージを追いすがっていく 78%まで詰め寄った下強で固めて投げ"
+    },
+    {
+      "start": 11.76,
+      "end": 18.74,
+      "text": "That guaranteed grab—does it really belong in this game? The mashing broke through shield, but the accidental input actually became the real problem!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "確定のつかみこのゲームに存在していいのかと言いたいのか 暴発でブロックを壊した逆に暴発が困ったか"
+    }
+  ],
+  "full_text": "Couldn't execute it, so he brings the jump back—doesn't end there, cuts right as he swings through! Connects the up tilt combo, chasing the damage! Pushes it to 78%, locks it down with down tilt, and throws! That guaranteed grab—does it really belong in this game? The mashing broke through shield, but the accidental input actually became the real problem!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "上京からのコンプを通してダメージを追いすがっていく 78%まで詰め寄った下京で固めて投げ",
+      "corrected": "上強からのコンボを通してダメージを追いすがっていく 78%まで詰め寄った下強で固めて投げ",
+      "rule": "kanji homophone (上強/下強)"
+    },
+    {
+      "segment_idx": 2,
+      "original": "確定のつかみこのゲームに存在していけたと言ったのか 暴発でブロックを壊した逆に暴発が困ったか",
+      "corrected": "確定のつかみこのゲームに存在していいのかと言いたいのか 暴発でブロックを壊した逆に暴発が困ったか",
+      "rule": "whisper_misrecognition"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": "eb73f7e1-5c1b-4539-8aeb-1f73ad9decf8",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.2,
+      "text": "低%PKフリーズ",
+      "language": "ja"
+    },
+    {
+      "start": 1.2,
+      "end": 3.42,
+      "text": "音を鳴らして着地狩りの展開見ているぞ",
+      "language": "ja"
+    },
+    {
+      "start": 3.42,
+      "end": 4.48,
+      "text": "空Nから先を",
+      "language": "ja"
+    },
+    {
+      "start": 4.48,
+      "end": 5.42,
+      "text": "空上",
+      "language": "ja"
+    },
+    {
+      "start": 5.42,
+      "end": 7.38,
+      "text": "そっか",
+      "language": "ja"
+    }
+  ],
+  "full_text": "低%PKフリーズ 音を鳴らして着地狩りの展開見ているぞ 空Nから先を 空上 そっか",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "2%",
+      "corrected": "低%",
+      "rule": "context"
+    },
+    {
+      "segment_idx": 2,
+      "original": "クエノトシから先を",
+      "corrected": "空Nから先を",
+      "rule": "misheard: クエノトシ→空N"
+    },
+    {
+      "segment_idx": 3,
+      "original": "クーチューブ",
+      "corrected": "空上",
+      "rule": "misheard: クーチューブ→空上"
+    }
+  ]
+}

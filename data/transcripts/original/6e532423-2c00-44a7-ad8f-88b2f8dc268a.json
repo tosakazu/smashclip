@@ -1,0 +1,26 @@
+{
+  "id": "6e532423-2c00-44a7-ad8f-88b2f8dc268a",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.86,
+      "text": "すごいぞあるぞ俺たちのやりたいスマブラを体験してる",
+      "language": "ja"
+    },
+    {
+      "start": 3.86,
+      "end": 8.42,
+      "text": "しかし令和のスマブラはこれだぞと言うTGの選手",
+      "language": "ja"
+    },
+    {
+      "start": 8.42,
+      "end": 9.22,
+      "text": "うわっ",
+      "language": "ja"
+    }
+  ],
+  "full_text": "すごいぞあるぞ俺たちのやりたいスマブラを体験してる しかし令和のスマブラはこれだぞと言うTGの選手 うわっ",
+  "detected_language": "ja",
+  "corrections": []
+}

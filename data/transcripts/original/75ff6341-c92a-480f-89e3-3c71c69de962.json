@@ -1,0 +1,51 @@
+{
+  "id": "75ff6341-c92a-480f-89e3-3c71c69de962",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.5,
+      "text": "シェフ継続してたら空前食らってますけど",
+      "language": "ja"
+    },
+    {
+      "start": 2.5,
+      "end": 4.06,
+      "text": "シェフ1個でやめたことによって",
+      "language": "ja"
+    },
+    {
+      "start": 4.06,
+      "end": 6.76,
+      "text": "Miya側が次横Bを出す権利を得たっていう",
+      "language": "ja"
+    },
+    {
+      "start": 6.76,
+      "end": 9.38,
+      "text": "シェフのヒットストップで空前突っかかっちゃうんで",
+      "language": "ja"
+    },
+    {
+      "start": 9.38,
+      "end": 10.56,
+      "text": "行くんですね",
+      "language": "ja"
+    }
+  ],
+  "full_text": "シェフ継続してたら空前食らってますけど シェフ1個でやめたことによって Miya側が次横Bを出す権利を得たっていう シェフのヒットストップで空前突っかかっちゃうんで 行くんですね",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "空前下ってますけど",
+      "corrected": "空前食らってますけど",
+      "rule": "Whisper mishearing"
+    },
+    {
+      "segment_idx": 2,
+      "original": "右側側が次横気を出す権利を得るたっていう",
+      "corrected": "Miya側が次横Bを出す権利を得たっていう",
+      "rule": "player name + move name"
+    }
+  ]
+}

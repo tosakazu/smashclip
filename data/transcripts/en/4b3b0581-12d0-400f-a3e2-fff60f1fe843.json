@@ -1,0 +1,62 @@
+{
+  "id": "4b3b0581-12d0-400f-a3e2-fff60f1fe843",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.72,
+      "text": "Lands on top and takes control!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "上に着地をしてターンを作ります"
+    },
+    {
+      "start": 2.72,
+      "end": 3.0,
+      "text": "Got it!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ガット"
+    },
+    {
+      "start": 3.0,
+      "end": 4.62,
+      "text": "Looking to grab here!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここでとりあえず掴みたい"
+    },
+    {
+      "start": 4.62,
+      "end": 5.74,
+      "text": "Dash attack!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "DA"
+    },
+    {
+      "start": 5.74,
+      "end": 7.42,
+      "text": "Grabbed, back throw for the KO!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これはつかんで後ろ投げ撃墜です"
+    }
+  ],
+  "full_text": "Lands on top and takes control! Got it! Looking to grab here! Dash attack! Grabbed, back throw for the KO!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "取り台がつかみたい",
+      "corrected": "とりあえず掴みたい",
+      "rule": "misheard words"
+    },
+    {
+      "segment_idx": 3,
+      "original": "出し攻撃",
+      "corrected": "DA",
+      "rule": "move abbreviation (ダッシュ攻撃→DA)"
+    }
+  ]
+}

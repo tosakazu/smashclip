@@ -1,0 +1,62 @@
+{
+  "id": "1376aa33-c8d1-46b8-9dba-f59166b25b4f",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.26,
+      "text": "So many of his moves are in kill range!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "多くの技が撃墜帯になったパーセント"
+    },
+    {
+      "start": 2.26,
+      "end": 6.5,
+      "text": "Against the up tilt dash approach",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "上強を当てたいダッシュに対して"
+    },
+    {
+      "start": 6.5,
+      "end": 9.48,
+      "text": "Landing bair right when OOS can't come out!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空後攻撃ダッシュガードが出ないフレームにしっかり合わせている"
+    },
+    {
+      "start": 9.48,
+      "end": 10.54,
+      "text": "Baiting it",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "釣っている"
+    },
+    {
+      "start": 10.54,
+      "end": 12.2,
+      "text": "One more up",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "もう一つ上"
+    }
+  ],
+  "full_text": "So many of his moves are in kill range! Against the up tilt dash approach Landing bair right when OOS can't come out! Baiting it One more up",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "オークの技が撃墜体になったリーチ",
+      "corrected": "多くの技が撃墜帯になったパーセント",
+      "rule": "Whisper mishearing: オーク→多く; 撃墜体→撃墜帯; リーチ→パーセント"
+    },
+    {
+      "segment_idx": 2,
+      "original": "空中白攻撃ダッシュガードが出ないフレームにしっかり合わせている",
+      "corrected": "空後攻撃ダッシュガードが出ないフレームにしっかり合わせている",
+      "rule": "Move abbreviation: 空中白→空後 (back air)"
+    }
+  ]
+}

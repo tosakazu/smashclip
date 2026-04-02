@@ -1,0 +1,40 @@
+{
+  "id": "07a6738f-b1c3-4a4d-8866-81f1b1d212a5",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.82,
+      "text": "Steve can't really punish this barrel attack!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "バレルこの攻撃能力なかなかスティーブではとがめられないでしょう"
+    },
+    {
+      "start": 4.82,
+      "end": 9.54,
+      "text": "And Acolyte's defensive option is shining through!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "結局ここのアコーラの拒否もまた光るというところか"
+    },
+    {
+      "start": 9.54,
+      "end": 12.24,
+      "text": "Banana connects! Fair—straight to the KO!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "バナナ当て空前そのまま撃墜"
+    }
+  ],
+  "full_text": "Steve can't really punish this barrel attack! And Acolyte's defensive option is shining through! Banana connects! Fair—straight to the KO!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "バナナアテック打ち前そのまま撃墜",
+      "corrected": "バナナ当て空前そのまま撃墜",
+      "rule": "Move abbreviation correction (アテック打ち前 → 当て空前)"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "8776c360-b526-4c15-ae71-6c2df7b7b507",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.64,
+      "text": "this damage on this one opening yeah and spacing yourself around TG's",
+      "language": "en"
+    },
+    {
+      "start": 4.64,
+      "end": 8.32,
+      "text": "projectiles in order to get that first hit it's like it's not as easy as you",
+      "language": "en"
+    },
+    {
+      "start": 8.32,
+      "end": 12.56,
+      "text": "think you know just because it's banjo like it's banjo but it's also TG",
+      "language": "en"
+    }
+  ],
+  "full_text": "this damage on this one opening yeah and spacing yourself around TG's projectiles in order to get that first hit it's like it's not as easy as you think you know just because it's banjo like it's banjo but it's also TG",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "torii guri's",
+      "corrected": "TG's",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 2,
+      "original": "torii guri",
+      "corrected": "TG",
+      "rule": "player name"
+    }
+  ]
+}

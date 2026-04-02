@@ -1,0 +1,50 @@
+{
+  "id": "6a3cb503-d308-4a3b-9ba0-9c3094fbb7c9",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.04,
+      "text": "Yeah, tapes it.",
+      "language": "en"
+    },
+    {
+      "start": 1.18,
+      "end": 2.46,
+      "text": "He's like, you left this, bro.",
+      "language": "en"
+    },
+    {
+      "start": 3.56,
+      "end": 4.36,
+      "text": "Okay, gets the grab.",
+      "language": "en"
+    },
+    {
+      "start": 4.58,
+      "end": 5.88,
+      "text": "He's going to toss him back offstage.",
+      "language": "en"
+    },
+    {
+      "start": 6.36,
+      "end": 7.86,
+      "text": "Now we're looking for some back air action.",
+      "language": "en"
+    },
+    {
+      "start": 8.0,
+      "end": 9.6,
+      "text": "Oh, he actually grabbed a fireball there.",
+      "language": "en"
+    },
+    {
+      "start": 9.88,
+      "end": 10.16,
+      "text": "The down.",
+      "language": "en"
+    }
+  ],
+  "full_text": "Yeah, tapes it. He's like, you left this, bro. Okay, gets the grab. He's going to toss him back offstage. Now we're looking for some back air action. Oh, he actually grabbed a fireball there. The down.",
+  "detected_language": "en",
+  "corrections": []
+}

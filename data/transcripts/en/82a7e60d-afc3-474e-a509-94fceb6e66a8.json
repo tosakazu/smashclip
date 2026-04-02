@@ -1,0 +1,84 @@
+{
+  "id": "82a7e60d-afc3-474e-a509-94fceb6e66a8",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.08,
+      "text": "That's pretty heavy",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "結構重いですよね"
+    },
+    {
+      "start": 1.08,
+      "end": 3.28,
+      "text": "Toon Link's the same way",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "トゥーンリンクもそうだけど"
+    },
+    {
+      "start": 3.28,
+      "end": 5.78,
+      "text": "Characters like this surprisingly have decent weight",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "こういう系のキャラって意外と重かったりするんですよね"
+    },
+    {
+      "start": 5.78,
+      "end": 7.48,
+      "text": "Coupled with their proportions",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "見た目の等身と相まって"
+    },
+    {
+      "start": 7.48,
+      "end": 9.0,
+      "text": "Side B should let them recover though",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "横Bがあるから帰れるんじゃないかな"
+    },
+    {
+      "start": 9.0,
+      "end": 10.7,
+      "text": "Won't let them back",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "帰らせない"
+    },
+    {
+      "start": 10.7,
+      "end": 11.3,
+      "text": "Full ledge trap",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "詰め切り"
+    }
+  ],
+  "full_text": "That's pretty heavy Toon Link's the same way Characters like this surprisingly have decent weight Coupled with their proportions Side B should let them recover though Won't let them back Full ledge trap",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 4,
+      "original": "横Bがあるから変えれるんじゃないかな",
+      "corrected": "横Bがあるから帰れるんじゃないかな",
+      "rule": "homophone"
+    },
+    {
+      "segment_idx": 5,
+      "original": "変えらせない",
+      "corrected": "帰らせない",
+      "rule": "homophone"
+    },
+    {
+      "segment_idx": 6,
+      "original": "爪切り",
+      "corrected": "詰め切り",
+      "rule": "Whisper mishearing"
+    }
+  ]
+}

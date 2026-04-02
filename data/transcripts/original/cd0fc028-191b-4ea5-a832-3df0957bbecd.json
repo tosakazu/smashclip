@@ -1,0 +1,45 @@
+{
+  "id": "cd0fc028-191b-4ea5-a832-3df0957bbecd",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.86,
+      "text": "攻略する",
+      "language": "ja"
+    },
+    {
+      "start": 0.86,
+      "end": 2.72,
+      "text": "大乗り",
+      "language": "ja"
+    },
+    {
+      "start": 2.72,
+      "end": 3.1,
+      "text": "怖いぞ",
+      "language": "ja"
+    },
+    {
+      "start": 3.1,
+      "end": 6.18,
+      "text": "上スマ撃墜",
+      "language": "ja"
+    },
+    {
+      "start": 6.18,
+      "end": 7.08,
+      "text": "取っていきました",
+      "language": "ja"
+    }
+  ],
+  "full_text": "攻略する 大乗り 怖いぞ 上スマ撃墜 取っていきました",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 3,
+      "original": "上差襲撃",
+      "corrected": "上スマ撃墜",
+      "rule": "smash term (上スマッシュ撃墜)"
+    }
+  ]
+}

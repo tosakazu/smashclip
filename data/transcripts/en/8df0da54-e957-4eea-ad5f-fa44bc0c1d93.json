@@ -1,0 +1,57 @@
+{
+  "id": "8df0da54-e957-4eea-ad5f-fa44bc0c1d93",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.22,
+      "text": "That's the thing with all these resets",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ダブルアップの多さなんですよね"
+    },
+    {
+      "start": 1.22,
+      "end": 3.06,
+      "text": "Getting them to dodge and tech",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "相手に回避させて受け身させて"
+    },
+    {
+      "start": 3.06,
+      "end": 5.58,
+      "text": "Then I'm spacing again",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "その後に自分がまた置いてはいるんですけど"
+    },
+    {
+      "start": 5.58,
+      "end": 7.64,
+      "text": "But I still feel like I can definitely catch them after",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "その後も絶対狩れるような気がしてるので"
+    },
+    {
+      "start": 7.64,
+      "end": 10.12,
+      "text": "So that's why the risk is so big when they escape",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "やっぱり回避された時のリスクが大きいからですよね"
+    },
+    {
+      "start": 10.12,
+      "end": 10.6,
+      "text": "That's insane",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "やばい"
+    }
+  ],
+  "full_text": "That's the thing with all these resets Getting them to dodge and tech Then I'm spacing again But I still feel like I can definitely catch them after So that's why the risk is so big when they escape That's insane",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

@@ -1,0 +1,57 @@
+{
+  "id": "8c6a4770-b176-4c7a-ab1a-4d3db3fea3e2",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.74,
+      "text": "So if you're charging spin and waiting for them to approach...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いわゆるガンマチでねスピンをチャージして待って"
+    },
+    {
+      "start": 2.74,
+      "end": 5.38,
+      "text": "...that strategy of just handling when they come in...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "相手が攻め込んでくるところを捌くみたいな戦法が"
+    },
+    {
+      "start": 5.38,
+      "end": 7.86,
+      "text": "...when you're down in stocks, Sonic can't really do that",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "リードされてしまうとソニック側はできない"
+    },
+    {
+      "start": 7.86,
+      "end": 9.32,
+      "text": "...can't execute those strong moves",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "強い動きができないということで"
+    },
+    {
+      "start": 9.32,
+      "end": 11.86,
+      "text": "...when it gets like that, things get pretty rough, but...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "こうなってしまうとちょっと苦しかったんですが"
+    },
+    {
+      "start": 11.86,
+      "end": 12.24,
+      "text": "Yeah, I see",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "なるほど"
+    }
+  ],
+  "full_text": "So if you're charging spin and waiting for them to approach... ...that strategy of just handling when they come in... ...when you're down in stocks, Sonic can't really do that ...can't execute those strong moves ...when it gets like that, things get pretty rough, but... Yeah, I see",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

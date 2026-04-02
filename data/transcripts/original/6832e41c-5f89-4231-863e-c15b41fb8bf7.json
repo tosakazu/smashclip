@@ -1,0 +1,75 @@
+{
+  "id": "6832e41c-5f89-4231-863e-c15b41fb8bf7",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.22,
+      "text": "空中後ろで着地狩り継続",
+      "language": "ja"
+    },
+    {
+      "start": 1.22,
+      "end": 3.64,
+      "text": "なんか下B一切使わないですね",
+      "language": "ja"
+    },
+    {
+      "start": 3.64,
+      "end": 5.96,
+      "text": "そうですね下B結構",
+      "language": "ja"
+    },
+    {
+      "start": 5.96,
+      "end": 7.48,
+      "text": "まさか違うのか",
+      "language": "ja"
+    },
+    {
+      "start": 7.48,
+      "end": 9.78,
+      "text": "下Bほかになんかあったっけ",
+      "language": "ja"
+    },
+    {
+      "start": 9.78,
+      "end": 10.96,
+      "text": "カウンターとかですけどね",
+      "language": "ja"
+    },
+    {
+      "start": 10.96,
+      "end": 12.14,
+      "text": "さあ後ろに回避",
+      "language": "ja"
+    }
+  ],
+  "full_text": "空中後ろで着地狩り継続 なんか下B一切使わないですね そうですね下B結構 まさか違うのか 下Bほかになんかあったっけ カウンターとかですけどね さあ後ろに回避",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "宇宙後ろ",
+      "corrected": "空中後ろ",
+      "rule": "kanji homophone (うちゅう→くうちゅう)"
+    },
+    {
+      "segment_idx": 1,
+      "original": "下火",
+      "corrected": "下B",
+      "rule": "move input (したビー)"
+    },
+    {
+      "segment_idx": 2,
+      "original": "下火",
+      "corrected": "下B",
+      "rule": "move input (したビー)"
+    },
+    {
+      "segment_idx": 4,
+      "original": "下火ほっかりなんかあったっけ",
+      "corrected": "下Bほかになんかあったっけ",
+      "rule": "move input + misheard word"
+    }
+  ]
+}

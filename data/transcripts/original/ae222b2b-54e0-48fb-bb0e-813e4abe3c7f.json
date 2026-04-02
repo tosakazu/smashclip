@@ -1,0 +1,63 @@
+{
+  "id": "ae222b2b-54e0-48fb-bb0e-813e4abe3c7f",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.68,
+      "text": "ますねそういえば",
+      "language": "ja"
+    },
+    {
+      "start": 0.68,
+      "end": 4.66,
+      "text": "空前を通してヤウラ",
+      "language": "ja"
+    },
+    {
+      "start": 4.66,
+      "end": 6.04,
+      "text": "崖回り",
+      "language": "ja"
+    },
+    {
+      "start": 6.04,
+      "end": 7.32,
+      "text": "ダッシュ攻撃",
+      "language": "ja"
+    },
+    {
+      "start": 7.32,
+      "end": 9.88,
+      "text": "落下した以上着地は許してくれません",
+      "language": "ja"
+    },
+    {
+      "start": 9.88,
+      "end": 11.5,
+      "text": "台上の読み合いをあえて",
+      "language": "ja"
+    }
+  ],
+  "full_text": "ますねそういえば 空前を通してヤウラ 崖回り ダッシュ攻撃 落下した以上着地は許してくれません 台上の読み合いをあえて",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "宇宙前を通して矢浦",
+      "corrected": "空前を通してヤウラ",
+      "rule": "move name + player name (Yaura)"
+    },
+    {
+      "segment_idx": 4,
+      "original": "ラコシタイガー着地は許してくれません",
+      "corrected": "落下した以上着地は許してくれません",
+      "rule": "mishearing (落下した以上)"
+    },
+    {
+      "segment_idx": 5,
+      "original": "ダイヌ読み合いをあえて",
+      "corrected": "台上の読み合いをあえて",
+      "rule": "mishearing (台上)"
+    }
+  ]
+}

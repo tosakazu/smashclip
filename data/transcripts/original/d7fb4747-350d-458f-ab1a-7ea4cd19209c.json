@@ -1,0 +1,39 @@
+{
+  "id": "d7fb4747-350d-458f-ab1a-7ea4cd19209c",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.48,
+      "text": "いるんですよ",
+      "language": "ja"
+    },
+    {
+      "start": 0.48,
+      "end": 6.76,
+      "text": "だけでコネコネしながら",
+      "language": "ja"
+    },
+    {
+      "start": 6.76,
+      "end": 8.16,
+      "text": "崖上着地に対して",
+      "language": "ja"
+    },
+    {
+      "start": 8.16,
+      "end": 9.44,
+      "text": "空中後ろでちゃんとリフト",
+      "language": "ja"
+    }
+  ],
+  "full_text": "いるんですよ だけでコネコネしながら 崖上着地に対して 空中後ろでちゃんとリフト",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "外上着地に対して",
+      "corrected": "崖上着地に対して",
+      "rule": "kanji homophone (崖)"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "e9798793-65dd-4577-ab87-31aeba366aa5",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.72,
+      "text": "ポコポコと取って前に投げていく",
+      "language": "ja"
+    },
+    {
+      "start": 1.72,
+      "end": 5.72,
+      "text": "空中後ろ通らない",
+      "language": "ja"
+    },
+    {
+      "start": 5.72,
+      "end": 9.46,
+      "text": "弱を通しているギリギリ",
+      "language": "ja"
+    }
+  ],
+  "full_text": "ポコポコと取って前に投げていく 空中後ろ通らない 弱を通しているギリギリ",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "右方",
+      "corrected": "ギリギリ",
+      "rule": "misheard"
+    }
+  ]
+}

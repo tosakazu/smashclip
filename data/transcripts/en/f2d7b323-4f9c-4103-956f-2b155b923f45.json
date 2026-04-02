@@ -1,0 +1,40 @@
+{
+  "id": "f2d7b323-4f9c-4103-956f-2b155b923f45",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.96,
+      "text": "Spacing neutral B here",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここはNBを置いている"
+    },
+    {
+      "start": 0.96,
+      "end": 7.5,
+      "text": "Now Nao can't afford any mistakes",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあ少しも油断ができなくなったのはなおちゃ側"
+    },
+    {
+      "start": 7.5,
+      "end": 11.34,
+      "text": "Gets the KO off neutral B!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここでNB撃墜しています"
+    }
+  ],
+  "full_text": "Spacing neutral B here Now Nao can't afford any mistakes Gets the KO off neutral B!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "直茶川",
+      "corrected": "なおちゃ側",
+      "rule": "player name: 直茶→なおちゃ"
+    }
+  ]
+}

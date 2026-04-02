@@ -1,0 +1,63 @@
+{
+  "id": "2cf540c1-1d10-43d7-a828-4ff1f2e4e4a3",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.84,
+      "text": "飛びとか狙ってるかな",
+      "language": "ja"
+    },
+    {
+      "start": 0.84,
+      "end": 2.4,
+      "text": "さあ",
+      "language": "ja"
+    },
+    {
+      "start": 2.4,
+      "end": 4.12,
+      "text": "回避切って",
+      "language": "ja"
+    },
+    {
+      "start": 4.12,
+      "end": 5.48,
+      "text": "いや",
+      "language": "ja"
+    },
+    {
+      "start": 5.48,
+      "end": 7.98,
+      "text": "いやーギリギリの部分が当たってしまったが",
+      "language": "ja"
+    },
+    {
+      "start": 7.98,
+      "end": 8.48,
+      "text": "うわうまいね",
+      "language": "ja"
+    },
+    {
+      "start": 8.48,
+      "end": 10.3,
+      "text": "うー大丈夫",
+      "language": "ja"
+    },
+    {
+      "start": 10.3,
+      "end": 11.92,
+      "text": "うわーマジ",
+      "language": "ja"
+    }
+  ],
+  "full_text": "飛びとか狙ってるかな さあ 回避切って いや いやーギリギリの部分が当たってしまったが うわうまいね うー大丈夫 うわーマジ",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "回帰って",
+      "corrected": "回避切って",
+      "rule": "misheard: 回帰って→回避切って"
+    }
+  ]
+}

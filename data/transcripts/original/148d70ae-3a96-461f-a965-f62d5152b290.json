@@ -1,0 +1,63 @@
+{
+  "id": "148d70ae-3a96-461f-a965-f62d5152b290",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.04,
+      "text": "どう上がる?",
+      "language": "ja"
+    },
+    {
+      "start": 1.78,
+      "end": 3.98,
+      "text": "あえての無敵が切れても捕まりっぽい選択",
+      "language": "ja"
+    },
+    {
+      "start": 3.98,
+      "end": 4.46,
+      "text": "はい",
+      "language": "ja"
+    },
+    {
+      "start": 4.46,
+      "end": 6.86,
+      "text": "下強ならば食らっても撃墜にはないということで",
+      "language": "ja"
+    },
+    {
+      "start": 6.86,
+      "end": 7.42,
+      "text": "そうですね",
+      "language": "ja"
+    },
+    {
+      "start": 7.42,
+      "end": 8.04,
+      "text": "はい",
+      "language": "ja"
+    },
+    {
+      "start": 8.04,
+      "end": 9.68,
+      "text": "じっくり時間を使って",
+      "language": "ja"
+    },
+    {
+      "start": 9.68,
+      "end": 11.3,
+      "text": "クエスターバル",
+      "language": "ja"
+    }
+  ],
+  "full_text": "どう上がる? あえての無敵が切れても捕まりっぽい選択 はい 下強ならば食らっても撃墜にはないということで そうですね はい じっくり時間を使って クエスターバル",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 3,
+      "original": "下強ならば食らっても撃ちついてはないということで",
+      "corrected": "下強ならば食らっても撃墜にはないということで",
+      "rule": "Kanji homophone: 撃ちついて→撃墜に"
+    }
+  ]
+}

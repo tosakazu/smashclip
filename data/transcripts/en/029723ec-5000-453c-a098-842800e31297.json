@@ -1,0 +1,178 @@
+{
+  "id": "029723ec-5000-453c-a098-842800e31297",
+  "segments": [
+    {
+      "start": 0.8,
+      "end": 3.6,
+      "text": "Whether it hit from behind or the front matters!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "後ろ側に当たったか前側に当たったか判断も"
+    },
+    {
+      "start": 3.6,
+      "end": 5.84,
+      "text": "Something faster might've been needed",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "より迅速なものが求められたか"
+    },
+    {
+      "start": 5.84,
+      "end": 8.12,
+      "text": "Throw follow-up with nair!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "投げからの追い 空N"
+    },
+    {
+      "start": 8.12,
+      "end": 11.42,
+      "text": "Jab into down smash connects!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "弱 下スマが通った"
+    },
+    {
+      "start": 11.42,
+      "end": 14.62,
+      "text": "Even ledge getup nair!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "もうでも崖上がり空N"
+    },
+    {
+      "start": 14.62,
+      "end": 16.24,
+      "text": "Another nair!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "もう一回空N"
+    },
+    {
+      "start": 16.24,
+      "end": 19.78,
+      "text": "Platform juggle with nair!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "台復帰も見ている空N"
+    },
+    {
+      "start": 19.78,
+      "end": 22.68,
+      "text": "Another nair, clears out of here!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "もう一回空Nからここも飛び越えて"
+    },
+    {
+      "start": 22.68,
+      "end": 25.36,
+      "text": "Up B bounces it away, down smash still connects!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "上Bで弾いて下スマも通った"
+    },
+    {
+      "start": 25.36,
+      "end": 26.38,
+      "text": "Nice! Down smash!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ナイス 下スマ"
+    },
+    {
+      "start": 26.38,
+      "end": 28.36,
+      "text": "Shield break with the forward smash!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "横スマでシールドブレイク"
+    },
+    {
+      "start": 28.36,
+      "end": 31.6,
+      "text": "Up smash for the KO!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "上スマで撃墜だ"
+    }
+  ],
+  "full_text": "Whether it hit from behind or the front matters! Something faster might've been needed Throw follow-up with nair! Jab into down smash connects! Even ledge getup nair! Another nair! Platform juggle with nair! Another nair, clears out of here! Up B bounces it away, down smash still connects! Nice! Down smash! Shield break with the forward smash! Up smash for the KO!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "投げ方を追った空中A",
+      "corrected": "投げからの追い 空N",
+      "rule": "misheard term"
+    },
+    {
+      "segment_idx": 3,
+      "original": "弱?スカッシャクシが通った",
+      "corrected": "弱 下スマが通った",
+      "rule": "misheard term"
+    },
+    {
+      "segment_idx": 4,
+      "original": "もうでもガキ上がりQN",
+      "corrected": "もうでも崖上がりQN",
+      "rule": "auto-rule"
+    },
+    {
+      "segment_idx": 5,
+      "original": "もう一回空中A",
+      "corrected": "もう一回空N",
+      "rule": "move abbreviation"
+    },
+    {
+      "segment_idx": 6,
+      "original": "大補給も見ている空中A",
+      "corrected": "台復帰も見ている空N",
+      "rule": "kanji homophone + abbreviation"
+    },
+    {
+      "segment_idx": 7,
+      "original": "もう一回QNからここも飛び越えて",
+      "corrected": "もう一回空Nからここも飛び越えて",
+      "rule": "abbreviation"
+    },
+    {
+      "segment_idx": 8,
+      "original": "上Bで弾いてスカッシャクシも通った",
+      "corrected": "上Bで弾いて下スマも通った",
+      "rule": "misheard term"
+    },
+    {
+      "segment_idx": 9,
+      "original": "ナイスタースマッシュ",
+      "corrected": "ナイス 下スマ",
+      "rule": "misheard term"
+    },
+    {
+      "segment_idx": 10,
+      "original": "横スマッシュでシードブレイク",
+      "corrected": "横スマでシードブレイク",
+      "rule": "auto-rule"
+    },
+    {
+      "segment_idx": 10,
+      "original": "シードブレイク",
+      "corrected": "シールドブレイク",
+      "rule": "misheard term"
+    },
+    {
+      "segment_idx": 11,
+      "original": "上スマッシュで撃墜だ",
+      "corrected": "上スマで撃墜だ",
+      "rule": "auto-rule"
+    },
+    {
+      "segment_idx": 4,
+      "original": "QN",
+      "corrected": "空N",
+      "rule": "abbreviation"
+    }
+  ]
+}

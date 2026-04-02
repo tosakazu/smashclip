@@ -1,0 +1,56 @@
+{
+  "id": "0249cde5-b275-4c44-a712-abe7d049c622",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.14,
+      "text": "Yeah, you don't want to have to craft it",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "おーですね、作りたくないですよね"
+    },
+    {
+      "start": 2.14,
+      "end": 3.94,
+      "text": "Grabbed! Coming in!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "掴まえ!捕らえに来ました"
+    },
+    {
+      "start": 3.94,
+      "end": 6.84,
+      "text": "Alright, now I can craft my weapons without any doubt",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあこれで迷いなく武器が作れるようになります"
+    },
+    {
+      "start": 6.84,
+      "end": 8.0,
+      "text": "Diamond equipped!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ダイヤモンドになって"
+    },
+    {
+      "start": 8.0,
+      "end": 10.76,
+      "text": "Instant KO! Of course!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ワンタッチで撃墜!当然だ"
+    }
+  ],
+  "full_text": "Yeah, you don't want to have to craft it Grabbed! Coming in! Alright, now I can craft my weapons without any doubt Diamond equipped! Instant KO! Of course!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "くちまえ!捕らえに来ました",
+      "corrected": "掴まえ!捕らえに来ました",
+      "rule": "kanji homophone"
+    }
+  ]
+}

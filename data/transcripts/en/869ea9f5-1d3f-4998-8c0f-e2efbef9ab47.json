@@ -1,0 +1,97 @@
+{
+  "id": "869ea9f5-1d3f-4998-8c0f-e2efbef9ab47",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.72,
+      "text": "So clean!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "うますぎ!"
+    },
+    {
+      "start": 0.98,
+      "end": 1.72,
+      "text": "That's nice!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "それはうまい!"
+    },
+    {
+      "start": 3.02,
+      "end": 3.9,
+      "text": "edgeguard",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "復帰阻止"
+    },
+    {
+      "start": 3.9,
+      "end": 5.56,
+      "text": "Sealing the stock!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "詰め切ります"
+    },
+    {
+      "start": 5.56,
+      "end": 10.24,
+      "text": "Yeah, Hydro Pump sets them up perfectly!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いやーハイドロポンプが本当にいい状態にしますね"
+    },
+    {
+      "start": 10.24,
+      "end": 11.04,
+      "text": "Yeah, exactly!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いやーそうですね"
+    },
+    {
+      "start": 11.04,
+      "end": 12.52,
+      "text": "With Hydro Pump",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ハイドロポンプで"
+    },
+    {
+      "start": 12.52,
+      "end": 15.16,
+      "text": "Once you're at that angle",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "一度軌道変えられたら"
+    },
+    {
+      "start": 15.16,
+      "end": 15.82,
+      "text": "it gets scary",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "怖くなっちゃう"
+    },
+    {
+      "start": 15.82,
+      "end": 16.4,
+      "text": "But...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "あーでもなんか"
+    },
+    {
+      "start": 16.4,
+      "end": 18.3,
+      "text": "it just gets so scary",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "怖くなっちゃうので"
+    }
+  ],
+  "full_text": "So clean! That's nice! edgeguard Sealing the stock! Yeah, Hydro Pump sets them up perfectly! Yeah, exactly! With Hydro Pump Once you're at that angle it gets scary But... it just gets so scary",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

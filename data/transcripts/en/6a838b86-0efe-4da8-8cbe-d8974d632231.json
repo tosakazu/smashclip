@@ -1,0 +1,72 @@
+{
+  "id": "6a838b86-0efe-4da8-8cbe-d8974d632231",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.78,
+      "text": "MTK Black Pit",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "MTKブラックピット"
+    },
+    {
+      "start": 0.78,
+      "end": 1.68,
+      "text": "Back throw",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "後ろ投げ"
+    },
+    {
+      "start": 1.68,
+      "end": 3.3,
+      "text": "Neither backing down",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "お互い譲らない"
+    },
+    {
+      "start": 3.3,
+      "end": 4.8,
+      "text": "Right here",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここは"
+    },
+    {
+      "start": 4.8,
+      "end": 5.84,
+      "text": "Alright!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあ"
+    },
+    {
+      "start": 5.84,
+      "end": 7.36,
+      "text": "There's the attack!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "攻撃はあるよ"
+    },
+    {
+      "start": 7.36,
+      "end": 7.62,
+      "text": "Perfect!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ジャスト"
+    }
+  ],
+  "full_text": "MTK Black Pit back throw neither backing down right here alright! There's the attack! Perfect!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "MDK",
+      "corrected": "MTK",
+      "rule": "player name"
+    }
+  ]
+}

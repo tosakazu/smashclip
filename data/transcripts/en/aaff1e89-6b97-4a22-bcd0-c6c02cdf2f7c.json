@@ -1,0 +1,80 @@
+{
+  "id": "aaff1e89-6b97-4a22-bcd0-c6c02cdf2f7c",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.0,
+      "text": "Reading the spot dodge!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これを緊急回避しながら"
+    },
+    {
+      "start": 3.0,
+      "end": 3.82,
+      "text": "Gets it in cleanly, but...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "うまくねじ込んだが"
+    },
+    {
+      "start": 3.82,
+      "end": 7.48,
+      "text": "Reading the airdodge too!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いや移動回避も見ています"
+    },
+    {
+      "start": 7.48,
+      "end": 8.32,
+      "text": "Back air!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空中後ろ"
+    },
+    {
+      "start": 8.32,
+      "end": 10.56,
+      "text": "Where's the escape?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "逃げ場はどこにあるのか"
+    },
+    {
+      "start": 10.56,
+      "end": 12.04,
+      "text": "Nair again!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空Nまたって"
+    },
+    {
+      "start": 12.04,
+      "end": 13.7,
+      "text": "That's a high hitbox!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これは打点が高い"
+    },
+    {
+      "start": 13.7,
+      "end": 15.98,
+      "text": "Had it the whole time!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いやずっと"
+    }
+  ],
+  "full_text": "Reading the spot dodge! Gets it in cleanly, but... Reading the airdodge too! Back air! Where's the escape? Nair again! That's a high hitbox! Had it the whole time!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 5,
+      "original": "空中車またって",
+      "corrected": "空Nまたって",
+      "rule": "Move: 空中車→空N"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": "b38cee8c-6ece-4ccb-9d96-eb231e6ad3c9",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.6,
+      "text": "If you nerf my forward air, I got you.",
+      "language": "en"
+    },
+    {
+      "start": 2.76,
+      "end": 7.36,
+      "text": "Raw back air, coming out of the down tilt, smart awareness from Samsora, lands down",
+      "language": "en"
+    },
+    {
+      "start": 7.36,
+      "end": 8.24,
+      "text": "right on the platforms.",
+      "language": "en"
+    }
+  ],
+  "full_text": "If you nerf my forward air, I got you. Raw back air, coming out of the down tilt, smart awareness from Samsora, lands down right on the platforms.",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "Rawr back here",
+      "corrected": "Raw back air"
+    },
+    {
+      "segment_idx": 1,
+      "original": "Samus Orr",
+      "corrected": "Samsora",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 2,
+      "original": "their planks",
+      "corrected": "the platforms",
+      "rule": "misheard word"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "0249cde5-b275-4c44-a712-abe7d049c622",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.14,
+      "text": "おーですね、作りたくないですよね",
+      "language": "ja"
+    },
+    {
+      "start": 2.14,
+      "end": 3.94,
+      "text": "掴まえ!捕らえに来ました",
+      "language": "ja"
+    },
+    {
+      "start": 3.94,
+      "end": 6.84,
+      "text": "さあこれで迷いなく武器が作れるようになります",
+      "language": "ja"
+    },
+    {
+      "start": 6.84,
+      "end": 8.0,
+      "text": "ダイヤモンドになって",
+      "language": "ja"
+    },
+    {
+      "start": 8.0,
+      "end": 10.76,
+      "text": "ワンタッチで撃墜!当然だ",
+      "language": "ja"
+    }
+  ],
+  "full_text": "おーですね、作りたくないですよね 掴まえ!捕らえに来ました さあこれで迷いなく武器が作れるようになります ダイヤモンドになって ワンタッチで撃墜!当然だ",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "くちまえ!捕らえに来ました",
+      "corrected": "掴まえ!捕らえに来ました",
+      "rule": "kanji homophone"
+    }
+  ]
+}

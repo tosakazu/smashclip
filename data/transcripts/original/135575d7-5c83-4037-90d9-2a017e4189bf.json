@@ -1,0 +1,27 @@
+{
+  "id": "135575d7-5c83-4037-90d9-2a017e4189bf",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.52,
+      "text": "exactly a hidden one but her just knowing yeah i'm not gonna",
+      "language": "en"
+    },
+    {
+      "start": 3.52,
+      "end": 7.28,
+      "text": "press this bomb neither were you but the f smash from Chon definitely pulling the",
+      "language": "en"
+    }
+  ],
+  "full_text": "exactly a hidden one but her just knowing yeah i'm not gonna press this bomb neither were you but the f smash from Chon definitely pulling the",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "press this bomb neither were you but the f smash from john definitely pulling the",
+      "corrected": "press this bomb neither were you but the f smash from Chon definitely pulling the",
+      "rule": "Player name: john→Chon (metadata)"
+    }
+  ]
+}

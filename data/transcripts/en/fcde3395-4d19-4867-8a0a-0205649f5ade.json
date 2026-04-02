@@ -1,0 +1,33 @@
+{
+  "id": "fcde3395-4d19-4867-8a0a-0205649f5ade",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.16,
+      "text": "he's really good for cutting of it i mean he can die to something else now but he can not worry",
+      "language": "en"
+    },
+    {
+      "start": 6.16,
+      "end": 11.68,
+      "text": "about the waft for a little bit oh my god that was just a frame like two frames he didn't even get",
+      "language": "en"
+    }
+  ],
+  "full_text": "he's really good for cutting of it i mean he can die to something else now but he can not worry about the waft for a little bit oh my god that was just a frame like two frames he didn't even get",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "water",
+      "corrected": "waft",
+      "rule": "smash term: water→waft (Wario move)"
+    },
+    {
+      "segment_idx": 1,
+      "original": "a bra",
+      "corrected": "a frame",
+      "rule": "misheard"
+    }
+  ]
+}

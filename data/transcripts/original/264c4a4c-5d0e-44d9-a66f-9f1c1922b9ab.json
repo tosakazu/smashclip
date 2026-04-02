@@ -1,0 +1,50 @@
+{
+  "id": "264c4a4c-5d0e-44d9-a66f-9f1c1922b9ab",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.58,
+      "text": "取り切ってみせた、さっきから",
+      "language": "ja"
+    },
+    {
+      "start": 1.58,
+      "end": 4.8,
+      "text": "着地は、相手のキャッチ",
+      "language": "ja"
+    },
+    {
+      "start": 4.8,
+      "end": 8.12,
+      "text": "一旦ね、バナナ持って",
+      "language": "ja"
+    },
+    {
+      "start": 8.12,
+      "end": 10.7,
+      "text": "じっくりからジャストシールド",
+      "language": "ja"
+    },
+    {
+      "start": 10.7,
+      "end": 12.12,
+      "text": "しかしジャストシールドでも",
+      "language": "ja"
+    },
+    {
+      "start": 12.12,
+      "end": 14.76,
+      "text": "反撃を取ったのは、Tweek側だ!",
+      "language": "ja"
+    },
+    {
+      "start": 15.96,
+      "end": 17.18,
+      "text": "先ほどの試合の決め方",
+      "language": "ja"
+    }
+  ],
+  "full_text": "取り切ってみせた、さっきから 着地は、相手のキャッチ 一旦ね、バナナ持って じっくりからジャストシールド しかしジャストシールドでも 反撃を取ったのは、Tweek側だ! 先ほどの試合の決め方",
+  "detected_language": "ja",
+  "corrections": []
+}

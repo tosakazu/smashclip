@@ -1,0 +1,78 @@
+{
+  "id": "6b316ab2-e6c2-4d14-ab60-faf8130da790",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.86,
+      "text": "Aerial against Phantom!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ファントムに対して空中攻撃"
+    },
+    {
+      "start": 1.86,
+      "end": 2.46,
+      "text": "He's in!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "間に合っている"
+    },
+    {
+      "start": 2.46,
+      "end": 4.5,
+      "text": "What about that!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあどうだ"
+    },
+    {
+      "start": 4.5,
+      "end": 6.24,
+      "text": "Going for the neutral!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "噛み合いの勝負に行きます"
+    },
+    {
+      "start": 6.24,
+      "end": 8.52,
+      "text": "Lightning Turn right here!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここでイナズマターン"
+    },
+    {
+      "start": 8.52,
+      "end": 9.76,
+      "text": "Here it comes!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "来るんですわ"
+    },
+    {
+      "start": 9.76,
+      "end": 10.72,
+      "text": "Yeah!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "Yン"
+    }
+  ],
+  "full_text": "Aerial against Phantom! He's in! What about that! Going for the neutral! Lightning Turn right here! Here it comes! Yeah!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 3,
+      "original": "カミラリー",
+      "corrected": "噛み合い",
+      "rule": "Whisper mishearing"
+    },
+    {
+      "segment_idx": 6,
+      "original": "ワイン",
+      "corrected": "Yン",
+      "rule": "player name"
+    }
+  ]
+}

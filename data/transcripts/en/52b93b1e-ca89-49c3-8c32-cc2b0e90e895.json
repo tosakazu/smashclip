@@ -1,0 +1,48 @@
+{
+  "id": "52b93b1e-ca89-49c3-8c32-cc2b0e90e895",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.46,
+      "text": "Got a clean startup, racking up 30%!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "コマ始動でうまく30%稼いでみてた"
+    },
+    {
+      "start": 3.46,
+      "end": 6.34,
+      "text": "With the roll",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "転がり回避で"
+    },
+    {
+      "start": 6.34,
+      "end": 8.18,
+      "text": "With the inward dodge",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "内回避で"
+    },
+    {
+      "start": 8.18,
+      "end": 10.16,
+      "text": "The disc",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ディスクを"
+    }
+  ],
+  "full_text": "Got a clean startup, racking up 30%! With the roll With the inward dodge The disc",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "コマ指導",
+      "corrected": "コマ始動",
+      "rule": "kanji homophone: 指導→始動"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "467c3c56-a0f5-4a9c-967e-94965ed15647",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.0,
+      "text": "後ろ投げ",
+      "language": "ja"
+    },
+    {
+      "start": 4.0,
+      "end": 7.0,
+      "text": "復帰阻止",
+      "language": "ja"
+    },
+    {
+      "start": 7.0,
+      "end": 10.0,
+      "text": "ここは崖上選択",
+      "language": "ja"
+    },
+    {
+      "start": 10.0,
+      "end": 12.0,
+      "text": "次はどうするか?",
+      "language": "ja"
+    },
+    {
+      "start": 12.0,
+      "end": 15.0,
+      "text": "崖上!",
+      "language": "ja"
+    }
+  ],
+  "full_text": "後ろ投げ 復帰阻止 ここは崖上選択 次はどうするか? 崖上!",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "突起阻止",
+      "corrected": "復帰阻止",
+      "rule": "kanji homophone"
+    }
+  ]
+}

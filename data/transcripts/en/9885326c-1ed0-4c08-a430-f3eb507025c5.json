@@ -1,0 +1,26 @@
+{
+  "id": "9885326c-1ed0-4c08-a430-f3eb507025c5",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.46,
+      "text": "there's nowhere to get a drink in Vegas right now, that just can't be true, that just can't",
+      "language": "en"
+    },
+    {
+      "start": 5.46,
+      "end": 9.96,
+      "text": "be true, so hopefully he gets himself a drink, said he hasn't had one since he got in, he's",
+      "language": "en"
+    },
+    {
+      "start": 9.96,
+      "end": 11.4,
+      "text": "playing like it, that's for sure.",
+      "language": "en"
+    }
+  ],
+  "full_text": "there's nowhere to get a drink in Vegas right now, that just can't be true, that just can't be true, so hopefully he gets himself a drink, said he hasn't had one since he got in, he's playing like it, that's for sure.",
+  "detected_language": "en",
+  "corrections": []
+}

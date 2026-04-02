@@ -1,0 +1,45 @@
+{
+  "id": "5d725665-40a7-4257-88fd-7388c36206c0",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.78,
+      "text": "いやー空中反転で撃つが当たらない姿勢がいいですねクロム",
+      "language": "ja"
+    },
+    {
+      "start": 3.78,
+      "end": 8.46,
+      "text": "空中ニュートラルでさらに浮かせてスカシ掴みを見せますがこれは通らず",
+      "language": "ja"
+    },
+    {
+      "start": 8.46,
+      "end": 11.64,
+      "text": "ジュネーヴ選手反撃のターン空中上からの空中上",
+      "language": "ja"
+    },
+    {
+      "start": 11.64,
+      "end": 13.32,
+      "text": "引き気味ながらも相手の行動し",
+      "language": "ja"
+    }
+  ],
+  "full_text": "いやー空中反転で撃つが当たらない姿勢がいいですねクロム 空中ニュートラルでさらに浮かせてスカシ掴みを見せますがこれは通らず ジュネーヴ選手反撃のターン空中上からの空中上 引き気味ながらも相手の行動し",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "チェネブ選手",
+      "corrected": "ジュネーヴ選手",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 3,
+      "original": "比較的ながらも",
+      "corrected": "引き気味ながらも",
+      "rule": "misheard word"
+    }
+  ]
+}

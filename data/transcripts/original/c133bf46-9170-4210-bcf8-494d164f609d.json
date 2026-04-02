@@ -1,0 +1,39 @@
+{
+  "id": "c133bf46-9170-4210-bcf8-494d164f609d",
+  "segments": [
+    {
+      "start": 0.56,
+      "end": 2.04,
+      "text": "バナナキャッチからメガボルト",
+      "language": "ja"
+    },
+    {
+      "start": 2.04,
+      "end": 4.52,
+      "text": "バナナを持たれた状態",
+      "language": "ja"
+    },
+    {
+      "start": 4.52,
+      "end": 6.96,
+      "text": "すべてのアビリティなんと",
+      "language": "ja"
+    },
+    {
+      "start": 6.96,
+      "end": 8.74,
+      "text": "アイテム上投げから",
+      "language": "ja"
+    }
+  ],
+  "full_text": "バナナキャッチからメガボルト バナナを持たれた状態 すべてのアビリティなんと アイテム上投げから",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "すべてのアビリン",
+      "corrected": "すべてのアビリティ",
+      "rule": "misheard word"
+    }
+  ]
+}

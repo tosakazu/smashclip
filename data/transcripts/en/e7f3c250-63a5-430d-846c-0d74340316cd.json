@@ -1,0 +1,44 @@
+{
+  "id": "e7f3c250-63a5-430d-846c-0d74340316cd",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.98,
+      "text": "This fighter's been losing the last few games, but their platform advantage is extending, damage is extending - now they're juggling!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "泣かされているファイターは数シリーズというところですがさあ台上有利が伸びる 火力が伸びるさあ着地狩り"
+    },
+    {
+      "start": 5.98,
+      "end": 10.42,
+      "text": "So with that back action, they've got the advantage!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあ後釣行動にあの有利"
+    }
+  ],
+  "full_text": "This fighter's been losing the last few games, but their platform advantage is extending, damage is extending - now they're juggling! So with that back action, they've got the advantage!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "大抵有価値",
+      "corrected": "台上有利",
+      "rule": "kanji homophone: 大抵有価値→台上有利"
+    },
+    {
+      "segment_idx": 0,
+      "original": "着地があり",
+      "corrected": "着地狩り",
+      "rule": "misheard: 着地があり→着地狩り"
+    },
+    {
+      "segment_idx": 1,
+      "original": "5勝やれにあの有利",
+      "corrected": "後釣行動にあの有利",
+      "rule": "misheard"
+    }
+  ]
+}

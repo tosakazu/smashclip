@@ -1,0 +1,45 @@
+{
+  "id": "b4e330d2-85cb-480a-bc12-21a19bedc02c",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.3,
+      "text": "いいダメージですね",
+      "language": "ja"
+    },
+    {
+      "start": 2.3,
+      "end": 3.48,
+      "text": "いいダメージありますね",
+      "language": "ja"
+    },
+    {
+      "start": 3.48,
+      "end": 3.84,
+      "text": "あと",
+      "language": "ja"
+    },
+    {
+      "start": 3.84,
+      "end": 7.58,
+      "text": "退避でジャンプを持ってるから",
+      "language": "ja"
+    },
+    {
+      "start": 7.58,
+      "end": 8.42,
+      "text": "ジャンプを",
+      "language": "ja"
+    }
+  ],
+  "full_text": "いいダメージですね いいダメージありますね あと 退避でジャンプを持ってるから ジャンプを",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 3,
+      "original": "対比で",
+      "corrected": "退避で",
+      "rule": "kanji homophone"
+    }
+  ]
+}

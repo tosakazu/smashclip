@@ -1,0 +1,32 @@
+{
+  "id": "ac9d4ade-d5ec-4545-80b4-99634969317f",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.78,
+      "text": "Change in winners.",
+      "language": "en"
+    },
+    {
+      "start": 1.14,
+      "end": 3.9,
+      "text": "I thought Walker was masterful, especially in that game number five.",
+      "language": "en"
+    },
+    {
+      "start": 4.28,
+      "end": 5.1,
+      "text": "You can see right now.",
+      "language": "en"
+    },
+    {
+      "start": 5.14,
+      "end": 5.8,
+      "text": "Oh, no.",
+      "language": "en"
+    }
+  ],
+  "full_text": "Change in winners. I thought Walker was masterful, especially in that game number five. You can see right now. Oh, no.",
+  "detected_language": "en",
+  "corrections": []
+}

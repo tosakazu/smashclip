@@ -1,0 +1,56 @@
+{
+  "id": "467c3c56-a0f5-4a9c-967e-94965ed15647",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.0,
+      "text": "Back throw",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "後ろ投げ"
+    },
+    {
+      "start": 4.0,
+      "end": 7.0,
+      "text": "Edgeguard",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "復帰阻止"
+    },
+    {
+      "start": 7.0,
+      "end": 10.0,
+      "text": "That's the ledge getup choice",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここは崖上選択"
+    },
+    {
+      "start": 10.0,
+      "end": 12.0,
+      "text": "What's next?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "次はどうするか?"
+    },
+    {
+      "start": 12.0,
+      "end": 15.0,
+      "text": "Ledge getup!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "崖上!"
+    }
+  ],
+  "full_text": "Back throw Edgeguard That's the ledge getup choice What's next? Ledge getup!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "突起阻止",
+      "corrected": "復帰阻止",
+      "rule": "kanji homophone"
+    }
+  ]
+}

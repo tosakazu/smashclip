@@ -1,0 +1,116 @@
+{
+  "id": "58381134-10da-46bb-be2e-f672093f7165",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.06,
+      "text": "dash attack",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ダッシュ攻撃"
+    },
+    {
+      "start": 1.06,
+      "end": 1.76,
+      "text": "Still going aggressive",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "それでも強気に"
+    },
+    {
+      "start": 1.76,
+      "end": 2.98,
+      "text": "Down tilt barely catching it",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "下強がギリギリ拾えている"
+    },
+    {
+      "start": 2.98,
+      "end": 4.66,
+      "text": "dash attack",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ダッシュ攻撃"
+    },
+    {
+      "start": 4.66,
+      "end": 5.9,
+      "text": "getup",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ダウン起き上がり"
+    },
+    {
+      "start": 5.9,
+      "end": 7.14,
+      "text": "was controlling with down tilt",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "下強で固めていましたが"
+    },
+    {
+      "start": 7.14,
+      "end": 8.3,
+      "text": "Oh, no knockback!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いやー飛ばないのや"
+    },
+    {
+      "start": 8.3,
+      "end": 10.74,
+      "text": "and placing the aerial",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあそして空中攻撃を置いて"
+    },
+    {
+      "start": 10.74,
+      "end": 11.12,
+      "text": "KO!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "撃墜"
+    },
+    {
+      "start": 11.12,
+      "end": 13.0,
+      "text": "Ashimo's hit connects!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "拳が当たっているのはアシモ選手側"
+    },
+    {
+      "start": 13.0,
+      "end": 16.16,
+      "text": "and reading the timing here",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあこれもタイミングを少し見ながらの"
+    }
+  ],
+  "full_text": "dash attack Still going aggressive Down tilt barely catching it dash attack getup was controlling with down tilt Oh, no knockback! and placing the aerial KO! Ashimo's hit connects! and reading the timing here",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 4,
+      "original": "ダウンオーカー",
+      "corrected": "ダウン起き上がり",
+      "rule": "misheard word"
+    },
+    {
+      "segment_idx": 8,
+      "original": "総裁",
+      "corrected": "撃墜",
+      "rule": "kanji homophone"
+    },
+    {
+      "segment_idx": 9,
+      "original": "足森雄川",
+      "corrected": "アシモ選手側",
+      "rule": "player name"
+    }
+  ]
+}

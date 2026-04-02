@@ -1,0 +1,39 @@
+{
+  "id": "ada58cd8-8e80-4da4-8e72-d33042b34e12",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.0,
+      "text": "このダイヤさえ作れれば",
+      "language": "ja"
+    },
+    {
+      "start": 4.0,
+      "end": 8.0,
+      "text": "また浮かされる展開になってしまう",
+      "language": "ja"
+    },
+    {
+      "start": 8.0,
+      "end": 9.2,
+      "text": "草!",
+      "language": "ja"
+    },
+    {
+      "start": 9.4,
+      "end": 11.56,
+      "text": "空上 よく見ていた",
+      "language": "ja"
+    }
+  ],
+  "full_text": "このダイヤさえ作れれば また浮かされる展開になってしまう 草! 空上 よく見ていた",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 3,
+      "original": "空中へよく見ていた",
+      "corrected": "空上 よく見ていた",
+      "rule": "Move: 空中へ→空上"
+    }
+  ]
+}

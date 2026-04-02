@@ -1,0 +1,31 @@
+{
+  "id": "71b6158f-2f58-49cd-b532-72f3dfab8d20",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.76,
+      "text": "Now controlling that air matchup...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあサイマグネットで対空時間をコントロールしながら"
+    },
+    {
+      "start": 5.76,
+      "end": 8.02,
+      "text": "From that range, that's back throw KO range",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "射程からこれは後ろ投げ撃墜帯でしょう"
+    }
+  ],
+  "full_text": "Now controlling that air matchup... From that range, that's back throw KO range",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_index": 1,
+      "original": "社長からこれは後ろ投げ撃墜対でしょう",
+      "corrected": "射程からこれは後ろ投げ撃墜帯でしょう"
+    }
+  ]
+}

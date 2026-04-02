@@ -1,0 +1,65 @@
+{
+  "id": "55b46cfd-7784-4265-82e1-3ed07bfb0418",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.82,
+      "text": "MTK",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "MTK"
+    },
+    {
+      "start": 1.82,
+      "end": 3.22,
+      "text": "Can they finish here?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここで倒しきりたいか"
+    },
+    {
+      "start": 3.22,
+      "end": 6.28,
+      "text": "Gets caught by the getup attack",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここは起き上がり攻撃に当たってしまう"
+    },
+    {
+      "start": 6.28,
+      "end": 8.16,
+      "text": "Jab, jab, jab, nair!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ジャクジャクジャク空中ニュートラル"
+    },
+    {
+      "start": 8.16,
+      "end": 10.32,
+      "text": "But what they really want is",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いやーしかし欲しいのは"
+    },
+    {
+      "start": 10.32,
+      "end": 11.4,
+      "text": "that KO opportunity",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "撃墜かというようなところ"
+    },
+    {
+      "start": 11.4,
+      "end": 12.7,
+      "text": "Fair into the KO!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空中前で撃墜"
+    }
+  ],
+  "full_text": "MTK Can they finish here? Gets caught by the getup attack Jab, jab, jab, nair! But what they really want is that KO opportunity Fair into the KO!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

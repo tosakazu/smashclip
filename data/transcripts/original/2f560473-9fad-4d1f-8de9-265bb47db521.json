@@ -1,0 +1,45 @@
+{
+  "id": "2f560473-9fad-4d1f-8de9-265bb47db521",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.94,
+      "text": "スマッシュが若干遅れた",
+      "language": "ja"
+    },
+    {
+      "start": 0.94,
+      "end": 3.1,
+      "text": "前投げ",
+      "language": "ja"
+    },
+    {
+      "start": 3.1,
+      "end": 5.18,
+      "text": "食えの木",
+      "language": "ja"
+    },
+    {
+      "start": 5.18,
+      "end": 7.38,
+      "text": "振り向き弱を上手",
+      "language": "ja"
+    },
+    {
+      "start": 7.38,
+      "end": 8.1,
+      "text": "決めきる",
+      "language": "ja"
+    }
+  ],
+  "full_text": "スマッシュが若干遅れた 前投げ 食えの木 振り向き弱を上手 決めきる",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 4,
+      "original": "傾きる",
+      "corrected": "決めきる",
+      "rule": "kanji homophone: 傾きる→決めきる"
+    }
+  ]
+}

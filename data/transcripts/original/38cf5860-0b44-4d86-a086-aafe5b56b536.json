@@ -1,0 +1,33 @@
+{
+  "id": "38cf5860-0b44-4d86-a086-aafe5b56b536",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.1,
+      "text": "Gotta slow anything down. Spoke too soon. Rage Drive, baby. Coming into play, but you're still a 1-0-4.",
+      "language": "en"
+    },
+    {
+      "start": 5.4,
+      "end": 9.0,
+      "text": "Yep, and you're not going to be able to win the game off the Rage Drive either, or you're-",
+      "language": "en"
+    }
+  ],
+  "full_text": "Gotta slow anything down. Spoke too soon. Rage Drive, baby. Coming into play, but you're still a 1-0-4. Yep, and you're not going to be able to win the game off the Rage Drive either, or you're-",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "Raid Drive",
+      "corrected": "Rage Drive",
+      "rule": "Kazuya move name"
+    },
+    {
+      "segment_idx": 1,
+      "original": "Raid Drive",
+      "corrected": "Rage Drive",
+      "rule": "Kazuya move name"
+    }
+  ]
+}

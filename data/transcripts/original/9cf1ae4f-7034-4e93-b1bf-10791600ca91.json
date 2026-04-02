@@ -1,0 +1,33 @@
+{
+  "id": "9cf1ae4f-7034-4e93-b1bf-10791600ca91",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.6,
+      "text": "下から崖をつかめる",
+      "language": "ja"
+    },
+    {
+      "start": 4.6,
+      "end": 5.38,
+      "text": "横Bは当たらない",
+      "language": "ja"
+    },
+    {
+      "start": 5.38,
+      "end": 6.82,
+      "text": "うまく入れ替えたか",
+      "language": "ja"
+    }
+  ],
+  "full_text": "下から崖をつかめる 横Bは当たらない うまく入れ替えたか",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "横橋",
+      "corrected": "横B",
+      "rule": "move name"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "d17dbaa6-e90d-4796-b7cf-821f69e41995",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.44,
+      "text": "also Fox thrives on opponent's reaction speeds hit them as quickly as you can and Hurt, whoa!",
+      "language": "en"
+    }
+  ],
+  "full_text": "also Fox thrives on opponent's reaction speeds hit them as quickly as you can and Hurt, whoa!",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "and hurt or",
+      "corrected": "and Hurt, whoa!",
+      "rule": "player name + exclamation"
+    }
+  ]
+}

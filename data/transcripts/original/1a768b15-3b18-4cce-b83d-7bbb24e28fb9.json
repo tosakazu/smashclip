@@ -1,0 +1,27 @@
+{
+  "id": "1a768b15-3b18-4cce-b83d-7bbb24e28fb9",
+  "segments": [
+    {
+      "start": 0.88,
+      "end": 3.22,
+      "text": "これだとダッシュを通して後ろに投げる",
+      "language": "ja"
+    },
+    {
+      "start": 3.22,
+      "end": 7.06,
+      "text": "さあ追撃していこうとするところに空中後ろ",
+      "language": "ja"
+    }
+  ],
+  "full_text": "これだとダッシュを通して後ろに投げる さあ追撃していこうとするところに空中後ろ",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "これだと脱紙を通して後ろに投げる",
+      "corrected": "これだとダッシュを通して後ろに投げる",
+      "rule": "Whisper mishearing: 脱紙→ダッシュ"
+    }
+  ]
+}

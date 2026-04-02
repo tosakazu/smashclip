@@ -1,0 +1,68 @@
+{
+  "id": "a3c399fa-6d5e-4f77-b7e9-5fad08d2beeb",
+  "segments": [
+    {
+      "start": 0.56,
+      "end": 1.6,
+      "text": "Didn't connect, but...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "繋がらなかったが"
+    },
+    {
+      "start": 1.6,
+      "end": 4.04,
+      "text": "Damage extending, extending!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ダメージが伸びる伸びる"
+    },
+    {
+      "start": 4.04,
+      "end": 5.38,
+      "text": "Just like that, 80%!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "あっという間に80%"
+    },
+    {
+      "start": 5.38,
+      "end": 7.66,
+      "text": "Nao-chan with Diddy Kong!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあなおちゃディディ"
+    },
+    {
+      "start": 7.66,
+      "end": 9.5,
+      "text": "Can they ledge trap? Flip cancel bair!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "この崖狩れるか?フリップキャンセル空後"
+    },
+    {
+      "start": 9.5,
+      "end": 12.8,
+      "text": "Picks it up and forward smash!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "うまく拾って横スマッシュ"
+    }
+  ],
+  "full_text": "Didn't connect, but... Damage extending, extending! Just like that, 80%! Nao-chan with Diddy Kong! Can they ledge trap? Flip cancel bair! Picks it up and forward smash!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "original": "ナオチャディディ",
+      "corrected": "なおちゃディディ",
+      "reason": "プレイヤー名なおちゃ + キャラ名ディディ"
+    },
+    {
+      "original": "クーゴ",
+      "corrected": "空後",
+      "reason": "空中後ろ攻撃の略称"
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "id": "dee00967-fff1-4a9e-88b0-98c458cdd2e7",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.7,
+      "text": "But even with DI he won't land it",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "でもベク変で乗らない"
+    },
+    {
+      "start": 1.7,
+      "end": 2.78,
+      "text": "If he goes for it, he can get back",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いったら帰れる"
+    },
+    {
+      "start": 2.78,
+      "end": 5.24,
+      "text": "He gets up with a ledge jump",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "崖ジャンプで上がった"
+    },
+    {
+      "start": 5.24,
+      "end": 7.5,
+      "text": "Well, I had a parry set up but...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いやージャスシルを取っていたんですが"
+    },
+    {
+      "start": 7.5,
+      "end": 8.5,
+      "text": "Full commitment",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "振り切り"
+    },
+    {
+      "start": 8.5,
+      "end": 10.78,
+      "text": "Pushing him out with back air",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空中後ろ追い出す"
+    },
+    {
+      "start": 10.78,
+      "end": 12.44,
+      "text": "That's the finish he's looking for",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここで取り切りたいのはスパーゴ"
+    },
+    {
+      "start": 12.44,
+      "end": 14.36,
+      "text": "Can't risk it",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "リスクを払えない"
+    },
+    {
+      "start": 14.36,
+      "end": 17.36,
+      "text": "He uses his reach with the fair",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "リーチを生かして空中前"
+    },
+    {
+      "start": 17.36,
+      "end": 19.3,
+      "text": "The ledge situation",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "崖の展開"
+    },
+    {
+      "start": 19.3,
+      "end": 20.28,
+      "text": "He makes his way to the ledge",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "崖を見せた"
+    },
+    {
+      "start": 20.28,
+      "end": 23.1,
+      "text": "Again pushing him away with back air",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここも空中後ろ追い払う"
+    },
+    {
+      "start": 23.1,
+      "end": 24.7,
+      "text": "He's been holding that position for the forward airdodge",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "前回避の位置ずっと止めてる"
+    },
+    {
+      "start": 24.7,
+      "end": 28.1,
+      "text": "Then with Limit, he chases it deep",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そしてリミットを使って深めまで追っていった"
+    },
+    {
+      "start": 28.1,
+      "end": 30.32,
+      "text": "Yeah, that's right",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "思えばそうですよね"
+    }
+  ],
+  "full_text": "But even with DI he won't land it If he goes for it, he can get back He gets up with a ledge jump Well, I had a parry set up but... Full commitment Pushing him out with back air That's the finish he's looking for Can't risk it He uses his reach with the fair The ledge situation He makes his way to the ledge Again pushing him away with back air He's been holding that position for the forward airdodge Then with Limit, he chases it deep Yeah, that's right",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "ベック編で乗らない",
+      "corrected": "ベク変で乗らない",
+      "rule": "smash term (vector change / DI)"
+    },
+    {
+      "segment_idx": 3,
+      "original": "ジャスチルを取っていた",
+      "corrected": "ジャスシルを取っていた",
+      "rule": "smash term (just shield)"
+    },
+    {
+      "segment_idx": 5,
+      "original": "空中しろ追い出す",
+      "corrected": "空中後ろ追い出す",
+      "rule": "misheard word"
+    },
+    {
+      "segment_idx": 11,
+      "original": "空中しろ追い払う",
+      "corrected": "空中後ろ追い払う",
+      "rule": "misheard word"
+    }
+  ]
+}

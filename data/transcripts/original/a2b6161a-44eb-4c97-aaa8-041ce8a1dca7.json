@@ -1,0 +1,45 @@
+{
+  "id": "a2b6161a-44eb-4c97-aaa8-041ce8a1dca7",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.98,
+      "text": "どうなってるでしょうね",
+      "language": "ja"
+    },
+    {
+      "start": 0.98,
+      "end": 5.2,
+      "text": "本当に並々ならぬものがありますよね",
+      "language": "ja"
+    },
+    {
+      "start": 5.2,
+      "end": 9.3,
+      "text": "本当に使い込んでいるからこそできるこの立ち回りです",
+      "language": "ja"
+    },
+    {
+      "start": 9.3,
+      "end": 11.46,
+      "text": "チコを倒してこれは来たよ",
+      "language": "ja"
+    },
+    {
+      "start": 11.46,
+      "end": 11.94,
+      "text": "ブレイブウェス",
+      "language": "ja"
+    }
+  ],
+  "full_text": "どうなってるでしょうね 本当に並々ならぬものがありますよね 本当に使い込んでいるからこそできるこの立ち回りです チコを倒してこれは来たよ ブレイブウェス",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "波々ならぬ",
+      "corrected": "並々ならぬ",
+      "rule": "kanji homophone"
+    }
+  ]
+}

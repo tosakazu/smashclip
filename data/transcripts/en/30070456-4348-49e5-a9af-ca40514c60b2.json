@@ -1,0 +1,62 @@
+{
+  "id": "30070456-4348-49e5-a9af-ca40514c60b2",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.8,
+      "text": "Tipper's good",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "端なら大丈夫"
+    },
+    {
+      "start": 0.8,
+      "end": 3.92,
+      "text": "Ledged!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "崖に閉じ込められている"
+    },
+    {
+      "start": 3.92,
+      "end": 5.98,
+      "text": "Utchy's escaping that fair is crazy!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "うっちーがこの空中前暴れ非常に強力"
+    },
+    {
+      "start": 5.98,
+      "end": 6.72,
+      "text": "And down tilt!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そして下強"
+    },
+    {
+      "start": 6.72,
+      "end": 7.86,
+      "text": "Knockdown!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ダウン"
+    }
+  ],
+  "full_text": "Tipper's good Ledged! Utchy's escaping that fair is crazy! And down tilt! Knockdown!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "ガキ",
+      "corrected": "崖",
+      "rule": "kanji homophone: ガキ→崖"
+    },
+    {
+      "segment_idx": 2,
+      "original": "内田が",
+      "corrected": "うっちーが",
+      "rule": "player name"
+    }
+  ]
+}

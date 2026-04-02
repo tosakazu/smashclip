@@ -1,0 +1,75 @@
+{
+  "id": "285581b0-0888-4727-a128-2d8f04e25301",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.84,
+      "text": "また難しかったですね 外側ベク変を追い切らなければいけなかったので",
+      "language": "ja"
+    },
+    {
+      "start": 2.84,
+      "end": 3.86,
+      "text": "ギリギリとなりました",
+      "language": "ja"
+    },
+    {
+      "start": 3.86,
+      "end": 6.16,
+      "text": "さあブロックで時間差かなとこでしたが",
+      "language": "ja"
+    },
+    {
+      "start": 6.16,
+      "end": 8.54,
+      "text": "崖の内側に潜り込んで上Bを刺したのを通す",
+      "language": "ja"
+    },
+    {
+      "start": 8.54,
+      "end": 10.9,
+      "text": "前投げ もちろん上シフトで",
+      "language": "ja"
+    },
+    {
+      "start": 10.9,
+      "end": 13.02,
+      "text": "まずい!刺さるとキツイっすね!",
+      "language": "ja"
+    },
+    {
+      "start": 13.58,
+      "end": 14.28,
+      "text": "しかも刺さって",
+      "language": "ja"
+    }
+  ],
+  "full_text": "また難しかったですね 外側ベク変を追い切らなければいけなかったので ギリギリとなりました さあブロックで時間差かなとこでしたが 崖の内側に潜り込んで上Bを刺したのを通す 前投げ もちろん上シフトで まずい!刺さるとキツイっすね! しかも刺さって",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "外側ベッグの変更",
+      "corrected": "外側ベク変",
+      "rule": "ベッグの変更→ベク変"
+    },
+    {
+      "segment_idx": 3,
+      "original": "崖の内側に潜り込んで上に刺さったのを通す",
+      "corrected": "崖の内側に潜り込んで上Bを刺したのを通す",
+      "rule": "上に刺さった→上Bを刺した"
+    },
+    {
+      "segment_idx": 4,
+      "original": "上側変更",
+      "corrected": "上シフト",
+      "rule": "上側変更→上シフト (directional influence)"
+    },
+    {
+      "segment_idx": 5,
+      "original": "刺さるときくせえ!",
+      "corrected": "刺さるとキツイっすね!",
+      "rule": "misheard: きくせえ→キツイっすね"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "4bbf35b6-b179-40a9-9f44-b214aa59f202",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.02,
+      "text": "Player at 2 stocks!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "選手が2-0です"
+    },
+    {
+      "start": 1.02,
+      "end": 7.16,
+      "text": "Ledge grab again!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここはまた崖捕まりに対して"
+    }
+  ],
+  "full_text": "Player at 2 stocks! Ledge grab again!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

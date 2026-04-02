@@ -1,0 +1,33 @@
+{
+  "id": "e23a2baf-e000-4b36-be5b-d5dabdf35bd7",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.24,
+      "text": "本当に始動技として一番リターン高いと言っても過言ではないぐらいの技なんで",
+      "language": "ja"
+    },
+    {
+      "start": 5.24,
+      "end": 8.88,
+      "text": "ベオネッタが一番振りたい技ではあるんですけど",
+      "language": "ja"
+    },
+    {
+      "start": 8.88,
+      "end": 12.0,
+      "text": "そこに対してしっかりと撃墜のリスクを",
+      "language": "ja"
+    }
+  ],
+  "full_text": "本当に始動技として一番リターン高いと言っても過言ではないぐらいの技なんで ベオネッタが一番振りたい技ではあるんですけど そこに対してしっかりと撃墜のリスクを",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "指導技",
+      "corrected": "始動技",
+      "rule": "kanji homophone: 始動技(combo starter)"
+    }
+  ]
+}

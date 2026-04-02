@@ -1,0 +1,39 @@
+{
+  "id": "28eea28a-1920-4aa6-8220-f27ab4e35026",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.64,
+      "text": "...damage through, but there's a Trace able to reset back into the neutral here.",
+      "language": "en"
+    },
+    {
+      "start": 3.86,
+      "end": 7.48,
+      "text": "Yeah, great recovery there. Goes for the air dodge, goes for the up tilt once he gets back on stage.",
+      "language": "en"
+    },
+    {
+      "start": 7.62,
+      "end": 11.56,
+      "text": "He has this time around. There's a switch. Down tilt, up air, not close enough for the forward smash.",
+      "language": "en"
+    },
+    {
+      "start": 11.64,
+      "end": 12.76,
+      "text": "Turn around! God damn!",
+      "language": "en"
+    }
+  ],
+  "full_text": "...damage through, but there's a Trace able to reset back into the neutral here. Yeah, great recovery there. Goes for the air dodge, goes for the up tilt once he gets back on stage. He has this time around. There's a switch. Down tilt, up air, not close enough for the forward smash. Turn around! God damn!",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "not close enough for the board smash",
+      "corrected": "not close enough for the forward smash",
+      "rule": "board smash→forward smash"
+    }
+  ]
+}

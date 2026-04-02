@@ -1,0 +1,46 @@
+{
+  "id": "43c1626d-cc56-44a0-8d08-fe7927dcde43",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.4,
+      "text": "Spargo would like to make a comeback here, but...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "スパーゴとしてはここからリバース3を狙っていきたいところでありますが"
+    },
+    {
+      "start": 4.4,
+      "end": 8.0,
+      "text": "Riddles wants to seal it right here",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "リドルズここで勝ちきりたいでしょう"
+    },
+    {
+      "start": 8.0,
+      "end": 12.3,
+      "text": "After escaping that, maintaining max spacing...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここを避けてからそのままリミット距離XPまで"
+    }
+  ],
+  "full_text": "Spargo would like to make a comeback here, but... Riddles wants to seal it right here. After escaping that, maintaining max spacing...",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "バーゴ",
+      "corrected": "スパーゴ",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 1,
+      "original": "リドレス",
+      "corrected": "リドルズ",
+      "rule": "player name"
+    }
+  ]
+}

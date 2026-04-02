@@ -1,0 +1,57 @@
+{
+  "id": "aff714c0-2e85-400b-827e-b2fb7f221a46",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.28,
+      "text": "やっぱり大事なときに",
+      "language": "ja"
+    },
+    {
+      "start": 1.28,
+      "end": 1.7,
+      "text": "おーうまい!",
+      "language": "ja"
+    },
+    {
+      "start": 1.78,
+      "end": 4.5,
+      "text": "このあたりのトロッコの緩急が怖いんですよね",
+      "language": "ja"
+    },
+    {
+      "start": 4.5,
+      "end": 6.34,
+      "text": "直近ではその",
+      "language": "ja"
+    },
+    {
+      "start": 6.34,
+      "end": 8.28,
+      "text": "強化トロッコを相手にトロッコ",
+      "language": "ja"
+    },
+    {
+      "start": 8.28,
+      "end": 9.24,
+      "text": "バースト!",
+      "language": "ja"
+    }
+  ],
+  "full_text": "やっぱり大事なときに おーうまい! このあたりのトロッコの緩急が怖いんですよね 直近ではその 強化トロッコを相手にトロッコ バースト!",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 4,
+      "original": "強化トロッコを相手トロッコ",
+      "corrected": "強化トロッコを相手にトロッコ",
+      "rule": "minor grammar"
+    },
+    {
+      "segment_idx": 5,
+      "original": "バカな男!",
+      "corrected": "バースト!",
+      "rule": "mishearing (バースト=KO)"
+    }
+  ]
+}

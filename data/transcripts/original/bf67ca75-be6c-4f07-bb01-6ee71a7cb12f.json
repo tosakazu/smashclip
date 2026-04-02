@@ -1,0 +1,21 @@
+{
+  "id": "bf67ca75-be6c-4f07-bb01-6ee71a7cb12f",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.82,
+      "text": "Get him off stage, get him off stage, now a Roller is going to kill you, Richter, wow, wow, that's great.",
+      "language": "en"
+    }
+  ],
+  "full_text": "Get him off stage, get him off stage, now a Roller is going to kill you, Richter, wow, wow, that's great.",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "a warrior is going to kill you Roger",
+      "corrected": "a Roller is going to kill you, Richter",
+      "rule": "character move + player name"
+    }
+  ]
+}

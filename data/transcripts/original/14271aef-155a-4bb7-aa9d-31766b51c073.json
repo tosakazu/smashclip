@@ -1,0 +1,57 @@
+{
+  "id": "14271aef-155a-4bb7-aa9d-31766b51c073",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.16,
+      "text": "崖展開を獲得した",
+      "language": "ja"
+    },
+    {
+      "start": 1.16,
+      "end": 2.98,
+      "text": "ブーツしよう",
+      "language": "ja"
+    },
+    {
+      "start": 2.98,
+      "end": 5.14,
+      "text": "ブロックを破壊してくる金ピクで",
+      "language": "ja"
+    },
+    {
+      "start": 5.14,
+      "end": 6.22,
+      "text": "しっかりと通し切りましたが",
+      "language": "ja"
+    },
+    {
+      "start": 6.22,
+      "end": 8.12,
+      "text": "これは上によく追った",
+      "language": "ja"
+    },
+    {
+      "start": 8.12,
+      "end": 8.88,
+      "text": "今のベッド",
+      "language": "ja"
+    }
+  ],
+  "full_text": "崖展開を獲得した ブーツしよう ブロックを破壊してくる金ピクで しっかりと通し切りましたが これは上によく追った 今のベッド",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "ガキ展開を獲得した",
+      "corrected": "崖展開を獲得した",
+      "rule": "Kanji homophone: ガキ→崖 (ledge)"
+    },
+    {
+      "segment_idx": 2,
+      "original": "ブロックを破壊してくる興味で",
+      "corrected": "ブロックを破壊してくる金ピクで",
+      "rule": "Whisper mishearing: 興味→金ピク (gold pickaxe, Steve)"
+    }
+  ]
+}

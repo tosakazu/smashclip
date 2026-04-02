@@ -1,0 +1,33 @@
+{
+  "id": "9beec5e8-2113-4f63-96ef-f1c75b8eb6fb",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.08,
+      "text": "かん、しゃがんで、下強、空中前、吹っ飛ぶ、やあああああ",
+      "language": "ja"
+    }
+  ],
+  "full_text": "かん、しゃがんで、下強、空中前、吹っ飛ぶ、やあああああ",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "したきょう",
+      "corrected": "下強",
+      "rule": "move name"
+    },
+    {
+      "segment_idx": 0,
+      "original": "くうちまえ",
+      "corrected": "空中前",
+      "rule": "move name"
+    },
+    {
+      "segment_idx": 0,
+      "original": "ふくすじ",
+      "corrected": "吹っ飛ぶ",
+      "rule": "Whisper misheard"
+    }
+  ]
+}

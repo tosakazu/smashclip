@@ -1,0 +1,44 @@
+{
+  "id": "56870313-8dc5-4200-9487-ab514bcbee7e",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.86,
+      "text": "この1ストック目は試合が進んでいます",
+      "language": "ja"
+    },
+    {
+      "start": 1.86,
+      "end": 3.64,
+      "text": "上Bまで繋いでいきますねこれ",
+      "language": "ja"
+    },
+    {
+      "start": 3.64,
+      "end": 5.1,
+      "text": "さあどうする?",
+      "language": "ja"
+    },
+    {
+      "start": 5.2,
+      "end": 6.32,
+      "text": "上Bで止めて",
+      "language": "ja"
+    },
+    {
+      "start": 6.32,
+      "end": 8.7,
+      "text": "ジャンプは乗っかーっと",
+      "language": "ja"
+    },
+    {
+      "start": 8.7,
+      "end": 10.42,
+      "text": "今度は空中前です",
+      "language": "ja"
+    }
+  ],
+  "full_text": "この1ストック目は試合が進んでいます 上Bまで繋いでいきますねこれ さあどうする? 上Bで止めて ジャンプは乗っかーっと 今度は空中前です",
+  "detected_language": "ja",
+  "corrections": []
+}

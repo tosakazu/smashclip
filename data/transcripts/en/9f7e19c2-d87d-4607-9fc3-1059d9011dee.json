@@ -1,0 +1,57 @@
+{
+  "id": "9f7e19c2-d87d-4607-9fc3-1059d9011dee",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.16,
+      "text": "No, it's happening now!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いや今なってくる"
+    },
+    {
+      "start": 2.16,
+      "end": 4.3,
+      "text": "I thought they'd roll...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "自分はめくると思ったんですけど"
+    },
+    {
+      "start": 4.3,
+      "end": 6.92,
+      "text": "Just couldn't read it though",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "何かめくるの判断ができてきなかった"
+    },
+    {
+      "start": 6.92,
+      "end": 9.82,
+      "text": "The range on that...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ボーリングの発揮範囲"
+    },
+    {
+      "start": 9.82,
+      "end": 11.06,
+      "text": "Ohhh!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ああああああ"
+    },
+    {
+      "start": 11.06,
+      "end": 12.1,
+      "text": "Ohhh!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ああああああ"
+    }
+  ],
+  "full_text": "No, it's happening now! I thought they'd roll... Just couldn't read it though The range on that... Ohhh! Ohhh!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

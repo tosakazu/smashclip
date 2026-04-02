@@ -1,0 +1,41 @@
+{
+  "id": "ff56e5d4-ded8-4747-9916-97915ccdbe0c",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.08,
+      "text": "Shattered!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "昨日破片で"
+    },
+    {
+      "start": 5.08,
+      "end": 6.0,
+      "text": "Whoa, scary stuff!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "あーっと怖いぞ"
+    },
+    {
+      "start": 6.0,
+      "end": 8.48,
+      "text": "Safe the second time?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "2回目大丈夫か"
+    },
+    {
+      "start": 8.48,
+      "end": 9.6,
+      "text": "Get out of here!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここは引っこ抜けて"
+    }
+  ],
+  "full_text": "Shattered! Whoa, scary stuff! Safe the second time? Get out of here!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

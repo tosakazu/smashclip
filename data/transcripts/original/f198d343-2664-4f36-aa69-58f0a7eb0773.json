@@ -1,0 +1,39 @@
+{
+  "id": "f198d343-2664-4f36-aa69-58f0a7eb0773",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.74,
+      "text": "今ジャンプ潰れてたっすね",
+      "language": "ja"
+    },
+    {
+      "start": 1.74,
+      "end": 3.48,
+      "text": "詰まっていきました",
+      "language": "ja"
+    },
+    {
+      "start": 3.48,
+      "end": 6.08,
+      "text": "ただ先ほど使った可能性と",
+      "language": "ja"
+    },
+    {
+      "start": 6.08,
+      "end": 7.64,
+      "text": "鉄資材が切れて",
+      "language": "ja"
+    }
+  ],
+  "full_text": "今ジャンプ潰れてたっすね 詰まっていきました ただ先ほど使った可能性と 鉄資材が切れて",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "ジャッキ潰れてた",
+      "corrected": "ジャンプ潰れてた",
+      "rule": "misheard: ジャッキ→ジャンプ"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "id": "5dd51164-cdff-4ffd-b7b9-727eef6e1fe4",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.84,
+      "text": "Ah, adductors",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "あ、内転筋"
+    },
+    {
+      "start": 0.84,
+      "end": 3.06,
+      "text": "Going deep and breaking it down",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "深めて崩して"
+    },
+    {
+      "start": 3.06,
+      "end": 4.3,
+      "text": "Forward throw",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "前に投げる"
+    },
+    {
+      "start": 4.3,
+      "end": 7.46,
+      "text": "He came in but safely jumped back",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "やってきたがジャンプを安全して戻ってきました"
+    },
+    {
+      "start": 7.46,
+      "end": 8.8,
+      "text": "Clutch dodge getup",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "勝負の回避上がり"
+    },
+    {
+      "start": 8.8,
+      "end": 10.4,
+      "text": "Pushing through, but",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "通していきますが"
+    },
+    {
+      "start": 10.4,
+      "end": 13.18,
+      "text": "Miya is still reading the situation ahead",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "依然Miyaが先の展開を読んでいる"
+    },
+    {
+      "start": 13.18,
+      "end": 14.48,
+      "text": "Got the monkey flip off first",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "モンキーフリップ先に行けた"
+    },
+    {
+      "start": 14.48,
+      "end": 16.1,
+      "text": "Up B for recovery as well",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "上Bも復帰に"
+    }
+  ],
+  "full_text": "Ah, adductors going deep and breaking it down forward throw he came in but safely jumped back clutch dodge getup pushing through, but Miya is still reading the situation ahead got the monkey flip off first up B for recovery as well",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 4,
+      "original": "回避明かり",
+      "corrected": "回避上がり",
+      "rule": "smash term (崖上がり)"
+    },
+    {
+      "segment_idx": 6,
+      "original": "以前ミイヤー",
+      "corrected": "依然Miya",
+      "rule": "player name + kanji homophone"
+    },
+    {
+      "segment_idx": 7,
+      "original": "本気フリップ戦に行けた",
+      "corrected": "モンキーフリップ先に行けた",
+      "rule": "move name (Diddy Kong side-B)"
+    },
+    {
+      "segment_idx": 8,
+      "original": "上小も",
+      "corrected": "上Bも",
+      "rule": "move abbreviation"
+    }
+  ]
+}

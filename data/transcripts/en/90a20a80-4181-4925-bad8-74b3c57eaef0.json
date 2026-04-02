@@ -1,0 +1,39 @@
+{
+  "id": "90a20a80-4181-4925-bad8-74b3c57eaef0",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.42,
+      "text": "A hundred percent. Yeah, Miya's one of those players where you can kind of expect a lot of things,",
+      "language": "en"
+    },
+    {
+      "start": 3.64,
+      "end": 6.44,
+      "text": "but just because you expect to prepare doesn't mean you can really stop her, right?",
+      "language": "en"
+    },
+    {
+      "start": 6.56,
+      "end": 9.94,
+      "text": "Because he is just somebody, he has one of those debilitating play styles.",
+      "language": "en"
+    },
+    {
+      "start": 10.04,
+      "end": 13.5,
+      "text": "You're seeing right now, all this pressure right now. The stock hasn't been lost up.",
+      "language": "en"
+    }
+  ],
+  "full_text": "A hundred percent. Yeah, Miya's one of those players where you can kind of expect a lot of things, but just because you expect to prepare doesn't mean you can really stop her, right? Because he is just somebody, he has one of those debilitating play styles. You're seeing right now, all this pressure right now. The stock hasn't been lost up.",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "Mia's",
+      "corrected": "Miya's",
+      "rule": "player name"
+    }
+  ]
+}

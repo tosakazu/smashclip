@@ -1,0 +1,20 @@
+{
+  "id": "8822d878-9deb-4cfc-96d8-5e51642bd449",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.9,
+      "text": "Change in winners, I thought Waka was masterful, especially in that game number five.",
+      "language": "en"
+    },
+    {
+      "start": 4.28,
+      "end": 8.82,
+      "text": "You can see right now, oh no, errors are not going to help you out, however lucky for you.",
+      "language": "en"
+    }
+  ],
+  "full_text": "Change in winners, I thought Waka was masterful, especially in that game number five. You can see right now, oh no, errors are not going to help you out, however lucky for you.",
+  "detected_language": "en",
+  "corrections": []
+}

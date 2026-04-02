@@ -1,0 +1,56 @@
+{
+  "id": "eaf6d648-7f54-4550-b4e1-80f1df954382",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.54,
+      "text": "Bien, muy buena, muy buena",
+      "language": "es"
+    },
+    {
+      "start": 2.54,
+      "end": 3.7,
+      "text": "recovery ahí, eh, decir",
+      "language": "es"
+    },
+    {
+      "start": 3.7,
+      "end": 6.14,
+      "text": "Guau, qué hace, le deja",
+      "language": "es"
+    },
+    {
+      "start": 6.14,
+      "end": 8.48,
+      "text": "terreno, bueno, le deja",
+      "language": "es"
+    },
+    {
+      "start": 8.48,
+      "end": 10.52,
+      "text": "espacio, pero Spargo no quiere",
+      "language": "es"
+    },
+    {
+      "start": 10.52,
+      "end": 12.34,
+      "text": "no quiere cambiar sobre vida, eh",
+      "language": "es"
+    },
+    {
+      "start": 12.34,
+      "end": 14.42,
+      "text": "No, porque estaba intentando",
+      "language": "es"
+    },
+    {
+      "start": 14.42,
+      "end": 14.86,
+      "text": "esquivarse",
+      "language": "es"
+    }
+  ],
+  "full_text": "Bien, muy buena, muy buena recovery ahí, eh, decir Guau, qué hace, le deja terreno, bueno, le deja espacio, pero Spargo no quiere no quiere cambiar sobre vida, eh No, porque estaba intentando esquivarse",
+  "detected_language": "es",
+  "corrections": []
+}

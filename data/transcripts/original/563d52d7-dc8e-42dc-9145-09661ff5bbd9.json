@@ -1,0 +1,51 @@
+{
+  "id": "563d52d7-dc8e-42dc-9145-09661ff5bbd9",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.62,
+      "text": "よく通ったね",
+      "language": "ja"
+    },
+    {
+      "start": 1.62,
+      "end": 3.1,
+      "text": "上投げで撃墜",
+      "language": "ja"
+    },
+    {
+      "start": 3.1,
+      "end": 5.96,
+      "text": "ここまでしぶとい中で先キルストック取れている",
+      "language": "ja"
+    },
+    {
+      "start": 5.96,
+      "end": 8.38,
+      "text": "ここしかないと一休 一手が通ったが",
+      "language": "ja"
+    },
+    {
+      "start": 8.38,
+      "end": 9.12,
+      "text": "ダッシュ",
+      "language": "ja"
+    }
+  ],
+  "full_text": "よく通ったね 上投げで撃墜 ここまでしぶとい中で先キルストック取れている ここしかないと一休 一手が通ったが ダッシュ",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "ここまでしない中でサーキリスト取れている",
+      "corrected": "ここまでしぶとい中で先キルストック取れている",
+      "rule": "misheard word"
+    },
+    {
+      "segment_idx": 3,
+      "original": "一球一手が通ったが",
+      "corrected": "一休 一手が通ったが",
+      "rule": "misheard word"
+    }
+  ]
+}

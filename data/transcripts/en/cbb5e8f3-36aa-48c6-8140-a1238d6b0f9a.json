@@ -1,0 +1,20 @@
+{
+  "id": "cbb5e8f3-36aa-48c6-8140-a1238d6b0f9a",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.04,
+      "text": "so it's a battle of nervousness right there did not go out stage right there",
+      "language": "en"
+    },
+    {
+      "start": 4.04,
+      "end": 7.58,
+      "text": "this is right there with the chair and it's going to go in for it again",
+      "language": "en"
+    }
+  ],
+  "full_text": "so it's a battle of nervousness right there did not go out stage right there this is right there with the chair and it's going to go in for it again",
+  "detected_language": "en",
+  "corrections": []
+}

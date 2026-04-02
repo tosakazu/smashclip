@@ -1,0 +1,56 @@
+{
+  "id": "9899d322-12f3-4aee-94c6-1538edb138af",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.7,
+      "text": "On the other hand, they're really good at getting out to the ledge",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "逆によく外に逃げてるなって感じですね"
+    },
+    {
+      "start": 2.7,
+      "end": 5.6,
+      "text": "If you keep fighting in that range, you'll just loop endlessly",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "雨で勝負しすぎるとずっと9にループしちゃうんで"
+    },
+    {
+      "start": 5.6,
+      "end": 7.04,
+      "text": "You have to properly escape to the outside",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ちゃんと外に逃げなきゃいけないです"
+    },
+    {
+      "start": 7.04,
+      "end": 8.68,
+      "text": "Incredible!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "うまーい"
+    },
+    {
+      "start": 8.68,
+      "end": 10.38,
+      "text": "Turtle diving in deep!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "深めに飛び込むトートル"
+    }
+  ],
+  "full_text": "On the other hand, they're really good at getting out to the ledge If you keep fighting in that range, you'll just loop endlessly You have to properly escape to the outside Incredible! Turtle diving in deep!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "急に",
+      "corrected": "9に",
+      "rule": "G&W judge number misheard"
+    }
+  ]
+}

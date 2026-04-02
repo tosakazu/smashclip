@@ -1,0 +1,87 @@
+{
+  "id": "29460f4d-05b3-4a53-883e-9a0950c378eb",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.96,
+      "text": "ちょっと苦しい時間が長くついているか",
+      "language": "ja"
+    },
+    {
+      "start": 1.96,
+      "end": 4.32,
+      "text": "スピンカール 踏んで",
+      "language": "ja"
+    },
+    {
+      "start": 4.32,
+      "end": 7.0,
+      "text": "うまく打ち上げて",
+      "language": "ja"
+    },
+    {
+      "start": 7.0,
+      "end": 8.54,
+      "text": "読んでんだけど",
+      "language": "ja"
+    },
+    {
+      "start": 8.54,
+      "end": 12.32,
+      "text": "いい回避そこに飛び出す",
+      "language": "ja"
+    },
+    {
+      "start": 12.32,
+      "end": 13.92,
+      "text": "何度も食らっているこの復帰阻止",
+      "language": "ja"
+    },
+    {
+      "start": 13.92,
+      "end": 15.0,
+      "text": "苦しい状況これは",
+      "language": "ja"
+    },
+    {
+      "start": 15.0,
+      "end": 16.26,
+      "text": "空前",
+      "language": "ja"
+    }
+  ],
+  "full_text": "ちょっと苦しい時間が長くついているか スピンカール 踏んで うまく打ち上げて 読んでんだけど いい回避そこに飛び出す 何度も食らっているこの復帰阻止 苦しい状況これは 空前",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "スピーカークーフェヌ",
+      "corrected": "スピンカール 踏んで",
+      "rule": "garbled: misheard スピンカール踏んで"
+    },
+    {
+      "segment_idx": 3,
+      "original": "呼んでんだけど",
+      "corrected": "読んでんだけど",
+      "rule": "kanji: 呼ん→読ん"
+    },
+    {
+      "segment_idx": 4,
+      "original": "いいからそこに飛び出す",
+      "corrected": "いい回避そこに飛び出す",
+      "rule": "misheard: いいから→いい回避"
+    },
+    {
+      "segment_idx": 5,
+      "original": "フックストシー",
+      "corrected": "復帰阻止",
+      "rule": "garbled: フックストシー→復帰阻止"
+    },
+    {
+      "segment_idx": 7,
+      "original": "宇宙前",
+      "corrected": "空前",
+      "rule": "move abbrev: 宇宙前→空前"
+    }
+  ]
+}

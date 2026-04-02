@@ -1,0 +1,33 @@
+{
+  "id": "576d1407-867a-49af-8ad9-d02f4e4ad95d",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.22,
+      "text": "back one to fix an error right there the whip grab tried to throw shiny mark in the air kind",
+      "language": "en"
+    },
+    {
+      "start": 6.22,
+      "end": 9.5,
+      "text": "of like hack talked about earlier where it was just catching the landings but unfortunately",
+      "language": "en"
+    },
+    {
+      "start": 9.5,
+      "end": 10.96,
+      "text": "gonna whip and gonna eat it",
+      "language": "en"
+    }
+  ],
+  "full_text": "back one to fix an error right there the whip grab tried to throw ShinyMark in the air kind of like hack talked about earlier where it was just catching the landings but unfortunately gonna whip and gonna eat it",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "shiny mark",
+      "corrected": "ShinyMark",
+      "rule": "player name"
+    }
+  ]
+}

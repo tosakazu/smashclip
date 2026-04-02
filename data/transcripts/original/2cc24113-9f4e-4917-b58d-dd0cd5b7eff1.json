@@ -1,0 +1,20 @@
+{
+  "id": "2cc24113-9f4e-4917-b58d-dd0cd5b7eff1",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.0,
+      "text": "性質としてはマリオの横スマッシュとかに似てると思うんですけど",
+      "language": "ja"
+    },
+    {
+      "start": 5.0,
+      "end": 6.3,
+      "text": "おいえー",
+      "language": "ja"
+    }
+  ],
+  "full_text": "性質としてはマリオの横スマッシュとかに似てると思うんですけど おいえー",
+  "detected_language": "ja",
+  "corrections": []
+}

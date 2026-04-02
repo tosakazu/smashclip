@@ -1,0 +1,70 @@
+{
+  "id": "b4acfe89-b552-4fea-b49c-d764242f02f9",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.56,
+      "text": "Playing it patient, not forcing anything",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "無理はしない焦らず"
+    },
+    {
+      "start": 1.56,
+      "end": 2.56,
+      "text": "And there it is!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあどうだ"
+    },
+    {
+      "start": 2.56,
+      "end": 4.9,
+      "text": "Just like that, brought it right back to neutral!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "気がつけば五分に戻してみせた"
+    },
+    {
+      "start": 4.9,
+      "end": 6.96,
+      "text": "That's Yoshidora for you!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "やはりそこはさすがヨシドラよし"
+    },
+    {
+      "start": 6.96,
+      "end": 8.86,
+      "text": "Now here at the ledge—",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあこの崖を"
+    },
+    {
+      "start": 8.86,
+      "end": 10.52,
+      "text": "Perfect punish!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "とがめてみせた"
+    }
+  ],
+  "full_text": "Playing it patient, not forcing anything And there it is! Just like that, brought it right back to neutral! That's Yoshidora for you! Now here at the ledge— Perfect punish!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "ゴムに戻してみせた",
+      "corrected": "五分に戻してみせた",
+      "rule": "kanji homophone"
+    },
+    {
+      "segment_idx": 3,
+      "original": "やはりそこがしない吉寅よし",
+      "corrected": "やはりそこはさすがヨシドラよし",
+      "rule": "player name + misheard word"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "b0042d52-f77b-4161-9121-facfbaacdb15",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.56,
+      "text": "He's spacing back a bit too much there",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これが少し引きすぎましたね"
+    },
+    {
+      "start": 1.56,
+      "end": 3.36,
+      "text": "Got him cornered here but",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあここ追い詰めているが"
+    },
+    {
+      "start": 3.36,
+      "end": 4.74,
+      "text": "Shuuto mashing out!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "暴れたシュートン"
+    },
+    {
+      "start": 4.74,
+      "end": 10.22,
+      "text": "Caught by the tight shoryuken!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これを密着昇竜拳"
+    },
+    {
+      "start": 10.22,
+      "end": 10.88,
+      "text": "That one gets through!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さすがに許した"
+    }
+  ],
+  "full_text": "He's spacing back a bit too much there Got him cornered here but Shuuto mashing out! Caught by the tight shoryuken! That one gets through!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "さあここ向いているが",
+      "corrected": "さあここ追い詰めているが",
+      "rule": "mishearing"
+    }
+  ]
+}

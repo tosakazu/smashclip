@@ -1,0 +1,68 @@
+{
+  "id": "191ef742-c85d-4d2e-821a-caab2afde1a4",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.32,
+      "text": "Don't want to end up in a zero-to-death!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "即死コンボになりたくない"
+    },
+    {
+      "start": 1.32,
+      "end": 4.44,
+      "text": "One touch and things get dangerous fast!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いきなりワンタッチで怪しくなってくる"
+    },
+    {
+      "start": 4.44,
+      "end": 5.0,
+      "text": "I see",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "なるほどね"
+    },
+    {
+      "start": 5.0,
+      "end": 7.64,
+      "text": "Peach avoiding that landing lag window",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ピーチデイジーの着地隙出ないように振って"
+    },
+    {
+      "start": 7.64,
+      "end": 8.6,
+      "text": "with fair!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空前で"
+    }
+  ],
+  "full_text": "Don't want to end up in a zero-to-death! One touch and things get dangerous fast! I see Peach avoiding that landing lag window with fair!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "国際中速になりたくない",
+      "corrected": "即死コンボになりたくない",
+      "rule": "Garbled transcription: 国際中速→即死コンボ"
+    },
+    {
+      "segment_idx": 3,
+      "original": "着地スキル出ないように振って",
+      "corrected": "着地隙出ないように振って",
+      "rule": "Smash term: 着地スキル→着地隙 (landing lag)"
+    },
+    {
+      "segment_idx": 4,
+      "original": "空中前で",
+      "corrected": "空前で",
+      "rule": "Move abbreviation: 空中前→空前"
+    }
+  ]
+}

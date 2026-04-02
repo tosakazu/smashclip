@@ -1,0 +1,64 @@
+{
+  "id": "559e7296-e747-4aeb-a6d5-444dd51a396f",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.0,
+      "text": "Reads the throw opportunity",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ゆっくり見てから投げ"
+    },
+    {
+      "start": 3.0,
+      "end": 5.24,
+      "text": "Reaction was slightly delayed there",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "若干反応が遅れたというところ あって"
+    },
+    {
+      "start": 5.24,
+      "end": 8.42,
+      "text": "Following through is what makes them elite",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "フォロー効くまでが一流"
+    },
+    {
+      "start": 8.42,
+      "end": 9.42,
+      "text": "Roll getup",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "回避上がり"
+    },
+    {
+      "start": 9.42,
+      "end": 14.42,
+      "text": "Third platform",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここは3段"
+    },
+    {
+      "start": 14.42,
+      "end": 15.88,
+      "text": "Oh! Airdodge in the air!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "おえー空中で回避"
+    }
+  ],
+  "full_text": "Reads the throw opportunity Reaction was slightly delayed there Following through is what makes them elite Roll getup Third platform Oh! Airdodge in the air!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 3,
+      "original": "横火上がり",
+      "corrected": "回避上がり",
+      "rule": "misheard word"
+    }
+  ]
+}

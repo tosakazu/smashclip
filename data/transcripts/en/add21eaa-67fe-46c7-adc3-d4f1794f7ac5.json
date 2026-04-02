@@ -1,0 +1,41 @@
+{
+  "id": "add21eaa-67fe-46c7-adc3-d4f1794f7ac5",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.96,
+      "text": "Creating their turn from that situation",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そういった展開から自分のターンを作る"
+    },
+    {
+      "start": 2.96,
+      "end": 4.92,
+      "text": "They're really getting good at that!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そういったのができるようになってきているのかな"
+    },
+    {
+      "start": 4.92,
+      "end": 5.4,
+      "text": "Yeah",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そうですね"
+    },
+    {
+      "start": 5.4,
+      "end": 6.56,
+      "text": "Up smash",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "上スマッシュ"
+    }
+  ],
+  "full_text": "Creating their turn from that situation They're really getting good at that! Yeah Up smash",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

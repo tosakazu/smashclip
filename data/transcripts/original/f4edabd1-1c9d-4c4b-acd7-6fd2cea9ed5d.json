@@ -1,0 +1,51 @@
+{
+  "id": "f4edabd1-1c9d-4c4b-acd7-6fd2cea9ed5d",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.44,
+      "text": "我慢しましたね今",
+      "language": "ja"
+    },
+    {
+      "start": 1.44,
+      "end": 2.98,
+      "text": "けど、いや上手い",
+      "language": "ja"
+    },
+    {
+      "start": 2.98,
+      "end": 5.64,
+      "text": "上手いこあ選手まだ3ストック残ってる",
+      "language": "ja"
+    },
+    {
+      "start": 5.64,
+      "end": 6.72,
+      "text": "爆発してるパーセントですね",
+      "language": "ja"
+    },
+    {
+      "start": 6.72,
+      "end": 9.14,
+      "text": "めちゃくちゃいいなぁ",
+      "language": "ja"
+    }
+  ],
+  "full_text": "我慢しましたね今 けど、いや上手い 上手いこあ選手まだ3ストック残ってる 爆発してるパーセントですね めちゃくちゃいいなぁ",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "コア選手",
+      "corrected": "こあ選手",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 3,
+      "original": "爆弾してる",
+      "corrected": "爆発してる",
+      "rule": "misheard"
+    }
+  ]
+}

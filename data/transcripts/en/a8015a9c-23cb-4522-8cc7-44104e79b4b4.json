@@ -1,0 +1,88 @@
+{
+  "id": "a8015a9c-23cb-4522-8cc7-44104e79b4b4",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Solid up smash read!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "こう上スマガンホールドだな"
+    },
+    {
+      "start": 2.0,
+      "end": 3.0,
+      "text": "Doesn't connect!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "当たんない"
+    },
+    {
+      "start": 3.0,
+      "end": 4.0,
+      "text": "Playing patient",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ちゃんと待って"
+    },
+    {
+      "start": 4.0,
+      "end": 6.0,
+      "text": "Up air into fair!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空上から空中前"
+    },
+    {
+      "start": 6.0,
+      "end": 8.0,
+      "text": "Bad position and he gets plucked!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "姿勢が悪ければピクミングみたいな"
+    },
+    {
+      "start": 8.0,
+      "end": 9.0,
+      "text": "Fire Breath catches him again!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ファイアーブレスにまた"
+    },
+    {
+      "start": 9.0,
+      "end": 10.0,
+      "text": "What about here?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "えっとここは?"
+    },
+    {
+      "start": 10.0,
+      "end": 11.0,
+      "text": "Dair meteor!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空下メテオ!"
+    },
+    {
+      "start": 11.0,
+      "end": 12.0,
+      "text": "Deuce!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "デュース"
+    }
+  ],
+  "full_text": "Solid up smash read! Doesn't connect! Playing patient Up air into fair! Bad position and he gets plucked! Fire Breath catches him again! What about here? Dair meteor! Deuce!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "こーうえすまガンホールドだな",
+      "corrected": "こう上スマガンホールドだな",
+      "rule": "Move term: うえすま→上スマ"
+    }
+  ]
+}

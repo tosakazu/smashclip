@@ -1,0 +1,75 @@
+{
+  "id": "69fe28fa-9e7e-4029-9ef8-e94221af10da",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.58,
+      "text": "出して今度はMiyaの復帰になる",
+      "language": "ja"
+    },
+    {
+      "start": 1.58,
+      "end": 3.38,
+      "text": "復帰はともかく",
+      "language": "ja"
+    },
+    {
+      "start": 3.38,
+      "end": 4.2,
+      "text": "この崖を",
+      "language": "ja"
+    },
+    {
+      "start": 4.2,
+      "end": 8.18,
+      "text": "横スマッシュ",
+      "language": "ja"
+    },
+    {
+      "start": 8.18,
+      "end": 10.06,
+      "text": "ひとまず一回振っていった",
+      "language": "ja"
+    },
+    {
+      "start": 10.06,
+      "end": 10.86,
+      "text": "ここでどうだ",
+      "language": "ja"
+    },
+    {
+      "start": 10.86,
+      "end": 13.22,
+      "text": "DAで技を避けながら潜り込んできた",
+      "language": "ja"
+    },
+    {
+      "start": 13.22,
+      "end": 14.64,
+      "text": "移動回避で崖に行きます",
+      "language": "ja"
+    },
+    {
+      "start": 14.64,
+      "end": 15.54,
+      "text": "うますぎる",
+      "language": "ja"
+    }
+  ],
+  "full_text": "出して今度はMiyaの復帰になる 復帰はともかく この崖を 横スマッシュ ひとまず一回振っていった ここでどうだ DAで技を避けながら潜り込んできた 移動回避で崖に行きます うますぎる",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "ミーヤー",
+      "corrected": "Miya",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 6,
+      "original": "株",
+      "corrected": "技",
+      "rule": "kanji homophone (かぶ→わざ)"
+    }
+  ]
+}

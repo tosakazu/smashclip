@@ -1,0 +1,38 @@
+{
+  "id": "f0877b63-0a93-48ad-9cfc-7be763650e62",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.8,
+      "text": "お見事キョンリンク",
+      "language": "ja"
+    },
+    {
+      "start": 0.8,
+      "end": 2.18,
+      "text": "誘われませんでした",
+      "language": "ja"
+    },
+    {
+      "start": 2.18,
+      "end": 4.22,
+      "text": "そして転がり上スマッシュで勝って",
+      "language": "ja"
+    },
+    {
+      "start": 4.22,
+      "end": 6.28,
+      "text": "キョンの大技が通ってきたか",
+      "language": "ja"
+    },
+    {
+      "start": 6.28,
+      "end": 8.72,
+      "text": "ここでダウンに対して上スマッシュ",
+      "language": "ja"
+    }
+  ],
+  "full_text": "お見事キョンリンク 誘われませんでした そして転がり上スマッシュで勝って キョンの大技が通ってきたか ここでダウンに対して上スマッシュ",
+  "detected_language": "ja",
+  "corrections": []
+}

@@ -1,0 +1,57 @@
+{
+  "id": "e0fb7ff0-a179-45c0-b67a-bfb4f34e0196",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.36,
+      "text": "Yes, grabbed right on the shield!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "はい空中前でシールドを固めたところにつかみ"
+    },
+    {
+      "start": 2.36,
+      "end": 4.04,
+      "text": "That's a strong setup, but",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "強いセットアップでありますが"
+    },
+    {
+      "start": 4.04,
+      "end": 5.52,
+      "text": "How about this?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これはどうだ"
+    },
+    {
+      "start": 5.52,
+      "end": 8.48,
+      "text": "This also has that spin-to-fair feel we mentioned, but",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "先ほど言ってたスピンからの空中前も匂うような展開でしたが"
+    },
+    {
+      "start": 8.48,
+      "end": 9.5,
+      "text": "Forward smash!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "横スマッシュトライ"
+    },
+    {
+      "start": 9.5,
+      "end": 10.74,
+      "text": "And that's the KO!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "それをしっかり撃墜"
+    }
+  ],
+  "full_text": "Yes, grabbed right on the shield! That's a strong setup, but how about this? This also has that spin-to-fair feel we mentioned, but forward smash! And that's the KO!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

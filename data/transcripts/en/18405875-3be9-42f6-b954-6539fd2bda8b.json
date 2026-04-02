@@ -1,0 +1,41 @@
+{
+  "id": "18405875-3be9-42f6-b954-6539fd2bda8b",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.44,
+      "text": "Only capitalizing on the breaks",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "折れるとこだけ取っていく"
+    },
+    {
+      "start": 1.44,
+      "end": 4.38,
+      "text": "So methodical, so careful",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "丁寧に丁寧に"
+    },
+    {
+      "start": 4.38,
+      "end": 6.28,
+      "text": "Like a machine",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "本当に機械のように"
+    },
+    {
+      "start": 6.28,
+      "end": 10.24,
+      "text": "Precisely controlling the air",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "的確に相手のリソースを奪っていくが空中"
+    }
+  ],
+  "full_text": "Only capitalizing on the breaks So methodical, so careful Like a machine Precisely controlling the air",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

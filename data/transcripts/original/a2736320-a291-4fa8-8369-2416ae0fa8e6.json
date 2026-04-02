@@ -1,0 +1,44 @@
+{
+  "id": "a2736320-a291-4fa8-8369-2416ae0fa8e6",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.48,
+      "text": "先ほどからねネオがあまりリターン取られずに追いつくなんてことも続いていますから",
+      "language": "ja"
+    },
+    {
+      "start": 4.48,
+      "end": 5.84,
+      "text": "ただこれは",
+      "language": "ja"
+    },
+    {
+      "start": 5.84,
+      "end": 7.02,
+      "text": "当たりそうだね",
+      "language": "ja"
+    },
+    {
+      "start": 7.02,
+      "end": 7.72,
+      "text": "うんうんうん",
+      "language": "ja"
+    },
+    {
+      "start": 7.72,
+      "end": 8.76,
+      "text": "撃沈した",
+      "language": "ja"
+    },
+    {
+      "start": 8.76,
+      "end": 9.18,
+      "text": "これ",
+      "language": "ja"
+    }
+  ],
+  "full_text": "先ほどからねネオがあまりリターン取られずに追いつくなんてことも続いていますから ただこれは 当たりそうだね うんうんうん 撃沈した これ",
+  "detected_language": "ja",
+  "corrections": []
+}

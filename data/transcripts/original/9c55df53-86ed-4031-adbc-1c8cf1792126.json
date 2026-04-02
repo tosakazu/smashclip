@@ -1,0 +1,33 @@
+{
+  "id": "9c55df53-86ed-4031-adbc-1c8cf1792126",
+  "segments": [
+    {
+      "start": 0.16,
+      "end": 5.34,
+      "text": "To get something going send me out and maybe go for another spike rely on that head was quite risky",
+      "language": "en"
+    },
+    {
+      "start": 5.34,
+      "end": 8.92,
+      "text": "Gonna eat the bump to the face. Not the best spot to be in and look at this",
+      "language": "en"
+    },
+    {
+      "start": 11.6,
+      "end": 13.6,
+      "text": "I'm actually glad to see Miya close",
+      "language": "en"
+    }
+  ],
+  "full_text": "To get something going send me out and maybe go for another spike rely on that head was quite risky Gonna eat the bump to the face. Not the best spot to be in and look at this I'm actually glad to see Miya close",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "me a close",
+      "corrected": "Miya close",
+      "rule": "player name"
+    }
+  ]
+}

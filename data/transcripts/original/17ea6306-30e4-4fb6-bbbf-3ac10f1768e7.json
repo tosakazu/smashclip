@@ -1,0 +1,81 @@
+{
+  "id": "17ea6306-30e4-4fb6-bbbf-3ac10f1768e7",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.62,
+      "text": "紫と青",
+      "language": "ja"
+    },
+    {
+      "start": 2.62,
+      "end": 3.66,
+      "text": "捕まれたくない",
+      "language": "ja"
+    },
+    {
+      "start": 3.66,
+      "end": 4.84,
+      "text": "攻撃を通されたくない",
+      "language": "ja"
+    },
+    {
+      "start": 4.84,
+      "end": 6.42,
+      "text": "だがここは引いて空前",
+      "language": "ja"
+    },
+    {
+      "start": 6.42,
+      "end": 7.66,
+      "text": "崖での防御力の高さ",
+      "language": "ja"
+    },
+    {
+      "start": 7.66,
+      "end": 8.46,
+      "text": "羽が生えた",
+      "language": "ja"
+    },
+    {
+      "start": 8.46,
+      "end": 10.36,
+      "text": "セフィロスの強いところです",
+      "language": "ja"
+    },
+    {
+      "start": 10.36,
+      "end": 13.38,
+      "text": "ここは最低空で空後",
+      "language": "ja"
+    },
+    {
+      "start": 13.38,
+      "end": 13.72,
+      "text": "ディレイ",
+      "language": "ja"
+    }
+  ],
+  "full_text": "紫と青 捕まれたくない 攻撃を通されたくない だがここは引いて空前 崖での防御力の高さ 羽が生えた セフィロスの強いところです ここは最低空で空後 ディレイ",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 3,
+      "original": "だがここは引いて空中前",
+      "corrected": "だがここは引いて空前",
+      "rule": "Move abbreviation: 空中前→空前"
+    },
+    {
+      "segment_idx": 6,
+      "original": "セヒロスの強いところです",
+      "corrected": "セフィロスの強いところです",
+      "rule": "Character name: セヒロス→セフィロス"
+    },
+    {
+      "segment_idx": 7,
+      "original": "ここは最低空で空中後ろ",
+      "corrected": "ここは最低空で空後",
+      "rule": "Move abbreviation: 空中後ろ→空後"
+    }
+  ]
+}

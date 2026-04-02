@@ -1,0 +1,57 @@
+{
+  "id": "89159da8-b501-44cb-b319-5b086320a7f5",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.84,
+      "text": "Character barely escapes by 10 units",
+      "language": "en",
+      "original_language": "es",
+      "original_text": "personaje que pasara unas 10 unidades"
+    },
+    {
+      "start": 1.84,
+      "end": 3.66,
+      "text": "Doesn't happen often, but",
+      "language": "en",
+      "original_language": "es",
+      "original_text": "menos seguido definitivamente, pero"
+    },
+    {
+      "start": 3.66,
+      "end": 6.18,
+      "text": "Still survives at 114%",
+      "language": "en",
+      "original_language": "es",
+      "original_text": "logra sobrevivir 114%"
+    },
+    {
+      "start": 6.18,
+      "end": 8.02,
+      "text": "When 104% would've gotten the KO",
+      "language": "en",
+      "original_language": "es",
+      "original_text": "de daño contra 104, todavía"
+    },
+    {
+      "start": 8.02,
+      "end": 9.98,
+      "text": "Still has 2 stocks, good DI",
+      "language": "en",
+      "original_language": "es",
+      "original_text": "tiene 2 stocks, buen DI"
+    },
+    {
+      "start": 9.98,
+      "end": 11.5,
+      "text": "Really good DI, but",
+      "language": "en",
+      "original_language": "es",
+      "original_text": "muy buen DI, pero"
+    }
+  ],
+  "full_text": "Character barely escapes by 10 units Doesn't happen often, but Still survives at 114% When 104% would've gotten the KO Still has 2 stocks, good DI Really good DI, but",
+  "detected_language": "en",
+  "original_language": "es",
+  "corrections": []
+}

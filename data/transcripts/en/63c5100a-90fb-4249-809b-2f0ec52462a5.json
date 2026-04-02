@@ -1,0 +1,84 @@
+{
+  "id": "63c5100a-90fb-4249-809b-2f0ec52462a5",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.46,
+      "text": "Quick counterattack punishing the careless opening!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いきなり油断したところに飛び出すような反撃"
+    },
+    {
+      "start": 2.46,
+      "end": 4.24,
+      "text": "He's building speed now!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "加速してきましたね"
+    },
+    {
+      "start": 4.24,
+      "end": 6.08,
+      "text": "Avoids the hazard just in time!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "消火栓回避を間に合わせ"
+    },
+    {
+      "start": 6.08,
+      "end": 8.26,
+      "text": "Right down here",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここの下側"
+    },
+    {
+      "start": 8.26,
+      "end": 10.32,
+      "text": "Can grab the ledge off the spring, but...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "バネで崖をつかめるが"
+    },
+    {
+      "start": 10.32,
+      "end": 11.56,
+      "text": "Fair!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空前!"
+    },
+    {
+      "start": 11.64,
+      "end": 13.26,
+      "text": "That tech",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そこの受け身の"
+    }
+  ],
+  "full_text": "Quick counterattack punishing the careless opening! He's building speed now! Avoids the hazard just in time! Right down here Can grab the ledge off the spring, but... Fair! That tech",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "飛び立つような反応",
+      "corrected": "飛び出すような反撃",
+      "rule": "misheard word"
+    },
+    {
+      "segment_idx": 4,
+      "original": "パワーエースでガキをつかめるが",
+      "corrected": "バネで崖をつかめるが",
+      "rule": "Sonic move name + kanji homophone (ガキ→崖)"
+    },
+    {
+      "segment_idx": 5,
+      "original": "くちまえ",
+      "corrected": "空前",
+      "rule": "move abbreviation (くうまえ→くちまえ)"
+    }
+  ]
+}

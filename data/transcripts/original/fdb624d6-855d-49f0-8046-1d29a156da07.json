@@ -1,0 +1,20 @@
+{
+  "id": "fdb624d6-855d-49f0-8046-1d29a156da07",
+  "segments": [
+    {
+      "start": 0.36,
+      "end": 2.92,
+      "text": "空中ニュートラルから上強で撃墜通していきましたね",
+      "language": "ja"
+    },
+    {
+      "start": 2.92,
+      "end": 9.68,
+      "text": "ここは",
+      "language": "ja"
+    }
+  ],
+  "full_text": "空中ニュートラルから上強で撃墜通していきましたね ここは",
+  "detected_language": "ja",
+  "corrections": []
+}

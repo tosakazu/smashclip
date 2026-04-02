@@ -1,0 +1,45 @@
+{
+  "id": "753c4c44-fa27-4218-84c6-96f17bb485b8",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.74,
+      "text": "Back to ledge, however, just once that happens,",
+      "language": "en"
+    },
+    {
+      "start": 2.88,
+      "end": 5.6,
+      "text": "Sisqui is pushing Samus offstage.",
+      "language": "en"
+    },
+    {
+      "start": 5.76,
+      "end": 6.96,
+      "text": "He's 10, now nailed.",
+      "language": "en"
+    },
+    {
+      "start": 7.86,
+      "end": 9.72,
+      "text": "Taking up the pin in the second one.",
+      "language": "en"
+    },
+    {
+      "start": 9.86,
+      "end": 10.94,
+      "text": "He catches out.",
+      "language": "en"
+    }
+  ],
+  "full_text": "Back to ledge, however, just once that happens, Sisqui is pushing Samus offstage. He's 10, now nailed. Taking up the pin in the second one. He catches out.",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "Siskiy",
+      "corrected": "Sisqui",
+      "rule": "player name"
+    }
+  ]
+}

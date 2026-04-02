@@ -1,0 +1,49 @@
+{
+  "id": "adbb0f82-d248-4f38-aa85-bb266a34e4c9",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Finished it with Cyclone!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "サイクロで決めきったー!"
+    },
+    {
+      "start": 2.0,
+      "end": 4.0,
+      "text": "No idea!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "わからない!"
+    },
+    {
+      "start": 4.0,
+      "end": 7.0,
+      "text": "With equal stocks, anything could happen!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ストックが並べばどう転ぶかわからない!"
+    },
+    {
+      "start": 7.0,
+      "end": 9.0,
+      "text": "Whoa!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "グキグキ!"
+    },
+    {
+      "start": 9.0,
+      "end": 11.0,
+      "text": "Game Three!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ゲームスリーダー!"
+    }
+  ],
+  "full_text": "Finished it with Cyclone! No idea! With equal stocks, anything could happen! Whoa! Game Three!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

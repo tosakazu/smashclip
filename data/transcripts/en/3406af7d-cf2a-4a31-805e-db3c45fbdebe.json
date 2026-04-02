@@ -1,0 +1,68 @@
+{
+  "id": "3406af7d-cf2a-4a31-805e-db3c45fbdebe",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.08,
+      "text": "116%",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "116%"
+    },
+    {
+      "start": 1.08,
+      "end": 2.76,
+      "text": "bair",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空後"
+    },
+    {
+      "start": 2.76,
+      "end": 4.2,
+      "text": "Tora's in trouble!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "とらが苦しい"
+    },
+    {
+      "start": 4.2,
+      "end": 7.42,
+      "text": "KO off the bair!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空後で撃墜"
+    },
+    {
+      "start": 7.42,
+      "end": 7.86,
+      "text": "Let's go!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあ"
+    }
+  ],
+  "full_text": "116% bair Tora's in trouble! KO off the bair! Let's go!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "空中後ろ",
+      "corrected": "空後",
+      "rule": "move abbreviation"
+    },
+    {
+      "segment_idx": 2,
+      "original": "虎が苦しい",
+      "corrected": "とらが苦しい",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 3,
+      "original": "空中後ろで撃墜",
+      "corrected": "空後で撃墜",
+      "rule": "move abbreviation"
+    }
+  ]
+}

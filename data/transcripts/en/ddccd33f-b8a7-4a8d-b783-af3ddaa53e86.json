@@ -1,0 +1,62 @@
+{
+  "id": "ddccd33f-b8a7-4a8d-b783-af3ddaa53e86",
+  "segments": [
+    {
+      "start": 0.36,
+      "end": 2.88,
+      "text": "The back airdodge gets caught by the minecart!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここは後ろ回避がトロッコ当たってしまう"
+    },
+    {
+      "start": 2.88,
+      "end": 7.0,
+      "text": "Coming back safely from the side and above!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "横から上から安全に返ってくる"
+    },
+    {
+      "start": 7.0,
+      "end": 9.76,
+      "text": "Out of resources!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "素材使い果たした"
+    },
+    {
+      "start": 9.76,
+      "end": 12.28,
+      "text": "But down tilt into up smash!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "しかし下強からの上スマッシュ"
+    },
+    {
+      "start": 12.28,
+      "end": 12.62,
+      "text": "I see!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "なるほど"
+    }
+  ],
+  "full_text": "The back airdodge gets caught by the minecart! Coming back safely from the side and above! Out of resources! But down tilt into up smash! I see!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "と使い果たした",
+      "corrected": "素材使い果たした",
+      "rule": "misheard word (Steve's materials)"
+    },
+    {
+      "segment_idx": 3,
+      "original": "下強化の上スマッシュ",
+      "corrected": "下強からの上スマッシュ",
+      "rule": "misheard word"
+    }
+  ]
+}

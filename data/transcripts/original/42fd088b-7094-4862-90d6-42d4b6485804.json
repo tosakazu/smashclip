@@ -1,0 +1,44 @@
+{
+  "id": "42fd088b-7094-4862-90d6-42d4b6485804",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.86,
+      "text": "Y bueno, tenemos Kazuya",
+      "language": "es"
+    },
+    {
+      "start": 1.86,
+      "end": 4.26,
+      "text": "Hablando de macizo, Kazuya",
+      "language": "es"
+    },
+    {
+      "start": 4.26,
+      "end": 6.18,
+      "text": "Que quería empezar con un 0 to death",
+      "language": "es"
+    },
+    {
+      "start": 6.18,
+      "end": 7.76,
+      "text": "Quería porque fallece Opsmash",
+      "language": "es"
+    },
+    {
+      "start": 7.76,
+      "end": 9.28,
+      "text": "Definitivamente",
+      "language": "es"
+    },
+    {
+      "start": 9.28,
+      "end": 11.3,
+      "text": "Y creo que...",
+      "language": "es"
+    }
+  ],
+  "full_text": "Y bueno, tenemos Kazuya Hablando de macizo, Kazuya Que quería empezar con un 0 to death Quería porque fallece Opsmash Definitivamente Y creo que...",
+  "detected_language": "es",
+  "corrections": []
+}

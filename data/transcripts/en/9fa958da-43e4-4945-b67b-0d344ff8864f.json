@@ -1,0 +1,48 @@
+{
+  "id": "9fa958da-43e4-4945-b67b-0d344ff8864f",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.58,
+      "text": "What about that dair!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "どうだ空中下"
+    },
+    {
+      "start": 2.58,
+      "end": 3.62,
+      "text": "It landed!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "入ったぞ"
+    },
+    {
+      "start": 3.62,
+      "end": 4.86,
+      "text": "Check this out!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これはどうだ"
+    },
+    {
+      "start": 4.86,
+      "end": 6.12,
+      "text": "He's flying!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "飛んでいく"
+    }
+  ],
+  "full_text": "What about that dair! It landed! Check this out! He's flying!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "空中死亡",
+      "corrected": "空中下",
+      "rule": "move name (down air)"
+    }
+  ]
+}

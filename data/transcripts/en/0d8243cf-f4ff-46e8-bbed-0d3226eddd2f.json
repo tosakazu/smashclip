@@ -1,0 +1,57 @@
+{
+  "id": "0d8243cf-f4ff-46e8-bbed-0d3226eddd2f",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.76,
+      "text": "Platform's there, but...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "作業台がありますが"
+    },
+    {
+      "start": 2.76,
+      "end": 4.72,
+      "text": "That's a meteor!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これメテオになっちゃった"
+    },
+    {
+      "start": 4.72,
+      "end": 6.28,
+      "text": "No getup from that!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "立ち上がりはなくなりましたね"
+    },
+    {
+      "start": 6.28,
+      "end": 9.56,
+      "text": "Could accelerate knockback to turn it into a meteor!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "なんなら吹っ飛び加速させてメテオにするみたいな"
+    },
+    {
+      "start": 9.56,
+      "end": 11.44,
+      "text": "They might've used that technique!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そういうテクニックも使ったかもしれないぞ"
+    },
+    {
+      "start": 11.44,
+      "end": 12.16,
+      "text": "Perfect!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "完璧"
+    }
+  ],
+  "full_text": "Platform's there, but... That's a meteor! No getup from that! Could accelerate knockback to turn it into a meteor! They might've used that technique! Perfect!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

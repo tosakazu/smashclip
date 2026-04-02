@@ -1,0 +1,76 @@
+{
+  "id": "a1801a68-70b7-4ac4-aecc-9093642da93d",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.58,
+      "text": "Properly spacing with the nair",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空中ニュートラルでちゃんと外のランクをして"
+    },
+    {
+      "start": 2.58,
+      "end": 4.42,
+      "text": "Making it really hard to land the bair",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空後を合わせづらくしましたね"
+    },
+    {
+      "start": 4.42,
+      "end": 6.88,
+      "text": "Really solid, responsive play",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "しっかりと対応してくるような動き"
+    },
+    {
+      "start": 6.88,
+      "end": 7.92,
+      "text": "Still going for time",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "やっぱり時間を"
+    },
+    {
+      "start": 7.92,
+      "end": 8.64,
+      "text": "Bair",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空後"
+    },
+    {
+      "start": 8.64,
+      "end": 9.72,
+      "text": "Stalling out",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "時間をねただ"
+    }
+  ],
+  "full_text": "Properly spacing with the nair Making it really hard to land the bair Really solid, responsive play Still going for time Bair Stalling out",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "ニュータル",
+      "corrected": "ニュートラル",
+      "rule": "EN term spelling"
+    },
+    {
+      "segment_idx": 2,
+      "original": "してくれような",
+      "corrected": "してくるような",
+      "rule": "transcription error"
+    },
+    {
+      "segment_idx": 4,
+      "original": "空中しろ",
+      "corrected": "空後",
+      "rule": "move abbreviation (back air)"
+    }
+  ]
+}

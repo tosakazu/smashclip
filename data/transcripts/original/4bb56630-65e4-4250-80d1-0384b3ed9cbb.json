@@ -1,0 +1,20 @@
+{
+  "id": "4bb56630-65e4-4250-80d1-0384b3ed9cbb",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.12,
+      "text": "ないところでかなりね自由に技を振れるファイターではありますね",
+      "language": "ja"
+    },
+    {
+      "start": 3.12,
+      "end": 9.68,
+      "text": "そうこれはゴリラ",
+      "language": "ja"
+    }
+  ],
+  "full_text": "ないところでかなりね自由に技を振れるファイターではありますね そうこれはゴリラ",
+  "detected_language": "ja",
+  "corrections": []
+}

@@ -1,0 +1,57 @@
+{
+  "id": "7d1f0087-2a28-40f7-9666-ff0aba7546e5",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.5,
+      "text": "空前で触って",
+      "language": "ja"
+    },
+    {
+      "start": 1.5,
+      "end": 4.2,
+      "text": "崖の上ここどうだ",
+      "language": "ja"
+    },
+    {
+      "start": 4.2,
+      "end": 6.52,
+      "text": "空下にジャストシールドしかし",
+      "language": "ja"
+    },
+    {
+      "start": 6.52,
+      "end": 9.42,
+      "text": "復帰がお上手",
+      "language": "ja"
+    },
+    {
+      "start": 9.42,
+      "end": 10.64,
+      "text": "しかしせんら",
+      "language": "ja"
+    }
+  ],
+  "full_text": "空前で触って 崖の上ここどうだ 空下にジャストシールドしかし 復帰がお上手 しかしせんら",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "空中城で触って",
+      "corrected": "空前で触って",
+      "rule": "misheard: 空中城→空前 (くうぜん)"
+    },
+    {
+      "segment_idx": 2,
+      "original": "空中下にジャストシールドしかめ",
+      "corrected": "空下にジャストシールドしかし",
+      "rule": "misheard: 空中下→空下, しかめ→しかし"
+    },
+    {
+      "segment_idx": 4,
+      "original": "戦乱",
+      "corrected": "せんら",
+      "rule": "player name: 戦乱→せんら"
+    }
+  ]
+}

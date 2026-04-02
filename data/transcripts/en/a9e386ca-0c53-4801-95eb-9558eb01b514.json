@@ -1,0 +1,25 @@
+{
+  "id": "a9e386ca-0c53-4801-95eb-9558eb01b514",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.04,
+      "text": "Oh, I see!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "あーそういうこと"
+    },
+    {
+      "start": 4.04,
+      "end": 7.22,
+      "text": "That character can't grab the ledge!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "あの崖捕まんないやつ"
+    }
+  ],
+  "full_text": "Oh, I see! That character can't grab the ledge!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

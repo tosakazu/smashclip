@@ -1,0 +1,41 @@
+{
+  "id": "4be3c6ad-7689-48e3-a912-4e300df22d24",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.86,
+      "text": "Building momentum right here",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "高めていると言っていいような"
+    },
+    {
+      "start": 1.86,
+      "end": 3.98,
+      "text": "Been going for it since earlier, you know",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "先ほどからトライはしてるんですけどもね"
+    },
+    {
+      "start": 3.98,
+      "end": 8.14,
+      "text": "Stay patient, stay patient!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあ我慢強く我慢強く"
+    },
+    {
+      "start": 8.14,
+      "end": 9.32,
+      "text": "Strong KO game in this range!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "撃墜強いここですね"
+    }
+  ],
+  "full_text": "Building momentum right here Been going for it since earlier, you know Stay patient, stay patient! Strong KO game in this range!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

@@ -1,0 +1,21 @@
+{
+  "id": "7453f16b-91aa-4a1b-84df-8107c245fa7e",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.12,
+      "text": "おっとこれはリゼアス、マルスが仕掛けに",
+      "language": "ja"
+    }
+  ],
+  "full_text": "おっとこれはリゼアス、マルスが仕掛けに",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "リゼアスマルス",
+      "corrected": "リゼアス、マルス",
+      "rule": "player name separation"
+    }
+  ]
+}

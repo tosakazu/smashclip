@@ -1,0 +1,48 @@
+{
+  "id": "4af5a285-835f-476e-9a33-014f378c083c",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.62,
+      "text": "I'd like to reach Diamond, but",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ダイヤにね到達したいところではあるんですけれども"
+    },
+    {
+      "start": 3.62,
+      "end": 8.06,
+      "text": "the moment you show even the slightest opening, H.O punishes you",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "このね少しでも隙を見せるとマイルドなH.Oに"
+    },
+    {
+      "start": 8.06,
+      "end": 9.66,
+      "text": "and you get beaten, so",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "やられてしまうので"
+    },
+    {
+      "start": 9.66,
+      "end": 10.9,
+      "text": "you gotta be careful",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "気を"
+    }
+  ],
+  "full_text": "I'd like to reach Diamond, but the moment you show even the slightest opening, H.O punishes you and you get beaten, so you gotta be careful",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "マイルドなHO",
+      "corrected": "マイルドなH.O",
+      "rule": "player name"
+    }
+  ]
+}

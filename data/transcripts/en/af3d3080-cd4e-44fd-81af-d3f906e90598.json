@@ -1,0 +1,33 @@
+{
+  "id": "af3d3080-cd4e-44fd-81af-d3f906e90598",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.68,
+      "text": "patrol agent right now but he no he gets a bomb smash now Raru has a chance to bring this even",
+      "language": "en"
+    },
+    {
+      "start": 5.68,
+      "end": 10.5,
+      "text": "let's see trying to find something with a megawatt but Sisqui's Samus gets into it again",
+      "language": "en"
+    }
+  ],
+  "full_text": "patrol agent right now but he no he gets a bomb smash now Raru has a chance to bring this even let's see trying to find something with a megawatt but Sisqui's Samus gets into it again",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "raro",
+      "corrected": "Raru",
+      "rule": "player name (Raru)"
+    },
+    {
+      "segment_idx": 1,
+      "original": "simply samus",
+      "corrected": "Sisqui's Samus",
+      "rule": "player name (Sisqui)"
+    }
+  ]
+}

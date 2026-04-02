@@ -1,0 +1,39 @@
+{
+  "id": "3ce6ce64-46d0-4c13-8993-37d5b13286a1",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.72,
+      "text": "クアワイン",
+      "language": "ja"
+    },
+    {
+      "start": 0.72,
+      "end": 2.68,
+      "text": "転がり上がりを狩って",
+      "language": "ja"
+    },
+    {
+      "start": 2.68,
+      "end": 6.38,
+      "text": "ディンの炎",
+      "language": "ja"
+    }
+  ],
+  "full_text": "クアワイン 転がり上がりを狩って ディンの炎",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "勝って",
+      "corrected": "狩って",
+      "rule": "kanji homophone: 勝って→狩って (崖の転がり上がりを狩る)"
+    },
+    {
+      "segment_idx": 2,
+      "original": "ピンの炎",
+      "corrected": "ディンの炎",
+      "rule": "Zelda move name: Din's Fire = ディンの炎"
+    }
+  ]
+}

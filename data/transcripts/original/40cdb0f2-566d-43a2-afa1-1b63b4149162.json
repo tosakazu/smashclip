@@ -1,0 +1,39 @@
+{
+  "id": "40cdb0f2-566d-43a2-afa1-1b63b4149162",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.14,
+      "text": "空後攻撃みたいな",
+      "language": "ja"
+    },
+    {
+      "start": 1.14,
+      "end": 4.24,
+      "text": "なんかウェイトでキックスリーするの結構ヘロさんみたいな",
+      "language": "ja"
+    },
+    {
+      "start": 4.24,
+      "end": 5.68,
+      "text": "はいはいはい確かにそうですね",
+      "language": "ja"
+    },
+    {
+      "start": 5.68,
+      "end": 8.56,
+      "text": "上からの復帰を許さない",
+      "language": "ja"
+    }
+  ],
+  "full_text": "空後攻撃みたいな なんかウェイトでキックスリーするの結構ヘロさんみたいな はいはいはい確かにそうですね 上からの復帰を許さない",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "高校攻撃",
+      "corrected": "空後攻撃",
+      "rule": "kanji homophone: 高校→空後 (back air)"
+    }
+  ]
+}

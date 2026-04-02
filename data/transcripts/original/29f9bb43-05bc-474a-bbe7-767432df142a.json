@@ -1,0 +1,51 @@
+{
+  "id": "29f9bb43-05bc-474a-bbe7-767432df142a",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.8,
+      "text": "あ そこへ行こう じゃ外ヒヤリとしたところを外に出す",
+      "language": "ja"
+    },
+    {
+      "start": 4.8,
+      "end": 11.0,
+      "text": "復帰阻止早めの空N うまい無敵ないんですよねスピンは空後",
+      "language": "ja"
+    },
+    {
+      "start": 11.0,
+      "end": 17.8,
+      "text": "これも移動回避で帰ってきたが崖の展開見てるー 脳が早いやさっきね横",
+      "language": "ja"
+    }
+  ],
+  "full_text": "あ そこへ行こう じゃ外ヒヤリとしたところを外に出す 復帰阻止早めの空N うまい無敵ないんですよねスピンは空後 これも移動回避で帰ってきたが崖の展開見てるー 脳が早いやさっきね横",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "あそこへ行こう じゃあへヒヤリとしたところを外に出す",
+      "corrected": "あ そこへ行こう じゃ外ヒヤリとしたところを外に出す",
+      "rule": "garbled slightly"
+    },
+    {
+      "segment_idx": 1,
+      "original": "復帰阻止早めのベビー",
+      "corrected": "復帰阻止早めの空N",
+      "rule": "misheard: ベビー→空N"
+    },
+    {
+      "segment_idx": 1,
+      "original": "空中バー",
+      "corrected": "空後",
+      "rule": "move abbrev: 空中バー→空後"
+    },
+    {
+      "segment_idx": 2,
+      "original": "移動会で",
+      "corrected": "移動回避で",
+      "rule": "misheard: 移動会→移動回避"
+    }
+  ]
+}

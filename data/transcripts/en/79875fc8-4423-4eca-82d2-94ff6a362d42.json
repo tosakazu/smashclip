@@ -1,0 +1,50 @@
+{
+  "id": "79875fc8-4423-4eca-82d2-94ff6a362d42",
+  "segments": [
+    {
+      "start": 0.44,
+      "end": 2.06,
+      "text": "And I say that endearingly.",
+      "language": "en"
+    },
+    {
+      "start": 2.28,
+      "end": 3.28,
+      "text": "But the gimmicky nature.",
+      "language": "en"
+    },
+    {
+      "start": 3.42,
+      "end": 4.8,
+      "text": "Oh, what the hell?",
+      "language": "en"
+    },
+    {
+      "start": 5.62,
+      "end": 6.5,
+      "text": "Of K. Rool.",
+      "language": "en"
+    },
+    {
+      "start": 6.56,
+      "end": 7.76,
+      "text": "So scary to play around, too.",
+      "language": "en"
+    },
+    {
+      "start": 8.02,
+      "end": 10.02,
+      "text": "Pivot gets away from the pivot grab.",
+      "language": "en"
+    },
+    {
+      "start": 11.38,
+      "end": 12.72,
+      "text": "Wow, gets it again.",
+      "language": "en"
+    }
+  ],
+  "full_text": "And I say that endearingly. But the gimmicky nature. Oh, what the hell? Of K. Rool. So scary to play around, too. Pivot gets away from the pivot grab. Wow, gets it again.",
+  "detected_language": "en",
+  "corrections": []
+}

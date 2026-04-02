@@ -1,0 +1,56 @@
+{
+  "id": "a2b6161a-44eb-4c97-aaa8-041ce8a1dca7",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.98,
+      "text": "What happens next?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "どうなってるでしょうね"
+    },
+    {
+      "start": 0.98,
+      "end": 5.2,
+      "text": "This is absolutely incredible, isn't it?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "本当に並々ならぬものがありますよね"
+    },
+    {
+      "start": 5.2,
+      "end": 9.3,
+      "text": "This is the kind of positioning you can only pull off with true character mastery!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "本当に使い込んでいるからこそできるこの立ち回りです"
+    },
+    {
+      "start": 9.3,
+      "end": 11.46,
+      "text": "And there's the opening!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "チコを倒してこれは来たよ"
+    },
+    {
+      "start": 11.46,
+      "end": 11.94,
+      "text": "Brave Ness!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ブレイブウェス"
+    }
+  ],
+  "full_text": "What happens next? This is absolutely incredible, isn't it? This is the kind of positioning you can only pull off with true character mastery! And there's the opening! Brave Ness!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "波々ならぬ",
+      "corrected": "並々ならぬ",
+      "rule": "kanji homophone"
+    }
+  ]
+}

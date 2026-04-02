@@ -1,0 +1,52 @@
+{
+  "id": "712fd7fe-e967-4afb-bf4a-9fd5b8b5ab8b",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.22,
+      "text": "Up air connects off bomb down throw!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "爆弾下投げからの空上通して"
+    },
+    {
+      "start": 5.22,
+      "end": 6.82,
+      "text": "Creates the advantage, reverse back air!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "展開作って反転空後"
+    },
+    {
+      "start": 6.82,
+      "end": 9.26,
+      "text": "Still has the bomb though!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "もう一回爆弾持っているが"
+    },
+    {
+      "start": 9.26,
+      "end": 12.04,
+      "text": "Goes straight at the spin cut recovery!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "あえて回転切り復帰に対して"
+    }
+  ],
+  "full_text": "Up air connects off bomb down throw! Creates the advantage, reverse back air! Still has the bomb though! Goes straight at the spin cut recovery!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_index": 0,
+      "original": "爆弾したねからの空中城通して",
+      "corrected": "爆弾下投げからの空上通して"
+    },
+    {
+      "segment_index": 1,
+      "original": "展開作って反転空中城",
+      "corrected": "展開作って反転空後"
+    }
+  ]
+}

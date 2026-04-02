@@ -1,0 +1,76 @@
+{
+  "id": "b5c2d415-2994-489f-baf1-7acc1ab13dc1",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.2,
+      "text": "When coming back, they're getting edgeguarded!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "前に出るのはリムかいやエリトラで帰ってくるは追いかける"
+    },
+    {
+      "start": 4.2,
+      "end": 6.36,
+      "text": "And Smashville is still in play",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "鉄が無いしすま村が生きてますね"
+    },
+    {
+      "start": 6.36,
+      "end": 7.88,
+      "text": "Wow, that's insane!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "なるほどうますぎる"
+    },
+    {
+      "start": 7.88,
+      "end": 11.32,
+      "text": "The recovery is totally open!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "金も金をとってアコーラの復帰は自由だ"
+    },
+    {
+      "start": 11.32,
+      "end": 14.96,
+      "text": "Coming back at an angle",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "どこから帰る斜め上から帰る"
+    },
+    {
+      "start": 14.96,
+      "end": 16.98,
+      "text": "Right here, no way!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "あったここにまさかの"
+    }
+  ],
+  "full_text": "When coming back, they're getting edgeguarded! And Smashville is still in play Wow, that's insane! The recovery is totally open! Coming back at an angle Right here, no way!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "手継がないし",
+      "corrected": "鉄が無いし",
+      "rule": "misheard word"
+    },
+    {
+      "segment_idx": 1,
+      "original": "スマムラ",
+      "corrected": "すま村",
+      "rule": "stage name"
+    },
+    {
+      "segment_idx": 3,
+      "original": "今日も今日をとって",
+      "corrected": "金も金をとって",
+      "rule": "misheard word"
+    }
+  ]
+}

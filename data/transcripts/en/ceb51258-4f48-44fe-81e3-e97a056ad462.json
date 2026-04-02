@@ -1,0 +1,33 @@
+{
+  "id": "ceb51258-4f48-44fe-81e3-e97a056ad462",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.32,
+      "text": "Could there be?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ありますかねこれは"
+    },
+    {
+      "start": 2.32,
+      "end": 4.02,
+      "text": "This is an up smash!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これは上スマッシュ"
+    },
+    {
+      "start": 4.02,
+      "end": 4.82,
+      "text": "There we go!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "出て"
+    }
+  ],
+  "full_text": "Could there be? This is an up smash! There we go!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

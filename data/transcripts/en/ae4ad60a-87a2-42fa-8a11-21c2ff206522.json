@@ -1,0 +1,54 @@
+{
+  "id": "ae4ad60a-87a2-42fa-8a11-21c2ff206522",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.48,
+      "text": "Insane! No fuel left!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "やばい燃料がないぞ"
+    },
+    {
+      "start": 1.48,
+      "end": 4.64,
+      "text": "This should recover... Kurogane brought it!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これは戻ってくるはず黒船も頑張りました"
+    },
+    {
+      "start": 4.64,
+      "end": 7.78,
+      "text": "Five bairs!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空後5回突き"
+    },
+    {
+      "start": 7.78,
+      "end": 8.3,
+      "text": "Ledge",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "崖"
+    }
+  ],
+  "full_text": "Insane! No fuel left! This should recover... Kurogane brought it! Five bairs! Ledge",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "羽地君も頑張りました",
+      "corrected": "はず黒船も頑張りました",
+      "rule": "player name (黒船)"
+    },
+    {
+      "segment_idx": 2,
+      "original": "右5回突き",
+      "corrected": "空後5回突き",
+      "rule": "move name (空後)"
+    }
+  ]
+}

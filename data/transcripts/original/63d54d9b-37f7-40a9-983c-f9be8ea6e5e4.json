@@ -1,0 +1,57 @@
+{
+  "id": "63d54d9b-37f7-40a9-983c-f9be8ea6e5e4",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.5,
+      "text": "今度は掴みしっかりわかっている",
+      "language": "ja"
+    },
+    {
+      "start": 2.5,
+      "end": 4.92,
+      "text": "村と町",
+      "language": "ja"
+    },
+    {
+      "start": 4.92,
+      "end": 6.44,
+      "text": "村と町の台がある",
+      "language": "ja"
+    },
+    {
+      "start": 6.44,
+      "end": 8.16,
+      "text": "おっと空上危ないところでした",
+      "language": "ja"
+    },
+    {
+      "start": 8.16,
+      "end": 8.72,
+      "text": "今のは",
+      "language": "ja"
+    }
+  ],
+  "full_text": "今度は掴みしっかりわかっている 村と町 村と町の台がある おっと空上危ないところでした 今のは",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "村の街",
+      "corrected": "村と町",
+      "rule": "stage name"
+    },
+    {
+      "segment_idx": 2,
+      "original": "村と街",
+      "corrected": "村と町",
+      "rule": "stage name"
+    },
+    {
+      "segment_idx": 3,
+      "original": "空中",
+      "corrected": "空上",
+      "rule": "move name (kill move)"
+    }
+  ]
+}

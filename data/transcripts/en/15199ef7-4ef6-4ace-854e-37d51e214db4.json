@@ -1,0 +1,45 @@
+{
+  "id": "15199ef7-4ef6-4ace-854e-37d51e214db4",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.22,
+      "text": "hey don't gotta rush it yep just sit back right now all right go ahead going up trying to get",
+      "language": "en"
+    },
+    {
+      "start": 5.22,
+      "end": 8.94,
+      "text": "that quick up air pull out the stocks looks like at a percent even Mythra up air will do the trick",
+      "language": "en"
+    },
+    {
+      "start": 8.94,
+      "end": 12.84,
+      "text": "oh Atreus no we're gonna fight back for that nair will seal the deal",
+      "language": "en"
+    }
+  ],
+  "full_text": "hey don't gotta rush it yep just sit back right now all right go ahead going up trying to get that quick up air pull out the stocks looks like at a percent even Mythra up air will do the trick oh Atreus no we're gonna fight back for that nair will seal the deal",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "pull out the socks",
+      "corrected": "pull out the stocks",
+      "rule": "Smash term: socks→stocks"
+    },
+    {
+      "segment_idx": 1,
+      "original": "even mithra up there will do the trick",
+      "corrected": "even Mythra up air will do the trick",
+      "rule": "Character name: mithra→Mythra; move: up there→up air"
+    },
+    {
+      "segment_idx": 2,
+      "original": "oh lead strap no we're gonna fight back for that nair we'll seal the deal",
+      "corrected": "oh Atreus no we're gonna fight back for that nair will seal the deal",
+      "rule": "Player name: lead strap→Atreus"
+    }
+  ]
+}

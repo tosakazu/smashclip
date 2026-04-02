@@ -1,0 +1,49 @@
+{
+  "id": "41e1c4b7-cbbf-4157-9361-d146f3fcd9cc",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.24,
+      "text": "Extending off the crafting table here is the complete ledge trap setup",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "作業台で一足伸ばしたところここは全狩りのセットアップ"
+    },
+    {
+      "start": 3.24,
+      "end": 6.36,
+      "text": "Back throw, blocks, tech, forward smash",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "後ろ投げブロック受け身横スマッシュ"
+    },
+    {
+      "start": 6.36,
+      "end": 12.42,
+      "text": "This is a setup that was discovered pretty early in the Steve community",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "かなりスティーブ界隈では初期に見つかったセットアップなんですけども"
+    },
+    {
+      "start": 12.42,
+      "end": 14.76,
+      "text": "But it's still incredibly strong",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "未だなお強力"
+    },
+    {
+      "start": 14.76,
+      "end": 17.68,
+      "text": "The meteor connects and one block level is enough",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "メテオ当たってブロック一段で十分"
+    }
+  ],
+  "full_text": "Extending off the crafting table here is the complete ledge trap setup. Back throw, blocks, tech, forward smash. This is a setup that was discovered pretty early in the Steve community. But it's still incredibly strong. The meteor connects and one block level is enough.",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

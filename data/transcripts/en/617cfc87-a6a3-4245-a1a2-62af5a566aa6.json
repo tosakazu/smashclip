@@ -1,0 +1,110 @@
+{
+  "id": "617cfc87-a6a3-4245-a1a2-62af5a566aa6",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.5,
+      "text": "Building momentum here!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "雰囲気として展開"
+    },
+    {
+      "start": 1.5,
+      "end": 2.0,
+      "text": "There we go!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これは!"
+    },
+    {
+      "start": 2.0,
+      "end": 3.0,
+      "text": "He's got recovery!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "返れるぅ!"
+    },
+    {
+      "start": 6.0,
+      "end": 7.0,
+      "text": "That whiffs!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これ外れてきます"
+    },
+    {
+      "start": 7.0,
+      "end": 8.5,
+      "text": "Comeback off the fair!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空前から反撃"
+    },
+    {
+      "start": 8.5,
+      "end": 9.5,
+      "text": "Hard dash approach, but...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ガンダッシュで詰め寄るが"
+    },
+    {
+      "start": 9.5,
+      "end": 11.0,
+      "text": "Parry while descending!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "下り空中時のジャストシールド"
+    },
+    {
+      "start": 11.0,
+      "end": 12.0,
+      "text": "Beautiful spacing!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これは姿勢よけになりましたね"
+    },
+    {
+      "start": 12.0,
+      "end": 14.0,
+      "text": "Securing the advantage and...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ニューリフレームを獲得して"
+    },
+    {
+      "start": 14.0,
+      "end": 15.0,
+      "text": "Sending it up!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "上へ飛ばして"
+    },
+    {
+      "start": 15.0,
+      "end": 16.16,
+      "text": "How's the back spacing looking?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "後ろ側よくない?"
+    }
+  ],
+  "full_text": "Building momentum here! There we go! He's got recovery! That whiffs! Comeback off the fair! Hard dash approach, but... Parry while descending! Beautiful spacing! Securing the advantage and... Sending it up! How's the back spacing looking?",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 4,
+      "original": "空拳",
+      "corrected": "空前",
+      "rule": "smash term"
+    },
+    {
+      "segment_idx": 6,
+      "original": "チャットシールド",
+      "corrected": "ジャストシールド",
+      "rule": "smash term"
+    }
+  ]
+}

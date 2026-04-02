@@ -1,0 +1,40 @@
+{
+  "id": "c7a52813-9d99-4cb5-b9d1-749144f24262",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.86,
+      "text": "Nair to arrow is safe though",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空中ニュートラルから弓矢は大丈夫ですね"
+    },
+    {
+      "start": 2.86,
+      "end": 8.28,
+      "text": "Here with nair to arrow—what's the play?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここどうするか空中ニュートラル弓矢"
+    },
+    {
+      "start": 8.28,
+      "end": 11.56,
+      "text": "That's up B, but the up B didn't connect",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これは上Bであっと上Bは届かなかった"
+    }
+  ],
+  "full_text": "Nair to arrow is safe though Here with nair to arrow—what's the play? That's up B, but the up B didn't connect",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "上火",
+      "corrected": "上B",
+      "rule": "smash term (上必殺技)"
+    }
+  ]
+}

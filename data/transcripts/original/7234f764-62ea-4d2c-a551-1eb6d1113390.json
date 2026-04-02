@@ -1,0 +1,44 @@
+{
+  "id": "7234f764-62ea-4d2c-a551-1eb6d1113390",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "3分間マリオが来た",
+      "language": "ja"
+    },
+    {
+      "start": 2.0,
+      "end": 4.0,
+      "text": "後ろでつなげて",
+      "language": "ja"
+    },
+    {
+      "start": 4.0,
+      "end": 6.0,
+      "text": "そして",
+      "language": "ja"
+    },
+    {
+      "start": 6.0,
+      "end": 8.0,
+      "text": "これは",
+      "language": "ja"
+    },
+    {
+      "start": 8.0,
+      "end": 10.0,
+      "text": "ジャンプが潰れてしまったので",
+      "language": "ja"
+    },
+    {
+      "start": 10.0,
+      "end": 12.06,
+      "text": "届きません",
+      "language": "ja"
+    }
+  ],
+  "full_text": "3分間マリオが来た 後ろでつなげて そして これは ジャンプが潰れてしまったので 届きません",
+  "detected_language": "ja",
+  "corrections": []
+}

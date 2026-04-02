@@ -1,0 +1,93 @@
+{
+  "id": "528c7af4-19c2-40de-9f34-52a2ee33a48a",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "トロッコ反射!",
+      "language": "ja"
+    },
+    {
+      "start": 2.0,
+      "end": 3.0,
+      "text": "3段ブロックからの読み合いは?",
+      "language": "ja"
+    },
+    {
+      "start": 3.0,
+      "end": 4.0,
+      "text": "爆弾を振り込んで",
+      "language": "ja"
+    },
+    {
+      "start": 4.0,
+      "end": 5.0,
+      "text": "これは割れる!",
+      "language": "ja"
+    },
+    {
+      "start": 5.0,
+      "end": 6.0,
+      "text": "それでもギリギリ!",
+      "language": "ja"
+    },
+    {
+      "start": 6.0,
+      "end": 8.0,
+      "text": "ワンパターン相殺が乗っている!",
+      "language": "ja"
+    },
+    {
+      "start": 8.0,
+      "end": 9.0,
+      "text": "上に刺さった",
+      "language": "ja"
+    },
+    {
+      "start": 9.0,
+      "end": 11.0,
+      "text": "帰れるのか?",
+      "language": "ja"
+    },
+    {
+      "start": 11.0,
+      "end": 13.0,
+      "text": "ブロックからのエリトラ",
+      "language": "ja"
+    },
+    {
+      "start": 13.0,
+      "end": 14.0,
+      "text": "とりあえず回避だが",
+      "language": "ja"
+    },
+    {
+      "start": 14.0,
+      "end": 15.0,
+      "text": "バカに刺さった!",
+      "language": "ja"
+    }
+  ],
+  "full_text": "トロッコ反射! 3段ブロックからの読み合いは? 爆弾を振り込んで これは割れる! それでもギリギリ! ワンパターン相殺が乗っている! 上に刺さった 帰れるのか? ブロックからのエリトラ とりあえず回避だが バカに刺さった!",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "トロコ",
+      "corrected": "トロッコ",
+      "rule": "Steve terminology: minecart"
+    },
+    {
+      "segment_idx": 5,
+      "original": "ワンパターン操作医が乗っている",
+      "corrected": "ワンパターン相殺が乗っている",
+      "rule": "kanji homophone: 操作医→相殺"
+    },
+    {
+      "segment_idx": 7,
+      "original": "変えれるのか",
+      "corrected": "帰れるのか",
+      "rule": "kanji homophone: 変え→帰"
+    }
+  ]
+}

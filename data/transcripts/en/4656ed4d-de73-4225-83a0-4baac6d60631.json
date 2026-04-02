@@ -1,0 +1,57 @@
+{
+  "id": "4656ed4d-de73-4225-83a0-4baac6d60631",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.68,
+      "text": "Back in, no grab!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "目で帰ってきて掴みは取らない"
+    },
+    {
+      "start": 1.68,
+      "end": 4.04,
+      "text": "If that grab connects, it's over!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "あれの掴み当たっていたらひとたまりもない"
+    },
+    {
+      "start": 4.04,
+      "end": 6.14,
+      "text": "Come on!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあ"
+    },
+    {
+      "start": 6.14,
+      "end": 6.84,
+      "text": "Haniwa!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ハニワがあった"
+    },
+    {
+      "start": 6.84,
+      "end": 7.8,
+      "text": "Haniwa!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ハニワがあった"
+    },
+    {
+      "start": 7.8,
+      "end": 8.7,
+      "text": "KO!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "撃墜"
+    }
+  ],
+  "full_text": "Back in, no grab! If that grab connects, it's over! Come on! Haniwa! Haniwa! KO!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

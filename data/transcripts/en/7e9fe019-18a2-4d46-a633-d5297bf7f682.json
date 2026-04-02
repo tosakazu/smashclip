@@ -1,0 +1,57 @@
+{
+  "id": "7e9fe019-18a2-4d46-a633-d5297bf7f682",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.36,
+      "text": "Up close, I mean, it just really speaks volumes.",
+      "language": "en"
+    },
+    {
+      "start": 3.36,
+      "end": 4.96,
+      "text": "Okay, I see the beginning animation of Up Smash",
+      "language": "en"
+    },
+    {
+      "start": 4.96,
+      "end": 5.8,
+      "text": "come out right now.",
+      "language": "en"
+    },
+    {
+      "start": 5.8,
+      "end": 7.64,
+      "text": "Kurama's really digging deep to get this 3-stock",
+      "language": "en"
+    },
+    {
+      "start": 7.64,
+      "end": 8.48,
+      "text": "against Monte here.",
+      "language": "en"
+    },
+    {
+      "start": 8.48,
+      "end": 9.32,
+      "text": "Hold on.",
+      "language": "en"
+    }
+  ],
+  "full_text": "Up close, I mean, it just really speaks volumes. Okay, I see the beginning animation of Up Smash come out right now. Kurama's really digging deep to get this 3-stock against Monte here. Hold on.",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 3,
+      "original": "Karamo's really digging deep to get this side take",
+      "corrected": "Kurama's really digging deep to get this 3-stock",
+      "rule": "player name + smash term: Karamo→Kurama, side take→3-stock"
+    },
+    {
+      "segment_idx": 4,
+      "original": "against the back here",
+      "corrected": "against Monte here",
+      "rule": "player name: the back→Monte"
+    }
+  ]
+}

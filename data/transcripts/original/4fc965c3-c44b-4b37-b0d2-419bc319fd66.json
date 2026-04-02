@@ -1,0 +1,75 @@
+{
+  "id": "4fc965c3-c44b-4b37-b0d2-419bc319fd66",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.98,
+      "text": "あれば下側から入ってくる",
+      "language": "ja"
+    },
+    {
+      "start": 1.98,
+      "end": 2.62,
+      "text": "下から上B",
+      "language": "ja"
+    },
+    {
+      "start": 2.62,
+      "end": 4.9,
+      "text": "ベク変逆にこうそうしたか",
+      "language": "ja"
+    },
+    {
+      "start": 4.9,
+      "end": 9.12,
+      "text": "横強攻撃続け",
+      "language": "ja"
+    },
+    {
+      "start": 9.12,
+      "end": 11.04,
+      "text": "前回避を見るようなところですが",
+      "language": "ja"
+    },
+    {
+      "start": 11.04,
+      "end": 11.88,
+      "text": "上り空Nバレ",
+      "language": "ja"
+    },
+    {
+      "start": 11.88,
+      "end": 14.34,
+      "text": "横強攻撃そのまま",
+      "language": "ja"
+    }
+  ],
+  "full_text": "あれば下側から入ってくる 下から上B ベク変逆にこうそうしたか 横強攻撃続け 前回避を見るようなところですが 上り空Nバレ 横強攻撃そのまま",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "下上上B",
+      "corrected": "下から上B",
+      "rule": "misheard word"
+    },
+    {
+      "segment_idx": 2,
+      "original": "打ち変更",
+      "corrected": "ベク変",
+      "rule": "kanji homophone: 打ち変更→ベク変"
+    },
+    {
+      "segment_idx": 4,
+      "original": "前回比",
+      "corrected": "前回避",
+      "rule": "kanji homophone: 比→避"
+    },
+    {
+      "segment_idx": 5,
+      "original": "クエナバレ",
+      "corrected": "空Nバレ",
+      "rule": "move abbreviation: クエナ→空N"
+    }
+  ]
+}

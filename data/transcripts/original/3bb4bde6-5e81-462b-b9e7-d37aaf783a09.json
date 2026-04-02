@@ -1,0 +1,45 @@
+{
+  "id": "3bb4bde6-5e81-462b-b9e7-d37aaf783a09",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.6,
+      "text": "おー手が長いですねバナナ拾って",
+      "language": "ja"
+    },
+    {
+      "start": 3.6,
+      "end": 5.56,
+      "text": "さあガードで固まるんだったらフリップがある",
+      "language": "ja"
+    },
+    {
+      "start": 5.56,
+      "end": 7.92,
+      "text": "そしてバナナで転倒して横スマッシュ",
+      "language": "ja"
+    },
+    {
+      "start": 7.92,
+      "end": 10.34,
+      "text": "ドンキー重いのでまだ撃墜しなかったんですが",
+      "language": "ja"
+    },
+    {
+      "start": 10.34,
+      "end": 10.82,
+      "text": "バナナから",
+      "language": "ja"
+    }
+  ],
+  "full_text": "おー手が長いですねバナナ拾って さあガードで固まるんだったらフリップがある そしてバナナで転倒して横スマッシュ ドンキー重いのでまだ撃墜しなかったんですが バナナから",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "降下して",
+      "corrected": "転倒して",
+      "rule": "misheard: 降下→転倒 (banana causes trip)"
+    }
+  ]
+}

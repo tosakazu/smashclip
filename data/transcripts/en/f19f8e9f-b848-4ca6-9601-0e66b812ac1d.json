@@ -1,0 +1,33 @@
+{
+  "id": "f19f8e9f-b848-4ca6-9601-0e66b812ac1d",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.92,
+      "text": "just the anti-air and then also using the up B anytime that Onin wants to use the anvil",
+      "language": "en"
+    },
+    {
+      "start": 5.92,
+      "end": 9.32,
+      "text": "does a really good job of using the up B's right there to interrupt as well",
+      "language": "en"
+    },
+    {
+      "start": 9.32,
+      "end": 12.98,
+      "text": "yeah i like the up B's it's definitely a good idea but that",
+      "language": "en"
+    }
+  ],
+  "full_text": "just the anti-air and then also using the up B anytime that Onin wants to use the anvil does a really good job of using the up B's right there to interrupt as well yeah i like the up B's it's definitely a good idea but that",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "anu",
+      "corrected": "Onin",
+      "rule": "player name"
+    }
+  ]
+}

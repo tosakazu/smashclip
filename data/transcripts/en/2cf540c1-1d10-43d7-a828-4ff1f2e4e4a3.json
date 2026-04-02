@@ -1,0 +1,80 @@
+{
+  "id": "2cf540c1-1d10-43d7-a828-4ff1f2e4e4a3",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.84,
+      "text": "Looks like they're fishing for the aerial here",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "飛びとか狙ってるかな"
+    },
+    {
+      "start": 0.84,
+      "end": 2.4,
+      "text": "Here we go",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあ"
+    },
+    {
+      "start": 2.4,
+      "end": 4.12,
+      "text": "Reads the dodge!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "回避切って"
+    },
+    {
+      "start": 4.12,
+      "end": 5.48,
+      "text": "Oh!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いや"
+    },
+    {
+      "start": 5.48,
+      "end": 7.98,
+      "text": "Oh no, the tipper catches them though!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いやーギリギリの部分が当たってしまったが"
+    },
+    {
+      "start": 7.98,
+      "end": 8.48,
+      "text": "Whoa, that's slick!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "うわうまいね"
+    },
+    {
+      "start": 8.48,
+      "end": 10.3,
+      "text": "He's good",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "うー大丈夫"
+    },
+    {
+      "start": 10.3,
+      "end": 11.92,
+      "text": "No way!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "うわーマジ"
+    }
+  ],
+  "full_text": "Looks like they're fishing for the aerial here Here we go Reads the dodge! Oh! Oh no, the tipper catches them though! Whoa, that's slick! He's good No way!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "回帰って",
+      "corrected": "回避切って",
+      "rule": "misheard: 回帰って→回避切って"
+    }
+  ]
+}

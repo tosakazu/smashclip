@@ -1,0 +1,27 @@
+{
+  "id": "1ad693a5-c8af-4997-a7a9-ab21612abd2e",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.4,
+      "text": "Trump but not going to be able to get the fall of the directional arrow able to get Monty back onto stage",
+      "language": "en"
+    },
+    {
+      "start": 4.4,
+      "end": 10.0,
+      "text": "We're still taking quite a bit of damage here from Leo. Yeah, and once Leo sees that Nair started up and you're drifting",
+      "language": "en"
+    }
+  ],
+  "full_text": "Trump but not going to be able to get the fall of the directional arrow able to get Monty back onto stage We're still taking quite a bit of damage here from Leo. Yeah, and once Leo sees that Nair started up and you're drifting",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "We're still taking quite a bit of damage here from Lael. Yeah, and once Lael sees that Nair started up and you're drifting",
+      "corrected": "We're still taking quite a bit of damage here from Leo. Yeah, and once Leo sees that Nair started up and you're drifting",
+      "rule": "Player name correction: Lael→Leo (MkLeo)"
+    }
+  ]
+}

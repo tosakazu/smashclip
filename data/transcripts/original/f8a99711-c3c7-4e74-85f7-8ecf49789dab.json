@@ -1,0 +1,57 @@
+{
+  "id": "f8a99711-c3c7-4e74-85f7-8ecf49789dab",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.48,
+      "text": "Yeah, the worst, I mean, the worst part is, like, yeah, you're thinking about the next",
+      "language": "en"
+    },
+    {
+      "start": 2.48,
+      "end": 6.04,
+      "text": "game more than likely, but you're also thinking, like, man, am I going to potentially get reversed",
+      "language": "en"
+    },
+    {
+      "start": 6.04,
+      "end": 6.32,
+      "text": "3-0?",
+      "language": "en"
+    },
+    {
+      "start": 6.4,
+      "end": 9.4,
+      "text": "Like, that is one of the thoughts that runs through your mind, especially when you kind",
+      "language": "en"
+    },
+    {
+      "start": 9.4,
+      "end": 13.0,
+      "text": "of, it's not just about losing a game four, you're getting, you're getting dominated right",
+      "language": "en"
+    },
+    {
+      "start": 13.0,
+      "end": 13.14,
+      "text": "now.",
+      "language": "en"
+    },
+    {
+      "start": 13.2,
+      "end": 15.92,
+      "text": "Now, that's an error from Miya that's going to open the door slightly.",
+      "language": "en"
+    }
+  ],
+  "full_text": "Yeah, the worst, I mean, the worst part is, like, yeah, you're thinking about the next game more than likely, but you're also thinking, like, man, am I going to potentially get reversed 3-0? Like, that is one of the thoughts that runs through your mind, especially when you kind of, it's not just about losing a game four, you're getting, you're getting dominated right now. Now, that's an error from Miya that's going to open the door slightly.",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 6,
+      "original": "Mia",
+      "corrected": "Miya",
+      "rule": "player name"
+    }
+  ]
+}

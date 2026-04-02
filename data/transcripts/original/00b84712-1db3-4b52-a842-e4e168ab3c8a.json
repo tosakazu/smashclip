@@ -1,0 +1,26 @@
+{
+  "id": "00b84712-1db3-4b52-a842-e4e168ab3c8a",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.86,
+      "text": "Shield right there, kind of stuck with no option, time to go with a revertable recovery,",
+      "language": "en"
+    },
+    {
+      "start": 4.22,
+      "end": 11.46,
+      "text": "you go to the platform, you go to ledge, escapes it out for now, hold on, is this it? Yes it is!",
+      "language": "en"
+    },
+    {
+      "start": 11.88,
+      "end": 13.0,
+      "text": "Up air on the platform.",
+      "language": "en"
+    }
+  ],
+  "full_text": "Shield right there, kind of stuck with no option, time to go with a revertable recovery, you go to the platform, you go to ledge, escapes it out for now, hold on, is this it? Yes it is! Up air on the platform.",
+  "detected_language": "en",
+  "corrections": []
+}

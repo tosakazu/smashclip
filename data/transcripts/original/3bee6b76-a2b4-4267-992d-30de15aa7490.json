@@ -1,0 +1,69 @@
+{
+  "id": "3bee6b76-a2b4-4267-992d-30de15aa7490",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.9,
+      "text": "チャージショットも危ないぞ",
+      "language": "ja"
+    },
+    {
+      "start": 0.9,
+      "end": 2.1,
+      "text": "ダッシュ攻撃",
+      "language": "ja"
+    },
+    {
+      "start": 2.1,
+      "end": 3.3,
+      "text": "これは撃墜に至る",
+      "language": "ja"
+    },
+    {
+      "start": 3.3,
+      "end": 6.16,
+      "text": "150%被ダメージが追い風となりました",
+      "language": "ja"
+    },
+    {
+      "start": 6.16,
+      "end": 8.58,
+      "text": "しかしここから崖に追い詰められた状態",
+      "language": "ja"
+    },
+    {
+      "start": 8.58,
+      "end": 9.24,
+      "text": "あえて掴む",
+      "language": "ja"
+    },
+    {
+      "start": 9.24,
+      "end": 11.4,
+      "text": "ここで空上",
+      "language": "ja"
+    }
+  ],
+  "full_text": "チャージショットも危ないぞ ダッシュ攻撃 これは撃墜に至る 150%被ダメージが追い風となりました しかしここから崖に追い詰められた状態 あえて掴む ここで空上",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "チャッシュットも",
+      "corrected": "チャージショットも",
+      "rule": "misheard: チャッシュット→チャージショット"
+    },
+    {
+      "segment_idx": 2,
+      "original": "激痛に至る",
+      "corrected": "撃墜に至る",
+      "rule": "kanji homophone: 激痛→撃墜"
+    },
+    {
+      "segment_idx": 6,
+      "original": "空中へ横で",
+      "corrected": "空上",
+      "rule": "misheard: 空中へ横→空上"
+    }
+  ]
+}

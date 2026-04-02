@@ -1,0 +1,92 @@
+{
+  "id": "7073217b-aef6-43a4-900f-9d094fc93a3f",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.26,
+      "text": "Back at the ledge",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "もう一度崖のターン"
+    },
+    {
+      "start": 1.26,
+      "end": 2.18,
+      "text": "Ledge steal!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "崖奪い"
+    },
+    {
+      "start": 2.18,
+      "end": 3.24,
+      "text": "Got the ledge steal, but...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "崖奪いをしたが"
+    },
+    {
+      "start": 3.24,
+      "end": 4.62,
+      "text": "The mixup that follows",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "その後の読み合い"
+    },
+    {
+      "start": 4.62,
+      "end": 5.5,
+      "text": "Geneva takes it!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "制したのはジュネーヴか"
+    },
+    {
+      "start": 5.5,
+      "end": 6.4,
+      "text": "Nair, keeps mashing!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空Nさらに暴れ"
+    },
+    {
+      "start": 6.4,
+      "end": 7.52,
+      "text": "Chrom forced offstage!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "崖外に追い出されたクロム"
+    },
+    {
+      "start": 7.52,
+      "end": 9.18,
+      "text": "Back with the airdodge",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "回避で戻ってきて"
+    },
+    {
+      "start": 9.18,
+      "end": 10.0,
+      "text": "After the Gigaflare",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ギガファイヤーの後"
+    }
+  ],
+  "full_text": "Back at the ledge Ledge steal! Got the ledge steal, but... The mixup that follows Geneva takes it! Nair, keeps mashing! Chrom forced offstage! Back with the airdodge After the Gigaflare",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_index": 4,
+      "original": "制したのはジュネーブか",
+      "corrected": "制したのはジュネーヴか"
+    },
+    {
+      "segment_index": 5,
+      "original": "空中にさら暴れ",
+      "corrected": "空Nさらに暴れ"
+    }
+  ]
+}

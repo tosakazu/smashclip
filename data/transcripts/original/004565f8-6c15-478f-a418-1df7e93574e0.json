@@ -1,0 +1,51 @@
+{
+  "id": "004565f8-6c15-478f-a418-1df7e93574e0",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.08,
+      "text": "しっかりシールド仕切って",
+      "language": "ja"
+    },
+    {
+      "start": 2.08,
+      "end": 3.3,
+      "text": "崖奪いを見せていく",
+      "language": "ja"
+    },
+    {
+      "start": 3.3,
+      "end": 5.94,
+      "text": "危ないぞ!急降下を打って",
+      "language": "ja"
+    },
+    {
+      "start": 5.94,
+      "end": 8.28,
+      "text": "横スマの発生に勝っていく",
+      "language": "ja"
+    },
+    {
+      "start": 8.28,
+      "end": 10.76,
+      "text": "下から返ってくるが",
+      "language": "ja"
+    },
+    {
+      "start": 10.76,
+      "end": 11.04,
+      "text": "急降下",
+      "language": "ja"
+    }
+  ],
+  "full_text": "しっかりシールド仕切って 崖奪いを見せていく 危ないぞ!急降下を打って 横スマの発生に勝っていく 下から返ってくるが 急降下",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 3,
+      "original": "横スマッシュの発生に勝っていく",
+      "corrected": "横スマの発生に勝っていく",
+      "rule": "auto-rule"
+    }
+  ]
+}

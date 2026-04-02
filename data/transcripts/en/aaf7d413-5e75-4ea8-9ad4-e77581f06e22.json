@@ -1,0 +1,72 @@
+{
+  "id": "aaf7d413-5e75-4ea8-9ad4-e77581f06e22",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.92,
+      "text": "Goes out with Homura's dair!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "飛び出してホムラで空中下"
+    },
+    {
+      "start": 1.92,
+      "end": 2.58,
+      "text": "That's the KO if it connects!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "当たれば撃墜"
+    },
+    {
+      "start": 2.58,
+      "end": 4.04,
+      "text": "Destroyed!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "破壊"
+    },
+    {
+      "start": 4.04,
+      "end": 5.4,
+      "text": "Smash attack!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "スマッシュ"
+    },
+    {
+      "start": 5.4,
+      "end": 6.82,
+      "text": "Oh, and this one survives too!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "おっとこれも耐えています"
+    },
+    {
+      "start": 6.82,
+      "end": 8.42,
+      "text": "Perfect timing!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "グッドタイミング"
+    },
+    {
+      "start": 8.42,
+      "end": 12.42,
+      "text": "The jab seals it!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "弱でさすがに撃墜"
+    }
+  ],
+  "full_text": "Goes out with Homura's dair! That's the KO if it connects! Destroyed! Smash attack! Oh, and this one survives too! Perfect timing! The jab seals it!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 5,
+      "original": "グッドDアイアン",
+      "corrected": "グッドタイミング",
+      "rule": "Mishearing: Dアイアン→タイミング"
+    }
+  ]
+}

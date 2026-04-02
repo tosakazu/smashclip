@@ -1,0 +1,89 @@
+{
+  "id": "09a183d8-0dd5-4d5c-9202-c2a10b5c1a15",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.32,
+      "text": "Starting with early neutral is the thing",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "最初に触り合いを勝負するっていうのが"
+    },
+    {
+      "start": 2.32,
+      "end": 3.26,
+      "text": "But reach is still the issue",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "やっぱりリーチで負けてる"
+    },
+    {
+      "start": 3.26,
+      "end": 5.28,
+      "text": "It becomes a tech for Getchu though",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ゲッチ側の対策の一個にはなるんですけど"
+    },
+    {
+      "start": 5.28,
+      "end": 6.88,
+      "text": "Getchu's out of shield is absolutely insane",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ゲッチ側のガーキャンめっちゃ強いんですよ"
+    },
+    {
+      "start": 6.88,
+      "end": 8.86,
+      "text": "They're saving jump here",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これジャンプ温存してるんですけど"
+    },
+    {
+      "start": 8.86,
+      "end": 10.28,
+      "text": "But they dive in with one move",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "一発で潜り込んでるんですが"
+    },
+    {
+      "start": 10.28,
+      "end": 11.96,
+      "text": "Up B seals it clean",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "上Bがちゃんと仕留めていて"
+    },
+    {
+      "start": 11.96,
+      "end": 13.14,
+      "text": "That won't reach",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これは届かない"
+    },
+    {
+      "start": 13.14,
+      "end": 15.66,
+      "text": "That's the ideal situation right?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これが理想的な展開ですかね"
+    },
+    {
+      "start": 15.66,
+      "end": 16.74,
+      "text": "Up B meeting up B",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "上Bに上Bをぶつけて"
+    }
+  ],
+  "full_text": "Starting with early neutral is the thing But reach is still the issue It becomes a tech for Getchu though Getchu's out of shield is absolutely insane They're saving jump here But they dive in with one move Up B seals it clean That won't reach That's the ideal situation right? Up B meeting up B",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

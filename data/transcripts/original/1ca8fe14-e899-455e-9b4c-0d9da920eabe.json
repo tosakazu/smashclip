@@ -1,0 +1,33 @@
+{
+  "id": "1ca8fe14-e899-455e-9b4c-0d9da920eabe",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.72,
+      "text": "A little bit of an overextension with the forward air, but Torigiri can't punish.",
+      "language": "en"
+    },
+    {
+      "start": 3.04,
+      "end": 6.14,
+      "text": "Torigiri with the back air, he's going to connect and he's going to kill thanks to the max rage.",
+      "language": "en"
+    },
+    {
+      "start": 6.36,
+      "end": 12.26,
+      "text": "And we've got a last stock situation, but Torigiri needs to play this practically flawlessly and he does not do that.",
+      "language": "en"
+    }
+  ],
+  "full_text": "A little bit of an overextension with the forward air, but Torigiri can't punish. Torigiri with the back air, he's going to connect and he's going to kill thanks to the max rage. And we've got a last stock situation, but Torigiri needs to play this practically flawlessly and he does not do that.",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "And we've got a lost luck situation, but Torigiri needs to play this practically flawlessly and he does not do that.",
+      "corrected": "And we've got a last stock situation, but Torigiri needs to play this practically flawlessly and he does not do that.",
+      "rule": "Whisper mishearing: lost luck→last stock"
+    }
+  ]
+}

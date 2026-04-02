@@ -1,0 +1,51 @@
+{
+  "id": "e406f59a-e51e-445b-a62a-8ec8069a3aa8",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.06,
+      "text": "読み合い冷静にやるグルトニーもすごいですね",
+      "language": "ja"
+    },
+    {
+      "start": 2.06,
+      "end": 5.62,
+      "text": "それでも相手のガードをまだ見れる判断ができる",
+      "language": "ja"
+    },
+    {
+      "start": 5.62,
+      "end": 7.62,
+      "text": "上スマッシュ 反確を落とした",
+      "language": "ja"
+    },
+    {
+      "start": 7.62,
+      "end": 9.56,
+      "text": "生当てで撃墜 追い打ち",
+      "language": "ja"
+    }
+  ],
+  "full_text": "読み合い冷静にやるグルトニーもすごいですね それでも相手のガードをまだ見れる判断ができる 上スマッシュ反確を落とした 生当てで撃墜 追い打ち",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "グラフ",
+      "corrected": "グルトニー",
+      "rule": "player name: Glutonny"
+    },
+    {
+      "segment_idx": 2,
+      "original": "上スマッシュ反撃を落とした",
+      "corrected": "上スマッシュ 反確を落とした",
+      "rule": "term: 反確(confirmed punish)"
+    },
+    {
+      "segment_idx": 3,
+      "original": "生当てで劣劇追打",
+      "corrected": "生当てで撃墜 追い打ち",
+      "rule": "kanji homophone: 撃墜"
+    }
+  ]
+}

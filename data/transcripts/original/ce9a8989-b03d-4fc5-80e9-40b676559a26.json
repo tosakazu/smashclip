@@ -1,0 +1,32 @@
+{
+  "id": "ce9a8989-b03d-4fc5-80e9-40b676559a26",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.04,
+      "text": "圧倒的なリーチ",
+      "language": "ja"
+    },
+    {
+      "start": 1.04,
+      "end": 2.7,
+      "text": "ドクターマリオで",
+      "language": "ja"
+    },
+    {
+      "start": 2.7,
+      "end": 4.2,
+      "text": "差し込んでいけるか",
+      "language": "ja"
+    },
+    {
+      "start": 4.2,
+      "end": 5.62,
+      "text": "差し込んでいく",
+      "language": "ja"
+    }
+  ],
+  "full_text": "圧倒的なリーチ ドクターマリオで 差し込んでいけるか 差し込んでいく",
+  "detected_language": "ja",
+  "corrections": []
+}

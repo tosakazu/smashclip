@@ -1,0 +1,64 @@
+{
+  "id": "c413b1e1-7bab-4af9-977c-ac99474c1bae",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.8,
+      "text": "Saw that bair coming, just fell too fast",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空中後ろまで見えていたが落下速度がちょっと早かった"
+    },
+    {
+      "start": 2.8,
+      "end": 4.74,
+      "text": "Gotta save that to close the game",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "勝つためにはおならを温存しないといけない"
+    },
+    {
+      "start": 4.74,
+      "end": 7.68,
+      "text": "Jack's lookin' super clean",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ジャック手堅いですね"
+    },
+    {
+      "start": 7.68,
+      "end": 9.12,
+      "text": "Reading it perfectly at the ledge",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ギリギリまで確認して"
+    },
+    {
+      "start": 9.12,
+      "end": 12.04,
+      "text": "Dash attack off the retreat",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "引きからダッシュ攻撃"
+    },
+    {
+      "start": 12.04,
+      "end": 12.92,
+      "text": "KO!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "撃墜"
+    }
+  ],
+  "full_text": "Saw that bair coming, just fell too fast. Gotta save that to close the game. Jack's lookin' super clean. Reading it perfectly at the ledge. Dash attack off the retreat. KO!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 4,
+      "original": "久々から出し攻撃",
+      "corrected": "引きからダッシュ攻撃",
+      "rule": "misheard words"
+    }
+  ]
+}

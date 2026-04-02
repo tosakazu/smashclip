@@ -1,0 +1,27 @@
+{
+  "id": "5245817c-4903-4eee-9521-093f6f03d898",
+  "segments": [
+    {
+      "start": 0.8,
+      "end": 2.4,
+      "text": "逆に展開を入れ替えている",
+      "language": "ja"
+    },
+    {
+      "start": 2.4,
+      "end": 7.22,
+      "text": "これを下強を通す撃墜",
+      "language": "ja"
+    }
+  ],
+  "full_text": "逆に展開を入れ替えている これを下強を通す撃墜",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "激戦",
+      "corrected": "撃墜",
+      "rule": "kanji homophone: 激戦→撃墜"
+    }
+  ]
+}

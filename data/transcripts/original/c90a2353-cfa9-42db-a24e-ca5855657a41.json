@@ -1,0 +1,56 @@
+{
+  "id": "c90a2353-cfa9-42db-a24e-ca5855657a41",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.22,
+      "text": "Oh, yeah, he's been so good at catching landing.",
+      "language": "en"
+    },
+    {
+      "start": 2.34,
+      "end": 3.68,
+      "text": "He's sort of very vulnerable in that state.",
+      "language": "en"
+    },
+    {
+      "start": 6.24,
+      "end": 7.24,
+      "text": "Space in.",
+      "language": "en"
+    },
+    {
+      "start": 7.54,
+      "end": 8.28,
+      "text": "Take his time.",
+      "language": "en"
+    },
+    {
+      "start": 8.76,
+      "end": 9.24,
+      "text": "Good shield.",
+      "language": "en"
+    },
+    {
+      "start": 9.48,
+      "end": 9.62,
+      "text": "Good shield.",
+      "language": "en"
+    },
+    {
+      "start": 9.62,
+      "end": 9.98,
+      "text": "Wow.",
+      "language": "en"
+    },
+    {
+      "start": 10.36,
+      "end": 11.78,
+      "text": "It was the very tip of that.",
+      "language": "en"
+    }
+  ],
+  "full_text": "Oh, yeah, he's been so good at catching landing. He's sort of very vulnerable in that state. Space in. Take his time. Good shield. Good shield. Wow. It was the very tip of that.",
+  "detected_language": "en",
+  "corrections": []
+}

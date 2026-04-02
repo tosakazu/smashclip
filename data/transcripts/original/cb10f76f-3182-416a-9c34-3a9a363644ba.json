@@ -1,0 +1,45 @@
+{
+  "id": "cb10f76f-3182-416a-9c34-3a9a363644ba",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.2,
+      "text": "そしてダブルアップの空中下を入る",
+      "language": "ja"
+    },
+    {
+      "start": 2.2,
+      "end": 3.32,
+      "text": "再び空中下",
+      "language": "ja"
+    },
+    {
+      "start": 3.32,
+      "end": 4.34,
+      "text": "危なかった",
+      "language": "ja"
+    },
+    {
+      "start": 4.34,
+      "end": 7.1,
+      "text": "これは",
+      "language": "ja"
+    },
+    {
+      "start": 7.1,
+      "end": 10.62,
+      "text": "リフで撃墜が通されて",
+      "language": "ja"
+    }
+  ],
+  "full_text": "そしてダブルアップの空中下を入る 再び空中下 危なかった これは リフで撃墜が通されて",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 4,
+      "original": "リーフ",
+      "corrected": "リフ",
+      "rule": "smash term (リフティング/リフコン)"
+    }
+  ]
+}

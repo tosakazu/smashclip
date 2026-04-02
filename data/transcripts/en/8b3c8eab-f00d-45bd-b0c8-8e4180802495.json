@@ -1,0 +1,44 @@
+{
+  "id": "8b3c8eab-f00d-45bd-b0c8-8e4180802495",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.5,
+      "text": "Yeah, Pyouring using dair to escape was interesting, and that's definitely happening, but...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いやーピョーリングの今面白かったのが空ダ使って逃げるっていうのは確かにそうなんですけど"
+    },
+    {
+      "start": 4.5,
+      "end": 7.82,
+      "text": "They were expanding their offensive options with dair too",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空ダ使って攻めのなんか択増やしてましたね"
+    },
+    {
+      "start": 7.82,
+      "end": 12.24,
+      "text": "Dodging through, up smash—it's falling apart here for the Captain!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあ回避通して上スマッシュここで荒れてるのは隊長"
+    },
+    {
+      "start": 12.24,
+      "end": 17.18,
+      "text": "Tamerl's coming from the inside!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "タメルが来ました内側"
+    }
+  ],
+  "full_text": "Yeah, Pyouring using dair to escape was interesting, and that's definitely happening, but... They were expanding their offensive options with dair too Dodging through, up smash—it's falling apart here for the Captain! Tamerl's coming from the inside!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    "空打→空ダ (aerial dodge, 空中回避 abbreviation)",
+    "覚悟→択 (options/mixups, common Smash term)"
+  ]
+}

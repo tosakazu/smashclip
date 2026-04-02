@@ -1,0 +1,33 @@
+{
+  "id": "80b37c50-fc07-469e-83d5-eed6cc491013",
+  "segments": [
+    {
+      "start": 0.5,
+      "end": 2.9,
+      "text": "Both fighting for that first stock",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "お互いどちらが1ストック取るかというような"
+    },
+    {
+      "start": 2.9,
+      "end": 4.2,
+      "text": "That's the situation",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "局面です"
+    },
+    {
+      "start": 4.2,
+      "end": 8.38,
+      "text": "Oh man, that's brutal!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "おっとこれは激痛"
+    }
+  ],
+  "full_text": "Both fighting for that first stock, that's the situation, oh man that's brutal!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

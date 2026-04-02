@@ -1,0 +1,81 @@
+{
+  "id": "370cd06a-bce1-4a0f-8eb1-c5a146c7246f",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "お前怖い!上強が見えているぞ!",
+      "language": "ja"
+    },
+    {
+      "start": 2.0,
+      "end": 4.0,
+      "text": "あの上強当たればまさか?",
+      "language": "ja"
+    },
+    {
+      "start": 4.0,
+      "end": 5.5,
+      "text": "クリンチ状態すぎるあの位置",
+      "language": "ja"
+    },
+    {
+      "start": 5.5,
+      "end": 7.0,
+      "text": "さあスピンから空中ニュートラル",
+      "language": "ja"
+    },
+    {
+      "start": 7.0,
+      "end": 8.0,
+      "text": "上に打ち上げて",
+      "language": "ja"
+    },
+    {
+      "start": 8.0,
+      "end": 9.0,
+      "text": "無理はしないKEN",
+      "language": "ja"
+    },
+    {
+      "start": 9.0,
+      "end": 10.0,
+      "text": "差し返しを狙う",
+      "language": "ja"
+    },
+    {
+      "start": 10.0,
+      "end": 12.0,
+      "text": "横スマッシュ!その場回避を誘発!",
+      "language": "ja"
+    }
+  ],
+  "full_text": "お前怖い!上強が見えているぞ! あの上強当たればまさか? クリンチ状態すぎるあの位置 さあスピンから空中ニュートラル 上に打ち上げて 無理はしないKEN 差し返しを狙う 横スマッシュ!その場回避を誘発!",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "上鏡",
+      "corrected": "上強",
+      "rule": "kanji homophone: 上鏡→上強"
+    },
+    {
+      "segment_idx": 1,
+      "original": "上鏡",
+      "corrected": "上強",
+      "rule": "kanji homophone: 上鏡→上強"
+    },
+    {
+      "segment_idx": 5,
+      "original": "無理はしないけん",
+      "corrected": "無理はしないKEN",
+      "rule": "player name: KEN"
+    },
+    {
+      "segment_idx": 7,
+      "original": "その魔界気を誘発",
+      "corrected": "その場回避を誘発",
+      "rule": "misheard: その場回避"
+    }
+  ]
+}

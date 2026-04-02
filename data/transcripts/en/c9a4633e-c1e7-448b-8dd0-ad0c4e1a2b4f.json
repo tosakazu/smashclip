@@ -1,0 +1,49 @@
+{
+  "id": "c9a4633e-c1e7-448b-8dd0-ad0c4e1a2b4f",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.64,
+      "text": "Neither player's getting extended control going",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "両者お互いのターンを長く続けさせないような展開が続く"
+    },
+    {
+      "start": 3.64,
+      "end": 6.06,
+      "text": "Nair breaking the shield while keeping the pressure tight",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ブロックを折りながら空中ニュートラルで固めにいって"
+    },
+    {
+      "start": 6.06,
+      "end": 7.54,
+      "text": "When dealing with landing pressure",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "踏み苦しさをケアする場合"
+    },
+    {
+      "start": 7.54,
+      "end": 10.26,
+      "text": "Locking them down from above with up air",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "下り空中上から上で固める"
+    },
+    {
+      "start": 10.26,
+      "end": 13.66,
+      "text": "Shield bouncing through below, but...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "下でやり過ごしてブロックバウンドですが"
+    }
+  ],
+  "full_text": "Neither player's getting extended control going Nair breaking the shield while keeping the pressure tight When dealing with landing pressure Locking them down from above with up air Shield bouncing through below, but...",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

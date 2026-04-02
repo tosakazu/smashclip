@@ -1,0 +1,60 @@
+{
+  "id": "a71635d4-126a-425b-b33e-8a13c06bc4fc",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.12,
+      "text": "さあ、パーセントを横に並べてきた",
+      "language": "ja"
+    },
+    {
+      "start": 3.12,
+      "end": 5.14,
+      "text": "空中ニュートラルを当てていきたい",
+      "language": "ja"
+    },
+    {
+      "start": 5.14,
+      "end": 7.92,
+      "text": "どこにそのチャンスを見出す?",
+      "language": "ja"
+    },
+    {
+      "start": 8.32,
+      "end": 9.36,
+      "text": "ヤシの木に一撃がある",
+      "language": "ja"
+    },
+    {
+      "start": 9.36,
+      "end": 11.42,
+      "text": "これは上スマが当たるね",
+      "language": "ja"
+    },
+    {
+      "start": 11.42,
+      "end": 11.92,
+      "text": "でっかいな!",
+      "language": "ja"
+    }
+  ],
+  "full_text": "さあ、パーセントを横に並べてきた 空中ニュートラルを当てていきたい どこにそのチャンスを見出す? ヤシの木に一撃がある これは上スマが当たるね でっかいな!",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "original": "ケーキ",
+      "corrected": "きた",
+      "reason": "文脈に合わせた修正"
+    },
+    {
+      "original": "ヤシコフに一族がある",
+      "corrected": "ヤシの木に一撃がある",
+      "reason": "Steveのヤシの木（素材）と一撃"
+    },
+    {
+      "original": "ベスメスが当たるね",
+      "corrected": "上スマが当たるね",
+      "reason": "上スマッシュ（kill move）"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "id": "190cf2c0-85d8-47f7-9aaf-5ac1fcf18aab",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Even the ledge flip kick...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "もう崖端のフリップキックでも"
+    },
+    {
+      "start": 2.0,
+      "end": 3.38,
+      "text": "Yeah...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "うーっとですよ"
+    },
+    {
+      "start": 3.38,
+      "end": 5.38,
+      "text": "There! Shield's up here too!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "どうだ!ここもシールド張っている!"
+    },
+    {
+      "start": 6.64,
+      "end": 7.94,
+      "text": "Going for that banana...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "何かバナナ引っ掛けたいが"
+    },
+    {
+      "start": 7.94,
+      "end": 9.96,
+      "text": "With the parry!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ジャストシールドで"
+    },
+    {
+      "start": 9.96,
+      "end": 11.02,
+      "text": "Takes it!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "取っていったところ"
+    },
+    {
+      "start": 11.02,
+      "end": 13.02,
+      "text": "Perfect read!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "狙いかかったし"
+    }
+  ],
+  "full_text": "Even the ledge flip kick... Yeah... There! Shield's up here too! Going for that banana... With the parry! Takes it! Perfect read!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "もうガキハチのフリップキックでも",
+      "corrected": "もう崖端のフリップキックでも",
+      "rule": "Kanji homophone: ガキハチ→崖端"
+    },
+    {
+      "segment_idx": 3,
+      "original": "何かバラの引っ掛けたいが",
+      "corrected": "何かバナナ引っ掛けたいが",
+      "rule": "Smash term: バラ→バナナ (Diddy Kong's banana)"
+    }
+  ]
+}

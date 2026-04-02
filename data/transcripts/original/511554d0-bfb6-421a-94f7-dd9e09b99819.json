@@ -1,0 +1,27 @@
+{
+  "id": "511554d0-bfb6-421a-94f7-dd9e09b99819",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.9,
+      "text": "2爆はさすがに計算外でしたね",
+      "language": "ja"
+    },
+    {
+      "start": 1.9,
+      "end": 4.34,
+      "text": "これはちょっと暴発っぽかったかな",
+      "language": "ja"
+    }
+  ],
+  "full_text": "2爆はさすがに計算外でしたね これはちょっと暴発っぽかったかな",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "計算会",
+      "corrected": "計算外",
+      "rule": "kanji homophone: 会→外"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "82bbe55c-c0bf-42b8-bce9-17f697abbb38",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Power, closing distance, neutral spacing game",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "力、間合いを詰めて、一段ブロックの差し合い"
+    },
+    {
+      "start": 2.0,
+      "end": 5.0,
+      "text": "Hitting with that up air tipper, eliminating risk",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空中上の先端で触って、リスクを無くしていく"
+    },
+    {
+      "start": 6.0,
+      "end": 9.0,
+      "text": "Observing from crouch, doesn't want to engage near the platform",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "しゃがみ様子見から、作業台の近くでは戦いたくない"
+    },
+    {
+      "start": 9.0,
+      "end": 12.0,
+      "text": "Cornering at the ledge, and Acola is seeing it!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "崖に追い詰めて、あcolaがこれを確認している!"
+    }
+  ],
+  "full_text": "Power, closing distance, neutral spacing game Hitting with that up air tipper, eliminating risk Observing from crouch, doesn't want to engage near the platform Cornering at the ledge, and Acola is seeing it!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "宇宙城の先端で触って、リスクを無くしていく",
+      "corrected": "空中上の先端で触って、リスクを無くしていく",
+      "rule": "move name homophone"
+    },
+    {
+      "segment_idx": 3,
+      "original": "ガキに追い詰めて、サイクロブスがこれを確認している!",
+      "corrected": "崖に追い詰めて、あcolaがこれを確認している!",
+      "rule": "Whisper mishearing + player name"
+    }
+  ]
+}

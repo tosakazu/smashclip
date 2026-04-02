@@ -1,0 +1,17 @@
+{
+  "id": "b4ca0447-4478-4fc2-9ee7-3d5f63c9ce9a",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.48,
+      "text": "Well, things are looking a bit more even in this match now!",
+      "language": "en",
+      "original_language": "es",
+      "original_text": "Bueno, aquí me parece que la partida está un poquito más igualada, ¿eh?"
+    }
+  ],
+  "full_text": "Well, things are looking a bit more even in this match now!",
+  "detected_language": "en",
+  "original_language": "es",
+  "corrections": []
+}

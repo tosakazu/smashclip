@@ -1,0 +1,48 @@
+{
+  "id": "5c828c96-a4d6-4688-a667-17f61dffd927",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.54,
+      "text": "In the air at 143%!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空中にいたのかとって143%"
+    },
+    {
+      "start": 3.54,
+      "end": 4.82,
+      "text": "Once it's come to this...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "もうここまで来たら"
+    },
+    {
+      "start": 4.82,
+      "end": 6.8,
+      "text": "Gotta commit! Forward tilt from Yonepi!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "行くしかないぞヨネピ横強で通して"
+    },
+    {
+      "start": 6.8,
+      "end": 8.56,
+      "text": "26 to 0!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "26%対0%"
+    }
+  ],
+  "full_text": "In the air at 143%! Once it's come to this... Gotta commit! Forward tilt from Yonepi! 26 to 0!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "ヨネピヨコキョで通して",
+      "corrected": "ヨネピ横強で通して",
+      "rule": "move name"
+    }
+  ]
+}

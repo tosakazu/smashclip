@@ -1,0 +1,27 @@
+{
+  "id": "c3265352-e433-4e73-a055-63fbe851b0ee",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.4,
+      "text": "きくざかり村人の復帰もとても綺麗 本当にルート様々",
+      "language": "ja"
+    },
+    {
+      "start": 6.4,
+      "end": 10.76,
+      "text": "村人と、おっとここは空中レトロが",
+      "language": "ja"
+    }
+  ],
+  "full_text": "きくざかり村人の復帰もとても綺麗 本当にルート様々 村人と、おっとここは空中レトロが",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "キクザカリ",
+      "corrected": "きくざかり",
+      "rule": "player name"
+    }
+  ]
+}

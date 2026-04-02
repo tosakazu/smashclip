@@ -1,0 +1,72 @@
+{
+  "id": "418e5172-58fd-4e90-accc-5a9fe3dc44eb",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.96,
+      "text": "This is how Ken plays",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ないのがこのケンという男"
+    },
+    {
+      "start": 0.96,
+      "end": 1.72,
+      "text": "Dash attack",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ダッシュアタック"
+    },
+    {
+      "start": 1.72,
+      "end": 2.82,
+      "text": "Approaches",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "差し込んで"
+    },
+    {
+      "start": 2.82,
+      "end": 4.46,
+      "text": "Sends him ledgeward",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "崖を吸わせる"
+    },
+    {
+      "start": 4.46,
+      "end": 5.76,
+      "text": "Catches with up air",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空中上で拾って"
+    },
+    {
+      "start": 5.76,
+      "end": 7.66,
+      "text": "Up air into back air",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "もう一台空中上空中後ろ"
+    },
+    {
+      "start": 7.66,
+      "end": 8.9,
+      "text": "But the whistle",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "だったんですが笛を"
+    }
+  ],
+  "full_text": "This is how Ken plays Dash attack Approaches Sends him ledgeward Catches with up air Up air into back air But the whistle",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "ケント",
+      "corrected": "ケン",
+      "rule": "player name: KEN = ケン"
+    }
+  ]
+}

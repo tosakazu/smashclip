@@ -1,0 +1,69 @@
+{
+  "id": "b0b6a149-1b61-499a-ad17-c348e9cae7f5",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.16,
+      "text": "しかし崖の読み合いになる前に上を叩いていく",
+      "language": "ja"
+    },
+    {
+      "start": 2.16,
+      "end": 3.02,
+      "text": "いやーやってましたね",
+      "language": "ja"
+    },
+    {
+      "start": 3.02,
+      "end": 3.68,
+      "text": "釣りましたね",
+      "language": "ja"
+    },
+    {
+      "start": 3.68,
+      "end": 4.08,
+      "text": "釣りました",
+      "language": "ja"
+    },
+    {
+      "start": 4.08,
+      "end": 6.54,
+      "text": "なるほど横Bで狩りに来るのはもう見た",
+      "language": "ja"
+    },
+    {
+      "start": 6.54,
+      "end": 8.24,
+      "text": "2度は通じん",
+      "language": "ja"
+    },
+    {
+      "start": 8.24,
+      "end": 9.1,
+      "text": "そんな感じか",
+      "language": "ja"
+    },
+    {
+      "start": 9.1,
+      "end": 10.32,
+      "text": "しかし強気に行く",
+      "language": "ja"
+    }
+  ],
+  "full_text": "しかし崖の読み合いになる前に上を叩いていく いやーやってましたね 釣りましたね 釣りました なるほど横Bで狩りに来るのはもう見た 2度は通じん そんな感じか しかし強気に行く",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "しかしの読み合いになる前上を叩いていく",
+      "corrected": "しかし崖の読み合いになる前に上を叩いていく",
+      "rule": "context correction"
+    },
+    {
+      "segment_idx": 4,
+      "original": "横ビーで狩りに来る",
+      "corrected": "横Bで狩りに来る",
+      "rule": "move abbreviation (横B)"
+    }
+  ]
+}

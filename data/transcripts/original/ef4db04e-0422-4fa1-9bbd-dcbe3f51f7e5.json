@@ -1,0 +1,44 @@
+{
+  "id": "ef4db04e-0422-4fa1-9bbd-dcbe3f51f7e5",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.8,
+      "text": "羽が生えたぞ",
+      "language": "ja"
+    },
+    {
+      "start": 1.8,
+      "end": 3.3,
+      "text": "いやー",
+      "language": "ja"
+    },
+    {
+      "start": 3.3,
+      "end": 6.02,
+      "text": "掴みかければいい",
+      "language": "ja"
+    },
+    {
+      "start": 6.02,
+      "end": 7.42,
+      "text": "うわー素晴らしい",
+      "language": "ja"
+    },
+    {
+      "start": 7.42,
+      "end": 9.14,
+      "text": "いやー",
+      "language": "ja"
+    },
+    {
+      "start": 9.14,
+      "end": 10.7,
+      "text": "さあ前進していったら",
+      "language": "ja"
+    }
+  ],
+  "full_text": "羽が生えたぞ いやー 掴みかければいい うわー素晴らしい いやー さあ前進していったら",
+  "detected_language": "ja",
+  "corrections": []
+}

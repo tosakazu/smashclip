@@ -1,0 +1,84 @@
+{
+  "id": "9bbb17a5-ac6b-4818-b56a-09df9afa4fca",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.8,
+      "text": "Witch Time is still way too easy to land against that",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そこに対してはやはりウィッチタイムが刺さりやすい"
+    },
+    {
+      "start": 3.8,
+      "end": 6.8,
+      "text": "And Bayonetta's main approach option",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そしてやっぱりベヨネッタ側のメインの差し込み択"
+    },
+    {
+      "start": 6.8,
+      "end": 8.72,
+      "text": "The aerial side B",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空中での横Bっていうのが"
+    },
+    {
+      "start": 8.72,
+      "end": 10.56,
+      "text": "for the gap-close",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "での差し込みっていうのに"
+    },
+    {
+      "start": 10.56,
+      "end": 11.96,
+      "text": "Even with this, she wins",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これでも勝つ"
+    },
+    {
+      "start": 11.96,
+      "end": 13.7,
+      "text": "Amazingly with down smash!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "なんと下スマッシュで"
+    },
+    {
+      "start": 13.7,
+      "end": 14.78,
+      "text": "Even with that!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これでも"
+    }
+  ],
+  "full_text": "Witch Time is still way too easy to land against that And Bayonetta's main approach option The aerial side B for the gap-close Even with this, she wins Amazingly with down smash! Even with that!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "ベオネット側のメインの差し込みタク",
+      "corrected": "ベヨネッタ側のメインの差し込み択",
+      "rule": "character name + Whisper misheard"
+    },
+    {
+      "segment_idx": 2,
+      "original": "宇宙での横B",
+      "corrected": "空中での横B",
+      "rule": "宇宙→空中 Whisper pattern"
+    },
+    {
+      "segment_idx": 5,
+      "original": "4スコアスマッシュ",
+      "corrected": "下スマッシュ",
+      "rule": "Whisper misheard move name"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "id": "16dbcaee-499a-4f74-8c11-e1267eacc310",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.12,
+      "text": "ここは当たらず",
+      "language": "ja"
+    },
+    {
+      "start": 2.12,
+      "end": 5.0,
+      "text": "怖すぎ怖すぎ",
+      "language": "ja"
+    },
+    {
+      "start": 5.0,
+      "end": 6.16,
+      "text": "うまい",
+      "language": "ja"
+    },
+    {
+      "start": 6.16,
+      "end": 7.52,
+      "text": "空上できる間に合ってる",
+      "language": "ja"
+    },
+    {
+      "start": 7.52,
+      "end": 9.68,
+      "text": "まだ大丈夫",
+      "language": "ja"
+    },
+    {
+      "start": 9.68,
+      "end": 12.64,
+      "text": "どっちか先に来てくれ",
+      "language": "ja"
+    },
+    {
+      "start": 12.64,
+      "end": 14.18,
+      "text": "ジャスガ取って",
+      "language": "ja"
+    },
+    {
+      "start": 14.18,
+      "end": 16.84,
+      "text": "後ろ側にいたはずだ",
+      "language": "ja"
+    },
+    {
+      "start": 16.84,
+      "end": 17.88,
+      "text": "後ろにいた",
+      "language": "ja"
+    }
+  ],
+  "full_text": "ここは当たらず 怖すぎ怖すぎ うまい 空上できる間に合ってる まだ大丈夫 どっちか先に来てくれ ジャスガ取って 後ろ側にいたはずだ 後ろにいた",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 3,
+      "original": "想像できる間に合ってる",
+      "corrected": "空上できる間に合ってる",
+      "rule": "Kanji homophone: 想像→空上 (up air)"
+    },
+    {
+      "segment_idx": 6,
+      "original": "ジャスカ取って",
+      "corrected": "ジャスガ取って",
+      "rule": "Smash term: ジャスカ→ジャスガ (just guard)"
+    }
+  ]
+}

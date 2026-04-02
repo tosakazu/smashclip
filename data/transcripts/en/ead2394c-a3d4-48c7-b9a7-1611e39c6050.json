@@ -1,0 +1,62 @@
+{
+  "id": "ead2394c-a3d4-48c7-b9a7-1611e39c6050",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.8,
+      "text": "This is",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これは"
+    },
+    {
+      "start": 0.8,
+      "end": 4.02,
+      "text": "a turnaround aerial after confirming the landing",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "着地を確認しての回し蹴り"
+    },
+    {
+      "start": 4.02,
+      "end": 5.78,
+      "text": "with the auto-turnaround working out perfectly",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "自動振り向きがうまいように"
+    },
+    {
+      "start": 5.78,
+      "end": 6.54,
+      "text": "but",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "作用したが"
+    },
+    {
+      "start": 6.54,
+      "end": 7.36,
+      "text": "it's still just a landing at the end of the day",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "着地ではあろうと"
+    }
+  ],
+  "full_text": "This is a turnaround aerial after confirming the landing with the auto-turnaround working out perfectly but it's still just a landing at the end of the day",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "試着を確認しての",
+      "corrected": "着地を確認しての",
+      "rule": "kanji homophone: 試着→着地"
+    },
+    {
+      "segment_idx": 4,
+      "original": "試着でありようと",
+      "corrected": "着地ではあろうと",
+      "rule": "kanji homophone: 試着→着地"
+    }
+  ]
+}

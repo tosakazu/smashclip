@@ -1,0 +1,17 @@
+{
+  "id": "21a3262a-63ab-4195-b98a-38230d7ce4e0",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 15.34,
+      "text": "Second up smash!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "2回目の上スマッシュ"
+    }
+  ],
+  "full_text": "Second up smash!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

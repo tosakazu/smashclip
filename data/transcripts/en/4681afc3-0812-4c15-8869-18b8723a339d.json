@@ -1,0 +1,25 @@
+{
+  "id": "4681afc3-0812-4c15-8869-18b8723a339d",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.14,
+      "text": "Ten-hit string, zero fear! At 130% we're already bringing the spiky ball to attempt to...",
+      "language": "en",
+      "original_language": "es",
+      "original_text": "de los 10 golpes, cero miedo, 130% que ya estamos teniendo la bola de pinchos para intentar"
+    },
+    {
+      "start": 5.14,
+      "end": 10.82,
+      "text": "...take it away, flipping with card one, 140% and once more with the bite!",
+      "language": "en",
+      "original_language": "es",
+      "original_text": "hacerlo de quitar, dándole la vuelta con la carta del 1, 140% y otra vez con la mordida"
+    }
+  ],
+  "full_text": "Ten-hit string, zero fear! At 130% we're already bringing the spiky ball to attempt to... ...take it away, flipping with card one, 140% and once more with the bite!",
+  "detected_language": "en",
+  "original_language": "es",
+  "corrections": []
+}

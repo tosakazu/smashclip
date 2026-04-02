@@ -1,0 +1,45 @@
+{
+  "id": "c13f40b8-fc60-40b2-b6ae-bb1653efe67b",
+  "segments": [
+    {
+      "start": 0.72,
+      "end": 2.9,
+      "text": "勝負をしなければいけない状況が続く",
+      "language": "ja"
+    },
+    {
+      "start": 2.9,
+      "end": 5.86,
+      "text": "ガードめくって横強で",
+      "language": "ja"
+    },
+    {
+      "start": 5.86,
+      "end": 8.62,
+      "text": "崖はどうか",
+      "language": "ja"
+    },
+    {
+      "start": 8.62,
+      "end": 9.68,
+      "text": "ジャンプ上がりからの",
+      "language": "ja"
+    },
+    {
+      "start": 9.68,
+      "end": 11.42,
+      "text": "最速空中後ろで",
+      "language": "ja"
+    }
+  ],
+  "full_text": "勝負をしなければいけない状況が続く ガードめくって横強で 崖はどうか ジャンプ上がりからの 最速空中後ろで",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 4,
+      "original": "最速空中射で",
+      "corrected": "最速空中後ろで",
+      "rule": "smash term"
+    }
+  ]
+}

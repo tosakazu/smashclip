@@ -1,0 +1,45 @@
+{
+  "id": "8573b72c-a65d-4107-a697-2f6648fa832f",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.04,
+      "text": "上スマッシュを直接打っていきました",
+      "language": "ja"
+    },
+    {
+      "start": 4.04,
+      "end": 5.48,
+      "text": "生きのいい上スマ",
+      "language": "ja"
+    },
+    {
+      "start": 5.48,
+      "end": 8.42,
+      "text": "こういった場面を見逃さないというのが",
+      "language": "ja"
+    },
+    {
+      "start": 8.42,
+      "end": 10.74,
+      "text": "まさしく試合前に水野さんがおっしゃっていた",
+      "language": "ja"
+    },
+    {
+      "start": 10.74,
+      "end": 12.9,
+      "text": "守って守ってというところですよね",
+      "language": "ja"
+    }
+  ],
+  "full_text": "上スマッシュを直接打っていきました 生きのいい上スマ こういった場面を見逃さないというのが まさしく試合前に水野さんがおっしゃっていた 守って守ってというところですよね",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "息のいい上スマ",
+      "corrected": "生きのいい上スマ",
+      "rule": "kanji homophone (息→生き)"
+    }
+  ]
+}

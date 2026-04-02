@@ -1,0 +1,24 @@
+{
+  "id": "2ab83dbc-1be0-49ec-8619-3eb6e5939aaa",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 8.22,
+      "text": "Up B against him, reading the hitbox, 101%—no way, they're winning!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "に対しての上必殺 判定出し回避見てる 101%効きいやー勝ってかっ"
+    }
+  ],
+  "full_text": "Up B against him, reading the hitbox, 101%—no way, they're winning!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "に対しての上必殺判定だし回避見てる100 1%を書きいやーかってかっ",
+      "corrected": "に対しての上必殺 判定出し回避見てる 101%効きいやー勝ってかっ",
+      "rule": "multiple misheard words"
+    }
+  ]
+}

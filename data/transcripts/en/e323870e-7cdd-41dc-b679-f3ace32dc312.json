@@ -1,0 +1,98 @@
+{
+  "id": "e323870e-7cdd-41dc-b679-f3ace32dc312",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.24,
+      "text": "He's flying but won't get caught by the rising move—still no KO!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "落ちているのでまだ撃墜 昇竜に当たらない"
+    },
+    {
+      "start": 2.24,
+      "end": 5.72,
+      "text": "Scary, scary—who's gonna get it?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "怖い怖いどちらが"
+    },
+    {
+      "start": 5.72,
+      "end": 8.84,
+      "text": "Dair comes out, shifts the timing, pulls through!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空下来た タイミングずらす 背びれ耐えて"
+    },
+    {
+      "start": 8.84,
+      "end": 10.46,
+      "text": "Homura!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ホムラ"
+    },
+    {
+      "start": 10.46,
+      "end": 14.7,
+      "text": "Right there—Shuoton locks in the KO!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "あっとここで撃墜を決めたのはシュートンだ"
+    },
+    {
+      "start": 14.7,
+      "end": 18.04,
+      "text": "That's the moment!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここかー"
+    },
+    {
+      "start": 18.04,
+      "end": 20.88,
+      "text": "Kept pressing, kept pressing, forced the pressure!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "粘って粘ってパワーを押し付けた"
+    },
+    {
+      "start": 20.88,
+      "end": 23.22,
+      "text": "Shuoton takes control!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "制したのはシュートンです"
+    }
+  ],
+  "full_text": "He's flying but won't get caught by the rising move—still no KO! Scary, scary—who's gonna get it? Dair comes out, shifts the timing, pulls through! Homura! Right there—Shuoton locks in the KO! That's the moment! Kept pressing, kept pressing, forced the pressure! Shuoton takes control!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "通撃 省力に当たらない",
+      "corrected": "撃墜 昇竜に当たらない",
+      "rule": "kanji homophone: 撃墜, 昇竜"
+    },
+    {
+      "segment_idx": 2,
+      "original": "クジコギタイミングずらす 背びれ耐えて",
+      "corrected": "空下来た タイミングずらす 背びれ耐えて",
+      "rule": "misheard: 空下"
+    },
+    {
+      "segment_idx": 4,
+      "original": "拳銃手を決めたのはシュートンだ",
+      "corrected": "撃墜を決めたのはシュートンだ",
+      "rule": "kanji homophone: 撃墜"
+    },
+    {
+      "segment_idx": 7,
+      "original": "接戦したのはシュートンです",
+      "corrected": "制したのはシュートンです",
+      "rule": "misheard: 制した"
+    }
+  ]
+}

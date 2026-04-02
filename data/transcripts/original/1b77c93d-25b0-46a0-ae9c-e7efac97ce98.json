@@ -1,0 +1,45 @@
+{
+  "id": "1b77c93d-25b0-46a0-ae9c-e7efac97ce98",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.12,
+      "text": "ネオもカウンターという逆択を見せていく",
+      "language": "ja"
+    },
+    {
+      "start": 2.12,
+      "end": 5.86,
+      "text": "回避に対して空中前を置いとくなどっていうのは",
+      "language": "ja"
+    },
+    {
+      "start": 5.86,
+      "end": 7.48,
+      "text": "結構ゲッチ側がやりやすい",
+      "language": "ja"
+    },
+    {
+      "start": 7.48,
+      "end": 8.24,
+      "text": "はいはいはいはい",
+      "language": "ja"
+    },
+    {
+      "start": 8.24,
+      "end": 10.14,
+      "text": "おっとー!",
+      "language": "ja"
+    }
+  ],
+  "full_text": "ネオもカウンターという逆択を見せていく 回避に対して空中前を置いとくなどっていうのは 結構ゲッチ側がやりやすい はいはいはいはい おっとー!",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "ネオもカウンターという逆作を見せていく",
+      "corrected": "ネオもカウンターという逆択を見せていく",
+      "rule": "Whisper kanji homophone: 逆作→逆択"
+    }
+  ]
+}

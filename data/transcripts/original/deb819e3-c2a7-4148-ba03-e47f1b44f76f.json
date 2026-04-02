@@ -1,0 +1,93 @@
+{
+  "id": "deb819e3-c2a7-4148-ba03-e47f1b44f76f",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.16,
+      "text": "浮かせてストックを残したい",
+      "language": "ja"
+    },
+    {
+      "start": 2.16,
+      "end": 3.44,
+      "text": "ジャスガ押したが間に合わなかった",
+      "language": "ja"
+    },
+    {
+      "start": 3.44,
+      "end": 5.24,
+      "text": "NBはこれ当たらないですね",
+      "language": "ja"
+    },
+    {
+      "start": 5.24,
+      "end": 7.84,
+      "text": "2回NB狙っていきましたが",
+      "language": "ja"
+    },
+    {
+      "start": 7.84,
+      "end": 9.68,
+      "text": "ちょっと位置関係の矯正が難しかった",
+      "language": "ja"
+    },
+    {
+      "start": 9.68,
+      "end": 11.82,
+      "text": "時間を使うと上Bを待つ時間が長くなる",
+      "language": "ja"
+    },
+    {
+      "start": 11.82,
+      "end": 12.96,
+      "text": "さあどうする",
+      "language": "ja"
+    },
+    {
+      "start": 12.96,
+      "end": 13.66,
+      "text": "2度目の上B",
+      "language": "ja"
+    },
+    {
+      "start": 13.66,
+      "end": 16.12,
+      "text": "3度目の上B",
+      "language": "ja"
+    },
+    {
+      "start": 16.12,
+      "end": 19.36,
+      "text": "4度目の上B",
+      "language": "ja"
+    }
+  ],
+  "full_text": "浮かせてストックを残したい ジャスガ押したが間に合わなかった NBはこれ当たらないですね 2回NB狙っていきましたが ちょっと位置関係の矯正が難しかった 時間を使うと上Bを待つ時間が長くなる さあどうする 2度目の上B 3度目の上B 4度目の上B",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "軽くを残したい",
+      "corrected": "ストックを残したい",
+      "rule": "misheard word"
+    },
+    {
+      "segment_idx": 1,
+      "original": "ジャスが押した",
+      "corrected": "ジャスガ押した",
+      "rule": "smash term (just guard)"
+    },
+    {
+      "segment_idx": 3,
+      "original": "2枚NB",
+      "corrected": "2回NB",
+      "rule": "misheard word"
+    },
+    {
+      "segment_idx": 4,
+      "original": "強制が難しかった",
+      "corrected": "矯正が難しかった",
+      "rule": "misheard word"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "id": "d4623aeb-4ec9-4c68-9176-d71d3386c4f7",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.64,
+      "text": "No way?! KO!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "しんは、え、まさか?撃墜!"
+    },
+    {
+      "start": 4.08,
+      "end": 6.18,
+      "text": "Alright, fair meteor!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあ、切り離して、空中前メテオ"
+    },
+    {
+      "start": 6.18,
+      "end": 8.14,
+      "text": "Well, he can KO from any percent, you know",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "まあ、何パーセントからでも撃墜しますからね"
+    },
+    {
+      "start": 8.14,
+      "end": 10.22,
+      "text": "Alright, but dunk won't secure it!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあ、ダンク、撃墜してくれないぞ"
+    },
+    {
+      "start": 10.22,
+      "end": 10.64,
+      "text": "This guy...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "こいつは"
+    }
+  ],
+  "full_text": "No way?! KO! Alright, fair meteor! Well, he can KO from any percent, you know Alright, but dunk won't secure it! This guy...",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "新技は",
+      "corrected": "しんは",
+      "rule": "player name (新技→しん/Sin)"
+    },
+    {
+      "segment_idx": 3,
+      "original": "撃変してくれないぞ",
+      "corrected": "撃墜してくれないぞ",
+      "rule": "smash term (撃変→撃墜)"
+    }
+  ]
+}

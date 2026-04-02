@@ -1,0 +1,104 @@
+{
+  "id": "785a1198-e946-40f8-824b-f68f2ec5b739",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "text": "KO!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ガッシュウィル撃墜"
+    },
+    {
+      "start": 1.0,
+      "end": 2.6,
+      "text": "Ridley!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "モモンリドリー"
+    },
+    {
+      "start": 2.6,
+      "end": 3.38,
+      "text": "First stock!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ストック先制"
+    },
+    {
+      "start": 3.38,
+      "end": 6.3,
+      "text": "Takes the stock into nair!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ストック奪うから空中ニュートラル"
+    },
+    {
+      "start": 6.3,
+      "end": 8.16,
+      "text": "Fair hook!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空中前フックスとし"
+    },
+    {
+      "start": 8.16,
+      "end": 9.32,
+      "text": "Edgeguard!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "エッジガード当て"
+    },
+    {
+      "start": 9.32,
+      "end": 10.22,
+      "text": "From below!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これは下から復帰が"
+    },
+    {
+      "start": 10.22,
+      "end": 11.28,
+      "text": "Down air!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空下!"
+    }
+  ],
+  "full_text": "KO! Ridley! First stock! Takes the stock into nair! Fair hook! Edgeguard! From below! Down air!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "トップ先制",
+      "corrected": "ストック先制",
+      "rule": "whisper misrecognition"
+    },
+    {
+      "segment_idx": 3,
+      "original": "スタック用から空中ニューガール",
+      "corrected": "ストック奪うから空中ニュートラル",
+      "rule": "whisper misrecognition"
+    },
+    {
+      "segment_idx": 5,
+      "original": "エネルギー当て",
+      "corrected": "エッジガード当て",
+      "rule": "EN term (edgeguard)"
+    },
+    {
+      "segment_idx": 6,
+      "original": "回復",
+      "corrected": "復帰",
+      "rule": "smash term"
+    },
+    {
+      "segment_idx": 7,
+      "original": "宇宙戦",
+      "corrected": "空下",
+      "rule": "宇宙→空 homophone + move name"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "id": "9f03d0a2-4a90-46bd-b92f-8b5ff10c416c",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.7,
+      "text": "What's he gonna do?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあどうする"
+    },
+    {
+      "start": 0.7,
+      "end": 3.08,
+      "text": "Charging straight in!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "が結果そのまま突進してくるか"
+    },
+    {
+      "start": 3.08,
+      "end": 4.66,
+      "text": "Not committing on the mixup, Cody!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "2択なので無理はしませんクーティニー"
+    },
+    {
+      "start": 4.66,
+      "end": 6.38,
+      "text": "Airdodges to center!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "移動回避で中央に着地"
+    },
+    {
+      "start": 6.38,
+      "end": 7.82,
+      "text": "Back throw and that's the KO!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "しかし後ろ投げこれは撃墜"
+    }
+  ],
+  "full_text": "What's he gonna do? Charging straight in! Not committing on the mixup, Cody! Airdodges to center! Back throw and that's the KO!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "クーディリン",
+      "corrected": "クーティニー",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 3,
+      "original": "イヤギリ",
+      "corrected": "移動回避",
+      "rule": "smash terminology"
+    },
+    {
+      "segment_idx": 4,
+      "original": "後ろ上げ",
+      "corrected": "後ろ投げ",
+      "rule": "move name (back throw)"
+    },
+    {
+      "segment_idx": 4,
+      "original": "激推",
+      "corrected": "撃墜",
+      "rule": "kanji homophone"
+    }
+  ]
+}

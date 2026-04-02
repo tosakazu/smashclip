@@ -1,0 +1,41 @@
+{
+  "id": "f77b13ef-4043-43bf-86a7-56d5a440c7c6",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.2,
+      "text": "Steve's switching it up in Game 2",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "スティーブ、第2ゲームではちょっと変わって"
+    },
+    {
+      "start": 2.2,
+      "end": 4.1,
+      "text": "He's building walls here too",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "壁も立てているようにも見えますが"
+    },
+    {
+      "start": 4.1,
+      "end": 5.88,
+      "text": "Through the minecart—meteor!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここはトロッコ通って、メテオから"
+    },
+    {
+      "start": 5.88,
+      "end": 7.02,
+      "text": "Oh! Meteor smash!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "おー、メテオです"
+    }
+  ],
+  "full_text": "Steve's switching it up in Game 2 He's building walls here too Through the minecart—meteor! Oh! Meteor smash!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

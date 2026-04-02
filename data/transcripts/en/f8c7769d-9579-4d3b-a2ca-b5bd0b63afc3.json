@@ -1,0 +1,33 @@
+{
+  "id": "f8c7769d-9579-4d3b-a2ca-b5bd0b63afc3",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.72,
+      "text": "Taking his time, taking his time",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "じっくりじっくり"
+    },
+    {
+      "start": 1.72,
+      "end": 3.66,
+      "text": "using the clock",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "時間を使って"
+    },
+    {
+      "start": 3.66,
+      "end": 5.5,
+      "text": "Nice!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "よし"
+    }
+  ],
+  "full_text": "Taking his time, taking his time using the clock Nice!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

@@ -1,0 +1,62 @@
+{
+  "id": "d8c41e33-b062-4c72-8727-3adae4969044",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.1,
+      "text": "Alright, let's see what happens—here comes the juggle",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあどうなるかまずは着地狩り"
+    },
+    {
+      "start": 4.1,
+      "end": 5.8,
+      "text": "That's the parry",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "やはりこのジャストシールドですね"
+    },
+    {
+      "start": 5.8,
+      "end": 7.56,
+      "text": "Can't mash out",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "暴れが通りません"
+    },
+    {
+      "start": 7.56,
+      "end": 12.06,
+      "text": "If the nair or up air connects—",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "着地側の空Nや空中上が通れば"
+    },
+    {
+      "start": 12.06,
+      "end": 15.04,
+      "text": "From there they can build damage real quick as a fighter, but—",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "それを起点に一気に火力を伸ばせるファイターではあるんですが"
+    }
+  ],
+  "full_text": "Alright, let's see what happens—here comes the juggle That's the parry Can't mash out If the nair or up air connects— From there they can build damage real quick as a fighter, but—",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 3,
+      "original": "着地側の空襟や空中上が通れば",
+      "corrected": "着地側の空Nや空中上が通れば",
+      "rule": "smash notation"
+    },
+    {
+      "segment_idx": 4,
+      "original": "それを着てニッキーに火力を伸ばせるファイターではあるんですが",
+      "corrected": "それを起点に一気に火力を伸ばせるファイターではあるんですが",
+      "rule": "whisper_misrecognition"
+    }
+  ]
+}

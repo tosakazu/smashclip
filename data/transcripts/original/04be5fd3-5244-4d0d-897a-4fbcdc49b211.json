@@ -1,0 +1,51 @@
+{
+  "id": "04be5fd3-5244-4d0d-897a-4fbcdc49b211",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.34,
+      "text": "ここもカバー効いてる",
+      "language": "ja"
+    },
+    {
+      "start": 4.34,
+      "end": 6.88,
+      "text": "なるほど",
+      "language": "ja"
+    },
+    {
+      "start": 6.88,
+      "end": 9.22,
+      "text": "いやしかしそことがめちゃうの",
+      "language": "ja"
+    },
+    {
+      "start": 9.22,
+      "end": 9.96,
+      "text": "セービング入って",
+      "language": "ja"
+    },
+    {
+      "start": 9.96,
+      "end": 10.86,
+      "text": "これは昇竜系",
+      "language": "ja"
+    }
+  ],
+  "full_text": "ここもカバー効いてる なるほど いやしかしそことがめちゃうの セービング入って これは昇竜系",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 3,
+      "original": "セーリング入って",
+      "corrected": "セービング入って",
+      "rule": "misheard term"
+    },
+    {
+      "segment_idx": 4,
+      "original": "これは勝利系",
+      "corrected": "これは昇竜系",
+      "rule": "auto-rule"
+    }
+  ]
+}

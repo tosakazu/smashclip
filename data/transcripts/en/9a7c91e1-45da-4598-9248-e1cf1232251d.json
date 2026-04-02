@@ -1,0 +1,40 @@
+{
+  "id": "9a7c91e1-45da-4598-9248-e1cf1232251d",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.5,
+      "text": "Flicks it away—that was close! Wasn't quite on the ledge though.",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "はじいて、あぶな、ギリギリしてなかったよね"
+    },
+    {
+      "start": 2.5,
+      "end": 4.58,
+      "text": "Try something different, get some space!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ウィリーでどっかやれ、どっか行けよ"
+    },
+    {
+      "start": 4.58,
+      "end": 6.2,
+      "text": "Going with bair?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空後で行くか"
+    }
+  ],
+  "full_text": "Flicks it away—that was close! Wasn't quite on the ledge though. Try something different, get some space! Going with bair?",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "後ろで行くか",
+      "corrected": "空後で行くか",
+      "rule": "move abbreviation (空後=back air)"
+    }
+  ]
+}

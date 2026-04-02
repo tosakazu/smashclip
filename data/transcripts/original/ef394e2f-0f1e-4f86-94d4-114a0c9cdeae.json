@@ -1,0 +1,38 @@
+{
+  "id": "ef394e2f-0f1e-4f86-94d4-114a0c9cdeae",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.8,
+      "text": "ここはね確定反撃もありますと",
+      "language": "ja"
+    },
+    {
+      "start": 1.8,
+      "end": 3.68,
+      "text": "上強で拾って空中上",
+      "language": "ja"
+    },
+    {
+      "start": 3.68,
+      "end": 5.84,
+      "text": "さあ似たような空上を持っていますこの",
+      "language": "ja"
+    },
+    {
+      "start": 5.84,
+      "end": 6.84,
+      "text": "2キャラ",
+      "language": "ja"
+    },
+    {
+      "start": 6.84,
+      "end": 7.38,
+      "text": "えっと",
+      "language": "ja"
+    }
+  ],
+  "full_text": "ここはね確定反撃もありますと 上強で拾って空中上 さあ似たような空上を持っていますこの 2キャラ えっと",
+  "detected_language": "ja",
+  "corrections": []
+}

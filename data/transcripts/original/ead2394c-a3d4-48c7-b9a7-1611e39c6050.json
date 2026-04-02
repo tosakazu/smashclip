@@ -1,0 +1,51 @@
+{
+  "id": "ead2394c-a3d4-48c7-b9a7-1611e39c6050",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.8,
+      "text": "これは",
+      "language": "ja"
+    },
+    {
+      "start": 0.8,
+      "end": 4.02,
+      "text": "着地を確認しての回し蹴り",
+      "language": "ja"
+    },
+    {
+      "start": 4.02,
+      "end": 5.78,
+      "text": "自動振り向きがうまいように",
+      "language": "ja"
+    },
+    {
+      "start": 5.78,
+      "end": 6.54,
+      "text": "作用したが",
+      "language": "ja"
+    },
+    {
+      "start": 6.54,
+      "end": 7.36,
+      "text": "着地ではあろうと",
+      "language": "ja"
+    }
+  ],
+  "full_text": "これは 着地を確認しての回し蹴り 自動振り向きがうまいように 作用したが 着地ではあろうと",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "試着を確認しての",
+      "corrected": "着地を確認しての",
+      "rule": "kanji homophone: 試着→着地"
+    },
+    {
+      "segment_idx": 4,
+      "original": "試着でありようと",
+      "corrected": "着地ではあろうと",
+      "rule": "kanji homophone: 試着→着地"
+    }
+  ]
+}

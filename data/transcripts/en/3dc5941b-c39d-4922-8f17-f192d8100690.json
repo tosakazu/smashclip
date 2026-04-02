@@ -1,0 +1,32 @@
+{
+  "id": "3dc5941b-c39d-4922-8f17-f192d8100690",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.08,
+      "text": "His neutral revolves around short-hopping, right?",
+      "language": "en"
+    },
+    {
+      "start": 2.14,
+      "end": 5.12,
+      "text": "Short-hop there, short-hop back here, short-hop there.",
+      "language": "en"
+    },
+    {
+      "start": 5.44,
+      "end": 8.58,
+      "text": "And I feel like Fox is really good because all he really got to do is up smash.",
+      "language": "en"
+    },
+    {
+      "start": 8.98,
+      "end": 9.42,
+      "text": "That's all I got.",
+      "language": "en"
+    }
+  ],
+  "full_text": "His neutral revolves around short-hopping, right? Short-hop there, short-hop back here, short-hop there. And I feel like Fox is really good because all he really got to do is up smash. That's all I got.",
+  "detected_language": "en",
+  "corrections": []
+}

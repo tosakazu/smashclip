@@ -1,0 +1,72 @@
+{
+  "id": "e0becf86-aa54-4d7c-9ae8-f138d954ccb6",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.4,
+      "text": "Things are getting tight on the ledge...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "難しくなってくるその前にこの崖"
+    },
+    {
+      "start": 1.4,
+      "end": 2.62,
+      "text": "Can they recover?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "上がれるか"
+    },
+    {
+      "start": 2.62,
+      "end": 3.88,
+      "text": "Will they make it?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "上がれるか"
+    },
+    {
+      "start": 3.88,
+      "end": 4.96,
+      "text": "Not yet!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "まだ上がれてはいない"
+    },
+    {
+      "start": 4.96,
+      "end": 6.68,
+      "text": "Comes back from below, final stage!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "下からカーテンが返ってきた最終段です"
+    },
+    {
+      "start": 6.68,
+      "end": 9.66,
+      "text": "Fair off the stage!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここで空中前飛び落とした"
+    },
+    {
+      "start": 9.66,
+      "end": 10.04,
+      "text": "Incredible!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "見事"
+    }
+  ],
+  "full_text": "Things are getting tight on the ledge... Can they recover? Will they make it? Not yet! Comes back from below, final stage! Fair off the stage! Incredible!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 4,
+      "original": "下級が返ってきた最終弾です",
+      "corrected": "下からカーテンが返ってきた最終段です",
+      "rule": "misheard word"
+    }
+  ]
+}

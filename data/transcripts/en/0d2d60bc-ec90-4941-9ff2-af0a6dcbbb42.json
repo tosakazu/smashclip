@@ -1,0 +1,65 @@
+{
+  "id": "0d2d60bc-ec90-4941-9ff2-af0a6dcbbb42",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.68,
+      "text": "That was far!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "遠かったですね"
+    },
+    {
+      "start": 0.68,
+      "end": 3.88,
+      "text": "Not committing to anything, building more space",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "攻撃判定を出さないことでさらに遠くに逃げる"
+    },
+    {
+      "start": 3.88,
+      "end": 6.66,
+      "text": "Arsène is out!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "アルセーヌが帰宅"
+    },
+    {
+      "start": 6.66,
+      "end": 9.18,
+      "text": "Making it through that Arsène phase was",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "このアルセーヌをやり過ごしたのは"
+    },
+    {
+      "start": 9.18,
+      "end": 10.54,
+      "text": "pretty significant, but",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "かなり大きいが"
+    },
+    {
+      "start": 10.54,
+      "end": 11.94,
+      "text": "against the back air,",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空後に対して"
+    },
+    {
+      "start": 11.94,
+      "end": 12.9,
+      "text": "out of shield up smash!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ガーキャン上スマ"
+    }
+  ],
+  "full_text": "That was far! Not committing to anything, building more space Arsène is out! Making it through that Arsène phase was pretty significant, but against the back air, out of shield up smash!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "7c3a8e25-2bd9-4bb1-9ccd-d26e9c64a2e8",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.56,
+      "text": "aura where you just feel you intimidated honestly and you're more prone to making",
+      "language": "en"
+    },
+    {
+      "start": 4.56,
+      "end": 7.36,
+      "text": "mistakes because you know how good he is at covering those options",
+      "language": "en"
+    },
+    {
+      "start": 7.36,
+      "end": 11.88,
+      "text": "and the first stock",
+      "language": "en"
+    }
+  ],
+  "full_text": "aura where you just feel you intimidated honestly and you're more prone to making mistakes because you know how good he is at covering those options and the first stock",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "the first stop",
+      "corrected": "the first stock",
+      "rule": "smash term: stop→stock"
+    }
+  ]
+}

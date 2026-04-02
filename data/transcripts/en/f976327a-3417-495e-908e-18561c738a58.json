@@ -1,0 +1,27 @@
+{
+  "id": "f976327a-3417-495e-908e-18561c738a58",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.88,
+      "text": "seeing what Tea is doing in the first few games and then taking advantage putting him in those",
+      "language": "en"
+    },
+    {
+      "start": 5.88,
+      "end": 9.88,
+      "text": "situations like most of it seeing that he was rolling so much from ledge again",
+      "language": "en"
+    }
+  ],
+  "full_text": "seeing what Tea is doing in the first few games and then taking advantage putting him in those situations like most of it seeing that he was rolling so much from ledge again",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "T is",
+      "corrected": "Tea is",
+      "rule": "player name"
+    }
+  ]
+}

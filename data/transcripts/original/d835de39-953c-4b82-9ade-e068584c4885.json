@@ -1,0 +1,44 @@
+{
+  "id": "d835de39-953c-4b82-9ade-e068584c4885",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 7.14,
+      "text": "Two games now, cannot find these 130, 140 plus kills until he takes way too much damage.",
+      "language": "en"
+    },
+    {
+      "start": 7.3,
+      "end": 9.5,
+      "text": "And he hasn't even really kind of went for his, like, his bread and butter.",
+      "language": "en"
+    },
+    {
+      "start": 9.7,
+      "end": 9.92,
+      "text": "Oh!",
+      "language": "en"
+    },
+    {
+      "start": 10.52,
+      "end": 10.92,
+      "text": "Nice.",
+      "language": "en"
+    },
+    {
+      "start": 11.06,
+      "end": 11.86,
+      "text": "Okay, called that out.",
+      "language": "en"
+    },
+    {
+      "start": 11.96,
+      "end": 12.42,
+      "text": "That was smart.",
+      "language": "en"
+    }
+  ],
+  "full_text": "Two games now, cannot find these 130, 140 plus kills until he takes way too much damage. And he hasn't even really kind of went for his, like, his bread and butter. Oh! Nice. Okay, called that out. That was smart.",
+  "detected_language": "en",
+  "corrections": []
+}

@@ -1,0 +1,84 @@
+{
+  "id": "07c04c12-651d-453e-a6ac-d7904e5de849",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.88,
+      "text": "Aiming for it, Ju-san!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "狙います じゅーさん"
+    },
+    {
+      "start": 0.88,
+      "end": 1.58,
+      "text": "up air",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空中上"
+    },
+    {
+      "start": 1.58,
+      "end": 3.28,
+      "text": "Oh, jump incoming!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "おっと これはジャンプが来るで"
+    },
+    {
+      "start": 3.28,
+      "end": 4.34,
+      "text": "That was a bit scary though",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "若干怖かったが"
+    },
+    {
+      "start": 4.34,
+      "end": 5.94,
+      "text": "Let's keep the pressure on!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "逆境攻撃にやっていこう"
+    },
+    {
+      "start": 5.94,
+      "end": 7.9,
+      "text": "down smash",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "下スマッシュ"
+    },
+    {
+      "start": 7.9,
+      "end": 9.18,
+      "text": "Wait, that one...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ちょっと わぁ その"
+    }
+  ],
+  "full_text": "Aiming for it, Ju-san! up air Oh, jump incoming! That was a bit scary though Let's keep the pressure on! down smash Wait, that one...",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "狙います ギュザン",
+      "corrected": "狙います じゅーさん",
+      "rule": "Player name correction (ギュザン → じゅーさん)"
+    },
+    {
+      "segment_idx": 1,
+      "original": "途中へ",
+      "corrected": "空中上",
+      "rule": "Move abbreviation correction (途中へ → 空中上)"
+    },
+    {
+      "segment_idx": 5,
+      "original": "ジャスマッシュ",
+      "corrected": "下スマッシュ",
+      "rule": "Move name correction (ジャスマッシュ → 下スマッシュ)"
+    }
+  ]
+}

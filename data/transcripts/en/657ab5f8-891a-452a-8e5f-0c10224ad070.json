@@ -1,0 +1,86 @@
+{
+  "id": "657ab5f8-891a-452a-8e5f-0c10224ad070",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.58,
+      "text": "Yellow's range doing work",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "黄色のリーチの長さが悪さをする"
+    },
+    {
+      "start": 2.58,
+      "end": 4.24,
+      "text": "Gets the airdodge",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空中消化をした"
+    },
+    {
+      "start": 4.24,
+      "end": 4.84,
+      "text": "Down smash",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "下スマッシュ"
+    },
+    {
+      "start": 4.84,
+      "end": 5.36,
+      "text": "One more!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "もう一発"
+    },
+    {
+      "start": 5.36,
+      "end": 7.04,
+      "text": "Nair into jab, but...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空Nから弱についですが"
+    },
+    {
+      "start": 7.04,
+      "end": 7.9,
+      "text": "They jab right back",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "こちらも即座に弱"
+    },
+    {
+      "start": 7.9,
+      "end": 10.38,
+      "text": "Yellow's aerial off the throw whiff",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "投げの空振りに黄色の空中"
+    },
+    {
+      "start": 10.38,
+      "end": 10.88,
+      "text": "KO gauge",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "撃墜ゲージ"
+    }
+  ],
+  "full_text": "Yellow's range doing work Gets the airdodge Down smash One more! Nair into jab, but... They jab right back Yellow's aerial off the throw whiff KO gauge",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 4,
+      "original": "クエネから弱位置ですが",
+      "corrected": "空Nから弱についですが",
+      "rule": "move abbreviation (空N)"
+    },
+    {
+      "segment_idx": 7,
+      "original": "白ゲージ",
+      "corrected": "撃墜ゲージ",
+      "rule": "misheard word"
+    }
+  ]
+}

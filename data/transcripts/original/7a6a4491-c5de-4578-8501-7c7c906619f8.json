@@ -1,0 +1,57 @@
+{
+  "id": "7a6a4491-c5de-4578-8501-7c7c906619f8",
+  "segments": [
+    {
+      "start": 0.8,
+      "end": 2.0,
+      "text": "確かに完璧",
+      "language": "ja"
+    },
+    {
+      "start": 2.0,
+      "end": 3.58,
+      "text": "今の上スマ飛ばないんですね",
+      "language": "ja"
+    },
+    {
+      "start": 3.58,
+      "end": 4.58,
+      "text": "飛ぶと思ったんだけど",
+      "language": "ja"
+    },
+    {
+      "start": 4.58,
+      "end": 8.24,
+      "text": "飛ばない判断をしているツイーク",
+      "language": "ja"
+    },
+    {
+      "start": 8.24,
+      "end": 9.3,
+      "text": "やばい",
+      "language": "ja"
+    },
+    {
+      "start": 9.3,
+      "end": 10.46,
+      "text": "守りきりたいが",
+      "language": "ja"
+    }
+  ],
+  "full_text": "確かに完璧 今の上スマ飛ばないんですね 飛ぶと思ったんだけど 飛ばない判断をしているツイーク やばい 守りきりたいが",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "確かし",
+      "corrected": "確かに",
+      "rule": "whisper misrecognition"
+    },
+    {
+      "segment_idx": 1,
+      "original": "上様",
+      "corrected": "上スマ",
+      "rule": "上スマッシュ misheard"
+    }
+  ]
+}

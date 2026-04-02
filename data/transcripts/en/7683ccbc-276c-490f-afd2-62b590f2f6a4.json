@@ -1,0 +1,40 @@
+{
+  "id": "7683ccbc-276c-490f-afd2-62b590f2f6a4",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.02,
+      "text": "Coming off the back throw...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "なんか少し投げ後ろから"
+    },
+    {
+      "start": 3.02,
+      "end": 6.36,
+      "text": "Suddenly shifts the momentum, now Black Ship takes over!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "一気に展開を作って今度は黒船さん"
+    },
+    {
+      "start": 6.36,
+      "end": 9.52,
+      "text": "Nice move right there!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "うまー今のおりまし"
+    }
+  ],
+  "full_text": "Coming off the back throw... Suddenly shifts the momentum, now Black Ship takes over! Nice move right there!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "クレノさん",
+      "corrected": "黒船さん",
+      "rule": "player name"
+    }
+  ]
+}

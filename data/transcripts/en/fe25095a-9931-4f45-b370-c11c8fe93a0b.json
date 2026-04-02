@@ -1,0 +1,40 @@
+{
+  "id": "fe25095a-9931-4f45-b370-c11c8fe93a0b",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.96,
+      "text": "Seriously, he's destroyed!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ねマジで 壊れた"
+    },
+    {
+      "start": 2.96,
+      "end": 7.4,
+      "text": "Used it all up! The diamond's gone!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "使い切らせましたねー ダイヤなくなっちゃいましたねー"
+    },
+    {
+      "start": 7.4,
+      "end": 10.82,
+      "text": "From the ledge—what's happening?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "崖上からどうした"
+    }
+  ],
+  "full_text": "Seriously, he's destroyed! Used it all up! The diamond's gone! From the ledge—what's happening?",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "口上から",
+      "corrected": "崖上から",
+      "rule": "misheard: 口上→崖上"
+    }
+  ]
+}

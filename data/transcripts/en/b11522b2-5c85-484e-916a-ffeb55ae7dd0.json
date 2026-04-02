@@ -1,0 +1,54 @@
+{
+  "id": "b11522b2-5c85-484e-916a-ffeb55ae7dd0",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.64,
+      "text": "Insane pressure! Fair breaks through - Sephiroth launches!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "圧がすごい空中前暴れ通されて羽が生えたセフィロス"
+    },
+    {
+      "start": 3.64,
+      "end": 7.44,
+      "text": "Ledge drop fair - that's Sephiroth strength!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "なるほど崖離し空中前やはりセフィロスこれが強い"
+    },
+    {
+      "start": 7.44,
+      "end": 9.54,
+      "text": "And down smash whiffs!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そして下スマッシュをすかしで"
+    },
+    {
+      "start": 9.54,
+      "end": 13.32,
+      "text": "And forward smash KO!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そして横スマ撃墜"
+    }
+  ],
+  "full_text": "Insane pressure! Fair breaks through - Sephiroth launches! Ledge drop fair - that's Sephiroth strength! And down smash whiffs! And forward smash KO!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "セヒロス",
+      "corrected": "セフィロス",
+      "rule": "character name (Sephiroth=セフィロス)"
+    },
+    {
+      "segment_idx": 1,
+      "original": "セヒロス",
+      "corrected": "セフィロス",
+      "rule": "character name (Sephiroth=セフィロス)"
+    }
+  ]
+}

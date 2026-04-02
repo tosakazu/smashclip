@@ -1,0 +1,33 @@
+{
+  "id": "c863beca-4957-48cd-a4f4-51cce3178f64",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "He still has the diamond tools, he's not crafting anything yet.",
+      "language": "en"
+    },
+    {
+      "start": 2.3,
+      "end": 2.78,
+      "text": "Down air!",
+      "language": "en"
+    },
+    {
+      "start": 3.48,
+      "end": 3.72,
+      "text": "Check.",
+      "language": "en"
+    }
+  ],
+  "full_text": "He still has the diamond tools, he's not crafting anything yet. Down air! Check.",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "Down there",
+      "corrected": "Down air",
+      "rule": "smash term (空下/down air)"
+    }
+  ]
+}

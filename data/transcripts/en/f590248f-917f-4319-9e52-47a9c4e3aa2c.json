@@ -1,0 +1,48 @@
+{
+  "id": "f590248f-917f-4319-9e52-47a9c4e3aa2c",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.4,
+      "text": "You can read that kind of thinking",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "みたいな感じの思考が読み取れる"
+    },
+    {
+      "start": 3.4,
+      "end": 4.52,
+      "text": "fair",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空前"
+    },
+    {
+      "start": 4.52,
+      "end": 5.88,
+      "text": "bair",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空後"
+    },
+    {
+      "start": 5.88,
+      "end": 7.42,
+      "text": "Clean sourspot connection!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "根元に当たってきっちり"
+    }
+  ],
+  "full_text": "You can read that kind of thinking fair bair Clean sourspot connection!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "空中しろ",
+      "corrected": "空後",
+      "rule": "misheard: 空中しろ→空後"
+    }
+  ]
+}

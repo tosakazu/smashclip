@@ -1,0 +1,41 @@
+{
+  "id": "4a954c16-1653-4cda-be71-843bf5316443",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.56,
+      "text": "Once they lock in that kill percentage",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "一度吹っ飛ぶためのパーセントさえ確保してしまえば"
+    },
+    {
+      "start": 4.56,
+      "end": 7.46,
+      "text": "everything opens up so much better from there",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ある程度採掘もさらに良く回せるかというところですが"
+    },
+    {
+      "start": 7.46,
+      "end": 7.86,
+      "text": "This is",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これは"
+    },
+    {
+      "start": 7.86,
+      "end": 8.42,
+      "text": "perfect!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "完璧"
+    }
+  ],
+  "full_text": "Once they lock in that kill percentage everything opens up so much better from there This is perfect!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

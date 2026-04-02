@@ -1,0 +1,63 @@
+{
+  "id": "f7669852-2889-46c9-b136-594d52b03193",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.9,
+      "text": "しっかりとリスクつけるのってなかなか難しいんですよね",
+      "language": "ja"
+    },
+    {
+      "start": 1.9,
+      "end": 2.92,
+      "text": "他の択がちらつくんで",
+      "language": "ja"
+    },
+    {
+      "start": 2.92,
+      "end": 6.12,
+      "text": "上Bしたり空下したり",
+      "language": "ja"
+    },
+    {
+      "start": 6.12,
+      "end": 7.92,
+      "text": "ジャンプしたり",
+      "language": "ja"
+    },
+    {
+      "start": 7.92,
+      "end": 9.58,
+      "text": "ホーミングしたり",
+      "language": "ja"
+    },
+    {
+      "start": 9.58,
+      "end": 10.6,
+      "text": "いろんなことができますが",
+      "language": "ja"
+    },
+    {
+      "start": 10.6,
+      "end": 13.18,
+      "text": "完璧すぎません?その止め方",
+      "language": "ja"
+    }
+  ],
+  "full_text": "しっかりとリスクつけるのってなかなか難しいんですよね 他の択がちらつくんで 上Bしたり空下したり ジャンプしたり ホーミングしたり いろんなことができますが 完璧すぎません?その止め方",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "他のタッグがちらつくんで",
+      "corrected": "他の択がちらつくんで",
+      "rule": "misheard: タッグ→択"
+    },
+    {
+      "segment_idx": 4,
+      "original": "ホーリングしたり",
+      "corrected": "ホーミングしたり",
+      "rule": "misheard: ホーリング→ホーミング (Sonic move)"
+    }
+  ]
+}

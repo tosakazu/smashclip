@@ -1,0 +1,24 @@
+{
+  "id": "4ef99c85-d8c9-45f8-ba10-e11c30671d69",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 12.52,
+      "text": "Coming to the stage, coming to the stage, coming to the stage,",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ステージに乗り込むと、ステージに乗り込むと、ステージに乗り込むと、"
+    }
+  ],
+  "full_text": "Coming to the stage, coming to the stage, coming to the stage,",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "ステージに乗り込むと、ステージに乗り込むと、ステージに乗り込むと、",
+      "corrected": "ステージに乗り込むと、ステージに乗り込むと、ステージに乗り込むと、",
+      "rule": "whisper hallucination (repeated text), unable to recover original"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "7a5f2a93-9c20-416d-9031-32e2ff49431b",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.36,
+      "text": "さあメタネットという強敵を乗り越えたシンダライオン選手ですが",
+      "language": "ja"
+    },
+    {
+      "start": 5.36,
+      "end": 10.42,
+      "text": "またしてもウィナーズファイナルと同じ組み合わせ",
+      "language": "ja"
+    }
+  ],
+  "full_text": "さあメタネットという強敵を乗り越えたシンダライオン選手ですが またしてもウィナーズファイナルと同じ組み合わせ",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "ふくさし",
+      "corrected": "組み合わせ",
+      "rule": "whisper misrecognition"
+    }
+  ]
+}

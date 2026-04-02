@@ -1,0 +1,117 @@
+{
+  "id": "face6d1c-6c0b-472d-b96b-24630dc16d99",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.54,
+      "text": "1段ブロックを置き",
+      "language": "ja"
+    },
+    {
+      "start": 1.54,
+      "end": 4.06,
+      "text": "トロッコを止めてくれたか",
+      "language": "ja"
+    },
+    {
+      "start": 4.06,
+      "end": 5.3,
+      "text": "下強ベク変がいい",
+      "language": "ja"
+    },
+    {
+      "start": 5.3,
+      "end": 8.68,
+      "text": "ジャックからダッシュ攻撃につなげて",
+      "language": "ja"
+    },
+    {
+      "start": 8.68,
+      "end": 9.8,
+      "text": "ルーティンから確定ですが",
+      "language": "ja"
+    },
+    {
+      "start": 9.8,
+      "end": 11.66,
+      "text": "強気な回避上がりを通して",
+      "language": "ja"
+    },
+    {
+      "start": 11.66,
+      "end": 14.26,
+      "text": "上から落としてくる",
+      "language": "ja"
+    },
+    {
+      "start": 14.26,
+      "end": 15.6,
+      "text": "トロッコを運ばれたぞ",
+      "language": "ja"
+    },
+    {
+      "start": 15.6,
+      "end": 18.32,
+      "text": "横スマッシュニュートラル回避",
+      "language": "ja"
+    },
+    {
+      "start": 18.32,
+      "end": 18.98,
+      "text": "いい読み",
+      "language": "ja"
+    }
+  ],
+  "full_text": "1段ブロックを置き トロッコを止めてくれたか 下強ベク変がいい ジャックからダッシュ攻撃につなげて ルーティンから確定ですが 強気な回避上がりを通して 上から落としてくる トロッコを運ばれたぞ 横スマッシュニュートラル回避 いい読み",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "1段ブロックを押し",
+      "corrected": "1段ブロックを置き",
+      "rule": "misheard"
+    },
+    {
+      "segment_idx": 1,
+      "original": "トロコ",
+      "corrected": "トロッコ",
+      "rule": "typo"
+    },
+    {
+      "segment_idx": 2,
+      "original": "下強変更",
+      "corrected": "下強ベク変",
+      "rule": "smash term: 変更→ベク変"
+    },
+    {
+      "segment_idx": 3,
+      "original": "出し攻撃",
+      "corrected": "ダッシュ攻撃",
+      "rule": "misheard"
+    },
+    {
+      "segment_idx": 4,
+      "original": "ルーティンから獲得",
+      "corrected": "ルーティンから確定",
+      "rule": "misheard"
+    },
+    {
+      "segment_idx": 7,
+      "original": "トロコ",
+      "corrected": "トロッコ",
+      "rule": "typo"
+    },
+    {
+      "segment_idx": 8,
+      "original": "横すばし",
+      "corrected": "横スマッシュ",
+      "rule": "misheard"
+    },
+    {
+      "segment_idx": 9,
+      "original": "いってよみ",
+      "corrected": "いい読み",
+      "rule": "misheard"
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "id": "30580698-d584-4d69-8aec-c1f8bf55d401",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "で済んだ! 横スマッシュのカウンター!",
+      "language": "ja"
+    },
+    {
+      "start": 2.0,
+      "end": 4.0,
+      "text": "走りはしません",
+      "language": "ja"
+    },
+    {
+      "start": 4.0,
+      "end": 6.0,
+      "text": "ただでも!",
+      "language": "ja"
+    },
+    {
+      "start": 6.0,
+      "end": 8.0,
+      "text": "運が完全にらるに傾いている!",
+      "language": "ja"
+    },
+    {
+      "start": 8.0,
+      "end": 10.0,
+      "text": "これはヤバい!",
+      "language": "ja"
+    },
+    {
+      "start": 10.0,
+      "end": 12.0,
+      "text": "まずいぞ!",
+      "language": "ja"
+    },
+    {
+      "start": 12.0,
+      "end": 14.0,
+      "text": "運の勝負はらるが上を行っている",
+      "language": "ja"
+    },
+    {
+      "start": 14.0,
+      "end": 16.0,
+      "text": "実力で",
+      "language": "ja"
+    },
+    {
+      "start": 16.0,
+      "end": 18.0,
+      "text": "ラースの逆転撃!",
+      "language": "ja"
+    },
+    {
+      "start": 18.0,
+      "end": 20.0,
+      "text": "どうするか?",
+      "language": "ja"
+    },
+    {
+      "start": 20.0,
+      "end": 22.0,
+      "text": "サイクロン!これはどうだ?",
+      "language": "ja"
+    },
+    {
+      "start": 22.0,
+      "end": 24.0,
+      "text": "撃墜だ!",
+      "language": "ja"
+    }
+  ],
+  "full_text": "で済んだ! 横スマッシュのカウンター! 走りはしません ただでも! 運が完全にらるに傾いている! これはヤバい! まずいぞ! 運の勝負はらるが上を行っている 実力で ラースの逆転撃! どうするか? サイクロン!これはどうだ? 撃墜だ!",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 3,
+      "original": "ダルに",
+      "corrected": "らるに",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 6,
+      "original": "ダルが目を行っている",
+      "corrected": "らるが上を行っている",
+      "rule": "player name"
+    }
+  ]
+}

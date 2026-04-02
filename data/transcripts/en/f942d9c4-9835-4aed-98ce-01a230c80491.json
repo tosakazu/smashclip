@@ -1,0 +1,25 @@
+{
+  "id": "f942d9c4-9835-4aed-98ce-01a230c80491",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.9,
+      "text": "Oh! Confident roll getup!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "おー強気な回避上がり"
+    },
+    {
+      "start": 3.9,
+      "end": 5.7,
+      "text": "Wow, if the capsule hits, it launches upward...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "うわーこれカプセルが当たると上に上がって"
+    }
+  ],
+  "full_text": "Oh! Confident roll getup! Wow, if the capsule hits, it launches upward...",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

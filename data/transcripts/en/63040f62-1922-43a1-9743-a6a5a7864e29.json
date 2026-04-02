@@ -1,0 +1,62 @@
+{
+  "id": "63040f62-1922-43a1-9743-a6a5a7864e29",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.02,
+      "text": "No banana spacing",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "バナナがない状況"
+    },
+    {
+      "start": 2.02,
+      "end": 4.44,
+      "text": "Complete corner trap - Tweek's out!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここで詰め切りTweekアウト"
+    },
+    {
+      "start": 4.44,
+      "end": 6.96,
+      "text": "By escaping to banana side",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "バナナ側に逃げることによって"
+    },
+    {
+      "start": 6.96,
+      "end": 9.54,
+      "text": "Completely shuts down Mario's approach",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "スノーマリオのやりたい行動を潰す"
+    },
+    {
+      "start": 9.54,
+      "end": 11.14,
+      "text": "Tweek off!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "Tweekアウト"
+    }
+  ],
+  "full_text": "No banana spacing Complete corner trap - Tweek's out! By escaping to banana side Completely shuts down Mario's approach Tweek off!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "詰め切りタイクアウト",
+      "corrected": "詰め切りTweekアウト",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 4,
+      "original": "タイクアウト",
+      "corrected": "Tweekアウト",
+      "rule": "player name"
+    }
+  ]
+}

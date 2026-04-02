@@ -1,0 +1,32 @@
+{
+  "id": "67fd0c89-469b-463e-ac39-4e11b0b0085a",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 9.96,
+      "text": "What was that? They got caught by the Anvil, but that was apparently an intentional, aggressive play.",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあ先ほどは何でしょう 金床でまあ食らってしまったところですけどあえての強気だったそうですね"
+    },
+    {
+      "start": 9.96,
+      "end": 16.96,
+      "text": "And now they finally have the first stock within reach! Even if they get KO'd...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここでようやく1ストック目に手がかかります まあ撃墜されても"
+    }
+  ],
+  "full_text": "What was that? They got caught by the Anvil, but that was apparently an intentional, aggressive play. And now they finally have the first stock within reach! Even if they get KO'd...",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "強きたくそうですね",
+      "corrected": "強気だったそうですね",
+      "rule": "misheard phrase"
+    }
+  ]
+}

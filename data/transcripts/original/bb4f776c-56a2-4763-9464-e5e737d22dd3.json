@@ -1,0 +1,32 @@
+{
+  "id": "bb4f776c-56a2-4763-9464-e5e737d22dd3",
+  "segments": [
+    {
+      "start": 0.34,
+      "end": 2.66,
+      "text": "遅れて動き出そうとすると引っかかるようなね",
+      "language": "ja"
+    },
+    {
+      "start": 2.66,
+      "end": 3.8,
+      "text": "固めでしたね",
+      "language": "ja"
+    },
+    {
+      "start": 3.8,
+      "end": 6.12,
+      "text": "ストック状況は2-1",
+      "language": "ja"
+    },
+    {
+      "start": 6.12,
+      "end": 8.5,
+      "text": "くべ眠るー",
+      "language": "ja"
+    }
+  ],
+  "full_text": "遅れて動き出そうとすると引っかかるようなね 固めでしたね ストック状況は2-1 くべ眠るー",
+  "detected_language": "ja",
+  "corrections": []
+}

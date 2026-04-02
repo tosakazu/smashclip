@@ -1,0 +1,63 @@
+{
+  "id": "14fc382f-f76e-4a07-b873-29bc803ebf46",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.72,
+      "text": "I have to literally wait, and then afterwards, if anything, if you're up close and you throw it, then maybe I can at least punish.",
+      "language": "en"
+    },
+    {
+      "start": 5.84,
+      "end": 8.82,
+      "text": "Yeah, just don't jump into it. That's honestly the worst thing you can do at that moment.",
+      "language": "en"
+    },
+    {
+      "start": 9.16,
+      "end": 14.36,
+      "text": "And gets the down air, timing it perfectly, sending Kameme offstage, forcing him to go for the high recovery.",
+      "language": "en"
+    },
+    {
+      "start": 14.46,
+      "end": 17.72,
+      "text": "We're going to see that directional air dodge come through, but Glutonny ready for him.",
+      "language": "en"
+    },
+    {
+      "start": 17.8,
+      "end": 23.6,
+      "text": "Where are you going, Kameme? You were trying to go to the blast zone because this is what Glutonny loves to do, edgeguard his opponents.",
+      "language": "en"
+    }
+  ],
+  "full_text": "I have to literally wait, and then afterwards, if anything, if you're up close and you throw it, then maybe I can at least punish. Yeah, just don't jump into it. That's honestly the worst thing you can do at that moment. And gets the down air, timing it perfectly, sending Kameme offstage, forcing him to go for the high recovery. We're going to see that directional air dodge come through, but Glutonny ready for him. Where are you going, Kameme? You were trying to go to the blast zone because this is what Glutonny loves to do, edgeguard his opponents.",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "sending Kamehameha offstage",
+      "corrected": "sending Kameme offstage",
+      "rule": "Player name: Kamehameha→Kameme"
+    },
+    {
+      "segment_idx": 3,
+      "original": "but Gluttony ready for him",
+      "corrected": "but Glutonny ready for him",
+      "rule": "Player name: Gluttony→Glutonny"
+    },
+    {
+      "segment_idx": 4,
+      "original": "Where are you going, Kamehameha?",
+      "corrected": "Where are you going, Kameme?",
+      "rule": "Player name: Kamehameha→Kameme"
+    },
+    {
+      "segment_idx": 4,
+      "original": "this is what Gluttony loves to do, edge guard his opponents",
+      "corrected": "this is what Glutonny loves to do, edgeguard his opponents",
+      "rule": "Player name: Gluttony→Glutonny; Smash term: edge guard→edgeguard"
+    }
+  ]
+}

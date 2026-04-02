@@ -1,0 +1,26 @@
+{
+  "id": "9eac0536-dda1-462c-a237-e40aba9df95b",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.5,
+      "text": "スティーブ!",
+      "language": "ja"
+    },
+    {
+      "start": 3.7,
+      "end": 6.7,
+      "text": "トロッコ、取り直して空中前飛び落としていきます",
+      "language": "ja"
+    },
+    {
+      "start": 6.7,
+      "end": 8.54,
+      "text": "そして、お見事!",
+      "language": "ja"
+    }
+  ],
+  "full_text": "スティーブ! トロッコ、取り直して空中前飛び落としていきます そして、お見事!",
+  "detected_language": "ja",
+  "corrections": []
+}

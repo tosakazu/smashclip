@@ -1,0 +1,84 @@
+{
+  "id": "5c5f47e2-f4ef-4b51-a6a3-fd6bbc86787d",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.64,
+      "text": "The other options don't lead to a KO, but that meteor is the only one that can see a kill",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "他の選択肢は撃墜には至らないんですけど唯一撃墜まで見えるメテオ"
+    },
+    {
+      "start": 3.64,
+      "end": 6.4,
+      "text": "It's the difference in spacing to the KO zone around here",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "この辺りの撃墜へのゾーンの差ですね"
+    },
+    {
+      "start": 6.4,
+      "end": 8.5,
+      "text": "Fair, fair applying pressure",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空前空前圧かけて"
+    },
+    {
+      "start": 8.5,
+      "end": 13.4,
+      "text": "Setting up a strategy against the parry",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ジャスガに対して対策を張るような"
+    },
+    {
+      "start": 13.4,
+      "end": 14.86,
+      "text": "Aerial",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空中攻撃の"
+    },
+    {
+      "start": 14.86,
+      "end": 17.06,
+      "text": "This side B is probably a parry counter",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "この横Bはおそらくジャスガ対策でしょう"
+    },
+    {
+      "start": 17.06,
+      "end": 18.72,
+      "text": "There's a decent amount of lag to parry it",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "結構遅れてねジャスガするためには"
+    }
+  ],
+  "full_text": "The other options don't lead to a KO, but that meteor is the only one that can see a kill It's the difference in spacing to the KO zone around here Fair, fair applying pressure Setting up a strategy against the parry Aerial This side B is probably a parry counter There's a decent amount of lag to parry it",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "ゾーンの草",
+      "corrected": "ゾーンの差",
+      "rule": "misheard word"
+    },
+    {
+      "segment_idx": 2,
+      "original": "空母空母",
+      "corrected": "空前空前",
+      "rule": "move abbreviation"
+    },
+    {
+      "segment_idx": 5,
+      "original": "横ビーム",
+      "corrected": "横B",
+      "rule": "move abbreviation"
+    }
+  ]
+}

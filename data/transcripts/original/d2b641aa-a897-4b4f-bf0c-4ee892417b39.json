@@ -1,0 +1,32 @@
+{
+  "id": "d2b641aa-a897-4b4f-bf0c-4ee892417b39",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.8,
+      "text": "結構リードしているので",
+      "language": "ja"
+    },
+    {
+      "start": 0.8,
+      "end": 2.34,
+      "text": "という状況ですね",
+      "language": "ja"
+    },
+    {
+      "start": 2.34,
+      "end": 2.78,
+      "text": "カバーから",
+      "language": "ja"
+    },
+    {
+      "start": 2.78,
+      "end": 6.36,
+      "text": "おーそこで",
+      "language": "ja"
+    }
+  ],
+  "full_text": "結構リードしているので という状況ですね カバーから おーそこで",
+  "detected_language": "ja",
+  "corrections": []
+}

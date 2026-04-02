@@ -1,0 +1,69 @@
+{
+  "id": "07389de0-2dc4-41df-a908-af19ff5e5423",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.98,
+      "text": "結構遅れてねジャスガーするためにはガード解除しなきゃいけないので",
+      "language": "ja"
+    },
+    {
+      "start": 2.98,
+      "end": 5.16,
+      "text": "それに対してスカシ横Bで刺していきましたね",
+      "language": "ja"
+    },
+    {
+      "start": 5.16,
+      "end": 7.14,
+      "text": "カムイ横Bは面白いパーツですよね",
+      "language": "ja"
+    },
+    {
+      "start": 7.14,
+      "end": 9.32,
+      "text": "そうですねやはりスカシの選択肢にもなりますし",
+      "language": "ja"
+    },
+    {
+      "start": 9.32,
+      "end": 10.64,
+      "text": "刺し込みの選択肢にもなるといった",
+      "language": "ja"
+    },
+    {
+      "start": 10.64,
+      "end": 12.92,
+      "text": "使いやすい展開が多い",
+      "language": "ja"
+    },
+    {
+      "start": 12.92,
+      "end": 14.4,
+      "text": "あとこれは",
+      "language": "ja"
+    },
+    {
+      "start": 14.4,
+      "end": 15.02,
+      "text": "一応",
+      "language": "ja"
+    }
+  ],
+  "full_text": "結構遅れてねジャスガーするためにはガード解除しなきゃいけないので それに対してスカシ横Bで刺していきましたね カムイ横Bは面白いパーツですよね そうですねやはりスカシの選択肢にもなりますし 刺し込みの選択肢にもなるといった 使いやすい展開が多い あとこれは 一応",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "それに対してスカシヨコビーで刺していきましたね",
+      "corrected": "それに対してスカシ横Bで刺していきましたね",
+      "rule": "Move abbreviation correction (ヨコビー → 横B)"
+    },
+    {
+      "segment_idx": 2,
+      "original": "カムイヨコビーは面白いパーツですよね",
+      "corrected": "カムイ横Bは面白いパーツですよね",
+      "rule": "Move abbreviation correction (ヨコビー → 横B)"
+    }
+  ]
+}

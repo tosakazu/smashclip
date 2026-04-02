@@ -1,0 +1,26 @@
+{
+  "id": "0ab5b1a6-5a5b-45db-aaad-f566c9f8d9d1",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.66,
+      "text": "しっかりとジャストガード掴んで空前",
+      "language": "ja"
+    },
+    {
+      "start": 2.66,
+      "end": 9.02,
+      "text": "暴れをケアしながらもしかし空後をうまく出していく",
+      "language": "ja"
+    },
+    {
+      "start": 9.02,
+      "end": 12.12,
+      "text": "これはその",
+      "language": "ja"
+    }
+  ],
+  "full_text": "しっかりとジャストガード掴んで空前 暴れをケアしながらもしかし空後をうまく出していく これはその",
+  "detected_language": "ja",
+  "corrections": []
+}

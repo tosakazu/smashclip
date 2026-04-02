@@ -1,0 +1,50 @@
+{
+  "id": "4ad483f6-7fd9-4223-b9d0-4bbf61d19674",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.36,
+      "text": "行きました",
+      "language": "ja"
+    },
+    {
+      "start": 0.36,
+      "end": 1.64,
+      "text": "ガッシュですかね",
+      "language": "ja"
+    },
+    {
+      "start": 1.64,
+      "end": 4.02,
+      "text": "ここを",
+      "language": "ja"
+    },
+    {
+      "start": 4.02,
+      "end": 4.52,
+      "text": "なるほど",
+      "language": "ja"
+    },
+    {
+      "start": 4.52,
+      "end": 5.42,
+      "text": "ビホールド素晴らしい",
+      "language": "ja"
+    },
+    {
+      "start": 5.42,
+      "end": 6.04,
+      "text": "撃墜するよね",
+      "language": "ja"
+    },
+    {
+      "start": 6.04,
+      "end": 8.9,
+      "text": "向かってくるところを逆にやるような形で撃墜",
+      "language": "ja"
+    }
+  ],
+  "full_text": "行きました ガッシュですかね ここを なるほど ビホールド素晴らしい 撃墜するよね 向かってくるところを逆にやるような形で撃墜",
+  "detected_language": "ja",
+  "corrections": []
+}

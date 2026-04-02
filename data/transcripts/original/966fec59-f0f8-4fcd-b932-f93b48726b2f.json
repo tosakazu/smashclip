@@ -1,0 +1,38 @@
+{
+  "id": "966fec59-f0f8-4fcd-b932-f93b48726b2f",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.46,
+      "text": "復帰がお上手!しかしセンラ",
+      "language": "ja"
+    },
+    {
+      "start": 2.46,
+      "end": 6.08,
+      "text": "2度も3度も判定を出し続けて",
+      "language": "ja"
+    },
+    {
+      "start": 6.08,
+      "end": 10.16,
+      "text": "崖の上に安心できる場所を作りません",
+      "language": "ja"
+    },
+    {
+      "start": 10.16,
+      "end": 13.52,
+      "text": "ストック状況は2-2",
+      "language": "ja"
+    },
+    {
+      "start": 13.52,
+      "end": 16.48,
+      "text": "うますぎ!しっかり取れ!",
+      "language": "ja"
+    }
+  ],
+  "full_text": "復帰がお上手!しかしセンラ 2度も3度も判定を出し続けて 崖の上に安心できる場所を作りません ストック状況は2-2 うますぎ!しっかり取れ!",
+  "detected_language": "ja",
+  "corrections": []
+}

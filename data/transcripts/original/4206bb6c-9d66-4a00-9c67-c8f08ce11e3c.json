@@ -1,0 +1,26 @@
+{
+  "id": "4206bb6c-9d66-4a00-9c67-c8f08ce11e3c",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.5,
+      "text": "掴まれたら終わりそうなそんなパーセントには見えますが",
+      "language": "ja"
+    },
+    {
+      "start": 4.5,
+      "end": 7.56,
+      "text": "うまい",
+      "language": "ja"
+    },
+    {
+      "start": 7.56,
+      "end": 10.0,
+      "text": "下火から",
+      "language": "ja"
+    }
+  ],
+  "full_text": "掴まれたら終わりそうなそんなパーセントには見えますが うまい 下火から",
+  "detected_language": "ja",
+  "corrections": []
+}

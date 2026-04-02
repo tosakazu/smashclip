@@ -1,0 +1,33 @@
+{
+  "id": "8122af02-080a-4d15-b3dd-e206025cb7e2",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.0,
+      "text": "ガーキャン空N",
+      "language": "ja"
+    },
+    {
+      "start": 5.0,
+      "end": 7.42,
+      "text": "空N持続から空後の確定と",
+      "language": "ja"
+    }
+  ],
+  "full_text": "ガーキャン空N 空N持続から空後の確定と",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "ガーキャンクエネ",
+      "corrected": "ガーキャン空N",
+      "rule": "move abbreviation"
+    },
+    {
+      "segment_idx": 1,
+      "original": "クエネ持続から空中死の確定と",
+      "corrected": "空N持続から空後の確定と",
+      "rule": "move abbreviation + kanji homophone"
+    }
+  ]
+}

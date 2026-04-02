@@ -1,0 +1,33 @@
+{
+  "id": "e89d4a7f-bf28-424f-a6fc-6d32f500095a",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.68,
+      "text": "be the stock and up tilt will be more than enough we're starting to approach the next",
+      "language": "en"
+    },
+    {
+      "start": 3.68,
+      "end": 7.12,
+      "text": "grab from Hurt is going to be the end of the game this is a really crazy look",
+      "language": "en"
+    }
+  ],
+  "full_text": "be the stock and up tilt will be more than enough we're starting to approach the next grab from Hurt is going to be the end of the game this is a really crazy look",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "up till",
+      "corrected": "up tilt",
+      "rule": "smash term: up till→up tilt"
+    },
+    {
+      "segment_idx": 1,
+      "original": "hurt",
+      "corrected": "Hurt",
+      "rule": "player name capitalization"
+    }
+  ]
+}

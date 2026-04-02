@@ -1,0 +1,32 @@
+{
+  "id": "edb85c89-e335-4ecb-8fe4-b275b512a46f",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.0,
+      "text": "簡単にリターン取んなきゃいけないみたいなところのリターンの取り方が本当に上手ですよ",
+      "language": "ja"
+    },
+    {
+      "start": 4.0,
+      "end": 4.84,
+      "text": "おーこれ",
+      "language": "ja"
+    },
+    {
+      "start": 4.84,
+      "end": 5.72,
+      "text": "いいよー",
+      "language": "ja"
+    },
+    {
+      "start": 5.72,
+      "end": 5.86,
+      "text": "これ",
+      "language": "ja"
+    }
+  ],
+  "full_text": "簡単にリターン取んなきゃいけないみたいなところのリターンの取り方が本当に上手ですよ おーこれ いいよー これ",
+  "detected_language": "ja",
+  "corrections": []
+}

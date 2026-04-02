@@ -1,0 +1,73 @@
+{
+  "id": "f5da595b-11fa-4e24-9130-d1da4d229d38",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.46,
+      "text": "Juggle",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "着地狩り"
+    },
+    {
+      "start": 0.46,
+      "end": 3.04,
+      "text": "Caught by the bomb!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ボムに引っかかってしまった"
+    },
+    {
+      "start": 3.04,
+      "end": 3.64,
+      "text": "Fair",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空中前"
+    },
+    {
+      "start": 3.64,
+      "end": 4.36,
+      "text": "Escapes",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "抜けて"
+    },
+    {
+      "start": 4.36,
+      "end": 6.54,
+      "text": "That's where the mash-out works!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここはサムスの暴れが通る形"
+    },
+    {
+      "start": 6.54,
+      "end": 7.7,
+      "text": "Juggle",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "着地狩り"
+    },
+    {
+      "start": 7.7,
+      "end": 8.2,
+      "text": "Grabbed!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "掴んだ"
+    },
+    {
+      "start": 8.2,
+      "end": 9.36,
+      "text": "And there's the stock!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さすがに撃墜"
+    }
+  ],
+  "full_text": "Juggle Caught by the bomb! Fair Escapes That's where the mash-out works! Juggle Grabbed! And there's the stock!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

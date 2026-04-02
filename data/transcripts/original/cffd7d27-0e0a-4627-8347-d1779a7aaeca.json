@@ -1,0 +1,27 @@
+{
+  "id": "cffd7d27-0e0a-4627-8347-d1779a7aaeca",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.0,
+      "text": "easily would have been a knockout in the first two stocks or uh the first stock rather you",
+      "language": "en"
+    },
+    {
+      "start": 5.0,
+      "end": 8.74,
+      "text": "mentioned this character's life but Dabuz just keeps on living out never mind he's gone",
+      "language": "en"
+    }
+  ],
+  "full_text": "easily would have been a knockout in the first two stocks or uh the first stock rather you mentioned this character's life but Dabuz just keeps on living out never mind he's gone",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "the buzz",
+      "corrected": "Dabuz",
+      "rule": "player name"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": "c3d5f0b2-b4a2-40f4-887c-19fbe8b033d3",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "パッシュなんですが、撃墜にはいたらず",
+      "language": "ja"
+    },
+    {
+      "start": 2.0,
+      "end": 4.66,
+      "text": "起き上がりを空中前でとがめる",
+      "language": "ja"
+    },
+    {
+      "start": 4.66,
+      "end": 6.92,
+      "text": "しかしこれも反対側に飛ぶのでまだ撃墜しない",
+      "language": "ja"
+    },
+    {
+      "start": 6.92,
+      "end": 9.62,
+      "text": "さあサムスはパワードスーツの分体が重いぞ",
+      "language": "ja"
+    },
+    {
+      "start": 9.62,
+      "end": 12.22,
+      "text": "ハイドロポンプうまく当てて",
+      "language": "ja"
+    },
+    {
+      "start": 12.22,
+      "end": 13.52,
+      "text": "内から帰らざるを得ない",
+      "language": "ja"
+    }
+  ],
+  "full_text": "パッシュなんですが、撃墜にはいたらず 起き上がりを空中前でとがめる しかしこれも反対側に飛ぶのでまだ撃墜しない さあサムスはパワードスーツの分体が重いぞ ハイドロポンプうまく当てて 内から帰らざるを得ない",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "沸き上がり",
+      "corrected": "起き上がり",
+      "rule": "misheard word"
+    },
+    {
+      "segment_idx": 4,
+      "original": "タイドルポンプ",
+      "corrected": "ハイドロポンプ",
+      "rule": "misheard move name"
+    }
+  ]
+}

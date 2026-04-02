@@ -1,0 +1,65 @@
+{
+  "id": "9ef26dc9-4f5e-43f3-8e05-745cab52b3ab",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Keep extending that damage!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さらに火力を伸ばしていく!"
+    },
+    {
+      "start": 2.0,
+      "end": 3.0,
+      "text": "He won't stop!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "止まらないのか!"
+    },
+    {
+      "start": 3.0,
+      "end": 4.0,
+      "text": "What a ledge!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "なんこの崖!"
+    },
+    {
+      "start": 6.0,
+      "end": 8.0,
+      "text": "Takes the hit!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあなんとか攻撃を受けたところ!"
+    },
+    {
+      "start": 8.0,
+      "end": 10.0,
+      "text": "Forces the Shoryuken!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "昇竜拳ねじ込んだぞ!"
+    },
+    {
+      "start": 10.0,
+      "end": 12.0,
+      "text": "All that DI!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "めっちゃずらしてたのに"
+    },
+    {
+      "start": 12.0,
+      "end": 13.6,
+      "text": "Still heading down!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "下行ってたのにほら"
+    }
+  ],
+  "full_text": "Keep extending that damage! He won't stop! What a ledge! Takes the hit! Forces the Shoryuken! All that DI! Still heading down!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

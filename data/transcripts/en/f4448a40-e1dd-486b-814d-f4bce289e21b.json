@@ -1,0 +1,62 @@
+{
+  "id": "f4448a40-e1dd-486b-814d-f4bce289e21b",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.58,
+      "text": "If the timing's right and that startup invincibility doesn't get parried, the move connects!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "合っていればスピンの発生の無敵さえ合わされない限り技が当たるので"
+    },
+    {
+      "start": 4.58,
+      "end": 8.54,
+      "text": "That's where they want to build that advantage state skillfully",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "あの有利位置関係をうまく作っていきたいところですね"
+    },
+    {
+      "start": 8.54,
+      "end": 13.42,
+      "text": "Kept up the offensive pressure but couldn't seal the stock",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "エイソーと攻め立てましたが撃墜には届かず"
+    },
+    {
+      "start": 13.42,
+      "end": 14.26,
+      "text": "Even from low",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "低いでも"
+    },
+    {
+      "start": 14.26,
+      "end": 14.9,
+      "text": "Oh no!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "おーっと"
+    }
+  ],
+  "full_text": "If the timing's right and that startup invincibility doesn't get parried, the move connects! That's where they want to build that advantage state skillfully. Kept up the offensive pressure but couldn't seal the stock. Even from low. Oh no!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "優位置関係",
+      "corrected": "有利位置関係",
+      "rule": "misheard"
+    },
+    {
+      "segment_idx": 2,
+      "original": "エソと攻め立てました",
+      "corrected": "エイソーと攻め立てました",
+      "rule": "misheard"
+    }
+  ]
+}

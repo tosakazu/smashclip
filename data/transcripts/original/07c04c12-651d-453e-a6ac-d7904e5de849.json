@@ -1,0 +1,69 @@
+{
+  "id": "07c04c12-651d-453e-a6ac-d7904e5de849",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.88,
+      "text": "狙います じゅーさん",
+      "language": "ja"
+    },
+    {
+      "start": 0.88,
+      "end": 1.58,
+      "text": "空中上",
+      "language": "ja"
+    },
+    {
+      "start": 1.58,
+      "end": 3.28,
+      "text": "おっと これはジャンプが来るで",
+      "language": "ja"
+    },
+    {
+      "start": 3.28,
+      "end": 4.34,
+      "text": "若干怖かったが",
+      "language": "ja"
+    },
+    {
+      "start": 4.34,
+      "end": 5.94,
+      "text": "逆境攻撃にやっていこう",
+      "language": "ja"
+    },
+    {
+      "start": 5.94,
+      "end": 7.9,
+      "text": "下スマッシュ",
+      "language": "ja"
+    },
+    {
+      "start": 7.9,
+      "end": 9.18,
+      "text": "ちょっと わぁ その",
+      "language": "ja"
+    }
+  ],
+  "full_text": "狙います じゅーさん 空中上 おっと これはジャンプが来るで 若干怖かったが 逆境攻撃にやっていこう 下スマッシュ ちょっと わぁ その",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "狙います ギュザン",
+      "corrected": "狙います じゅーさん",
+      "rule": "Player name correction (ギュザン → じゅーさん)"
+    },
+    {
+      "segment_idx": 1,
+      "original": "途中へ",
+      "corrected": "空中上",
+      "rule": "Move abbreviation correction (途中へ → 空中上)"
+    },
+    {
+      "segment_idx": 5,
+      "original": "ジャスマッシュ",
+      "corrected": "下スマッシュ",
+      "rule": "Move name correction (ジャスマッシュ → 下スマッシュ)"
+    }
+  ]
+}

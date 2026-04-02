@@ -1,0 +1,25 @@
+{
+  "id": "03e839ee-3d5f-4265-99f5-59d929ce575c",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.76,
+      "text": "Handled the ledge with getup attack invincibility!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "攻撃上がりの無敵で崖をさばいた"
+    },
+    {
+      "start": 4.76,
+      "end": 5.68,
+      "text": "Into the grab!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "つかみに"
+    }
+  ],
+  "full_text": "Handled the ledge with getup attack invincibility! Into the grab!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

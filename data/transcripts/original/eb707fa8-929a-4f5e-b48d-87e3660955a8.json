@@ -1,0 +1,38 @@
+{
+  "id": "eb707fa8-929a-4f5e-b48d-87e3660955a8",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.12,
+      "text": "空中前",
+      "language": "ja"
+    },
+    {
+      "start": 2.12,
+      "end": 4.04,
+      "text": "しっかりとして",
+      "language": "ja"
+    },
+    {
+      "start": 4.04,
+      "end": 6.02,
+      "text": "追いかけて",
+      "language": "ja"
+    },
+    {
+      "start": 6.02,
+      "end": 7.58,
+      "text": "来る",
+      "language": "ja"
+    },
+    {
+      "start": 7.58,
+      "end": 8.84,
+      "text": "ジャンプ",
+      "language": "ja"
+    }
+  ],
+  "full_text": "空中前 しっかりとして 追いかけて 来る ジャンプ",
+  "detected_language": "ja",
+  "corrections": []
+}

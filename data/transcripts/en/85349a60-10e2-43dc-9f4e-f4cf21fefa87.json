@@ -1,0 +1,40 @@
+{
+  "id": "85349a60-10e2-43dc-9f4e-f4cf21fefa87",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.12,
+      "text": "Perfect invincibility window!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これはネイルの無敵もうまく合わせます"
+    },
+    {
+      "start": 4.12,
+      "end": 6.12,
+      "text": "KO!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "撃墜!"
+    },
+    {
+      "start": 6.12,
+      "end": 7.4,
+      "text": "The read!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ブック探知!"
+    }
+  ],
+  "full_text": "Perfect invincibility window! KO! The read!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "次つい!",
+      "corrected": "撃墜!",
+      "rule": "kanji homophone (次つい→撃墜)"
+    }
+  ]
+}

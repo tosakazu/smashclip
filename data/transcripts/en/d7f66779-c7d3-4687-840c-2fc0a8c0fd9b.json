@@ -1,0 +1,56 @@
+{
+  "id": "d7f66779-c7d3-4687-840c-2fc0a8c0fd9b",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.32,
+      "text": "That said",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "とはいえですよ"
+    },
+    {
+      "start": 2.32,
+      "end": 3.14,
+      "text": "Yeah",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そうですね"
+    },
+    {
+      "start": 3.14,
+      "end": 6.04,
+      "text": "High percentage coming!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これはパーセントが次は高いぞ"
+    },
+    {
+      "start": 6.04,
+      "end": 7.36,
+      "text": "チーコクモン",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "チーコクモン"
+    },
+    {
+      "start": 7.36,
+      "end": 8.5,
+      "text": "Just barely made it!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "間に合いきり"
+    }
+  ],
+  "full_text": "That said Yeah High percentage coming! チーコクモン Just barely made it!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 4,
+      "original": "マセキリ",
+      "corrected": "間に合いきり",
+      "rule": "whisper_misrecognition"
+    }
+  ]
+}

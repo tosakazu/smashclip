@@ -1,0 +1,51 @@
+{
+  "id": "f4448a40-e1dd-486b-814d-f4bce289e21b",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.58,
+      "text": "合っていればスピンの発生の無敵さえ合わされない限り技が当たるので",
+      "language": "ja"
+    },
+    {
+      "start": 4.58,
+      "end": 8.54,
+      "text": "あの有利位置関係をうまく作っていきたいところですね",
+      "language": "ja"
+    },
+    {
+      "start": 8.54,
+      "end": 13.42,
+      "text": "エイソーと攻め立てましたが撃墜には届かず",
+      "language": "ja"
+    },
+    {
+      "start": 13.42,
+      "end": 14.26,
+      "text": "低いでも",
+      "language": "ja"
+    },
+    {
+      "start": 14.26,
+      "end": 14.9,
+      "text": "おーっと",
+      "language": "ja"
+    }
+  ],
+  "full_text": "合っていればスピンの発生の無敵さえ合わされない限り技が当たるので あの有利位置関係をうまく作っていきたいところですね エイソーと攻め立てましたが撃墜には届かず 低いでも おーっと",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "優位置関係",
+      "corrected": "有利位置関係",
+      "rule": "misheard"
+    },
+    {
+      "segment_idx": 2,
+      "original": "エソと攻め立てました",
+      "corrected": "エイソーと攻め立てました",
+      "rule": "misheard"
+    }
+  ]
+}

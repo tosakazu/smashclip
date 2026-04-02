@@ -1,0 +1,51 @@
+{
+  "id": "f44a29c7-abb0-4708-8272-5e9853224115",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.84,
+      "text": "フォアで発生を根本かなしかも",
+      "language": "ja"
+    },
+    {
+      "start": 1.84,
+      "end": 5.62,
+      "text": "フォックスは落下が非常に早いファイターですので",
+      "language": "ja"
+    },
+    {
+      "start": 5.62,
+      "end": 7.84,
+      "text": "こういった落下してシールドみたいな",
+      "language": "ja"
+    },
+    {
+      "start": 7.84,
+      "end": 9.32,
+      "text": "強い択なんですけどね",
+      "language": "ja"
+    },
+    {
+      "start": 9.32,
+      "end": 10.0,
+      "text": "呼びかけました",
+      "language": "ja"
+    },
+    {
+      "start": 10.0,
+      "end": 10.78,
+      "text": "さあそして",
+      "language": "ja"
+    }
+  ],
+  "full_text": "フォアで発生を根本かなしかも フォックスは落下が非常に早いファイターですので こういった落下してシールドみたいな 強い択なんですけどね 呼びかけました さあそして",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 3,
+      "original": "強いタク",
+      "corrected": "強い択",
+      "rule": "katakana→kanji: タク→択"
+    }
+  ]
+}

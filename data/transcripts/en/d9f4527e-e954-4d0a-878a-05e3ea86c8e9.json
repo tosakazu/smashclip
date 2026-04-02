@@ -1,0 +1,33 @@
+{
+  "id": "d9f4527e-e954-4d0a-878a-05e3ea86c8e9",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 7.62,
+      "text": "...platforms, because Acero is at huge risk of getting completely dominated without them, so they said",
+      "language": "en",
+      "original_language": "es",
+      "original_text": "...plataformas, porque Acero tiene muchísimo peligro de comerse un 0-10, entonces ha dicho"
+    },
+    {
+      "start": 7.62,
+      "end": 13.46,
+      "text": "Alright, now that I have platforms I can approach, and of course Anish didn't capitalize on it",
+      "language": "en",
+      "original_language": "es",
+      "original_text": "vale ahora que tengo plataformas ya puedo acercarme y claro Anish no ha aprovechado"
+    },
+    {
+      "start": 13.46,
+      "end": 15.42,
+      "text": "the lack of platforms.",
+      "language": "en",
+      "original_language": "es",
+      "original_text": "la falta de plataformas."
+    }
+  ],
+  "full_text": "...platforms, because Acero is at huge risk of getting completely dominated without them, so they said Alright, now that I have platforms I can approach, and of course Anish didn't capitalize on it the lack of platforms.",
+  "detected_language": "en",
+  "original_language": "es",
+  "corrections": []
+}

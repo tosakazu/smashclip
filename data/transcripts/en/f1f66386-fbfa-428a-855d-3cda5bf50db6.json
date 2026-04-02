@@ -1,0 +1,86 @@
+{
+  "id": "f1f66386-fbfa-428a-855d-3cda5bf50db6",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.64,
+      "text": "Grab range here—can take him with the throw!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "掴みの領域ここは投げで取れ"
+    },
+    {
+      "start": 2.64,
+      "end": 4.86,
+      "text": "Even though Riddles is forced up on this side...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "無理やりリドルズ側崖上がっているのに"
+    },
+    {
+      "start": 4.86,
+      "end": 6.4,
+      "text": "He's recovering so clean!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "めちゃめちゃ上手く上がっているの"
+    },
+    {
+      "start": 6.4,
+      "end": 8.16,
+      "text": "Yeah, seriously...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "結構ね"
+    },
+    {
+      "start": 8.16,
+      "end": 11.24,
+      "text": "Not going back to ledge...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "崖を返さずに"
+    },
+    {
+      "start": 11.24,
+      "end": 11.88,
+      "text": "He's moving forward because...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "行っているから"
+    },
+    {
+      "start": 11.88,
+      "end": 13.94,
+      "text": "Looks like he should get edgeguarded, but he's avoiding everything!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "狩られそうと思いながら全部狩られていない"
+    },
+    {
+      "start": 13.94,
+      "end": 15.76,
+      "text": "There we go!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "来たー"
+    }
+  ],
+  "full_text": "Grab range here—can take him with the throw! Even though Riddles is forced up on this side... He's recovering so clean! Yeah, seriously... Not going back to ledge... He's moving forward because... Looks like he should get edgeguarded, but he's avoiding everything! There we go!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "組合の領域",
+      "corrected": "掴みの領域",
+      "rule": "misheard: 組合→掴み"
+    },
+    {
+      "segment_idx": 6,
+      "original": "かられそう",
+      "corrected": "狩られそう",
+      "rule": "kanji"
+    }
+  ]
+}

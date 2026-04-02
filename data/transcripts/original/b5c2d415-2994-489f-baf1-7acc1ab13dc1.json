@@ -1,0 +1,63 @@
+{
+  "id": "b5c2d415-2994-489f-baf1-7acc1ab13dc1",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.2,
+      "text": "前に出るのはリムかいやエリトラで帰ってくるは追いかける",
+      "language": "ja"
+    },
+    {
+      "start": 4.2,
+      "end": 6.36,
+      "text": "鉄が無いしすま村が生きてますね",
+      "language": "ja"
+    },
+    {
+      "start": 6.36,
+      "end": 7.88,
+      "text": "なるほどうますぎる",
+      "language": "ja"
+    },
+    {
+      "start": 7.88,
+      "end": 11.32,
+      "text": "金も金をとってアコーラの復帰は自由だ",
+      "language": "ja"
+    },
+    {
+      "start": 11.32,
+      "end": 14.96,
+      "text": "どこから帰る斜め上から帰る",
+      "language": "ja"
+    },
+    {
+      "start": 14.96,
+      "end": 16.98,
+      "text": "あったここにまさかの",
+      "language": "ja"
+    }
+  ],
+  "full_text": "前に出るのはリムかいやエリトラで帰ってくるは追いかける 鉄が無いしすま村が生きてますね なるほどうますぎる 金も金をとってアコーラの復帰は自由だ どこから帰る斜め上から帰る あったここにまさかの",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "手継がないし",
+      "corrected": "鉄が無いし",
+      "rule": "misheard word"
+    },
+    {
+      "segment_idx": 1,
+      "original": "スマムラ",
+      "corrected": "すま村",
+      "rule": "stage name"
+    },
+    {
+      "segment_idx": 3,
+      "original": "今日も今日をとって",
+      "corrected": "金も金をとって",
+      "rule": "misheard word"
+    }
+  ]
+}

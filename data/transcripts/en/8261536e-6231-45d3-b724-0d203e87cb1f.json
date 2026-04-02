@@ -1,0 +1,72 @@
+{
+  "id": "8261536e-6231-45d3-b724-0d203e87cb1f",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.78,
+      "text": "Still, that's an excellent out-of-shield move",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "それでも優秀なガーキャン技であることには変わりないでしょう"
+    },
+    {
+      "start": 3.78,
+      "end": 5.08,
+      "text": "Forces the neutral airdodge",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空中ネタル回避させて"
+    },
+    {
+      "start": 5.08,
+      "end": 6.72,
+      "text": "Edgeguards with Elwind",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "エルウィンドで復帰阻止"
+    },
+    {
+      "start": 6.72,
+      "end": 7.98,
+      "text": "No double jump though",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ジャンプもないが"
+    },
+    {
+      "start": 7.98,
+      "end": 9.96,
+      "text": "Still recovers with the tipper!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "なんとか先端で帰ってくる"
+    },
+    {
+      "start": 9.96,
+      "end": 10.88,
+      "text": "Incredible!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "うまいですね"
+    },
+    {
+      "start": 10.88,
+      "end": 12.72,
+      "text": "But...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "しかし"
+    }
+  ],
+  "full_text": "Still, that's an excellent out-of-shield move Forces the neutral airdodge Edgeguards with Elwind No double jump though Still recovers with the tipper! Incredible! But...",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "エルビンと復帰阻止",
+      "corrected": "エルウィンドで復帰阻止",
+      "rule": "character move name"
+    }
+  ]
+}

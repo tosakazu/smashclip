@@ -1,0 +1,39 @@
+{
+  "id": "2db94698-1cee-4f2c-a4fd-2a9eb0484d84",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.24,
+      "text": "急降下脱出して再び時間を使ってラス",
+      "language": "ja"
+    },
+    {
+      "start": 4.24,
+      "end": 5.76,
+      "text": "飛び込んでくるがミヤ",
+      "language": "ja"
+    },
+    {
+      "start": 5.76,
+      "end": 8.16,
+      "text": "ここで飛び落としてきた",
+      "language": "ja"
+    }
+  ],
+  "full_text": "急降下脱出して再び時間を使ってラス 飛び込んでくるがミヤ ここで飛び落としてきた",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "救急脱出して",
+      "corrected": "急降下脱出して",
+      "rule": "Whisper misrecognition"
+    },
+    {
+      "segment_idx": 1,
+      "original": "ミア",
+      "corrected": "ミヤ",
+      "rule": "player name"
+    }
+  ]
+}

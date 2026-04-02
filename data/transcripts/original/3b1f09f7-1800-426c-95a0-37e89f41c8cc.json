@@ -1,0 +1,57 @@
+{
+  "id": "3b1f09f7-1800-426c-95a0-37e89f41c8cc",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.12,
+      "text": "さあ、ドンキーコングの重さとポケモンスタジアム2の横の広さなら",
+      "language": "ja"
+    },
+    {
+      "start": 3.12,
+      "end": 4.32,
+      "text": "えぇ!?",
+      "language": "ja"
+    },
+    {
+      "start": 4.32,
+      "end": 5.42,
+      "text": "えぇ!?",
+      "language": "ja"
+    },
+    {
+      "start": 5.42,
+      "end": 6.54,
+      "text": "あ、まあさすがに",
+      "language": "ja"
+    },
+    {
+      "start": 6.54,
+      "end": 7.44,
+      "text": "え?え?",
+      "language": "ja"
+    },
+    {
+      "start": 7.86,
+      "end": 8.48,
+      "text": "なに?なんか",
+      "language": "ja"
+    },
+    {
+      "start": 8.48,
+      "end": 9.96,
+      "text": "わーちょっと崖を掴まない",
+      "language": "ja"
+    }
+  ],
+  "full_text": "さあ、ドンキーコングの重さとポケモンスタジアム2の横の広さなら えぇ!? えぇ!? あ、まあさすがに え?え? なに?なんか わーちょっと崖を掴まない",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 6,
+      "original": "崖をつかない",
+      "corrected": "崖を掴まない",
+      "rule": "misheard word"
+    }
+  ]
+}

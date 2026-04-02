@@ -1,0 +1,110 @@
+{
+  "id": "97a26726-aabe-4ccb-bcb4-797bb9774444",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.18,
+      "text": "The momentum is dying here",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "なんか調子が潰れてる感じだから"
+    },
+    {
+      "start": 2.18,
+      "end": 2.5,
+      "text": "Yeah",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そう"
+    },
+    {
+      "start": 2.5,
+      "end": 5.12,
+      "text": "This is honestly really difficult",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "本当に難しいと思うんですが"
+    },
+    {
+      "start": 5.12,
+      "end": 6.46,
+      "text": "Oh here we go!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "あー行きやがるよ"
+    },
+    {
+      "start": 6.46,
+      "end": 7.8,
+      "text": "Up air anti-air",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空中上対空"
+    },
+    {
+      "start": 7.8,
+      "end": 8.34,
+      "text": "That's not anti-air",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "対空じゃない"
+    },
+    {
+      "start": 8.34,
+      "end": 11.14,
+      "text": "Up air from ground beats the recovery!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "地上で空中上登りに当たるの良さそうです"
+    },
+    {
+      "start": 11.14,
+      "end": 12.04,
+      "text": "Yeah that's right",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そうだね"
+    },
+    {
+      "start": 12.04,
+      "end": 13.98,
+      "text": "One hit lands",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "一発が出てる"
+    },
+    {
+      "start": 13.98,
+      "end": 16.18,
+      "text": "Barely hanging on",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これ耐えるかギリギリ"
+    },
+    {
+      "start": 16.18,
+      "end": 17.66,
+      "text": "Oh it connects!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "えー当たっちゃ"
+    }
+  ],
+  "full_text": "The momentum is dying here Yeah This is honestly really difficult Oh here we go! Up air anti-air That's not anti-air Up air from ground beats the recovery! Yeah that's right One hit lands Barely hanging on Oh it connects!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 8,
+      "original": "人型が出てる",
+      "corrected": "一発が出てる",
+      "rule": "misheard word"
+    },
+    {
+      "segment_idx": 9,
+      "original": "これ垂れるかギリギリ",
+      "corrected": "これ耐えるかギリギリ",
+      "rule": "misheard word (垂れる→耐える)"
+    }
+  ]
+}

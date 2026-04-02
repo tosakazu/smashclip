@@ -1,0 +1,41 @@
+{
+  "id": "5a6901ae-1da5-45ad-b761-b3cec7a4e267",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.6,
+      "text": "For the opening approach",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "最初の攻略として"
+    },
+    {
+      "start": 2.6,
+      "end": 5.8,
+      "text": "looking to exploit this, but",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここを狙っていきたいですが"
+    },
+    {
+      "start": 5.8,
+      "end": 6.62,
+      "text": "There we go!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "よかった"
+    },
+    {
+      "start": 6.62,
+      "end": 8.14,
+      "text": "Clean hit!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "完璧ヒット確認"
+    }
+  ],
+  "full_text": "For the opening approach looking to exploit this, but There we go! Clean hit!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

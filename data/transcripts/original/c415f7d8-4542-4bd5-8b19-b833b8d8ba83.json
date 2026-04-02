@@ -1,0 +1,57 @@
+{
+  "id": "c415f7d8-4542-4bd5-8b19-b833b8d8ba83",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.02,
+      "text": "アバレの判定が勝った",
+      "language": "ja"
+    },
+    {
+      "start": 1.02,
+      "end": 4.12,
+      "text": "飛びを読んでる上スマッシュ",
+      "language": "ja"
+    },
+    {
+      "start": 4.12,
+      "end": 4.92,
+      "text": "しかしそこは",
+      "language": "ja"
+    },
+    {
+      "start": 4.92,
+      "end": 5.98,
+      "text": "おー",
+      "language": "ja"
+    },
+    {
+      "start": 5.98,
+      "end": 6.68,
+      "text": "的中したね",
+      "language": "ja"
+    },
+    {
+      "start": 6.68,
+      "end": 6.98,
+      "text": "ジャストシールド",
+      "language": "ja"
+    }
+  ],
+  "full_text": "アバレの判定が勝った 飛びを読んでる上スマッシュ しかしそこは おー 的中したね ジャストシールド",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 4,
+      "original": "逆中したね",
+      "corrected": "的中したね",
+      "rule": "misheard word"
+    },
+    {
+      "segment_idx": 5,
+      "original": "ジャストシュー",
+      "corrected": "ジャストシールド",
+      "rule": "misheard smash term"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "bc62a401-7942-41c8-b383-f006aea2901f",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Up tilt juggle",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "上強を着地狩り"
+    },
+    {
+      "start": 2.0,
+      "end": 6.86,
+      "text": "Gets the grab",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "少し掴みで"
+    },
+    {
+      "start": 6.86,
+      "end": 9.26,
+      "text": "Ledge trap",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "崖展開を作り"
+    },
+    {
+      "start": 9.26,
+      "end": 10.3,
+      "text": "Ledge KO",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "崖キル"
+    }
+  ],
+  "full_text": "Up tilt juggle Gets the grab Ledge trap Ledge KO",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "東京を着地狩り",
+      "corrected": "上強を着地狩り",
+      "rule": "kanji homophone"
+    },
+    {
+      "segment_idx": 3,
+      "original": "崖スキル",
+      "corrected": "崖キル",
+      "rule": "kanji homophone"
+    }
+  ]
+}

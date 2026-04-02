@@ -1,0 +1,39 @@
+{
+  "id": "d4dcda0a-2533-41d5-a664-375458b21cf4",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.24,
+      "text": "It puts TG in a really good advantage state and blah blah blah",
+      "language": "en"
+    },
+    {
+      "start": 3.24,
+      "end": 6.72,
+      "text": "And he wrote like a whole essay so listen the banjo community out there",
+      "language": "en"
+    },
+    {
+      "start": 6.72,
+      "end": 10.8,
+      "text": "I'm sorry like I will never take the piss out of your character again, but TG",
+      "language": "en"
+    }
+  ],
+  "full_text": "It puts TG in a really good advantage state and blah blah blah And he wrote like a whole essay so listen the banjo community out there I'm sorry like I will never take the piss out of your character again, but TG",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "StoryGuri",
+      "corrected": "TG",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 2,
+      "original": "StoryGuri",
+      "corrected": "TG",
+      "rule": "player name"
+    }
+  ]
+}

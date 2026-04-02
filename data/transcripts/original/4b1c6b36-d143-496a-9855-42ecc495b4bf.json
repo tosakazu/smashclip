@@ -1,0 +1,63 @@
+{
+  "id": "4b1c6b36-d143-496a-9855-42ecc495b4bf",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.84,
+      "text": "下強からもうこれはピチューは体重軽すぎて何も繋がらない",
+      "language": "ja"
+    },
+    {
+      "start": 2.84,
+      "end": 4.62,
+      "text": "空中後ろが通って崖展開になる",
+      "language": "ja"
+    },
+    {
+      "start": 4.62,
+      "end": 5.96,
+      "text": "狙っていくヨネピ",
+      "language": "ja"
+    },
+    {
+      "start": 5.96,
+      "end": 8.02,
+      "text": "しかしその場上がりから冷静に掴んで",
+      "language": "ja"
+    },
+    {
+      "start": 8.02,
+      "end": 8.44,
+      "text": "えっ",
+      "language": "ja"
+    }
+  ],
+  "full_text": "下強からもうこれはピチューは体重軽すぎて何も繋がらない 空中後ろが通って崖展開になる 狙っていくヨネピ しかしその場上がりから冷静に掴んで えっ",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "ピッチは",
+      "corrected": "ピチューは",
+      "rule": "character name"
+    },
+    {
+      "segment_idx": 2,
+      "original": "ネピ",
+      "corrected": "ヨネピ",
+      "rule": "player name (Yone_pi)"
+    },
+    {
+      "segment_idx": 3,
+      "original": "そのまま上がり",
+      "corrected": "その場上がり",
+      "rule": "Smash terminology (崖上がりオプション)"
+    },
+    {
+      "segment_idx": 3,
+      "original": "冷静で掴んで",
+      "corrected": "冷静に掴んで",
+      "rule": "misheard particle"
+    }
+  ]
+}

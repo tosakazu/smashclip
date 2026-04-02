@@ -1,0 +1,38 @@
+{
+  "id": "f737922b-5254-4406-853f-ae0a4f0ad7c2",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.3,
+      "text": "Bであわや撃墜というところだったんですけれども",
+      "language": "ja"
+    },
+    {
+      "start": 2.3,
+      "end": 5.3,
+      "text": "ギリギリ首の皮1枚ストックがつながっている",
+      "language": "ja"
+    },
+    {
+      "start": 5.3,
+      "end": 8.94,
+      "text": "攻撃上がり",
+      "language": "ja"
+    },
+    {
+      "start": 8.94,
+      "end": 10.38,
+      "text": "掴みを通して",
+      "language": "ja"
+    },
+    {
+      "start": 10.38,
+      "end": 12.06,
+      "text": "これはさすがに撃墜",
+      "language": "ja"
+    }
+  ],
+  "full_text": "Bであわや撃墜というところだったんですけれども ギリギリ首の皮1枚ストックがつながっている 攻撃上がり 掴みを通して これはさすがに撃墜",
+  "detected_language": "ja",
+  "corrections": []
+}

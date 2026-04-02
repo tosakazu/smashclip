@@ -1,0 +1,98 @@
+{
+  "id": "5411cee2-175a-45c6-b679-b5a827e2825e",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.3,
+      "text": "Marvelous shifts the timing",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "マーベラスでタイミングをずらして"
+    },
+    {
+      "start": 2.3,
+      "end": 5.2,
+      "text": "Dolphin Slash connects!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ドルフィンの攻撃判定当てて"
+    },
+    {
+      "start": 5.2,
+      "end": 6.52,
+      "text": "He's not coming back",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "戻ってくるのあいつじゃ"
+    },
+    {
+      "start": 6.52,
+      "end": 8.68,
+      "text": "Running fair gets shielded",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "駆け放し空前もシールド"
+    },
+    {
+      "start": 8.68,
+      "end": 10.02,
+      "text": "Gets the punish",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "反撃取って"
+    },
+    {
+      "start": 10.02,
+      "end": 11.44,
+      "text": "Fair mash parried",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空前暴れもジャストシールド"
+    },
+    {
+      "start": 11.44,
+      "end": 13.22,
+      "text": "Recovery locked in",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "リターンを常に用意して復帰として"
+    },
+    {
+      "start": 13.22,
+      "end": 15.62,
+      "text": "Bair finishes it!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空後!決めて残り"
+    }
+  ],
+  "full_text": "Marvelous shifts the timing Dolphin Slash connects! He's not coming back Running fair gets shielded Gets the punish Fair mash parried Recovery locked in Bair finishes it!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "ゴルフィンの攻撃判定",
+      "corrected": "ドルフィンの攻撃判定",
+      "rule": "misheard word (ゴルフィン→ドルフィン)"
+    },
+    {
+      "segment_idx": 3,
+      "original": "かけ放しクーマイもシールド",
+      "corrected": "駆け放し空前もシールド",
+      "rule": "misheard word (クーマイ→空前)"
+    },
+    {
+      "segment_idx": 5,
+      "original": "クーマイアバルもジャストシールド",
+      "corrected": "空前暴れもジャストシールド",
+      "rule": "misheard word (クーマイ→空前, アバル→暴れ)"
+    },
+    {
+      "segment_idx": 7,
+      "original": "クーゴー!決めて残り",
+      "corrected": "空後!決めて残り",
+      "rule": "misheard word (クーゴー→空後)"
+    }
+  ]
+}

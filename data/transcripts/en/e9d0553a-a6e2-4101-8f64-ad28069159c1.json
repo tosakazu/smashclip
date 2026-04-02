@@ -1,0 +1,76 @@
+{
+  "id": "e9d0553a-a6e2-4101-8f64-ad28069159c1",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.72,
+      "text": "OK, locked down!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "OK 固まってきました"
+    },
+    {
+      "start": 1.72,
+      "end": 4.12,
+      "text": "So what's the move?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあどうする?"
+    },
+    {
+      "start": 4.54,
+      "end": 5.7,
+      "text": "OK, reinforcing!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "OK 補強"
+    },
+    {
+      "start": 5.7,
+      "end": 12.08,
+      "text": "Ohhh, rushing in!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "おーそこで奔走していく"
+    },
+    {
+      "start": 12.08,
+      "end": 16.94,
+      "text": "Is that rush really the play?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "奔走はあれなのかな"
+    },
+    {
+      "start": 16.94,
+      "end": 18.18,
+      "text": "Up air!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空上少年撃"
+    }
+  ],
+  "full_text": "OK, locked down! So what's the move? OK, reinforcing! Ohhh, rushing in! Is that rush really the play? Up air!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 3,
+      "original": "本塚を使っていく",
+      "corrected": "奔走していく",
+      "rule": "misheard"
+    },
+    {
+      "segment_idx": 4,
+      "original": "本塚は",
+      "corrected": "奔走は",
+      "rule": "misheard"
+    },
+    {
+      "segment_idx": 5,
+      "original": "宇宙少年劇",
+      "corrected": "空上少年撃",
+      "rule": "misheard: 宇宙→空上"
+    }
+  ]
+}

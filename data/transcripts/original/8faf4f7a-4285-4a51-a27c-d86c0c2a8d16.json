@@ -1,0 +1,21 @@
+{
+  "id": "8faf4f7a-4285-4a51-a27c-d86c0c2a8d16",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 12.2,
+      "text": "Neo flushed this out, no, the up air is not enough, such a high percent, we know dash attack is able to kill at this percent, up air might kill, and this situation is deep enough and is...",
+      "language": "en"
+    }
+  ],
+  "full_text": "Neo flushed this out, no, the up air is not enough, such a high percent, we know dash attack is able to kill at this percent, up air might kill, and this situation is deep enough and is...",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "your air",
+      "corrected": "up air",
+      "rule": "move name"
+    }
+  ]
+}

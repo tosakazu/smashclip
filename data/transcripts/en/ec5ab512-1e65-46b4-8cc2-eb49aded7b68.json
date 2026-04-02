@@ -1,0 +1,78 @@
+{
+  "id": "ec5ab512-1e65-46b4-8cc2-eb49aded7b68",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.94,
+      "text": "That's a tough confirm!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "確定難しい"
+    },
+    {
+      "start": 0.94,
+      "end": 2.84,
+      "text": "Maybe at this percent?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "もしかしてこのパーセント"
+    },
+    {
+      "start": 2.84,
+      "end": 5.08,
+      "text": "Perfect input!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "レバガチャきっちりできていました"
+    },
+    {
+      "start": 5.08,
+      "end": 6.02,
+      "text": "Oh! And the grab!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "あ!掴んで"
+    },
+    {
+      "start": 6.02,
+      "end": 7.9,
+      "text": "Alright, that's it!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあこれは確定"
+    },
+    {
+      "start": 7.9,
+      "end": 9.38,
+      "text": "Smashville",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "すま村"
+    },
+    {
+      "start": 9.38,
+      "end": 11.64,
+      "text": "And it's wide up there",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "上に広くてというところだ"
+    }
+  ],
+  "full_text": "That's a tough confirm! Maybe at this percent? Perfect input! Oh! And the grab! Alright, that's it! Smashville And it's wide up there",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "レバーがたきっちり",
+      "corrected": "レバガチャきっちり",
+      "rule": "smash term: レバーがた→レバガチャ"
+    },
+    {
+      "segment_idx": 5,
+      "original": "スマムラ",
+      "corrected": "すま村",
+      "rule": "stage name spelling"
+    }
+  ]
+}

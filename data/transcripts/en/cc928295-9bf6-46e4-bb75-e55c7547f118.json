@@ -1,0 +1,44 @@
+{
+  "id": "cc928295-9bf6-46e4-bb75-e55c7547f118",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 8.5,
+      "text": "Hikari tends to get KO'd a lot from Ryu's up air, so juggling over here would probably be the better play. Yeah, that makes sense.",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ヒカリが突然多分リュウの空上から撃墜することも多いんで こっちでたぶん着地狩りした方がいいんじゃないかな なるほど"
+    },
+    {
+      "start": 8.5,
+      "end": 15.12,
+      "text": "So is this option working? Or is that meteor coming out a bit early?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあこの選択がきちゃってるか それとも不 少し早めのメテオ"
+    }
+  ],
+  "full_text": "Hikari tends to get KO'd a lot from Ryu's up air, so juggling over here would probably be the better play. Yeah, that makes sense. So is this option working? Or is that meteor coming out a bit early?",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "方が突然多分龍",
+      "corrected": "ヒカリが突然多分リュウ",
+      "rule": "character name (Ryu/Pyra/Mythra)"
+    },
+    {
+      "segment_idx": 0,
+      "original": "着地ありした方が",
+      "corrected": "着地狩りした方が",
+      "rule": "smash term (着地狩り)"
+    },
+    {
+      "segment_idx": 1,
+      "original": "少し前のメリー",
+      "corrected": "少し早めのメテオ",
+      "rule": "smash term (メテオ)"
+    }
+  ]
+}

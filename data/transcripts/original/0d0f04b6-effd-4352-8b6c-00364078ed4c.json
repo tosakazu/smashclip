@@ -1,0 +1,44 @@
+{
+  "id": "0d0f04b6-effd-4352-8b6c-00364078ed4c",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.64,
+      "text": "ガーキャン空N",
+      "language": "ja"
+    },
+    {
+      "start": 0.64,
+      "end": 4.9,
+      "text": "もう一回ラインを詰めて固めに来たところはガーキャン上B",
+      "language": "ja"
+    },
+    {
+      "start": 4.9,
+      "end": 6.04,
+      "text": "空上空上",
+      "language": "ja"
+    },
+    {
+      "start": 6.04,
+      "end": 7.16,
+      "text": "引っかかった空上",
+      "language": "ja"
+    },
+    {
+      "start": 7.16,
+      "end": 9.0,
+      "text": "上B繋げてそのまま撃墜",
+      "language": "ja"
+    },
+    {
+      "start": 9.0,
+      "end": 10.64,
+      "text": "正確",
+      "language": "ja"
+    }
+  ],
+  "full_text": "ガーキャン空N もう一回ラインを詰めて固めに来たところはガーキャン上B 空上空上 引っかかった空上 上B繋げてそのまま撃墜 正確",
+  "detected_language": "ja",
+  "corrections": []
+}

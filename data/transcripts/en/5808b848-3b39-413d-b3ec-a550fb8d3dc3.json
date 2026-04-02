@@ -1,0 +1,33 @@
+{
+  "id": "5808b848-3b39-413d-b3ec-a550fb8d3dc3",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.22,
+      "text": "precarious situation Raru goes in front again that could have been it that could have been it",
+      "language": "en"
+    },
+    {
+      "start": 4.22,
+      "end": 8.66,
+      "text": "so many different ways for this to end i think waka so fully aware of that all he needs to do",
+      "language": "en"
+    },
+    {
+      "start": 8.66,
+      "end": 11.08,
+      "text": "is take his time let the ko come to him",
+      "language": "en"
+    }
+  ],
+  "full_text": "precarious situation Raru goes in front again that could have been it that could have been it so many different ways for this to end i think waka so fully aware of that all he needs to do is take his time let the ko come to him",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "rule",
+      "corrected": "Raru",
+      "rule": "player name"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "id": "3bee6b76-a2b4-4267-992d-30de15aa7490",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.9,
+      "text": "That charged shot is dangerous!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "チャージショットも危ないぞ"
+    },
+    {
+      "start": 0.9,
+      "end": 2.1,
+      "text": "Dash attack!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ダッシュ攻撃"
+    },
+    {
+      "start": 2.1,
+      "end": 3.3,
+      "text": "That's going to be a KO!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これは撃墜に至る"
+    },
+    {
+      "start": 3.3,
+      "end": 6.16,
+      "text": "At 150%, the momentum shifts in their favor!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "150%被ダメージが追い風となりました"
+    },
+    {
+      "start": 6.16,
+      "end": 8.58,
+      "text": "But now they're cornered at the ledge!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "しかしここから崖に追い詰められた状態"
+    },
+    {
+      "start": 8.58,
+      "end": 9.24,
+      "text": "Going for the grab intentionally!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "あえて掴む"
+    },
+    {
+      "start": 9.24,
+      "end": 11.4,
+      "text": "Up air!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここで空上"
+    }
+  ],
+  "full_text": "That charged shot is dangerous! Dash attack! That's going to be a KO! At 150%, the momentum shifts in their favor! But now they're cornered at the ledge! Going for the grab intentionally! Up air!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "チャッシュットも",
+      "corrected": "チャージショットも",
+      "rule": "misheard: チャッシュット→チャージショット"
+    },
+    {
+      "segment_idx": 2,
+      "original": "激痛に至る",
+      "corrected": "撃墜に至る",
+      "rule": "kanji homophone: 激痛→撃墜"
+    },
+    {
+      "segment_idx": 6,
+      "original": "空中へ横で",
+      "corrected": "空上",
+      "rule": "misheard: 空中へ横→空上"
+    }
+  ]
+}

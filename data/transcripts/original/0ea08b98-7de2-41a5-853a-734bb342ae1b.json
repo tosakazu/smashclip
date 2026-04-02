@@ -1,0 +1,33 @@
+{
+  "id": "0ea08b98-7de2-41a5-853a-734bb342ae1b",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.68,
+      "text": "まだ耐える",
+      "language": "ja"
+    },
+    {
+      "start": 0.68,
+      "end": 4.42,
+      "text": "決してね、立ち回りで壊してるってわけじゃないんですけど",
+      "language": "ja"
+    },
+    {
+      "start": 4.42,
+      "end": 10.5,
+      "text": "地道にコツコツとした差し合いを一つ一つ勝ってって",
+      "language": "ja"
+    }
+  ],
+  "full_text": "まだ耐える 決してね、立ち回りで壊してるってわけじゃないんですけど 地道にコツコツとした差し合いを一つ一つ勝ってって",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "地道にコツコツとした差し合いを一つ一つ買ってって",
+      "corrected": "地道にコツコツとした差し合いを一つ一つ勝ってって",
+      "rule": "Kanji homophone: 買って→勝って (winning, not buying)"
+    }
+  ]
+}

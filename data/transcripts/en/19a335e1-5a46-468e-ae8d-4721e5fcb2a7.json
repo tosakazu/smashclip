@@ -1,0 +1,46 @@
+{
+  "id": "19a335e1-5a46-468e-ae8d-4721e5fcb2a7",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.38,
+      "text": "The pressure from this point on is incredible—can Y player overcome it?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここからのプレッシャーっていうのはねすごいものがありますよと乗り越えられるかYン選手"
+    },
+    {
+      "start": 6.38,
+      "end": 8.36,
+      "text": "He's matching the step pattern",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ステップに合わせていきます"
+    },
+    {
+      "start": 8.36,
+      "end": 11.5,
+      "text": "That recovery from here is really tough",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここの復帰が難しいですね"
+    }
+  ],
+  "full_text": "The pressure from this point on is incredible—can Y player overcome it? He's matching the step pattern That recovery from here is really tough",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "ワイン選手",
+      "corrected": "Yン選手",
+      "rule": "Player name: ワイン→Yン"
+    },
+    {
+      "segment_idx": 2,
+      "original": "ここの吹っ切ると難しいですね",
+      "corrected": "ここの復帰が難しいですね",
+      "rule": "Garbled transcription: 吹っ切ると→復帰が (Little Mac recovery is weak)"
+    }
+  ]
+}

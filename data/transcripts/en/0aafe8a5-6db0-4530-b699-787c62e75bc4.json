@@ -1,0 +1,38 @@
+{
+  "id": "0aafe8a5-6db0-4530-b699-787c62e75bc4",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.44,
+      "text": "Edge guarding pressure is pretty crazy.",
+      "language": "en"
+    },
+    {
+      "start": 1.64,
+      "end": 2.76,
+      "text": "Juggle pressure is pretty crazy.",
+      "language": "en"
+    },
+    {
+      "start": 3.2,
+      "end": 3.96,
+      "text": "Yeah, 100%.",
+      "language": "en"
+    },
+    {
+      "start": 3.96,
+      "end": 7.1,
+      "text": "Definitely lots of tools that you have going for you right now.",
+      "language": "en"
+    },
+    {
+      "start": 7.22,
+      "end": 10.14,
+      "text": "But, I mean, just like that, we see the edgeguards from Spargo.",
+      "language": "en"
+    }
+  ],
+  "full_text": "Edge guarding pressure is pretty crazy. Juggle pressure is pretty crazy. Yeah, 100%. Definitely lots of tools that you have going for you right now. But, I mean, just like that, we see the edgeguards from Spargo.",
+  "detected_language": "en",
+  "corrections": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "42613bf0-8e3f-451c-b769-26fb2f651c1f",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.3,
+      "text": "Jack Mitts stays in!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "続いている ジャック・ミッツ"
+    },
+    {
+      "start": 1.3,
+      "end": 6.06,
+      "text": "It's not just about maintaining that tag though!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあ タグを長く続けるだけではなくて"
+    }
+  ],
+  "full_text": "Jack Mitts stays in! It's not just about maintaining that tag though!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

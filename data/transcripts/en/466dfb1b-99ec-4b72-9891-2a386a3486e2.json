@@ -1,0 +1,48 @@
+{
+  "id": "466dfb1b-99ec-4b72-9891-2a386a3486e2",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.76,
+      "text": "Once it gets to that point, you've gotta commit to those tight mixups or adapt—it's gotten really difficult right now",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "なってくるとどこかでねこうやった密着の読みを使わなきゃ取り替えなきゃいけなくなってしまうのでそういうかかなり今難しくなってますよ"
+    },
+    {
+      "start": 6.76,
+      "end": 9.64,
+      "text": "But Black's controlling those mixups incredibly well, right?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ただその読み合いかなり制してますよね黒のレース"
+    },
+    {
+      "start": 9.64,
+      "end": 11.02,
+      "text": "Oh for real!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "おーマジ"
+    },
+    {
+      "start": 11.02,
+      "end": 12.2,
+      "text": "That's not DI",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ベクトル変更じゃない"
+    }
+  ],
+  "full_text": "Once it gets to that point, you've gotta commit to those tight mixups or adapt—it's gotten really difficult right now But Black's controlling those mixups incredibly well, right? Oh for real! That's not DI",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "余命",
+      "corrected": "読み",
+      "rule": "kanji homophone (fighting game term)"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": "99bfd633-b5b9-4a8a-8fd3-07145beb8656",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.94,
+      "text": "もう一度空前そしてメテオは当たらない",
+      "language": "ja"
+    },
+    {
+      "start": 2.94,
+      "end": 6.48,
+      "text": "うまく上必殺技の攻撃をかぶせたマイルドなH.Oドンキー",
+      "language": "ja"
+    },
+    {
+      "start": 6.48,
+      "end": 8.16,
+      "text": "バナナに引っかかって",
+      "language": "ja"
+    },
+    {
+      "start": 8.16,
+      "end": 11.28,
+      "text": "空上暴れ早すぎる",
+      "language": "ja"
+    }
+  ],
+  "full_text": "もう一度空前そしてメテオは当たらない うまく上必殺技の攻撃をかぶせたマイルドなH.Oドンキー バナナに引っかかって 空上暴れ早すぎる",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "空中前",
+      "corrected": "空前",
+      "rule": "move abbreviation"
+    },
+    {
+      "segment_idx": 1,
+      "original": "はかぶせた",
+      "corrected": "かぶせた",
+      "rule": "Whisper misheard"
+    },
+    {
+      "segment_idx": 1,
+      "original": "マイルドな一応ドンキー",
+      "corrected": "マイルドなH.Oドンキー",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 3,
+      "original": "空中上",
+      "corrected": "空上",
+      "rule": "move abbreviation"
+    }
+  ]
+}

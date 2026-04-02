@@ -1,0 +1,45 @@
+{
+  "id": "84d6ba09-a0b5-41c3-b587-79a147091b23",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.08,
+      "text": "so bad for Guilheww that's painful and yeah Gluto the classic up-air strings he always finds a way",
+      "language": "en"
+    },
+    {
+      "start": 6.08,
+      "end": 12.48,
+      "text": "to reset them oh ah yeah i was gonna say he always finds a way to reset the up-air strings",
+      "language": "en"
+    },
+    {
+      "start": 12.48,
+      "end": 15.92,
+      "text": "to get more damage out of it i think right there he was trying to go for a footstool yeah",
+      "language": "en"
+    }
+  ],
+  "full_text": "so bad for Guilheww that's painful and yeah Gluto the classic up-air strings he always finds a way to reset them oh ah yeah i was gonna say he always finds a way to reset the up-air strings to get more damage out of it i think right there he was trying to go for a footstool yeah",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "gil you",
+      "corrected": "Guilheww",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 0,
+      "original": "upper strings",
+      "corrected": "up-air strings",
+      "rule": "move name"
+    },
+    {
+      "segment_idx": 1,
+      "original": "upper strings",
+      "corrected": "up-air strings",
+      "rule": "move name"
+    }
+  ]
+}

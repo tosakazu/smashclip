@@ -1,0 +1,51 @@
+{
+  "id": "cee8e50f-0824-4f2c-a83b-bd111f167bb6",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.9,
+      "text": "やっと当たったって感じだな",
+      "language": "ja"
+    },
+    {
+      "start": 2.9,
+      "end": 4.86,
+      "text": "さあしかし空中後ろを再び",
+      "language": "ja"
+    },
+    {
+      "start": 4.86,
+      "end": 6.04,
+      "text": "苦しいぞ",
+      "language": "ja"
+    },
+    {
+      "start": 6.04,
+      "end": 8.76,
+      "text": "まずはこの崖を空中後ろ",
+      "language": "ja"
+    },
+    {
+      "start": 8.76,
+      "end": 9.82,
+      "text": "これは激痛",
+      "language": "ja"
+    }
+  ],
+  "full_text": "やっと当たったって感じだな さあしかし空中後ろを再び 苦しいぞ まずはこの崖を空中後ろ これは激痛",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "空中死霊を再び",
+      "corrected": "空中後ろを再び",
+      "rule": "smash term (空中後ろ=back air, 死霊 is mishearing of うしろ)"
+    },
+    {
+      "segment_idx": 3,
+      "original": "まずはこの賭けを空中死霊",
+      "corrected": "まずはこの崖を空中後ろ",
+      "rule": "smash term (空中後ろ=back air, 賭け→崖)"
+    }
+  ]
+}

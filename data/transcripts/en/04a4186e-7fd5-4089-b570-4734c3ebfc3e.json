@@ -1,0 +1,73 @@
+{
+  "id": "04a4186e-7fd5-4089-b570-4734c3ebfc3e",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.76,
+      "text": "Locked in!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "マジで見逃さない"
+    },
+    {
+      "start": 0.76,
+      "end": 3.38,
+      "text": "Crisis becomes opportunity!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあピンチはチャンス"
+    },
+    {
+      "start": 3.38,
+      "end": 4.06,
+      "text": "Opportunity becomes crisis!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "チャンスはピンチ"
+    },
+    {
+      "start": 4.06,
+      "end": 4.88,
+      "text": "Oh! The sword's out!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "おっとソード出した"
+    },
+    {
+      "start": 4.88,
+      "end": 5.02,
+      "text": "What?!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "あれ"
+    },
+    {
+      "start": 5.02,
+      "end": 6.52,
+      "text": "That won't connect",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これは多分届かないですね"
+    },
+    {
+      "start": 6.52,
+      "end": 7.96,
+      "text": "Nice follow!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "うまい道連れ"
+    },
+    {
+      "start": 7.96,
+      "end": 8.58,
+      "text": "That's it!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これこれ"
+    }
+  ],
+  "full_text": "Locked in! Crisis becomes opportunity! Opportunity becomes crisis! Oh! The sword's out! What?! That won't connect Nice follow! That's it!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

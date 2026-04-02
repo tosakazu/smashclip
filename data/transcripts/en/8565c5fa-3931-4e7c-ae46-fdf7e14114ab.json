@@ -1,0 +1,64 @@
+{
+  "id": "8565c5fa-3931-4e7c-ae46-fdf7e14114ab",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.38,
+      "text": "Landing a KO looks really tough here",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "撃墜を通すとなると難しそうに見えます"
+    },
+    {
+      "start": 2.38,
+      "end": 3.66,
+      "text": "Leo",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "レオネットね"
+    },
+    {
+      "start": 3.66,
+      "end": 6.32,
+      "text": "When it comes to securing KOs in neutral",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "立ち回りで撃墜するってなると"
+    },
+    {
+      "start": 6.32,
+      "end": 9.14,
+      "text": "Like this, basically his only option is landing combos",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "こんな感じでコンボを当てるしかほぼなくて"
+    },
+    {
+      "start": 9.14,
+      "end": 9.82,
+      "text": "Yeah, exactly",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そうですよね"
+    },
+    {
+      "start": 9.82,
+      "end": 12.52,
+      "text": "And now here a slight mistake happens",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあここはちょっとミスが出て"
+    }
+  ],
+  "full_text": "Landing a KO looks really tough here. Leo. When it comes to securing KOs in neutral, like this, basically his only option is landing combos. Yeah, exactly. And now here a slight mistake happens",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 3,
+      "original": "空母を当てする",
+      "corrected": "コンボを当てる",
+      "rule": "misheard word (空母→コンボ)"
+    }
+  ]
+}

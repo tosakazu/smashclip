@@ -1,0 +1,39 @@
+{
+  "id": "7e9ca28d-4de0-436e-be14-af856f164cdf",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.86,
+      "text": "一発逆転の要素",
+      "language": "ja"
+    },
+    {
+      "start": 2.86,
+      "end": 4.24,
+      "text": "おならは先ほど使ってしまった",
+      "language": "ja"
+    },
+    {
+      "start": 4.24,
+      "end": 6.1,
+      "text": "この先はニュートラルの時間",
+      "language": "ja"
+    },
+    {
+      "start": 6.1,
+      "end": 7.28,
+      "text": "このまま",
+      "language": "ja"
+    }
+  ],
+  "full_text": "一発逆転の要素 おならは先ほど使ってしまった この先はニュートラルの時間 このまま",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "小田原は先ほど使ってしまった",
+      "corrected": "おならは先ほど使ってしまった",
+      "rule": "misheard: 小田原→おなら (Wario's Waft move)"
+    }
+  ]
+}

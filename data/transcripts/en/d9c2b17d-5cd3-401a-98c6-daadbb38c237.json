@@ -1,0 +1,41 @@
+{
+  "id": "d9c2b17d-5cd3-401a-98c6-daadbb38c237",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.0,
+      "text": "When you're down in stocks and the KO pressure mounts...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "リードを取られるとそして撃墜のプレッシャーがかかってくると"
+    },
+    {
+      "start": 4.0,
+      "end": 5.04,
+      "text": "The risk suddenly...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "途端にリスクが"
+    },
+    {
+      "start": 5.04,
+      "end": 9.3,
+      "text": "Yeah, exactly - they're capitalizing with the KO from these pressure situations",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ああそうですねこういったところから撃墜を通してくる"
+    },
+    {
+      "start": 9.3,
+      "end": 10.46,
+      "text": "When that pressure really kicks in",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "プレッシャーがかかってくると"
+    }
+  ],
+  "full_text": "When you're down in stocks and the KO pressure mounts... The risk suddenly... Yeah, exactly - they're capitalizing with the KO from these pressure situations When that pressure really kicks in",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

@@ -1,0 +1,40 @@
+{
+  "id": "e416d0ec-58ae-4786-acba-12bfbc8ba310",
+  "segments": [
+    {
+      "start": 0.66,
+      "end": 4.9,
+      "text": "Side B edge cancel executed well—no endlag exposed!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあ横必殺技エッジキャンセルをうまく使って後隙を晒さない"
+    },
+    {
+      "start": 4.9,
+      "end": 7.18,
+      "text": "The uncharged shot didn't come out in time!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "溜める前の発射が間に合わなかったですね"
+    },
+    {
+      "start": 7.18,
+      "end": 9.38,
+      "text": "Matching the up B recovery!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そして上必殺技で復帰したいところに合わせ"
+    }
+  ],
+  "full_text": "Side B edge cancel executed well—no endlag exposed! The uncharged shot didn't come out in time! Matching the up B recovery!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "後隙をからせない",
+      "corrected": "後隙を晒さない",
+      "rule": "misheard: 晒さない"
+    }
+  ]
+}

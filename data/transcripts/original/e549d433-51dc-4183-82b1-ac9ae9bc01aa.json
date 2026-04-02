@@ -1,0 +1,63 @@
+{
+  "id": "e549d433-51dc-4183-82b1-ac9ae9bc01aa",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.8,
+      "text": "1段目とって2段目が",
+      "language": "ja"
+    },
+    {
+      "start": 2.8,
+      "end": 5.92,
+      "text": "灼熱にも空中攻撃",
+      "language": "ja"
+    },
+    {
+      "start": 5.92,
+      "end": 7.0,
+      "text": "間に合うんですか今の",
+      "language": "ja"
+    },
+    {
+      "start": 7.0,
+      "end": 9.24,
+      "text": "地面ないけどこれ",
+      "language": "ja"
+    },
+    {
+      "start": 9.24,
+      "end": 10.42,
+      "text": "昇竜拳",
+      "language": "ja"
+    },
+    {
+      "start": 10.42,
+      "end": 12.04,
+      "text": "撃墜に至っている",
+      "language": "ja"
+    },
+    {
+      "start": 12.04,
+      "end": 12.32,
+      "text": "あー",
+      "language": "ja"
+    }
+  ],
+  "full_text": "1段目とって2段目が 灼熱にも空中攻撃 間に合うんですか今の 地面ないけどこれ 昇竜拳 撃墜に至っている あー",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 4,
+      "original": "ザシャルケン",
+      "corrected": "昇竜拳",
+      "rule": "misheard: 昇竜拳(Shoryuken)"
+    },
+    {
+      "segment_idx": 5,
+      "original": "激戦に至っている",
+      "corrected": "撃墜に至っている",
+      "rule": "kanji homophone: 撃墜"
+    }
+  ]
+}

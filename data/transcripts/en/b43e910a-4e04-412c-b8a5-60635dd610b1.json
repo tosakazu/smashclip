@@ -1,0 +1,57 @@
+{
+  "id": "b43e910a-4e04-412c-b8a5-60635dd610b1",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.44,
+      "text": "Early game reads with bair, bringing it back to neutral!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "通っています最初の読み合い空中後ろでニュートラルゲームに戻すスマホ"
+    },
+    {
+      "start": 4.44,
+      "end": 8.08,
+      "text": "And now the projectile exchange begins—neutral game is on!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあ弾を撃ち合って様子見の時間が始まるが"
+    },
+    {
+      "start": 8.08,
+      "end": 9.74,
+      "text": "A bold dash attack!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ダッシュアタックでの果敢な切り込み"
+    },
+    {
+      "start": 9.74,
+      "end": 11.94,
+      "text": "But it gets shut down by the neutral special!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "しかしそれはニュートラル必殺技で飛ばされる"
+    },
+    {
+      "start": 11.94,
+      "end": 12.42,
+      "text": "Whoa?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "おっと?"
+    },
+    {
+      "start": 13.1,
+      "end": 13.32,
+      "text": "Oh!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "なっ"
+    }
+  ],
+  "full_text": "Early game reads with bair, bringing it back to neutral! And now the projectile exchange begins—neutral game is on! A bold dash attack! But it gets shut down by the neutral special! Whoa? Oh!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

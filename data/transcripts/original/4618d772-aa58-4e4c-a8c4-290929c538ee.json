@@ -1,0 +1,39 @@
+{
+  "id": "4618d772-aa58-4e4c-a8c4-290929c538ee",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.6,
+      "text": "難しい",
+      "language": "ja"
+    },
+    {
+      "start": 0.6,
+      "end": 1.98,
+      "text": "ギガサンダーから",
+      "language": "ja"
+    },
+    {
+      "start": 1.98,
+      "end": 4.86,
+      "text": "ここは命が消えかねなかったが",
+      "language": "ja"
+    },
+    {
+      "start": 4.86,
+      "end": 5.18,
+      "text": "カズヒト",
+      "language": "ja"
+    }
+  ],
+  "full_text": "難しい ギガサンダーから ここは命が消えかねなかったが カズヒト",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "ギャスアンダー",
+      "corrected": "ギガサンダー",
+      "rule": "misheard move name (Robin thunder spell)"
+    }
+  ]
+}

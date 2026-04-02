@@ -1,0 +1,72 @@
+{
+  "id": "4bf26aa7-f1fb-4d58-be49-7f57027edce5",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.66,
+      "text": "What about the ledge?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "この崖どうなる?"
+    },
+    {
+      "start": 2.5,
+      "end": 4.64,
+      "text": "Ledge drop up air!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "崖離しの空中上攻撃を"
+    },
+    {
+      "start": 4.64,
+      "end": 5.72,
+      "text": "Reads it!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ヤマナクション分かっている"
+    },
+    {
+      "start": 5.72,
+      "end": 6.24,
+      "text": "Shuts it down!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "許さない"
+    },
+    {
+      "start": 6.24,
+      "end": 9.94,
+      "text": "Both at around 50% damage, but",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "お互いダメージは50%ほどだが"
+    },
+    {
+      "start": 9.94,
+      "end": 11.0,
+      "text": "one stock down",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "1ストックの差がある"
+    },
+    {
+      "start": 11.0,
+      "end": 12.24,
+      "text": "Gets in!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "うまく差し込んだ"
+    }
+  ],
+  "full_text": "What about the ledge? Ledge drop up air! Reads it! Shuts it down! Both at around 50% damage, but one stock down Gets in!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "山中省分かっている",
+      "corrected": "ヤマナクション分かっている",
+      "rule": "player name"
+    }
+  ]
+}

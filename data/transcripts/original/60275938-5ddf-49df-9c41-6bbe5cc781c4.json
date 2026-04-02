@@ -1,0 +1,39 @@
+{
+  "id": "60275938-5ddf-49df-9c41-6bbe5cc781c4",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.38,
+      "text": "長いことが分かっているにんば",
+      "language": "ja"
+    },
+    {
+      "start": 1.38,
+      "end": 3.86,
+      "text": "忍耐力見せつけられるか",
+      "language": "ja"
+    },
+    {
+      "start": 3.86,
+      "end": 6.32,
+      "text": "横強ギリギリでしたが今のも危なかったぞ",
+      "language": "ja"
+    },
+    {
+      "start": 6.32,
+      "end": 6.98,
+      "text": "危なかったです",
+      "language": "ja"
+    }
+  ],
+  "full_text": "長いことが分かっているにんば 忍耐力見せつけられるか 横強ギリギリでしたが今のも危なかったぞ 危なかったです",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "人番",
+      "corrected": "にんば",
+      "rule": "player name"
+    }
+  ]
+}

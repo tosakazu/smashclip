@@ -1,0 +1,32 @@
+{
+  "id": "0cb4b952-d573-4c1e-a716-e9fd2b4f6037",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.18,
+      "text": "足返す 攻撃起き上がりをここで選択",
+      "language": "ja"
+    },
+    {
+      "start": 2.18,
+      "end": 5.92,
+      "text": "トロッコで暴れて 下強から",
+      "language": "ja"
+    },
+    {
+      "start": 5.92,
+      "end": 8.64,
+      "text": "ブロックの自然破壊のタイミングが少し遅かったか",
+      "language": "ja"
+    },
+    {
+      "start": 8.64,
+      "end": 9.64,
+      "text": "しかし上強から",
+      "language": "ja"
+    }
+  ],
+  "full_text": "足返す 攻撃起き上がりをここで選択 トロッコで暴れて 下強から ブロックの自然破壊のタイミングが少し遅かったか しかし上強から",
+  "detected_language": "ja",
+  "corrections": []
+}

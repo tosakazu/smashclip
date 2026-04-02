@@ -1,0 +1,45 @@
+{
+  "id": "39c416cb-74ba-4b73-b6f2-474a8c569cf9",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "いや流れが変わったか?",
+      "language": "ja"
+    },
+    {
+      "start": 2.0,
+      "end": 3.0,
+      "text": "うまい!",
+      "language": "ja"
+    },
+    {
+      "start": 3.0,
+      "end": 6.0,
+      "text": "こういうコントロールやっぱりKENうまいですよね",
+      "language": "ja"
+    },
+    {
+      "start": 6.0,
+      "end": 8.0,
+      "text": "スピンからグーマン!",
+      "language": "ja"
+    },
+    {
+      "start": 8.0,
+      "end": 9.0,
+      "text": "ゲッツヒットしましたね",
+      "language": "ja"
+    }
+  ],
+  "full_text": "いや流れが変わったか? うまい! こういうコントロールやっぱりKENうまいですよね スピンからグーマン! ゲッツヒットしましたね",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "ケイテジュウ",
+      "corrected": "KEN",
+      "rule": "player name"
+    }
+  ]
+}

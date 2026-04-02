@@ -1,0 +1,69 @@
+{
+  "id": "b7fc9353-f5b0-43cf-a602-9bfab0915994",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.0,
+      "text": "ヒット!深めの復帰阻止を匂わせましたが、ブレイズエンドが盾になる",
+      "language": "ja"
+    },
+    {
+      "start": 4.0,
+      "end": 6.0,
+      "text": "空中下が前回避に当たって",
+      "language": "ja"
+    },
+    {
+      "start": 6.0,
+      "end": 7.0,
+      "text": "下スマ!",
+      "language": "ja"
+    },
+    {
+      "start": 7.0,
+      "end": 8.0,
+      "text": "そこばかりに刺した!",
+      "language": "ja"
+    },
+    {
+      "start": 8.0,
+      "end": 9.0,
+      "text": "うーまっす!",
+      "language": "ja"
+    },
+    {
+      "start": 9.0,
+      "end": 10.0,
+      "text": "空中下!",
+      "language": "ja"
+    },
+    {
+      "start": 10.0,
+      "end": 11.0,
+      "text": "クース!",
+      "language": "ja"
+    }
+  ],
+  "full_text": "ヒット!深めの復帰阻止を匂わせましたが、ブレイズエンドが盾になる 空中下が前回避に当たって 下スマ! そこばかりに刺した! うーまっす! 空中下! クース!",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "藤俊",
+      "corrected": "復帰阻止",
+      "rule": "misheard word"
+    },
+    {
+      "segment_idx": 1,
+      "original": "追い立って",
+      "corrected": "当たって",
+      "rule": "misheard word"
+    },
+    {
+      "segment_idx": 2,
+      "original": "下京",
+      "corrected": "下スマ",
+      "rule": "move name"
+    }
+  ]
+}

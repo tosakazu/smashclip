@@ -1,0 +1,14 @@
+{
+  "id": "c1efddc0-e4ca-4e5c-8647-1c0c8099a513",
+  "segments": [],
+  "full_text": "",
+  "detected_language": "absent",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "Faktum 1-14",
+      "corrected": "(transcription failed)",
+      "rule": "whisper language detection failure"
+    }
+  ]
+}

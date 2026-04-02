@@ -1,0 +1,21 @@
+{
+  "id": "b9ab36a6-f426-4e86-9d3d-0637c02234d4",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.46,
+      "text": "1つ先制できたので、ここからは街の立ち回りができるので",
+      "language": "ja"
+    }
+  ],
+  "full_text": "1つ先制できたので、ここからは街の立ち回りができるので",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "一つ生成できたので",
+      "corrected": "1つ先制できたので",
+      "rule": "kanji homophone"
+    }
+  ]
+}

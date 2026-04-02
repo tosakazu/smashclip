@@ -1,0 +1,39 @@
+{
+  "id": "56fe6c1d-980c-45ee-ad5d-822e161e1c3b",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.28,
+      "text": "One of those have to took the stock and SuperDog has the advantage again.",
+      "language": "en"
+    },
+    {
+      "start": 6.84,
+      "end": 7.54,
+      "text": "SuperDog with the...",
+      "language": "en"
+    },
+    {
+      "start": 7.54,
+      "end": 7.88,
+      "text": "Oh!",
+      "language": "en"
+    },
+    {
+      "start": 8.86,
+      "end": 10.78,
+      "text": "Yeah, ain't no way.",
+      "language": "en"
+    }
+  ],
+  "full_text": "One of those have to took the stock and SuperDog has the advantage again. SuperDog with the... Oh! Yeah, ain't no way.",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "Stoke",
+      "corrected": "stock",
+      "rule": "misheard word"
+    }
+  ]
+}

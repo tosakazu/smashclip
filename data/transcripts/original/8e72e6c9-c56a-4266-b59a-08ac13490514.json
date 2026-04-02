@@ -1,0 +1,38 @@
+{
+  "id": "8e72e6c9-c56a-4266-b59a-08ac13490514",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.68,
+      "text": "ボロチェンジスティーブ!",
+      "language": "ja"
+    },
+    {
+      "start": 2.2,
+      "end": 2.64,
+      "text": "かぶれ!",
+      "language": "ja"
+    },
+    {
+      "start": 3.0,
+      "end": 3.72,
+      "text": "やーばねー!",
+      "language": "ja"
+    },
+    {
+      "start": 3.82,
+      "end": 4.8,
+      "text": "これ助かりましたね!",
+      "language": "ja"
+    },
+    {
+      "start": 6.38,
+      "end": 7.38,
+      "text": "合わせる!",
+      "language": "ja"
+    }
+  ],
+  "full_text": "ボロチェンジスティーブ! かぶれ! やーばねー! これ助かりましたね! 合わせる!",
+  "detected_language": "ja",
+  "corrections": []
+}

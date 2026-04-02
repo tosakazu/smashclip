@@ -1,0 +1,57 @@
+{
+  "id": "5f57382e-4232-4ab1-9880-4519136cb562",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.06,
+      "text": "そこの復帰阻止のところが噛み合い始めたらまたわからないと",
+      "language": "ja"
+    },
+    {
+      "start": 3.06,
+      "end": 3.9,
+      "text": "わからないですね",
+      "language": "ja"
+    },
+    {
+      "start": 3.9,
+      "end": 6.5,
+      "text": "このストック中ではこのセット中にどこまでそこを対応できるか",
+      "language": "ja"
+    },
+    {
+      "start": 6.5,
+      "end": 7.52,
+      "text": "さあスマッシュはまだですね",
+      "language": "ja"
+    },
+    {
+      "start": 7.52,
+      "end": 10.06,
+      "text": "さあその復帰阻止",
+      "language": "ja"
+    },
+    {
+      "start": 10.06,
+      "end": 10.9,
+      "text": "崖を選択",
+      "language": "ja"
+    },
+    {
+      "start": 10.9,
+      "end": 12.5,
+      "text": "ここは空後で狩っていった",
+      "language": "ja"
+    }
+  ],
+  "full_text": "そこの復帰阻止のところが噛み合い始めたらまたわからないと わからないですね このストック中ではこのセット中にどこまでそこを対応できるか さあスマッシュはまだですね さあその復帰阻止 崖を選択 ここは空後で狩っていった",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 6,
+      "original": "空中シュールで勝っていった",
+      "corrected": "空後で狩っていった",
+      "rule": "smash term (空後) + kanji homophone"
+    }
+  ]
+}

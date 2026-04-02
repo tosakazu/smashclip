@@ -1,0 +1,32 @@
+{
+  "id": "246b8056-462b-4f9d-b731-28e0c1dafd88",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.24,
+      "text": "これは持続が長い下スマッシュを置いていきます",
+      "language": "ja"
+    },
+    {
+      "start": 3.24,
+      "end": 4.82,
+      "text": "ジャンプ上がりでね",
+      "language": "ja"
+    },
+    {
+      "start": 4.82,
+      "end": 6.62,
+      "text": "これじゃこっちがスマッシュだって",
+      "language": "ja"
+    },
+    {
+      "start": 6.62,
+      "end": 7.64,
+      "text": "なんでだよ",
+      "language": "ja"
+    }
+  ],
+  "full_text": "これは持続が長い下スマッシュを置いていきます ジャンプ上がりでね これじゃこっちがスマッシュだって なんでだよ",
+  "detected_language": "ja",
+  "corrections": []
+}

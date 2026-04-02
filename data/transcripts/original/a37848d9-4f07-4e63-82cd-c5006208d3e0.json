@@ -1,0 +1,26 @@
+{
+  "id": "a37848d9-4f07-4e63-82cd-c5006208d3e0",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.18,
+      "text": "Está toda la venue, o casi toda la venue, una gran parte de la venue viendo lo que está pasando ahora mismo delante nuestro, ¿eh?",
+      "language": "es"
+    },
+    {
+      "start": 5.28,
+      "end": 5.98,
+      "text": "Sí, claro.",
+      "language": "es"
+    },
+    {
+      "start": 7.48,
+      "end": 11.08,
+      "text": "Así que Spargo ahora mismo intentando castigar y no llega.",
+      "language": "es"
+    }
+  ],
+  "full_text": "Está toda la venue, o casi toda la venue, una gran parte de la venue viendo lo que está pasando ahora mismo delante nuestro, ¿eh? Sí, claro. Así que Spargo ahora mismo intentando castigar y no llega.",
+  "detected_language": "es",
+  "corrections": []
+}

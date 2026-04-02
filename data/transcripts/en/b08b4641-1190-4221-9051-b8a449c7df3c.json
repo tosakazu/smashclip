@@ -1,0 +1,86 @@
+{
+  "id": "b08b4641-1190-4221-9051-b8a449c7df3c",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.72,
+      "text": "It's a ground-based fighter",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "地上を走るのがメインのファイターですもんね"
+    },
+    {
+      "start": 1.72,
+      "end": 3.7,
+      "text": "But in the ground game,",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "かといって地上に対して"
+    },
+    {
+      "start": 3.7,
+      "end": 6.32,
+      "text": "if you're supposed to punish and take the stock,",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "うまく咎めて撃墜持っていくって言われると"
+    },
+    {
+      "start": 6.32,
+      "end": 7.52,
+      "text": "you end up getting smashed",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "スマッシュとかもらうので"
+    },
+    {
+      "start": 7.52,
+      "end": 9.74,
+      "text": "so the risk-reward doesn't add up",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ちょっとリスクが噛み合ってんのかな"
+    },
+    {
+      "start": 9.74,
+      "end": 11.84,
+      "text": "that's the impression I have",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "っていうのが印象としてはあります"
+    },
+    {
+      "start": 11.84,
+      "end": 13.58,
+      "text": "Alright",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあ"
+    },
+    {
+      "start": 13.58,
+      "end": 14.5,
+      "text": "ledge grab",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "崖捕まり"
+    }
+  ],
+  "full_text": "It's a ground-based fighter But in the ground game, if you're supposed to punish and take the stock, you end up getting smashed so the risk-reward doesn't add up that's the impression I have Alright ledge grab",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 3,
+      "original": "スマッシュとか多くので",
+      "corrected": "スマッシュとかもらうので",
+      "rule": "mishearing"
+    },
+    {
+      "segment_idx": 7,
+      "original": "崖捕まえ",
+      "corrected": "崖捕まり",
+      "rule": "smash term (崖捕まり)"
+    }
+  ]
+}

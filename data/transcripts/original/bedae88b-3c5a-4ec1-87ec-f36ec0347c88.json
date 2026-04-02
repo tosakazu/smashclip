@@ -1,0 +1,57 @@
+{
+  "id": "bedae88b-3c5a-4ec1-87ec-f36ec0347c88",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.5,
+      "text": "横スマキックでしか撃墜をむしろ通してないという",
+      "language": "ja"
+    },
+    {
+      "start": 2.5,
+      "end": 3.96,
+      "text": "おかしな展開",
+      "language": "ja"
+    },
+    {
+      "start": 3.96,
+      "end": 6.46,
+      "text": "これは予想裏切る側はいいんでした",
+      "language": "ja"
+    },
+    {
+      "start": 6.46,
+      "end": 8.16,
+      "text": "しかし同じく",
+      "language": "ja"
+    },
+    {
+      "start": 8.16,
+      "end": 10.62,
+      "text": "にんば選手も空中後ろ攻撃での撃墜を",
+      "language": "ja"
+    }
+  ],
+  "full_text": "横スマキックでしか撃墜をむしろ通してないという おかしな展開 これは予想裏切る側はいいんでした しかし同じく にんば選手も空中後ろ攻撃での撃墜を",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "矢妻キック",
+      "corrected": "横スマキック",
+      "rule": "smash term"
+    },
+    {
+      "segment_idx": 4,
+      "original": "忍法戦士",
+      "corrected": "にんば選手",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 4,
+      "original": "空中白攻撃",
+      "corrected": "空中後ろ攻撃",
+      "rule": "smash term"
+    }
+  ]
+}

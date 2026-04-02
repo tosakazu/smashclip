@@ -1,0 +1,71 @@
+{
+  "id": "a3cef64a-28c8-4d4a-a386-543e2ec9b51f",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.86,
+      "text": "A pure fighter",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "やはり体一つで戦ってきた男"
+    },
+    {
+      "start": 1.86,
+      "end": 3.08,
+      "text": "Oh no, took a hit!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "あー被弾しちゃったー"
+    },
+    {
+      "start": 3.08,
+      "end": 4.74,
+      "text": "That connection was clean, though...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "あの当たりは上手いんですが"
+    },
+    {
+      "start": 4.74,
+      "end": 7.54,
+      "text": "Here, forget about the ledge—",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここは崖をスキップどころか"
+    },
+    {
+      "start": 7.54,
+      "end": 8.74,
+      "text": "Not good",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "まずいか"
+    },
+    {
+      "start": 8.74,
+      "end": 10.12,
+      "text": "After backing away...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "下がったとこれは"
+    },
+    {
+      "start": 10.12,
+      "end": 13.32,
+      "text": "Made it back!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "完走"
+    }
+  ],
+  "full_text": "A pure fighter Oh no, took a hit! That connection was clean, though... Here, forget about the ledge— Not good After backing away... Made it back!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "original": "激戦しちゃったー",
+      "corrected": "被弾しちゃったー",
+      "reason": "被弾（攻撃を受けた）の意味"
+    }
+  ]
+}

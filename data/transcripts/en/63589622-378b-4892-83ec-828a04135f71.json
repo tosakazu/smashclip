@@ -1,0 +1,57 @@
+{
+  "id": "63589622-378b-4892-83ec-828a04135f71",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.16,
+      "text": "Excellent! Down tilt!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "優秀!下膝のタイプローズ!"
+    },
+    {
+      "start": 2.16,
+      "end": 3.14,
+      "text": "Just barely connected!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ギリギリ届いた!"
+    },
+    {
+      "start": 4.28,
+      "end": 5.5,
+      "text": "The hitbox keeps going!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "判定が続いていきます!"
+    },
+    {
+      "start": 6.24,
+      "end": 8.56,
+      "text": "Is that invincibility his last chance?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあこの無敵時間がラストチャンスか?"
+    },
+    {
+      "start": 9.02,
+      "end": 11.0,
+      "text": "There he is!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "やはりこの男は!"
+    },
+    {
+      "start": 12.12,
+      "end": 14.22,
+      "text": "Finish it! Finish it!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "決めてくれ!決めてくれ!"
+    }
+  ],
+  "full_text": "Excellent! Down tilt! Just barely connected! The hitbox keeps going! Is that invincibility his last chance? There he is! Finish it! Finish it!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

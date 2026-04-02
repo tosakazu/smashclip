@@ -1,0 +1,81 @@
+{
+  "id": "5411cee2-175a-45c6-b679-b5a827e2825e",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.3,
+      "text": "マーベラスでタイミングをずらして",
+      "language": "ja"
+    },
+    {
+      "start": 2.3,
+      "end": 5.2,
+      "text": "ドルフィンの攻撃判定当てて",
+      "language": "ja"
+    },
+    {
+      "start": 5.2,
+      "end": 6.52,
+      "text": "戻ってくるのあいつじゃ",
+      "language": "ja"
+    },
+    {
+      "start": 6.52,
+      "end": 8.68,
+      "text": "駆け放し空前もシールド",
+      "language": "ja"
+    },
+    {
+      "start": 8.68,
+      "end": 10.02,
+      "text": "反撃取って",
+      "language": "ja"
+    },
+    {
+      "start": 10.02,
+      "end": 11.44,
+      "text": "空前暴れもジャストシールド",
+      "language": "ja"
+    },
+    {
+      "start": 11.44,
+      "end": 13.22,
+      "text": "リターンを常に用意して復帰として",
+      "language": "ja"
+    },
+    {
+      "start": 13.22,
+      "end": 15.62,
+      "text": "空後!決めて残り",
+      "language": "ja"
+    }
+  ],
+  "full_text": "マーベラスでタイミングをずらして ドルフィンの攻撃判定当てて 戻ってくるのあいつじゃ 駆け放し空前もシールド 反撃取って 空前暴れもジャストシールド リターンを常に用意して復帰として 空後!決めて残り",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "ゴルフィンの攻撃判定",
+      "corrected": "ドルフィンの攻撃判定",
+      "rule": "misheard word (ゴルフィン→ドルフィン)"
+    },
+    {
+      "segment_idx": 3,
+      "original": "かけ放しクーマイもシールド",
+      "corrected": "駆け放し空前もシールド",
+      "rule": "misheard word (クーマイ→空前)"
+    },
+    {
+      "segment_idx": 5,
+      "original": "クーマイアバルもジャストシールド",
+      "corrected": "空前暴れもジャストシールド",
+      "rule": "misheard word (クーマイ→空前, アバル→暴れ)"
+    },
+    {
+      "segment_idx": 7,
+      "original": "クーゴー!決めて残り",
+      "corrected": "空後!決めて残り",
+      "rule": "misheard word (クーゴー→空後)"
+    }
+  ]
+}

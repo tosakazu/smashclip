@@ -1,0 +1,41 @@
+{
+  "id": "5ac838bc-e5db-4c02-8b36-da9f9fd912bf",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.34,
+      "text": "In that lock-down, he grabbed the banana, so it didn't connect!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここでの固めでバナナ拾ってしまったため点としませんでしたね"
+    },
+    {
+      "start": 3.34,
+      "end": 6.28,
+      "text": "He timed the forward tilt on the landing.",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "着地に横強を合わせて"
+    },
+    {
+      "start": 6.28,
+      "end": 11.1,
+      "text": "Coming back from the side with up B leaves almost no invincibility.",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここは上必殺技で横から返ってくることで無敵がほとんどない"
+    },
+    {
+      "start": 11.1,
+      "end": 12.12,
+      "text": "But then the up tilt caught him!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "しかし上強で拾った"
+    }
+  ],
+  "full_text": "In that lock-down, he grabbed the banana, so it didn't connect! He timed the forward tilt on the landing. Coming back from the side with up B leaves almost no invincibility. But then the up tilt caught him!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

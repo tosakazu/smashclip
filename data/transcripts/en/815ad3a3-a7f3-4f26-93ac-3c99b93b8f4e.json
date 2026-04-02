@@ -1,0 +1,70 @@
+{
+  "id": "815ad3a3-a7f3-4f26-93ac-3c99b93b8f4e",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.68,
+      "text": "MASA waiting! MASA waiting!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "MASAが待つ!MASAが待つ!"
+    },
+    {
+      "start": 6.14,
+      "end": 8.3,
+      "text": "And again—going for the forward approach this time",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "再び今度は前出しに"
+    },
+    {
+      "start": 8.3,
+      "end": 9.94,
+      "text": "From the spaced down tilt",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "置いている下強から"
+    },
+    {
+      "start": 9.94,
+      "end": 11.98,
+      "text": "Up air—that's the stock!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "なんとか空上これ撃墜ぃーだ!"
+    },
+    {
+      "start": 13.16,
+      "end": 14.44,
+      "text": "Clean finish right there",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "決着も静かでした"
+    },
+    {
+      "start": 14.44,
+      "end": 15.38,
+      "text": "That's right",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そうでしたね"
+    }
+  ],
+  "full_text": "MASA waiting! MASA waiting! And again—going for the forward approach this time From the spaced down tilt Up air—that's the stock! Clean finish right there That's right",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "まさが待つ!まさが待つ!",
+      "corrected": "MASAが待つ!MASAが待つ!",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 3,
+      "original": "なんとか宇宙エレゲイツイーだ!",
+      "corrected": "なんとか空上これ撃墜ぃーだ!",
+      "rule": "move name homophone + Whisper mishearing"
+    }
+  ]
+}

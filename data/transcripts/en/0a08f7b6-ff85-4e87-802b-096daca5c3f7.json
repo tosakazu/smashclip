@@ -1,0 +1,57 @@
+{
+  "id": "0a08f7b6-ff85-4e87-802b-096daca5c3f7",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.3,
+      "text": "Already at 123%!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "気づけば123%"
+    },
+    {
+      "start": 2.3,
+      "end": 3.94,
+      "text": "Boomerang connects again!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さらにブーメランから"
+    },
+    {
+      "start": 3.94,
+      "end": 6.32,
+      "text": "And the arrow hits!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "矢も当てていく"
+    },
+    {
+      "start": 6.32,
+      "end": 8.28,
+      "text": "Nearly at 140%!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "140%近い"
+    },
+    {
+      "start": 8.28,
+      "end": 9.72,
+      "text": "Right as they land—",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "着地してきたところ"
+    },
+    {
+      "start": 9.72,
+      "end": 11.92,
+      "text": "Up smash connects and that's the KO!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "上スマも当てていって撃墜"
+    }
+  ],
+  "full_text": "Already at 123%! Boomerang connects again! And the arrow hits! Nearly at 140%! Right as they land— Up smash connects and that's the KO!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

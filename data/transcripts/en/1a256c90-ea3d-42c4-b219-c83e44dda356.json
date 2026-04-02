@@ -1,0 +1,38 @@
+{
+  "id": "1a256c90-ea3d-42c4-b219-c83e44dda356",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "he's not a very accurate",
+      "language": "en"
+    },
+    {
+      "start": 2.0,
+      "end": 4.0,
+      "text": "back air will back air",
+      "language": "en"
+    },
+    {
+      "start": 4.0,
+      "end": 5.0,
+      "text": "back air",
+      "language": "en"
+    },
+    {
+      "start": 5.0,
+      "end": 7.0,
+      "text": "downward angled back air",
+      "language": "en"
+    },
+    {
+      "start": 7.0,
+      "end": 9.0,
+      "text": "there was strong movement",
+      "language": "en"
+    }
+  ],
+  "full_text": "he's not a very accurate back air will back air back air downward angled back air there was strong movement",
+  "detected_language": "en",
+  "corrections": []
+}

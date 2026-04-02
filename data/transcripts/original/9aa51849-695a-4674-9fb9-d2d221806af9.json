@@ -1,0 +1,81 @@
+{
+  "id": "9aa51849-695a-4674-9fb9-d2d221806af9",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "なんだ! 上手すぎる",
+      "language": "ja"
+    },
+    {
+      "start": 2.0,
+      "end": 4.0,
+      "text": "そういう冷静ですね",
+      "language": "ja"
+    },
+    {
+      "start": 4.0,
+      "end": 5.0,
+      "text": "そうですね",
+      "language": "ja"
+    },
+    {
+      "start": 5.0,
+      "end": 6.0,
+      "text": "ジャック",
+      "language": "ja"
+    },
+    {
+      "start": 6.0,
+      "end": 7.0,
+      "text": "倒し切るのか?",
+      "language": "ja"
+    },
+    {
+      "start": 7.0,
+      "end": 9.0,
+      "text": "グーッシュ!",
+      "language": "ja"
+    },
+    {
+      "start": 9.0,
+      "end": 10.0,
+      "text": "これはでも",
+      "language": "ja"
+    },
+    {
+      "start": 10.0,
+      "end": 11.0,
+      "text": "おお",
+      "language": "ja"
+    },
+    {
+      "start": 11.0,
+      "end": 13.0,
+      "text": "マイニング",
+      "language": "ja"
+    },
+    {
+      "start": 13.0,
+      "end": 14.0,
+      "text": "読まっ!",
+      "language": "ja"
+    },
+    {
+      "start": 14.0,
+      "end": 15.0,
+      "text": "ダウン! 崩壊!",
+      "language": "ja"
+    }
+  ],
+  "full_text": "なんだ! 上手すぎる そういう冷静ですね そうですね ジャック 倒し切るのか? グーッシュ! これはでも おお マイニング 読まっ! ダウン! 崩壊!",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 9,
+      "original": "よまっ",
+      "corrected": "読まっ",
+      "rule": "kanji reading"
+    }
+  ]
+}

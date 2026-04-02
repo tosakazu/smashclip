@@ -1,0 +1,32 @@
+{
+  "id": "47b90a37-c774-468c-b8e7-309c080a0a25",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.16,
+      "text": "撃墜技以外の技に対して最大リターンを叩きつけていきたい",
+      "language": "ja"
+    },
+    {
+      "start": 5.16,
+      "end": 7.52,
+      "text": "通している通している",
+      "language": "ja"
+    },
+    {
+      "start": 7.52,
+      "end": 9.06,
+      "text": "おー高い位置で",
+      "language": "ja"
+    },
+    {
+      "start": 9.06,
+      "end": 9.9,
+      "text": "超速攻の一撃",
+      "language": "ja"
+    }
+  ],
+  "full_text": "撃墜技以外の技に対して最大リターンを叩きつけていきたい 通している通している おー高い位置で 超速攻の一撃",
+  "detected_language": "ja",
+  "corrections": []
+}

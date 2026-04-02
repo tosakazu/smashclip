@@ -1,0 +1,100 @@
+{
+  "id": "1cd5530c-4a1f-446a-81e1-d2025d5a07aa",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.44,
+      "text": "Let's go!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いってきます"
+    },
+    {
+      "start": 0.44,
+      "end": 2.72,
+      "text": "Big one!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "スケール"
+    },
+    {
+      "start": 2.72,
+      "end": 6.78,
+      "text": "Alright, the play—landing on the platform first",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあプレイですが一旦台に着地"
+    },
+    {
+      "start": 6.78,
+      "end": 9.16,
+      "text": "They've gone all out!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "全力を使ってきましたね"
+    },
+    {
+      "start": 9.16,
+      "end": 12.84,
+      "text": "Recovery's getting rough",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "バネが苦しいか"
+    },
+    {
+      "start": 12.84,
+      "end": 15.1,
+      "text": "Out of fuel in this spot",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "この展開もう燃料がない"
+    },
+    {
+      "start": 15.1,
+      "end": 16.2,
+      "text": "Shuton's gassed!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "力尽きたしゅーとん"
+    },
+    {
+      "start": 16.2,
+      "end": 19.82,
+      "text": "Olimar's ledge getup really isn't strong, so...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "オリマーは崖上がり本当に強くないんで"
+    },
+    {
+      "start": 19.82,
+      "end": 20.02,
+      "text": "Yeah",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "はい"
+    }
+  ],
+  "full_text": "Let's go! Big one! Alright, the play—landing on the platform first. They've gone all out! Recovery's getting rough. Out of fuel in this spot. Shuton's gassed! Olimar's ledge getup really isn't strong, so... Yeah",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "さあプレイですが一旦倍に着地",
+      "corrected": "さあプレイですが一旦台に着地",
+      "rule": "Whisper kanji homophone: 倍→台"
+    },
+    {
+      "segment_idx": 6,
+      "original": "力尽きたシュート",
+      "corrected": "力尽きたしゅーとん",
+      "rule": "Player name correction: シュート→しゅーとん (Shuton)"
+    },
+    {
+      "segment_idx": 7,
+      "original": "俺は崖上がり本当に強くないんで",
+      "corrected": "オリマーは崖上がり本当に強くないんで",
+      "rule": "Whisper mishearing: 俺は→オリマーは (character name)"
+    }
+  ]
+}

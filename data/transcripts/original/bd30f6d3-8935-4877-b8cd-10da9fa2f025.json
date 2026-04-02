@@ -1,0 +1,69 @@
+{
+  "id": "bd30f6d3-8935-4877-b8cd-10da9fa2f025",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.7,
+      "text": "詰まりますけれども",
+      "language": "ja"
+    },
+    {
+      "start": 0.7,
+      "end": 3.24,
+      "text": "いやー難しい",
+      "language": "ja"
+    },
+    {
+      "start": 3.24,
+      "end": 4.48,
+      "text": "はいしかしライン詰めています",
+      "language": "ja"
+    },
+    {
+      "start": 4.48,
+      "end": 5.88,
+      "text": "いや掴みが通るんだ",
+      "language": "ja"
+    },
+    {
+      "start": 5.88,
+      "end": 7.42,
+      "text": "そして空中前",
+      "language": "ja"
+    },
+    {
+      "start": 7.42,
+      "end": 9.1,
+      "text": "体重の軽さも相まって",
+      "language": "ja"
+    },
+    {
+      "start": 9.1,
+      "end": 11.0,
+      "text": "ひとたび外側に出れば",
+      "language": "ja"
+    },
+    {
+      "start": 11.0,
+      "end": 11.62,
+      "text": "絶対に詰め",
+      "language": "ja"
+    },
+    {
+      "start": 11.62,
+      "end": 12.14,
+      "text": "いやこう",
+      "language": "ja"
+    }
+  ],
+  "full_text": "詰まりますけれども いやー難しい はいしかしライン詰めています いや掴みが通るんだ そして空中前 体重の軽さも相まって ひとたび外側に出れば 絶対に詰め いやこう",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "ラウンド詰めています",
+      "corrected": "ライン詰めています",
+      "rule": "Whisper error"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "id": "3c537560-4f77-48ae-85bf-1d80caa9db2d",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.32,
+      "text": "まずは杖がひどいものにしたい",
+      "language": "ja"
+    },
+    {
+      "start": 1.32,
+      "end": 3.28,
+      "text": "空Nであえて食らって",
+      "language": "ja"
+    },
+    {
+      "start": 3.28,
+      "end": 5.84,
+      "text": "バナナを捨てさせていく構え",
+      "language": "ja"
+    },
+    {
+      "start": 5.84,
+      "end": 6.42,
+      "text": "下スマッシュ",
+      "language": "ja"
+    },
+    {
+      "start": 6.42,
+      "end": 8.78,
+      "text": "回避を見ていたがギリギリ間に合いはしなかった",
+      "language": "ja"
+    },
+    {
+      "start": 8.78,
+      "end": 10.4,
+      "text": "あげてあげてあげて",
+      "language": "ja"
+    }
+  ],
+  "full_text": "まずは杖がひどいものにしたい 空Nであえて食らって バナナを捨てさせていく構え 下スマッシュ 回避を見ていたがギリギリ間に合いはしなかった あげてあげてあげて",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "空中で",
+      "corrected": "空Nで",
+      "rule": "空中→空N"
+    }
+  ]
+}

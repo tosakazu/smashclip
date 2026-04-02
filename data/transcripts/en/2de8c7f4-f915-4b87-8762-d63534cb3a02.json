@@ -1,0 +1,40 @@
+{
+  "id": "2de8c7f4-f915-4b87-8762-d63534cb3a02",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.14,
+      "text": "Nair",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空N"
+    },
+    {
+      "start": 2.14,
+      "end": 3.76,
+      "text": "Reading the ledge play well",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "崖の展開よく見ている"
+    },
+    {
+      "start": 3.76,
+      "end": 7.24,
+      "text": "Gets sent away and comes back from below, but...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "外に逃げて下から戻ってくるが"
+    }
+  ],
+  "full_text": "Nair Reading the ledge play well Gets sent away and comes back from below, but...",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "空中ニュートラル",
+      "corrected": "空N",
+      "rule": "move name normalization"
+    }
+  ]
+}

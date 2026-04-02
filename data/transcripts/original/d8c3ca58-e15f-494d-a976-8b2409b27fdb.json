@@ -1,0 +1,57 @@
+{
+  "id": "d8c3ca58-e15f-494d-a976-8b2409b27fdb",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.12,
+      "text": "あ、こちらも確認してるガーキャン空上で",
+      "language": "ja"
+    },
+    {
+      "start": 4.12,
+      "end": 6.06,
+      "text": "前回避、即座にラインを入れ替えて",
+      "language": "ja"
+    },
+    {
+      "start": 6.06,
+      "end": 8.1,
+      "text": "デインやばい",
+      "language": "ja"
+    },
+    {
+      "start": 8.1,
+      "end": 11.5,
+      "text": "ため装填、投げはかわした",
+      "language": "ja"
+    },
+    {
+      "start": 11.5,
+      "end": 12.76,
+      "text": "空中前、焦がす精神を",
+      "language": "ja"
+    }
+  ],
+  "full_text": "あ、こちらも確認してるガーキャン空上で 前回避、即座にラインを入れ替えて デインやばい ため装填、投げはかわした 空中前、焦がす精神を",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "あ、こちらも確認してるガーキャンク上で",
+      "corrected": "あ、こちらも確認してるガーキャン空上で",
+      "rule": "smash notation (ガーキャンク→ガーキャン)"
+    },
+    {
+      "segment_idx": 2,
+      "original": "ディーンやばれ",
+      "corrected": "デインやばい",
+      "rule": "Hero spell name (デイン)"
+    },
+    {
+      "segment_idx": 3,
+      "original": "亀戸装填、投げはかわした",
+      "corrected": "ため装填、投げはかわした",
+      "rule": "whisper_misrecognition"
+    }
+  ]
+}

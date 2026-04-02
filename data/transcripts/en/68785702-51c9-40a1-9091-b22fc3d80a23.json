@@ -1,0 +1,70 @@
+{
+  "id": "68785702-51c9-40a1-9091-b22fc3d80a23",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.1,
+      "text": "Playing it safe while taking the neutral game",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "最低限の処理は行いつつ展開の方を優先"
+    },
+    {
+      "start": 3.1,
+      "end": 5.6,
+      "text": "Slowly closing the distance",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "じわりじわりとラインを詰めて"
+    },
+    {
+      "start": 5.6,
+      "end": 8.58,
+      "text": "Waiting intently for a big punish opportunity",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "どこかで大きなリターンを取ってやろうと虎視眈々と攻め"
+    },
+    {
+      "start": 8.58,
+      "end": 11.0,
+      "text": "Pikmin stuck on him",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "引っ付いてるピクミン"
+    },
+    {
+      "start": 11.0,
+      "end": 11.88,
+      "text": "What's happening here?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これはどうしていて"
+    },
+    {
+      "start": 11.88,
+      "end": 14.28,
+      "text": "WHAM! The charged up smash!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "グワーッ!構えていた上スマッシュ"
+    }
+  ],
+  "full_text": "Playing it safe while taking the neutral game Slowly closing the distance Waiting intently for a big punish opportunity Pikmin stuck on him What's happening here? WHAM! The charged up smash!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "コシタンタトメ",
+      "corrected": "虎視眈々と攻め",
+      "rule": "misheard idiom (こしたんたんとせめ)"
+    },
+    {
+      "segment_idx": 5,
+      "original": "ぐわーち構えていた",
+      "corrected": "グワーッ!構えていた",
+      "rule": "exclamation formatting"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "15c8eb6b-6fab-409b-9449-627dfeb70da7",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.78,
+      "text": "161%",
+      "language": "ja"
+    },
+    {
+      "start": 2.78,
+      "end": 5.0,
+      "text": "つかみを狙う",
+      "language": "ja"
+    },
+    {
+      "start": 5.0,
+      "end": 7.5,
+      "text": "そしてここは空前",
+      "language": "ja"
+    },
+    {
+      "start": 7.5,
+      "end": 9.72,
+      "text": "最後",
+      "language": "ja"
+    }
+  ],
+  "full_text": "161% つかみを狙う そしてここは空前 最後",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "そしてここは空中前",
+      "corrected": "そしてここは空前",
+      "rule": "Move abbreviation: 空中前→空前"
+    }
+  ]
+}

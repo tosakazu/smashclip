@@ -1,0 +1,45 @@
+{
+  "id": "3813af34-10d3-4cb3-929d-a341d8252787",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.88,
+      "text": "カウント本体",
+      "language": "ja"
+    },
+    {
+      "start": 0.88,
+      "end": 3.28,
+      "text": "と",
+      "language": "ja"
+    },
+    {
+      "start": 3.28,
+      "end": 7.4,
+      "text": "カウント本体",
+      "language": "ja"
+    },
+    {
+      "start": 7.4,
+      "end": 8.24,
+      "text": "で",
+      "language": "ja"
+    },
+    {
+      "start": 8.24,
+      "end": 9.3,
+      "text": "よく仕込った",
+      "language": "ja"
+    }
+  ],
+  "full_text": "カウント本体 と カウント本体 で よく仕込った",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 4,
+      "original": "よくしこった",
+      "corrected": "よく仕込った",
+      "rule": "misheard word"
+    }
+  ]
+}

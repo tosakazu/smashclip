@@ -1,0 +1,33 @@
+{
+  "id": "30bdd7cd-dc10-4fb9-a48a-3f5e218ea894",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.0,
+      "text": "It's like the jumping double from cold!",
+      "language": "en"
+    },
+    {
+      "start": 3.0,
+      "end": 5.0,
+      "text": "Yeah, poor Alibar.",
+      "language": "en"
+    },
+    {
+      "start": 5.0,
+      "end": 9.0,
+      "text": "Yeah, unfortunately that's going to lead to uame's demise.",
+      "language": "en"
+    }
+  ],
+  "full_text": "It's like the jumping double from cold! Yeah, poor Alibar. Yeah, unfortunately that's going to lead to uame's demise.",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "Uwabe's",
+      "corrected": "uame's",
+      "rule": "player name"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "6c9173fa-0bf7-4a3d-a8a9-edb3730867b4",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.7,
+      "text": "崖を掴まった ギリギリ 1フレーム",
+      "language": "ja"
+    },
+    {
+      "start": 4.7,
+      "end": 9.76,
+      "text": "ダイブダウン 空N持続 引き完成 ここでも丁寧",
+      "language": "ja"
+    },
+    {
+      "start": 9.76,
+      "end": 12.56,
+      "text": "空後",
+      "language": "ja"
+    },
+    {
+      "start": 12.56,
+      "end": 18.16,
+      "text": "ヘブンズ ゲートをかわして あーっと",
+      "language": "ja"
+    }
+  ],
+  "full_text": "崖を掴まった ギリギリ 1フレーム ダイブダウン 空N持続 引き完成 ここでも丁寧 空後 ヘブンズ ゲートをかわして あーっと",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_index": 0,
+      "original": "崎を捕まった ギリギリ ユーリフレーム",
+      "corrected": "崖を掴まった ギリギリ 1フレーム"
+    },
+    {
+      "segment_index": 1,
+      "original": "ダイブダウン クーエヌ持続 引き完成 ここでも丁寧",
+      "corrected": "ダイブダウン 空N持続 引き完成 ここでも丁寧"
+    },
+    {
+      "segment_index": 2,
+      "original": "空中射",
+      "corrected": "空後"
+    }
+  ]
+}

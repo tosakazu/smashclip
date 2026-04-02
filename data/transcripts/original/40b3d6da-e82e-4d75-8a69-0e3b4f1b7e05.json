@@ -1,0 +1,38 @@
+{
+  "id": "40b3d6da-e82e-4d75-8a69-0e3b4f1b7e05",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.32,
+      "text": "さあ勢いのままに",
+      "language": "ja"
+    },
+    {
+      "start": 1.32,
+      "end": 2.64,
+      "text": "ヘロー選手の猛攻",
+      "language": "ja"
+    },
+    {
+      "start": 2.64,
+      "end": 4.56,
+      "text": "リードを取ったなら",
+      "language": "ja"
+    },
+    {
+      "start": 4.56,
+      "end": 7.8,
+      "text": "差を維持するのではなく猛攻をかけなさいと",
+      "language": "ja"
+    },
+    {
+      "start": 7.8,
+      "end": 9.56,
+      "text": "さあ上から",
+      "language": "ja"
+    }
+  ],
+  "full_text": "さあ勢いのままに ヘロー選手の猛攻 リードを取ったなら 差を維持するのではなく猛攻をかけなさいと さあ上から",
+  "detected_language": "ja",
+  "corrections": []
+}

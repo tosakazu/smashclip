@@ -1,0 +1,70 @@
+{
+  "id": "4c6062f4-4232-4350-84c0-d05432ba72f5",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.9,
+      "text": "Commits the dash attack",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "聞いたところに対してダッシュ攻撃を投げ込んで"
+    },
+    {
+      "start": 1.9,
+      "end": 2.74,
+      "text": "Forward smash!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "横スマッシュ"
+    },
+    {
+      "start": 2.74,
+      "end": 4.78,
+      "text": "Didn't have the percent!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "パーセントの蓄積が足りなかったか"
+    },
+    {
+      "start": 4.78,
+      "end": 7.74,
+      "text": "Fair!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空前Miyaー"
+    },
+    {
+      "start": 7.74,
+      "end": 8.68,
+      "text": "Connects!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "噛み合ったー"
+    },
+    {
+      "start": 8.68,
+      "end": 9.08,
+      "text": "Gets away!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "逃げ切る"
+    }
+  ],
+  "full_text": "Commits the dash attack Forward smash! Didn't have the percent! Fair! Connects! Gets away!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 3,
+      "original": "宇宙マイヤー",
+      "corrected": "空前Miyaー",
+      "rule": "move abbreviation + player name (宇宙→空前, マイヤー→Miya)"
+    },
+    {
+      "segment_idx": 4,
+      "original": "かんにあったー",
+      "corrected": "噛み合ったー",
+      "rule": "misheard word"
+    }
+  ]
+}

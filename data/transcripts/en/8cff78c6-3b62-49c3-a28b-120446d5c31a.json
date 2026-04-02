@@ -1,0 +1,80 @@
+{
+  "id": "8cff78c6-3b62-49c3-a28b-120446d5c31a",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.12,
+      "text": "It's like whether to come out early or shield up",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "早出しするかガードするかっていう感じなんですけど"
+    },
+    {
+      "start": 3.12,
+      "end": 7.24,
+      "text": "Really carefully holding shield and dropping shield over and over",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "結構入念にガード張りっぱだったりガード解除だったりを繰り返して"
+    },
+    {
+      "start": 7.24,
+      "end": 9.72,
+      "text": "Being very careful to avoid getting hit",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "結構当たらないように注意してますね"
+    },
+    {
+      "start": 9.72,
+      "end": 11.78,
+      "text": "Forcing it and getting hit is the most dangerous thing",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "無理に行って当たるのが一番危ないんで"
+    },
+    {
+      "start": 11.78,
+      "end": 16.84,
+      "text": "Not forcing things—that's a thoroughly low-risk approach",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "無理をしないといいますか徹底したローリスク"
+    },
+    {
+      "start": 16.84,
+      "end": 19.62,
+      "text": "Dash shield, dash shield, inching forward step by step",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ダッシュガードダッシュガードで地道に詰めていく形"
+    },
+    {
+      "start": 19.62,
+      "end": 23.04,
+      "text": "That's how solid this shield defense is",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "このガードの硬さなんですよね"
+    },
+    {
+      "start": 23.04,
+      "end": 26.08,
+      "text": "Patience and striking when you find your opening",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "我慢強さとそして行けるところで行く"
+    }
+  ],
+  "full_text": "It's like whether to come out early or shield up. Really carefully holding shield and dropping shield over and over. Being very careful to avoid getting hit. Forcing it and getting hit is the most dangerous thing. Not forcing things—that's a thoroughly low-risk approach. Dash shield, dash shield, inching forward step by step. That's how solid this shield defense is. Patience and striking when you find your opening",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 6,
+      "original": "コムガード",
+      "corrected": "このガード",
+      "rule": "misheard word"
+    }
+  ]
+}

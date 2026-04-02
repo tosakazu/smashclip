@@ -1,0 +1,57 @@
+{
+  "id": "e7f3d7e2-a74d-45f6-9e1d-0ba48d6ea2fe",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.54,
+      "text": "はいNB通して撃墜",
+      "language": "ja"
+    },
+    {
+      "start": 1.54,
+      "end": 5.64,
+      "text": "試合がまたも早く動きます",
+      "language": "ja"
+    },
+    {
+      "start": 5.64,
+      "end": 9.96,
+      "text": "反転から空中Nで絡んだら今度はキョンリンクの攻めになる",
+      "language": "ja"
+    },
+    {
+      "start": 9.96,
+      "end": 11.84,
+      "text": "空中前通し切ったその後",
+      "language": "ja"
+    },
+    {
+      "start": 11.84,
+      "end": 15.24,
+      "text": "ブーメラン空中前通る",
+      "language": "ja"
+    },
+    {
+      "start": 15.24,
+      "end": 18.72,
+      "text": "まだ撃墜はしないがプレッシャーがかかってくる",
+      "language": "ja"
+    }
+  ],
+  "full_text": "はいNB通して撃墜 試合がまたも早く動きます 反転から空中Nで絡んだら今度はキョンリンクの攻めになる 空中前通し切ったその後 ブーメラン空中前通る まだ撃墜はしないがプレッシャーがかかってくる",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "エビー",
+      "corrected": "NB",
+      "rule": "misheard: エビー→NB"
+    },
+    {
+      "segment_idx": 2,
+      "original": "ハンデから空中に寝たら",
+      "corrected": "反転から空中Nで絡んだら",
+      "rule": "misheard"
+    }
+  ]
+}

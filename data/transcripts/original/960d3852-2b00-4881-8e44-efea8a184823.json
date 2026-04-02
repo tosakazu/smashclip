@@ -1,0 +1,81 @@
+{
+  "id": "960d3852-2b00-4881-8e44-efea8a184823",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.5,
+      "text": "つかみでリスクをつける!",
+      "language": "ja"
+    },
+    {
+      "start": 1.5,
+      "end": 3.0,
+      "text": "投げならいいと思ってますね",
+      "language": "ja"
+    },
+    {
+      "start": 3.0,
+      "end": 4.0,
+      "text": "マウントすら確認しているか?",
+      "language": "ja"
+    },
+    {
+      "start": 4.0,
+      "end": 6.0,
+      "text": "不確定か?SJ1個から空下!",
+      "language": "ja"
+    },
+    {
+      "start": 6.0,
+      "end": 7.0,
+      "text": "確定!",
+      "language": "ja"
+    },
+    {
+      "start": 7.0,
+      "end": 9.0,
+      "text": "シールドに出して掴みで伸ばす!",
+      "language": "ja"
+    },
+    {
+      "start": 9.0,
+      "end": 10.0,
+      "text": "これはちょっと確定か?",
+      "language": "ja"
+    },
+    {
+      "start": 10.0,
+      "end": 12.0,
+      "text": "怪しいっていうところもあって読み合ってきましたね",
+      "language": "ja"
+    },
+    {
+      "start": 12.0,
+      "end": 13.0,
+      "text": "ストック!ストック!",
+      "language": "ja"
+    }
+  ],
+  "full_text": "つかみでリスクをつける! 投げならいいと思ってますね マウントすら確認しているか? 不確定か?SJ1個から空下! 確定! シールドに出して掴みで伸ばす! これはちょっと確定か? 怪しいっていうところもあって読み合ってきましたね ストック!ストック!",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 3,
+      "original": "SF1個から空中しろ!",
+      "corrected": "SJ1個から空下!",
+      "rule": "move abbreviation (SF→SJ, 空中しろ→空下)"
+    },
+    {
+      "segment_idx": 5,
+      "original": "シルブルに出してつかみで伸ばす!",
+      "corrected": "シールドに出して掴みで伸ばす!",
+      "rule": "misheard word (シルブル→シールド)"
+    },
+    {
+      "segment_idx": 8,
+      "original": "スタート!スタート!",
+      "corrected": "ストック!ストック!",
+      "rule": "misheard word"
+    }
+  ]
+}

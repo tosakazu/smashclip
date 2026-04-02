@@ -1,0 +1,102 @@
+{
+  "id": "62ab910c-a9f4-4e1a-9d68-23061c2c71dd",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.9,
+      "text": "Marth never stops pressuring with the bair!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあしかしリゼアスのマルス攻める手を休めない空後"
+    },
+    {
+      "start": 4.9,
+      "end": 7.78,
+      "text": "Can Villager make it back?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "引く盛り村人帰ってくるか"
+    },
+    {
+      "start": 7.78,
+      "end": 8.92,
+      "text": "One hit knockdown!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあパチンコで一撃"
+    },
+    {
+      "start": 8.92,
+      "end": 10.84,
+      "text": "That recovery is insanely good!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "上手すぎる復帰力"
+    },
+    {
+      "start": 10.84,
+      "end": 12.92,
+      "text": "The recovery is so clean!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "復帰力が上手い"
+    },
+    {
+      "start": 12.92,
+      "end": 15.96,
+      "text": "Going in aggressive again - that's the play!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあここは乗っていってこれまた上手い"
+    },
+    {
+      "start": 15.96,
+      "end": 18.4,
+      "text": "Down tilt to nair!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "下強空中ニュートラル"
+    },
+    {
+      "start": 18.4,
+      "end": 19.48,
+      "text": "The grab connects!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "掴みを通していく"
+    },
+    {
+      "start": 19.48,
+      "end": 21.04,
+      "text": "Reading that grab perfectly!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここで掴みを通す精神"
+    },
+    {
+      "start": 21.04,
+      "end": 23.62,
+      "text": "And the roll escape!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "あっと転がったところ"
+    }
+  ],
+  "full_text": "Marth never stops pressuring with the bair! Can Villager make it back? One hit knockdown! That recovery is insanely good! The recovery is so clean! Going in aggressive again - that's the play! Down tilt to nair! The grab connects! Reading that grab perfectly! And the roll escape!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "リゼアスマルス",
+      "corrected": "リゼアスのマルス",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 0,
+      "original": "空中しろ",
+      "corrected": "空後",
+      "rule": "smash term (空中後ろ)"
+    }
+  ]
+}

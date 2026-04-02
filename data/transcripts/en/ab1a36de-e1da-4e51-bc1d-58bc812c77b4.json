@@ -1,0 +1,26 @@
+{
+  "id": "ab1a36de-e1da-4e51-bc1d-58bc812c77b4",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.98,
+      "text": "Yeah, absolutely brought this all the way back now, Ball.",
+      "language": "en"
+    },
+    {
+      "start": 4.1,
+      "end": 6.92,
+      "text": "Gatsby's got to find his way to close this out.",
+      "language": "en"
+    },
+    {
+      "start": 7.02,
+      "end": 9.08,
+      "text": "And it won't be it as Ball will.",
+      "language": "en"
+    }
+  ],
+  "full_text": "Yeah, absolutely brought this all the way back now, Ball. Gatsby's got to find his way to close this out. And it won't be it as Ball will.",
+  "detected_language": "en",
+  "corrections": []
+}

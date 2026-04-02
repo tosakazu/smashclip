@@ -1,0 +1,25 @@
+{
+  "id": "f1383ef0-c2d3-4d71-8371-a8fc891ee41a",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.0,
+      "text": "Ah, you fell for the super armor, classic against...",
+      "language": "en",
+      "original_language": "es",
+      "original_text": "Ah, caíste en la super armor, clásico contra..."
+    },
+    {
+      "start": 5.0,
+      "end": 5.72,
+      "text": "Oh, I'm up!",
+      "language": "en",
+      "original_language": "es",
+      "original_text": "Oh, arriba estoy."
+    }
+  ],
+  "full_text": "Ah, you fell for the super armor, classic against... Oh, I'm up!",
+  "detected_language": "en",
+  "original_language": "es",
+  "corrections": []
+}

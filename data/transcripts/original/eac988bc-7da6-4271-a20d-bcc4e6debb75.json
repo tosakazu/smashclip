@@ -1,0 +1,63 @@
+{
+  "id": "eac988bc-7da6-4271-a20d-bcc4e6debb75",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.26,
+      "text": "当てと横スマッシュホールド",
+      "language": "ja"
+    },
+    {
+      "start": 1.26,
+      "end": 2.66,
+      "text": "ギリギリギリギリ撃墜しない",
+      "language": "ja"
+    },
+    {
+      "start": 2.66,
+      "end": 6.06,
+      "text": "正面は下が大幅に移動取っていくのはTweek",
+      "language": "ja"
+    },
+    {
+      "start": 6.06,
+      "end": 9.08,
+      "text": "しっかりやつにバナナも当てて",
+      "language": "ja"
+    },
+    {
+      "start": 9.08,
+      "end": 12.18,
+      "text": "下強ですが即座にガーキャン上スマッシュ",
+      "language": "ja"
+    }
+  ],
+  "full_text": "当てと横スマッシュホールド ギリギリギリギリ撃墜しない 正面は下が大幅に移動取っていくのはTweek しっかりやつにバナナも当てて 下強ですが即座にガーキャン上スマッシュ",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "キーキーキーキー失礼しない",
+      "corrected": "ギリギリギリギリ撃墜しない",
+      "rule": "misheard"
+    },
+    {
+      "segment_idx": 2,
+      "original": "正観は下が大幅に移動とっていくのはツインク",
+      "corrected": "正面は下が大幅に移動取っていくのはTweek",
+      "rule": "player name: ツインク→Tweek"
+    },
+    {
+      "segment_idx": 3,
+      "original": "そろっこりやつにバナーも当てて",
+      "corrected": "しっかりやつにバナナも当てて",
+      "rule": "misheard: バナー→バナナ"
+    },
+    {
+      "segment_idx": 4,
+      "original": "即三夜の",
+      "corrected": "即座に",
+      "rule": "misheard"
+    }
+  ]
+}

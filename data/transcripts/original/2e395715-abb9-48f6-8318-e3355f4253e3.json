@@ -1,0 +1,50 @@
+{
+  "id": "2e395715-abb9-48f6-8318-e3355f4253e3",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.66,
+      "text": "行くしかないがまずいか",
+      "language": "ja"
+    },
+    {
+      "start": 1.66,
+      "end": 3.38,
+      "text": "くめくめ大きくつきましたね",
+      "language": "ja"
+    },
+    {
+      "start": 3.38,
+      "end": 4.76,
+      "text": "一気に取っていった",
+      "language": "ja"
+    },
+    {
+      "start": 4.76,
+      "end": 7.12,
+      "text": "これは安い",
+      "language": "ja"
+    },
+    {
+      "start": 7.12,
+      "end": 7.76,
+      "text": "大変だ",
+      "language": "ja"
+    },
+    {
+      "start": 7.76,
+      "end": 9.84,
+      "text": "大変だ",
+      "language": "ja"
+    },
+    {
+      "start": 9.84,
+      "end": 12.76,
+      "text": "大変だ",
+      "language": "ja"
+    }
+  ],
+  "full_text": "行くしかないがまずいか くめくめ大きくつきましたね 一気に取っていった これは安い 大変だ 大変だ 大変だ",
+  "detected_language": "ja",
+  "corrections": []
+}

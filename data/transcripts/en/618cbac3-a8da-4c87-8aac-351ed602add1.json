@@ -1,0 +1,33 @@
+{
+  "id": "618cbac3-a8da-4c87-8aac-351ed602add1",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.66,
+      "text": "Can't make it!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いやー飛べない"
+    },
+    {
+      "start": 1.66,
+      "end": 3.28,
+      "text": "Nice jab!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いい弱だ"
+    },
+    {
+      "start": 3.28,
+      "end": 4.42,
+      "text": "Airborne!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空中"
+    }
+  ],
+  "full_text": "Can't make it! Nice jab! Airborne!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

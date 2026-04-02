@@ -1,0 +1,57 @@
+{
+  "id": "ef6ce723-4771-4fba-8a0f-92c5ac77253d",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.8,
+      "text": "All the momentum in his favor.",
+      "language": "en"
+    },
+    {
+      "start": 1.96,
+      "end": 2.3,
+      "text": "Lead.",
+      "language": "en"
+    },
+    {
+      "start": 2.86,
+      "end": 6.14,
+      "text": "Wind in his sails and the lead on his side.",
+      "language": "en"
+    },
+    {
+      "start": 6.32,
+      "end": 9.72,
+      "text": "And this down air up smash is so brutal right now.",
+      "language": "en"
+    },
+    {
+      "start": 9.8,
+      "end": 12.06,
+      "text": "And Gachipi cannot find his way into this game at all.",
+      "language": "en"
+    },
+    {
+      "start": 12.1,
+      "end": 12.36,
+      "text": "Oh!",
+      "language": "en"
+    },
+    {
+      "start": 13.6,
+      "end": 15.56,
+      "text": "Yeah, did he get a chance to use?",
+      "language": "en"
+    }
+  ],
+  "full_text": "All the momentum in his favor. Lead. Wind in his sails and the lead on his side. And this down air up smash is so brutal right now. And Gachipi cannot find his way into this game at all. Oh! Yeah, did he get a chance to use?",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 4,
+      "original": "Gachapy",
+      "corrected": "Gachipi",
+      "rule": "player name"
+    }
+  ]
+}

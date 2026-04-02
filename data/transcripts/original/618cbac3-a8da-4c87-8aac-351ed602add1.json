@@ -1,0 +1,26 @@
+{
+  "id": "618cbac3-a8da-4c87-8aac-351ed602add1",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.66,
+      "text": "いやー飛べない",
+      "language": "ja"
+    },
+    {
+      "start": 1.66,
+      "end": 3.28,
+      "text": "いい弱だ",
+      "language": "ja"
+    },
+    {
+      "start": 3.28,
+      "end": 4.42,
+      "text": "空中",
+      "language": "ja"
+    }
+  ],
+  "full_text": "いやー飛べない いい弱だ 空中",
+  "detected_language": "ja",
+  "corrections": []
+}

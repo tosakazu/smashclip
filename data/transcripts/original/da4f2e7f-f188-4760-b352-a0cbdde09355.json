@@ -1,0 +1,20 @@
+{
+  "id": "da4f2e7f-f188-4760-b352-a0cbdde09355",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.34,
+      "text": "Pero bueno, vamos a ver aquí este Doner que está encontrado, casi lo ha shipwrecked, pero bueno, no va a pasar.",
+      "language": "es"
+    },
+    {
+      "start": 6.6,
+      "end": 7.26,
+      "text": "Y aquí está Dash.",
+      "language": "es"
+    }
+  ],
+  "full_text": "Pero bueno, vamos a ver aquí este Doner que está encontrado, casi lo ha shipwrecked, pero bueno, no va a pasar. Y aquí está Dash.",
+  "detected_language": "es",
+  "corrections": []
+}

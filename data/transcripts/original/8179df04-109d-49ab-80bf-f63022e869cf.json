@@ -1,0 +1,32 @@
+{
+  "id": "8179df04-109d-49ab-80bf-f63022e869cf",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.02,
+      "text": "グーパンチが見えました",
+      "language": "ja"
+    },
+    {
+      "start": 1.02,
+      "end": 3.38,
+      "text": "このままかいかれよ5強",
+      "language": "ja"
+    },
+    {
+      "start": 3.38,
+      "end": 5.58,
+      "text": "ジャストシールド",
+      "language": "ja"
+    },
+    {
+      "start": 5.58,
+      "end": 7.02,
+      "text": "うますぎる",
+      "language": "ja"
+    }
+  ],
+  "full_text": "グーパンチが見えました このままかいかれよ5強 ジャストシールド うますぎる",
+  "detected_language": "ja",
+  "corrections": []
+}

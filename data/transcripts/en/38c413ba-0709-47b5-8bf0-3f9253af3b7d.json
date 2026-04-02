@@ -1,0 +1,84 @@
+{
+  "id": "38c413ba-0709-47b5-8bf0-3f9253af3b7d",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.72,
+      "text": "Powering through at this critical moment!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "この土壇場で通していきます"
+    },
+    {
+      "start": 1.72,
+      "end": 3.92,
+      "text": "That's uncertain!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "わからないぞ"
+    },
+    {
+      "start": 3.92,
+      "end": 6.56,
+      "text": "Once the stocks are even...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ストックさえ並んでしまえば"
+    },
+    {
+      "start": 6.56,
+      "end": 7.6,
+      "text": "up air",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空上"
+    },
+    {
+      "start": 7.6,
+      "end": 9.26,
+      "text": "Zakray",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ザクレイ"
+    },
+    {
+      "start": 9.26,
+      "end": 10.6,
+      "text": "up air",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空上"
+    },
+    {
+      "start": 10.6,
+      "end": 12.4,
+      "text": "Even if they dodge once, there's another one coming!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "一回避けられてももう一回あるぞと"
+    }
+  ],
+  "full_text": "Powering through at this critical moment! That's uncertain! Once the stocks are even... up air Zakray up air Even if they dodge once, there's another one coming!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 3,
+      "original": "口上",
+      "corrected": "空上",
+      "rule": "kanji homophone: 口上→空上"
+    },
+    {
+      "segment_idx": 4,
+      "original": "ザック",
+      "corrected": "ザクレイ",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 5,
+      "original": "口上",
+      "corrected": "空上",
+      "rule": "kanji homophone: 口上→空上"
+    }
+  ]
+}

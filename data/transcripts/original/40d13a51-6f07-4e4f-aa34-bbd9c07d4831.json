@@ -1,0 +1,20 @@
+{
+  "id": "40d13a51-6f07-4e4f-aa34-bbd9c07d4831",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 7.0,
+      "text": "cypher oh no that's tough situation rolling out to ledge not the situation you want to be in",
+      "language": "en"
+    },
+    {
+      "start": 7.0,
+      "end": 9.32,
+      "text": "through the through the nikita to the",
+      "language": "en"
+    }
+  ],
+  "full_text": "cypher oh no that's tough situation rolling out to ledge not the situation you want to be in through the through the nikita to the",
+  "detected_language": "en",
+  "corrections": []
+}

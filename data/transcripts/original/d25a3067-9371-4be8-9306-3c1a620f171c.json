@@ -1,0 +1,51 @@
+{
+  "id": "d25a3067-9371-4be8-9306-3c1a620f171c",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.48,
+      "text": "空後展開継続うまく通っている空Nに続く",
+      "language": "ja"
+    },
+    {
+      "start": 4.48,
+      "end": 6.84,
+      "text": "さあどうだここの復帰は下から押せていく",
+      "language": "ja"
+    },
+    {
+      "start": 6.84,
+      "end": 9.88,
+      "text": "さあ台上がり気づけばパーセント横並びだ",
+      "language": "ja"
+    },
+    {
+      "start": 9.88,
+      "end": 11.72,
+      "text": "あーずっと空",
+      "language": "ja"
+    }
+  ],
+  "full_text": "空後展開継続うまく通っている空Nに続く さあどうだここの復帰は下から押せていく さあ台上がり気づけばパーセント横並びだ あーずっと空",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "空中しろ展開継続",
+      "corrected": "空後展開継続",
+      "rule": "smash term (空中しろ→空後)"
+    },
+    {
+      "segment_idx": 0,
+      "original": "空中に続く",
+      "corrected": "空Nに続く",
+      "rule": "smash term (空中→空N)"
+    },
+    {
+      "segment_idx": 2,
+      "original": "さあだ買い上がり",
+      "corrected": "さあ台上がり",
+      "rule": "smash term (だ買い上がり→台上がり)"
+    }
+  ]
+}

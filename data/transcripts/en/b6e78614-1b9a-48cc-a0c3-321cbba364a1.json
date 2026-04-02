@@ -1,0 +1,46 @@
+{
+  "id": "b6e78614-1b9a-48cc-a0c3-321cbba364a1",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.34,
+      "text": "This is",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これは"
+    },
+    {
+      "start": 2.4,
+      "end": 8.06,
+      "text": "recovering from 128%—totally fine depending on the DI!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "128%から復活しますよ全然大丈夫ですか この噛み合い次第で"
+    },
+    {
+      "start": 8.06,
+      "end": 10.94,
+      "text": "Nah, no way!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いやー無理"
+    }
+  ],
+  "full_text": "This is recovering from 128%—totally fine depending on the DI! Nah, no way!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "128カード復活しますよ",
+      "corrected": "128%から復活しますよ",
+      "rule": "misheard word"
+    },
+    {
+      "segment_idx": 1,
+      "original": "このか見合い次第で",
+      "corrected": "この噛み合い次第で",
+      "rule": "kanji homophone"
+    }
+  ]
+}

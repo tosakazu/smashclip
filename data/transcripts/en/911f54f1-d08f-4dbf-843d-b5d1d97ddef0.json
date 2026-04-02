@@ -1,0 +1,80 @@
+{
+  "id": "911f54f1-d08f-4dbf-843d-b5d1d97ddef0",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.48,
+      "text": "Throw's totally solid here",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "投げなら正直いいからな"
+    },
+    {
+      "start": 1.48,
+      "end": 3.62,
+      "text": "Spin into the fair!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあスピン通して空中前"
+    },
+    {
+      "start": 3.62,
+      "end": 5.04,
+      "text": "Perfect opening, but...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "絶好のチャンスがやってきたが"
+    },
+    {
+      "start": 5.04,
+      "end": 6.96,
+      "text": "Little escapes that cleanly!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "リトルスここをうまくごまかした"
+    },
+    {
+      "start": 6.96,
+      "end": 8.46,
+      "text": "Riddles escapes that cleanly!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "リドルスここをうまくごまかした"
+    },
+    {
+      "start": 8.46,
+      "end": 10.38,
+      "text": "The momentum swings!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "跳ねた展開"
+    },
+    {
+      "start": 10.38,
+      "end": 12.82,
+      "text": "Way too good!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "うますぎる"
+    },
+    {
+      "start": 12.82,
+      "end": 13.36,
+      "text": "Double!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ダブル"
+    }
+  ],
+  "full_text": "Throw's totally solid here Spin into the fair! Perfect opening, but... Little escapes that cleanly! Riddles escapes that cleanly! The momentum swings! Way too good! Double!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 4,
+      "original": "リトルス",
+      "corrected": "リドルス",
+      "rule": "player name"
+    }
+  ]
+}

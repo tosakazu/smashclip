@@ -1,0 +1,74 @@
+{
+  "id": "869cdad4-4d04-4798-b383-e7daef434a50",
+  "segments": [
+    {
+      "start": 0.96,
+      "end": 1.86,
+      "text": "Empty flip kick",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "すかしフリップキック"
+    },
+    {
+      "start": 1.86,
+      "end": 5.22,
+      "text": "But without the banana...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "とはいえバナナがない状況"
+    },
+    {
+      "start": 5.22,
+      "end": 6.9,
+      "text": "Where does he confirm that KO?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "この撃墜をどこで取り切るか"
+    },
+    {
+      "start": 6.9,
+      "end": 9.58,
+      "text": "Of course acola doesn't have to engage",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "もちろんacolaは付き合う必要はない"
+    },
+    {
+      "start": 9.58,
+      "end": 13.78,
+      "text": "Reading that DI!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ベク変を確認しているからこそ"
+    }
+  ],
+  "full_text": "Empty flip kick! But without the banana... Where does he confirm that KO? Of course acola doesn't have to engage. Reading that DI!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "スカッシブルリップキック",
+      "corrected": "すかしフリップキック",
+      "rule": "misheard (スカッシブル→すかし)"
+    },
+    {
+      "segment_idx": 2,
+      "original": "この激戦にどこで取り切るか",
+      "corrected": "この撃墜をどこで取り切るか",
+      "rule": "kanji homophone (激戦→撃墜)"
+    },
+    {
+      "segment_idx": 3,
+      "original": "アコーラ",
+      "corrected": "acola",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 4,
+      "original": "下京変更を確認しているからこそ",
+      "corrected": "ベク変を確認しているからこそ",
+      "rule": "Smash term (下京変更→ベク変)"
+    }
+  ]
+}

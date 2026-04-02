@@ -1,0 +1,33 @@
+{
+  "id": "929d1bd1-0c4a-4568-a2a1-f5d53554c676",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.4,
+      "text": "Insane pressure! The game's strongest footsies are bearing down on Yaumura!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "とんでもない小足だこのゲーム最強の小足が矢浦を襲う"
+    },
+    {
+      "start": 3.4,
+      "end": 8.36,
+      "text": "Up special covers the aerial mash with that solid hitbox—Yaumura's turn!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空中ニュートラル暴れに対し上必殺技の強靭な判定をかぶせて矢浦のターン"
+    },
+    {
+      "start": 8.36,
+      "end": 11.92,
+      "text": "Here we go! What happens? Charged shot connects on the fair mash—incredible!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあこの賭けどうなるチャージショット空中前暴れに当ててここは激"
+    }
+  ],
+  "full_text": "Insane pressure! The game's strongest footsies are bearing down on Yaumura! Up special covers the aerial mash with that solid hitbox—Yaumura's turn! Here we go! What happens? Charged shot connects on the fair mash—incredible!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

@@ -1,0 +1,45 @@
+{
+  "id": "d7d59179-f535-4c43-9445-c281f2310ee4",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "あ、空後いいベクトルしてる",
+      "language": "ja"
+    },
+    {
+      "start": 2.0,
+      "end": 4.12,
+      "text": "まだ大丈夫リュウが重くて本当によかった",
+      "language": "ja"
+    },
+    {
+      "start": 4.12,
+      "end": 6.56,
+      "text": "崩しルート",
+      "language": "ja"
+    },
+    {
+      "start": 6.56,
+      "end": 9.84,
+      "text": "4",
+      "language": "ja"
+    }
+  ],
+  "full_text": "あ、空後いいベクトルしてる まだ大丈夫リュウが重くて本当によかった 崩しルート 4",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "アクロスイーベックしろ",
+      "corrected": "あ、空後いいベクトルしてる",
+      "rule": "whisper_misrecognition"
+    },
+    {
+      "segment_idx": 2,
+      "original": "クッキールート",
+      "corrected": "崩しルート",
+      "rule": "whisper_misrecognition"
+    }
+  ]
+}

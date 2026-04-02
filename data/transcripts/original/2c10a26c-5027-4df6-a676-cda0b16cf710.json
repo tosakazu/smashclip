@@ -1,0 +1,27 @@
+{
+  "id": "2c10a26c-5027-4df6-a676-cda0b16cf710",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.18,
+      "text": "上Bから上スマッシュにつなぎます",
+      "language": "ja"
+    },
+    {
+      "start": 2.18,
+      "end": 6.0,
+      "text": "アームを潰せるんで結構上からのフリップキック動きが強いですね",
+      "language": "ja"
+    }
+  ],
+  "full_text": "上Bから上スマッシュにつなぎます アームを潰せるんで結構上からのフリップキック動きが強いですね",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "上から上スマッシュにつなぎます",
+      "corrected": "上Bから上スマッシュにつなぎます",
+      "rule": "misheard: 上から→上Bから"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "3d991a23-6554-4925-96a2-6716792ea1bf",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.4,
+      "text": "Not good for either of them",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いけないのはお互い"
+    },
+    {
+      "start": 1.4,
+      "end": 3.0,
+      "text": "Combo damage",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "コンボ火力"
+    },
+    {
+      "start": 3.0,
+      "end": 5.54,
+      "text": "Still has the jump",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これはジャンプある"
+    },
+    {
+      "start": 5.54,
+      "end": 7.6,
+      "text": "Wasn't there",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "なかったな"
+    }
+  ],
+  "full_text": "Not good for either of them Combo damage Still has the jump Wasn't there",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

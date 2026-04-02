@@ -1,0 +1,56 @@
+{
+  "id": "774a49eb-241c-4105-aad1-2029835447da",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.42,
+      "text": "The spin connects here, but...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "なんかここでスピンが通るが"
+    },
+    {
+      "start": 2.42,
+      "end": 4.74,
+      "text": "At this range, no KO threat",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "このラインであれば命に別状はない"
+    },
+    {
+      "start": 4.74,
+      "end": 6.14,
+      "text": "Just the side",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "サイドだけ"
+    },
+    {
+      "start": 6.14,
+      "end": 7.7,
+      "text": "Forward smash is good",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "横スマッシュは大丈夫"
+    },
+    {
+      "start": 7.7,
+      "end": 9.44,
+      "text": "Then forward tilt is coming",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ならば横強が待っている"
+    }
+  ],
+  "full_text": "The spin connects here, but... At this range, no KO threat. Just the side. Forward smash is good. Then forward tilt is coming.",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "別情",
+      "corrected": "別状",
+      "rule": "kanji homophone"
+    }
+  ]
+}

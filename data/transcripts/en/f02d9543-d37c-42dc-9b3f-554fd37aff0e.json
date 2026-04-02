@@ -1,0 +1,68 @@
+{
+  "id": "f02d9543-d37c-42dc-9b3f-554fd37aff0e",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.08,
+      "text": "Snatched a stock!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "1ストックもぎ取ってみせた"
+    },
+    {
+      "start": 1.08,
+      "end": 3.82,
+      "text": "So that's the power of top-tier Yaura!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これがYauraの最上位勢の力なのか"
+    },
+    {
+      "start": 3.82,
+      "end": 6.06,
+      "text": "Out-of-shield grab beats the falling nair!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "降り空中ニュートラルにはガーキャン掴み"
+    },
+    {
+      "start": 6.06,
+      "end": 7.42,
+      "text": "Changes the spacing and goes for side B!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ラインを入れ替えて横必殺技"
+    },
+    {
+      "start": 7.42,
+      "end": 9.68,
+      "text": "Could get caught here!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここは取られたり"
+    }
+  ],
+  "full_text": "Snatched a stock! So that's the power of top-tier Yaura! Out-of-shield grab beats the falling nair! Changes the spacing and goes for side B! Could get caught here!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "チストック",
+      "corrected": "1ストック",
+      "rule": "misheard"
+    },
+    {
+      "segment_idx": 1,
+      "original": "矢浦",
+      "corrected": "Yaura",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 2,
+      "original": "折り空中ニュートラル",
+      "corrected": "降り空中ニュートラル",
+      "rule": "kanji: 折り→降り"
+    }
+  ]
+}

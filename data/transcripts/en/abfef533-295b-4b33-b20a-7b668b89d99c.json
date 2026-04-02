@@ -1,0 +1,48 @@
+{
+  "id": "abfef533-295b-4b33-b20a-7b668b89d99c",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.4,
+      "text": "Rosalina was going for that dair meteor, but it was positioned too high! Ken had his jump remaining though, so he was able to get back!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空中下メテオを合わせていったロゼッタだったが、上目だったが、ジャンプを残していたので帰ってこられる鳥ちゃん ケン。"
+    },
+    {
+      "start": 8.4,
+      "end": 9.4,
+      "text": "In the air—whoa, could this be...?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空中、え、これはまさか?"
+    },
+    {
+      "start": 9.94,
+      "end": 10.42,
+      "text": "KO!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "撃墜!"
+    },
+    {
+      "start": 11.16,
+      "end": 13.38,
+      "text": "He's being sent that direction, so DI is really difficult.",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そっち側に飛んでいるのでベクトル変更が難しい。"
+    }
+  ],
+  "full_text": "Rosalina was going for that dair meteor, but it was positioned too high! Ken had his jump remaining though, so he was able to get back! In the air—whoa, could this be...? KO! He's being sent that direction, so DI is really difficult.",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "鳥ちゃん兼",
+      "corrected": "鳥ちゃん ケン",
+      "rule": "Player/character: 兼→ケン(Ken)"
+    }
+  ]
+}

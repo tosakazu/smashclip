@@ -1,0 +1,87 @@
+{
+  "id": "bbff6e5b-afdc-4a3b-b160-33ff10db0efe",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.16,
+      "text": "さあ体育の復帰者から",
+      "language": "ja"
+    },
+    {
+      "start": 2.16,
+      "end": 3.5,
+      "text": "空後",
+      "language": "ja"
+    },
+    {
+      "start": 3.5,
+      "end": 6.26,
+      "text": "これはどうだ",
+      "language": "ja"
+    },
+    {
+      "start": 6.26,
+      "end": 7.12,
+      "text": "カブの駅から",
+      "language": "ja"
+    },
+    {
+      "start": 7.12,
+      "end": 8.74,
+      "text": "復帰は下から",
+      "language": "ja"
+    },
+    {
+      "start": 8.74,
+      "end": 11.16,
+      "text": "空中前に撃墜しないものの",
+      "language": "ja"
+    },
+    {
+      "start": 11.16,
+      "end": 12.88,
+      "text": "もうジャンプがないけど",
+      "language": "ja"
+    },
+    {
+      "start": 12.88,
+      "end": 15.04,
+      "text": "空中前で",
+      "language": "ja"
+    },
+    {
+      "start": 15.04,
+      "end": 16.14,
+      "text": "うまく通しました",
+      "language": "ja"
+    },
+    {
+      "start": 16.14,
+      "end": 20.18,
+      "text": "ただ1発の空振りは許されない",
+      "language": "ja"
+    }
+  ],
+  "full_text": "さあ体育の復帰者から 空後 これはどうだ カブの駅から 復帰は下から 空中前に撃墜しないものの もうジャンプがないけど 空中前で うまく通しました ただ1発の空振りは許されない",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "空中しろ",
+      "corrected": "空後",
+      "rule": "kanji homophone"
+    },
+    {
+      "segment_idx": 4,
+      "original": "復帰は下京",
+      "corrected": "復帰は下から",
+      "rule": "kanji homophone"
+    },
+    {
+      "segment_idx": 9,
+      "original": "ただNBAのカラブルは許されない",
+      "corrected": "ただ1発の空振りは許されない",
+      "rule": "Whisper error"
+    }
+  ]
+}

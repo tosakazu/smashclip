@@ -1,0 +1,80 @@
+{
+  "id": "ea4a0f30-82c8-42a4-9840-14edc8035f48",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.58,
+      "text": "Whoa! Come on, that guy!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ああああああ いやーお前"
+    },
+    {
+      "start": 3.58,
+      "end": 6.78,
+      "text": "No way! Who at Nintendo set this weight like this?!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "だめだ!任天堂の誰がこの重さ設定したんだ!"
+    },
+    {
+      "start": 6.78,
+      "end": 8.26,
+      "text": "Does it bounce back and survive? That one right there?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "跳ね返って耐えるのか?今の"
+    },
+    {
+      "start": 8.26,
+      "end": 10.3,
+      "text": "Whoa! That one!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "うっ!お前!"
+    },
+    {
+      "start": 10.3,
+      "end": 11.2,
+      "text": "Oh man!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "うーわっ!"
+    },
+    {
+      "start": 11.2,
+      "end": 12.72,
+      "text": "Oh no! That's a rough spot!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "うわあぁ!苦しい流れ!"
+    },
+    {
+      "start": 12.72,
+      "end": 14.0,
+      "text": "Well, but...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "まあまあでも"
+    },
+    {
+      "start": 14.0,
+      "end": 15.86,
+      "text": "Wait, there's one?!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "えっ、ありますか?!"
+    }
+  ],
+  "full_text": "Whoa! Come on, that guy! No way! Who at Nintendo set this weight like this?! Does it bounce back and survive? That one right there? Whoa! That one! Oh man! Oh no! That's a rough spot! Well, but... Wait, there's one?!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "跳ね合って",
+      "corrected": "跳ね返って",
+      "rule": "misheard"
+    }
+  ]
+}

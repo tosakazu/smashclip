@@ -1,0 +1,38 @@
+{
+  "id": "d65983c8-5025-4121-9dcb-6d4d6b493c46",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.06,
+      "text": "Bair whiff punish gets shut down by neutral B!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "NBの判定に阻まれる空後での差し返し"
+    },
+    {
+      "start": 3.06,
+      "end": 5.46,
+      "text": "Now check that hitbox...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあ判定の"
+    }
+  ],
+  "full_text": "Bair whiff punish gets shut down by neutral B! Now check that hitbox...",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "Bの判定",
+      "corrected": "NBの判定",
+      "rule": "smash term (B→NB)"
+    },
+    {
+      "segment_idx": 0,
+      "original": "空中白での",
+      "corrected": "空後での",
+      "rule": "smash term (空中白→空後)"
+    }
+  ]
+}

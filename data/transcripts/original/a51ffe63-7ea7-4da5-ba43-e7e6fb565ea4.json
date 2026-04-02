@@ -1,0 +1,78 @@
+{
+  "id": "a51ffe63-7ea7-4da5-ba43-e7e6fb565ea4",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.54,
+      "text": "上でのこのその場起きに対してスピンでリスクつけるのがもう難しい",
+      "language": "ja"
+    },
+    {
+      "start": 3.54,
+      "end": 5.98,
+      "text": "何度も撃墜されてるのでこれで",
+      "language": "ja"
+    },
+    {
+      "start": 5.98,
+      "end": 9.12,
+      "text": "どうよ横スマ怖かったがわずかに届かず",
+      "language": "ja"
+    },
+    {
+      "start": 9.12,
+      "end": 10.26,
+      "text": "暴れたNeo",
+      "language": "ja"
+    },
+    {
+      "start": 10.26,
+      "end": 13.0,
+      "text": "上強合わせて134",
+      "language": "ja"
+    },
+    {
+      "start": 13.0,
+      "end": 14.04,
+      "text": "強気ですね回避を切らない",
+      "language": "ja"
+    },
+    {
+      "start": 14.04,
+      "end": 16.34,
+      "text": "呼んでいる上投げはどうだ",
+      "language": "ja"
+    },
+    {
+      "start": 16.34,
+      "end": 19.0,
+      "text": "撃墜痛いなー",
+      "language": "ja"
+    },
+    {
+      "start": 20.48,
+      "end": 25.68,
+      "text": "最後までスピン後の行動",
+      "language": "ja"
+    }
+  ],
+  "full_text": "上でのこのその場起きに対してスピンでリスクつけるのがもう難しい 何度も撃墜されてるのでこれで どうよ横スマ怖かったがわずかに届かず 暴れたNeo 上強合わせて134 強気ですね回避を切らない 呼んでいる上投げはどうだ 撃墜痛いなー 最後までスピン後の行動",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "original": "若起き",
+      "corrected": "その場起き",
+      "reason": "崖のその場起き上がり"
+    },
+    {
+      "original": "コスマ",
+      "corrected": "横スマ",
+      "reason": "横スマッシュの略称"
+    },
+    {
+      "original": "ネオ",
+      "corrected": "Neo",
+      "reason": "プレイヤー名Neo"
+    }
+  ]
+}

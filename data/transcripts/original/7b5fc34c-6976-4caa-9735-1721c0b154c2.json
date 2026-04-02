@@ -1,0 +1,81 @@
+{
+  "id": "7b5fc34c-6976-4caa-9735-1721c0b154c2",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.68,
+      "text": "押していった!",
+      "language": "ja"
+    },
+    {
+      "start": 2.24,
+      "end": 4.08,
+      "text": "小突いて崖上を上がろうとするも",
+      "language": "ja"
+    },
+    {
+      "start": 4.08,
+      "end": 5.94,
+      "text": "その狙いを読み切って",
+      "language": "ja"
+    },
+    {
+      "start": 5.94,
+      "end": 6.72,
+      "text": "直進と掴み",
+      "language": "ja"
+    },
+    {
+      "start": 6.72,
+      "end": 7.86,
+      "text": "低いベクトルだ!",
+      "language": "ja"
+    },
+    {
+      "start": 8.26,
+      "end": 9.02,
+      "text": "爆発が出てくる",
+      "language": "ja"
+    },
+    {
+      "start": 9.02,
+      "end": 10.1,
+      "text": "作業台で止まる",
+      "language": "ja"
+    },
+    {
+      "start": 10.1,
+      "end": 10.9,
+      "text": "つかみ!",
+      "language": "ja"
+    },
+    {
+      "start": 11.4,
+      "end": 11.92,
+      "text": "うぇー!",
+      "language": "ja"
+    },
+    {
+      "start": 12.4,
+      "end": 13.18,
+      "text": "発生が遅い",
+      "language": "ja"
+    }
+  ],
+  "full_text": "押していった! 小突いて崖上を上がろうとするも その狙いを読み切って 直進と掴み 低いベクトルだ! 爆発が出てくる 作業台で止まる つかみ! うぇー! 発生が遅い",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "小づいて崖上を上がろうと言え",
+      "corrected": "小突いて崖上を上がろうとするも",
+      "rule": "misheard: こづいて→小突いて, と言え→とするも"
+    },
+    {
+      "segment_idx": 3,
+      "original": "直進と進ま",
+      "corrected": "直進と掴み",
+      "rule": "misheard: 進ま→掴み (Luigi's grab)"
+    }
+  ]
+}

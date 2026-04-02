@@ -1,0 +1,38 @@
+{
+  "id": "b244c882-150f-4d40-a91c-02b5e416a281",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.38,
+      "text": "Won it with stage control!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "マッパで決めていきました"
+    },
+    {
+      "start": 2.38,
+      "end": 6.24,
+      "text": "I see, and they went aggressive right off that jab!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "なるほどそして少し小突いたところは積極的に"
+    }
+  ],
+  "full_text": "Won it with stage control! I see, and they went aggressive right off that jab!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "マッパーで",
+      "corrected": "マッパで",
+      "rule": "minor transcription"
+    },
+    {
+      "segment_idx": 1,
+      "original": "小づいた",
+      "corrected": "小突いた",
+      "rule": "kanji (小突く)"
+    }
+  ]
+}

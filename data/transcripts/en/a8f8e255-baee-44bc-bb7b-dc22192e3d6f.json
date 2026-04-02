@@ -1,0 +1,44 @@
+{
+  "id": "a8f8e255-baee-44bc-bb7b-dc22192e3d6f",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.74,
+      "text": "They know exactly when and how they want to.",
+      "language": "en"
+    },
+    {
+      "start": 1.84,
+      "end": 3.28,
+      "text": "Once again, same brain cell.",
+      "language": "en"
+    },
+    {
+      "start": 3.56,
+      "end": 5.78,
+      "text": "Not only that, but it's very, very similar percentages, okay?",
+      "language": "en"
+    },
+    {
+      "start": 6.2,
+      "end": 7.52,
+      "text": "Takes a little bit of time right here.",
+      "language": "en"
+    },
+    {
+      "start": 7.62,
+      "end": 9.36,
+      "text": "Once again, plunger into plunger to combo.",
+      "language": "en"
+    },
+    {
+      "start": 9.74,
+      "end": 12.44,
+      "text": "And speaking of combo right there, where...",
+      "language": "en"
+    }
+  ],
+  "full_text": "They know exactly when and how they want to. Once again, same brain cell. Not only that, but it's very, very similar percentages, okay? Takes a little bit of time right here. Once again, plunger into plunger to combo. And speaking of combo right there, where...",
+  "detected_language": "en",
+  "corrections": []
+}

@@ -1,0 +1,32 @@
+{
+  "id": "e7ab1de9-f408-4c95-9118-408650ce2423",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.28,
+      "text": "Got off that airdodge nicely but pulled back",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "うまく空中ニュートラル暴れを通したが引いてなっこ"
+    },
+    {
+      "start": 3.28,
+      "end": 9.96,
+      "text": "These rush moves are absolute KO setups!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "こういう突進技はえまさか撃墜"
+    }
+  ],
+  "full_text": "Got off that airdodge nicely but pulled back These rush moves are absolute KO setups!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "激戦",
+      "corrected": "撃墜",
+      "rule": "kanji homophone: 激戦→撃墜"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "7a8253e1-251d-4ffe-a5a3-fb84a702a9b9",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.32,
+      "text": "If he gets one grab, he gets a free uphill, and if he tries to land, he gets another uphill.",
+      "language": "en"
+    },
+    {
+      "start": 5.72,
+      "end": 6.3,
+      "text": "But then Nikita-",
+      "language": "en"
+    }
+  ],
+  "full_text": "If he gets one grab, he gets a free uphill, and if he tries to land, he gets another uphill. But then Nikita-",
+  "detected_language": "en",
+  "corrections": []
+}

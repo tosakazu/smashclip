@@ -1,0 +1,49 @@
+{
+  "id": "072c29a4-d85c-416f-a953-a979c1dd1a5f",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.14,
+      "text": "Reads the inside airdodge and charges up that forward smash!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "内回避読みの横スマッシュホールドまでしちゃって"
+    },
+    {
+      "start": 3.14,
+      "end": 4.68,
+      "text": "Really threatening the opponent!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "相手を大きく威嚇する"
+    },
+    {
+      "start": 4.68,
+      "end": 7.02,
+      "text": "Though the up B does get caught...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これはギガファイヤーに上必殺技当たってしまうが"
+    },
+    {
+      "start": 7.02,
+      "end": 9.84,
+      "text": "Barely makes it back with perfect recovery timing!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "なんとかタイミングよく上必殺技の復帰を通した"
+    },
+    {
+      "start": 9.84,
+      "end": 12.34,
+      "text": "Chrom's up B is incredibly weak...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "クロムの上必殺ね非常に弱いんですが"
+    }
+  ],
+  "full_text": "Reads the inside airdodge and charges up that forward smash! Really threatening the opponent! Though the up B does get caught... Barely makes it back with perfect recovery timing! Chrom's up B is incredibly weak...",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

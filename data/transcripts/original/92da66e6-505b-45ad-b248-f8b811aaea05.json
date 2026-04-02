@@ -1,0 +1,32 @@
+{
+  "id": "92da66e6-505b-45ad-b248-f8b811aaea05",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.96,
+      "text": "well and just like that beta man's first lead of the set right now",
+      "language": "en"
+    },
+    {
+      "start": 3.96,
+      "end": 7.56,
+      "text": "and we are eventually going to get to a point where",
+      "language": "en"
+    },
+    {
+      "start": 7.56,
+      "end": 11.7,
+      "text": "i feel like oh never mind okay that still works i was about to say i was",
+      "language": "en"
+    },
+    {
+      "start": 11.7,
+      "end": 12.8,
+      "text": "gonna we were probably gonna",
+      "language": "en"
+    }
+  ],
+  "full_text": "well and just like that beta man's first lead of the set right now and we are eventually going to get to a point where i feel like oh never mind okay that still works i was about to say i was gonna we were probably gonna",
+  "detected_language": "en",
+  "corrections": []
+}

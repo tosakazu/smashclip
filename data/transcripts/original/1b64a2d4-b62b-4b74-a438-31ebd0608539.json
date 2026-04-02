@@ -1,0 +1,27 @@
+{
+  "id": "1b64a2d4-b62b-4b74-a438-31ebd0608539",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.08,
+      "text": "in october man come on it's literally halloween finally managed to find that",
+      "language": "en"
+    },
+    {
+      "start": 4.08,
+      "end": 8.72,
+      "text": "first stock though great stuff from Gachipi but Ball as well",
+      "language": "en"
+    }
+  ],
+  "full_text": "in october man come on it's literally halloween finally managed to find that first stock though great stuff from Gachipi but Ball as well",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "first stock though great stuff from godspeed but ball as well",
+      "corrected": "first stock though great stuff from Gachipi but Ball as well",
+      "rule": "Player name correction: godspeed→Gachipi (metadata)"
+    }
+  ]
+}

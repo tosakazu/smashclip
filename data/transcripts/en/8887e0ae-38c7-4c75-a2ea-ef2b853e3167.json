@@ -1,0 +1,82 @@
+{
+  "id": "8887e0ae-38c7-4c75-a2ea-ef2b853e3167",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.7,
+      "text": "Dodges back and lands down smash!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "後ろをかわして下スマッシュ"
+    },
+    {
+      "start": 1.7,
+      "end": 2.76,
+      "text": "Goes in aggressive, but",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "強気振っていったが"
+    },
+    {
+      "start": 2.76,
+      "end": 5.3,
+      "text": "Barely escapes with a left dodge",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "左回避なんとか逃れて"
+    },
+    {
+      "start": 5.3,
+      "end": 7.36,
+      "text": "Charges Megavolt!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ためメガボルト"
+    },
+    {
+      "start": 7.36,
+      "end": 9.82,
+      "text": "Catches Wario in the upper corner!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ワリオの上端隅に刺さる"
+    },
+    {
+      "start": 9.82,
+      "end": 11.98,
+      "text": "The bike is gone!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ボットリングを捨ててバイクがない"
+    }
+  ],
+  "full_text": "Dodges back and lands down smash! Goes in aggressive, but barely escapes with a left dodge. Charges Megavolt! Catches Wario in the upper corner! The bike is gone!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "シャツマッシュ",
+      "corrected": "下スマッシュ",
+      "rule": "move name (シャツ→下スマッシュ)"
+    },
+    {
+      "segment_idx": 2,
+      "original": "左完成何も逃れて",
+      "corrected": "左回避なんとか逃れて",
+      "rule": "misheard words"
+    },
+    {
+      "segment_idx": 3,
+      "original": "タイクメガボルト",
+      "corrected": "ためメガボルト",
+      "rule": "misheard word (タイク→ため)"
+    },
+    {
+      "segment_idx": 4,
+      "original": "マリオの商談用スミに刺さる",
+      "corrected": "ワリオの上端隅に刺さる",
+      "rule": "character name (マリオ→ワリオ) + misheard"
+    }
+  ]
+}

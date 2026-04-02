@@ -1,0 +1,45 @@
+{
+  "id": "d4d0371d-2524-479c-8a64-659cb7a9fafe",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.64,
+      "text": "食らわない",
+      "language": "ja"
+    },
+    {
+      "start": 5.64,
+      "end": 6.4,
+      "text": "これは",
+      "language": "ja"
+    },
+    {
+      "start": 6.4,
+      "end": 9.34,
+      "text": "空中後ろですかね",
+      "language": "ja"
+    },
+    {
+      "start": 9.34,
+      "end": 11.46,
+      "text": "これが当たっていっちゃきつい",
+      "language": "ja"
+    }
+  ],
+  "full_text": "食らわない これは 空中後ろですかね これが当たっていっちゃきつい",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "くま来らない",
+      "corrected": "食らわない",
+      "rule": "mishearing (くま来らない→食らわない)"
+    },
+    {
+      "segment_idx": 3,
+      "original": "当たっていってきゃきつい",
+      "corrected": "当たっていっちゃきつい",
+      "rule": "mishearing (てきゃ→ちゃ)"
+    }
+  ]
+}

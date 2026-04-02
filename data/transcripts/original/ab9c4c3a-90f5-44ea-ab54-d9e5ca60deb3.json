@@ -1,0 +1,93 @@
+{
+  "id": "ab9c4c3a-90f5-44ea-ab54-d9e5ca60deb3",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.1,
+      "text": "さあ先ほどと同じような展開今度はチャージショットを避けながら",
+      "language": "ja"
+    },
+    {
+      "start": 3.1,
+      "end": 4.08,
+      "text": "どうだ",
+      "language": "ja"
+    },
+    {
+      "start": 4.08,
+      "end": 5.16,
+      "text": "ダッシュつかみ",
+      "language": "ja"
+    },
+    {
+      "start": 5.16,
+      "end": 6.66,
+      "text": "かわしているやおら",
+      "language": "ja"
+    },
+    {
+      "start": 6.66,
+      "end": 9.64,
+      "text": "チャージショットを貯めるかそれともグラップ",
+      "language": "ja"
+    },
+    {
+      "start": 9.64,
+      "end": 11.54,
+      "text": "リーチを押し付けるように",
+      "language": "ja"
+    },
+    {
+      "start": 11.54,
+      "end": 12.86,
+      "text": "これはどうだスクリューアタック",
+      "language": "ja"
+    },
+    {
+      "start": 12.86,
+      "end": 15.48,
+      "text": "寿命はまだまだ耐えられる",
+      "language": "ja"
+    },
+    {
+      "start": 15.48,
+      "end": 16.82,
+      "text": "180%",
+      "language": "ja"
+    },
+    {
+      "start": 16.82,
+      "end": 18.68,
+      "text": "さあ恐竜の寿命は",
+      "language": "ja"
+    },
+    {
+      "start": 18.68,
+      "end": 20.66,
+      "text": "あと何%チャージショット",
+      "language": "ja"
+    },
+    {
+      "start": 20.66,
+      "end": 21.64,
+      "text": "撃墜",
+      "language": "ja"
+    }
+  ],
+  "full_text": "さあ先ほどと同じような展開今度はチャージショットを避けながら どうだ ダッシュつかみ かわしているやおら チャージショットを貯めるかそれともグラップ リーチを押し付けるように これはどうだスクリューアタック 寿命はまだまだ耐えられる 180% さあ恐竜の寿命は あと何%チャージショット 撃墜",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 6,
+      "original": "スクリアアタック",
+      "corrected": "スクリューアタック",
+      "rule": "Move name: スクリア→スクリュー"
+    },
+    {
+      "segment_idx": 11,
+      "original": "げっつい",
+      "corrected": "撃墜",
+      "rule": "Smash term: げっつい→撃墜"
+    }
+  ]
+}

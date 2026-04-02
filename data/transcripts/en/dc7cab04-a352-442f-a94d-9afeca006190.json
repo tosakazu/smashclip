@@ -1,0 +1,60 @@
+{
+  "id": "dc7cab04-a352-442f-a94d-9afeca006190",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.0,
+      "text": "Parry precision is crucial in defense here!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ジャスガの精度はもちろん展開ディフェンサー"
+    },
+    {
+      "start": 5.0,
+      "end": 6.44,
+      "text": "This recovery is rough!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "この復帰が苦しい"
+    },
+    {
+      "start": 6.44,
+      "end": 7.8,
+      "text": "Matching the up B invincibility!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "上Bの無敵合わせて"
+    },
+    {
+      "start": 7.8,
+      "end": 9.56,
+      "text": "That's the next stock already!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これはもう次ですね"
+    }
+  ],
+  "full_text": "Parry precision is crucial in defense here! This recovery is rough! Matching the up B invincibility! That's the next stock already!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "ジャスガー",
+      "corrected": "ジャスガ",
+      "rule": "smash term (just guard abbreviation)"
+    },
+    {
+      "segment_idx": 0,
+      "original": "展開テインサー",
+      "corrected": "展開ディフェンサー",
+      "rule": "misheard word"
+    },
+    {
+      "segment_idx": 2,
+      "original": "ウェビの無敵",
+      "corrected": "上Bの無敵",
+      "rule": "misheard word (上B=uebi)"
+    }
+  ]
+}

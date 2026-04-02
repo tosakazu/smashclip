@@ -1,0 +1,63 @@
+{
+  "id": "f4653e2f-385a-4dc4-aec2-15504c991e00",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.3,
+      "text": "Alin taking his time, making the most out of the magic, separating the climbers for a bit, but the clutch down there.",
+      "language": "en"
+    },
+    {
+      "start": 5.42,
+      "end": 6.62,
+      "text": "Down smash just barely missing.",
+      "language": "en"
+    },
+    {
+      "start": 7.02,
+      "end": 7.68,
+      "text": "He wants this kill.",
+      "language": "en"
+    },
+    {
+      "start": 8.1,
+      "end": 9.06,
+      "text": "They both want it.",
+      "language": "en"
+    },
+    {
+      "start": 9.22,
+      "end": 10.68,
+      "text": "They both want to end this game so quickly.",
+      "language": "en"
+    },
+    {
+      "start": 11.28,
+      "end": 11.5,
+      "text": "Oh, yeah.",
+      "language": "en"
+    },
+    {
+      "start": 12.12,
+      "end": 12.98,
+      "text": "The double up top?",
+      "language": "en"
+    },
+    {
+      "start": 13.16,
+      "end": 13.24,
+      "text": "Yeah.",
+      "language": "en"
+    }
+  ],
+  "full_text": "Alin taking his time, making the most out of the magic, separating the climbers for a bit, but the clutch down there. Down smash just barely missing. He wants this kill. They both want it. They both want to end this game so quickly. Oh, yeah. The double up top? Yeah.",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "Downsmith's",
+      "corrected": "Down smash",
+      "rule": "misheard: Downsmith's→Down smash"
+    }
+  ]
+}

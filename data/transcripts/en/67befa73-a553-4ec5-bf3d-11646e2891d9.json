@@ -1,0 +1,134 @@
+{
+  "id": "67befa73-a553-4ec5-bf3d-11646e2891d9",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.3,
+      "text": "Did they want to set that up from the platform?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "この展開を台上から作りたかったか"
+    },
+    {
+      "start": 2.3,
+      "end": 4.78,
+      "text": "Where did the combo drop?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "コンボが途切れたところですか"
+    },
+    {
+      "start": 4.78,
+      "end": 5.62,
+      "text": "Out of shield forward smash",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ガーキャン前スマッシュ"
+    },
+    {
+      "start": 5.62,
+      "end": 6.36,
+      "text": "Cart flip",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "車横転"
+    },
+    {
+      "start": 6.36,
+      "end": 7.14,
+      "text": "Chasing with the fair",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "追いかけ空前"
+    },
+    {
+      "start": 7.14,
+      "end": 7.94,
+      "text": "That won't be a meteor, but...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "メテオにはならないですが"
+    },
+    {
+      "start": 7.94,
+      "end": 9.58,
+      "text": "Cart chase off-stage",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "トロッコで画面外まで追いかけ"
+    },
+    {
+      "start": 9.58,
+      "end": 9.9,
+      "text": "Here we go!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "行くぞ"
+    },
+    {
+      "start": 9.9,
+      "end": 11.1,
+      "text": "Whoa whoa whoa whoa!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "おいおいおいおい"
+    },
+    {
+      "start": 11.1,
+      "end": 13.66,
+      "text": "Where are they even fighting?!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "お前たちはどこで戦っているんだ"
+    },
+    {
+      "start": 13.66,
+      "end": 15.26,
+      "text": "This is bad, this is bad!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "まずいまずい"
+    }
+  ],
+  "full_text": "Did they want to set that up from the platform? Where did the combo drop? Out of shield forward smash Cart flip Chasing with the fair That won't be a meteor, but... Cart chase off-stage Here we go! Whoa whoa whoa whoa! Where are they even fighting?! This is bad, this is bad!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "このテントを台上から展開作りたかったか",
+      "corrected": "この展開を台上から作りたかったか",
+      "rule": "misheard word"
+    },
+    {
+      "segment_idx": 2,
+      "original": "ガーキャンメンスマッシュ",
+      "corrected": "ガーキャン前スマッシュ",
+      "rule": "move name (メン→前)"
+    },
+    {
+      "segment_idx": 4,
+      "original": "追いかけくるちまえ",
+      "corrected": "追いかけ空前",
+      "rule": "move abbreviation (くうまえ=空前)"
+    },
+    {
+      "segment_idx": 5,
+      "original": "メテオニアなでが",
+      "corrected": "メテオにはならないですが",
+      "rule": "misheard phrase"
+    },
+    {
+      "segment_idx": 6,
+      "original": "画面回まで",
+      "corrected": "画面外まで",
+      "rule": "kanji homophone (がめんそと)"
+    },
+    {
+      "segment_idx": 7,
+      "original": "いくで",
+      "corrected": "行くぞ",
+      "rule": "misheard word"
+    }
+  ]
+}

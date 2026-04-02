@@ -1,0 +1,70 @@
+{
+  "id": "f359c587-2434-494a-9787-c405c2c458cc",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.28,
+      "text": "Speaking of sy,",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "sy選手とすれば"
+    },
+    {
+      "start": 2.28,
+      "end": 5.0,
+      "text": "it's the horizontal neutral game,",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "やっぱり横軸の差し合い"
+    },
+    {
+      "start": 5.0,
+      "end": 6.36,
+      "text": "fundamentally defensive,",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "基本的にはディフェンシブ"
+    },
+    {
+      "start": 6.36,
+      "end": 8.04,
+      "text": "fighting defensively,",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ディフェンシブに戦ってきますから"
+    },
+    {
+      "start": 8.04,
+      "end": 9.12,
+      "text": "but Yn",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "Yン選手が"
+    },
+    {
+      "start": 9.12,
+      "end": 12.08,
+      "text": "is looking so clean!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "うまーい"
+    }
+  ],
+  "full_text": "Speaking of sy, it's the horizontal neutral game, fundamentally defensive, fighting defensively, but Yn is looking so clean!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "SY選手",
+      "corrected": "sy選手",
+      "rule": "player name case"
+    },
+    {
+      "segment_idx": 4,
+      "original": "ワイン選手",
+      "corrected": "Yン選手",
+      "rule": "player name: ワイン→Yン"
+    }
+  ]
+}

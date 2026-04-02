@@ -1,0 +1,39 @@
+{
+  "id": "84d221bc-05bc-40c3-8466-31a6d7755032",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.44,
+      "text": "回避見てダッシュ攻撃",
+      "language": "ja"
+    },
+    {
+      "start": 2.44,
+      "end": 5.1,
+      "text": "ルーラで戻ってきますが",
+      "language": "ja"
+    },
+    {
+      "start": 5.1,
+      "end": 6.12,
+      "text": "MPはゼロ",
+      "language": "ja"
+    },
+    {
+      "start": 6.12,
+      "end": 8.7,
+      "text": "着地に上スマッシュで反撃",
+      "language": "ja"
+    }
+  ],
+  "full_text": "回避見てダッシュ攻撃 ルーラで戻ってきますが MPはゼロ 着地に上スマッシュで反撃",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 3,
+      "original": "着々に上スマッシュで反撃",
+      "corrected": "着地に上スマッシュで反撃",
+      "rule": "misheard word (着々→着地)"
+    }
+  ]
+}

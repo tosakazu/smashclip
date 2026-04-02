@@ -1,0 +1,129 @@
+{
+  "id": "f2973e61-c2de-443a-834f-d0cf511cfe52",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "text": "強い",
+      "language": "ja"
+    },
+    {
+      "start": 1.0,
+      "end": 2.24,
+      "text": "難しいはずなんですけど",
+      "language": "ja"
+    },
+    {
+      "start": 2.24,
+      "end": 3.04,
+      "text": "それでも通していきます",
+      "language": "ja"
+    },
+    {
+      "start": 3.04,
+      "end": 4.64,
+      "text": "バナナの確認をしていながら",
+      "language": "ja"
+    },
+    {
+      "start": 4.64,
+      "end": 6.44,
+      "text": "オイルパニックを一滅し",
+      "language": "ja"
+    },
+    {
+      "start": 6.44,
+      "end": 7.34,
+      "text": "投げれない",
+      "language": "ja"
+    },
+    {
+      "start": 7.34,
+      "end": 9.12,
+      "text": "ここはジャストシールド",
+      "language": "ja"
+    },
+    {
+      "start": 9.12,
+      "end": 9.96,
+      "text": "完璧すぎる",
+      "language": "ja"
+    },
+    {
+      "start": 9.96,
+      "end": 11.26,
+      "text": "キック派手を呼んでいる",
+      "language": "ja"
+    },
+    {
+      "start": 11.26,
+      "end": 12.82,
+      "text": "シェフが当たると",
+      "language": "ja"
+    },
+    {
+      "start": 12.82,
+      "end": 13.84,
+      "text": "ちょっと待て",
+      "language": "ja"
+    },
+    {
+      "start": 13.84,
+      "end": 15.04,
+      "text": "ジャンプに食らえ",
+      "language": "ja"
+    },
+    {
+      "start": 15.04,
+      "end": 16.32,
+      "text": "上B",
+      "language": "ja"
+    },
+    {
+      "start": 16.32,
+      "end": 17.04,
+      "text": "崖まで",
+      "language": "ja"
+    },
+    {
+      "start": 17.04,
+      "end": 18.42,
+      "text": "追いかけてきた",
+      "language": "ja"
+    }
+  ],
+  "full_text": "強い 難しいはずなんですけど それでも通していきます バナナの確認をしていながら オイルパニックを一滅し 投げれない ここはジャストシールド 完璧すぎる キック派手を呼んでいる シェフが当たると ちょっと待て ジャンプに食らえ 上B 崖まで 追いかけてきた",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 3,
+      "original": "バナナの顔を縦にしていながら",
+      "corrected": "バナナの確認をしていながら",
+      "rule": "misheard"
+    },
+    {
+      "segment_idx": 11,
+      "original": "ジャンプに食え",
+      "corrected": "ジャンプに食らえ",
+      "rule": "misheard"
+    },
+    {
+      "segment_idx": 12,
+      "original": "ウエビー",
+      "corrected": "上B",
+      "rule": "misheard: ウエビー→上B"
+    },
+    {
+      "segment_idx": 13,
+      "original": "口まで",
+      "corrected": "崖まで",
+      "rule": "misheard"
+    },
+    {
+      "segment_idx": 14,
+      "original": "死んできた",
+      "corrected": "追いかけてきた",
+      "rule": "misheard"
+    }
+  ]
+}

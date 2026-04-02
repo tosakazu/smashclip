@@ -1,0 +1,25 @@
+{
+  "id": "8194837d-aed4-4635-9017-b153efe403a8",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.32,
+      "text": "But they're coming back!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "しかし帰ってきます"
+    },
+    {
+      "start": 2.32,
+      "end": 5.36,
+      "text": "Approach",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "差し込み"
+    }
+  ],
+  "full_text": "But they're coming back! Approach",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "1b2501f8-59c9-42f9-a5de-aaf8518fd873",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.54,
+      "text": "火力はとってはいるんですが",
+      "language": "ja"
+    },
+    {
+      "start": 2.54,
+      "end": 4.86,
+      "text": "この展開",
+      "language": "ja"
+    }
+  ],
+  "full_text": "火力はとってはいるんですが この展開",
+  "detected_language": "ja",
+  "corrections": []
+}

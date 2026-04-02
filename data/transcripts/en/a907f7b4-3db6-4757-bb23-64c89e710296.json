@@ -1,0 +1,62 @@
+{
+  "id": "a907f7b4-3db6-4757-bb23-64c89e710296",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.26,
+      "text": "Tech'd, but that's probably not putting him in a great position",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "受け身とっても多分そんなに良くない展開なんだろうな"
+    },
+    {
+      "start": 2.26,
+      "end": 3.26,
+      "text": "Playing the patience game here",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "クエネとか待ってて"
+    },
+    {
+      "start": 3.26,
+      "end": 5.52,
+      "text": "Oh wow, going in with the dair!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "うわ空下見せていく"
+    },
+    {
+      "start": 5.52,
+      "end": 10.34,
+      "text": "And there's the weak nair!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあ空中Nのカス当たり"
+    },
+    {
+      "start": 10.34,
+      "end": 12.52,
+      "text": "Jab connects into the bair!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "弱引っ掛けてから空中後ろ攻撃"
+    }
+  ],
+  "full_text": "Tech'd, but that's probably not putting him in a great position Playing the patience game here Oh wow, going in with the dair! And there's the weak nair! Jab connects into the bair!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 3,
+      "original": "空中城のカース当たり",
+      "corrected": "空中Nのカス当たり",
+      "rule": "Move: 空中城→空中N; homophone: カース→カス"
+    },
+    {
+      "segment_idx": 4,
+      "original": "ジャック引っ掛けてから空中城攻撃",
+      "corrected": "弱引っ掛けてから空中後ろ攻撃",
+      "rule": "Move: ジャック→弱; 空中城→空中後ろ"
+    }
+  ]
+}

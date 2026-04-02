@@ -1,0 +1,81 @@
+{
+  "id": "6a6a8043-b8c1-4a43-b786-d822867c28fa",
+  "segments": [
+    {
+      "start": 1.0,
+      "end": 2.24,
+      "text": "Still waiting for that?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "それも待っているか"
+    },
+    {
+      "start": 2.24,
+      "end": 3.92,
+      "text": "Clean dodge!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "しっかりかわして"
+    },
+    {
+      "start": 3.92,
+      "end": 4.96,
+      "text": "Whiff punish!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "差し返しのような"
+    },
+    {
+      "start": 4.96,
+      "end": 5.5,
+      "text": "Throw whiffed!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "違っている投げ"
+    },
+    {
+      "start": 5.5,
+      "end": 5.76,
+      "text": "Up!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "上"
+    },
+    {
+      "start": 5.76,
+      "end": 7.0,
+      "text": "Buffered!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "クッション"
+    },
+    {
+      "start": 8.58,
+      "end": 9.22,
+      "text": "Let's go!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "よっしゃー"
+    },
+    {
+      "start": 9.22,
+      "end": 9.74,
+      "text": "Whiffed!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "失敗した"
+    },
+    {
+      "start": 9.74,
+      "end": 10.1,
+      "text": "Whiffed!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "失敗した"
+    }
+  ],
+  "full_text": "Still waiting for that? Clean dodge! Whiff punish! Throw whiffed! Up! Buffered! Let's go! Whiffed! Whiffed!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

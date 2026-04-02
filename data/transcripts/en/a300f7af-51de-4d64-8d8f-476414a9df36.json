@@ -1,0 +1,25 @@
+{
+  "id": "a300f7af-51de-4d64-8d8f-476414a9df36",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 7.96,
+      "text": "Whether they can close this percent gap and turn this into a close battle",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "このパーセンテージ差を埋めて激戦に持っていくことができるかどうかという展開"
+    },
+    {
+      "start": 7.96,
+      "end": 9.7,
+      "text": "And at aerial neutral they went for the airdodge",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空中ニュートラルで回避をしてしまって"
+    }
+  ],
+  "full_text": "Whether they can close this percent gap and turn this into a close battle And at aerial neutral they went for the airdodge",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

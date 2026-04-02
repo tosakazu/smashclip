@@ -1,0 +1,54 @@
+{
+  "id": "65410e2a-8c03-40f3-a3bb-9df01c7ce836",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.86,
+      "text": "Jump getup, controlling the timing!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "タイミングをコントロールしながらジャンプ上がり"
+    },
+    {
+      "start": 3.86,
+      "end": 8.24,
+      "text": "Patient play—reloaded the banana again!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "我慢をしてただバナナをもう一度リロードすることができた"
+    },
+    {
+      "start": 8.24,
+      "end": 9.54,
+      "text": "Up smash connects!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "上スマッシュ届いてる"
+    },
+    {
+      "start": 9.54,
+      "end": 10.3,
+      "text": "That's the KO!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これは撃墜"
+    }
+  ],
+  "full_text": "Jump getup, controlling the timing! Patient play—reloaded the banana again! Up smash connects! That's the KO!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "ウィズマッシュ",
+      "corrected": "上スマッシュ",
+      "rule": "move name (上スマ)"
+    },
+    {
+      "segment_idx": 3,
+      "original": "激戦",
+      "corrected": "撃墜",
+      "rule": "kanji homophone (げきせん→げきつい)"
+    }
+  ]
+}

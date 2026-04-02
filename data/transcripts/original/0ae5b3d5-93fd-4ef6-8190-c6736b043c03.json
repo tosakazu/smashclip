@@ -1,0 +1,38 @@
+{
+  "id": "0ae5b3d5-93fd-4ef6-8190-c6736b043c03",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.9,
+      "text": "このパーセンテージ活かして",
+      "language": "ja"
+    },
+    {
+      "start": 1.9,
+      "end": 4.32,
+      "text": "次のストック",
+      "language": "ja"
+    },
+    {
+      "start": 4.32,
+      "end": 7.2,
+      "text": "ダッシュに繋げていくことができるかどうかというところ",
+      "language": "ja"
+    },
+    {
+      "start": 7.2,
+      "end": 8.14,
+      "text": "DAを通して",
+      "language": "ja"
+    },
+    {
+      "start": 8.14,
+      "end": 10.82,
+      "text": "空中上を当てていく撃墜",
+      "language": "ja"
+    }
+  ],
+  "full_text": "このパーセンテージ活かして 次のストック ダッシュに繋げていくことができるかどうかというところ DAを通して 空中上を当てていく撃墜",
+  "detected_language": "ja",
+  "corrections": []
+}

@@ -1,0 +1,44 @@
+{
+  "id": "0d8243cf-f4ff-46e8-bbed-0d3226eddd2f",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.76,
+      "text": "作業台がありますが",
+      "language": "ja"
+    },
+    {
+      "start": 2.76,
+      "end": 4.72,
+      "text": "これメテオになっちゃった",
+      "language": "ja"
+    },
+    {
+      "start": 4.72,
+      "end": 6.28,
+      "text": "立ち上がりはなくなりましたね",
+      "language": "ja"
+    },
+    {
+      "start": 6.28,
+      "end": 9.56,
+      "text": "なんなら吹っ飛び加速させてメテオにするみたいな",
+      "language": "ja"
+    },
+    {
+      "start": 9.56,
+      "end": 11.44,
+      "text": "そういうテクニックも使ったかもしれないぞ",
+      "language": "ja"
+    },
+    {
+      "start": 11.44,
+      "end": 12.16,
+      "text": "完璧",
+      "language": "ja"
+    }
+  ],
+  "full_text": "作業台がありますが これメテオになっちゃった 立ち上がりはなくなりましたね なんなら吹っ飛び加速させてメテオにするみたいな そういうテクニックも使ったかもしれないぞ 完璧",
+  "detected_language": "ja",
+  "corrections": []
+}

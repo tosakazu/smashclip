@@ -1,0 +1,57 @@
+{
+  "id": "88462ee2-a57a-42f3-ace7-261fe390f45c",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.38,
+      "text": "ゴルドーとも見えていくんですが",
+      "language": "ja"
+    },
+    {
+      "start": 2.38,
+      "end": 3.74,
+      "text": "このゴルドーの牽制も",
+      "language": "ja"
+    },
+    {
+      "start": 3.74,
+      "end": 5.76,
+      "text": "かなりいやらしく通ってくる",
+      "language": "ja"
+    },
+    {
+      "start": 5.76,
+      "end": 8.82,
+      "text": "左側に追い出そうかというところ",
+      "language": "ja"
+    },
+    {
+      "start": 8.82,
+      "end": 10.02,
+      "text": "これはゴルドーが当たってしまう",
+      "language": "ja"
+    },
+    {
+      "start": 10.02,
+      "end": 12.04,
+      "text": "これは空中前",
+      "language": "ja"
+    },
+    {
+      "start": 12.04,
+      "end": 13.22,
+      "text": "当てる撃墜",
+      "language": "ja"
+    }
+  ],
+  "full_text": "ゴルドーとも見えていくんですが このゴルドーの牽制も かなりいやらしく通ってくる 左側に追い出そうかというところ これはゴルドーが当たってしまう これは空中前 当てる撃墜",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "このゴルドーの剣勢も",
+      "corrected": "このゴルドーの牽制も",
+      "rule": "kanji homophone (剣勢→牽制)"
+    }
+  ]
+}

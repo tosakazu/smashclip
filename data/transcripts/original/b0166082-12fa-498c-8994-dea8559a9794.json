@@ -1,0 +1,99 @@
+{
+  "id": "b0166082-12fa-498c-8994-dea8559a9794",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.4,
+      "text": "台上で撃墜こそないが",
+      "language": "ja"
+    },
+    {
+      "start": 2.4,
+      "end": 3.92,
+      "text": "ツイークもそれは分かっているので",
+      "language": "ja"
+    },
+    {
+      "start": 3.92,
+      "end": 4.9,
+      "text": "展開継続で",
+      "language": "ja"
+    },
+    {
+      "start": 4.9,
+      "end": 7.6,
+      "text": "じわじわと命を蝕んでくる",
+      "language": "ja"
+    },
+    {
+      "start": 7.6,
+      "end": 9.86,
+      "text": "なんとか暴れを通して",
+      "language": "ja"
+    },
+    {
+      "start": 9.86,
+      "end": 11.58,
+      "text": "162",
+      "language": "ja"
+    },
+    {
+      "start": 11.58,
+      "end": 12.54,
+      "text": "106という状況",
+      "language": "ja"
+    },
+    {
+      "start": 12.54,
+      "end": 14.54,
+      "text": "紫に赤一致",
+      "language": "ja"
+    },
+    {
+      "start": 14.54,
+      "end": 17.52,
+      "text": "決め切った",
+      "language": "ja"
+    },
+    {
+      "start": 17.52,
+      "end": 19.4,
+      "text": "いやすごい",
+      "language": "ja"
+    },
+    {
+      "start": 19.4,
+      "end": 19.78,
+      "text": "撃墜",
+      "language": "ja"
+    }
+  ],
+  "full_text": "台上で撃墜こそないが ツイークもそれは分かっているので 展開継続で じわじわと命を蝕んでくる なんとか暴れを通して 162 106という状況 紫に赤一致 決め切った いやすごい 撃墜",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "第2の上で撃墜こそないが",
+      "corrected": "台上で撃墜こそないが",
+      "rule": "homophone (台上)"
+    },
+    {
+      "segment_idx": 1,
+      "original": "スイクも",
+      "corrected": "ツイークも",
+      "rule": "player name (Tweek)"
+    },
+    {
+      "segment_idx": 3,
+      "original": "中途の命を蝕んでくる",
+      "corrected": "じわじわと命を蝕んでくる",
+      "rule": "mishearing"
+    },
+    {
+      "segment_idx": 7,
+      "original": "紫に赤い地",
+      "corrected": "紫に赤一致",
+      "rule": "Olimar pikmin context"
+    }
+  ]
+}

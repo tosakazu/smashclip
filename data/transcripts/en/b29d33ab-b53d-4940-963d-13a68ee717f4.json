@@ -1,0 +1,33 @@
+{
+  "id": "b29d33ab-b53d-4940-963d-13a68ee717f4",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.22,
+      "text": "Grabbing while ledge-trapping!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "この崖圧をかけつつ掴み"
+    },
+    {
+      "start": 5.22,
+      "end": 10.0,
+      "text": "Oh, his escape to the outside is being read!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いやー外側逃げることがバレている"
+    },
+    {
+      "start": 10.0,
+      "end": 13.1,
+      "text": "And from 59%, riding the momentum...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そしてホカホカ乗った状態59%から"
+    }
+  ],
+  "full_text": "Grabbing while ledge-trapping! Oh, his escape to the outside is being read! And from 59%, riding the momentum...",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

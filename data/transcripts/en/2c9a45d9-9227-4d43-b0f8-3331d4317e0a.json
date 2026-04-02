@@ -1,0 +1,40 @@
+{
+  "id": "2c9a45d9-9227-4d43-b0f8-3331d4317e0a",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.58,
+      "text": "He's finally using it now, and he hasn't landed it once until this point!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここに来て振り出した今まで1回も振ってなかったですよね"
+    },
+    {
+      "start": 2.58,
+      "end": 9.04,
+      "text": "So if the down special catches them there, it becomes a meteor and flows straight into up smash - that's the combo percent, right?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "まあ下必殺技あそこを引っかかってしまうとメテオになってそのまま上スマとかが繋がるパーセントでしょうか"
+    },
+    {
+      "start": 9.04,
+      "end": 10.86,
+      "text": "From the tech chase into forward throw here...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "リフコンから 前投げ ここは"
+    }
+  ],
+  "full_text": "He's finally using it now, and he hasn't landed it once until this point! So if the down special catches them there, it becomes a meteor and flows straight into up smash - that's the combo percent, right? From the tech chase into forward throw here...",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "リフコンから前投げここは",
+      "corrected": "リフコンから 前投げ ここは",
+      "rule": "OK, just spacing"
+    }
+  ]
+}

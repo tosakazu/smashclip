@@ -1,0 +1,70 @@
+{
+  "id": "d3776d8d-91e7-4315-8c46-0fe03968dcec",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.16,
+      "text": "In this shield exchange back-and-forth, right?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "このブロック押しのやり取りでさ"
+    },
+    {
+      "start": 2.16,
+      "end": 3.42,
+      "text": "He's always getting poked",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "常にツイークが"
+    },
+    {
+      "start": 3.42,
+      "end": 4.24,
+      "text": "Yeah, exactly",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そうなんですよ"
+    },
+    {
+      "start": 4.24,
+      "end": 6.68,
+      "text": "He just keeps approaching into the shield",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "普通のブロックに対してアプローチかけ続けて"
+    },
+    {
+      "start": 6.68,
+      "end": 7.9,
+      "text": "And gets beat out",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "出し負け"
+    },
+    {
+      "start": 7.9,
+      "end": 9.3,
+      "text": "Every time",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "全然"
+    }
+  ],
+  "full_text": "In this shield exchange back-and-forth, right? He's always getting poked yeah, exactly he just keeps approaching into the shield and gets beat out every time",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "ブロック押しをやりとりでさ",
+      "corrected": "ブロック押しのやり取りでさ",
+      "rule": "particle (を→の)"
+    },
+    {
+      "segment_idx": 4,
+      "original": "出しこけ",
+      "corrected": "出し負け",
+      "rule": "smash term (出しこけ→出し負け)"
+    }
+  ]
+}

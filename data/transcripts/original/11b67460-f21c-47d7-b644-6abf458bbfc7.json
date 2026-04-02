@@ -1,0 +1,20 @@
+{
+  "id": "11b67460-f21c-47d7-b644-6abf458bbfc7",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.54,
+      "text": "ガキャン暴れに結構大きな信頼をつけているようですね",
+      "language": "ja"
+    },
+    {
+      "start": 2.54,
+      "end": 5.08,
+      "text": "上スマッシュ",
+      "language": "ja"
+    }
+  ],
+  "full_text": "ガキャン暴れに結構大きな信頼をつけているようですね 上スマッシュ",
+  "detected_language": "ja",
+  "corrections": []
+}

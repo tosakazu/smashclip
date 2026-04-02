@@ -1,0 +1,45 @@
+{
+  "id": "4c0af7fc-c2f8-4e7f-9d66-1a2316fb9358",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "バウンドで何もない",
+      "language": "ja"
+    },
+    {
+      "start": 2.0,
+      "end": 3.78,
+      "text": "空後",
+      "language": "ja"
+    },
+    {
+      "start": 3.78,
+      "end": 5.96,
+      "text": "投げをかわして空中前",
+      "language": "ja"
+    },
+    {
+      "start": 5.96,
+      "end": 7.34,
+      "text": "出しこい!",
+      "language": "ja"
+    },
+    {
+      "start": 7.38,
+      "end": 8.26,
+      "text": "見逃さない!",
+      "language": "ja"
+    }
+  ],
+  "full_text": "バウンドで何もない 空後 投げをかわして空中前 出しこい! 見逃さない!",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "空中所",
+      "corrected": "空後",
+      "rule": "move abbreviation (空中後ろ→空後)"
+    }
+  ]
+}

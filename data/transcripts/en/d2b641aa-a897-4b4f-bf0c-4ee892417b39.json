@@ -1,0 +1,41 @@
+{
+  "id": "d2b641aa-a897-4b4f-bf0c-4ee892417b39",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.8,
+      "text": "He's got a pretty solid lead going, so...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "結構リードしているので"
+    },
+    {
+      "start": 0.8,
+      "end": 2.34,
+      "text": "That's the situation",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "という状況ですね"
+    },
+    {
+      "start": 2.34,
+      "end": 2.78,
+      "text": "Off the ledge...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "カバーから"
+    },
+    {
+      "start": 2.78,
+      "end": 6.36,
+      "text": "Oh, there it is!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "おーそこで"
+    }
+  ],
+  "full_text": "He's got a pretty solid lead going, so... That's the situation. Off the ledge... Oh, there it is!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

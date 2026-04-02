@@ -1,0 +1,56 @@
+{
+  "id": "3dcf3f58-e434-4801-8126-f59755de41be",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.8,
+      "text": "Looking for a way in... where's the opening?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "どこに活路を見出していくか 見出していくか"
+    },
+    {
+      "start": 3.8,
+      "end": 5.62,
+      "text": "Or have they already found it?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "それともすでに見出しているのか"
+    },
+    {
+      "start": 5.62,
+      "end": 9.5,
+      "text": "The white Pikmin damage is brutal",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "白ピクミンダメージが痛い"
+    },
+    {
+      "start": 9.5,
+      "end": 14.54,
+      "text": "Shielding the smashes while refining their neutral, but...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "スマッシュはガードしつつ 内容を仕上げていきましたが"
+    },
+    {
+      "start": 14.54,
+      "end": 16.36,
+      "text": "Finished with up air!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "最後は空中上でした"
+    }
+  ],
+  "full_text": "Looking for a way in... where's the opening? Or have they already found it? The white Pikmin damage is brutal. Shielding the smashes while refining their neutral, but... Finished with up air!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "白チクフィンダメージ",
+      "corrected": "白ピクミンダメージ",
+      "rule": "character term: Olimar's white Pikmin = 白ピクミン"
+    }
+  ]
+}

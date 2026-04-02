@@ -1,0 +1,93 @@
+{
+  "id": "f23d68ee-700c-4e9f-833f-0b0975f31226",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.96,
+      "text": "抜けられた",
+      "language": "ja"
+    },
+    {
+      "start": 0.96,
+      "end": 3.4,
+      "text": "深みはめくれているか",
+      "language": "ja"
+    },
+    {
+      "start": 3.4,
+      "end": 4.92,
+      "text": "いやーDI難しいですよ",
+      "language": "ja"
+    },
+    {
+      "start": 4.92,
+      "end": 5.94,
+      "text": "今の位置",
+      "language": "ja"
+    },
+    {
+      "start": 5.94,
+      "end": 7.12,
+      "text": "本当に難しい",
+      "language": "ja"
+    },
+    {
+      "start": 7.12,
+      "end": 8.38,
+      "text": "マジで難しいです今の",
+      "language": "ja"
+    },
+    {
+      "start": 8.38,
+      "end": 10.3,
+      "text": "マホロもギリギリかわしているが",
+      "language": "ja"
+    },
+    {
+      "start": 10.3,
+      "end": 11.74,
+      "text": "それでも窮地いらず",
+      "language": "ja"
+    },
+    {
+      "start": 11.74,
+      "end": 12.72,
+      "text": "気がつけば",
+      "language": "ja"
+    },
+    {
+      "start": 12.72,
+      "end": 14.04,
+      "text": "空Nニュートラルの撃墜",
+      "language": "ja"
+    },
+    {
+      "start": 14.04,
+      "end": 15.18,
+      "text": "痛いなー",
+      "language": "ja"
+    },
+    {
+      "start": 15.18,
+      "end": 16.44,
+      "text": "完璧でしたね",
+      "language": "ja"
+    }
+  ],
+  "full_text": "抜けられた 深みはめくれているか いやーDI難しいですよ 今の位置 本当に難しい マジで難しいです今の マホロもギリギリかわしているが それでも窮地いらず 気がつけば 空Nニュートラルの撃墜 痛いなー 完璧でしたね",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "DNA",
+      "corrected": "DI",
+      "rule": "smash term: DNA→DI"
+    },
+    {
+      "segment_idx": 9,
+      "original": "宇宙ニュートラル",
+      "corrected": "空Nニュートラル",
+      "rule": "misheard: 宇宙→空N"
+    }
+  ]
+}

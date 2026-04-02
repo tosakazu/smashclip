@@ -1,0 +1,32 @@
+{
+  "id": "b3bdbc55-b085-414d-9271-b63cceaf85c1",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.5,
+      "text": "With that speed, he's got safe dash spacing",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "やはり足が速いからこその低リスクなこのダッシュ置き"
+    },
+    {
+      "start": 6.5,
+      "end": 9.26,
+      "text": "He read the jump and punished!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ジャンプ読んで先制していった"
+    }
+  ],
+  "full_text": "With that speed, he's got safe dash spacing He read the jump and punished!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "ジャック置き",
+      "corrected": "ダッシュ置き",
+      "rule": "misheard word"
+    }
+  ]
+}

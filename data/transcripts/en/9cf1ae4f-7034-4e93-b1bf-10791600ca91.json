@@ -1,0 +1,40 @@
+{
+  "id": "9cf1ae4f-7034-4e93-b1bf-10791600ca91",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.6,
+      "text": "Grabbed ledge from below!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "下から崖をつかめる"
+    },
+    {
+      "start": 4.6,
+      "end": 5.38,
+      "text": "Side B doesn't connect",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "横Bは当たらない"
+    },
+    {
+      "start": 5.38,
+      "end": 6.82,
+      "text": "Did they pull off the swap?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "うまく入れ替えたか"
+    }
+  ],
+  "full_text": "Grabbed ledge from below! Side B doesn't connect Did they pull off the swap?",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "横橋",
+      "corrected": "横B",
+      "rule": "move name"
+    }
+  ]
+}

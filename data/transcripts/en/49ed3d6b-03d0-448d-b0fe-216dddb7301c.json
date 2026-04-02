@@ -1,0 +1,84 @@
+{
+  "id": "49ed3d6b-03d0-448d-b0fe-216dddb7301c",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.56,
+      "text": "No need to force the airdodge",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "回避を無理にする必要はないだろう"
+    },
+    {
+      "start": 1.56,
+      "end": 4.12,
+      "text": "Charged shot coming in!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "撃ってきたチャージショット"
+    },
+    {
+      "start": 4.12,
+      "end": 5.68,
+      "text": "Jab becomes a trade",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ちょん打ちが相打ちになる"
+    },
+    {
+      "start": 5.68,
+      "end": 7.78,
+      "text": "Nair mash sends them flying!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空N暴れ大きく飛ぶ"
+    },
+    {
+      "start": 7.78,
+      "end": 11.4,
+      "text": "If that was the down hit",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "もう下ヒットだったら"
+    },
+    {
+      "start": 11.4,
+      "end": 12.88,
+      "text": "Can't afford to take that",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "食らうわけにはいかないが"
+    },
+    {
+      "start": 12.88,
+      "end": 13.82,
+      "text": "Neutral here",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここはニュートラル"
+    }
+  ],
+  "full_text": "No need to force the airdodge Charged shot coming in! Jab becomes a trade Nair mash sends them flying! If that was the down hit Can't afford to take that Neutral here",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "回復を無理にする必要はないだろう",
+      "corrected": "回避を無理にする必要はないだろう",
+      "rule": "kanji homophone"
+    },
+    {
+      "segment_idx": 1,
+      "original": "ギエイトチャージショット",
+      "corrected": "撃ってきたチャージショット",
+      "rule": "garbled Whisper output"
+    },
+    {
+      "segment_idx": 3,
+      "original": "空中ニュートラル暴れ",
+      "corrected": "空N暴れ",
+      "rule": "move abbreviation"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": "85b81a8f-cf5f-43b8-ac1d-564cb2240bfb",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.52,
+      "text": "Villager connects with the sniper shot for the KO!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "あてにとってきくざかり村人がスナイパーパチンコ一撃決めて撃墜"
+    },
+    {
+      "start": 4.52,
+      "end": 10.14,
+      "text": "Here we go! Rizeasu's Marth down 3 stocks to 1, tough spot, but lands the nair!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあRizeasuマルス3スト対1スト苦しい状況だがここは空N"
+    }
+  ],
+  "full_text": "Villager connects with the sniper shot for the KO! Here we go! Rizeasu's Marth down 3 stocks to 1, tough spot, but lands the nair!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "キック盛り",
+      "corrected": "きくざかり",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 1,
+      "original": "リゼアスマルス3速対10速",
+      "corrected": "Rizeasuマルス3スト対1スト",
+      "rule": "player name + stock count (速→スト)"
+    },
+    {
+      "segment_idx": 1,
+      "original": "ここは空",
+      "corrected": "ここは空N",
+      "rule": "move name"
+    }
+  ]
+}

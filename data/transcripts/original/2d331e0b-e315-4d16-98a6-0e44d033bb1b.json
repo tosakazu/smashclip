@@ -1,0 +1,45 @@
+{
+  "id": "2d331e0b-e315-4d16-98a6-0e44d033bb1b",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.16,
+      "text": "ところ、ディレイをかけてタイミングをずらして",
+      "language": "ja"
+    },
+    {
+      "start": 3.16,
+      "end": 4.44,
+      "text": "蓋見上げっち",
+      "language": "ja"
+    },
+    {
+      "start": 4.44,
+      "end": 7.5,
+      "text": "相手の空中ニュートラル着地に対して",
+      "language": "ja"
+    },
+    {
+      "start": 7.5,
+      "end": 8.8,
+      "text": "早出しするか",
+      "language": "ja"
+    }
+  ],
+  "full_text": "ところ、ディレイをかけてタイミングをずらして 蓋見上げっち 相手の空中ニュートラル着地に対して 早出しするか",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "リレーをかけて",
+      "corrected": "ディレイをかけて",
+      "rule": "misheard: リレー→ディレイ"
+    },
+    {
+      "segment_idx": 1,
+      "original": "フタミアゲッチ",
+      "corrected": "蓋見上げっち",
+      "rule": "garbled - unclear, likely ふたみあげっち"
+    }
+  ]
+}

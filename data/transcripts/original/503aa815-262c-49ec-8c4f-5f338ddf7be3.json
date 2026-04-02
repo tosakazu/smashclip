@@ -1,0 +1,129 @@
+{
+  "id": "503aa815-262c-49ec-8c4f-5f338ddf7be3",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.38,
+      "text": "もう撃墜帯ですよ",
+      "language": "ja"
+    },
+    {
+      "start": 1.38,
+      "end": 2.54,
+      "text": "だが",
+      "language": "ja"
+    },
+    {
+      "start": 2.54,
+      "end": 3.14,
+      "text": "まさかね",
+      "language": "ja"
+    },
+    {
+      "start": 3.14,
+      "end": 4.04,
+      "text": "まさかね",
+      "language": "ja"
+    },
+    {
+      "start": 4.04,
+      "end": 4.3,
+      "text": "ちょっと",
+      "language": "ja"
+    },
+    {
+      "start": 4.3,
+      "end": 6.64,
+      "text": "崖外で真下に行くたびに",
+      "language": "ja"
+    },
+    {
+      "start": 6.64,
+      "end": 7.54,
+      "text": "もう空下によって",
+      "language": "ja"
+    },
+    {
+      "start": 7.54,
+      "end": 8.38,
+      "text": "まさかねってなる",
+      "language": "ja"
+    },
+    {
+      "start": 8.38,
+      "end": 9.08,
+      "text": "まさかね",
+      "language": "ja"
+    },
+    {
+      "start": 9.08,
+      "end": 9.72,
+      "text": "この",
+      "language": "ja"
+    },
+    {
+      "start": 9.72,
+      "end": 10.5,
+      "text": "熱",
+      "language": "ja"
+    },
+    {
+      "start": 10.5,
+      "end": 12.1,
+      "text": "いやーでも気づいて追いついてる",
+      "language": "ja"
+    },
+    {
+      "start": 12.1,
+      "end": 13.16,
+      "text": "そう気づけば",
+      "language": "ja"
+    },
+    {
+      "start": 13.16,
+      "end": 14.16,
+      "text": "着地狩り展開で",
+      "language": "ja"
+    },
+    {
+      "start": 14.16,
+      "end": 14.96,
+      "text": "あっても100%",
+      "language": "ja"
+    },
+    {
+      "start": 14.96,
+      "end": 15.34,
+      "text": "おー",
+      "language": "ja"
+    },
+    {
+      "start": 15.34,
+      "end": 16.4,
+      "text": "まずいですよ",
+      "language": "ja"
+    },
+    {
+      "start": 16.4,
+      "end": 17.5,
+      "text": "まずいまずい",
+      "language": "ja"
+    }
+  ],
+  "full_text": "もう撃墜帯ですよ だが まさかね まさかね ちょっと 崖外で真下に行くたびに もう空下によって まさかねってなる まさかね この 熱 いやーでも気づいて追いついてる そう気づけば 着地狩り展開で あっても100% おー まずいですよ まずいまずい",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "撃墜体",
+      "corrected": "撃墜帯",
+      "rule": "kanji homophone: 体→帯"
+    },
+    {
+      "segment_idx": 6,
+      "original": "空下がによって",
+      "corrected": "空下によって",
+      "rule": "typo fix"
+    }
+  ]
+}

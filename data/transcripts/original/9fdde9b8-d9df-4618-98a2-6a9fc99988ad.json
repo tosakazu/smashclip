@@ -1,0 +1,51 @@
+{
+  "id": "9fdde9b8-d9df-4618-98a2-6a9fc99988ad",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.2,
+      "text": "つかみを振るにはやや遠い位置",
+      "language": "ja"
+    },
+    {
+      "start": 3.2,
+      "end": 5.78,
+      "text": "というか本体と相方に挟まれると",
+      "language": "ja"
+    },
+    {
+      "start": 5.78,
+      "end": 6.94,
+      "text": "怖いな",
+      "language": "ja"
+    },
+    {
+      "start": 6.94,
+      "end": 8.9,
+      "text": "テリーの場合自動振り向きが本体に",
+      "language": "ja"
+    },
+    {
+      "start": 8.9,
+      "end": 10.24,
+      "text": "機能するので",
+      "language": "ja"
+    },
+    {
+      "start": 10.24,
+      "end": 11.3,
+      "text": "もう空後か",
+      "language": "ja"
+    }
+  ],
+  "full_text": "つかみを振るにはやや遠い位置 というか本体と相方に挟まれると 怖いな テリーの場合自動振り向きが本体に 機能するので もう空後か",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 5,
+      "original": "空中しろ",
+      "corrected": "空後",
+      "rule": "move abbreviation (back air)"
+    }
+  ]
+}

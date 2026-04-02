@@ -1,0 +1,76 @@
+{
+  "id": "1a2dcaf2-67f3-4ef7-81c3-4cbbaae8158b",
+  "segments": [
+    {
+      "start": 0.36,
+      "end": 2.3,
+      "text": "Lily looking a bit light there?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "リリーがちょっと軽いんでしょうか"
+    },
+    {
+      "start": 2.3,
+      "end": 4.96,
+      "text": "H.O. staying composed regardless",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "何はともあれマイルドなH.O選手"
+    },
+    {
+      "start": 4.96,
+      "end": 7.52,
+      "text": "Momentum looked about to shift huge, but...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "圧倒的振りそうな状況に見えたが"
+    },
+    {
+      "start": 7.52,
+      "end": 10.52,
+      "text": "Came right back with the KO!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "一瞬で撃墜の返してみせた"
+    },
+    {
+      "start": 10.52,
+      "end": 14.8,
+      "text": "Oh! Aggressive follow-up looking fierce, but...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "おー!貪欲な追撃が見えたが"
+    },
+    {
+      "start": 14.8,
+      "end": 16.5,
+      "text": "Naochan with the counterattack!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここはなおちゃ選手反撃"
+    }
+  ],
+  "full_text": "Lily looking a bit light there? H.O. staying composed regardless Momentum looked about to shift huge, but... Came right back with the KO! Oh! Aggressive follow-up looking fierce, but... Naochan with the counterattack!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "何はともあれマイルドなA長選手",
+      "corrected": "何はともあれマイルドなH.O選手",
+      "rule": "Player name correction: A長→H.O (metadata)"
+    },
+    {
+      "segment_idx": 4,
+      "original": "おー!貪欲な撃墜撃が見えたが",
+      "corrected": "おー!貪欲な追撃が見えたが",
+      "rule": "Whisper mishearing: 撃墜撃→追撃"
+    },
+    {
+      "segment_idx": 5,
+      "original": "ここは直茶選手反撃",
+      "corrected": "ここはなおちゃ選手反撃",
+      "rule": "Player name correction: 直茶→なおちゃ (metadata)"
+    }
+  ]
+}

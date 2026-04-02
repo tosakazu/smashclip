@@ -1,0 +1,51 @@
+{
+  "id": "50a33c48-e486-4fb9-938f-ad55d0714ce2",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.72,
+      "text": "Can we get it on there?",
+      "language": "en"
+    },
+    {
+      "start": 1.86,
+      "end": 4.94,
+      "text": "He's reached the roll, but he doesn't pull the trigger.",
+      "language": "en"
+    },
+    {
+      "start": 5.24,
+      "end": 6.96,
+      "text": "Now it's Miya in the driver's seat.",
+      "language": "en"
+    },
+    {
+      "start": 7.3,
+      "end": 8.48,
+      "text": "Can we get the bomb?",
+      "language": "en"
+    },
+    {
+      "start": 8.62,
+      "end": 10.28,
+      "text": "The single hit of the nair...",
+      "language": "en"
+    }
+  ],
+  "full_text": "Can we get it on there? He's reached the roll, but he doesn't pull the trigger. Now it's Miya in the driver's seat. Can we get the bomb? The single hit of the nair...",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "Miyafu's under",
+      "corrected": "Miya in",
+      "rule": "player name: Miyafu→Miya"
+    },
+    {
+      "segment_idx": 4,
+      "original": "hands of",
+      "corrected": "nair",
+      "rule": "move name: hands→nair"
+    }
+  ]
+}

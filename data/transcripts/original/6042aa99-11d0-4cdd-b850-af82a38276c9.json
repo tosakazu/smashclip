@@ -1,0 +1,27 @@
+{
+  "id": "6042aa99-11d0-4cdd-b850-af82a38276c9",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.74,
+      "text": "画面もねこの非常に丁寧ではあるんですけど相手に技を押し付けるっていうのがめちゃくちゃ上手いプレイヤーなんで",
+      "language": "ja"
+    },
+    {
+      "start": 5.74,
+      "end": 8.28,
+      "text": "うま!弱で追っ",
+      "language": "ja"
+    }
+  ],
+  "full_text": "画面もねこの非常に丁寧ではあるんですけど相手に技を押し付けるっていうのがめちゃくちゃ上手いプレイヤーなんで うま!弱で追っ",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "弱でお",
+      "corrected": "弱で追っ",
+      "rule": "truncated word"
+    }
+  ]
+}

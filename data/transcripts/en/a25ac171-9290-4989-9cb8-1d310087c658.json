@@ -1,0 +1,21 @@
+{
+  "id": "a25ac171-9290-4989-9cb8-1d310087c658",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 7.52,
+      "text": "Yeah, I often feel like if you get to Arsene first stock as Joker you're winning the game. Yeah in this matchup three",
+      "language": "en"
+    }
+  ],
+  "full_text": "Yeah, I often feel like if you get to Arsene first stock as Joker you're winning the game. Yeah in this matchup three",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "our sense for stock is Joker",
+      "corrected": "Arsene first stock as Joker",
+      "rule": "character mechanic (Joker's Arsene)"
+    }
+  ]
+}

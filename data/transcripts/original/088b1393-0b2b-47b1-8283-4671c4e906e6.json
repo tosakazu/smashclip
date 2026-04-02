@@ -1,0 +1,27 @@
+{
+  "id": "088b1393-0b2b-47b1-8283-4671c4e906e6",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.36,
+      "text": "出していく",
+      "language": "ja"
+    },
+    {
+      "start": 0.36,
+      "end": 3.76,
+      "text": "空上",
+      "language": "ja"
+    }
+  ],
+  "full_text": "出していく 空上",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "空中へ",
+      "corrected": "空上",
+      "rule": "Move abbreviation correction (空中へ → 空上)"
+    }
+  ]
+}

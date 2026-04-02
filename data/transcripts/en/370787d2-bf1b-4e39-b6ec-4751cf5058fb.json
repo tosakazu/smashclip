@@ -1,0 +1,40 @@
+{
+  "id": "370787d2-bf1b-4e39-b6ec-4751cf5058fb",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.78,
+      "text": "Three consecutive days of tournament runs—that's the grind right there",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "3日連続で大会に臨んでいるというスタイルですね"
+    },
+    {
+      "start": 3.78,
+      "end": 10.74,
+      "text": "Down throw into fair, fair, carrying it, carrying it, and closed it out with the bair!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "下投げからの空前空前運んで運んで空後で押し切った"
+    },
+    {
+      "start": 10.74,
+      "end": 11.38,
+      "text": "Excellent!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "お見事"
+    }
+  ],
+  "full_text": "Three consecutive days of tournament runs—that's the grind right there Down throw into fair, fair, carrying it, carrying it, and closed it out with the bair! Excellent!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "空中白で押し切った",
+      "corrected": "空後で押し切った",
+      "rule": "Whisper error: 空中白→空後"
+    }
+  ]
+}

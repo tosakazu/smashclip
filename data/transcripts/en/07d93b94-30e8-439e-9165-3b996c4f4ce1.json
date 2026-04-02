@@ -1,0 +1,62 @@
+{
+  "id": "07d93b94-30e8-439e-9165-3b996c4f4ce1",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.78,
+      "text": "They keep getting punished whenever they go right",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "右側に行くと逆に返されるといった展開が続いています"
+    },
+    {
+      "start": 2.78,
+      "end": 5.42,
+      "text": "That neutral getup is scary though",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "その場上がりがね怖い"
+    },
+    {
+      "start": 5.42,
+      "end": 6.04,
+      "text": "Yeah",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そうですね"
+    },
+    {
+      "start": 6.04,
+      "end": 8.72,
+      "text": "But they shut down that jump",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これはでもジャンプを潰したので"
+    },
+    {
+      "start": 8.72,
+      "end": 10.24,
+      "text": "Yeah, the route is pretty short",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そうですねかなりルートが短い"
+    }
+  ],
+  "full_text": "They keep getting punished whenever they go right. That neutral getup is scary though. Yeah. But they shut down that jump. Yeah, the route is pretty short",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "スノーバーガリーがね怖い",
+      "corrected": "その場上がりがね怖い",
+      "rule": "Whisper error correction (スノーバーガリー → その場上がり)"
+    },
+    {
+      "segment_idx": 3,
+      "original": "これはでもランプを潰したので",
+      "corrected": "これはでもジャンプを潰したので",
+      "rule": "Whisper error correction (ランプ → ジャンプ)"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "b412332d-b05f-4686-a4cc-75bc942726ee",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.6,
+      "text": "Already reaching for shield!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "もうとっさにシールドボタンに手を伸ばした"
+    },
+    {
+      "start": 2.6,
+      "end": 7.54,
+      "text": "Wanted to get a clean landing but couldn't escape the pressure!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "エリトラトロッコと交えて着地を通したかったのですが"
+    },
+    {
+      "start": 7.54,
+      "end": 9.14,
+      "text": "The juggle never stops!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "着地狩りが止まらない"
+    },
+    {
+      "start": 9.14,
+      "end": 12.16,
+      "text": "Banana connects! Up tilt for 10%!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "バナナ当たって上強10%"
+    }
+  ],
+  "full_text": "Already reaching for shield! Wanted to get a clean landing but couldn't escape the pressure! The juggle never stops! Banana connects! Up tilt for 10%!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 3,
+      "original": "上京10秒",
+      "corrected": "上強10%",
+      "rule": "move name + misheard word"
+    }
+  ]
+}

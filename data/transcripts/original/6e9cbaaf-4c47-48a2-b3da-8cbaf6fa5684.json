@@ -1,0 +1,38 @@
+{
+  "id": "6e9cbaaf-4c47-48a2-b3da-8cbaf6fa5684",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.72,
+      "text": "もう一回?今度はもうブロックはないぞ",
+      "language": "ja"
+    },
+    {
+      "start": 1.72,
+      "end": 4.86,
+      "text": "高速ポップガンもかわした",
+      "language": "ja"
+    },
+    {
+      "start": 4.86,
+      "end": 7.62,
+      "text": "くじー",
+      "language": "ja"
+    },
+    {
+      "start": 7.62,
+      "end": 9.08,
+      "text": "横スマッシュ",
+      "language": "ja"
+    }
+  ],
+  "full_text": "もう一回?今度はもうブロックはないぞ 高速ポップガンもかわした くじー 横スマッシュ",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_index": 3,
+      "original": "よこつばし",
+      "corrected": "横スマッシュ"
+    }
+  ]
+}

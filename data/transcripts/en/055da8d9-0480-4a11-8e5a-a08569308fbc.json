@@ -1,0 +1,76 @@
+{
+  "id": "055da8d9-0480-4a11-8e5a-a08569308fbc",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.12,
+      "text": "Fair against jump getup!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ジャンプ上がりに対しては空前で"
+    },
+    {
+      "start": 2.12,
+      "end": 4.62,
+      "text": "Fair again!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "もう一度空前"
+    },
+    {
+      "start": 4.62,
+      "end": 5.6,
+      "text": "On the outside...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "外の展開は"
+    },
+    {
+      "start": 5.6,
+      "end": 6.34,
+      "text": "Won't give an inch!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ゆうぶらない"
+    },
+    {
+      "start": 6.34,
+      "end": 9.22,
+      "text": "Counters!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "逆にやり返していく"
+    },
+    {
+      "start": 9.22,
+      "end": 11.52,
+      "text": "Fair!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空前"
+    }
+  ],
+  "full_text": "Fair against jump getup! Fair again! On the outside... Won't give an inch! Counters! Fair!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "ジャンプ上がりに対しては空中前で",
+      "corrected": "ジャンプ上がりに対しては空前で",
+      "rule": "auto-rule"
+    },
+    {
+      "segment_idx": 1,
+      "original": "もう一度空中前",
+      "corrected": "もう一度空前",
+      "rule": "auto-rule"
+    },
+    {
+      "segment_idx": 5,
+      "original": "空中前",
+      "corrected": "空前",
+      "rule": "auto-rule"
+    }
+  ]
+}

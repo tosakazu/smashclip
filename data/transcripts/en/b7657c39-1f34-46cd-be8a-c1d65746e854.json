@@ -1,0 +1,33 @@
+{
+  "id": "b7657c39-1f34-46cd-be8a-c1d65746e854",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.38,
+      "text": "Running in and chasing",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "目鏡走って追いかけて"
+    },
+    {
+      "start": 2.38,
+      "end": 3.64,
+      "text": "When you look at that attack",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "目鏡攻撃を見ると"
+    },
+    {
+      "start": 3.64,
+      "end": 5.28,
+      "text": "In the middle of it",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "笛途中で"
+    }
+  ],
+  "full_text": "Running in and chasing When you look at that attack In the middle of it",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

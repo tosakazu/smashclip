@@ -1,0 +1,39 @@
+{
+  "id": "3567c09d-857a-40be-b974-cc7c2a02d11b",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.7,
+      "text": "戻ってきて",
+      "language": "ja"
+    },
+    {
+      "start": 3.7,
+      "end": 6.84,
+      "text": "接戦のところ空Nを開始していく",
+      "language": "ja"
+    },
+    {
+      "start": 6.84,
+      "end": 8.6,
+      "text": "しかしこれは空後",
+      "language": "ja"
+    }
+  ],
+  "full_text": "戻ってきて 接戦のところ空Nを開始していく しかしこれは空後",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "説明のところ空中を開始していく",
+      "corrected": "接戦のところ空Nを開始していく",
+      "rule": "misheard: 接戦, 空N"
+    },
+    {
+      "segment_idx": 2,
+      "original": "空中城",
+      "corrected": "空後",
+      "rule": "Whisper error: 空中城→空後"
+    }
+  ]
+}

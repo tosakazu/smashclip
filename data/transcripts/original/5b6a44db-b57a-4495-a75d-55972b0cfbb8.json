@@ -1,0 +1,39 @@
+{
+  "id": "5b6a44db-b57a-4495-a75d-55972b0cfbb8",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.36,
+      "text": "アイクの攻めの策をうまいこと封じながら",
+      "language": "ja"
+    },
+    {
+      "start": 6.36,
+      "end": 10.3,
+      "text": "じわりじわりと試合の優位を取っているのはじゃがバターダックハント",
+      "language": "ja"
+    },
+    {
+      "start": 10.3,
+      "end": 12.36,
+      "text": "ここは空中後ろ",
+      "language": "ja"
+    }
+  ],
+  "full_text": "アイクの攻めの策をうまいこと封じながら じわりじわりと試合の優位を取っているのはじゃがバターダックハント ここは空中後ろ",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "ジャガーバッターガックハント",
+      "corrected": "じゃがバターダックハント",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 2,
+      "original": "空中にしろ",
+      "corrected": "空中後ろ",
+      "rule": "move name"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "id": "fba42c90-eacd-4951-844e-4e74f4e4a701",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.82,
+      "text": "Switching to Homura",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ホムラに変えて"
+    },
+    {
+      "start": 1.82,
+      "end": 3.76,
+      "text": "Gets caught in the intense pressure!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "プレッシャーかかるブレイク戦に引っかかって"
+    },
+    {
+      "start": 3.76,
+      "end": 6.42,
+      "text": "Takes the grab, weak tech",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "掴みを通して受け身を弱でまずはというところ"
+    },
+    {
+      "start": 6.42,
+      "end": 8.02,
+      "text": "But mashes out with the Shoryuken!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "しかし暴れて昇竜拳"
+    },
+    {
+      "start": 8.02,
+      "end": 9.34,
+      "text": "No way!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "マジか"
+    },
+    {
+      "start": 9.34,
+      "end": 11.24,
+      "text": "Reaches the combo cleanly!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "あそこちゃんとコンボレートに行けるんですね"
+    },
+    {
+      "start": 11.24,
+      "end": 12.32,
+      "text": "Gets the move out!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "技を振れる"
+    }
+  ],
+  "full_text": "Switching to Homura Gets caught in the intense pressure! Takes the grab, weak tech But mashes out with the Shoryuken! No way! Reaches the combo cleanly! Gets the move out!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "コムラ",
+      "corrected": "ホムラ",
+      "rule": "character name: コムラ→ホムラ (Pyra)"
+    },
+    {
+      "segment_idx": 2,
+      "original": "クミを通して",
+      "corrected": "掴みを通して",
+      "rule": "misheard"
+    },
+    {
+      "segment_idx": 5,
+      "original": "クーレットに行ける",
+      "corrected": "コンボレートに行ける",
+      "rule": "misheard"
+    },
+    {
+      "segment_idx": 6,
+      "original": "技を触れる",
+      "corrected": "技を振れる",
+      "rule": "kanji: 触れる→振れる"
+    }
+  ]
+}

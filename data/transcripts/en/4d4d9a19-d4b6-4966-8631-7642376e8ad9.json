@@ -1,0 +1,104 @@
+{
+  "id": "4d4d9a19-d4b6-4966-8631-7642376e8ad9",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.82,
+      "text": "Fair",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空前"
+    },
+    {
+      "start": 0.82,
+      "end": 2.2,
+      "text": "Building momentum",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "展開作って"
+    },
+    {
+      "start": 2.2,
+      "end": 5.94,
+      "text": "Now diving in with nair",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあ空Nで飛び込んだ"
+    },
+    {
+      "start": 5.94,
+      "end": 7.06,
+      "text": "Forward throw",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "前投げ"
+    },
+    {
+      "start": 7.06,
+      "end": 8.6,
+      "text": "Turnaround bair",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "反転空後"
+    },
+    {
+      "start": 8.6,
+      "end": 10.02,
+      "text": "Bomb",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "爆弾ひとまず"
+    },
+    {
+      "start": 10.02,
+      "end": 13.2,
+      "text": "Off the ledge",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "崖バイバイ"
+    },
+    {
+      "start": 13.2,
+      "end": 14.04,
+      "text": "And that's the KO",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "通して撃墜"
+    }
+  ],
+  "full_text": "Fair Building momentum Now diving in with nair Forward throw Turnaround bair Bomb Off the ledge And that's the KO",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "空中前",
+      "corrected": "空前",
+      "rule": "move abbreviation"
+    },
+    {
+      "segment_idx": 2,
+      "original": "空への飛び込んだ",
+      "corrected": "空Nで飛び込んだ",
+      "rule": "move abbreviation: 空へ→空N"
+    },
+    {
+      "segment_idx": 4,
+      "original": "反転空中しろ",
+      "corrected": "反転空後",
+      "rule": "move abbreviation: 空中しろ→空後"
+    },
+    {
+      "segment_idx": 6,
+      "original": "崖バイエビー",
+      "corrected": "崖バイバイ",
+      "rule": "misheard word"
+    },
+    {
+      "segment_idx": 7,
+      "original": "激戦",
+      "corrected": "撃墜",
+      "rule": "kanji homophone: 激戦→撃墜"
+    }
+  ]
+}

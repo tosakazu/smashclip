@@ -1,0 +1,44 @@
+{
+  "id": "97aef7a7-d5c0-4b89-9c93-79b2d7b91e84",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.72,
+      "text": "近くにかかるうっちぃ選手だが",
+      "language": "ja"
+    },
+    {
+      "start": 1.72,
+      "end": 3.6,
+      "text": "一旦ニュートラルに戻ります",
+      "language": "ja"
+    },
+    {
+      "start": 3.6,
+      "end": 4.5,
+      "text": "ラッシュアタック",
+      "language": "ja"
+    },
+    {
+      "start": 4.5,
+      "end": 5.72,
+      "text": "おーこれはまずいか?",
+      "language": "ja"
+    },
+    {
+      "start": 5.96,
+      "end": 6.48,
+      "text": "空中後ろ?",
+      "language": "ja"
+    },
+    {
+      "start": 7.12,
+      "end": 8.48,
+      "text": "えー当たるのだな",
+      "language": "ja"
+    }
+  ],
+  "full_text": "近くにかかるうっちぃ選手だが 一旦ニュートラルに戻ります ラッシュアタック おーこれはまずいか? 空中後ろ? えー当たるのだな",
+  "detected_language": "ja",
+  "corrections": []
+}

@@ -1,0 +1,81 @@
+{
+  "id": "c4bd1ee1-7bde-4f41-bf6a-bb6cc8805089",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.64,
+      "text": "落ち込んで空前固めもう一発",
+      "language": "ja"
+    },
+    {
+      "start": 1.64,
+      "end": 2.22,
+      "text": "もう一発ですね",
+      "language": "ja"
+    },
+    {
+      "start": 2.22,
+      "end": 4.48,
+      "text": "これでガードを削ることによるセットアップを狙いましたが",
+      "language": "ja"
+    },
+    {
+      "start": 4.48,
+      "end": 5.32,
+      "text": "早めに暴れていきました",
+      "language": "ja"
+    },
+    {
+      "start": 5.32,
+      "end": 6.84,
+      "text": "バナナの奥のプレッシャーに負けず",
+      "language": "ja"
+    },
+    {
+      "start": 6.84,
+      "end": 8.3,
+      "text": "早めにラインを回復しましたが",
+      "language": "ja"
+    },
+    {
+      "start": 8.3,
+      "end": 10.02,
+      "text": "ここは空中前シールドせざるを得ない",
+      "language": "ja"
+    },
+    {
+      "start": 10.02,
+      "end": 11.34,
+      "text": "ダッシュ攻撃",
+      "language": "ja"
+    },
+    {
+      "start": 11.34,
+      "end": 12.0,
+      "text": "本気",
+      "language": "ja"
+    },
+    {
+      "start": 12.0,
+      "end": 13.36,
+      "text": "速い",
+      "language": "ja"
+    }
+  ],
+  "full_text": "落ち込んで空前固めもう一発 もう一発ですね これでガードを削ることによるセットアップを狙いましたが 早めに暴れていきました バナナの奥のプレッシャーに負けず 早めにラインを回復しましたが ここは空中前シールドせざるを得ない ダッシュ攻撃 本気 速い",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 4,
+      "original": "バーナーの顔の",
+      "corrected": "バナナの奥の",
+      "rule": "misheard character move (Diddy Kong banana)"
+    },
+    {
+      "segment_idx": 7,
+      "original": "出し攻撃",
+      "corrected": "ダッシュ攻撃",
+      "rule": "misheard move name"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "a49fcf52-f713-4f5c-9951-7eedc21e4460",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.38,
+      "text": "Here comes Peoreum!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあピオリム"
+    },
+    {
+      "start": 1.38,
+      "end": 5.24,
+      "text": "And before you know it, coming back from recovery,",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "気づけば復帰台から帰ってくる間に"
+    },
+    {
+      "start": 5.24,
+      "end": 9.14,
+      "text": "the opponent gets the buff!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "相手にバフがかかった状態です"
+    },
+    {
+      "start": 9.14,
+      "end": 11.12,
+      "text": "Dive down!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ダイブダウンね"
+    }
+  ],
+  "full_text": "Here comes Peoreum! And before you know it, coming back from recovery, the opponent gets the buff! Dive down!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

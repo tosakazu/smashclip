@@ -1,0 +1,78 @@
+{
+  "id": "b04986c6-8692-4392-9eb1-21d805329d15",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.18,
+      "text": "Upper here - player Yamana",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "上はここはヤマナクション選手"
+    },
+    {
+      "start": 2.18,
+      "end": 3.84,
+      "text": "Whiff punish with the dash attack!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ダッシュアタックで差し返す"
+    },
+    {
+      "start": 3.84,
+      "end": 7.64,
+      "text": "Going for pressure from below the platform",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "台下から圧を加えたい"
+    },
+    {
+      "start": 7.64,
+      "end": 8.52,
+      "text": "Falling up air?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "降り空上?"
+    },
+    {
+      "start": 8.96,
+      "end": 11.92,
+      "text": "The rising up air didn't connect, but grabbed it with a jab and keeps the turn rolling!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "登り空上は当たらなかったんですが弱で拾ってターン継続"
+    },
+    {
+      "start": 11.92,
+      "end": 13.46,
+      "text": "Wait, dair?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "え空下?"
+    },
+    {
+      "start": 14.02,
+      "end": 14.5,
+      "text": "KO!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "撃墜!"
+    }
+  ],
+  "full_text": "Upper here - player Yamana Whiff punish with the dash attack! Going for pressure from below the platform Falling up air? The rising up air didn't connect, but grabbed it with a jab and keeps the turn rolling! Wait, dair? KO!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "山中翔選手",
+      "corrected": "ヤマナクション選手",
+      "rule": "player name (ヤマナクション)"
+    },
+    {
+      "segment_idx": 5,
+      "original": "海空下?",
+      "corrected": "え空下?",
+      "rule": "mishearing"
+    }
+  ]
+}

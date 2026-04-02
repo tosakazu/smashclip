@@ -1,0 +1,62 @@
+{
+  "id": "7b7bad08-814a-4f3b-b5e3-f377ad2b3f59",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.88,
+      "text": "Takes it!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "持っていく"
+    },
+    {
+      "start": 0.88,
+      "end": 9.02,
+      "text": "Now with the nair",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあ空Nの"
+    },
+    {
+      "start": 9.02,
+      "end": 10.08,
+      "text": "Trading fairs!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "被せ合い空前した"
+    },
+    {
+      "start": 10.08,
+      "end": 12.04,
+      "text": "Stacked so clean on that jump!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ジャンプにうまく重ねて"
+    },
+    {
+      "start": 12.04,
+      "end": 14.26,
+      "text": "That was the spacing!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "重ねる位置だったんですね"
+    }
+  ],
+  "full_text": "Takes it! Now with the nair Trading fairs! Stacked so clean on that jump! That was the spacing!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "空中ニュートラルの",
+      "corrected": "空Nの",
+      "rule": "abbreviation: 空中ニュートラル→空N"
+    },
+    {
+      "segment_idx": 2,
+      "original": "カブツヤイ空中した",
+      "corrected": "被せ合い空前した",
+      "rule": "misheard: カブツヤイ→被せ合い, 空中→空前 (move is 空前)"
+    }
+  ]
+}

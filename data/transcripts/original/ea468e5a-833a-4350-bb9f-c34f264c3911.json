@@ -1,0 +1,45 @@
+{
+  "id": "ea468e5a-833a-4350-bb9f-c34f264c3911",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.68,
+      "text": "You'll never expect that one.",
+      "language": "en"
+    },
+    {
+      "start": 2.24,
+      "end": 4.54,
+      "text": "And that puts TG on the precipice here.",
+      "language": "en"
+    },
+    {
+      "start": 4.96,
+      "end": 6.7,
+      "text": "The cusp of top eight.",
+      "language": "en"
+    },
+    {
+      "start": 6.84,
+      "end": 7.32,
+      "text": "Lui$ Money.",
+      "language": "en"
+    }
+  ],
+  "full_text": "You'll never expect that one. And that puts TG on the precipice here. The cusp of top eight. Lui$ Money.",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "Turguri",
+      "corrected": "TG",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 3,
+      "original": "Louie Money",
+      "corrected": "Lui$ Money",
+      "rule": "player name"
+    }
+  ]
+}

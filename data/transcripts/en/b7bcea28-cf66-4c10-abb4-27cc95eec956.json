@@ -1,0 +1,57 @@
+{
+  "id": "b7bcea28-cf66-4c10-abb4-27cc95eec956",
+  "segments": [
+    {
+      "start": 0.12,
+      "end": 1.72,
+      "text": "Extended advantage state",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "有利展開が長い"
+    },
+    {
+      "start": 1.72,
+      "end": 6.26,
+      "text": "But Steve's got diamonds!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "しかしダイヤ装備をゲットしているスティーブ"
+    },
+    {
+      "start": 6.26,
+      "end": 8.98,
+      "text": "His firepower's spiking!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここはもう火力が伸びてしまうぞ"
+    },
+    {
+      "start": 8.98,
+      "end": 11.04,
+      "text": "Actually, his kills are coming earlier!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "火力が伸びるというか撃墜が早くなってしまいますよ"
+    },
+    {
+      "start": 11.04,
+      "end": 11.48,
+      "text": "Scary!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "怖い!"
+    },
+    {
+      "start": 12.08,
+      "end": 14.04,
+      "text": "Fair meteor off the cart!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "トロッコから降りたところ空中前メテオ"
+    }
+  ],
+  "full_text": "Extended advantage state But Steve's got diamonds! His firepower's spiking! Actually, his kills are coming earlier! Scary! Fair meteor off the cart!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

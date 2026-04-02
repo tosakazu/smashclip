@@ -1,0 +1,87 @@
+{
+  "id": "64cbfb30-05d2-4972-8df5-4d2b5d15f8fc",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.34,
+      "text": "次はリム、ミェンミェン流れを変えたいが",
+      "language": "ja"
+    },
+    {
+      "start": 2.34,
+      "end": 4.98,
+      "text": "強化ドラゴン",
+      "language": "ja"
+    },
+    {
+      "start": 4.98,
+      "end": 6.2,
+      "text": "ドラゴン伸ばして",
+      "language": "ja"
+    },
+    {
+      "start": 6.2,
+      "end": 7.66,
+      "text": "あと鉄1個です",
+      "language": "ja"
+    },
+    {
+      "start": 7.66,
+      "end": 9.94,
+      "text": "鉄が1個の状態",
+      "language": "ja"
+    },
+    {
+      "start": 9.94,
+      "end": 11.4,
+      "text": "アコーラどう変える",
+      "language": "ja"
+    },
+    {
+      "start": 11.4,
+      "end": 12.54,
+      "text": "ライン回復が",
+      "language": "ja"
+    },
+    {
+      "start": 12.54,
+      "end": 13.4,
+      "text": "うまーい",
+      "language": "ja"
+    },
+    {
+      "start": 13.4,
+      "end": 15.4,
+      "text": "そこでつかめる",
+      "language": "ja"
+    },
+    {
+      "start": 15.4,
+      "end": 18.18,
+      "text": "そして上投げ撃墜",
+      "language": "ja"
+    },
+    {
+      "start": 18.18,
+      "end": 18.9,
+      "text": "抜け目なく",
+      "language": "ja"
+    }
+  ],
+  "full_text": "次はリム、ミェンミェン流れを変えたいが 強化ドラゴン ドラゴン伸ばして あと鉄1個です 鉄が1個の状態 アコーラどう変える ライン回復が うまーい そこでつかめる そして上投げ撃墜 抜け目なく",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "時間でリムメンメン",
+      "corrected": "次はリム、ミェンミェン",
+      "rule": "player name + character name"
+    },
+    {
+      "segment_idx": 9,
+      "original": "上投げについ",
+      "corrected": "上投げ撃墜",
+      "rule": "Smash term (撃墜)"
+    }
+  ]
+}

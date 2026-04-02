@@ -1,0 +1,97 @@
+{
+  "id": "3c966541-9549-460b-bcd5-7d1bab88116f",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.96,
+      "text": "Wario gets the inside position first, but...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "内側先に陣取っているのはワリオですが"
+    },
+    {
+      "start": 1.96,
+      "end": 3.64,
+      "text": "Lucario, who got caught by the bike,",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "バイクに当たったラクライが"
+    },
+    {
+      "start": 3.64,
+      "end": 5.14,
+      "text": "is pushing Wario back!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ワリオを追い払っていきました"
+    },
+    {
+      "start": 5.14,
+      "end": 6.06,
+      "text": "Oh no!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "まずいんじゃん"
+    },
+    {
+      "start": 6.06,
+      "end": 6.7,
+      "text": "He's okay!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "大丈夫"
+    },
+    {
+      "start": 6.7,
+      "end": 7.96,
+      "text": "He's okay!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "大丈夫"
+    },
+    {
+      "start": 7.96,
+      "end": 8.7,
+      "text": "Really!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "本当に"
+    },
+    {
+      "start": 8.7,
+      "end": 9.74,
+      "text": "Tech!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "受け身"
+    },
+    {
+      "start": 9.74,
+      "end": 10.36,
+      "text": "Perfect!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "バッチリ"
+    },
+    {
+      "start": 10.36,
+      "end": 13.32,
+      "text": "He pulls it off with that aerial!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "まさか空中リトルで逆にやりきるのは"
+    },
+    {
+      "start": 13.32,
+      "end": 14.86,
+      "text": "That's Zackray!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ザクレイなのか"
+    }
+  ],
+  "full_text": "Wario gets the inside position first, but... Lucario, who got caught by the bike, is pushing Wario back! Oh no! He's okay! He's okay! Really! Tech! Perfect! He pulls it off with that aerial! That's Zackray!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

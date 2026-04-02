@@ -1,0 +1,45 @@
+{
+  "id": "7a9530c7-0458-400f-afe4-ebcb45168ba5",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.5,
+      "text": "Yoshidora選手の着地点を少なくしていたようにも見えます",
+      "language": "ja"
+    },
+    {
+      "start": 3.5,
+      "end": 7.46,
+      "text": "今度は空中前も一役買って台の上にもリスクがつきます",
+      "language": "ja"
+    },
+    {
+      "start": 7.46,
+      "end": 9.46,
+      "text": "チャージショットを溜めろ",
+      "language": "ja"
+    }
+  ],
+  "full_text": "Yoshidora選手の着地点を少なくしていたようにも見えます 今度は空中前も一役買って台の上にもリスクがつきます チャージショットを溜めろ",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "吉田選手",
+      "corrected": "Yoshidora選手",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 1,
+      "original": "ひと役勝って",
+      "corrected": "一役買って",
+      "rule": "kanji homophone"
+    },
+    {
+      "segment_idx": 2,
+      "original": "たまろ",
+      "corrected": "溜めろ",
+      "rule": "whisper misrecognition"
+    }
+  ]
+}

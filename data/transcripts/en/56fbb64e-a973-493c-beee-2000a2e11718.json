@@ -1,0 +1,70 @@
+{
+  "id": "56fbb64e-a973-493c-beee-2000a2e11718",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.44,
+      "text": "KO with the forward smash out of Cyclone's endlag!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "サイクロンの後隙横スマッシュで撃墜をとって"
+    },
+    {
+      "start": 3.44,
+      "end": 6.2,
+      "text": "Both players are even at two stocks each",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "両者ストックは2ストック横並び"
+    },
+    {
+      "start": 6.2,
+      "end": 6.78,
+      "text": "Recovery works",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "返りはする"
+    },
+    {
+      "start": 6.78,
+      "end": 8.3,
+      "text": "Dair? Dair? Another one?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空下?空下?もう一発?"
+    },
+    {
+      "start": 8.4,
+      "end": 9.28,
+      "text": "Recovery doesn't make it",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "返りはしない"
+    },
+    {
+      "start": 9.28,
+      "end": 11.72,
+      "text": "That down input right there...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "今のその下入力の"
+    }
+  ],
+  "full_text": "KO with the forward smash out of Cyclone's endlag! Both players are even at two stocks each. Recovery works. Dair? Dair? Another one? Recovery doesn't make it. That down input right there...",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "サイクロンの右側ふすましで撃墜をとって",
+      "corrected": "サイクロンの後隙横スマッシュで撃墜をとって",
+      "rule": "misheard word"
+    },
+    {
+      "segment_idx": 3,
+      "original": "空射?空射?もう一発?",
+      "corrected": "空下?空下?もう一発?",
+      "rule": "misheard word (空射→空下)"
+    }
+  ]
+}

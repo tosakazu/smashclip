@@ -1,0 +1,99 @@
+{
+  "id": "36c42482-8d57-45b2-bbb1-aabf47fbfc9b",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.3,
+      "text": "スペル!",
+      "language": "ja"
+    },
+    {
+      "start": 1.26,
+      "end": 1.96,
+      "text": "崖を取った",
+      "language": "ja"
+    },
+    {
+      "start": 1.96,
+      "end": 3.22,
+      "text": "空Nを見ている",
+      "language": "ja"
+    },
+    {
+      "start": 3.22,
+      "end": 4.38,
+      "text": "空前!",
+      "language": "ja"
+    },
+    {
+      "start": 4.82,
+      "end": 5.44,
+      "text": "どうだこれは!",
+      "language": "ja"
+    },
+    {
+      "start": 5.86,
+      "end": 7.22,
+      "text": "大丈夫か移動回避が間に合った!",
+      "language": "ja"
+    },
+    {
+      "start": 7.58,
+      "end": 9.3,
+      "text": "ソニック2フレで早いですから回避",
+      "language": "ja"
+    },
+    {
+      "start": 9.3,
+      "end": 12.06,
+      "text": "いやしかし本当に一瞬で試合が決まる!",
+      "language": "ja"
+    },
+    {
+      "start": 12.26,
+      "end": 13.3,
+      "text": "勝ったぞ!どうだ!",
+      "language": "ja"
+    },
+    {
+      "start": 14.14,
+      "end": 15.78,
+      "text": "ここでファイヤージャンプパンチ!",
+      "language": "ja"
+    }
+  ],
+  "full_text": "スペル! 崖を取った 空Nを見ている 空前! どうだこれは! 大丈夫か移動回避が間に合った! ソニック2フレで早いですから回避 いやしかし本当に一瞬で試合が決まる! 勝ったぞ!どうだ! ここでファイヤージャンプパンチ!",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "崖を撮った",
+      "corrected": "崖を取った",
+      "rule": "kanji: 撮った→取った"
+    },
+    {
+      "segment_idx": 2,
+      "original": "宇宙を見ている",
+      "corrected": "空Nを見ている",
+      "rule": "Whisper error: 宇宙→空N"
+    },
+    {
+      "segment_idx": 3,
+      "original": "宇宙前!",
+      "corrected": "空前!",
+      "rule": "Whisper error: 宇宙前→空前"
+    },
+    {
+      "segment_idx": 5,
+      "original": "ダイクロン移動回避が間に合った!",
+      "corrected": "大丈夫か移動回避が間に合った!",
+      "rule": "misheard"
+    },
+    {
+      "segment_idx": 9,
+      "original": "ワイヤージャンパンチ!",
+      "corrected": "ファイヤージャンプパンチ!",
+      "rule": "Luigi move name: ファイヤージャンプパンチ"
+    }
+  ]
+}

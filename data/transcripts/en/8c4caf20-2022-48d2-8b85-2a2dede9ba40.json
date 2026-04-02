@@ -1,0 +1,22 @@
+{
+  "id": "8c4caf20-2022-48d2-8b85-2a2dede9ba40",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.2,
+      "text": "It might just be, it might just be, Leo just needs to clutch up here, one hit away",
+      "language": "en"
+    },
+    {
+      "start": 5.2,
+      "end": 11.96,
+      "text": "from being able to take Game 1 against one of the most prolific players in Tokyo.",
+      "language": "en"
+    }
+  ],
+  "full_text": "It might just be, it might just be, Leo just needs to clutch up here, one hit away from being able to take Game 1 against one of the most prolific players in Tokyo.",
+  "detected_language": "en",
+  "corrections": [
+    "Laird→Leo (MkLeo player name from metadata)"
+  ]
+}

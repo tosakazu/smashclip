@@ -1,0 +1,41 @@
+{
+  "id": "11a9da96-cc18-4efd-b998-d45f5cf55b87",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.24,
+      "text": "Alright, here's game one, and now Spargo's going with Piranha Plant, right?",
+      "language": "en",
+      "original_language": "es",
+      "original_text": "Pero bueno, aquí es la primera partida, ahora con la planta de Spargo, ¿eh?"
+    },
+    {
+      "start": 6.5,
+      "end": 9.88,
+      "text": "There we go, that's it, Spargo on Piranha Plant - oh man!",
+      "language": "en",
+      "original_language": "es",
+      "original_text": "Ahí es, eso es, vamos a tener la planta de Spargo, ¡qué madre mía!"
+    },
+    {
+      "start": 9.88,
+      "end": 11.98,
+      "text": "I think this is going to be really fun to watch",
+      "language": "en",
+      "original_language": "es",
+      "original_text": "Me parece que va a ser muy divertido"
+    },
+    {
+      "start": 11.98,
+      "end": 16.02,
+      "text": "I mean, just to start off, seeing a Piranha Plant in 2025 seems...",
+      "language": "en",
+      "original_language": "es",
+      "original_text": "Es que para empezar, ver una planta piraña en 2025 me parece..."
+    }
+  ],
+  "full_text": "Alright, here's game one, and now Spargo's going with Piranha Plant, right? There we go, that's it, Spargo on Piranha Plant - oh man! I think this is going to be really fun to watch I mean, just to start off, seeing a Piranha Plant in 2025 seems...",
+  "detected_language": "en",
+  "original_language": "es",
+  "corrections": []
+}

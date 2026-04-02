@@ -1,0 +1,45 @@
+{
+  "id": "cb3a8c87-2b57-4c03-a70c-ce715a24ed0e",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.36,
+      "text": "そして発生が早いのでシールドキャンセルでかなりね",
+      "language": "ja"
+    },
+    {
+      "start": 2.36,
+      "end": 4.4,
+      "text": "村人に対して有効打になりますから",
+      "language": "ja"
+    },
+    {
+      "start": 4.4,
+      "end": 6.0,
+      "text": "これも空中下",
+      "language": "ja"
+    },
+    {
+      "start": 6.0,
+      "end": 6.92,
+      "text": "いや逆に危ない",
+      "language": "ja"
+    },
+    {
+      "start": 6.92,
+      "end": 7.88,
+      "text": "ちょっと",
+      "language": "ja"
+    }
+  ],
+  "full_text": "そして発生が早いのでシールドキャンセルでかなりね 村人に対して有効打になりますから これも空中下 いや逆に危ない ちょっと",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "空中した",
+      "corrected": "空中下",
+      "rule": "smash term (空中下攻撃)"
+    }
+  ]
+}

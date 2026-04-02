@@ -1,0 +1,57 @@
+{
+  "id": "1a83734c-5659-4ef0-bd6a-c1828fbdbc62",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.22,
+      "text": "食らわないベク変が完璧",
+      "language": "ja"
+    },
+    {
+      "start": 1.22,
+      "end": 4.1,
+      "text": "やはり台上経由してしまうとリターンが伸びてしまう",
+      "language": "ja"
+    },
+    {
+      "start": 4.1,
+      "end": 6.68,
+      "text": "当たったところを横スマッシュ",
+      "language": "ja"
+    },
+    {
+      "start": 6.68,
+      "end": 8.68,
+      "text": "レイジの状態になって",
+      "language": "ja"
+    },
+    {
+      "start": 8.68,
+      "end": 10.62,
+      "text": "うっちー選手ここは大きなリード",
+      "language": "ja"
+    }
+  ],
+  "full_text": "食らわないベク変が完璧 やはり台上経由してしまうとリターンが伸びてしまう 当たったところを横スマッシュ レイジの状態になって うっちー選手ここは大きなリード",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "食らわない変更が完璧",
+      "corrected": "食らわないベク変が完璧",
+      "rule": "Whisper mishearing: 変更→ベク変 (ベクトル変更)"
+    },
+    {
+      "segment_idx": 1,
+      "original": "やはり対応経由してしまうとリターンが伸びてしまう",
+      "corrected": "やはり台上経由してしまうとリターンが伸びてしまう",
+      "rule": "Whisper kanji homophone: 対応→台上"
+    },
+    {
+      "segment_idx": 4,
+      "original": "内選手ここは大きなリード",
+      "corrected": "うっちー選手ここは大きなリード",
+      "rule": "Player name correction: 内→うっちー (metadata)"
+    }
+  ]
+}

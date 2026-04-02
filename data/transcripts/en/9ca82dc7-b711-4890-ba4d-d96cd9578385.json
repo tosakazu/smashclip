@@ -1,0 +1,27 @@
+{
+  "id": "9ca82dc7-b711-4890-ba4d-d96cd9578385",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.1,
+      "text": "right now watch him go all the way down trying to get yet another spike WaKa",
+      "language": "en"
+    },
+    {
+      "start": 4.1,
+      "end": 6.58,
+      "text": "is really good at that that was so hard",
+      "language": "en"
+    }
+  ],
+  "full_text": "right now watch him go all the way down trying to get yet another spike WaKa is really good at that that was so hard",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "waka",
+      "corrected": "WaKa",
+      "rule": "player name"
+    }
+  ]
+}

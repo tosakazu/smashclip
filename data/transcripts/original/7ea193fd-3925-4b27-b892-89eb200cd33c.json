@@ -1,0 +1,63 @@
+{
+  "id": "7ea193fd-3925-4b27-b892-89eb200cd33c",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "なるほど",
+      "language": "ja"
+    },
+    {
+      "start": 2.0,
+      "end": 3.0,
+      "text": "対戦数は1-1",
+      "language": "ja"
+    },
+    {
+      "start": 3.0,
+      "end": 4.0,
+      "text": "109%",
+      "language": "ja"
+    },
+    {
+      "start": 4.0,
+      "end": 5.0,
+      "text": "いやー",
+      "language": "ja"
+    },
+    {
+      "start": 5.0,
+      "end": 6.0,
+      "text": "こう",
+      "language": "ja"
+    },
+    {
+      "start": 6.0,
+      "end": 7.0,
+      "text": "うえぇー",
+      "language": "ja"
+    },
+    {
+      "start": 7.0,
+      "end": 9.0,
+      "text": "抜けちー",
+      "language": "ja"
+    }
+  ],
+  "full_text": "なるほど 対戦数は1-1 109% いやー こう うえぇー 抜けちー",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "打速は1-1",
+      "corrected": "対戦数は1-1",
+      "rule": "misheard: 打速→対戦数"
+    },
+    {
+      "segment_idx": 6,
+      "original": "負けちー",
+      "corrected": "抜けちー",
+      "rule": "misheard: 負けちー→抜けちー (escaped/broke free)"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "e957a4f8-cd16-48f1-bdf8-fcbf1c8c4d66",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.3,
+      "text": "And we've got a Grand Finals bracket reset!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そんなグランドファイナルリセットになっていますが"
+    },
+    {
+      "start": 2.3,
+      "end": 5.18,
+      "text": "Mild's momentum is absolutely incredible!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "マイルドなH.Oの勢いが凄まじい"
+    },
+    {
+      "start": 5.18,
+      "end": 8.74,
+      "text": "Wow, that's insane!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いやーすごい"
+    },
+    {
+      "start": 8.74,
+      "end": 10.06,
+      "text": "All in!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "全部乗せた"
+    }
+  ],
+  "full_text": "And we've got a Grand Finals bracket reset! Mild's momentum is absolutely incredible! Wow, that's insane! All in!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "ワイルドなH.O",
+      "corrected": "マイルドなH.O",
+      "rule": "player name: ワイルド→マイルド"
+    },
+    {
+      "segment_idx": 1,
+      "original": "凄ましい",
+      "corrected": "凄まじい",
+      "rule": "typo"
+    }
+  ]
+}

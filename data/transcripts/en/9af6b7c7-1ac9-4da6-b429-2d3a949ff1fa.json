@@ -1,0 +1,96 @@
+{
+  "id": "9af6b7c7-1ac9-4da6-b429-2d3a949ff1fa",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.8,
+      "text": "Yeah, there's definitely only one. I've got some idea what it could be, but let's see what happens!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "まあまあ確かに1個しかないよね 何となくね予想はつきますけれどもさあ見ていきましょうか"
+    },
+    {
+      "start": 4.8,
+      "end": 7.6,
+      "text": "Let's check the answer. Okay!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "答え合わせをね はい"
+    },
+    {
+      "start": 7.6,
+      "end": 10.1,
+      "text": "Right off the bat—oh, doesn't escape!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "開幕 おおカブを抜かない うん"
+    },
+    {
+      "start": 10.1,
+      "end": 15.2,
+      "text": "Wow! True combo off the down tilt—52 percent in one go!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "わあ下強から確定コンボ 52%一気に稼いで"
+    },
+    {
+      "start": 15.2,
+      "end": 20.5,
+      "text": "I found this out recently from watching Umeki's matches a lot—it's down tilt to nair to nair...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これ最近ウメキ選手のね試合をかなり喋ることが多いから知ったんすけど下強空N空Nなんすけど"
+    },
+    {
+      "start": 20.5,
+      "end": 25.5,
+      "text": "From the third nair onward the animation changes, creating a standoff situation after that.",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "3回目の空N以降がクライフットビーになるんで その先お見合いになるんすよね"
+    },
+    {
+      "start": 25.5,
+      "end": 28.9,
+      "text": "Up to the second nair it's the standard version—nice combo!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "2回目まではタッチフットビーなんだよこれは うまい"
+    }
+  ],
+  "full_text": "Yeah, there's definitely only one. I've got some idea what it could be, but let's see what happens! Let's check the answer. Okay! Right off the bat—oh, doesn't escape! Wow! True combo off the down tilt—52 percent in one go! I found this out recently from watching Umeki's matches a lot—it's down tilt to nair to nair... From the third nair onward the animation changes, creating a standoff situation after that. Up to the second nair it's the standard version—nice combo!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "株を抜かない",
+      "corrected": "カブを抜かない",
+      "rule": "kanji homophone (Daisy turnip pull)"
+    },
+    {
+      "segment_idx": 3,
+      "original": "下京",
+      "corrected": "下強",
+      "rule": "kanji homophone (下強攻撃)"
+    },
+    {
+      "segment_idx": 4,
+      "original": "梅木",
+      "corrected": "ウメキ",
+      "rule": "player name kanji"
+    },
+    {
+      "segment_idx": 4,
+      "original": "下京クーエヌクーエヌ",
+      "corrected": "下強空N空N",
+      "rule": "move name"
+    },
+    {
+      "segment_idx": 5,
+      "original": "クーエヌ",
+      "corrected": "空N",
+      "rule": "move abbreviation"
+    }
+  ]
+}

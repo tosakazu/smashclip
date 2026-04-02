@@ -1,0 +1,57 @@
+{
+  "id": "56870313-8dc5-4200-9487-ab514bcbee7e",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.86,
+      "text": "First stock, the match is rolling",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "この1ストック目は試合が進んでいます"
+    },
+    {
+      "start": 1.86,
+      "end": 3.64,
+      "text": "Connecting into up B here",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "上Bまで繋いでいきますねこれ"
+    },
+    {
+      "start": 3.64,
+      "end": 5.1,
+      "text": "What's the play?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあどうする?"
+    },
+    {
+      "start": 5.2,
+      "end": 6.32,
+      "text": "Up B to stop it",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "上Bで止めて"
+    },
+    {
+      "start": 6.32,
+      "end": 8.7,
+      "text": "Jump lands!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ジャンプは乗っかーっと"
+    },
+    {
+      "start": 8.7,
+      "end": 10.42,
+      "text": "Now the fair",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "今度は空中前です"
+    }
+  ],
+  "full_text": "First stock, the match is rolling Connecting into up B here What's the play? Up B to stop it Jump lands! Now the fair",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

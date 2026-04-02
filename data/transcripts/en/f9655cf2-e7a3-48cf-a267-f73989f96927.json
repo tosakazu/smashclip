@@ -1,0 +1,40 @@
+{
+  "id": "f9655cf2-e7a3-48cf-a267-f73989f96927",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.12,
+      "text": "That's it!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いいぞ"
+    },
+    {
+      "start": 1.12,
+      "end": 2.72,
+      "text": "Forcing it",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "強引に"
+    },
+    {
+      "start": 2.72,
+      "end": 3.78,
+      "text": "Here we go!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いきまーす"
+    }
+  ],
+  "full_text": "That's it! Forcing it here we go!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "いいえ",
+      "corrected": "いいぞ",
+      "rule": "misheard"
+    }
+  ]
+}

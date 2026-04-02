@@ -1,0 +1,38 @@
+{
+  "id": "886454c1-3b9e-45e9-9f42-e4df2f9cd796",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.96,
+      "text": "うーんそう",
+      "language": "ja"
+    },
+    {
+      "start": 0.96,
+      "end": 4.1,
+      "text": "間がないんだよね",
+      "language": "ja"
+    },
+    {
+      "start": 4.1,
+      "end": 7.68,
+      "text": "どこまで確認してんだろうって感じなんだけど",
+      "language": "ja"
+    },
+    {
+      "start": 7.68,
+      "end": 13.74,
+      "text": "え?え?え?飛ぶの?",
+      "language": "ja"
+    },
+    {
+      "start": 13.88,
+      "end": 14.6,
+      "text": "えーーー",
+      "language": "ja"
+    }
+  ],
+  "full_text": "うーんそう 間がないんだよね どこまで確認してんだろうって感じなんだけど え?え?え?飛ぶの? えーーー",
+  "detected_language": "ja",
+  "corrections": []
+}

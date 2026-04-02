@@ -1,0 +1,25 @@
+{
+  "id": "c7484242-6128-4725-8246-68a9be8f9e65",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 8.28,
+      "text": "With the bracket tables each being managed at different progress stages, it's quite a challenging stage to reach the diamonds, you know?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "テーブルがあってその採掘テーブルがそれぞれ別の進捗状況で管理されているので なかなかねダイヤまでたどり着けないステージでもあるんですよね"
+    },
+    {
+      "start": 8.28,
+      "end": 10.32,
+      "text": "Come on, go up!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあ上"
+    }
+  ],
+  "full_text": "With the bracket tables each being managed at different progress stages, it's quite a challenging stage to reach the diamonds, you know? Come on, go up!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

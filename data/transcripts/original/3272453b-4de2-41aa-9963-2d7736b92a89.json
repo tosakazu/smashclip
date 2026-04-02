@@ -1,0 +1,69 @@
+{
+  "id": "3272453b-4de2-41aa-9963-2d7736b92a89",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.48,
+      "text": "怖い不利フレームではあったが",
+      "language": "ja"
+    },
+    {
+      "start": 1.48,
+      "end": 4.54,
+      "text": "投げが早いとは言えないリュカなので",
+      "language": "ja"
+    },
+    {
+      "start": 4.54,
+      "end": 5.8,
+      "text": "少し取るのは難しいですね",
+      "language": "ja"
+    },
+    {
+      "start": 5.8,
+      "end": 6.44,
+      "text": "ジャストシールド",
+      "language": "ja"
+    },
+    {
+      "start": 6.44,
+      "end": 8.04,
+      "text": "ラストキル",
+      "language": "ja"
+    },
+    {
+      "start": 8.04,
+      "end": 9.24,
+      "text": "上投げで撃墜",
+      "language": "ja"
+    }
+  ],
+  "full_text": "怖い不利フレームではあったが 投げが早いとは言えないリュカなので 少し取るのは難しいですね ジャストシールド ラストキル 上投げで撃墜",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "怖いフリなフレーム",
+      "corrected": "怖い不利フレーム",
+      "rule": "kanji homophone: フリな→不利"
+    },
+    {
+      "segment_idx": 1,
+      "original": "リュウカ",
+      "corrected": "リュカ",
+      "rule": "character name: Lucas=リュカ"
+    },
+    {
+      "segment_idx": 3,
+      "original": "じゃあサシルト",
+      "corrected": "ジャストシールド",
+      "rule": "misheard: ジャストシールド"
+    },
+    {
+      "segment_idx": 4,
+      "original": "ラスギー",
+      "corrected": "ラストキル",
+      "rule": "misheard: ラストキル"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "cf5cbbc3-f155-4253-a0a7-85a76a808448",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.56,
+      "text": "見ているが上を掠すあたり",
+      "language": "ja"
+    },
+    {
+      "start": 2.56,
+      "end": 5.2,
+      "text": "あと少しが遠すぎるが",
+      "language": "ja"
+    }
+  ],
+  "full_text": "見ているが上を掠すあたり あと少しが遠すぎるが",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "植木を貸すあたり",
+      "corrected": "上を掠すあたり",
+      "rule": "mishearing (上を掠す=graze from above)"
+    }
+  ]
+}

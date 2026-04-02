@@ -1,0 +1,39 @@
+{
+  "id": "b7469601-82f7-4e21-93ec-49ca371da60b",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.5,
+      "text": "火力とパーセントが積み重なるか",
+      "language": "ja"
+    },
+    {
+      "start": 1.5,
+      "end": 3.28,
+      "text": "横スマッシュに対しては横ビーで取っていく",
+      "language": "ja"
+    },
+    {
+      "start": 3.28,
+      "end": 6.84,
+      "text": "さあ起走のパーセントが高い技",
+      "language": "ja"
+    },
+    {
+      "start": 6.84,
+      "end": 10.1,
+      "text": "うーん重くのしか",
+      "language": "ja"
+    }
+  ],
+  "full_text": "火力とパーセントが積み重なるか 横スマッシュに対しては横ビーで取っていく さあ起走のパーセントが高い技 うーん重くのしか",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "力と",
+      "corrected": "火力と",
+      "rule": "kanji homophone"
+    }
+  ]
+}

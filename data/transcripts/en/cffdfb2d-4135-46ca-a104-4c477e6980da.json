@@ -1,0 +1,73 @@
+{
+  "id": "cffdfb2d-4135-46ca-a104-4c477e6980da",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.02,
+      "text": "As expected, it's looking rough like it usually does",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "やっぱり悪く漫画は通常はみたいな感じなんで"
+    },
+    {
+      "start": 4.02,
+      "end": 7.82,
+      "text": "After all, there's that full commitment balance at play here",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "やっぱりフルターゲットとそういう部分が兼ね合いがありますからね"
+    },
+    {
+      "start": 7.82,
+      "end": 10.24,
+      "text": "Alright, holding position now",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあベルを持っている状況"
+    },
+    {
+      "start": 10.24,
+      "end": 12.78,
+      "text": "Ledge drop and recovering",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここでベル落としと消火栓"
+    },
+    {
+      "start": 12.78,
+      "end": 14.54,
+      "text": "Getting out calmly",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "落ち着いて外に出る"
+    },
+    {
+      "start": 14.54,
+      "end": 17.96,
+      "text": "The Sonic player is over 100 percent damage right here",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "100%を超えているところをソニックス選手ですが"
+    },
+    {
+      "start": 17.96,
+      "end": 19.2,
+      "text": "Coming in close",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "近づいてくるところ"
+    },
+    {
+      "start": 19.2,
+      "end": 21.42,
+      "text": "Down throw into down smash!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "下投げの下スマッシュ"
+    }
+  ],
+  "full_text": "As expected, it's looking rough like it usually does After all, there's that full commitment balance at play here Alright, holding position now Ledge drop and recovering Getting out calmly The Sonic player is over 100 percent damage right here Coming in close Down throw into down smash!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "88dd0e8b-7389-48e8-83b2-02cbbef0d425",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.6,
+      "text": "していきますなんとか耐えて カウンター",
+      "language": "ja"
+    },
+    {
+      "start": 4.6,
+      "end": 9.08,
+      "text": "無理矢理ステージの上に戻ってきますが上投げ これは",
+      "language": "ja"
+    }
+  ],
+  "full_text": "していきますなんとか耐えて カウンター 無理矢理ステージの上に戻ってきますが上投げ これは",
+  "detected_language": "ja",
+  "corrections": []
+}

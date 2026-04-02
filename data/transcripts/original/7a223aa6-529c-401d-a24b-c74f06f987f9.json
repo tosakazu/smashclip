@@ -1,0 +1,81 @@
+{
+  "id": "7a223aa6-529c-401d-a24b-c74f06f987f9",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.88,
+      "text": "バッチリ",
+      "language": "ja"
+    },
+    {
+      "start": 0.88,
+      "end": 4.14,
+      "text": "しっかりと空中後ろのクリティカルを当てて",
+      "language": "ja"
+    },
+    {
+      "start": 4.14,
+      "end": 4.96,
+      "text": "撃墜を取り切った",
+      "language": "ja"
+    },
+    {
+      "start": 4.96,
+      "end": 6.42,
+      "text": "これはどうなってんか",
+      "language": "ja"
+    },
+    {
+      "start": 6.42,
+      "end": 11.88,
+      "text": "外側にずらすことによって",
+      "language": "ja"
+    },
+    {
+      "start": 11.88,
+      "end": 14.48,
+      "text": "ストックを失う事態だけは避けられましたが",
+      "language": "ja"
+    },
+    {
+      "start": 14.48,
+      "end": 15.3,
+      "text": "65%から",
+      "language": "ja"
+    },
+    {
+      "start": 15.3,
+      "end": 15.72,
+      "text": "内ベク変で",
+      "language": "ja"
+    },
+    {
+      "start": 15.72,
+      "end": 18.52,
+      "text": "内ベク変でしっかり見てる",
+      "language": "ja"
+    },
+    {
+      "start": 18.52,
+      "end": 19.48,
+      "text": "なんてことだ",
+      "language": "ja"
+    }
+  ],
+  "full_text": "バッチリ しっかりと空中後ろのクリティカルを当てて 撃墜を取り切った これはどうなってんか 外側にずらすことによって ストックを失う事態だけは避けられましたが 65%から 内ベク変で 内ベク変でしっかり見てる なんてことだ",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 7,
+      "original": "内部で",
+      "corrected": "内ベク変で",
+      "rule": "ベク変 (DI) misheard"
+    },
+    {
+      "segment_idx": 8,
+      "original": "内部でしっかり見てる",
+      "corrected": "内ベク変でしっかり見てる",
+      "rule": "ベク変 (DI) misheard"
+    }
+  ]
+}

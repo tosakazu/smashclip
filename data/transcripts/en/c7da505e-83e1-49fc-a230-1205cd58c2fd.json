@@ -1,0 +1,40 @@
+{
+  "id": "c7da505e-83e1-49fc-a230-1205cd58c2fd",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.72,
+      "text": "If they commit to it, they're taking the stock clean about 1 in 5 times—which you could also read as them showing confidence in that outcome, but...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "出せば5分の1くらいでそのままストックを取る自信があるとも取れるはずですが"
+    },
+    {
+      "start": 3.72,
+      "end": 6.22,
+      "text": "Just how much confidence do they really have in themselves?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "どんだけ自分に自信を持っているのかって"
+    },
+    {
+      "start": 6.22,
+      "end": 10.34,
+      "text": "Can't they reach that level in that area?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "それを辿り着けないのかその分野で"
+    }
+  ],
+  "full_text": "If they commit to it, they're taking the stock clean about 1 in 5 times—which you could also read as them showing confidence in that outcome, but... Just how much confidence do they really have in themselves? Can't they reach that level in that area?",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "ストップを取る",
+      "corrected": "ストックを取る",
+      "rule": "smash term (stock)"
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "id": "51377f66-80d9-4eeb-8113-e3b53e456d9b",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.32,
+      "text": "He's getting KO'd—wait, that was a HUGE KO!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "撃墜している いやこれ撃墜したのデカいです"
+    },
+    {
+      "start": 2.32,
+      "end": 4.76,
+      "text": "Not going max speed, adding that slight delay was perfect",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "最速じゃなくて若干ディレイかけたのが良かった"
+    },
+    {
+      "start": 4.76,
+      "end": 5.86,
+      "text": "Mixed in the up tilt from the down tilt",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "下強から上強を混ぜた"
+    },
+    {
+      "start": 5.86,
+      "end": 7.22,
+      "text": "Got trapped!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "挟んで"
+    },
+    {
+      "start": 7.22,
+      "end": 10.18,
+      "text": "Nice landing but still floating",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "着地が上手いがまだ浮いている"
+    },
+    {
+      "start": 10.18,
+      "end": 11.56,
+      "text": "Airdodge landing!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "回避着地"
+    },
+    {
+      "start": 11.56,
+      "end": 14.02,
+      "text": "Whiff punished with the forward smash!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "横スマッシュ差し返し"
+    },
+    {
+      "start": 14.02,
+      "end": 14.64,
+      "text": "Wow!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "うわー"
+    },
+    {
+      "start": 14.64,
+      "end": 16.88,
+      "text": "An incredible exchange of plays!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "スーパープレイの応酬"
+    },
+    {
+      "start": 16.88,
+      "end": 18.3,
+      "text": "He had that set up!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そこで用意してたんだ"
+    }
+  ],
+  "full_text": "He's getting KO'd—wait, that was a HUGE KO! Not going max speed, adding that slight delay was perfect Mixed in the up tilt from the down tilt Got trapped! Nice landing but still floating Airdodge landing! Whiff punished with the forward smash! Wow! An incredible exchange of plays! He had that set up!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "下行から上行",
+      "corrected": "下強から上強",
+      "rule": "kanji homophone: 行→強"
+    },
+    {
+      "segment_idx": 6,
+      "original": "4本スマッシュ",
+      "corrected": "横スマッシュ",
+      "rule": "misheard: 4本→横"
+    },
+    {
+      "segment_idx": 8,
+      "original": "欧州",
+      "corrected": "応酬",
+      "rule": "kanji homophone: 欧州→応酬"
+    }
+  ]
+}

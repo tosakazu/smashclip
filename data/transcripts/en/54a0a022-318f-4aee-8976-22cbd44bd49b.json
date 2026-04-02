@@ -1,0 +1,70 @@
+{
+  "id": "54a0a022-318f-4aee-8976-22cbd44bd49b",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.78,
+      "text": "Whew!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "フゥー"
+    },
+    {
+      "start": 1.78,
+      "end": 3.12,
+      "text": "1 stock to 3!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ストック1対3"
+    },
+    {
+      "start": 3.12,
+      "end": 7.12,
+      "text": "A huge lead!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "大きなリード"
+    },
+    {
+      "start": 7.12,
+      "end": 8.4,
+      "text": "[らる] got it!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "奪ったのはらる"
+    },
+    {
+      "start": 8.4,
+      "end": 10.14,
+      "text": "But if he can come back...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "しかし駆け抜けば"
+    },
+    {
+      "start": 10.14,
+      "end": 10.56,
+      "text": "for the lead!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "リード"
+    }
+  ],
+  "full_text": "Whew! 1 stock to 3! A huge lead! [らる] got it! But if he can come back... for the lead!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "ストック13",
+      "corrected": "ストック1対3",
+      "rule": "number formatting"
+    },
+    {
+      "segment_idx": 3,
+      "original": "奪ったのはラル",
+      "corrected": "奪ったのはらる",
+      "rule": "player name"
+    }
+  ]
+}

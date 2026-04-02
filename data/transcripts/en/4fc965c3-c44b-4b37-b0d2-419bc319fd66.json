@@ -1,0 +1,90 @@
+{
+  "id": "4fc965c3-c44b-4b37-b0d2-419bc319fd66",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.98,
+      "text": "Coming in from below",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "あれば下側から入ってくる"
+    },
+    {
+      "start": 1.98,
+      "end": 2.62,
+      "text": "Up B from below",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "下から上B"
+    },
+    {
+      "start": 2.62,
+      "end": 4.9,
+      "text": "Opposite DI!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ベク変逆にこうそうしたか"
+    },
+    {
+      "start": 4.9,
+      "end": 9.12,
+      "text": "Forward tilt chains!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "横強攻撃続け"
+    },
+    {
+      "start": 9.12,
+      "end": 11.04,
+      "text": "Looking for the forward dodge here",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "前回避を見るようなところですが"
+    },
+    {
+      "start": 11.04,
+      "end": 11.88,
+      "text": "Rising nair!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "上り空Nバレ"
+    },
+    {
+      "start": 11.88,
+      "end": 14.34,
+      "text": "Just forward tilt!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "横強攻撃そのまま"
+    }
+  ],
+  "full_text": "Coming in from below Up B from below Opposite DI! Forward tilt chains! Looking for the forward dodge here Rising nair! Just forward tilt!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "下上上B",
+      "corrected": "下から上B",
+      "rule": "misheard word"
+    },
+    {
+      "segment_idx": 2,
+      "original": "打ち変更",
+      "corrected": "ベク変",
+      "rule": "kanji homophone: 打ち変更→ベク変"
+    },
+    {
+      "segment_idx": 4,
+      "original": "前回比",
+      "corrected": "前回避",
+      "rule": "kanji homophone: 比→避"
+    },
+    {
+      "segment_idx": 5,
+      "original": "クエナバレ",
+      "corrected": "空Nバレ",
+      "rule": "move abbreviation: クエナ→空N"
+    }
+  ]
+}

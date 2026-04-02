@@ -1,0 +1,27 @@
+{
+  "id": "8cac4093-c1d8-4c97-9ac4-345227f67c92",
+  "segments": [
+    {
+      "start": 0.56,
+      "end": 2.92,
+      "text": "What's he landing? Wants to jump back in!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "何を通す?ジャンプで戻ってきたい"
+    },
+    {
+      "start": 2.92,
+      "end": 9.96,
+      "text": "Bair off the parry into the dodge!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空後をジャストシールドから回避に対して"
+    }
+  ],
+  "full_text": "What's he landing? Wants to jump back in! Bair off the parry into the dodge!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    "空中シロ→空後 (back air, 空中後ろ abbreviated)"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "643a4adf-a3d0-49f3-80ce-e88f069f3f2c",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.46,
+      "text": "players really want this no one wants to go to losers bracket man losers bracket right now it",
+      "language": "en"
+    },
+    {
+      "start": 4.46,
+      "end": 9.78,
+      "text": "is shark infested you don't want to be there Sisqui with the nair bro with the nair losers",
+      "language": "en"
+    }
+  ],
+  "full_text": "players really want this no one wants to go to losers bracket man losers bracket right now it is shark infested you don't want to be there Sisqui with the nair bro with the nair losers",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "siski",
+      "corrected": "Sisqui",
+      "rule": "player name"
+    }
+  ]
+}

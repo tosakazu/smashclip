@@ -1,0 +1,33 @@
+{
+  "id": "40041a59-9847-4079-ae55-ddc5830ecd85",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.56,
+      "text": "trying to get out here a couple of openings i've seen from me that mark hasn't capitalized off but",
+      "language": "en"
+    },
+    {
+      "start": 4.56,
+      "end": 10.22,
+      "text": "doesn't miss the mark on that one no pun intended right there fair let's go how are we looking at",
+      "language": "en"
+    },
+    {
+      "start": 10.22,
+      "end": 14.8,
+      "text": "this how do you close this off can Miya take the lead for once there we go",
+      "language": "en"
+    }
+  ],
+  "full_text": "trying to get out here a couple of openings i've seen from me that mark hasn't capitalized off but doesn't miss the mark on that one no pun intended right there fair let's go how are we looking at this how do you close this off can Miya take the lead for once there we go",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "can media take",
+      "corrected": "can Miya take",
+      "rule": "player name: Miya"
+    }
+  ]
+}

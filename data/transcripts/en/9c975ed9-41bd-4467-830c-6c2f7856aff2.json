@@ -1,0 +1,33 @@
+{
+  "id": "9c975ed9-41bd-4467-830c-6c2f7856aff2",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 7.14,
+      "text": "Made the recovery!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "スタビが間に合いました"
+    },
+    {
+      "start": 7.14,
+      "end": 9.18,
+      "text": "Cuts off the cyclone mash with perfect timing!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "サイクロン暴れをここぞで切っていく"
+    },
+    {
+      "start": 9.18,
+      "end": 10.92,
+      "text": "Insane!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "うますげー"
+    }
+  ],
+  "full_text": "Made the recovery! Cuts off the cyclone mash with perfect timing! Insane!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

@@ -1,0 +1,38 @@
+{
+  "id": "fc1319d4-3872-4293-b360-da4b12ee6248",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.84,
+      "text": "Towy's Byleth takes that exchange!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "とりぃベレトは1ターン"
+    },
+    {
+      "start": 0.84,
+      "end": 8.12,
+      "text": "Towy Byleth has the lead in this scenario!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "リードはとりぃベレトという場面で"
+    }
+  ],
+  "full_text": "Towy's Byleth takes that exchange! Towy Byleth has the lead in this scenario!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "トリーベルト",
+      "corrected": "とりぃベレト",
+      "rule": "player name + character: とりぃ(Byleth=ベレト)"
+    },
+    {
+      "segment_idx": 1,
+      "original": "トリーベルト",
+      "corrected": "とりぃベレト",
+      "rule": "player name + character"
+    }
+  ]
+}

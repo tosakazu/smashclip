@@ -1,0 +1,33 @@
+{
+  "id": "3c71d9d7-b495-44ee-9bf7-c034779a71ce",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 8.48,
+      "text": "ここで一気に走っていって掴んだのマイルドは",
+      "language": "ja"
+    },
+    {
+      "start": 8.48,
+      "end": 10.64,
+      "text": "そうして崖に対しては横強して",
+      "language": "ja"
+    }
+  ],
+  "full_text": "ここで一気に走っていって掴んだのマイルドは そうして崖に対しては横強して",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "マイホガは",
+      "corrected": "マイルドは",
+      "rule": "player name: マイルドなH.O"
+    },
+    {
+      "segment_idx": 1,
+      "original": "ウェビーに対しては",
+      "corrected": "崖に対しては",
+      "rule": "misheard: ウェビー→崖"
+    }
+  ]
+}

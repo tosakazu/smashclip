@@ -1,0 +1,51 @@
+{
+  "id": "bf2b76a3-9062-49ad-8b55-1b153a189604",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.72,
+      "text": "Stock done! And just a simple back air, just enough, just in time to get it.",
+      "language": "en"
+    },
+    {
+      "start": 4.72,
+      "end": 5.48,
+      "text": "Oh my gosh!",
+      "language": "en"
+    },
+    {
+      "start": 5.5,
+      "end": 6.52,
+      "text": "Oh my god, that's the killer combo.",
+      "language": "en"
+    },
+    {
+      "start": 6.88,
+      "end": 9.92,
+      "text": "We are really low on materials again, so Leo is on the hunt.",
+      "language": "en"
+    },
+    {
+      "start": 10.14,
+      "end": 12.04,
+      "text": "He wants his stock, oh this could be dangerous.",
+      "language": "en"
+    },
+    {
+      "start": 12.5,
+      "end": 13.28,
+      "text": "There we go!",
+      "language": "en"
+    }
+  ],
+  "full_text": "Stock done! And just a simple back air, just enough, just in time to get it. Oh my gosh! Oh my god, that's the killer combo. We are really low on materials again, so Leo is on the hunt. He wants his stock, oh this could be dangerous. There we go!",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "Stuck, done!",
+      "corrected": "Stock done!",
+      "rule": "misheard word"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "911bbb6c-f63d-46f8-8d7b-3eece1c34b09",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.5,
+      "text": "Rosalina extending with the nair!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "伸ばしていくロゼッタ空N当てて"
+    },
+    {
+      "start": 2.5,
+      "end": 5.34,
+      "text": "Oh wait, the up air with Luma mixed in makes it multihit!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "おっと空上がチコも混じって多段ですね"
+    },
+    {
+      "start": 5.34,
+      "end": 6.8,
+      "text": "And then forward smash!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そして横スマッシュ"
+    },
+    {
+      "start": 6.8,
+      "end": 7.46,
+      "text": "Opening smash!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "初マッシュ"
+    }
+  ],
+  "full_text": "Rosalina extending with the nair! Oh wait, the up air with Luma mixed in makes it multihit! And then forward smash! Opening smash!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "アメロゼッタ空中ニュートラル",
+      "corrected": "ロゼッタ空N",
+      "rule": "move abbreviation"
+    },
+    {
+      "segment_idx": 1,
+      "original": "空中上",
+      "corrected": "空上",
+      "rule": "move abbreviation"
+    }
+  ]
+}

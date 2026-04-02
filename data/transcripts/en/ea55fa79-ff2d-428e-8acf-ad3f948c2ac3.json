@@ -1,0 +1,82 @@
+{
+  "id": "ea55fa79-ff2d-428e-8acf-ad3f948c2ac3",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.14,
+      "text": "Both players closing in, Daifuku getting his turn",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "資材を集める しかしたまPだいふく選手側も"
+    },
+    {
+      "start": 2.14,
+      "end": 3.82,
+      "text": "It's not just about spacing",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "単に距離を取るのではなくて"
+    },
+    {
+      "start": 3.82,
+      "end": 5.14,
+      "text": "Oh! Caught that!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "おーっとここで引っかけた"
+    },
+    {
+      "start": 5.14,
+      "end": 7.56,
+      "text": "Extends the hitbox there",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "あそこで判定を出して"
+    },
+    {
+      "start": 7.56,
+      "end": 8.8,
+      "text": "Fully commits to it",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "あえて出してね"
+    },
+    {
+      "start": 8.8,
+      "end": 10.98,
+      "text": "And there's the back air for the KO!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "なんとここは空後で撃墜"
+    }
+  ],
+  "full_text": "Both players closing in, Daifuku getting his turn It's not just about spacing Oh! Caught that! Extends the hitbox there Fully commits to it And there's the back air for the KO!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "玉見大福",
+      "corrected": "たまPだいふく",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 1,
+      "original": "常々に",
+      "corrected": "単に",
+      "rule": "misheard"
+    },
+    {
+      "segment_idx": 2,
+      "original": "きっかけた",
+      "corrected": "引っかけた",
+      "rule": "misheard"
+    },
+    {
+      "segment_idx": 5,
+      "original": "空中白",
+      "corrected": "空後",
+      "rule": "misheard: 空中白→空後"
+    }
+  ]
+}

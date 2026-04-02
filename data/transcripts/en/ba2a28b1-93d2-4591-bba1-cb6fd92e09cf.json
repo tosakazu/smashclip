@@ -1,0 +1,65 @@
+{
+  "id": "ba2a28b1-93d2-4591-bba1-cb6fd92e09cf",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "text": "Too clean!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "上手すぎる"
+    },
+    {
+      "start": 1.0,
+      "end": 3.74,
+      "text": "Wow!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いやー"
+    },
+    {
+      "start": 3.74,
+      "end": 4.64,
+      "text": "Playing around!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "踊っている"
+    },
+    {
+      "start": 4.64,
+      "end": 6.24,
+      "text": "Go, go, go!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "踊れ踊れ"
+    },
+    {
+      "start": 6.24,
+      "end": 7.9,
+      "text": "Got him!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "嘘に踊れ"
+    },
+    {
+      "start": 7.9,
+      "end": 10.74,
+      "text": "In trouble!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "苦しいか"
+    },
+    {
+      "start": 10.74,
+      "end": 11.38,
+      "text": "Yeah!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いやー"
+    }
+  ],
+  "full_text": "Too clean! Wow! Playing around! Go, go, go! Got him! In trouble! Yeah!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

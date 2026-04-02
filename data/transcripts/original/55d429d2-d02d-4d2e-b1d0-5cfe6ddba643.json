@@ -1,0 +1,75 @@
+{
+  "id": "55d429d2-d02d-4d2e-b1d0-5cfe6ddba643",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.16,
+      "text": "内に妥協した形か",
+      "language": "ja"
+    },
+    {
+      "start": 1.16,
+      "end": 3.24,
+      "text": "テリーの崖狩り強いんですよね",
+      "language": "ja"
+    },
+    {
+      "start": 3.24,
+      "end": 5.9,
+      "text": "クエの置きがあまりにも強すぎるせいで",
+      "language": "ja"
+    },
+    {
+      "start": 5.9,
+      "end": 7.58,
+      "text": "どうしても崖に行くと",
+      "language": "ja"
+    },
+    {
+      "start": 7.58,
+      "end": 9.82,
+      "text": "ソニックがもうもうもう",
+      "language": "ja"
+    },
+    {
+      "start": 9.82,
+      "end": 11.34,
+      "text": "まずいかー弱弱",
+      "language": "ja"
+    },
+    {
+      "start": 11.34,
+      "end": 12.2,
+      "text": "撃墜",
+      "language": "ja"
+    },
+    {
+      "start": 12.2,
+      "end": 14.0,
+      "text": "バーストで撃墜",
+      "language": "ja"
+    }
+  ],
+  "full_text": "内に妥協した形か テリーの崖狩り強いんですよね クエの置きがあまりにも強すぎるせいで どうしても崖に行くと ソニックがもうもうもう まずいかー弱弱 撃墜 バックで撃墜",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 5,
+      "original": "まずいかージャクジャク",
+      "corrected": "まずいかー弱弱",
+      "rule": "misheard word (ジャク→弱)"
+    },
+    {
+      "segment_idx": 6,
+      "original": "ゲックス",
+      "corrected": "撃墜",
+      "rule": "kanji homophone (ゲックス→撃墜)"
+    },
+    {
+      "segment_idx": 7,
+      "original": "バックでゲックス",
+      "corrected": "バーストで撃墜",
+      "rule": "kanji homophone"
+    }
+  ]
+}

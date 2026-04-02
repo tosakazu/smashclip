@@ -1,0 +1,192 @@
+{
+  "id": "c1c42e88-11a9-48e4-aa0a-4fc46bbb1863",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.94,
+      "text": "He sees it and doesn't commit; backing off with a jump",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "見たら動かん、ジャンプで身を引いていく"
+    },
+    {
+      "start": 2.94,
+      "end": 4.58,
+      "text": "Not respecting the forward tilt pressure",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "横強を固めにはつき合わず"
+    },
+    {
+      "start": 4.58,
+      "end": 6.96,
+      "text": "Ledge trap off up air!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空中上から崖狩り展開"
+    },
+    {
+      "start": 6.96,
+      "end": 9.12,
+      "text": "Classic out of shield approach",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "なりふりはもちろんシールドから"
+    },
+    {
+      "start": 9.12,
+      "end": 10.34,
+      "text": "Nair into the rapid hits",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空中Nとラビッツ"
+    },
+    {
+      "start": 10.34,
+      "end": 11.74,
+      "text": "Building damage with the big moves",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "エイハでダメージ飛ばして"
+    },
+    {
+      "start": 11.74,
+      "end": 13.74,
+      "text": "Shuts down the approach, back to edgeguarding",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ガンで止めてからまたも崖"
+    },
+    {
+      "start": 13.74,
+      "end": 16.9,
+      "text": "Denying the ledge drop airdodge getup",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "崖離しジャンプ回避許さず"
+    },
+    {
+      "start": 16.9,
+      "end": 18.52,
+      "text": "The recovery phase unfolds",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "以前復帰として展開"
+    },
+    {
+      "start": 18.52,
+      "end": 20.52,
+      "text": "By applying this constant pressure",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "プレッシャーをかけることによって"
+    },
+    {
+      "start": 20.52,
+      "end": 21.62,
+      "text": "Chipping away at the meter, but",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "MPを削っていくが"
+    },
+    {
+      "start": 21.62,
+      "end": 24.3,
+      "text": "Rolling in close, up tilt connects!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここで内側を転がり上強が通る"
+    },
+    {
+      "start": 24.3,
+      "end": 27.78,
+      "text": "Teleporting back out, but",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ルーラで戻っていくものの"
+    },
+    {
+      "start": 27.78,
+      "end": 29.48,
+      "text": "The meter is already running low",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "MPはすでに枯渇気味"
+    },
+    {
+      "start": 29.48,
+      "end": 31.48,
+      "text": "And the pressure just keeps mounting",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "苦しい状況が続け"
+    },
+    {
+      "start": 31.48,
+      "end": 33.52,
+      "text": "They're reading that teleport so well",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "しっかりとルーラを見越しているんでしょう"
+    },
+    {
+      "start": 33.52,
+      "end": 34.86,
+      "text": "Setting up the grab at the landing",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "着地点につかみを置いて"
+    },
+    {
+      "start": 34.86,
+      "end": 36.74,
+      "text": "Fair, down, up air",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空前一段、ダウン空上"
+    },
+    {
+      "start": 36.74,
+      "end": 38.38,
+      "text": "Cleans up the combo!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ミスらないコンボ完走"
+    }
+  ],
+  "full_text": "He sees it and doesn't commit; backing off with a jump. Not respecting the forward tilt pressure. Ledge trap off up air! Classic out of shield approach. Nair into the rapid hits. Building damage with the big moves. Shuts down the approach, back to edgeguarding. Denying the ledge drop airdodge getup. The recovery phase unfolds. By applying this constant pressure. Chipping away at the meter, but. Rolling in close, up tilt connects! Teleporting back out, but. The meter is already running low. And the pressure just keeps mounting. They're reading that teleport so well. Setting up the grab at the landing. Fair, down, up air. Cleans up the combo!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "ミラドーマンジャンプ",
+      "corrected": "見たら動かん、ジャンプ",
+      "rule": "misheard phrase"
+    },
+    {
+      "segment_idx": 3,
+      "original": "ナリフォー",
+      "corrected": "なりふり",
+      "rule": "misheard word"
+    },
+    {
+      "segment_idx": 4,
+      "original": "空中にトラブキ",
+      "corrected": "空中Nとラビッツ",
+      "rule": "misheard word"
+    },
+    {
+      "segment_idx": 15,
+      "original": "レーダーを見越している",
+      "corrected": "ルーラを見越している",
+      "rule": "Hero move name"
+    },
+    {
+      "segment_idx": 17,
+      "original": "クーマンHダンクラー",
+      "corrected": "空前一段、ダウン空上",
+      "rule": "smash term"
+    }
+  ]
+}

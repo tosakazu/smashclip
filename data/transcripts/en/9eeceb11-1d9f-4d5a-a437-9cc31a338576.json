@@ -1,0 +1,38 @@
+{
+  "id": "9eeceb11-1d9f-4d5a-a437-9cc31a338576",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.94,
+      "text": "Looking to land! Mashing out with side B—spacing it solid so they can't even shield the landing attempt, but...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "着地をしたいなるほど暴れる横Bしっかりと着地に対してガードもできない横B置いていたんですが"
+    },
+    {
+      "start": 6.94,
+      "end": 10.92,
+      "text": "Oh! What about from this position? Deliberately side B into back air! That's composed!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "おっとこれはどうだこの位置よりあえて横Bそして空中後ろ冷静です"
+    }
+  ],
+  "full_text": "Looking to land! Mashing out with side B—spacing it solid so they can't even shield the landing attempt, but... Oh! What about from this position? Deliberately side B into back air! That's composed!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "横一つ",
+      "corrected": "横B",
+      "rule": "move abbreviation (side special)"
+    },
+    {
+      "segment_idx": 1,
+      "original": "横一つ",
+      "corrected": "横B",
+      "rule": "move abbreviation (side special)"
+    }
+  ]
+}

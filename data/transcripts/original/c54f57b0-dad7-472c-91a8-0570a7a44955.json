@@ -1,0 +1,39 @@
+{
+  "id": "c54f57b0-dad7-472c-91a8-0570a7a44955",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.5,
+      "text": "おっと割れそうだから大丈夫",
+      "language": "ja"
+    },
+    {
+      "start": 1.5,
+      "end": 4.04,
+      "text": "掴み通してこれは前に投げる",
+      "language": "ja"
+    },
+    {
+      "start": 4.04,
+      "end": 6.06,
+      "text": "さあこの状況",
+      "language": "ja"
+    },
+    {
+      "start": 6.06,
+      "end": 8.0,
+      "text": "ジャストガードからの引っこ抜きで",
+      "language": "ja"
+    }
+  ],
+  "full_text": "おっと割れそうだから大丈夫 掴み通してこれは前に投げる さあこの状況 ジャストガードからの引っこ抜きで",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "深み通して",
+      "corrected": "掴み通して",
+      "rule": "misheard word"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "id": "82690c65-7446-438b-afe1-544fa1bbad17",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.66,
+      "text": "Somehow eking out altitude with that sneaky tech!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "なんとか高度を稼いでる裏戦術"
+    },
+    {
+      "start": 2.66,
+      "end": 4.88,
+      "text": "Falling nair",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "下げ空N"
+    },
+    {
+      "start": 4.88,
+      "end": 6.06,
+      "text": "Scattered attack whiff",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "メラ散らしミス"
+    },
+    {
+      "start": 6.06,
+      "end": 9.0,
+      "text": "Crossing the platform is also super nerve-wracking!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "台上を渡るのも非常に怖い"
+    },
+    {
+      "start": 9.62,
+      "end": 12.12,
+      "text": "Chains dair straight into forward smash!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空下からそのまま横スマッシュで繋いできる"
+    }
+  ],
+  "full_text": "Somehow eking out altitude with that sneaky tech! Falling nair Scattered attack whiff Crossing the platform is also super nerve-wracking! Chains dair straight into forward smash!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "下げクエヌ",
+      "corrected": "下げ空N",
+      "rule": "move abbreviation"
+    },
+    {
+      "segment_idx": 2,
+      "original": "メラチラミス",
+      "corrected": "メラ散らしミス",
+      "rule": "Whisper mishearing"
+    },
+    {
+      "segment_idx": 4,
+      "original": "クエしたからそのまま横スマッシュで繋いできる",
+      "corrected": "空下からそのまま横スマッシュで繋いできる",
+      "rule": "move abbreviation"
+    }
+  ]
+}

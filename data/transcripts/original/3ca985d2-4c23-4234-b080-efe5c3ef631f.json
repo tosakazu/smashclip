@@ -1,0 +1,32 @@
+{
+  "id": "3ca985d2-4c23-4234-b080-efe5c3ef631f",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.04,
+      "text": "さあケン選手このカードをとても研究していますから",
+      "language": "ja"
+    },
+    {
+      "start": 3.04,
+      "end": 6.1,
+      "text": "その対策が伺えるでしょうか",
+      "language": "ja"
+    },
+    {
+      "start": 6.1,
+      "end": 7.98,
+      "text": "ダッシュつかみ通して",
+      "language": "ja"
+    },
+    {
+      "start": 7.98,
+      "end": 12.72,
+      "text": "横スマッシュ!拾い上げる!",
+      "language": "ja"
+    }
+  ],
+  "full_text": "さあケン選手このカードをとても研究していますから その対策が伺えるでしょうか ダッシュつかみ通して 横スマッシュ!拾い上げる!",
+  "detected_language": "ja",
+  "corrections": []
+}

@@ -1,0 +1,65 @@
+{
+  "id": "81fb170a-b266-4bae-b5fd-fffe5c3ad208",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.6,
+      "text": "When the opponent goes for aggressive rushes like that",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "対して相手がスキーラッシュするとか"
+    },
+    {
+      "start": 1.6,
+      "end": 4.26,
+      "text": "Those kinds of actions end up being a bit riskier",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そういう行動にちょっとリスクがつけられちゃうので"
+    },
+    {
+      "start": 4.26,
+      "end": 5.88,
+      "text": "In narrow stages where that's harder to pull off",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そういうのがしにくい狭いステージってのは"
+    },
+    {
+      "start": 5.88,
+      "end": 7.3,
+      "text": "Both players would probably find it easier to play, right?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ゲームはどっちかもやりやすいんじゃないですか"
+    },
+    {
+      "start": 7.3,
+      "end": 8.74,
+      "text": "I think this is better than Pokemon Stadium",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ポケスタよりはこっちの方がいいと思います"
+    },
+    {
+      "start": 8.74,
+      "end": 9.88,
+      "text": "You know what I mean? Probably.",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "分かる?多分"
+    },
+    {
+      "start": 9.88,
+      "end": 11.62,
+      "text": "Oh",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "おっと"
+    }
+  ],
+  "full_text": "When the opponent goes for aggressive rushes like that those kinds of actions end up being a bit riskier in narrow stages where that's harder to pull off both players would probably find it easier to play, right? I think this is better than Pokemon Stadium you know what I mean? Probably. Oh",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

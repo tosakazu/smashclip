@@ -1,0 +1,75 @@
+{
+  "id": "64de945c-a897-4f11-a10c-b965c57ee8bf",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.78,
+      "text": "Bキック一発",
+      "language": "ja"
+    },
+    {
+      "start": 0.78,
+      "end": 2.82,
+      "text": "やばい",
+      "language": "ja"
+    },
+    {
+      "start": 2.82,
+      "end": 4.28,
+      "text": "ピクミン",
+      "language": "ja"
+    },
+    {
+      "start": 4.28,
+      "end": 6.48,
+      "text": "いい暴れだ",
+      "language": "ja"
+    },
+    {
+      "start": 6.48,
+      "end": 8.42,
+      "text": "しかし追いかけてくる",
+      "language": "ja"
+    },
+    {
+      "start": 8.42,
+      "end": 9.6,
+      "text": "ピクミン帰ってきて",
+      "language": "ja"
+    },
+    {
+      "start": 9.6,
+      "end": 10.32,
+      "text": "紫いるか",
+      "language": "ja"
+    },
+    {
+      "start": 10.32,
+      "end": 10.8,
+      "text": "紫",
+      "language": "ja"
+    },
+    {
+      "start": 10.8,
+      "end": 13.22,
+      "text": "やばーい",
+      "language": "ja"
+    },
+    {
+      "start": 13.22,
+      "end": 14.6,
+      "text": "ここも触ると",
+      "language": "ja"
+    }
+  ],
+  "full_text": "Bキック一発 やばい ピクミン いい暴れだ しかし追いかけてくる ピクミン帰ってきて 紫いるか 紫 やばーい ここも触ると",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "ブキック",
+      "corrected": "Bキック",
+      "rule": "move abbreviation"
+    }
+  ]
+}

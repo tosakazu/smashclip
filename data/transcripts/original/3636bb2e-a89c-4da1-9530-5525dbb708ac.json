@@ -1,0 +1,57 @@
+{
+  "id": "3636bb2e-a89c-4da1-9530-5525dbb708ac",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.76,
+      "text": "序盤はそうですねなんかクーマ一発露骨に狙ってますもんねこの人です",
+      "language": "ja"
+    },
+    {
+      "start": 6.6,
+      "end": 15.24,
+      "text": "まあ本当に当ててよかったかダメだったかもしれねー クリティカルヒットあばら骨複雑粉砕骨折",
+      "language": "ja"
+    },
+    {
+      "start": 15.24,
+      "end": 17.68,
+      "text": "完璧だ",
+      "language": "ja"
+    },
+    {
+      "start": 18.76,
+      "end": 24.64,
+      "text": "あばらじゃねーな 背中にあるこれは背骨だなぁ",
+      "language": "ja"
+    }
+  ],
+  "full_text": "序盤はそうですねなんかクーマ一発露骨に狙ってますもんねこの人です まあ本当に当ててよかったかダメだったかもしれねー クリティカルヒットあばら骨複雑粉砕骨折 完璧だ あばらじゃねーな 背中にあるこれは背骨だなぁ",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "女子学は",
+      "corrected": "序盤は",
+      "rule": "misheard"
+    },
+    {
+      "segment_idx": 0,
+      "original": "クーマ一族",
+      "corrected": "クーマ一発",
+      "rule": "misheard: 一発"
+    },
+    {
+      "segment_idx": 1,
+      "original": "本当てで",
+      "corrected": "本当に当てて",
+      "rule": "misheard"
+    },
+    {
+      "segment_idx": 1,
+      "original": "アーバラ骨複雑分細骨折",
+      "corrected": "あばら骨複雑粉砕骨折",
+      "rule": "kanji: 粉砕"
+    }
+  ]
+}

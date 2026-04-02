@@ -1,0 +1,69 @@
+{
+  "id": "65297347-9e15-4c5b-a9fd-74e5e7cad787",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.84,
+      "text": "出てきました!",
+      "language": "ja"
+    },
+    {
+      "start": 0.84,
+      "end": 2.16,
+      "text": "そしてスタビー!",
+      "language": "ja"
+    },
+    {
+      "start": 3.44,
+      "end": 4.2,
+      "text": "復帰は?",
+      "language": "ja"
+    },
+    {
+      "start": 4.7,
+      "end": 5.5,
+      "text": "あ、当ててみた",
+      "language": "ja"
+    },
+    {
+      "start": 8.1,
+      "end": 9.76,
+      "text": "崖を上がることに合わせてきたんですが",
+      "language": "ja"
+    },
+    {
+      "start": 9.76,
+      "end": 11.14,
+      "text": "入れ替わったところ空中前",
+      "language": "ja"
+    },
+    {
+      "start": 11.14,
+      "end": 12.1,
+      "text": "ただ、これ…",
+      "language": "ja"
+    },
+    {
+      "start": 13.1,
+      "end": 14.9,
+      "text": "本当に詰んだ 本当に詰んだ!",
+      "language": "ja"
+    },
+    {
+      "start": 16.1,
+      "end": 17.7,
+      "text": "最後はスタビー!",
+      "language": "ja"
+    }
+  ],
+  "full_text": "出てきました! そしてスタビー! 復帰は? あ、当ててみた 崖を上がることに合わせてきたんですが 入れ替わったところ空中前 ただ、これ… 本当に詰んだ 本当に詰んだ! 最後はスタビー!",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 3,
+      "original": "得てみた",
+      "corrected": "当ててみた",
+      "rule": "misheard word"
+    }
+  ]
+}

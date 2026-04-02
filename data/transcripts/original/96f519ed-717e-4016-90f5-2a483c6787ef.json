@@ -1,0 +1,32 @@
+{
+  "id": "96f519ed-717e-4016-90f5-2a483c6787ef",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.5,
+      "text": "あ、苦しいかコーラ選手",
+      "language": "ja"
+    },
+    {
+      "start": 1.5,
+      "end": 3.18,
+      "text": "危ないよ",
+      "language": "ja"
+    },
+    {
+      "start": 3.18,
+      "end": 5.68,
+      "text": "あ、やったー",
+      "language": "ja"
+    },
+    {
+      "start": 5.68,
+      "end": 6.24,
+      "text": "ジャンプ",
+      "language": "ja"
+    }
+  ],
+  "full_text": "あ、苦しいかコーラ選手 危ないよ あ、やったー ジャンプ",
+  "detected_language": "ja",
+  "corrections": []
+}

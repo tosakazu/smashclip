@@ -1,0 +1,32 @@
+{
+  "id": "53ce46ab-934f-48db-8699-59192d364c08",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.56,
+      "text": "届かない",
+      "language": "ja"
+    },
+    {
+      "start": 0.56,
+      "end": 3.12,
+      "text": "1回目の崖",
+      "language": "ja"
+    },
+    {
+      "start": 3.12,
+      "end": 4.24,
+      "text": "バカバカバカ",
+      "language": "ja"
+    },
+    {
+      "start": 4.24,
+      "end": 5.1,
+      "text": "2回目の崖",
+      "language": "ja"
+    }
+  ],
+  "full_text": "届かない 1回目の崖 バカバカバカ 2回目の崖",
+  "detected_language": "ja",
+  "corrections": []
+}

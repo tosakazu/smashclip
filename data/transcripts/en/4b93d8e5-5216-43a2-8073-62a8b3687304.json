@@ -1,0 +1,32 @@
+{
+  "id": "4b93d8e5-5216-43a2-8073-62a8b3687304",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.76,
+      "text": "With that landing position being so low, the up smash won't connect—straight into a forward smash counterattack!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "この着地姿勢、当然姿勢とても低いので上スマッシュは当たらず、そのまま横スマッシュで反撃"
+    },
+    {
+      "start": 4.76,
+      "end": 8.6,
+      "text": "Going up B and continuing to build damage, but then forward smash takes the banana!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "上Bとさらに火力を稼いでいって、だが横スマッシュでバナナ"
+    }
+  ],
+  "full_text": "With that landing position being so low, the up smash won't connect—straight into a forward smash counterattack! Going up B and continuing to build damage, but then forward smash takes the banana!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "上ヒストサーで火力をさらに稼いでいって",
+      "corrected": "上Bとさらに火力を稼いでいって",
+      "rule": "garbled Whisper output"
+    }
+  ]
+}

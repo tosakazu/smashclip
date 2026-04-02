@@ -1,0 +1,73 @@
+{
+  "id": "9b9a49e0-5ba2-41a4-ab95-b33f07ce12a1",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.96,
+      "text": "He's waiting right there",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "こいつが待ってるぞ"
+    },
+    {
+      "start": 0.96,
+      "end": 5.82,
+      "text": "But Sonics doesn't rush—carefully reading the situation",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "しかしソニックスも慌てずに様子を伺っていく"
+    },
+    {
+      "start": 5.82,
+      "end": 7.84,
+      "text": "Approaching from above",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "上から近づいて"
+    },
+    {
+      "start": 7.84,
+      "end": 9.7,
+      "text": "Back jump",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "バックジャンプ"
+    },
+    {
+      "start": 9.7,
+      "end": 10.8,
+      "text": "Walls up, but...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "壁を張るが"
+    },
+    {
+      "start": 10.8,
+      "end": 13.28,
+      "text": "Up smash from Bell!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ベルからの上スマッシュ"
+    },
+    {
+      "start": 13.28,
+      "end": 14.34,
+      "text": "What?!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "なんでだよ"
+    },
+    {
+      "start": 14.34,
+      "end": 15.84,
+      "text": "No, right there!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いやーそこ"
+    }
+  ],
+  "full_text": "He's waiting right there But Sonics doesn't rush—carefully reading the situation Approaching from above Back jump Walls up, but... Up smash from Bell! What?! No, right there!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

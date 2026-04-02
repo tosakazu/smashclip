@@ -1,0 +1,56 @@
+{
+  "id": "0d487a8a-3e79-4c7f-ab7f-41cf8d7b72db",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.44,
+      "text": "ただただ武器判定のリーチが長いことを生かしていく",
+      "language": "ja"
+    },
+    {
+      "start": 2.44,
+      "end": 4.24,
+      "text": "下強から",
+      "language": "ja"
+    },
+    {
+      "start": 4.24,
+      "end": 5.5,
+      "text": "下強は確定で",
+      "language": "ja"
+    },
+    {
+      "start": 5.5,
+      "end": 7.04,
+      "text": "ベク変を内に切ったが",
+      "language": "ja"
+    },
+    {
+      "start": 7.04,
+      "end": 9.56,
+      "text": "ここはスマムラ",
+      "language": "ja"
+    },
+    {
+      "start": 9.56,
+      "end": 11.08,
+      "text": "ギリギリ生存",
+      "language": "ja"
+    },
+    {
+      "start": 11.08,
+      "end": 13.8,
+      "text": "変わりのリターンは復帰して準備したが",
+      "language": "ja"
+    },
+    {
+      "start": 13.8,
+      "end": 14.88,
+      "text": "スマムラです",
+      "language": "ja"
+    }
+  ],
+  "full_text": "ただただ武器判定のリーチが長いことを生かしていく 下強から 下強は確定で ベク変を内に切ったが ここはスマムラ ギリギリ生存 変わりのリターンは復帰して準備したが スマムラです",
+  "detected_language": "ja",
+  "corrections": []
+}

@@ -1,0 +1,69 @@
+{
+  "id": "8f3cf6b7-81b9-4d02-8207-cc5844e6b8ca",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "はいはいはいはい",
+      "language": "ja"
+    },
+    {
+      "start": 2.0,
+      "end": 4.0,
+      "text": "差が開いちゃうとどうしても",
+      "language": "ja"
+    },
+    {
+      "start": 4.0,
+      "end": 6.0,
+      "text": "絡んでいるリスクが多すぎて",
+      "language": "ja"
+    },
+    {
+      "start": 6.0,
+      "end": 8.0,
+      "text": "縮んじゃうとね",
+      "language": "ja"
+    },
+    {
+      "start": 8.0,
+      "end": 10.0,
+      "text": "安全に崖上がって",
+      "language": "ja"
+    },
+    {
+      "start": 10.0,
+      "end": 12.0,
+      "text": "後ろ投げは",
+      "language": "ja"
+    },
+    {
+      "start": 12.0,
+      "end": 14.0,
+      "text": "ギリギリ撃墜するか",
+      "language": "ja"
+    }
+  ],
+  "full_text": "はいはいはいはい 差が開いちゃうとどうしても 絡んでいるリスクが多すぎて 縮んじゃうとね 安全に崖上がって 後ろ投げは ギリギリ撃墜するか",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "リスト",
+      "corrected": "リスク",
+      "rule": "misheard word"
+    },
+    {
+      "segment_idx": 4,
+      "original": "安全に駆け入って",
+      "corrected": "安全に崖上がって",
+      "rule": "misheard word"
+    },
+    {
+      "segment_idx": 6,
+      "original": "失礼するか",
+      "corrected": "撃墜するか",
+      "rule": "kanji homophone"
+    }
+  ]
+}

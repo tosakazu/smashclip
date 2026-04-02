@@ -1,0 +1,26 @@
+{
+  "id": "9ef6ad55-24d2-4d1a-bf2c-9cb012c9e52b",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.5,
+      "text": "and it's really really just awesome how these players know and they can counter that and it's",
+      "language": "en"
+    },
+    {
+      "start": 5.5,
+      "end": 8.96,
+      "text": "just one of those instances in which you know that they played so many times",
+      "language": "en"
+    },
+    {
+      "start": 8.96,
+      "end": 12.6,
+      "text": "that they know what they're looking for right here and you can only",
+      "language": "en"
+    }
+  ],
+  "full_text": "and it's really really just awesome how these players know and they can counter that and it's just one of those instances in which you know that they played so many times that they know what they're looking for right here and you can only",
+  "detected_language": "en",
+  "corrections": []
+}

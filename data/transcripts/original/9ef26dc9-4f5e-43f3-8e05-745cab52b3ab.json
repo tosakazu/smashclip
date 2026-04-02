@@ -1,0 +1,50 @@
+{
+  "id": "9ef26dc9-4f5e-43f3-8e05-745cab52b3ab",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "さらに火力を伸ばしていく!",
+      "language": "ja"
+    },
+    {
+      "start": 2.0,
+      "end": 3.0,
+      "text": "止まらないのか!",
+      "language": "ja"
+    },
+    {
+      "start": 3.0,
+      "end": 4.0,
+      "text": "なんこの崖!",
+      "language": "ja"
+    },
+    {
+      "start": 6.0,
+      "end": 8.0,
+      "text": "さあなんとか攻撃を受けたところ!",
+      "language": "ja"
+    },
+    {
+      "start": 8.0,
+      "end": 10.0,
+      "text": "昇竜拳ねじ込んだぞ!",
+      "language": "ja"
+    },
+    {
+      "start": 10.0,
+      "end": 12.0,
+      "text": "めっちゃずらしてたのに",
+      "language": "ja"
+    },
+    {
+      "start": 12.0,
+      "end": 13.6,
+      "text": "下行ってたのにほら",
+      "language": "ja"
+    }
+  ],
+  "full_text": "さらに火力を伸ばしていく! 止まらないのか! なんこの崖! さあなんとか攻撃を受けたところ! 昇竜拳ねじ込んだぞ! めっちゃずらしてたのに 下行ってたのにほら",
+  "detected_language": "ja",
+  "corrections": []
+}

@@ -1,0 +1,27 @@
+{
+  "id": "06f34140-6364-4b82-aac6-b4b91d8c8417",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.3,
+      "text": "punish harshly right here super scary waka has a good opportunity here to start punishing he",
+      "language": "en"
+    },
+    {
+      "start": 4.3,
+      "end": 8.54,
+      "text": "needs to take it slow he cannot overshoot anymore great bury that could be it it is",
+      "language": "en"
+    }
+  ],
+  "full_text": "punish harshly right here super scary waka has a good opportunity here to start punishing he needs to take it slow he cannot overshoot anymore great bury that could be it it is",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "needs to take it slow he cannot overshoot anymore great barry that could be it it is",
+      "corrected": "needs to take it slow he cannot overshoot anymore great bury that could be it it is",
+      "rule": "Smash terminology correction (barry → bury)"
+    }
+  ]
+}

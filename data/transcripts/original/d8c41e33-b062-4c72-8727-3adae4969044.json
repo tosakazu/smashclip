@@ -1,0 +1,51 @@
+{
+  "id": "d8c41e33-b062-4c72-8727-3adae4969044",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.1,
+      "text": "さあどうなるかまずは着地狩り",
+      "language": "ja"
+    },
+    {
+      "start": 4.1,
+      "end": 5.8,
+      "text": "やはりこのジャストシールドですね",
+      "language": "ja"
+    },
+    {
+      "start": 5.8,
+      "end": 7.56,
+      "text": "暴れが通りません",
+      "language": "ja"
+    },
+    {
+      "start": 7.56,
+      "end": 12.06,
+      "text": "着地側の空Nや空中上が通れば",
+      "language": "ja"
+    },
+    {
+      "start": 12.06,
+      "end": 15.04,
+      "text": "それを起点に一気に火力を伸ばせるファイターではあるんですが",
+      "language": "ja"
+    }
+  ],
+  "full_text": "さあどうなるかまずは着地狩り やはりこのジャストシールドですね 暴れが通りません 着地側の空Nや空中上が通れば それを起点に一気に火力を伸ばせるファイターではあるんですが",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 3,
+      "original": "着地側の空襟や空中上が通れば",
+      "corrected": "着地側の空Nや空中上が通れば",
+      "rule": "smash notation"
+    },
+    {
+      "segment_idx": 4,
+      "original": "それを着てニッキーに火力を伸ばせるファイターではあるんですが",
+      "corrected": "それを起点に一気に火力を伸ばせるファイターではあるんですが",
+      "rule": "whisper_misrecognition"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "id": "07d93b94-30e8-439e-9165-3b996c4f4ce1",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.78,
+      "text": "右側に行くと逆に返されるといった展開が続いています",
+      "language": "ja"
+    },
+    {
+      "start": 2.78,
+      "end": 5.42,
+      "text": "その場上がりがね怖い",
+      "language": "ja"
+    },
+    {
+      "start": 5.42,
+      "end": 6.04,
+      "text": "そうですね",
+      "language": "ja"
+    },
+    {
+      "start": 6.04,
+      "end": 8.72,
+      "text": "これはでもジャンプを潰したので",
+      "language": "ja"
+    },
+    {
+      "start": 8.72,
+      "end": 10.24,
+      "text": "そうですねかなりルートが短い",
+      "language": "ja"
+    }
+  ],
+  "full_text": "右側に行くと逆に返されるといった展開が続いています その場上がりがね怖い そうですね これはでもジャンプを潰したので そうですねかなりルートが短い",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "スノーバーガリーがね怖い",
+      "corrected": "その場上がりがね怖い",
+      "rule": "Whisper error correction (スノーバーガリー → その場上がり)"
+    },
+    {
+      "segment_idx": 3,
+      "original": "これはでもランプを潰したので",
+      "corrected": "これはでもジャンプを潰したので",
+      "rule": "Whisper error correction (ランプ → ジャンプ)"
+    }
+  ]
+}

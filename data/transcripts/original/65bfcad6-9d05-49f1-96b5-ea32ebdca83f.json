@@ -1,0 +1,57 @@
+{
+  "id": "65bfcad6-9d05-49f1-96b5-ea32ebdca83f",
+  "segments": [
+    {
+      "start": 0.4,
+      "end": 1.66,
+      "text": "一旦距離を取れ",
+      "language": "ja"
+    },
+    {
+      "start": 1.66,
+      "end": 3.46,
+      "text": "波動拳から",
+      "language": "ja"
+    },
+    {
+      "start": 3.46,
+      "end": 5.62,
+      "text": "で横強気",
+      "language": "ja"
+    },
+    {
+      "start": 5.62,
+      "end": 7.68,
+      "text": "これが当たらないと読みだったか",
+      "language": "ja"
+    },
+    {
+      "start": 7.68,
+      "end": 9.42,
+      "text": "弱弱昇竜",
+      "language": "ja"
+    }
+  ],
+  "full_text": "一旦距離を取れ 波動拳から で横強気 これが当たらないと読みだったか 弱弱昇竜",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "魔導剣",
+      "corrected": "波動拳",
+      "rule": "Ryu move name (はどうけん)"
+    },
+    {
+      "segment_idx": 3,
+      "original": "当たらないと予判だったか",
+      "corrected": "当たらないと読みだったか",
+      "rule": "Smash term (読み=read)"
+    },
+    {
+      "segment_idx": 4,
+      "original": "弱弱勝利",
+      "corrected": "弱弱昇竜",
+      "rule": "Ryu move name (昇竜拳) matching kill move"
+    }
+  ]
+}

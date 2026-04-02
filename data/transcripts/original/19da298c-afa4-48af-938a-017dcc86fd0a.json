@@ -1,0 +1,81 @@
+{
+  "id": "19da298c-afa4-48af-938a-017dcc86fd0a",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.78,
+      "text": "ちょっと今のうまく当てて横強で撃墜したかったが",
+      "language": "ja"
+    },
+    {
+      "start": 4.78,
+      "end": 5.28,
+      "text": "ここは",
+      "language": "ja"
+    },
+    {
+      "start": 5.28,
+      "end": 7.02,
+      "text": "吹っ掛けの読み合い",
+      "language": "ja"
+    },
+    {
+      "start": 7.02,
+      "end": 7.92,
+      "text": "吹っ掛けじゃないや",
+      "language": "ja"
+    },
+    {
+      "start": 7.92,
+      "end": 10.76,
+      "text": "さあ台での読み合い",
+      "language": "ja"
+    },
+    {
+      "start": 10.76,
+      "end": 12.44,
+      "text": "制したのはDjiro選手",
+      "language": "ja"
+    },
+    {
+      "start": 12.44,
+      "end": 14.4,
+      "text": "しかしここはニュートラルで空中",
+      "language": "ja"
+    }
+  ],
+  "full_text": "ちょっと今のうまく当てて横強で撃墜したかったが ここは 吹っ掛けの読み合い 吹っ掛けじゃないや さあ台での読み合い 制したのはDjiro選手 しかしここはニュートラルで空中",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "ちょっと今日うまく当てて横っきょうで撃墜したかったが",
+      "corrected": "ちょっと今のうまく当てて横強で撃墜したかったが",
+      "rule": "Kanji homophone: 今日→今の; 横っきょう→横強"
+    },
+    {
+      "segment_idx": 2,
+      "original": "ふかけの呼び合い",
+      "corrected": "吹っ掛けの読み合い",
+      "rule": "Garbled transcription: ふかけ→吹っ掛け; 呼び合い→読み合い"
+    },
+    {
+      "segment_idx": 3,
+      "original": "ふかけじゃないや",
+      "corrected": "吹っ掛けじゃないや",
+      "rule": "Garbled transcription: ふかけ→吹っ掛け"
+    },
+    {
+      "segment_idx": 4,
+      "original": "さあ台での呼び合い",
+      "corrected": "さあ台での読み合い",
+      "rule": "Kanji homophone: 呼び合い→読み合い"
+    },
+    {
+      "segment_idx": 5,
+      "original": "制したのはD字のおかずや",
+      "corrected": "制したのはDjiro選手",
+      "rule": "Player name: D字のおかずや→Djiro選手"
+    }
+  ]
+}

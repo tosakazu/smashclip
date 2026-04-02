@@ -1,0 +1,73 @@
+{
+  "id": "25ad7b96-1172-41bf-87be-d01ec1c243bb",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.7,
+      "text": "Maybe he's approaching?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "前出しですかね"
+    },
+    {
+      "start": 0.7,
+      "end": 3.18,
+      "text": "As it stands, his meter is maxed out",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "こうなってくるとMPが満タンで"
+    },
+    {
+      "start": 3.18,
+      "end": 5.28,
+      "text": "That special move...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "コマンドが"
+    },
+    {
+      "start": 5.28,
+      "end": 6.62,
+      "text": "And he's got that too",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "メラゾーマもあるし"
+    },
+    {
+      "start": 6.62,
+      "end": 7.7,
+      "text": "Here it comes!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "来ましたよ"
+    },
+    {
+      "start": 7.7,
+      "end": 9.16,
+      "text": "Wants to take the stock with this one",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "このストックでできれば仕留めたい"
+    },
+    {
+      "start": 9.16,
+      "end": 10.54,
+      "text": "Bold up smash, but...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "強気な上スマッシュですが"
+    },
+    {
+      "start": 10.54,
+      "end": 12.4,
+      "text": "Forward smash on the punish!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "使ったところに横スマッシュ"
+    }
+  ],
+  "full_text": "Maybe he's approaching? As it stands, his meter is maxed out That special move... And he's got that too Here it comes! Wants to take the stock with this one Bold up smash, but... Forward smash on the punish!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "3d6036a5-4716-403b-8105-4d0b6693d223",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.8,
+      "text": "I saw it too it was it was potentially one of the scariest option opportunities there for Miya",
+      "language": "en"
+    },
+    {
+      "start": 4.8,
+      "end": 10.24,
+      "text": "uh for sorry for Miya to to get a kill speaking of which what a",
+      "language": "en"
+    }
+  ],
+  "full_text": "I saw it too it was it was potentially one of the scariest option opportunities there for Miya uh for sorry for Miya to to get a kill speaking of which what a",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "for men",
+      "corrected": "for Miya",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 1,
+      "original": "for Mia",
+      "corrected": "for Miya",
+      "rule": "player name"
+    }
+  ]
+}

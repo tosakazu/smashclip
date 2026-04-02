@@ -1,0 +1,38 @@
+{
+  "id": "4b76939c-c3ce-4954-9c4e-c19f745b73c1",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.98,
+      "text": "Hit him with the false finish.",
+      "language": "en"
+    },
+    {
+      "start": 2.42,
+      "end": 3.5,
+      "text": "Ooh, tries to get off the ledge,",
+      "language": "en"
+    },
+    {
+      "start": 3.56,
+      "end": 5.28,
+      "text": "but got to be unable to find the grab here,",
+      "language": "en"
+    },
+    {
+      "start": 5.36,
+      "end": 7.12,
+      "text": "but ooh, finds it there, the up throw.",
+      "language": "en"
+    },
+    {
+      "start": 7.12,
+      "end": 8.58,
+      "text": "I didn't even know up throw killed.",
+      "language": "en"
+    }
+  ],
+  "full_text": "Hit him with the false finish. Ooh, tries to get off the ledge, but got to be unable to find the grab here, but ooh, finds it there, the up throw. I didn't even know up throw killed.",
+  "detected_language": "en",
+  "corrections": []
+}

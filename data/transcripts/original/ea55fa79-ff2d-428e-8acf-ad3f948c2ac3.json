@@ -1,0 +1,69 @@
+{
+  "id": "ea55fa79-ff2d-428e-8acf-ad3f948c2ac3",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.14,
+      "text": "資材を集める しかしたまPだいふく選手側も",
+      "language": "ja"
+    },
+    {
+      "start": 2.14,
+      "end": 3.82,
+      "text": "単に距離を取るのではなくて",
+      "language": "ja"
+    },
+    {
+      "start": 3.82,
+      "end": 5.14,
+      "text": "おーっとここで引っかけた",
+      "language": "ja"
+    },
+    {
+      "start": 5.14,
+      "end": 7.56,
+      "text": "あそこで判定を出して",
+      "language": "ja"
+    },
+    {
+      "start": 7.56,
+      "end": 8.8,
+      "text": "あえて出してね",
+      "language": "ja"
+    },
+    {
+      "start": 8.8,
+      "end": 10.98,
+      "text": "なんとここは空後で撃墜",
+      "language": "ja"
+    }
+  ],
+  "full_text": "資材を集める しかしたまPだいふく選手側も 単に距離を取るのではなくて おーっとここで引っかけた あそこで判定を出して あえて出してね なんとここは空後で撃墜",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "玉見大福",
+      "corrected": "たまPだいふく",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 1,
+      "original": "常々に",
+      "corrected": "単に",
+      "rule": "misheard"
+    },
+    {
+      "segment_idx": 2,
+      "original": "きっかけた",
+      "corrected": "引っかけた",
+      "rule": "misheard"
+    },
+    {
+      "segment_idx": 5,
+      "original": "空中白",
+      "corrected": "空後",
+      "rule": "misheard: 空中白→空後"
+    }
+  ]
+}

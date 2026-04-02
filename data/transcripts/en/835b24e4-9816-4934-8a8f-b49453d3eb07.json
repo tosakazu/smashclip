@@ -1,0 +1,48 @@
+{
+  "id": "835b24e4-9816-4934-8a8f-b49453d3eb07",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.16,
+      "text": "Ah!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "なるほど"
+    },
+    {
+      "start": 0.16,
+      "end": 4.52,
+      "text": "Parry!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ジャストシールド"
+    },
+    {
+      "start": 4.52,
+      "end": 9.34,
+      "text": "Fair!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空前"
+    },
+    {
+      "start": 9.34,
+      "end": 12.16,
+      "text": "That's the KO!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これは撃墜して"
+    }
+  ],
+  "full_text": "Ah! Parry! Fair! That's the KO!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "熊江",
+      "corrected": "空前",
+      "rule": "move name homophone"
+    }
+  ]
+}

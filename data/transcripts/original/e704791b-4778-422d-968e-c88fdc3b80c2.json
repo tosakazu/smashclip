@@ -1,0 +1,51 @@
+{
+  "id": "e704791b-4778-422d-968e-c88fdc3b80c2",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.56,
+      "text": "ってことですよね",
+      "language": "ja"
+    },
+    {
+      "start": 0.56,
+      "end": 7.06,
+      "text": "スピンが抜ける",
+      "language": "ja"
+    },
+    {
+      "start": 7.06,
+      "end": 9.16,
+      "text": "おっと台の上にいた",
+      "language": "ja"
+    },
+    {
+      "start": 9.16,
+      "end": 10.76,
+      "text": "引っこ抜いた直後に横スマッシュ",
+      "language": "ja"
+    },
+    {
+      "start": 10.76,
+      "end": 12.14,
+      "text": "投げだったり",
+      "language": "ja"
+    },
+    {
+      "start": 12.14,
+      "end": 12.44,
+      "text": "今の",
+      "language": "ja"
+    }
+  ],
+  "full_text": "ってことですよね スピンが抜ける おっと台の上にいた 引っこ抜いた直後に横スマッシュ 投げだったり 今の",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 4,
+      "original": "投げたったり",
+      "corrected": "投げだったり",
+      "rule": "misheard"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "8a575134-90b8-4e1d-9267-3e03cc61938b",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.86,
+      "text": "やはりMiyaと向き合わなければならない",
+      "language": "ja"
+    },
+    {
+      "start": 2.86,
+      "end": 4.86,
+      "text": "拒否しきるのも無理ですからね",
+      "language": "ja"
+    },
+    {
+      "start": 4.86,
+      "end": 5.22,
+      "text": "おっと",
+      "language": "ja"
+    },
+    {
+      "start": 5.22,
+      "end": 9.1,
+      "text": "恐れていたことが起きましたね",
+      "language": "ja"
+    },
+    {
+      "start": 9.1,
+      "end": 10.56,
+      "text": "いやーこれは",
+      "language": "ja"
+    }
+  ],
+  "full_text": "やはりMiyaと向き合わなければならない 拒否しきるのも無理ですからね おっと 恐れていたことが起きましたね いやーこれは",
+  "detected_language": "ja",
+  "corrections": [
+    "ミーヤー→Miya (player name from metadata)"
+  ]
+}

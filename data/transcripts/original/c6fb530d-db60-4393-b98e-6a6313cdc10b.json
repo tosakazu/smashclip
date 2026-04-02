@@ -1,0 +1,26 @@
+{
+  "id": "c6fb530d-db60-4393-b98e-6a6313cdc10b",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.58,
+      "text": "これは撃墜している",
+      "language": "ja"
+    },
+    {
+      "start": 4.58,
+      "end": 8.12,
+      "text": "ネオ選手のお箱といっても構わないでしょう",
+      "language": "ja"
+    },
+    {
+      "start": 8.12,
+      "end": 10.9,
+      "text": "クーマンNB相当むずいですけどね",
+      "language": "ja"
+    }
+  ],
+  "full_text": "これは撃墜している ネオ選手のお箱といっても構わないでしょう クーマンNB相当むずいですけどね",
+  "detected_language": "ja",
+  "corrections": []
+}

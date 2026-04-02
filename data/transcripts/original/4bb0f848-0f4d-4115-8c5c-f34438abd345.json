@@ -1,0 +1,69 @@
+{
+  "id": "4bb0f848-0f4d-4115-8c5c-f34438abd345",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.52,
+      "text": "いろんなところで確かにロゼッタ強そうですね",
+      "language": "ja"
+    },
+    {
+      "start": 3.52,
+      "end": 4.28,
+      "text": "このステージが",
+      "language": "ja"
+    },
+    {
+      "start": 4.28,
+      "end": 5.1,
+      "text": "確かに",
+      "language": "ja"
+    },
+    {
+      "start": 5.1,
+      "end": 6.56,
+      "text": "さあ空下が通って",
+      "language": "ja"
+    },
+    {
+      "start": 6.56,
+      "end": 8.84,
+      "text": "ひとたび技が通るたびに",
+      "language": "ja"
+    },
+    {
+      "start": 8.84,
+      "end": 10.56,
+      "text": "歓声と拍手が巻き起こる",
+      "language": "ja"
+    },
+    {
+      "start": 10.56,
+      "end": 12.42,
+      "text": "紙一重の勝負をしていることが",
+      "language": "ja"
+    },
+    {
+      "start": 12.42,
+      "end": 16.3,
+      "text": "何よりも一生懸命見ている観客の反応が証明しています",
+      "language": "ja"
+    }
+  ],
+  "full_text": "いろんなところで確かにロゼッタ強そうですね このステージが 確かに さあ空下が通って ひとたび技が通るたびに 歓声と拍手が巻き起こる 紙一重の勝負をしていることが 何よりも一生懸命見ている観客の反応が証明しています",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 3,
+      "original": "空中車が通って",
+      "corrected": "空下が通って",
+      "rule": "move abbreviation (空中下→空下)"
+    },
+    {
+      "segment_idx": 6,
+      "original": "神一人の勝負をしていることが",
+      "corrected": "紙一重の勝負をしていることが",
+      "rule": "kanji homophone (神一人→紙一重)"
+    }
+  ]
+}

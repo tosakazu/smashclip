@@ -1,0 +1,54 @@
+{
+  "id": "80ef7808-c8f7-47aa-988f-4a28e12a6d4f",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.8,
+      "text": "Back and forth trading!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "手を交わしていくよ"
+    },
+    {
+      "start": 0.8,
+      "end": 5.5,
+      "text": "Still controlling the stage!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "まだテシのステージ上は"
+    },
+    {
+      "start": 5.5,
+      "end": 8.34,
+      "text": "Keeps the advantage!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "獲得し続けているぞ"
+    },
+    {
+      "start": 8.34,
+      "end": 11.32,
+      "text": "Up tilt into the airdodge!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "上強これ移動回避先"
+    }
+  ],
+  "full_text": "Back and forth trading! Still controlling the stage! Keeps the advantage! Up tilt into the airdodge!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "まだ手代のステーシュオーは",
+      "corrected": "まだテシのステージ上は",
+      "rule": "player name + Whisper mishearing"
+    },
+    {
+      "segment_idx": 3,
+      "original": "上京コーヒー移動回避先",
+      "corrected": "上強これ移動回避先",
+      "rule": "kanji homophone"
+    }
+  ]
+}

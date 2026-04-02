@@ -1,0 +1,20 @@
+{
+  "id": "cb7cd618-f853-436c-8c62-f83d3ac60b3c",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 10.94,
+      "text": "I'm going to guess that he's actually playing now, game on.",
+      "language": "en"
+    },
+    {
+      "start": 12.64,
+      "end": 14.36,
+      "text": "Going to get the kill with the up B.",
+      "language": "en"
+    }
+  ],
+  "full_text": "I'm going to guess that he's actually playing now, game on. Going to get the kill with the up B.",
+  "detected_language": "en",
+  "corrections": []
+}

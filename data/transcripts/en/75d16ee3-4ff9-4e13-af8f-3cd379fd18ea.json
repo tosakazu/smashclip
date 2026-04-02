@@ -1,0 +1,118 @@
+{
+  "id": "75d16ee3-4ff9-4e13-af8f-3cd379fd18ea",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.12,
+      "text": "Nice solid DI right there!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "しっかりとベクトル変更いいですね"
+    },
+    {
+      "start": 1.12,
+      "end": 3.86,
+      "text": "And with that homing",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "あそこもねあのホーミングの"
+    },
+    {
+      "start": 3.86,
+      "end": 4.8,
+      "text": "Reverse homing",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "反転ホーミングの"
+    },
+    {
+      "start": 4.8,
+      "end": 6.64,
+      "text": "Bair connects!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空後なら刺さる"
+    },
+    {
+      "start": 6.64,
+      "end": 9.36,
+      "text": "Up B invincibility takes it!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これは上Bの無敵で勝ったか"
+    },
+    {
+      "start": 9.36,
+      "end": 11.22,
+      "text": "Whoa, something crazy just went down!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "おっととんでもないのがいった"
+    },
+    {
+      "start": 11.22,
+      "end": 13.8,
+      "text": "Yeah, that would've been a KO if it landed!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いやーおそらく当たれば撃墜だったでしょう"
+    },
+    {
+      "start": 13.8,
+      "end": 15.02,
+      "text": "Kurofune's back!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "黒船今帰ってきましたね"
+    },
+    {
+      "start": 15.02,
+      "end": 15.84,
+      "text": "Fair!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空中前"
+    }
+  ],
+  "full_text": "Nice solid DI right there! And with that homing. Reverse homing. Bair connects! Up B invincibility takes it! Whoa, something crazy just went down! Yeah, that would've been a KO if it landed! Kurofune's back! Fair!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "ベッドの変更",
+      "corrected": "ベクトル変更",
+      "rule": "smash term: ベク変"
+    },
+    {
+      "segment_idx": 4,
+      "original": "空中シロナーズある",
+      "corrected": "空後なら刺さる",
+      "rule": "move abbreviation + Whisper garble"
+    },
+    {
+      "segment_idx": 3,
+      "original": "空中シロナーズある",
+      "corrected": "空後なら刺さる",
+      "rule": "move abbreviation + Whisper garble"
+    },
+    {
+      "segment_idx": 4,
+      "original": "ウェビーの無敵",
+      "corrected": "上Bの無敵",
+      "rule": "move name"
+    },
+    {
+      "segment_idx": 6,
+      "original": "激戦",
+      "corrected": "撃墜",
+      "rule": "kanji homophone: 激戦→撃墜"
+    },
+    {
+      "segment_idx": 7,
+      "original": "開票今返ってきましたね",
+      "corrected": "黒船今帰ってきましたね",
+      "rule": "player name: 黒船"
+    }
+  ]
+}

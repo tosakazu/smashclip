@@ -1,0 +1,52 @@
+{
+  "id": "b3cdb5df-da4b-49fe-9c6d-1873b05e007a",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.7,
+      "text": "Yaura's taking damage!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ダメージでヤウラ"
+    },
+    {
+      "start": 0.7,
+      "end": 5.64,
+      "text": "After that match, they corner Yoshidora even harder!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "3本目後がなくなってヨシドラをさらに追い詰める"
+    },
+    {
+      "start": 5.64,
+      "end": 8.22,
+      "text": "Wait, can they recover?!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "おっとこれは帰れるか"
+    }
+  ],
+  "full_text": "Yaura's taking damage! After that match, they corner Yoshidora even harder! Wait, can they recover?!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "矢浦",
+      "corrected": "ヤウラ",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 1,
+      "original": "ヤシドラ",
+      "corrected": "ヨシドラ",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 2,
+      "original": "返れるか",
+      "corrected": "帰れるか",
+      "rule": "kanji homophone"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "bca67a5a-865f-444f-9667-7df891d3ed57",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.18,
+      "text": "Of course, a standard getup attack",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "もちろん普通の攻撃上がり"
+    },
+    {
+      "start": 3.18,
+      "end": 5.1,
+      "text": "can secure the win",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "勝つことができる"
+    },
+    {
+      "start": 5.1,
+      "end": 6.64,
+      "text": "No, an aggressive getup attack",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いやーヤマナクション攻撃上がり"
+    },
+    {
+      "start": 6.64,
+      "end": 8.44,
+      "text": "but this spot is risky",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここはずぶといだが"
+    },
+    {
+      "start": 8.44,
+      "end": 9.3,
+      "text": "the dodge",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "回避を"
+    }
+  ],
+  "full_text": "Of course, a standard getup attack can secure the win. No, an aggressive getup attack but this spot is risky the dodge",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "オナクション",
+      "corrected": "ヤマナクション",
+      "rule": "player name"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "b87744c6-6177-421f-81c0-9e5f26d5c456",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.64,
+      "text": "If you don't, you end up in situations like that first game where Raru was just holding shield forever,",
+      "language": "en"
+    },
+    {
+      "start": 5.02,
+      "end": 7.7,
+      "text": "blocking back airs until he can get his down tilt.",
+      "language": "en"
+    },
+    {
+      "start": 9.0,
+      "end": 11.22,
+      "text": "It's not even a grab anymore, it's just a down tilt.",
+      "language": "en"
+    }
+  ],
+  "full_text": "If you don't, you end up in situations like that first game where Raru was just holding shield forever, blocking back airs until he can get his down tilt. It's not even a grab anymore, it's just a down tilt.",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "where Rauru was",
+      "corrected": "where Raru was",
+      "rule": "player name"
+    }
+  ]
+}

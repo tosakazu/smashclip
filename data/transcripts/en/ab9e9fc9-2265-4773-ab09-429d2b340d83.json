@@ -1,0 +1,62 @@
+{
+  "id": "ab9e9fc9-2265-4773-ab09-429d2b340d83",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.44,
+      "text": "A brief moment!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ちょっとこだま"
+    },
+    {
+      "start": 0.44,
+      "end": 2.42,
+      "text": "But even from there—dash attack!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "しかしこだまからでもおダッシュ攻撃"
+    },
+    {
+      "start": 2.42,
+      "end": 4.46,
+      "text": "Holding the line!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ラインがあった耐えた"
+    },
+    {
+      "start": 4.46,
+      "end": 6.28,
+      "text": "Another short hop!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "今度もジャンプ切る"
+    },
+    {
+      "start": 6.28,
+      "end": 7.42,
+      "text": "But at this moment...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "しかしここで"
+    }
+  ],
+  "full_text": "A brief moment! But even from there—dash attack! Holding the line! Another short hop! But at this moment...",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "お出し攻撃",
+      "corrected": "おダッシュ攻撃",
+      "rule": "Move: お出し→おダッシュ(DA)"
+    },
+    {
+      "segment_idx": 3,
+      "original": "ジャンボ切る",
+      "corrected": "ジャンプ切る",
+      "rule": "Mishearing: ジャンボ→ジャンプ"
+    }
+  ]
+}

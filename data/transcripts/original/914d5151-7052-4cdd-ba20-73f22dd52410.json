@@ -1,0 +1,99 @@
+{
+  "id": "914d5151-7052-4cdd-ba20-73f22dd52410",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.62,
+      "text": "バナナがあるから",
+      "language": "ja"
+    },
+    {
+      "start": 0.62,
+      "end": 1.9,
+      "text": "変に技置いたらね",
+      "language": "ja"
+    },
+    {
+      "start": 1.9,
+      "end": 2.06,
+      "text": "そう",
+      "language": "ja"
+    },
+    {
+      "start": 2.06,
+      "end": 3.42,
+      "text": "自分が行くんだよな",
+      "language": "ja"
+    },
+    {
+      "start": 3.42,
+      "end": 4.9,
+      "text": "さあ",
+      "language": "ja"
+    },
+    {
+      "start": 4.9,
+      "end": 5.96,
+      "text": "強みを追いかけて",
+      "language": "ja"
+    },
+    {
+      "start": 5.96,
+      "end": 6.5,
+      "text": "やばい",
+      "language": "ja"
+    },
+    {
+      "start": 6.5,
+      "end": 8.04,
+      "text": "一気に",
+      "language": "ja"
+    },
+    {
+      "start": 8.04,
+      "end": 9.32,
+      "text": "差をつけようと",
+      "language": "ja"
+    },
+    {
+      "start": 9.32,
+      "end": 10.72,
+      "text": "迫りくるツイーク",
+      "language": "ja"
+    },
+    {
+      "start": 10.72,
+      "end": 11.64,
+      "text": "おーいい",
+      "language": "ja"
+    },
+    {
+      "start": 11.64,
+      "end": 12.7,
+      "text": "シュートンここで",
+      "language": "ja"
+    },
+    {
+      "start": 12.7,
+      "end": 13.42,
+      "text": "せき止めた",
+      "language": "ja"
+    },
+    {
+      "start": 13.42,
+      "end": 14.42,
+      "text": "上手い対応でしたね今の",
+      "language": "ja"
+    }
+  ],
+  "full_text": "バナナがあるから 変に技置いたらね そう 自分が行くんだよな さあ 強みを追いかけて やばい 一気に 差をつけようと 迫りくるツイーク おーいい シュートンここで せき止めた 上手い対応でしたね今の",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 13,
+      "original": "対抗",
+      "corrected": "対応",
+      "rule": "kanji homophone"
+    }
+  ]
+}

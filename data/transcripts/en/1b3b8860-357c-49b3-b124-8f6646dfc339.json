@@ -1,0 +1,54 @@
+{
+  "id": "1b3b8860-357c-49b3-b124-8f6646dfc339",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.04,
+      "text": "Both players are fighting at the absolute edge!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "両者ギリギリのギリギリを戦っています"
+    },
+    {
+      "start": 3.04,
+      "end": 3.8,
+      "text": "Directional airdodge",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "移動回避"
+    },
+    {
+      "start": 3.8,
+      "end": 6.4,
+      "text": "Tornado got through!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "竜巻通った"
+    },
+    {
+      "start": 6.4,
+      "end": 11.92,
+      "text": "Taking the lead with bair!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空後でリード"
+    }
+  ],
+  "full_text": "Both players are fighting at the absolute edge! Directional airdodge Tornado got through! Taking the lead with bair!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "移動可否",
+      "corrected": "移動回避",
+      "rule": "Whisper kanji homophone: 可否→回避"
+    },
+    {
+      "segment_idx": 3,
+      "original": "空中白でリード",
+      "corrected": "空後でリード",
+      "rule": "Whisper kanji homophone: 空中白→空後"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "2b771ac9-9dd6-459d-a468-785da0a57b52",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.82,
+      "text": "A little bit of a grappling hook and now the Rebel's Guard sets up for this Arsene.",
+      "language": "en"
+    },
+    {
+      "start": 5.34,
+      "end": 6.98,
+      "text": "Let's see if he can stall it out this time.",
+      "language": "en"
+    },
+    {
+      "start": 7.08,
+      "end": 10.98,
+      "text": "Hurt not in the best spot that time around when the Arsene did come out",
+      "language": "en"
+    },
+    {
+      "start": 10.98,
+      "end": 13.4,
+      "text": "and that's going to be the death sentence as a result.",
+      "language": "en"
+    }
+  ],
+  "full_text": "A little bit of a grappling hook and now the Rebel's Guard sets up for this Arsene. Let's see if he can stall it out this time. Hurt not in the best spot that time around when the Arsene did come out and that's going to be the death sentence as a result.",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "the Rebels guard",
+      "corrected": "the Rebel's Guard",
+      "rule": "Joker move name"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "id": "603f2bbd-4f02-49cb-a9e7-5030cfc1be84",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.32,
+      "text": "Stock advantage!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ストック先制はあcola"
+    },
+    {
+      "start": 2.32,
+      "end": 4.26,
+      "text": "Dodging again and again!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "拒否に拒否を重ねて"
+    },
+    {
+      "start": 4.26,
+      "end": 7.02,
+      "text": "Stock strong like diamond and gold!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "素材もダイヤと金が"
+    },
+    {
+      "start": 7.02,
+      "end": 9.44,
+      "text": "Fully charged!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "装填されているぞ"
+    },
+    {
+      "start": 9.44,
+      "end": 11.8,
+      "text": "Jab into fair!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "弱から空中前"
+    },
+    {
+      "start": 11.8,
+      "end": 12.76,
+      "text": "Aggressive mashing through!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "強気に暴れ落とし"
+    }
+  ],
+  "full_text": "Stock advantage! Dodging again and again! Stock strong like diamond and gold! Fully charged! Jab into fair! Aggressive mashing through!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "ストックス先生はアコーラ",
+      "corrected": "ストック先制はあcola",
+      "rule": "smash term + player name"
+    },
+    {
+      "segment_idx": 4,
+      "original": "ジャックからスクイッチ前",
+      "corrected": "弱から空中前",
+      "rule": "move abbreviation"
+    }
+  ]
+}

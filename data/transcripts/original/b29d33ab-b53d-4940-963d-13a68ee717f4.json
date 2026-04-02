@@ -1,0 +1,26 @@
+{
+  "id": "b29d33ab-b53d-4940-963d-13a68ee717f4",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.22,
+      "text": "この崖圧をかけつつ掴み",
+      "language": "ja"
+    },
+    {
+      "start": 5.22,
+      "end": 10.0,
+      "text": "いやー外側逃げることがバレている",
+      "language": "ja"
+    },
+    {
+      "start": 10.0,
+      "end": 13.1,
+      "text": "そしてホカホカ乗った状態59%から",
+      "language": "ja"
+    }
+  ],
+  "full_text": "この崖圧をかけつつ掴み いやー外側逃げることがバレている そしてホカホカ乗った状態59%から",
+  "detected_language": "ja",
+  "corrections": []
+}

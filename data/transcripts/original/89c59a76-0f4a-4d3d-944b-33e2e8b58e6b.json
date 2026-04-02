@@ -1,0 +1,38 @@
+{
+  "id": "89c59a76-0f4a-4d3d-944b-33e2e8b58e6b",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.08,
+      "text": "ラッシュしてたらひとたまりもない",
+      "language": "ja"
+    },
+    {
+      "start": 2.08,
+      "end": 4.8,
+      "text": "つかみ通して後ろ投げて",
+      "language": "ja"
+    },
+    {
+      "start": 4.8,
+      "end": 6.26,
+      "text": "植木鉢も襲いかかってくる",
+      "language": "ja"
+    },
+    {
+      "start": 6.26,
+      "end": 7.48,
+      "text": "ジャンプするものならば",
+      "language": "ja"
+    },
+    {
+      "start": 7.48,
+      "end": 8.88,
+      "text": "危なーい",
+      "language": "ja"
+    }
+  ],
+  "full_text": "ラッシュしてたらひとたまりもない つかみ通して後ろ投げて 植木鉢も襲いかかってくる ジャンプするものならば 危なーい",
+  "detected_language": "ja",
+  "corrections": []
+}

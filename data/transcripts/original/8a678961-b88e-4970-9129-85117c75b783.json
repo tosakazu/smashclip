@@ -1,0 +1,64 @@
+{
+  "id": "8a678961-b88e-4970-9129-85117c75b783",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.72,
+      "text": "おー悪いか",
+      "language": "ja"
+    },
+    {
+      "start": 0.72,
+      "end": 2.72,
+      "text": "大丈夫",
+      "language": "ja"
+    },
+    {
+      "start": 2.72,
+      "end": 5.04,
+      "text": "いやしかしシュートンもしっかりと追いかけています",
+      "language": "ja"
+    },
+    {
+      "start": 5.04,
+      "end": 6.22,
+      "text": "後ろ投げ",
+      "language": "ja"
+    },
+    {
+      "start": 6.22,
+      "end": 8.98,
+      "text": "待っているが",
+      "language": "ja"
+    },
+    {
+      "start": 8.98,
+      "end": 10.5,
+      "text": "なんでそこで暴れんねん",
+      "language": "ja"
+    },
+    {
+      "start": 10.5,
+      "end": 12.44,
+      "text": "相手が来ること分かってないと無理ですけどね",
+      "language": "ja"
+    },
+    {
+      "start": 12.44,
+      "end": 13.4,
+      "text": "おーひろめました",
+      "language": "ja"
+    },
+    {
+      "start": 13.4,
+      "end": 13.94,
+      "text": "ひろめました",
+      "language": "ja"
+    }
+  ],
+  "full_text": "おー悪いか 大丈夫 いやしかしシュートンもしっかりと追いかけています 後ろ投げ 待っているが なんでそこで暴れんねん 相手が来ること分かってないと無理ですけどね おーひろめました ひろめました",
+  "detected_language": "ja",
+  "corrections": [
+    "そばたき→シュートン (Shuton player name from metadata)"
+  ]
+}

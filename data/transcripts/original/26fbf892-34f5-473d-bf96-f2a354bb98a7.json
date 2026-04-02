@@ -1,0 +1,26 @@
+{
+  "id": "26fbf892-34f5-473d-bf96-f2a354bb98a7",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.8,
+      "text": "です 崖展開 きっつい これ きっつい あっ!",
+      "language": "ja"
+    },
+    {
+      "start": 4.8,
+      "end": 11.18,
+      "text": "打ち取った ガードなしで えっ",
+      "language": "ja"
+    },
+    {
+      "start": 11.18,
+      "end": 13.94,
+      "text": "最後は",
+      "language": "ja"
+    }
+  ],
+  "full_text": "です 崖展開 きっつい これ きっつい あっ! 打ち取った ガードなしで えっ 最後は",
+  "detected_language": "ja",
+  "corrections": []
+}

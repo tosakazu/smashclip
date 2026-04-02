@@ -1,0 +1,33 @@
+{
+  "id": "e416d0ec-58ae-4786-acba-12bfbc8ba310",
+  "segments": [
+    {
+      "start": 0.66,
+      "end": 4.9,
+      "text": "さあ横必殺技エッジキャンセルをうまく使って後隙を晒さない",
+      "language": "ja"
+    },
+    {
+      "start": 4.9,
+      "end": 7.18,
+      "text": "溜める前の発射が間に合わなかったですね",
+      "language": "ja"
+    },
+    {
+      "start": 7.18,
+      "end": 9.38,
+      "text": "そして上必殺技で復帰したいところに合わせ",
+      "language": "ja"
+    }
+  ],
+  "full_text": "さあ横必殺技エッジキャンセルをうまく使って後隙を晒さない 溜める前の発射が間に合わなかったですね そして上必殺技で復帰したいところに合わせ",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "後隙をからせない",
+      "corrected": "後隙を晒さない",
+      "rule": "misheard: 晒さない"
+    }
+  ]
+}

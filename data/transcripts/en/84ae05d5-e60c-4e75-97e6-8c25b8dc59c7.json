@@ -1,0 +1,97 @@
+{
+  "id": "84ae05d5-e60c-4e75-97e6-8c25b8dc59c7",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.58,
+      "text": "They're reading each other",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "お互いに見ている"
+    },
+    {
+      "start": 2.58,
+      "end": 5.58,
+      "text": "Insane!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "うますぎる"
+    },
+    {
+      "start": 5.58,
+      "end": 6.92,
+      "text": "But blue?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "しかし青か"
+    },
+    {
+      "start": 6.92,
+      "end": 8.86,
+      "text": "Oh, nice!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "おー気合"
+    },
+    {
+      "start": 8.86,
+      "end": 11.8,
+      "text": "Yeah, if that smash lands...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そうですねもうスマッシュ当たれば"
+    },
+    {
+      "start": 11.8,
+      "end": 12.68,
+      "text": "True, even Olimar...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "確かにもうオリマンも"
+    },
+    {
+      "start": 12.68,
+      "end": 13.14,
+      "text": "That's not Olimar",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "オリマンじゃない"
+    },
+    {
+      "start": 13.14,
+      "end": 14.88,
+      "text": "Does DD KO?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "DD側も撃墜するか"
+    },
+    {
+      "start": 14.88,
+      "end": 15.98,
+      "text": "Oh!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "おー"
+    },
+    {
+      "start": 15.98,
+      "end": 17.6,
+      "text": "Two throws!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "2スロー"
+    },
+    {
+      "start": 17.6,
+      "end": 17.82,
+      "text": "So good!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "うますぎる"
+    }
+  ],
+  "full_text": "They're reading each other Insane! But blue? Oh, nice! Yeah, if that smash lands... True, even Olimar... That's not Olimar Does DD KO? Oh! Two throws! So good!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

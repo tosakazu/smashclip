@@ -1,0 +1,38 @@
+{
+  "id": "1d59dac9-feb6-478c-b0ae-b4b3e02e6dec",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.8,
+      "text": "通して会場はどよめいております",
+      "language": "ja"
+    },
+    {
+      "start": 1.8,
+      "end": 2.66,
+      "text": "どよめいてましたね",
+      "language": "ja"
+    },
+    {
+      "start": 2.66,
+      "end": 5.28,
+      "text": "空中前うまく深く着地",
+      "language": "ja"
+    },
+    {
+      "start": 5.28,
+      "end": 7.48,
+      "text": "深めの着地が通ってます",
+      "language": "ja"
+    },
+    {
+      "start": 7.48,
+      "end": 9.86,
+      "text": "空中前さあ仕返している",
+      "language": "ja"
+    }
+  ],
+  "full_text": "通して会場はどよめいております どよめいてましたね 空中前うまく深く着地 深めの着地が通ってます 空中前さあ仕返している",
+  "detected_language": "ja",
+  "corrections": []
+}

@@ -1,0 +1,51 @@
+{
+  "id": "16a14554-2838-44bb-aac9-f051f8f61988",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.48,
+      "text": "っていきました",
+      "language": "ja"
+    },
+    {
+      "start": 0.48,
+      "end": 2.34,
+      "text": "ここは捕まってしまう",
+      "language": "ja"
+    },
+    {
+      "start": 2.34,
+      "end": 3.0,
+      "text": "レポカちゃん早っ",
+      "language": "ja"
+    },
+    {
+      "start": 4.12,
+      "end": 4.72,
+      "text": "どうする?",
+      "language": "ja"
+    },
+    {
+      "start": 6.38,
+      "end": 7.88,
+      "text": "上強拾ったのはあcolaが",
+      "language": "ja"
+    },
+    {
+      "start": 7.88,
+      "end": 8.14,
+      "text": "そ",
+      "language": "ja"
+    }
+  ],
+  "full_text": "っていきました ここは捕まってしまう レポカちゃん早っ どうする? 上強拾ったのはあcolaが そ",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 4,
+      "original": "上今日拾ったのはコーラが",
+      "corrected": "上強拾ったのはあcolaが",
+      "rule": "Kanji homophone: 上今日→上強; Player name: コーラ→あcola"
+    }
+  ]
+}

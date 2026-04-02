@@ -1,0 +1,94 @@
+{
+  "id": "69fe28fa-9e7e-4029-9ef8-e94221af10da",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.58,
+      "text": "Out now, here comes Miya's recovery!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "出して今度はMiyaの復帰になる"
+    },
+    {
+      "start": 1.58,
+      "end": 3.38,
+      "text": "Recovery aside",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "復帰はともかく"
+    },
+    {
+      "start": 3.38,
+      "end": 4.2,
+      "text": "This ledge",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "この崖を"
+    },
+    {
+      "start": 4.2,
+      "end": 8.18,
+      "text": "Forward smash",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "横スマッシュ"
+    },
+    {
+      "start": 8.18,
+      "end": 10.06,
+      "text": "Threw it out once",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ひとまず一回振っていった"
+    },
+    {
+      "start": 10.06,
+      "end": 10.86,
+      "text": "How about here?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここでどうだ"
+    },
+    {
+      "start": 10.86,
+      "end": 13.22,
+      "text": "Dash attack through the move and slides in underneath",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "DAで技を避けながら潜り込んできた"
+    },
+    {
+      "start": 13.22,
+      "end": 14.64,
+      "text": "Directional airdodge to ledge",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "移動回避で崖に行きます"
+    },
+    {
+      "start": 14.64,
+      "end": 15.54,
+      "text": "Too clean!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "うますぎる"
+    }
+  ],
+  "full_text": "Out now, here comes Miya's recovery! Recovery aside this ledge forward smash threw it out once how about here? Dash attack through the move and slides in underneath directional airdodge to ledge too clean!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "ミーヤー",
+      "corrected": "Miya",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 6,
+      "original": "株",
+      "corrected": "技",
+      "rule": "kanji homophone (かぶ→わざ)"
+    }
+  ]
+}

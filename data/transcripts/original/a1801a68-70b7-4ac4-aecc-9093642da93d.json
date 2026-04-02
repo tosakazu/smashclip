@@ -1,0 +1,63 @@
+{
+  "id": "a1801a68-70b7-4ac4-aecc-9093642da93d",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.58,
+      "text": "空中ニュートラルでちゃんと外のランクをして",
+      "language": "ja"
+    },
+    {
+      "start": 2.58,
+      "end": 4.42,
+      "text": "空後を合わせづらくしましたね",
+      "language": "ja"
+    },
+    {
+      "start": 4.42,
+      "end": 6.88,
+      "text": "しっかりと対応してくるような動き",
+      "language": "ja"
+    },
+    {
+      "start": 6.88,
+      "end": 7.92,
+      "text": "やっぱり時間を",
+      "language": "ja"
+    },
+    {
+      "start": 7.92,
+      "end": 8.64,
+      "text": "空後",
+      "language": "ja"
+    },
+    {
+      "start": 8.64,
+      "end": 9.72,
+      "text": "時間をねただ",
+      "language": "ja"
+    }
+  ],
+  "full_text": "空中ニュートラルでちゃんと外のランクをして 空後を合わせづらくしましたね しっかりと対応してくるような動き やっぱり時間を 空後 時間をねただ",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "ニュータル",
+      "corrected": "ニュートラル",
+      "rule": "EN term spelling"
+    },
+    {
+      "segment_idx": 2,
+      "original": "してくれような",
+      "corrected": "してくるような",
+      "rule": "transcription error"
+    },
+    {
+      "segment_idx": 4,
+      "original": "空中しろ",
+      "corrected": "空後",
+      "rule": "move abbreviation (back air)"
+    }
+  ]
+}

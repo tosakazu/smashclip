@@ -1,0 +1,49 @@
+{
+  "id": "4648ff9b-8717-45a1-b57c-04778c34dd82",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.16,
+      "text": "Reading the timing with fair into up air spacing...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空中前までタイミング見てからの空中上置きだったんですが"
+    },
+    {
+      "start": 3.16,
+      "end": 5.22,
+      "text": "Barely holding on!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ギリギリ耐えている"
+    },
+    {
+      "start": 5.22,
+      "end": 7.74,
+      "text": "So is it the up after all, not horizontal?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあやはり横よりも上なのか"
+    },
+    {
+      "start": 7.74,
+      "end": 8.94,
+      "text": "No, that was the dash attack!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いやダッシュ攻撃横だ"
+    },
+    {
+      "start": 8.94,
+      "end": 11.64,
+      "text": "Either way, bair's the KO!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "どっちの撃墜落とす空中後ろ横だ"
+    }
+  ],
+  "full_text": "Reading the timing with fair into up air spacing... Barely holding on! So is it the up after all, not horizontal? No, that was the dash attack! Either way, bair's the KO!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

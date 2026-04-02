@@ -1,0 +1,48 @@
+{
+  "id": "15c8eb6b-6fab-409b-9449-627dfeb70da7",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.78,
+      "text": "161%",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "161%"
+    },
+    {
+      "start": 2.78,
+      "end": 5.0,
+      "text": "Going for the grab",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "つかみを狙う"
+    },
+    {
+      "start": 5.0,
+      "end": 7.5,
+      "text": "And there's the fair!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そしてここは空前"
+    },
+    {
+      "start": 7.5,
+      "end": 9.72,
+      "text": "That's it!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "最後"
+    }
+  ],
+  "full_text": "161% Going for the grab And there's the fair! That's it!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "そしてここは空中前",
+      "corrected": "そしてここは空前",
+      "rule": "Move abbreviation: 空中前→空前"
+    }
+  ]
+}

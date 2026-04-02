@@ -1,0 +1,38 @@
+{
+  "id": "a6b6c7b5-8377-43a5-a9af-0cafc94497ed",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.4,
+      "text": "そしてボウリングが噛み合って",
+      "language": "ja"
+    },
+    {
+      "start": 2.4,
+      "end": 3.68,
+      "text": "おっと苦しくなってきた",
+      "language": "ja"
+    },
+    {
+      "start": 3.68,
+      "end": 6.32,
+      "text": "今度は粘りを見せるkept",
+      "language": "ja"
+    },
+    {
+      "start": 6.32,
+      "end": 8.26,
+      "text": "おっとうま",
+      "language": "ja"
+    }
+  ],
+  "full_text": "そしてボウリングが噛み合って おっと苦しくなってきた 今度は粘りを見せるkept おっとうま",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "original": "ケプト",
+      "corrected": "kept",
+      "reason": "プレイヤー名kept"
+    }
+  ]
+}

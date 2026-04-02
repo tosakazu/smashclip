@@ -1,0 +1,32 @@
+{
+  "id": "b51cac74-b18b-4f58-a077-08ae86adea89",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.76,
+      "text": "KO hit! That was the read on being able to set that up, but...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "あって撃墜 これは腹式呼吸ためれるんじゃないかなという判断だったんですが"
+    },
+    {
+      "start": 6.76,
+      "end": 10.72,
+      "text": "Positioning that move there—Player Y's decision was really solid!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そこに輪の炎をね 置けていたYンの判断が良かったですね"
+    }
+  ],
+  "full_text": "KO hit! That was the read on being able to set that up, but... Positioning that move there—Player Y's decision was really solid!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "ワインの判断",
+      "corrected": "Yンの判断",
+      "rule": "player name"
+    }
+  ]
+}

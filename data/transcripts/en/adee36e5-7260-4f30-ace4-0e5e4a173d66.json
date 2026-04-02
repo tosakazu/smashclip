@@ -1,0 +1,120 @@
+{
+  "id": "adee36e5-7260-4f30-ace4-0e5e4a173d66",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.68,
+      "text": "That was a perfectly read dodge!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "それも完全に理解したの回避読みでしたね"
+    },
+    {
+      "start": 2.68,
+      "end": 4.02,
+      "text": "Sonic player",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ソニックス選手"
+    },
+    {
+      "start": 4.02,
+      "end": 6.62,
+      "text": "Also reading the roll getup",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "回避上がりもしっかり確認していて"
+    },
+    {
+      "start": 6.62,
+      "end": 7.86,
+      "text": "Can he make it in time?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあ間に合うか"
+    },
+    {
+      "start": 7.86,
+      "end": 8.92,
+      "text": "Up smash connects!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "上スマが当たった"
+    },
+    {
+      "start": 8.92,
+      "end": 9.88,
+      "text": "Incredible!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "すごい"
+    },
+    {
+      "start": 9.88,
+      "end": 11.74,
+      "text": "Barely survives, but...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "九死に一生を得たけど"
+    },
+    {
+      "start": 11.74,
+      "end": 13.64,
+      "text": "But pursuing the KO!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "だが撃墜を追う"
+    },
+    {
+      "start": 13.64,
+      "end": 16.2,
+      "text": "Perfect juggle too!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "着地狩りも完璧だ"
+    },
+    {
+      "start": 16.2,
+      "end": 17.8,
+      "text": "There's the dodge!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "あれ回避"
+    }
+  ],
+  "full_text": "That was a perfectly read dodge! Sonic player Also reading the roll getup Can he make it in time? Up smash connects! Incredible! Barely survives, but... But pursuing the KO! Perfect juggle too! There's the dodge!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "トニックス選手",
+      "corrected": "ソニックス選手",
+      "rule": "player name (Sonix)"
+    },
+    {
+      "segment_idx": 3,
+      "original": "さあマニが来る",
+      "corrected": "さあ間に合うか",
+      "rule": "homophone/mishearing"
+    },
+    {
+      "segment_idx": 4,
+      "original": "宇宙マイが取った",
+      "corrected": "上スマが当たった",
+      "rule": "move name (上スマ)"
+    },
+    {
+      "segment_idx": 6,
+      "original": "急死に一勝を得た賭け",
+      "corrected": "九死に一生を得たけど",
+      "rule": "idiom correction (九死に一生)"
+    },
+    {
+      "segment_idx": 7,
+      "original": "だが下キョース",
+      "corrected": "だが撃墜を追う",
+      "rule": "homophone/mishearing"
+    }
+  ]
+}

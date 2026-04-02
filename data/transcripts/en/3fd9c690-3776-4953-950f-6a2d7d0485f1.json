@@ -1,0 +1,56 @@
+{
+  "id": "3fd9c690-3776-4953-950f-6a2d7d0485f1",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.72,
+      "text": "He's in the air and the spacing flips!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "飛んだ そしてラインが入れ替わる"
+    },
+    {
+      "start": 1.72,
+      "end": 4.5,
+      "text": "With that recovery, they grab the ledge first, but...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ブレイズエンドを使って 崖にはまず掴まれるが"
+    },
+    {
+      "start": 4.5,
+      "end": 5.54,
+      "text": "Wait—what is that?!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "セビ これは?"
+    },
+    {
+      "start": 6.1,
+      "end": 7.4,
+      "text": "Still not connecting!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ウィスマシュアンド まだ当たらない"
+    },
+    {
+      "start": 7.4,
+      "end": 8.58,
+      "text": "But dair!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "しかし空中下"
+    }
+  ],
+  "full_text": "He's in the air and the spacing flips! With that recovery, they grab the ledge first, but... Wait—what is that?! Still not connecting! But dair!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "プレイスエンド",
+      "corrected": "ブレイズエンド",
+      "rule": "Pyra move name: Blazing End = ブレイズエンド"
+    }
+  ]
+}

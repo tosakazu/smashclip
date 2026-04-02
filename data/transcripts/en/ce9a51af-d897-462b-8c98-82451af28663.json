@@ -1,0 +1,48 @@
+{
+  "id": "ce9a51af-d897-462b-8c98-82451af28663",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.78,
+      "text": "Barely makes it back!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "なんとか着地できた"
+    },
+    {
+      "start": 1.78,
+      "end": 3.38,
+      "text": "The grab connects!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "掴みは通れ"
+    },
+    {
+      "start": 3.38,
+      "end": 6.84,
+      "text": "With the lead, Steve's grabs are guaranteed!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "リードを取ったスティーブの掴みはもはや必中だ"
+    },
+    {
+      "start": 6.84,
+      "end": 8.18,
+      "text": "The anvil's ground hitbox",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "金床の地上判定"
+    }
+  ],
+  "full_text": "Barely makes it back! The grab connects! With the lead, Steve's grabs are guaranteed! The anvil's ground hitbox",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 3,
+      "original": "金子の地上反転",
+      "corrected": "金床の地上判定",
+      "rule": "smash term (金床=anvil, 判定=hitbox)"
+    }
+  ]
+}

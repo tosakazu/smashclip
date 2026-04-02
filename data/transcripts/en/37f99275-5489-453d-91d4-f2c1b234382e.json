@@ -1,0 +1,65 @@
+{
+  "id": "37f99275-5489-453d-91d4-f2c1b234382e",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.14,
+      "text": "That helps!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "助けてくれる"
+    },
+    {
+      "start": 1.14,
+      "end": 2.88,
+      "text": "That risky play is paying off!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "危険が効いている"
+    },
+    {
+      "start": 2.88,
+      "end": 6.44,
+      "text": "Without landing the projectile, it's hard to tell if they can pull it off",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "弾撃入れないとやれるか分かりにくい"
+    },
+    {
+      "start": 6.44,
+      "end": 7.86,
+      "text": "Alright!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあ"
+    },
+    {
+      "start": 7.86,
+      "end": 8.86,
+      "text": "Cutting it close!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ちょっとカット"
+    },
+    {
+      "start": 8.86,
+      "end": 10.54,
+      "text": "Right here!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここは今"
+    },
+    {
+      "start": 10.54,
+      "end": 11.54,
+      "text": "That's a KO!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここは撃墜"
+    }
+  ],
+  "full_text": "That helps! That risky play is paying off! Without landing the projectile, it's hard to tell if they can pull it off Alright! Cutting it close! Right here! That's a KO!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

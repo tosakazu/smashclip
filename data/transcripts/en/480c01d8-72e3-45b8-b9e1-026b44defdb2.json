@@ -1,0 +1,49 @@
+{
+  "id": "480c01d8-72e3-45b8-b9e1-026b44defdb2",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.94,
+      "text": "Like, that's a spacing-focused fighter...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "あのーキングファイターですよね"
+    },
+    {
+      "start": 1.94,
+      "end": 6.16,
+      "text": "Basically grinding the shield with that sword tip and keeping them away...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "あのーとにかく剣の先端でガード削って近づかせないようにして"
+    },
+    {
+      "start": 6.16,
+      "end": 6.98,
+      "text": "That's the dynamic, right?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "って感じですよね"
+    },
+    {
+      "start": 6.98,
+      "end": 9.02,
+      "text": "Well, one thing that's different is...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "まあ一つ違うのは"
+    },
+    {
+      "start": 9.02,
+      "end": 10.08,
+      "text": "Oh, right here...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "おっとここは"
+    }
+  ],
+  "full_text": "Like, that's a spacing-focused fighter... Basically grinding the shield with that sword tip and keeping them away... That's the dynamic, right? Well, one thing that's different is... Oh, right here...",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

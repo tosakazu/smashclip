@@ -1,0 +1,49 @@
+{
+  "id": "68a1dc2a-9ad7-4ed4-90ae-eac3a17f6e13",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.1,
+      "text": "So when they grab the advantage state, they rack up damage",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "その分自分が展開取ったときのところで火力を取っていく"
+    },
+    {
+      "start": 5.1,
+      "end": 8.24,
+      "text": "They won't take risks in neutral",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "立ち回りでリスクを取ろうとしないっていう"
+    },
+    {
+      "start": 8.24,
+      "end": 10.3,
+      "text": "Really solid, consistent neutral game",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "安定した立ち回りに見えますね"
+    },
+    {
+      "start": 10.3,
+      "end": 14.86,
+      "text": "They're fine playing it safe unless there's a good payoff",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "リターンを取れる状況以外はローリターンでも構わない"
+    },
+    {
+      "start": 14.86,
+      "end": 18.24,
+      "text": "But at ledge, that's where they capitalize on the advantage",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ただこのリターンにつながる崖展開"
+    }
+  ],
+  "full_text": "So when they grab the advantage state, they rack up damage They won't take risks in neutral Really solid, consistent neutral game They're fine playing it safe unless there's a good payoff But at ledge, that's where they capitalize on the advantage",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

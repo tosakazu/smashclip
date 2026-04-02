@@ -1,0 +1,33 @@
+{
+  "id": "284b28f2-7a02-4c99-b573-7cfefbe83284",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.6,
+      "text": "another chance later on in this stock being able to continue it the chase down oh gets",
+      "language": "en"
+    },
+    {
+      "start": 5.6,
+      "end": 8.96,
+      "text": "grabbed instead the shot does miss out but the dash attack that's not safe",
+      "language": "en"
+    }
+  ],
+  "full_text": "another chance later on in this stock being able to continue it the chase down oh gets grabbed instead the shot does miss out but the dash attack that's not safe",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "in this dock",
+      "corrected": "in this stock",
+      "rule": "sock/dock→stock"
+    },
+    {
+      "segment_idx": 1,
+      "original": "the dash tag",
+      "corrected": "the dash attack",
+      "rule": "dash tag→dash attack"
+    }
+  ]
+}

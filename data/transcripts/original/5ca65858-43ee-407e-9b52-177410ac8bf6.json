@@ -1,0 +1,32 @@
+{
+  "id": "5ca65858-43ee-407e-9b52-177410ac8bf6",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.3,
+      "text": "硬さに磨きがかかれ",
+      "language": "ja"
+    },
+    {
+      "start": 2.3,
+      "end": 5.74,
+      "text": "心を鬼にさまち",
+      "language": "ja"
+    },
+    {
+      "start": 5.74,
+      "end": 7.04,
+      "text": "怒るわー",
+      "language": "ja"
+    },
+    {
+      "start": 7.04,
+      "end": 7.96,
+      "text": "バカ",
+      "language": "ja"
+    }
+  ],
+  "full_text": "硬さに磨きがかかれ 心を鬼にさまち 怒るわー バカ",
+  "detected_language": "ja",
+  "corrections": []
+}

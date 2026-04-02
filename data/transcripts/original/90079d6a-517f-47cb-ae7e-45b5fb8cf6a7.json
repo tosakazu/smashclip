@@ -1,0 +1,32 @@
+{
+  "id": "90079d6a-517f-47cb-ae7e-45b5fb8cf6a7",
+  "segments": [
+    {
+      "start": 0.66,
+      "end": 4.42,
+      "text": "The RSU was big enough to hit him even when he was below the platform.",
+      "language": "en"
+    },
+    {
+      "start": 6.1,
+      "end": 7.5,
+      "text": "I don't know, could it be another up throw?",
+      "language": "en"
+    },
+    {
+      "start": 7.68,
+      "end": 8.34,
+      "text": "We'll take it.",
+      "language": "en"
+    },
+    {
+      "start": 8.94,
+      "end": 10.68,
+      "text": "And now Ball is in a very, very...",
+      "language": "en"
+    }
+  ],
+  "full_text": "The RSU was big enough to hit him even when he was below the platform. I don't know, could it be another up throw? We'll take it. And now Ball is in a very, very...",
+  "detected_language": "en",
+  "corrections": []
+}

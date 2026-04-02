@@ -1,0 +1,86 @@
+{
+  "id": "573dc6bf-5d33-4ad6-a930-5d09a76a09d1",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.58,
+      "text": "Reads the dodge, but no jump!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "回避を見てジャンプもないぞ"
+    },
+    {
+      "start": 1.58,
+      "end": 3.42,
+      "text": "Oh, that's crisp!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いやー一閃"
+    },
+    {
+      "start": 3.42,
+      "end": 6.28,
+      "text": "Really wanted to finish that though...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ちょっと取り切りたかったんですが"
+    },
+    {
+      "start": 6.28,
+      "end": 7.98,
+      "text": "But the right read...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "うまくね正解の選択肢が"
+    },
+    {
+      "start": 7.98,
+      "end": 9.56,
+      "text": "...just didn't come in time",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "急には出てこなかった"
+    },
+    {
+      "start": 9.56,
+      "end": 11.88,
+      "text": "Well, that's the neutral game",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "まーべのコミュニケーション"
+    },
+    {
+      "start": 11.88,
+      "end": 12.54,
+      "text": "Four hits? Wow!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "4弾?えー"
+    },
+    {
+      "start": 12.54,
+      "end": 14.12,
+      "text": "Way too clean!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "うますぎて"
+    }
+  ],
+  "full_text": "Reads the dodge, but no jump! Oh, that's crisp! Really wanted to finish that though... But the right read... ...just didn't come in time. Well, that's the neutral game. Four hits? Wow! Way too clean!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "いやー一戦",
+      "corrected": "いやー一閃",
+      "rule": "kanji homophone (戦→閃)"
+    },
+    {
+      "segment_idx": 7,
+      "original": "まーすぎて",
+      "corrected": "うますぎて",
+      "rule": "misheard word"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "id": "2174fbb8-772b-4457-9552-95fe9f97088e",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.56,
+      "text": "Forward smash—Tumsutt with the timing shift!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "横スマッシュここでタイミングをずらしてきたツムスト"
+    },
+    {
+      "start": 2.56,
+      "end": 4.86,
+      "text": "Oh! Are they gonna be okay?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "おーっと大丈夫か"
+    },
+    {
+      "start": 4.86,
+      "end": 7.26,
+      "text": "Jump won't work...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ジャンプはねー"
+    },
+    {
+      "start": 7.26,
+      "end": 8.64,
+      "text": "Massive turnaround!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "大逆転"
+    },
+    {
+      "start": 8.64,
+      "end": 10.38,
+      "text": "Nair, nair—connects!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空N空Nある"
+    }
+  ],
+  "full_text": "Forward smash—Tumsutt with the timing shift! Oh! Are they gonna be okay? Jump won't work... Massive turnaround! Nair, nair—connects!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

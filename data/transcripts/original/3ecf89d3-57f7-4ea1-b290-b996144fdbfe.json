@@ -1,0 +1,56 @@
+{
+  "id": "3ecf89d3-57f7-4ea1-b290-b996144fdbfe",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.4,
+      "text": "Vamos a ir a Town and City, también arriesgado para Spargo,",
+      "language": "es"
+    },
+    {
+      "start": 3.5,
+      "end": 7.88,
+      "text": "porque este mapa, Cazuya, puede hacerte travesuras, ¿eh?",
+      "language": "es"
+    },
+    {
+      "start": 8.5,
+      "end": 10.62,
+      "text": "Aquí, 68 %.",
+      "language": "es"
+    },
+    {
+      "start": 11.32,
+      "end": 13.6,
+      "text": "Todavía del lado de Spargo.",
+      "language": "es"
+    },
+    {
+      "start": 15.94,
+      "end": 17.58,
+      "text": "Vamos allá, el jab que es bueno.",
+      "language": "es"
+    },
+    {
+      "start": 17.68,
+      "end": 20.06,
+      "text": "Spargo no le está dejando respirar al francés.",
+      "language": "es"
+    },
+    {
+      "start": 20.16,
+      "end": 22.64,
+      "text": "Vamos allá, le coge, le va a sacar y…",
+      "language": "es"
+    },
+    {
+      "start": 22.76,
+      "end": 25.6,
+      "text": "Aquí, eso… ¡Cuidado con el spike o el forwarder!",
+      "language": "es"
+    }
+  ],
+  "full_text": "Vamos a ir a Town and City, también arriesgado para Spargo, porque este mapa, Cazuya, puede hacerte travesuras, ¿eh? Aquí, 68 %. Todavía del lado de Spargo. Vamos allá, el jab que es bueno. Spargo no le está dejando respirar al francés. Vamos allá, le coge, le va a sacar y… Aquí, eso… ¡Cuidado con el spike o el forwarder!",
+  "detected_language": "es",
+  "corrections": []
+}

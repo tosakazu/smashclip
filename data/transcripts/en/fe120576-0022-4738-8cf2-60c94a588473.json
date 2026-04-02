@@ -1,0 +1,70 @@
+{
+  "id": "fe120576-0022-4738-8cf2-60c94a588473",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.16,
+      "text": "MuteAce comes back with the fair!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあ空中前に返してMuteAce"
+    },
+    {
+      "start": 2.16,
+      "end": 3.4,
+      "text": "Can they recover?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ストックを取り返せるかどうか"
+    },
+    {
+      "start": 3.4,
+      "end": 5.06,
+      "text": "The grab's being read a bit",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "少しつかみは読んでいる"
+    },
+    {
+      "start": 5.06,
+      "end": 8.34,
+      "text": "A mixup's developing!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "なんの読み合いが発生している"
+    },
+    {
+      "start": 8.34,
+      "end": 9.6,
+      "text": "One!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "一問"
+    },
+    {
+      "start": 9.6,
+      "end": 11.36,
+      "text": "There's no staling here, so...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これは相殺がないので"
+    }
+  ],
+  "full_text": "MuteAce comes back with the fair! Can they recover? The grab's being read a bit A mixup's developing! One! There's no staling here, so...",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "ミュートエース",
+      "corrected": "MuteAce",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 5,
+      "original": "作成がないので",
+      "corrected": "相殺がないので",
+      "rule": "kanji homophone: 作成→相殺"
+    }
+  ]
+}

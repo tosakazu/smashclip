@@ -1,0 +1,27 @@
+{
+  "id": "d8947462-c65d-4b67-aae2-9416449298bb",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.76,
+      "text": "Exactly!",
+      "language": "en"
+    },
+    {
+      "start": 0.76,
+      "end": 10.96,
+      "text": "Yamanaction has a lot of resources as well, all of a sudden what was looking a really good game for Leo is now kind of creeping up in Yamanaction's favor and I mean that not in terms of the damage or the fact that Leo",
+      "language": "en"
+    }
+  ],
+  "full_text": "Exactly! Yamanaction has a lot of resources as well, all of a sudden what was looking a really good game for Leo is now kind of creeping up in Yamanaction's favor and I mean that not in terms of the damage or the fact that Leo",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "YamanAction has a lot of resources as well, all of a sudden what was looking a really good game for Leo is now kind of creeping up in YamanAction's favor and I mean that not in terms of the damage or the fact that Leo",
+      "corrected": "Yamanaction has a lot of resources as well, all of a sudden what was looking a really good game for Leo is now kind of creeping up in Yamanaction's favor and I mean that not in terms of the damage or the fact that Leo",
+      "rule": "player name"
+    }
+  ]
+}

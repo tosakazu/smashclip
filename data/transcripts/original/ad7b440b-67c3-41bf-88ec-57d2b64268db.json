@@ -1,0 +1,51 @@
+{
+  "id": "ad7b440b-67c3-41bf-88ec-57d2b64268db",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.8,
+      "text": "3回目",
+      "language": "ja"
+    },
+    {
+      "start": 0.8,
+      "end": 2.72,
+      "text": "空Nの一速も置いて",
+      "language": "ja"
+    },
+    {
+      "start": 2.72,
+      "end": 4.9,
+      "text": "なかなか着地を通すことができない",
+      "language": "ja"
+    },
+    {
+      "start": 4.9,
+      "end": 5.96,
+      "text": "下スマッシュホールド",
+      "language": "ja"
+    },
+    {
+      "start": 5.96,
+      "end": 7.8,
+      "text": "毎回引きに当たって",
+      "language": "ja"
+    },
+    {
+      "start": 7.8,
+      "end": 8.98,
+      "text": "上に行けと",
+      "language": "ja"
+    }
+  ],
+  "full_text": "3回目 空Nの一速も置いて なかなか着地を通すことができない 下スマッシュホールド 毎回引きに当たって 上に行けと",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "クエの一族もおいて",
+      "corrected": "空Nの一速も置いて",
+      "rule": "Move: クエ→空N"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "id": "3f57c7c9-899f-40b6-a662-f952bf7b2a4a",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.36,
+      "text": "分かる分かる、やりやすさが違ってきますからね",
+      "language": "ja"
+    },
+    {
+      "start": 3.36,
+      "end": 4.72,
+      "text": "上強始めのコンボが入って",
+      "language": "ja"
+    },
+    {
+      "start": 4.72,
+      "end": 6.72,
+      "text": "着位置でおうかがいを立てて",
+      "language": "ja"
+    },
+    {
+      "start": 7.08,
+      "end": 7.58,
+      "text": "いきますか!",
+      "language": "ja"
+    },
+    {
+      "start": 7.58,
+      "end": 9.54,
+      "text": "上B着地狩りヒット!",
+      "language": "ja"
+    }
+  ],
+  "full_text": "分かる分かる、やりやすさが違ってきますからね 上強始めのコンボが入って 着位置でおうかがいを立てて いきますか! 上B着地狩りヒット!",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "上ツマシルめのコンボ",
+      "corrected": "上強始めのコンボ",
+      "rule": "Smash term: 上強 (up tilt) + 始め (starting with)"
+    },
+    {
+      "segment_idx": 4,
+      "original": "上キロ",
+      "corrected": "上B",
+      "rule": "Smash move: Luigi's 上B (up special)"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "555a4938-1149-4799-8131-a095c82949dc",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.16,
+      "text": "Neo connects the up air tipper twice and maintains the advantage!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあ空中上先端をうまく2回当てて展開継続はネオが握っています"
+    },
+    {
+      "start": 4.16,
+      "end": 7.04,
+      "text": "The range on this aerial is absolutely incredible!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空中でこれは素晴らしいカバー範囲が非常に広い"
+    }
+  ],
+  "full_text": "Neo connects the up air tipper twice and maintains the advantage! The range on this aerial is absolutely incredible!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "空中城先端",
+      "corrected": "空中上先端",
+      "rule": "kanji homophone (城→上)"
+    }
+  ]
+}

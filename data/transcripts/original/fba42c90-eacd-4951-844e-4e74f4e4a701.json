@@ -1,0 +1,75 @@
+{
+  "id": "fba42c90-eacd-4951-844e-4e74f4e4a701",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.82,
+      "text": "ホムラに変えて",
+      "language": "ja"
+    },
+    {
+      "start": 1.82,
+      "end": 3.76,
+      "text": "プレッシャーかかるブレイク戦に引っかかって",
+      "language": "ja"
+    },
+    {
+      "start": 3.76,
+      "end": 6.42,
+      "text": "掴みを通して受け身を弱でまずはというところ",
+      "language": "ja"
+    },
+    {
+      "start": 6.42,
+      "end": 8.02,
+      "text": "しかし暴れて昇竜拳",
+      "language": "ja"
+    },
+    {
+      "start": 8.02,
+      "end": 9.34,
+      "text": "マジか",
+      "language": "ja"
+    },
+    {
+      "start": 9.34,
+      "end": 11.24,
+      "text": "あそこちゃんとコンボレートに行けるんですね",
+      "language": "ja"
+    },
+    {
+      "start": 11.24,
+      "end": 12.32,
+      "text": "技を振れる",
+      "language": "ja"
+    }
+  ],
+  "full_text": "ホムラに変えて プレッシャーかかるブレイク戦に引っかかって 掴みを通して受け身を弱でまずはというところ しかし暴れて昇竜拳 マジか あそこちゃんとコンボレートに行けるんですね 技を振れる",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "コムラ",
+      "corrected": "ホムラ",
+      "rule": "character name: コムラ→ホムラ (Pyra)"
+    },
+    {
+      "segment_idx": 2,
+      "original": "クミを通して",
+      "corrected": "掴みを通して",
+      "rule": "misheard"
+    },
+    {
+      "segment_idx": 5,
+      "original": "クーレットに行ける",
+      "corrected": "コンボレートに行ける",
+      "rule": "misheard"
+    },
+    {
+      "segment_idx": 6,
+      "original": "技を触れる",
+      "corrected": "技を振れる",
+      "rule": "kanji: 触れる→振れる"
+    }
+  ]
+}

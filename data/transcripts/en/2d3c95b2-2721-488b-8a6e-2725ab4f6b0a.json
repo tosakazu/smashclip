@@ -1,0 +1,20 @@
+{
+  "id": "2d3c95b2-2721-488b-8a6e-2725ab4f6b0a",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.86,
+      "text": "Oh no, you don't know how this song goes, I don't like how this song goes!",
+      "language": "en"
+    },
+    {
+      "start": 3.06,
+      "end": 8.18,
+      "text": "Woah, and he's gonna air that just to perfect me, exactly know what to do, and refocus.",
+      "language": "en"
+    }
+  ],
+  "full_text": "Oh no, you don't know how this song goes, I don't like how this song goes! Woah, and he's gonna air that just to perfect me, exactly know what to do, and refocus.",
+  "detected_language": "en",
+  "corrections": []
+}

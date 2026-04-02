@@ -1,0 +1,51 @@
+{
+  "id": "398c5f78-c4fd-4459-adbd-78d009f09544",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.04,
+      "text": "Love smash immediately. I mean that caught him off guard because he's never done that",
+      "language": "en"
+    },
+    {
+      "start": 4.62,
+      "end": 8.0,
+      "text": "That pressure uses the peach bomber to get Luma out of there",
+      "language": "en"
+    },
+    {
+      "start": 8.0,
+      "end": 13.6,
+      "text": "But still the pressure is still there still thriving you see Samsora struggling to get out of this corner again",
+      "language": "en"
+    },
+    {
+      "start": 13.86,
+      "end": 18.48,
+      "text": "Sends a flying 143 percent off stage the Dabuz looking for this up air potential downer goes off",
+      "language": "en"
+    },
+    {
+      "start": 18.78,
+      "end": 25.82,
+      "text": "Yes, the spike does not allow him to go back onto the stage. We have ourselves a game five. You know you called it off",
+      "language": "en"
+    }
+  ],
+  "full_text": "Love smash immediately. I mean that caught him off guard because he's never done that That pressure uses the peach bomber to get Luma out of there But still the pressure is still there still thriving you see Samsora struggling to get out of this corner again Sends a flying 143 percent off stage the Dabuz looking for this up air potential downer goes off Yes, the spike does not allow him to go back onto the stage. We have ourselves a game five. You know you called it off",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "Sam sores",
+      "corrected": "Samsora",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 3,
+      "original": "the buzz",
+      "corrected": "the Dabuz",
+      "rule": "player name"
+    }
+  ]
+}

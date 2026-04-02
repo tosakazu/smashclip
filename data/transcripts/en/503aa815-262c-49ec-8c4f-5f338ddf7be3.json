@@ -1,0 +1,166 @@
+{
+  "id": "503aa815-262c-49ec-8c4f-5f338ddf7be3",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.38,
+      "text": "Already in kill zone",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "もう撃墜帯ですよ"
+    },
+    {
+      "start": 1.38,
+      "end": 2.54,
+      "text": "But",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "だが"
+    },
+    {
+      "start": 2.54,
+      "end": 3.14,
+      "text": "No way",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "まさかね"
+    },
+    {
+      "start": 3.14,
+      "end": 4.04,
+      "text": "No way",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "まさかね"
+    },
+    {
+      "start": 4.04,
+      "end": 4.3,
+      "text": "Just a bit",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ちょっと"
+    },
+    {
+      "start": 4.3,
+      "end": 6.64,
+      "text": "Every time straight down off-stage",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "崖外で真下に行くたびに"
+    },
+    {
+      "start": 6.64,
+      "end": 7.54,
+      "text": "Because of the down air",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "もう空下によって"
+    },
+    {
+      "start": 7.54,
+      "end": 8.38,
+      "text": "That's crazy",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "まさかねってなる"
+    },
+    {
+      "start": 8.38,
+      "end": 9.08,
+      "text": "No way",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "まさかね"
+    },
+    {
+      "start": 9.08,
+      "end": 9.72,
+      "text": "This",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "この"
+    },
+    {
+      "start": 9.72,
+      "end": 10.5,
+      "text": "Heat",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "熱"
+    },
+    {
+      "start": 10.5,
+      "end": 12.1,
+      "text": "But they're aware and catching up",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いやーでも気づいて追いついてる"
+    },
+    {
+      "start": 12.1,
+      "end": 13.16,
+      "text": "Once they notice",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そう気づけば"
+    },
+    {
+      "start": 13.16,
+      "end": 14.16,
+      "text": "In the juggle",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "着地狩り展開で"
+    },
+    {
+      "start": 14.16,
+      "end": 14.96,
+      "text": "It's 100%",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "あっても100%"
+    },
+    {
+      "start": 14.96,
+      "end": 15.34,
+      "text": "Oh!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "おー"
+    },
+    {
+      "start": 15.34,
+      "end": 16.4,
+      "text": "This is rough",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "まずいですよ"
+    },
+    {
+      "start": 16.4,
+      "end": 17.5,
+      "text": "Rough, rough",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "まずいまずい"
+    }
+  ],
+  "full_text": "Already in kill zone But No way No way Just a bit Every time straight down off-stage Because of the down air That's crazy No way This Heat But they're aware and catching up Once they notice In the juggle It's 100% Oh! This is rough Rough, rough",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "撃墜体",
+      "corrected": "撃墜帯",
+      "rule": "kanji homophone: 体→帯"
+    },
+    {
+      "segment_idx": 6,
+      "original": "空下がによって",
+      "corrected": "空下によって",
+      "rule": "typo fix"
+    }
+  ]
+}

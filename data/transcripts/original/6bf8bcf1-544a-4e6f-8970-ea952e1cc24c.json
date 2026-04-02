@@ -1,0 +1,27 @@
+{
+  "id": "6bf8bcf1-544a-4e6f-8970-ea952e1cc24c",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.06,
+      "text": "回避をドクターグーパン自分に当たらなくてよかったというべきか",
+      "language": "ja"
+    },
+    {
+      "start": 5.06,
+      "end": 5.92,
+      "text": "判断",
+      "language": "ja"
+    }
+  ],
+  "full_text": "回避をドクターグーパン自分に当たらなくてよかったというべきか 判断",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "当てにならなくて",
+      "corrected": "に当たらなくて",
+      "rule": "Whisper mishearing"
+    }
+  ]
+}

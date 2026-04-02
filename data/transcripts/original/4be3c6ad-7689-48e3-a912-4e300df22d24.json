@@ -1,0 +1,32 @@
+{
+  "id": "4be3c6ad-7689-48e3-a912-4e300df22d24",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.86,
+      "text": "高めていると言っていいような",
+      "language": "ja"
+    },
+    {
+      "start": 1.86,
+      "end": 3.98,
+      "text": "先ほどからトライはしてるんですけどもね",
+      "language": "ja"
+    },
+    {
+      "start": 3.98,
+      "end": 8.14,
+      "text": "さあ我慢強く我慢強く",
+      "language": "ja"
+    },
+    {
+      "start": 8.14,
+      "end": 9.32,
+      "text": "撃墜強いここですね",
+      "language": "ja"
+    }
+  ],
+  "full_text": "高めていると言っていいような 先ほどからトライはしてるんですけどもね さあ我慢強く我慢強く 撃墜強いここですね",
+  "detected_language": "ja",
+  "corrections": []
+}

@@ -1,0 +1,51 @@
+{
+  "id": "01595dce-e6ad-4350-b170-37ecd20032d4",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 10.18,
+      "text": "ガーキャン上Bで反撃して",
+      "language": "ja"
+    },
+    {
+      "start": 10.18,
+      "end": 11.96,
+      "text": "このまま撃墜しないと",
+      "language": "ja"
+    },
+    {
+      "start": 11.96,
+      "end": 13.48,
+      "text": "シモンとしては",
+      "language": "ja"
+    },
+    {
+      "start": 13.48,
+      "end": 14.84,
+      "text": "まずいと",
+      "language": "ja"
+    },
+    {
+      "start": 14.84,
+      "end": 18.34,
+      "text": "なぜなら一発の火力が非常に強力",
+      "language": "ja"
+    },
+    {
+      "start": 18.34,
+      "end": 20.34,
+      "text": "この展開は",
+      "language": "ja"
+    }
+  ],
+  "full_text": "ガーキャン上Bで反撃して このまま撃墜しないと シモンとしては まずいと なぜなら一発の火力が非常に強力 この展開は",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "ガーギャンウェビで反撃して",
+      "corrected": "ガーキャン上Bで反撃して",
+      "rule": "misheard term"
+    }
+  ]
+}

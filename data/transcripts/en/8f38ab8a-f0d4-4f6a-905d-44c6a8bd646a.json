@@ -1,0 +1,21 @@
+{
+  "id": "8f38ab8a-f0d4-4f6a-905d-44c6a8bd646a",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 7.6,
+      "text": "on the juggles insanely powerful all right dude what like zackray just looks so damn comfortable",
+      "language": "en"
+    }
+  ],
+  "full_text": "on the juggles insanely powerful all right dude what like zackray just looks so damn comfortable",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "zach gray",
+      "corrected": "zackray",
+      "rule": "player name"
+    }
+  ]
+}

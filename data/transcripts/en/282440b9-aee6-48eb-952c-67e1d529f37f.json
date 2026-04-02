@@ -1,0 +1,89 @@
+{
+  "id": "282440b9-aee6-48eb-952c-67e1d529f37f",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "text": "Huh?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "え?"
+    },
+    {
+      "start": 3.0,
+      "end": 4.0,
+      "text": "He's dropping it!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "落としてる"
+    },
+    {
+      "start": 4.0,
+      "end": 5.0,
+      "text": "He read the jump!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "お前、ジャンプ読んで"
+    },
+    {
+      "start": 5.0,
+      "end": 7.0,
+      "text": "Jump read bair!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ジャンプ読み空後"
+    },
+    {
+      "start": 7.0,
+      "end": 9.0,
+      "text": "Dodge!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ドッジや"
+    },
+    {
+      "start": 9.0,
+      "end": 11.0,
+      "text": "There's definitely a dodge!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "表示ドッジあるんじゃない?"
+    },
+    {
+      "start": 11.0,
+      "end": 13.0,
+      "text": "Down dodge doesn't have the pink yet, does it?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ドッジ下はまだピンクとかないでしょ"
+    },
+    {
+      "start": 15.0,
+      "end": 16.0,
+      "text": "Keep it up!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "増やして"
+    },
+    {
+      "start": 16.0,
+      "end": 17.0,
+      "text": "Oh man, that's perfect!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "うわぁ完璧や"
+    },
+    {
+      "start": 17.0,
+      "end": 18.0,
+      "text": "6%",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "6%"
+    }
+  ],
+  "full_text": "Huh? He's dropping it! He read the jump! Jump read bair! Dodge! There's definitely a dodge! Down dodge doesn't have the pink yet, does it? Keep it up! Oh man, that's perfect! 6%",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

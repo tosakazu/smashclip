@@ -1,0 +1,32 @@
+{
+  "id": "7dd87f7d-dbf5-4ad2-a0ec-d67d7d50eb3f",
+  "segments": [
+    {
+      "start": 1.0,
+      "end": 5.06,
+      "text": "Light in a good position, he's managed to avoid the big combos, that has been critical.",
+      "language": "en"
+    },
+    {
+      "start": 5.16,
+      "end": 7.46,
+      "text": "Remember last time, there were two touch of deaths.",
+      "language": "en"
+    },
+    {
+      "start": 7.68,
+      "end": 11.66,
+      "text": "So far there have been zero, and look at how much different the game looks as a result!",
+      "language": "en"
+    },
+    {
+      "start": 11.9,
+      "end": 12.92,
+      "text": "Does that count as a touch of death?",
+      "language": "en"
+    }
+  ],
+  "full_text": "Light in a good position, he's managed to avoid the big combos, that has been critical. Remember last time, there were two touch of deaths. So far there have been zero, and look at how much different the game looks as a result! Does that count as a touch of death?",
+  "detected_language": "en",
+  "corrections": []
+}

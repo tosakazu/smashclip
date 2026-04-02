@@ -1,0 +1,21 @@
+{
+  "id": "f37ba40c-6216-42ae-b7b3-8f2eaeef6bdb",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.68,
+      "text": "well that tech check is very hard to hit and react to right as well as down air even if you are on the ground since down air",
+      "language": "en"
+    }
+  ],
+  "full_text": "well that tech check is very hard to hit and react to right as well as down air even if you are on the ground since down air",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "type check",
+      "corrected": "tech check",
+      "rule": "smash term: type→tech"
+    }
+  ]
+}

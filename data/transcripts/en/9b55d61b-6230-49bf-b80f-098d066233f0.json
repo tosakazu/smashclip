@@ -1,0 +1,40 @@
+{
+  "id": "9b55d61b-6230-49bf-b80f-098d066233f0",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.22,
+      "text": "Retaliating with spacing!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "仕返しで植木を置いています"
+    },
+    {
+      "start": 1.22,
+      "end": 5.46,
+      "text": "Back air! That's insane!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空後?やっぶねー"
+    },
+    {
+      "start": 5.46,
+      "end": 6.76,
+      "text": "But even if he dodges...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いやしかし回避しても"
+    }
+  ],
+  "full_text": "Retaliating with spacing! Back air! That's insane! But even if he dodges...",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "空中射",
+      "corrected": "空後",
+      "rule": "move abbreviation"
+    }
+  ]
+}

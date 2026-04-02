@@ -1,0 +1,45 @@
+{
+  "id": "055382fa-0111-4678-afdd-98e557e6acb5",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.28,
+      "text": "これになった時にバイクが有効活用できてないですからね",
+      "language": "ja"
+    },
+    {
+      "start": 2.28,
+      "end": 3.08,
+      "text": "そうなんですよ",
+      "language": "ja"
+    },
+    {
+      "start": 3.08,
+      "end": 4.76,
+      "text": "移動回避",
+      "language": "ja"
+    },
+    {
+      "start": 4.76,
+      "end": 8.72,
+      "text": "ギリギリワリオに触られない空中慣性のつき方ですが",
+      "language": "ja"
+    },
+    {
+      "start": 8.72,
+      "end": 10.04,
+      "text": "ダメのクーマへ",
+      "language": "ja"
+    }
+  ],
+  "full_text": "これになった時にバイクが有効活用できてないですからね そうなんですよ 移動回避 ギリギリワリオに触られない空中慣性のつき方ですが ダメのクーマへ",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 3,
+      "original": "空中感性のつき方ですが",
+      "corrected": "空中慣性のつき方ですが",
+      "rule": "kanji homophone"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "id": "59b4d9f4-2714-48d8-803d-2bd0a6a441b2",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.02,
+      "text": "ブロック出すが上B即座に離脱",
+      "language": "ja"
+    },
+    {
+      "start": 2.02,
+      "end": 3.88,
+      "text": "硬直差ないんでねカルメロは",
+      "language": "ja"
+    },
+    {
+      "start": 3.88,
+      "end": 5.84,
+      "text": "シェフから",
+      "language": "ja"
+    },
+    {
+      "start": 5.84,
+      "end": 7.52,
+      "text": "下スマッシュ横強",
+      "language": "ja"
+    }
+  ],
+  "full_text": "ブロック出すが上B即座に離脱 硬直差ないんでねカルメロは シェフから 下スマッシュ横強",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "ブーシュタイスが",
+      "corrected": "ブロック出すが",
+      "rule": "misheard word"
+    },
+    {
+      "segment_idx": 1,
+      "original": "硬直さないんでねクエルは",
+      "corrected": "硬直差ないんでねカルメロは",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 2,
+      "original": "シェフカー",
+      "corrected": "シェフから",
+      "rule": "misheard word"
+    }
+  ]
+}

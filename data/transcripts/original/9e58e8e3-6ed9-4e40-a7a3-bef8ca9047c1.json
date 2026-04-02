@@ -1,0 +1,26 @@
+{
+  "id": "9e58e8e3-6ed9-4e40-a7a3-bef8ca9047c1",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.42,
+      "text": "As a result, Aya Lin is just in full control here, Cass.",
+      "language": "en"
+    },
+    {
+      "start": 5.08,
+      "end": 6.04,
+      "text": "Absolutely, yeah.",
+      "language": "en"
+    },
+    {
+      "start": 6.62,
+      "end": 10.58,
+      "text": "Once again, looking to the edgeguard, but Sora is not an easy character to edgeguard.",
+      "language": "en"
+    }
+  ],
+  "full_text": "As a result, Aya Lin is just in full control here, Cass. Absolutely, yeah. Once again, looking to the edgeguard, but Sora is not an easy character to edgeguard.",
+  "detected_language": "en",
+  "corrections": []
+}

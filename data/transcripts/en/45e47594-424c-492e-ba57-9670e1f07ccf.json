@@ -1,0 +1,26 @@
+{
+  "id": "45e47594-424c-492e-ba57-9670e1f07ccf",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.08,
+      "text": "And he doesn't want to find himself on the receiving end.",
+      "language": "en"
+    },
+    {
+      "start": 2.7,
+      "end": 5.04,
+      "text": "There's a lot of uncomfortability going on here.",
+      "language": "en"
+    },
+    {
+      "start": 5.14,
+      "end": 7.64,
+      "text": "Because you see that's the second time he actually threw out the F-tilt.",
+      "language": "en"
+    }
+  ],
+  "full_text": "And he doesn't want to find himself on the receiving end. There's a lot of uncomfortability going on here. Because you see that's the second time he actually threw out the F-tilt.",
+  "detected_language": "en",
+  "corrections": []
+}

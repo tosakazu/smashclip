@@ -1,0 +1,32 @@
+{
+  "id": "4037bbde-0d34-49f3-accd-2c43ff4b5c45",
+  "segments": [
+    {
+      "start": 0.62,
+      "end": 2.02,
+      "text": "ここは崖を掴んだ",
+      "language": "ja"
+    },
+    {
+      "start": 2.02,
+      "end": 6.96,
+      "text": "攻撃引きかかりに対して復讐しろ",
+      "language": "ja"
+    },
+    {
+      "start": 6.96,
+      "end": 9.76,
+      "text": "うん",
+      "language": "ja"
+    },
+    {
+      "start": 9.76,
+      "end": 11.24,
+      "text": "ここはタイミングをずらし",
+      "language": "ja"
+    }
+  ],
+  "full_text": "ここは崖を掴んだ 攻撃引きかかりに対して復讐しろ うん ここはタイミングをずらし",
+  "detected_language": "ja",
+  "corrections": []
+}

@@ -1,0 +1,45 @@
+{
+  "id": "8d13dff4-1a41-4503-82b3-2a58c51c8571",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.68,
+      "text": "That's something that Pikachu is so good at,",
+      "language": "en"
+    },
+    {
+      "start": 1.68,
+      "end": 4.56,
+      "text": "multi-hits, there, able to destroy the bombs",
+      "language": "en"
+    },
+    {
+      "start": 4.56,
+      "end": 6.32,
+      "text": "that can be so annoying in a lot of match-ups,",
+      "language": "en"
+    },
+    {
+      "start": 6.32,
+      "end": 7.88,
+      "text": "but Pikachu being able to do it,",
+      "language": "en"
+    },
+    {
+      "start": 7.88,
+      "end": 9.0,
+      "text": "and look at that, from down,",
+      "language": "en"
+    }
+  ],
+  "full_text": "That's something that Pikachu is so good at, multi-hits, there, able to destroy the bombs that can be so annoying in a lot of match-ups, but Pikachu being able to do it, and look at that, from down,",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "multi-kits",
+      "corrected": "multi-hits",
+      "rule": "misheard word"
+    }
+  ]
+}

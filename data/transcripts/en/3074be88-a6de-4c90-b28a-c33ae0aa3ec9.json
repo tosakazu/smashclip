@@ -1,0 +1,190 @@
+{
+  "id": "3074be88-a6de-4c90-b28a-c33ae0aa3ec9",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.96,
+      "text": "In a bad spot",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "許されない状態"
+    },
+    {
+      "start": 0.96,
+      "end": 2.48,
+      "text": "Luigi's aggressive play",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "らるルイージの"
+    },
+    {
+      "start": 2.48,
+      "end": 3.66,
+      "text": "Solid spacing",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "見張りが効いてる"
+    },
+    {
+      "start": 3.66,
+      "end": 4.46,
+      "text": "Spacing is locked down",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "見張りが効いてる"
+    },
+    {
+      "start": 4.46,
+      "end": 6.16,
+      "text": "Great platform placement",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いいところに壁がある"
+    },
+    {
+      "start": 6.16,
+      "end": 6.86,
+      "text": "And then",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そうして"
+    },
+    {
+      "start": 6.86,
+      "end": 7.72,
+      "text": "Nair off the platform",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "登り空N"
+    },
+    {
+      "start": 7.72,
+      "end": 9.16,
+      "text": "But no follow-up",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "しかし展開はついてこない"
+    },
+    {
+      "start": 9.16,
+      "end": 11.0,
+      "text": "This is getting really rough!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "かなり苦しい状況になったぞ"
+    },
+    {
+      "start": 11.0,
+      "end": 11.8,
+      "text": "But",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "しかし"
+    },
+    {
+      "start": 11.8,
+      "end": 12.34,
+      "text": "He grabs it!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "掴んだ"
+    },
+    {
+      "start": 12.34,
+      "end": 13.74,
+      "text": "That had to go through",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "それは通さざるを得ないが"
+    },
+    {
+      "start": 13.74,
+      "end": 14.74,
+      "text": "Out to the edge",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "外側へと"
+    },
+    {
+      "start": 14.74,
+      "end": 15.8,
+      "text": "And that's the stock!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "倒しきった"
+    },
+    {
+      "start": 15.8,
+      "end": 17.66,
+      "text": "Back air",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空後"
+    },
+    {
+      "start": 17.66,
+      "end": 18.42,
+      "text": "Reading the ledge",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "崖よく見ていて"
+    },
+    {
+      "start": 18.42,
+      "end": 18.84,
+      "text": "Knockdown",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ダウン"
+    },
+    {
+      "start": 18.84,
+      "end": 20.1,
+      "text": "Dash attack",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ダッシュ攻撃"
+    }
+  ],
+  "full_text": "In a bad spot Luigi's aggressive play Solid spacing Spacing is locked down Great platform placement And then Nair off the platform But no follow-up This is getting really rough! But He grabs it! That had to go through Out to the edge And that's the stock! Back air Reading the ledge Knockdown Dash attack",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "ラルー",
+      "corrected": "らる",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 6,
+      "original": "登りクエネ",
+      "corrected": "登り空N",
+      "rule": "move name: クエネ→空N"
+    },
+    {
+      "segment_idx": 9,
+      "original": "しかして",
+      "corrected": "しかし",
+      "rule": "Whisper misrecognition"
+    },
+    {
+      "segment_idx": 14,
+      "original": "空中しろ",
+      "corrected": "空後",
+      "rule": "move name normalization"
+    },
+    {
+      "segment_idx": 15,
+      "original": "海峡見ていて",
+      "corrected": "崖よく見ていて",
+      "rule": "misheard: 海峡→崖よく"
+    },
+    {
+      "segment_idx": 17,
+      "original": "見出し攻撃",
+      "corrected": "ダッシュ攻撃",
+      "rule": "move name: 見出し攻撃→DA"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "id": "779a06ef-9d52-493f-b7f3-311c6056d668",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.42,
+      "text": "Baguma's adapting here",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "バギマはここで対応してきたぞ"
+    },
+    {
+      "start": 2.42,
+      "end": 4.82,
+      "text": "by committing to the dash attack",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ダッシュ攻撃空中回避を切らないことによって"
+    },
+    {
+      "start": 4.82,
+      "end": 5.98,
+      "text": "comes back",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "戻ってきます"
+    },
+    {
+      "start": 5.98,
+      "end": 6.8,
+      "text": "What about the recovery?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "リターンはどうする"
+    },
+    {
+      "start": 6.8,
+      "end": 8.16,
+      "text": "Down smash barely misses",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "下スマッシュギリギリ届かない"
+    },
+    {
+      "start": 8.16,
+      "end": 10.36,
+      "text": "Down smash!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "下スマッシュ"
+    },
+    {
+      "start": 10.36,
+      "end": 11.5,
+      "text": "That's a great recovery!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いいリターンです"
+    }
+  ],
+  "full_text": "Baguma's adapting here by committing to the dash attack comes back What about the recovery? Down smash barely misses Down smash! That's a great recovery!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "出し攻撃急効果",
+      "corrected": "ダッシュ攻撃空中回避",
+      "rule": "whisper misrecognition"
+    }
+  ]
+}

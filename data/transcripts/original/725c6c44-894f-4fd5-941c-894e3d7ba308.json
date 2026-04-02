@@ -1,0 +1,26 @@
+{
+  "id": "725c6c44-894f-4fd5-941c-894e3d7ba308",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.26,
+      "text": "嫌な展開になる",
+      "language": "ja"
+    },
+    {
+      "start": 1.26,
+      "end": 3.84,
+      "text": "スピンで逆の崖に逃げつつ",
+      "language": "ja"
+    },
+    {
+      "start": 3.84,
+      "end": 8.14,
+      "text": "ここもスピンの軌道をうまく活かして",
+      "language": "ja"
+    }
+  ],
+  "full_text": "嫌な展開になる スピンで逆の崖に逃げつつ ここもスピンの軌道をうまく活かして",
+  "detected_language": "ja",
+  "corrections": []
+}

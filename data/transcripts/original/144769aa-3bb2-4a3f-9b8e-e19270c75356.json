@@ -1,0 +1,32 @@
+{
+  "id": "144769aa-3bb2-4a3f-9b8e-e19270c75356",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.4,
+      "text": "木を生やして大丈夫",
+      "language": "ja"
+    },
+    {
+      "start": 2.4,
+      "end": 4.5,
+      "text": "おーっと待ち構えるわ斧",
+      "language": "ja"
+    },
+    {
+      "start": 4.5,
+      "end": 6.12,
+      "text": "いきます",
+      "language": "ja"
+    },
+    {
+      "start": 6.12,
+      "end": 7.1,
+      "text": "おーっと",
+      "language": "ja"
+    }
+  ],
+  "full_text": "木を生やして大丈夫 おーっと待ち構えるわ斧 いきます おーっと",
+  "detected_language": "ja",
+  "corrections": []
+}

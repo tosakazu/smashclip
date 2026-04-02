@@ -1,0 +1,206 @@
+{
+  "id": "b919ae5f-78a6-4be0-81ed-60961da5a85a",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.84,
+      "text": "The timer was off",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "タイムアップの線は嘘"
+    },
+    {
+      "start": 1.84,
+      "end": 2.9,
+      "text": "Yeah",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そうです"
+    },
+    {
+      "start": 2.9,
+      "end": 4.02,
+      "text": "Back throw into 115%",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "後ろ投げ115%"
+    },
+    {
+      "start": 4.02,
+      "end": 5.5,
+      "text": "Coming back from above",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "上から返ってくるぞ"
+    },
+    {
+      "start": 5.5,
+      "end": 8.24,
+      "text": "Against the up tilt he wants to land",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "捉えたい上強に対して"
+    },
+    {
+      "start": 8.24,
+      "end": 9.6,
+      "text": "Shield's too risky",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ガードきっちり危ない"
+    },
+    {
+      "start": 9.6,
+      "end": 11.82,
+      "text": "That's not possible",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これは嘘だろ"
+    },
+    {
+      "start": 11.82,
+      "end": 12.5,
+      "text": "Oh no!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "やばいか"
+    },
+    {
+      "start": 12.5,
+      "end": 13.32,
+      "text": "No way!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "嘘だろ"
+    },
+    {
+      "start": 13.32,
+      "end": 13.6,
+      "text": "Down B",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "下B"
+    },
+    {
+      "start": 13.6,
+      "end": 14.78,
+      "text": "We saw that earlier",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さっき見たぞ"
+    },
+    {
+      "start": 14.78,
+      "end": 15.88,
+      "text": "Here we go, here we go",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "どうなるどうなる"
+    },
+    {
+      "start": 15.88,
+      "end": 17.78,
+      "text": "He got it!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "捉えた"
+    },
+    {
+      "start": 17.78,
+      "end": 18.7,
+      "text": "Still going, still going",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "まだまだまだ"
+    },
+    {
+      "start": 18.7,
+      "end": 19.64,
+      "text": "One more!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "もう一回"
+    },
+    {
+      "start": 19.64,
+      "end": 20.88,
+      "text": "One more!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "もう一回"
+    },
+    {
+      "start": 20.88,
+      "end": 22.76,
+      "text": "Perfect!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "完璧だわ"
+    },
+    {
+      "start": 22.76,
+      "end": 23.82,
+      "text": "That's the kill!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "取りきった"
+    },
+    {
+      "start": 23.82,
+      "end": 25.64,
+      "text": "That was a mistake",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これはやらかしましたね"
+    },
+    {
+      "start": 25.64,
+      "end": 26.62,
+      "text": "Sonix",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "Sonix選手"
+    }
+  ],
+  "full_text": "The timer was off Yeah Back throw into 115% Coming back from above Against the up tilt he wants to land Shield's too risky That's not possible Oh no! No way! Down B We saw that earlier Here we go, here we go He got it! Still going, still going One more! One more! Perfect! That's the kill! That was a mistake Sonix",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "後ろに投げる115",
+      "corrected": "後ろ投げ115%",
+      "rule": "Whisper error"
+    },
+    {
+      "segment_idx": 4,
+      "original": "上京に対して",
+      "corrected": "上強に対して",
+      "rule": "kanji homophone"
+    },
+    {
+      "segment_idx": 5,
+      "original": "ガイドキット危ない",
+      "corrected": "ガードきっちり危ない",
+      "rule": "Whisper error"
+    },
+    {
+      "segment_idx": 9,
+      "original": "下補修",
+      "corrected": "下B",
+      "rule": "kanji homophone"
+    },
+    {
+      "segment_idx": 17,
+      "original": "トリキット",
+      "corrected": "取りきった",
+      "rule": "Whisper error"
+    },
+    {
+      "segment_idx": 19,
+      "original": "サミックス選手",
+      "corrected": "Sonix選手",
+      "rule": "player name"
+    }
+  ]
+}

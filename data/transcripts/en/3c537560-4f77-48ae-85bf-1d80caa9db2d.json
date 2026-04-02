@@ -1,0 +1,64 @@
+{
+  "id": "3c537560-4f77-48ae-85bf-1d80caa9db2d",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.32,
+      "text": "Shutting down that staff",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "まずは杖がひどいものにしたい"
+    },
+    {
+      "start": 1.32,
+      "end": 3.28,
+      "text": "Eating the nair",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空Nであえて食らって"
+    },
+    {
+      "start": 3.28,
+      "end": 5.84,
+      "text": "Forcing the banana out",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "バナナを捨てさせていく構え"
+    },
+    {
+      "start": 5.84,
+      "end": 6.42,
+      "text": "Down smash!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "下スマッシュ"
+    },
+    {
+      "start": 6.42,
+      "end": 8.78,
+      "text": "Read the dodge but just barely didn't connect!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "回避を見ていたがギリギリ間に合いはしなかった"
+    },
+    {
+      "start": 8.78,
+      "end": 10.4,
+      "text": "Up air, up air, up air!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "あげてあげてあげて"
+    }
+  ],
+  "full_text": "Shutting down that staff Eating the nair Forcing the banana out Down smash! Read the dodge but just barely didn't connect! Up air, up air, up air!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "空中で",
+      "corrected": "空Nで",
+      "rule": "空中→空N"
+    }
+  ]
+}

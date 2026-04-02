@@ -1,0 +1,57 @@
+{
+  "id": "90927d89-e729-43b5-983d-91f16dec280d",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.4,
+      "text": "受け身は当然取らないといけないと",
+      "language": "ja"
+    },
+    {
+      "start": 2.4,
+      "end": 4.5,
+      "text": "横スマッシュ狙う",
+      "language": "ja"
+    },
+    {
+      "start": 4.5,
+      "end": 6.08,
+      "text": "常に常に",
+      "language": "ja"
+    },
+    {
+      "start": 6.08,
+      "end": 7.94,
+      "text": "撃墜狙っていきます",
+      "language": "ja"
+    },
+    {
+      "start": 7.94,
+      "end": 8.84,
+      "text": "あcolaスティーブ",
+      "language": "ja"
+    },
+    {
+      "start": 8.84,
+      "end": 9.8,
+      "text": "ピー",
+      "language": "ja"
+    }
+  ],
+  "full_text": "受け身は当然取らないといけないと 横スマッシュ狙う 常に常に 撃墜狙っていきます あcolaスティーブ ピー",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "よーこスマッシュ",
+      "corrected": "横スマッシュ",
+      "rule": "misheard word"
+    },
+    {
+      "segment_idx": 4,
+      "original": "アコーラスティーブ",
+      "corrected": "あcolaスティーブ",
+      "rule": "player name"
+    }
+  ]
+}

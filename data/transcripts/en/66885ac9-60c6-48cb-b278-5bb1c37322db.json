@@ -1,0 +1,45 @@
+{
+  "id": "66885ac9-60c6-48cb-b278-5bb1c37322db",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.0,
+      "text": "The timing you have, you don't have the reaction, it's not going to make it happen.",
+      "language": "en"
+    },
+    {
+      "start": 3.42,
+      "end": 7.22,
+      "text": "Mythra dash attack, foresight, flip punch, the classic, and powers into that, yes sir!",
+      "language": "en"
+    },
+    {
+      "start": 7.36,
+      "end": 9.82,
+      "text": "Easy catch, down tilt to the up air, that is an...",
+      "language": "en"
+    }
+  ],
+  "full_text": "The timing you have, you don't have the reaction, it's not going to make it happen. Mythra dash attack, foresight, flip punch, the classic, and powers into that, yes sir! Easy catch, down tilt to the up air, that is an...",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "Ray dash attack, force flip punch",
+      "corrected": "Mythra dash attack, foresight, flip punch",
+      "rule": "character name + Mythra mechanic (Foresight)"
+    },
+    {
+      "segment_idx": 1,
+      "original": "empowers in deck",
+      "corrected": "and powers into that",
+      "rule": "misheard phrase"
+    },
+    {
+      "segment_idx": 2,
+      "original": "Easy catch, down to the up air",
+      "corrected": "Easy catch, down tilt to the up air",
+      "rule": "move name (下強→空上)"
+    }
+  ]
+}

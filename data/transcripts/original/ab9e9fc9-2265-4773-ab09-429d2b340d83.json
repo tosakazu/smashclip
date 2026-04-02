@@ -1,0 +1,51 @@
+{
+  "id": "ab9e9fc9-2265-4773-ab09-429d2b340d83",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.44,
+      "text": "ちょっとこだま",
+      "language": "ja"
+    },
+    {
+      "start": 0.44,
+      "end": 2.42,
+      "text": "しかしこだまからでもおダッシュ攻撃",
+      "language": "ja"
+    },
+    {
+      "start": 2.42,
+      "end": 4.46,
+      "text": "ラインがあった耐えた",
+      "language": "ja"
+    },
+    {
+      "start": 4.46,
+      "end": 6.28,
+      "text": "今度もジャンプ切る",
+      "language": "ja"
+    },
+    {
+      "start": 6.28,
+      "end": 7.42,
+      "text": "しかしここで",
+      "language": "ja"
+    }
+  ],
+  "full_text": "ちょっとこだま しかしこだまからでもおダッシュ攻撃 ラインがあった耐えた 今度もジャンプ切る しかしここで",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "お出し攻撃",
+      "corrected": "おダッシュ攻撃",
+      "rule": "Move: お出し→おダッシュ(DA)"
+    },
+    {
+      "segment_idx": 3,
+      "original": "ジャンボ切る",
+      "corrected": "ジャンプ切る",
+      "rule": "Mishearing: ジャンボ→ジャンプ"
+    }
+  ]
+}

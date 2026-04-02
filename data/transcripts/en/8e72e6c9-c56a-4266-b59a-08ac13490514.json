@@ -1,0 +1,49 @@
+{
+  "id": "8e72e6c9-c56a-4266-b59a-08ac13490514",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.68,
+      "text": "Steve getting destroyed!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ボロチェンジスティーブ!"
+    },
+    {
+      "start": 2.2,
+      "end": 2.64,
+      "text": "Got caught!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "かぶれ!"
+    },
+    {
+      "start": 3.0,
+      "end": 3.72,
+      "text": "Yeah!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "やーばねー!"
+    },
+    {
+      "start": 3.82,
+      "end": 4.8,
+      "text": "That was clutch!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これ助かりましたね!"
+    },
+    {
+      "start": 6.38,
+      "end": 7.38,
+      "text": "Link it!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "合わせる!"
+    }
+  ],
+  "full_text": "Steve getting destroyed! Got caught! Yeah! That was clutch! Link it!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

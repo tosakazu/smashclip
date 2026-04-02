@@ -1,0 +1,39 @@
+{
+  "id": "f0c3d060-bc47-4e99-b3eb-99d61cb75e2a",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.36,
+      "text": "ニュートラルに戻って",
+      "language": "ja"
+    },
+    {
+      "start": 1.36,
+      "end": 5.76,
+      "text": "空Nのとこ反射のオイルパニックが見えた",
+      "language": "ja"
+    },
+    {
+      "start": 5.76,
+      "end": 7.92,
+      "text": "ここは上B撃ってきて",
+      "language": "ja"
+    }
+  ],
+  "full_text": "ニュートラルに戻って 空Nのとこ反射のオイルパニックが見えた ここは上B撃ってきて",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "川のとこ反射",
+      "corrected": "空Nのとこ反射",
+      "rule": "misheard: 川→空N"
+    },
+    {
+      "segment_idx": 2,
+      "original": "ウェビー撃ってきて",
+      "corrected": "上B撃ってきて",
+      "rule": "misheard: ウェビー→上B"
+    }
+  ]
+}

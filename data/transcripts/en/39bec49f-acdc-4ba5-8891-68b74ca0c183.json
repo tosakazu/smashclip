@@ -1,0 +1,69 @@
+{
+  "id": "39bec49f-acdc-4ba5-8891-68b74ca0c183",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.76,
+      "text": "Limehazard going to seal out that first stock.",
+      "language": "en"
+    },
+    {
+      "start": 4.08,
+      "end": 5.26,
+      "text": "Oh, down throw back air.",
+      "language": "en"
+    },
+    {
+      "start": 5.34,
+      "end": 7.2,
+      "text": "Not going to be enough to go ahead and get him off that stock just yet.",
+      "language": "en"
+    },
+    {
+      "start": 7.6,
+      "end": 8.7,
+      "text": "Oh, put him off to the side.",
+      "language": "en"
+    },
+    {
+      "start": 8.7,
+      "end": 9.58,
+      "text": "Wow, that was clean.",
+      "language": "en"
+    },
+    {
+      "start": 9.74,
+      "end": 10.1,
+      "text": "Yeah, he's done.",
+      "language": "en"
+    },
+    {
+      "start": 10.2,
+      "end": 10.52,
+      "text": "Facing.",
+      "language": "en"
+    },
+    {
+      "start": 10.7,
+      "end": 11.22,
+      "text": "Oh, man.",
+      "language": "en"
+    }
+  ],
+  "full_text": "Limehazard going to seal out that first stock. Oh, down throw back air. Not going to be enough to go ahead and get him off that stock just yet. Oh, put him off to the side. Wow, that was clean. Yeah, he's done. Facing. Oh, man.",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "first off",
+      "corrected": "first stock",
+      "rule": "Smash term"
+    },
+    {
+      "segment_idx": 1,
+      "original": "back here",
+      "corrected": "back air",
+      "rule": "Smash move name"
+    }
+  ]
+}

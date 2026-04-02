@@ -1,0 +1,57 @@
+{
+  "id": "7a269c28-a4b6-47e3-a77f-fbe59a4a9e8b",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.14,
+      "text": "ダッシュが心なしか増えているようにも思える",
+      "language": "ja"
+    },
+    {
+      "start": 2.14,
+      "end": 4.28,
+      "text": "かなり読み合いに増やしていきましたよね",
+      "language": "ja"
+    },
+    {
+      "start": 4.28,
+      "end": 9.52,
+      "text": "ファイアボールで固めの壁を丁寧に壊しにいく",
+      "language": "ja"
+    },
+    {
+      "start": 9.52,
+      "end": 10.48,
+      "text": "ラインがない",
+      "language": "ja"
+    },
+    {
+      "start": 10.48,
+      "end": 13.08,
+      "text": "くる!当たったが空中前で対応接続",
+      "language": "ja"
+    },
+    {
+      "start": 13.08,
+      "end": 14.16,
+      "text": "読み合い果たしていく",
+      "language": "ja"
+    },
+    {
+      "start": 14.16,
+      "end": 15.26,
+      "text": "くる!今の!",
+      "language": "ja"
+    }
+  ],
+  "full_text": "ダッシュが心なしか増えているようにも思える かなり読み合いに増やしていきましたよね ファイアボールで固めの壁を丁寧に壊しにいく ラインがない くる!当たったが空中前で対応接続 読み合い果たしていく くる!今の!",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "大切",
+      "corrected": "ダッシュ",
+      "rule": "whisper misrecognition"
+    }
+  ]
+}

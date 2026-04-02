@@ -1,0 +1,38 @@
+{
+  "id": "23c86067-464e-4dfe-b5da-5e0a1b51de78",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.42,
+      "text": "かなりいい展開作れましたね",
+      "language": "ja"
+    },
+    {
+      "start": 2.42,
+      "end": 3.6,
+      "text": "ワンターン 152%",
+      "language": "ja"
+    },
+    {
+      "start": 3.6,
+      "end": 5.8,
+      "text": "ザクレイのターン継続が光る",
+      "language": "ja"
+    },
+    {
+      "start": 5.8,
+      "end": 7.72,
+      "text": "空Nから下スマッシュ",
+      "language": "ja"
+    },
+    {
+      "start": 7.72,
+      "end": 8.22,
+      "text": "ナイス",
+      "language": "ja"
+    }
+  ],
+  "full_text": "かなりいい展開作れましたね ワンターン 152% ザクレイのターン継続が光る 空Nから下スマッシュ ナイス",
+  "detected_language": "ja",
+  "corrections": []
+}

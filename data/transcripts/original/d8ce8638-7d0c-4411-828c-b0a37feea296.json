@@ -1,0 +1,57 @@
+{
+  "id": "d8ce8638-7d0c-4411-828c-b0a37feea296",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.24,
+      "text": "下投げから空中N攻撃",
+      "language": "ja"
+    },
+    {
+      "start": 2.24,
+      "end": 3.88,
+      "text": "このまま撃墜しきればイーブになるが",
+      "language": "ja"
+    },
+    {
+      "start": 3.88,
+      "end": 5.66,
+      "text": "へろー選手の復帰ルートうまい",
+      "language": "ja"
+    },
+    {
+      "start": 5.66,
+      "end": 7.94,
+      "text": "内側とも崖外とも取れないような",
+      "language": "ja"
+    },
+    {
+      "start": 7.94,
+      "end": 9.02,
+      "text": "そんな復帰ルート",
+      "language": "ja"
+    },
+    {
+      "start": 9.02,
+      "end": 10.98,
+      "text": "ためにくく",
+      "language": "ja"
+    }
+  ],
+  "full_text": "下投げから空中N攻撃 このまま撃墜しきればイーブになるが へろー選手の復帰ルートうまい 内側とも崖外とも取れないような そんな復帰ルート ためにくく",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "下投げから空中白攻撃",
+      "corrected": "下投げから空中N攻撃",
+      "rule": "whisper_misrecognition"
+    },
+    {
+      "segment_idx": 2,
+      "original": "ヘロー選手の復帰ルートうまい",
+      "corrected": "へろー選手の復帰ルートうまい",
+      "rule": "player name"
+    }
+  ]
+}

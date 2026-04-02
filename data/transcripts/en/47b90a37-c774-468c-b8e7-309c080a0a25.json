@@ -1,0 +1,41 @@
+{
+  "id": "47b90a37-c774-468c-b8e7-309c080a0a25",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.16,
+      "text": "Looking to maximize return on non-KO moves",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "撃墜技以外の技に対して最大リターンを叩きつけていきたい"
+    },
+    {
+      "start": 5.16,
+      "end": 7.52,
+      "text": "It's connecting! It's connecting!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "通している通している"
+    },
+    {
+      "start": 7.52,
+      "end": 9.06,
+      "text": "Oh, way up there!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "おー高い位置で"
+    },
+    {
+      "start": 9.06,
+      "end": 9.9,
+      "text": "One lightning-fast strike!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "超速攻の一撃"
+    }
+  ],
+  "full_text": "Looking to maximize return on non-KO moves It's connecting! It's connecting! Oh, way up there! One lightning-fast strike!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

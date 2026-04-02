@@ -1,0 +1,100 @@
+{
+  "id": "104fb047-bdad-4824-8d0f-90dcad39e141",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.5,
+      "text": "That's Tweek, optimizing Diddy Kong to its fullest",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ディディーコングを最強状態に仕立て上げていくのがTweekだ"
+    },
+    {
+      "start": 3.5,
+      "end": 5.4,
+      "text": "Fair",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空前"
+    },
+    {
+      "start": 5.4,
+      "end": 6.9,
+      "text": "That's connecting clean",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これがかなり刺さっている"
+    },
+    {
+      "start": 6.9,
+      "end": 8.06,
+      "text": "Spaces back in",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "駆け離しで戻ってくる"
+    },
+    {
+      "start": 8.06,
+      "end": 9.5,
+      "text": "Hard to hit directly",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これを直接叩くのは難しい"
+    },
+    {
+      "start": 9.5,
+      "end": 12.02,
+      "text": "Reading the neutral getup",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "その場上がりをなぜか確認できていて"
+    },
+    {
+      "start": 12.02,
+      "end": 12.72,
+      "text": "Forces it in!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ぶち刺し"
+    },
+    {
+      "start": 12.72,
+      "end": 13.92,
+      "text": "Landed!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "打ちました"
+    },
+    {
+      "start": 13.92,
+      "end": 15.0,
+      "text": "There it is!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これか"
+    }
+  ],
+  "full_text": "That's Tweek, optimizing Diddy Kong to its fullest Fair That's connecting clean Spaces back in Hard to hit directly Reading the neutral getup Forces it in! Landed! There it is!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "ヘディコングを最強状態に仕立て上げていくのがツイクだ",
+      "corrected": "ディディーコングを最強状態に仕立て上げていくのがTweekだ",
+      "rule": "Character/Player name: ヘディコング→ディディーコング, ツイク→Tweek"
+    },
+    {
+      "segment_idx": 1,
+      "original": "打ち前",
+      "corrected": "空前",
+      "rule": "Move abbreviation: 打ち前→空前 (forward air)"
+    },
+    {
+      "segment_idx": 6,
+      "original": "浮き刺し",
+      "corrected": "ぶち刺し",
+      "rule": "Whisper mishearing: 浮き刺し→ぶち刺し"
+    }
+  ]
+}

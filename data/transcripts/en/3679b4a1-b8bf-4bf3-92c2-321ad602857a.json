@@ -1,0 +1,54 @@
+{
+  "id": "3679b4a1-b8bf-4bf3-92c2-321ad602857a",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.0,
+      "text": "Reading the juggle fair!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "見通して 着地狩り空中前"
+    },
+    {
+      "start": 5.0,
+      "end": 8.6,
+      "text": "That was a scary spot, wasn't it - Piorlim!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "怖いとこでしたねー ピオーリム"
+    },
+    {
+      "start": 8.6,
+      "end": 11.44,
+      "text": "Bakildo",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "バイキルトと"
+    },
+    {
+      "start": 13.12,
+      "end": 16.16,
+      "text": "Merazoma",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "メラゾーマ"
+    }
+  ],
+  "full_text": "Reading the juggle fair! That was a scary spot, wasn't it - Piorlim! Bakildo Merazoma",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "倍キルと",
+      "corrected": "バイキルトと",
+      "rule": "character term: Hero spell バイキルト"
+    },
+    {
+      "segment_idx": 3,
+      "original": "エラゾーマー",
+      "corrected": "メラゾーマ",
+      "rule": "character term: Hero spell メラゾーマ"
+    }
+  ]
+}

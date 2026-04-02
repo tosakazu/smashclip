@@ -1,0 +1,98 @@
+{
+  "id": "54f90710-8afe-4f30-a2ba-ff2e3b9de146",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.46,
+      "text": "Forward smash, but that's not enough for the KO!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "今度は3対1横スマッシュ振ったんですがまだ撃墜には至らないか"
+    },
+    {
+      "start": 3.46,
+      "end": 5.84,
+      "text": "Light as they are, they're still hanging in there!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いくら体重が軽いゲッチと言えどもまだ耐えています"
+    },
+    {
+      "start": 5.84,
+      "end": 10.02,
+      "text": "Can they close in with dash steps and finish this at the ledge?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ステップで詰ってこの崖で決めきることができるかどうか"
+    },
+    {
+      "start": 10.02,
+      "end": 12.64,
+      "text": "Dash attack from there—and now Miya takes back control!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ダッシュ攻撃から今度はミーヤのターン"
+    },
+    {
+      "start": 12.64,
+      "end": 14.04,
+      "text": "The momentum shifts!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "より展開が入れ替わって"
+    },
+    {
+      "start": 14.04,
+      "end": 15.62,
+      "text": "Gets the absorption!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "吸収したさらにジャスマンして"
+    },
+    {
+      "start": 15.62,
+      "end": 16.86,
+      "text": "Absorbed the meteor!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "吸収したメテオ"
+    },
+    {
+      "start": 16.86,
+      "end": 19.66,
+      "text": "There's absolutely no recovery from that!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "帰ってくること当然できません"
+    }
+  ],
+  "full_text": "Forward smash, but that's not enough for the KO! Light as they are, they're still hanging in there! Can they close in with dash steps and finish this at the ledge? Dash attack from there—and now Miya takes back control! The momentum shifts! Gets the absorption! Absorbed the meteor! There's absolutely no recovery from that!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "横スマッシュビホールドですが",
+      "corrected": "横スマッシュ振ったんですが",
+      "rule": "misheard word"
+    },
+    {
+      "segment_idx": 1,
+      "original": "ゲッチと言えでも",
+      "corrected": "ゲッチと言えども",
+      "rule": "grammar/misheard"
+    },
+    {
+      "segment_idx": 2,
+      "original": "ステップで潰って",
+      "corrected": "ステップで詰って",
+      "rule": "kanji homophone"
+    },
+    {
+      "segment_idx": 3,
+      "original": "ミニアーのターン",
+      "corrected": "ミーヤのターン",
+      "rule": "player name (Miya)"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "id": "be6d461b-d589-4284-9ef5-dc6163f5d185",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.88,
+      "text": "ああああああ 捕らえた捕らえた126%あり、カルメロ",
+      "language": "ja"
+    },
+    {
+      "start": 5.88,
+      "end": 12.88,
+      "text": "がとりあえずダイヤ作ってでからの、どう、空後とれたここで流れを暴れも読んで",
+      "language": "ja"
+    },
+    {
+      "start": 12.88,
+      "end": 19.44,
+      "text": "どこだって ソニック下にいたのに",
+      "language": "ja"
+    },
+    {
+      "start": 19.44,
+      "end": 22.04,
+      "text": "いやでも",
+      "language": "ja"
+    }
+  ],
+  "full_text": "ああああああ 捕らえた捕らえた126%あり、カルメロ がとりあえずダイヤ作ってでからの、どう、空後とれたここで流れを暴れも読んで どこだって ソニック下にいたのに いやでも",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "126あり偶然と友達",
+      "corrected": "126%あり、カルメロ",
+      "rule": "player name + misheard"
+    },
+    {
+      "segment_idx": 1,
+      "original": "ダイヤ作ってでからのどう くれ宇宙とれた",
+      "corrected": "ダイヤ作ってでからの、どう、空後とれた",
+      "rule": "smash term"
+    },
+    {
+      "segment_idx": 2,
+      "original": "トニック下にいたのに",
+      "corrected": "ソニック下にいたのに",
+      "rule": "character name"
+    }
+  ]
+}

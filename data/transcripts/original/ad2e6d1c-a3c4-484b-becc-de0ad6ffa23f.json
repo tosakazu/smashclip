@@ -1,0 +1,45 @@
+{
+  "id": "ad2e6d1c-a3c4-484b-becc-de0ad6ffa23f",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.22,
+      "text": "スマッシュ 起きたいところ 皆もここも捌く",
+      "language": "ja"
+    },
+    {
+      "start": 2.22,
+      "end": 4.8,
+      "text": "ダッシュ攻撃 崖をスキップしたいところに",
+      "language": "ja"
+    },
+    {
+      "start": 4.8,
+      "end": 7.24,
+      "text": "刺さって着地は 中央から",
+      "language": "ja"
+    },
+    {
+      "start": 7.24,
+      "end": 9.92,
+      "text": "上スマッシュ 勇気ある空中前",
+      "language": "ja"
+    },
+    {
+      "start": 9.92,
+      "end": 11.16,
+      "text": "これは撃墜届いて",
+      "language": "ja"
+    }
+  ],
+  "full_text": "スマッシュ 起きたいところ 皆もここも捌く ダッシュ攻撃 崖をスキップしたいところに 刺さって着地は 中央から 上スマッシュ 勇気ある空中前 これは撃墜届いて",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "出し攻撃",
+      "corrected": "ダッシュ攻撃",
+      "rule": "Move: 出し攻撃→ダッシュ攻撃(DA)"
+    }
+  ]
+}

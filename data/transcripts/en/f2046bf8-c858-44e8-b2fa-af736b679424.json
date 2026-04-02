@@ -1,0 +1,80 @@
+{
+  "id": "f2046bf8-c858-44e8-b2fa-af736b679424",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.3,
+      "text": "Won't engage! Won't engage!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "付き合わない付き合わない"
+    },
+    {
+      "start": 1.3,
+      "end": 3.44,
+      "text": "Won't go low",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "下は取りませんね"
+    },
+    {
+      "start": 3.44,
+      "end": 4.3,
+      "text": "That's risky!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "危ないですね"
+    },
+    {
+      "start": 4.3,
+      "end": 5.94,
+      "text": "Risky!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "危ない"
+    },
+    {
+      "start": 5.94,
+      "end": 8.8,
+      "text": "Platform risk!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "台上リスクケア"
+    },
+    {
+      "start": 8.8,
+      "end": 12.68,
+      "text": "There's the KO!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあ撃墜が"
+    },
+    {
+      "start": 12.68,
+      "end": 14.44,
+      "text": "Both reading it!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "お互いに匂う"
+    },
+    {
+      "start": 14.44,
+      "end": 15.52,
+      "text": "Hmm...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "うーと"
+    }
+  ],
+  "full_text": "Won't engage! Won't engage! Won't go low That's risky! Risky! Platform risk! There's the KO! Both reading it! Hmm...",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 4,
+      "original": "ダイブリリスクケア",
+      "corrected": "台上リスクケア",
+      "rule": "misheard: ダイブリ→台上"
+    }
+  ]
+}

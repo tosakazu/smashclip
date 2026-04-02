@@ -1,0 +1,26 @@
+{
+  "id": "a5d8f404-2982-42f0-b823-e2177a412be8",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.8,
+      "text": "掴みを通して前投げる",
+      "language": "ja"
+    },
+    {
+      "start": 1.8,
+      "end": 5.92,
+      "text": "空中前",
+      "language": "ja"
+    }
+  ],
+  "full_text": "掴みを通して前投げる 空中前",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "original": "神を通して",
+      "corrected": "掴みを通して",
+      "reason": "掴み（grab）を通す"
+    }
+  ]
+}

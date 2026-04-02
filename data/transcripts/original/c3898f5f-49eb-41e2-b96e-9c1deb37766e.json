@@ -1,0 +1,62 @@
+{
+  "id": "c3898f5f-49eb-41e2-b96e-9c1deb37766e",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.7,
+      "text": "そうです",
+      "language": "ja"
+    },
+    {
+      "start": 0.7,
+      "end": 2.0,
+      "text": "反対側行かれるとね",
+      "language": "ja"
+    },
+    {
+      "start": 2.0,
+      "end": 3.24,
+      "text": "どうしても追えないので",
+      "language": "ja"
+    },
+    {
+      "start": 3.24,
+      "end": 4.82,
+      "text": "崖展開繰り返されて",
+      "language": "ja"
+    },
+    {
+      "start": 4.82,
+      "end": 7.78,
+      "text": "あっという間に撃墜%に至ってしまうというような",
+      "language": "ja"
+    },
+    {
+      "start": 7.78,
+      "end": 9.28,
+      "text": "そのぐらいの火力は秘めている",
+      "language": "ja"
+    },
+    {
+      "start": 9.28,
+      "end": 10.22,
+      "text": "そもそも崖",
+      "language": "ja"
+    },
+    {
+      "start": 10.22,
+      "end": 11.76,
+      "text": "うわぁいい判断",
+      "language": "ja"
+    },
+    {
+      "start": 11.76,
+      "end": 12.84,
+      "text": "ゴー",
+      "language": "ja"
+    }
+  ],
+  "full_text": "そうです 反対側行かれるとね どうしても追えないので 崖展開繰り返されて あっという間に撃墜%に至ってしまうというような そのぐらいの火力は秘めている そもそも崖 うわぁいい判断 ゴー",
+  "detected_language": "ja",
+  "corrections": []
+}

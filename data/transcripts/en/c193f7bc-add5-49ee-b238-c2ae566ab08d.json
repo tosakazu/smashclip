@@ -1,0 +1,52 @@
+{
+  "id": "c193f7bc-add5-49ee-b238-c2ae566ab08d",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.88,
+      "text": "It was a whiff throw, but Amemame read even that!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "すかし投げだったんですけどそれすらも読んでいた雨飴選手"
+    },
+    {
+      "start": 2.88,
+      "end": 7.12,
+      "text": "Bair into reverse weak - executed perfectly!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空後ろ、空後反転弱を見事"
+    },
+    {
+      "start": 7.12,
+      "end": 11.22,
+      "text": "After the ledge grab, he's shutting down every option...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "崖ついた後はすべてしっかりと拒否をしながら"
+    }
+  ],
+  "full_text": "It was a whiff throw, but Amemame read even that! Bair into reverse weak - executed perfectly! After the ledge grab, he's shutting down every option...",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "上上選手",
+      "corrected": "雨飴選手",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 1,
+      "original": "空への空母反転弱",
+      "corrected": "空後ろ、空後反転弱",
+      "rule": "smash term"
+    },
+    {
+      "segment_idx": 2,
+      "original": "消しついた空は",
+      "corrected": "崖ついた後は",
+      "rule": "misheard phrase"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "19ab6cd9-ba87-4aca-ab4b-22708fca5c09",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.16,
+      "text": "all the options against out of shield and all the options from this SuperDog and the",
+      "language": "en"
+    },
+    {
+      "start": 6.16,
+      "end": 15.92,
+      "text": "Mario player 100 triple digit right now okay it's a rough situation I'm in the back air and knee",
+      "language": "en"
+    }
+  ],
+  "full_text": "all the options against out of shield and all the options from this SuperDog and the Mario player 100 triple digit right now okay it's a rough situation I'm in the back air and knee",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "all the impressions from this super dog",
+      "corrected": "all the options from this SuperDog",
+      "rule": "Player name: super dog→SuperDog; garbled: impressions→options"
+    },
+    {
+      "segment_idx": 1,
+      "original": "mario player 100 triple digit right now okay it's our situation i'm the backer and me",
+      "corrected": "Mario player 100 triple digit right now okay it's a rough situation I'm in the back air and knee",
+      "rule": "Garbled transcription cleanup"
+    }
+  ]
+}

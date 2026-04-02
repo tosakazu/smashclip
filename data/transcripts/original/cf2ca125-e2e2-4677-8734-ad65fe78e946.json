@@ -1,0 +1,51 @@
+{
+  "id": "cf2ca125-e2e2-4677-8734-ad65fe78e946",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.8,
+      "text": "メガボルト そしてここで",
+      "language": "ja"
+    },
+    {
+      "start": 1.8,
+      "end": 4.0,
+      "text": "再び当てたか 打点高め",
+      "language": "ja"
+    },
+    {
+      "start": 4.0,
+      "end": 4.92,
+      "text": "回避か",
+      "language": "ja"
+    },
+    {
+      "start": 4.92,
+      "end": 7.32,
+      "text": "追い切れる 掴みで",
+      "language": "ja"
+    },
+    {
+      "start": 7.32,
+      "end": 9.44,
+      "text": "これはミンミンにきつい",
+      "language": "ja"
+    },
+    {
+      "start": 9.44,
+      "end": 11.9,
+      "text": "いやー今の腕伸ばしだと",
+      "language": "ja"
+    }
+  ],
+  "full_text": "メガボルト そしてここで 再び当てたか 打点高め 回避か 追い切れる 掴みで これはミンミンにきつい いやー今の腕伸ばしだと",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 4,
+      "original": "これはみなぎにくつい",
+      "corrected": "これはミンミンにきつい",
+      "rule": "character name + mishearing (Min Min)"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "c7a98ea7-e466-4735-8e5c-f6d04221c3fb",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.92,
+      "text": "これは何かある",
+      "language": "ja"
+    },
+    {
+      "start": 2.92,
+      "end": 4.92,
+      "text": "地上の相手に",
+      "language": "ja"
+    },
+    {
+      "start": 4.92,
+      "end": 5.9,
+      "text": "はいどうも",
+      "language": "ja"
+    }
+  ],
+  "full_text": "これは何かある 地上の相手に はいどうも",
+  "detected_language": "ja",
+  "corrections": []
+}

@@ -1,0 +1,64 @@
+{
+  "id": "75bcead5-5736-4107-bd45-d7b054399007",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.3,
+      "text": "Blue forces them to jump",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "青だからジャンプしないといけない"
+    },
+    {
+      "start": 2.3,
+      "end": 4.02,
+      "text": "And if you want the aerial KO",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "かつ空中攻撃で撃墜取るんだったら"
+    },
+    {
+      "start": 4.02,
+      "end": 5.46,
+      "text": "Fair is the only option there",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "あの状況空前しかないんで"
+    },
+    {
+      "start": 5.46,
+      "end": 7.02,
+      "text": "I read that",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そこを1点読み取りました"
+    },
+    {
+      "start": 7.02,
+      "end": 10.76,
+      "text": "After the throw, they're back in trouble",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "投げつけてまたしても苦しい時間から"
+    },
+    {
+      "start": 10.76,
+      "end": 11.56,
+      "text": "But",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "しかし"
+    }
+  ],
+  "full_text": "Blue forces them to jump. And if you want the aerial KO, fair is the only option there. I read that. After the throw, they're back in trouble. But",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "空中死傷しかないんで",
+      "corrected": "空前しかないんで",
+      "rule": "move abbreviation: 空前"
+    }
+  ]
+}

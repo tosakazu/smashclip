@@ -1,0 +1,44 @@
+{
+  "id": "9f7e19c2-d87d-4607-9fc3-1059d9011dee",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.16,
+      "text": "いや今なってくる",
+      "language": "ja"
+    },
+    {
+      "start": 2.16,
+      "end": 4.3,
+      "text": "自分はめくると思ったんですけど",
+      "language": "ja"
+    },
+    {
+      "start": 4.3,
+      "end": 6.92,
+      "text": "何かめくるの判断ができてきなかった",
+      "language": "ja"
+    },
+    {
+      "start": 6.92,
+      "end": 9.82,
+      "text": "ボーリングの発揮範囲",
+      "language": "ja"
+    },
+    {
+      "start": 9.82,
+      "end": 11.06,
+      "text": "ああああああ",
+      "language": "ja"
+    },
+    {
+      "start": 11.06,
+      "end": 12.1,
+      "text": "ああああああ",
+      "language": "ja"
+    }
+  ],
+  "full_text": "いや今なってくる 自分はめくると思ったんですけど 何かめくるの判断ができてきなかった ボーリングの発揮範囲 ああああああ ああああああ",
+  "detected_language": "ja",
+  "corrections": []
+}

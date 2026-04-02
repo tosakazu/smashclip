@@ -1,0 +1,45 @@
+{
+  "id": "562ad38e-3cdb-458f-9f4e-bad28c7fc92d",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.9,
+      "text": "Oh, okay, forward throw, it's not gonna be enough here.",
+      "language": "en"
+    },
+    {
+      "start": 2.9,
+      "end": 4.74,
+      "text": "I love the jump over it, of course,",
+      "language": "en"
+    },
+    {
+      "start": 4.74,
+      "end": 6.74,
+      "text": "and that up B's always gonna be so active.",
+      "language": "en"
+    },
+    {
+      "start": 7.78,
+      "end": 11.68,
+      "text": "170% here, Leo not wanting to switch to the Pyra.",
+      "language": "en"
+    }
+  ],
+  "full_text": "Oh, okay, forward throw, it's not gonna be enough here. I love the jump over it, of course, and that up B's always gonna be so active. 170% here, Leo not wanting to switch to the Pyra.",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "fourth throw",
+      "corrected": "forward throw",
+      "rule": "misheard word"
+    },
+    {
+      "segment_idx": 3,
+      "original": "pyro",
+      "corrected": "Pyra",
+      "rule": "character name"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "aa7a7e22-7650-4535-870b-7c41592d1ef3",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.58,
+      "text": "状況的には",
+      "language": "ja"
+    },
+    {
+      "start": 3.58,
+      "end": 7.96,
+      "text": "空中Bからの撃墜",
+      "language": "ja"
+    }
+  ],
+  "full_text": "状況的には 空中Bからの撃墜",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "空中白コース撃墜",
+      "corrected": "空中Bからの撃墜",
+      "rule": "Move: 空中白コース→空中Bからの(上B攻撃)"
+    }
+  ]
+}

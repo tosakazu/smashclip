@@ -1,0 +1,45 @@
+{
+  "id": "bb4de18a-8047-40e6-8197-b6263585991d",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.2,
+      "text": "ここ?成功したのか?",
+      "language": "ja"
+    },
+    {
+      "start": 2.66,
+      "end": 4.48,
+      "text": "いやしかしナオちゃんの攻め手が緩まない",
+      "language": "ja"
+    },
+    {
+      "start": 4.48,
+      "end": 5.9,
+      "text": "ジャブから空中前",
+      "language": "ja"
+    },
+    {
+      "start": 5.9,
+      "end": 6.92,
+      "text": "ヤマナクションの反撃",
+      "language": "ja"
+    },
+    {
+      "start": 6.92,
+      "end": 9.7,
+      "text": "爆発が当たっていた",
+      "language": "ja"
+    }
+  ],
+  "full_text": "ここ?成功したのか? いやしかしナオちゃんの攻め手が緩まない ジャブから空中前 ヤマナクションの反撃 爆発が当たっていた",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "ジャックから空中前",
+      "corrected": "ジャブから空中前",
+      "rule": "Whisper error"
+    }
+  ]
+}

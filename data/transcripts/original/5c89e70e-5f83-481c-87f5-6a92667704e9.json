@@ -1,0 +1,62 @@
+{
+  "id": "5c89e70e-5f83-481c-87f5-6a92667704e9",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.36,
+      "text": "いや追い抜いた",
+      "language": "ja"
+    },
+    {
+      "start": 1.36,
+      "end": 4.0,
+      "text": "引きながら",
+      "language": "ja"
+    },
+    {
+      "start": 4.56,
+      "end": 6.84,
+      "text": "色がなんかあんま強くないか",
+      "language": "ja"
+    },
+    {
+      "start": 6.84,
+      "end": 7.94,
+      "text": "次紫か",
+      "language": "ja"
+    },
+    {
+      "start": 7.94,
+      "end": 9.96,
+      "text": "紫がやってきて",
+      "language": "ja"
+    },
+    {
+      "start": 9.96,
+      "end": 11.92,
+      "text": "悪くない色状況ではないでしょうか",
+      "language": "ja"
+    },
+    {
+      "start": 11.92,
+      "end": 12.78,
+      "text": "黄色青紫",
+      "language": "ja"
+    },
+    {
+      "start": 12.78,
+      "end": 14.86,
+      "text": "さあここで",
+      "language": "ja"
+    },
+    {
+      "start": 14.86,
+      "end": 16.7,
+      "text": "リターンを求めた",
+      "language": "ja"
+    }
+  ],
+  "full_text": "いや追い抜いた 引きながら 色がなんかあんま強くないか 次紫か 紫がやってきて 悪くない色状況ではないでしょうか 黄色青紫 さあここで リターンを求めた",
+  "detected_language": "ja",
+  "corrections": []
+}

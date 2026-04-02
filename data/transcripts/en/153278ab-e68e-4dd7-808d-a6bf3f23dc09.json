@@ -1,0 +1,82 @@
+{
+  "id": "153278ab-e68e-4dd7-808d-a6bf3f23dc09",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.3,
+      "text": "Tweek's trying to escape from here",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "っていうのをTweek選手がもう逃げ出していきたいところですが"
+    },
+    {
+      "start": 3.3,
+      "end": 6.24,
+      "text": "Snow's forward tilts are really standing out in neutral!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "結構差し合いでの横強が光ってますねSnow選手"
+    },
+    {
+      "start": 6.24,
+      "end": 6.8,
+      "text": "Yeah",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そうですね"
+    },
+    {
+      "start": 6.8,
+      "end": 8.42,
+      "text": "Really high hit rate",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "かなりヒット率が高い"
+    },
+    {
+      "start": 8.42,
+      "end": 9.28,
+      "text": "Up smashing the roll getup!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "回避上がりに上スマッシュ"
+    },
+    {
+      "start": 9.28,
+      "end": 12.84,
+      "text": "Keeps finishing with fully charged forward smash for the KO!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ずっとこの後隙は最大の横スマッシュで撃墜"
+    }
+  ],
+  "full_text": "Tweek's trying to escape from here Snow's forward tilts are really standing out in neutral! Yeah Really high hit rate Up smashing the roll getup! Keeps finishing with fully charged forward smash for the KO!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "ツイキ選手",
+      "corrected": "Tweek選手",
+      "rule": "Player name: ツイキ→Tweek"
+    },
+    {
+      "segment_idx": 1,
+      "original": "その選手",
+      "corrected": "Snow選手",
+      "rule": "Player name: その→Snow"
+    },
+    {
+      "segment_idx": 4,
+      "original": "回復キティウエスマス",
+      "corrected": "回避上がりに上スマッシュ",
+      "rule": "Garbled transcription: 回復キティウエスマス→回避上がりに上スマッシュ"
+    },
+    {
+      "segment_idx": 5,
+      "original": "横スマッシュで撃つ",
+      "corrected": "横スマッシュで撃墜",
+      "rule": "Kanji homophone: 撃つ→撃墜"
+    }
+  ]
+}

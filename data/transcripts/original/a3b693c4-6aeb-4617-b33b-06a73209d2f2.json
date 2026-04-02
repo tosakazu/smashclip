@@ -1,0 +1,48 @@
+{
+  "id": "a3b693c4-6aeb-4617-b33b-06a73209d2f2",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.8,
+      "text": "実に重くのしかかっています",
+      "language": "ja"
+    },
+    {
+      "start": 1.8,
+      "end": 4.28,
+      "text": "そこでWrath選手も暴発するしかないというか",
+      "language": "ja"
+    },
+    {
+      "start": 4.28,
+      "end": 6.6,
+      "text": "ゲームウォッチでもやっぱり撃墜が難しいので",
+      "language": "ja"
+    },
+    {
+      "start": 6.6,
+      "end": 9.54,
+      "text": "チャンスがちょっと巡ったところだったので",
+      "language": "ja"
+    }
+  ],
+  "full_text": "実に重くのしかかっています そこでWrath選手も暴発するしかないというか ゲームウォッチでもやっぱり撃墜が難しいので チャンスがちょっと巡ったところだったので",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "original": "ラース選手",
+      "corrected": "Wrath選手",
+      "reason": "プレイヤー名Wrath"
+    },
+    {
+      "original": "破壊する",
+      "corrected": "暴発する",
+      "reason": "文脈上、暴発（暴れて攻撃）の意味"
+    },
+    {
+      "original": "ゲームを終えても",
+      "corrected": "ゲームウォッチでも",
+      "reason": "Mr. Game & Watchのキャラ名"
+    }
+  ]
+}

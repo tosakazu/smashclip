@@ -1,0 +1,57 @@
+{
+  "id": "01994c21-08e9-4623-9a93-d5ce9b33ade5",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.9,
+      "text": "The kick came out!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "キックが出ちゃったな"
+    },
+    {
+      "start": 0.9,
+      "end": 3.74,
+      "text": "If you flip and the kick pops out on the outside",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "フリップを出して外側にキックが出ちゃうと"
+    },
+    {
+      "start": 3.74,
+      "end": 5.36,
+      "text": "The follow-ups don't work after that",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "その後の派生が効かなくなる"
+    },
+    {
+      "start": 5.36,
+      "end": 5.98,
+      "text": "That's rare!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "珍しいな"
+    },
+    {
+      "start": 5.98,
+      "end": 9.0,
+      "text": "Now at 2, 3 stocks—this is a tense moment",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあストック2,3この緊張の場面"
+    },
+    {
+      "start": 9.0,
+      "end": 11.06,
+      "text": "One mistake will show, but Tweek...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "一つのミスは出るでしょうしかしツイーク"
+    }
+  ],
+  "full_text": "The kick came out! If you flip and the kick pops out on the outside the follow-ups don't work after that That's rare! Now at 2, 3 stocks—this is a tense moment One mistake will show, but Tweek...",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

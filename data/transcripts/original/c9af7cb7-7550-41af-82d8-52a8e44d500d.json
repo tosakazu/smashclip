@@ -1,0 +1,44 @@
+{
+  "id": "c9af7cb7-7550-41af-82d8-52a8e44d500d",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.8,
+      "text": "挑戦となります",
+      "language": "ja"
+    },
+    {
+      "start": 0.8,
+      "end": 4.38,
+      "text": "あと結構ロイじゃねえや",
+      "language": "ja"
+    },
+    {
+      "start": 4.38,
+      "end": 5.88,
+      "text": "スティーブで嫌なイメージがあるのかな",
+      "language": "ja"
+    },
+    {
+      "start": 5.88,
+      "end": 6.62,
+      "text": "ドンキーに対して",
+      "language": "ja"
+    },
+    {
+      "start": 6.62,
+      "end": 9.24,
+      "text": "これは連れていく",
+      "language": "ja"
+    },
+    {
+      "start": 9.24,
+      "end": 10.7,
+      "text": "うまい",
+      "language": "ja"
+    }
+  ],
+  "full_text": "挑戦となります あと結構ロイじゃねえや スティーブで嫌なイメージがあるのかな ドンキーに対して これは連れていく うまい",
+  "detected_language": "ja",
+  "corrections": []
+}

@@ -1,0 +1,50 @@
+{
+  "id": "9ddba57c-6acb-41dc-b47a-b4578efd8aa3",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.02,
+      "text": "ダメージは徐々に乗ります",
+      "language": "ja"
+    },
+    {
+      "start": 1.02,
+      "end": 3.26,
+      "text": "いやーこういった差し込みに対しても",
+      "language": "ja"
+    },
+    {
+      "start": 3.26,
+      "end": 6.04,
+      "text": "一発一発ダメージ与えてくるんですよね",
+      "language": "ja"
+    },
+    {
+      "start": 6.04,
+      "end": 7.48,
+      "text": "差し返しが",
+      "language": "ja"
+    },
+    {
+      "start": 7.48,
+      "end": 10.46,
+      "text": "ここで大胆に来た",
+      "language": "ja"
+    },
+    {
+      "start": 10.46,
+      "end": 13.2,
+      "text": "決めきりました",
+      "language": "ja"
+    },
+    {
+      "start": 13.2,
+      "end": 14.44,
+      "text": "いやー",
+      "language": "ja"
+    }
+  ],
+  "full_text": "ダメージは徐々に乗ります いやーこういった差し込みに対しても 一発一発ダメージ与えてくるんですよね 差し返しが ここで大胆に来た 決めきりました いやー",
+  "detected_language": "ja",
+  "corrections": []
+}

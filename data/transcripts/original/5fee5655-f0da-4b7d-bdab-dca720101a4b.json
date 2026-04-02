@@ -1,0 +1,75 @@
+{
+  "id": "5fee5655-f0da-4b7d-bdab-dca720101a4b",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.38,
+      "text": "スプリングでちょっと苦しいところ",
+      "language": "ja"
+    },
+    {
+      "start": 1.38,
+      "end": 3.4,
+      "text": "技選択タイミング",
+      "language": "ja"
+    },
+    {
+      "start": 3.4,
+      "end": 5.36,
+      "text": "レイジロケットを使って復帰してきた",
+      "language": "ja"
+    },
+    {
+      "start": 5.36,
+      "end": 6.38,
+      "text": "らる",
+      "language": "ja"
+    },
+    {
+      "start": 6.38,
+      "end": 9.02,
+      "text": "オバキュームを使って前を滑るが",
+      "language": "ja"
+    },
+    {
+      "start": 9.02,
+      "end": 9.64,
+      "text": "押しのける",
+      "language": "ja"
+    },
+    {
+      "start": 9.64,
+      "end": 12.04,
+      "text": "暴れの空中上から着地はどうだ",
+      "language": "ja"
+    },
+    {
+      "start": 12.04,
+      "end": 14.2,
+      "text": "スプリングから着地際に空中後ろ",
+      "language": "ja"
+    },
+    {
+      "start": 14.2,
+      "end": 15.52,
+      "text": "なんとダイネ",
+      "language": "ja"
+    }
+  ],
+  "full_text": "スプリングでちょっと苦しいところ 技選択タイミング レイジロケットを使って復帰してきた らる オバキュームを使って前を滑るが 押しのける 暴れの空中上から着地はどうだ スプリングから着地際に空中後ろ なんとダイネ",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 3,
+      "original": "ラル",
+      "corrected": "らる",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 7,
+      "original": "着地へに",
+      "corrected": "着地際に",
+      "rule": "misheard word"
+    }
+  ]
+}

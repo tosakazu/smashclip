@@ -1,0 +1,25 @@
+{
+  "id": "50824c12-39f8-43ce-a809-0072c3f80ca9",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.62,
+      "text": "Beautiful banana control!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "バナナをうまく使って"
+    },
+    {
+      "start": 1.62,
+      "end": 4.2,
+      "text": "That's it - for a gorilla, bananas are second nature!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあやはりゴリラならばバナナを使うのもお手の物"
+    }
+  ],
+  "full_text": "Beautiful banana control! That's it - for a gorilla, bananas are second nature!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

@@ -1,0 +1,99 @@
+{
+  "id": "9ce9dc3c-4f6d-4589-9558-d183d3efdc0d",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.78,
+      "text": "いや今のはブレスに対して対処をちょっと間違えてしまったが",
+      "language": "ja"
+    },
+    {
+      "start": 2.78,
+      "end": 4.44,
+      "text": "へろー選手にとっては",
+      "language": "ja"
+    },
+    {
+      "start": 4.44,
+      "end": 7.3,
+      "text": "かなりいい展開になっている",
+      "language": "ja"
+    },
+    {
+      "start": 7.3,
+      "end": 9.6,
+      "text": "上から攻めていく",
+      "language": "ja"
+    },
+    {
+      "start": 9.6,
+      "end": 11.48,
+      "text": "ここぞで上Bを落とすへろー",
+      "language": "ja"
+    },
+    {
+      "start": 11.48,
+      "end": 13.98,
+      "text": "へろー選手といえば横Bがねかなり多いんですけど",
+      "language": "ja"
+    },
+    {
+      "start": 13.98,
+      "end": 15.08,
+      "text": "上Bを落として",
+      "language": "ja"
+    },
+    {
+      "start": 15.08,
+      "end": 15.76,
+      "text": "これは",
+      "language": "ja"
+    },
+    {
+      "start": 15.76,
+      "end": 16.58,
+      "text": "撃墜",
+      "language": "ja"
+    }
+  ],
+  "full_text": "いや今のはブレスに対して対処をちょっと間違えてしまったが へろー選手にとっては かなりいい展開になっている 上から攻めていく ここぞで上Bを落とすへろー へろー選手といえば横Bがねかなり多いんですけど 上Bを落として これは 撃墜",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "対象を",
+      "corrected": "対処を",
+      "rule": "kanji homophone"
+    },
+    {
+      "segment_idx": 1,
+      "original": "ヘロー",
+      "corrected": "へろー",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 4,
+      "original": "上を落とす",
+      "corrected": "上Bを落とす",
+      "rule": "move name (Bowser up-B)"
+    },
+    {
+      "segment_idx": 5,
+      "original": "横がね",
+      "corrected": "横Bがね",
+      "rule": "move name"
+    },
+    {
+      "segment_idx": 6,
+      "original": "上を落として",
+      "corrected": "上Bを落として",
+      "rule": "move name"
+    },
+    {
+      "segment_idx": 8,
+      "original": "激",
+      "corrected": "撃墜",
+      "rule": "kanji homophone (cut off)"
+    }
+  ]
+}

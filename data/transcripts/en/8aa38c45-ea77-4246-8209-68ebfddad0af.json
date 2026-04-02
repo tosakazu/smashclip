@@ -1,0 +1,25 @@
+{
+  "id": "8aa38c45-ea77-4246-8209-68ebfddad0af",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.88,
+      "text": "You gotta bring your best here because realistically, the recovery's gonna be way too tough from this position no matter what.",
+      "language": "en",
+      "original_language": "es",
+      "original_text": "Bueno, tiene que ser el mejor que puedas porque con caso ya en realidad, quieras o no, el regreso lo vas a batallar demasiado."
+    },
+    {
+      "start": 6.04,
+      "end": 10.08,
+      "text": "Here's a solid spot Spargo can establish, and the thing is...",
+      "language": "en",
+      "original_language": "es",
+      "original_text": "Aquí una buena situación la cual Spargo se puede alcanzar a plantar y es que..."
+    }
+  ],
+  "full_text": "You gotta bring your best here because realistically, the recovery's gonna be way too tough from this position no matter what. Here's a solid spot Spargo can establish, and the thing is...",
+  "detected_language": "en",
+  "original_language": "es",
+  "corrections": []
+}

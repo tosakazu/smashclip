@@ -1,0 +1,26 @@
+{
+  "id": "7acd4cca-5436-4b48-bac0-b18c96e08e89",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.32,
+      "text": "Kirby, who are going to get their hit, they're going to make you pay your taxes, and then",
+      "language": "en"
+    },
+    {
+      "start": 4.32,
+      "end": 6.16,
+      "text": "you get to play the game with whatever you have left.",
+      "language": "en"
+    },
+    {
+      "start": 6.24,
+      "end": 8.58,
+      "text": "Oh yeah, definitely, definitely, Kirby is definitely one of those characters.",
+      "language": "en"
+    }
+  ],
+  "full_text": "Kirby, who are going to get their hit, they're going to make you pay your taxes, and then you get to play the game with whatever you have left. Oh yeah, definitely, definitely, Kirby is definitely one of those characters.",
+  "detected_language": "en",
+  "corrections": []
+}

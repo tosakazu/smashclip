@@ -1,0 +1,51 @@
+{
+  "id": "ad511fe3-4318-4e37-89b2-1a76d82e157e",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.22,
+      "text": "リドリー側苦しくなります",
+      "language": "ja"
+    },
+    {
+      "start": 1.22,
+      "end": 3.48,
+      "text": "いや空中上がクセ者だ",
+      "language": "ja"
+    },
+    {
+      "start": 3.48,
+      "end": 4.42,
+      "text": "横スマッシュ待ててきた",
+      "language": "ja"
+    },
+    {
+      "start": 4.42,
+      "end": 7.22,
+      "text": "位置が気まずすぎ",
+      "language": "ja"
+    },
+    {
+      "start": 7.22,
+      "end": 8.02,
+      "text": "根元当たりで",
+      "language": "ja"
+    },
+    {
+      "start": 8.02,
+      "end": 8.28,
+      "text": "ナー",
+      "language": "ja"
+    }
+  ],
+  "full_text": "リドリー側苦しくなります いや空中上がクセ者だ 横スマッシュ待ててきた 位置が気まずすぎ 根元当たりで ナー",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 4,
+      "original": "コード当たりで",
+      "corrected": "根元当たりで",
+      "rule": "Smash term: コード→根元"
+    }
+  ]
+}

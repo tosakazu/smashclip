@@ -1,0 +1,73 @@
+{
+  "id": "0d487a8a-3e79-4c7f-ab7f-41cf8d7b72db",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.44,
+      "text": "Just leveraging that long weapon range",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ただただ武器判定のリーチが長いことを生かしていく"
+    },
+    {
+      "start": 2.44,
+      "end": 4.24,
+      "text": "Off down tilt",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "下強から"
+    },
+    {
+      "start": 4.24,
+      "end": 5.5,
+      "text": "Down tilt confirms it",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "下強は確定で"
+    },
+    {
+      "start": 5.5,
+      "end": 7.04,
+      "text": "Even with inward DI",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ベク変を内に切ったが"
+    },
+    {
+      "start": 7.04,
+      "end": 9.56,
+      "text": "This is Smashville",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここはスマムラ"
+    },
+    {
+      "start": 9.56,
+      "end": 11.08,
+      "text": "Barely survives",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ギリギリ生存"
+    },
+    {
+      "start": 11.08,
+      "end": 13.8,
+      "text": "They recover and set up, but",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "変わりのリターンは復帰して準備したが"
+    },
+    {
+      "start": 13.8,
+      "end": 14.88,
+      "text": "It's Smashville",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "スマムラです"
+    }
+  ],
+  "full_text": "Just leveraging that long weapon range Off down tilt Down tilt confirms it Even with inward DI This is Smashville Barely survives They recover and set up, but It's Smashville",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

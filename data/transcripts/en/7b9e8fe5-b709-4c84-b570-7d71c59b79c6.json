@@ -1,0 +1,70 @@
+{
+  "id": "7b9e8fe5-b709-4c84-b570-7d71c59b79c6",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.5,
+      "text": "nair mashing",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空N暴れ"
+    },
+    {
+      "start": 3.5,
+      "end": 4.66,
+      "text": "Terry's spacing it",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "テリー置いてるんですが"
+    },
+    {
+      "start": 4.66,
+      "end": 7.2,
+      "text": "Blizzard hits the startup",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここはナックルの前隙にブリザードが"
+    },
+    {
+      "start": 7.2,
+      "end": 8.46,
+      "text": "beats with up air",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "勝る空上"
+    },
+    {
+      "start": 8.46,
+      "end": 10.5,
+      "text": "nicely got through",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "うまく回避を通した"
+    },
+    {
+      "start": 10.5,
+      "end": 12.44,
+      "text": "Quick!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さっ"
+    }
+  ],
+  "full_text": "nair mashing Terry's spacing it Blizzard hits the startup beats with up air nicely got through Quick!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "空中ニュートラル暴れ",
+      "corrected": "空N暴れ",
+      "rule": "abbreviation: 空中ニュートラル→空N"
+    },
+    {
+      "segment_idx": 3,
+      "original": "空中上",
+      "corrected": "空上",
+      "rule": "abbreviation: 空中上→空上"
+    }
+  ]
+}

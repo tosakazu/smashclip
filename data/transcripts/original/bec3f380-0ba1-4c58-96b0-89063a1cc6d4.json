@@ -1,0 +1,57 @@
+{
+  "id": "bec3f380-0ba1-4c58-96b0-89063a1cc6d4",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.6,
+      "text": "ラインですがここでラインが入れ替わった",
+      "language": "ja"
+    },
+    {
+      "start": 1.6,
+      "end": 2.44,
+      "text": "あー",
+      "language": "ja"
+    },
+    {
+      "start": 2.44,
+      "end": 4.46,
+      "text": "起き上がり空後",
+      "language": "ja"
+    },
+    {
+      "start": 4.46,
+      "end": 7.16,
+      "text": "しかし",
+      "language": "ja"
+    },
+    {
+      "start": 7.16,
+      "end": 7.62,
+      "text": "いやー",
+      "language": "ja"
+    },
+    {
+      "start": 7.62,
+      "end": 8.18,
+      "text": "起き上がり空後",
+      "language": "ja"
+    }
+  ],
+  "full_text": "ラインですがここでラインが入れ替わった あー 起き上がり空後 しかし いやー 起き上がり空後",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "小木原地ブーベー",
+      "corrected": "起き上がり空後",
+      "rule": "misheard phrase"
+    },
+    {
+      "segment_idx": 5,
+      "original": "小木原地ブーベー",
+      "corrected": "起き上がり空後",
+      "rule": "misheard phrase"
+    }
+  ]
+}

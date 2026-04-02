@@ -1,0 +1,56 @@
+{
+  "id": "30fed3f1-c35d-4fa4-aede-a1b5ee9512f8",
+  "segments": [
+    {
+      "start": 0.76,
+      "end": 2.96,
+      "text": "Alright, switching to Monad Smash!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあモナードスマッシュに変えていって"
+    },
+    {
+      "start": 2.96,
+      "end": 4.12,
+      "text": "Can they close it out here?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここで決めきるか"
+    },
+    {
+      "start": 4.12,
+      "end": 4.76,
+      "text": "Here it comes! Here it comes!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "来るぞ来るぞ"
+    },
+    {
+      "start": 4.76,
+      "end": 5.76,
+      "text": "Nair!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空N"
+    },
+    {
+      "start": 5.76,
+      "end": 6.24,
+      "text": "Big!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "大きく"
+    }
+  ],
+  "full_text": "Alright, switching to Monad Smash! Can they close it out here? Here it comes! Here it comes! Nair! Big!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 3,
+      "original": "空中ニュートラル",
+      "corrected": "空N",
+      "rule": "move name normalization"
+    }
+  ]
+}

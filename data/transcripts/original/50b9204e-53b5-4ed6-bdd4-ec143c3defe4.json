@@ -1,0 +1,57 @@
+{
+  "id": "50b9204e-53b5-4ed6-bdd4-ec143c3defe4",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 8.74,
+      "text": "低いパーセントで生き返しますねさあまだ撃墜はしませんまだ撃墜はしません 耐えているDKの空前横必殺を通して追い打ってもうちょっと手前だったか",
+      "language": "ja"
+    },
+    {
+      "start": 8.74,
+      "end": 14.9,
+      "text": "道連れになっていたぞダメだ空下した地上メテオバウンドして遥く",
+      "language": "ja"
+    }
+  ],
+  "full_text": "低いパーセントで生き返しますねさあまだ撃墜はしませんまだ撃墜はしません 耐えているDKの空前横必殺を通して追い打ってもうちょっと手前だったか 道連れになっていたぞダメだ空下した地上メテオバウンドして遥く",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "言い返します",
+      "corrected": "生き返します",
+      "rule": "misheard word"
+    },
+    {
+      "segment_idx": 0,
+      "original": "で生の革命",
+      "corrected": "DKの空前",
+      "rule": "misheard: 生の革命→DKの空前"
+    },
+    {
+      "segment_idx": 0,
+      "original": "応対て",
+      "corrected": "追い打って",
+      "rule": "kanji homophone: 応対→追い打ち"
+    },
+    {
+      "segment_idx": 1,
+      "original": "みじづれ",
+      "corrected": "道連れ",
+      "rule": "kanji homophone"
+    },
+    {
+      "segment_idx": 1,
+      "original": "誰もが空中した",
+      "corrected": "ダメだ空下した",
+      "rule": "misheard: 誰もが→ダメだ, 空中→空下"
+    },
+    {
+      "segment_idx": 1,
+      "original": "はるく",
+      "corrected": "遥く",
+      "rule": "kanji homophone"
+    }
+  ]
+}

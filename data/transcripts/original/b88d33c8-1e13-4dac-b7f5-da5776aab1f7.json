@@ -1,0 +1,51 @@
+{
+  "id": "b88d33c8-1e13-4dac-b7f5-da5776aab1f7",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.3,
+      "text": "みたいな対応を見られますね",
+      "language": "ja"
+    },
+    {
+      "start": 2.3,
+      "end": 5.4,
+      "text": "さあこれ台上空中を狙って",
+      "language": "ja"
+    },
+    {
+      "start": 5.4,
+      "end": 6.68,
+      "text": "大きなリターンを狙っていく",
+      "language": "ja"
+    },
+    {
+      "start": 6.68,
+      "end": 8.58,
+      "text": "いやースノー選手も何かも",
+      "language": "ja"
+    },
+    {
+      "start": 8.58,
+      "end": 10.72,
+      "text": "ここは上スマッシュで撃墜です",
+      "language": "ja"
+    },
+    {
+      "start": 10.72,
+      "end": 12.76,
+      "text": "若干ちょっとやってないような空間",
+      "language": "ja"
+    }
+  ],
+  "full_text": "みたいな対応を見られますね さあこれ台上空中を狙って 大きなリターンを狙っていく いやースノー選手も何かも ここは上スマッシュで撃墜です 若干ちょっとやってないような空間",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "大上空中",
+      "corrected": "台上空中",
+      "rule": "kanji homophone"
+    }
+  ]
+}

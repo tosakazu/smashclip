@@ -1,0 +1,86 @@
+{
+  "id": "1a99c11e-a41d-4d97-ab6d-67e25e3263f2",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.84,
+      "text": "If you don't align the vertical axis, you won't get caught in the dair",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "縦軸さえ揃えなければ空下に巻き込まれることはないんですけど"
+    },
+    {
+      "start": 2.84,
+      "end": 4.52,
+      "text": "But if you don't align the vertical axis...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "縦軸揃えないようにすると"
+    },
+    {
+      "start": 4.52,
+      "end": 5.96,
+      "text": "...you can't juggle on getup anymore",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ゲッチに対して着地狩りできなくなるじゃないですか"
+    },
+    {
+      "start": 5.96,
+      "end": 6.48,
+      "text": "That's tough",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ちょっと難しい"
+    },
+    {
+      "start": 6.48,
+      "end": 9.14,
+      "text": "To catch 'em with ground attacks, you gotta be directly below",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "地上攻撃でゲッチンするにはやっぱり真下とりたいから"
+    },
+    {
+      "start": 9.14,
+      "end": 9.62,
+      "text": "Yeah, that's right",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そうですね"
+    },
+    {
+      "start": 9.62,
+      "end": 10.38,
+      "text": "That's clean!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これうまい"
+    },
+    {
+      "start": 10.38,
+      "end": 11.06,
+      "text": "Yeah!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "はい"
+    }
+  ],
+  "full_text": "If you don't align the vertical axis, you won't get caught in the dair. But if you don't align the vertical axis, you can't juggle on getup anymore. That's tough. To catch 'em with ground attacks, you gotta be directly below. Yeah, that's right. That's clean! Yeah!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "縦軸さえ揃えなければ空車に巻き込まれることはないんですけど",
+      "corrected": "縦軸さえ揃えなければ空下に巻き込まれることはないんですけど",
+      "rule": "Whisper kanji homophone: 空車→空下"
+    },
+    {
+      "segment_idx": 2,
+      "original": "ゲッチンに対して着地回転できなくなるじゃないですか",
+      "corrected": "ゲッチに対して着地狩りできなくなるじゃないですか",
+      "rule": "Whisper mishearing: ゲッチン→ゲッチ, 着地回転→着地狩り"
+    }
+  ]
+}

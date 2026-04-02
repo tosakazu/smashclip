@@ -1,0 +1,33 @@
+{
+  "id": "f7e5d8ab-ef1d-4242-8894-0c4750c74d4f",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.62,
+      "text": "いやーうまいですね",
+      "language": "ja"
+    },
+    {
+      "start": 3.62,
+      "end": 4.6,
+      "text": "JINJINさんのタイミング",
+      "language": "ja"
+    },
+    {
+      "start": 4.6,
+      "end": 7.3,
+      "text": "そしてここ合わせました",
+      "language": "ja"
+    }
+  ],
+  "full_text": "いやーうまいですね JINJINさんのタイミング そしてここ合わせました",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "ビジュアルさんの",
+      "corrected": "JINJINさんの",
+      "rule": "player name: ビジュアル→JINJIN"
+    }
+  ]
+}

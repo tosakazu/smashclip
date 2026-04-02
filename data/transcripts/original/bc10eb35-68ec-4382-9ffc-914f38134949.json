@@ -1,0 +1,39 @@
+{
+  "id": "bc10eb35-68ec-4382-9ffc-914f38134949",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.28,
+      "text": "やはりいつラインが入れ替わってもおかしくない",
+      "language": "ja"
+    },
+    {
+      "start": 2.28,
+      "end": 4.84,
+      "text": "ハイリスクハイリターンな状況とも言えるでしょう",
+      "language": "ja"
+    },
+    {
+      "start": 4.84,
+      "end": 7.74,
+      "text": "さあDjiro選手空Nをうまく",
+      "language": "ja"
+    },
+    {
+      "start": 7.74,
+      "end": 8.84,
+      "text": "最速風神拳の無事",
+      "language": "ja"
+    }
+  ],
+  "full_text": "やはりいつラインが入れ替わってもおかしくない ハイリスクハイリターンな状況とも言えるでしょう さあDjiro選手空Nをうまく 最速風神拳の無事",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "ディジロン選手空営のうまく",
+      "corrected": "Djiro選手空Nをうまく",
+      "rule": "player name"
+    }
+  ]
+}

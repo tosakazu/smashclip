@@ -1,0 +1,57 @@
+{
+  "id": "c9280f8f-fe6b-4e17-81c7-83869864f25f",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.06,
+      "text": "Alright, 130%!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあ130%"
+    },
+    {
+      "start": 2.06,
+      "end": 3.48,
+      "text": "Yeah, for real!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "よっしゃ本当に"
+    },
+    {
+      "start": 3.48,
+      "end": 4.86,
+      "text": "Could KO off the nair right here!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ナイリで撃墜してもおかしくはない"
+    },
+    {
+      "start": 4.86,
+      "end": 7.18,
+      "text": "Luke's built up such a lead",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここまでラインを稼いだリューク"
+    },
+    {
+      "start": 7.18,
+      "end": 8.64,
+      "text": "The dash attack got read!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ダッシュアタックが見られていた"
+    },
+    {
+      "start": 8.64,
+      "end": 9.72,
+      "text": "Up throw for the KO!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "上に投げて撃墜"
+    }
+  ],
+  "full_text": "Alright, 130%! Yeah, for real! Could KO off the nair right here! Luke's built up such a lead. The dash attack got read! Up throw for the KO!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

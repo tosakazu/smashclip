@@ -1,0 +1,33 @@
+{
+  "id": "d3a6763e-9e24-4a67-8222-60ba97bf8093",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.24,
+      "text": "Both players have been taking huge leads up to this point",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "先ほどから大きなリードを取っていた両者"
+    },
+    {
+      "start": 6.24,
+      "end": 8.92,
+      "text": "and there's been some crazy comebacks happening,",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そこから逆転も持ってくるみたいなことがあったんですが"
+    },
+    {
+      "start": 8.92,
+      "end": 11.7,
+      "text": "but this is the first time the stocks are actually shifting in this match",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ストックが傾いたのはこの試合が初めてです"
+    }
+  ],
+  "full_text": "Both players have been taking huge leads up to this point and there's been some crazy comebacks happening, but this is the first time the stocks are actually shifting in this match",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

@@ -1,0 +1,39 @@
+{
+  "id": "63c64e7b-21a1-40b2-8d84-5de9778d7ae3",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.44,
+      "text": "That doesn't really give him many options, because if he just tries anything,",
+      "language": "en"
+    },
+    {
+      "start": 3.74,
+      "end": 6.24,
+      "text": "Light can just, you know, go for a defensive option.",
+      "language": "en"
+    },
+    {
+      "start": 6.44,
+      "end": 7.64,
+      "text": "So, right now he's going for him.",
+      "language": "en"
+    },
+    {
+      "start": 7.82,
+      "end": 9.88,
+      "text": "All the way down, not even Fox coming.",
+      "language": "en"
+    }
+  ],
+  "full_text": "That doesn't really give him many options, because if he just tries anything, Light can just, you know, go for a defensive option. So, right now he's going for him. All the way down, not even Fox coming.",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "Leite",
+      "corrected": "Light",
+      "rule": "player name"
+    }
+  ]
+}

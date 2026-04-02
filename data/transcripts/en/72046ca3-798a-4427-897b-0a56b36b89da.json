@@ -1,0 +1,40 @@
+{
+  "id": "72046ca3-798a-4427-897b-0a56b36b89da",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.56,
+      "text": "Since I don't have many punish options after shielding their aerials...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "相手の空中攻撃をシールドした後に有効な反撃手段が乏しいので"
+    },
+    {
+      "start": 5.56,
+      "end": 9.48,
+      "text": "Against an opponent fishing for the whiff punish...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "じゃあスカし択狙ってくる相手に対しては"
+    },
+    {
+      "start": 9.48,
+      "end": 11.84,
+      "text": "I thought I'd try to fuzzy jump and get ahead of it, but...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ファジージャンプで先に飛んでおこうと思ったんですけど"
+    }
+  ],
+  "full_text": "Since I don't have many punish options after shielding their aerials... Against an opponent fishing for the whiff punish... I thought I'd try to fuzzy jump and get ahead of it, but...",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "スカシタク",
+      "corrected": "スカし択",
+      "rule": "Whisper transcription of smash term"
+    }
+  ]
+}

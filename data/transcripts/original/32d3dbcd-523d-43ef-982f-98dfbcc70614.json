@@ -1,0 +1,63 @@
+{
+  "id": "32d3dbcd-523d-43ef-982f-98dfbcc70614",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.46,
+      "text": "ニュートラル状態においての立ち位置不利のことも考えると",
+      "language": "ja"
+    },
+    {
+      "start": 3.46,
+      "end": 5.24,
+      "text": "全然逆転もしうるだ",
+      "language": "ja"
+    },
+    {
+      "start": 5.24,
+      "end": 7.0,
+      "text": "これを通すと",
+      "language": "ja"
+    },
+    {
+      "start": 7.0,
+      "end": 8.34,
+      "text": "この展開はどうだ",
+      "language": "ja"
+    },
+    {
+      "start": 8.34,
+      "end": 9.16,
+      "text": "うーんバッチリ",
+      "language": "ja"
+    },
+    {
+      "start": 9.16,
+      "end": 11.2,
+      "text": "復帰阻止決めきった",
+      "language": "ja"
+    },
+    {
+      "start": 11.2,
+      "end": 13.56,
+      "text": "今までね復帰阻止いってなかったですからね",
+      "language": "ja"
+    }
+  ],
+  "full_text": "ニュートラル状態においての立ち位置不利のことも考えると 全然逆転もしうるだ これを通すと この展開はどうだ うーんバッチリ 復帰阻止決めきった 今までね復帰阻止いってなかったですからね",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "全然逆転もしやだ",
+      "corrected": "全然逆転もしうるだ",
+      "rule": "misheard: しうる"
+    },
+    {
+      "segment_idx": 4,
+      "original": "うーとはっきり",
+      "corrected": "うーんバッチリ",
+      "rule": "misheard: バッチリ"
+    }
+  ]
+}

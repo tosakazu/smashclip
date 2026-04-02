@@ -1,0 +1,56 @@
+{
+  "id": "4bb13881-0392-49f4-a64d-23889abefecc",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.32,
+      "text": "dodging",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "よけながら"
+    },
+    {
+      "start": 4.32,
+      "end": 6.28,
+      "text": "that's insane!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これきつい"
+    },
+    {
+      "start": 6.28,
+      "end": 7.92,
+      "text": "can he get back?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "帰りはするか"
+    },
+    {
+      "start": 7.92,
+      "end": 9.46,
+      "text": "just bair!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ただ空後"
+    },
+    {
+      "start": 9.46,
+      "end": 10.44,
+      "text": "how's the recovery?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "どう帰るこれ"
+    }
+  ],
+  "full_text": "dodging that's insane! can he get back? just bair! how's the recovery?",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 3,
+      "original": "空中しろ",
+      "corrected": "空後",
+      "rule": "move abbreviation (空中後ろ→空後)"
+    }
+  ]
+}

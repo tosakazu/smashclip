@@ -1,0 +1,81 @@
+{
+  "id": "1eba8d47-5f15-431e-98f6-7f05579e0dd2",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.26,
+      "text": "Ouch!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "痛い"
+    },
+    {
+      "start": 1.26,
+      "end": 3.98,
+      "text": "Even with the tech, still in a really awkward spot",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "受け身取られても逆に気まずい"
+    },
+    {
+      "start": 3.98,
+      "end": 4.7,
+      "text": "That's the situation right now",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "今でありますけどね"
+    },
+    {
+      "start": 4.7,
+      "end": 5.76,
+      "text": "Steve's out of shield",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "スティーブのガーキャン"
+    },
+    {
+      "start": 5.76,
+      "end": 7.78,
+      "text": "The follow-up is crazy strong",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "反撃性能非常に高い"
+    },
+    {
+      "start": 7.78,
+      "end": 9.62,
+      "text": "Up tilt covers it",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "上強でかぶせてる"
+    },
+    {
+      "start": 9.62,
+      "end": 11.28,
+      "text": "And there we go",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあそうですねこれで"
+    },
+    {
+      "start": 11.28,
+      "end": 13.72,
+      "text": "Fair shuts down the recovery!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ライン回復はさせないぞの空前"
+    },
+    {
+      "start": 13.72,
+      "end": 15.28,
+      "text": "Perfect conversion to the KO! Beautiful!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "展開そのまま撃墜お見事です"
+    }
+  ],
+  "full_text": "Ouch! Even with the tech, still in a really awkward spot. That's the situation right now. Steve's out of shield. The follow-up is crazy strong. Up tilt covers it. And there we go. Fair shuts down the recovery! Perfect conversion to the KO! Beautiful!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

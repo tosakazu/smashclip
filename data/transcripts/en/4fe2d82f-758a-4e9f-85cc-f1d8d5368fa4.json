@@ -1,0 +1,40 @@
+{
+  "id": "4fe2d82f-758a-4e9f-85cc-f1d8d5368fa4",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.98,
+      "text": "He takes that but just barely survives!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここは食らってギリOK"
+    },
+    {
+      "start": 0.98,
+      "end": 2.0,
+      "text": "But here...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "しかしここは"
+    },
+    {
+      "start": 2.0,
+      "end": 5.02,
+      "text": "Approach into a quick jab into the dash attack!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "差し込みからのちょび打ちからのダッシュアタック"
+    }
+  ],
+  "full_text": "He takes that but just barely survives! But here... Approach into a quick jab into the dash attack!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "最初と",
+      "corrected": "差し込みからの",
+      "rule": "misheard: 最初と→差し込みからの"
+    }
+  ]
+}

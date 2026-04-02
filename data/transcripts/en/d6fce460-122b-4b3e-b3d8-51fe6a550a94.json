@@ -1,0 +1,116 @@
+{
+  "id": "d6fce460-122b-4b3e-b3d8-51fe6a550a94",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.34,
+      "text": "Setting up those fast up tilts, but...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "技の回転率の高い上強攻撃を置いてはいるんですが"
+    },
+    {
+      "start": 3.34,
+      "end": 5.3,
+      "text": "MASA getting through those, getting through them",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "MASAそれも捌く捌く"
+    },
+    {
+      "start": 5.3,
+      "end": 7.52,
+      "text": "Metal equipment raining down",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "降ってきた鉄の装備たち"
+    },
+    {
+      "start": 7.52,
+      "end": 8.9,
+      "text": "Getting through it",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "それを捌いて"
+    },
+    {
+      "start": 8.9,
+      "end": 12.74,
+      "text": "If that KO connects now, it's really rough",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあ今ので撃墜が通っていれば本当に苦しいが"
+    },
+    {
+      "start": 12.74,
+      "end": 13.72,
+      "text": "Fire Bird!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ファイヤーバードだ"
+    },
+    {
+      "start": 13.72,
+      "end": 16.0,
+      "text": "Can he make it back?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "帰ってこれるんか"
+    },
+    {
+      "start": 16.0,
+      "end": 17.6,
+      "text": "He took the tech!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "受け身取った"
+    },
+    {
+      "start": 17.6,
+      "end": 19.4,
+      "text": "And like a last-second escape, elytra—",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そして緊急脱出のようにエリトラ"
+    },
+    {
+      "start": 19.4,
+      "end": 21.32,
+      "text": "Space base!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "宇宙城だ"
+    },
+    {
+      "start": 21.32,
+      "end": 22.34,
+      "text": "Wrong!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "間違えた"
+    }
+  ],
+  "full_text": "Setting up those fast up tilts, but... MASA getting through those, getting through them Metal equipment raining down Getting through it If that KO connects now, it's really rough Fire Bird! Can he make it back? He took the tech! And like a last-second escape, elytra— Space base! Wrong!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "金の回転率の高い上強攻撃を置いてはいるんですが",
+      "corrected": "技の回転率の高い上強攻撃を置いてはいるんですが",
+      "rule": "whisper_misrecognition"
+    },
+    {
+      "segment_idx": 1,
+      "original": "マサーそれも捌く捌く",
+      "corrected": "MASAそれも捌く捌く",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 8,
+      "original": "そして緊急脱出のようにエルトラ",
+      "corrected": "そして緊急脱出のようにエリトラ",
+      "rule": "Steve move name (エリトラ)"
+    }
+  ]
+}

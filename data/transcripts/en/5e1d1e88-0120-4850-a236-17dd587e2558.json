@@ -1,0 +1,33 @@
+{
+  "id": "5e1d1e88-0120-4850-a236-17dd587e2558",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "text": "One stock again, huh!",
+      "language": "en",
+      "original_language": "es",
+      "original_text": "Segundos otra vez, eh."
+    },
+    {
+      "start": 1.64,
+      "end": 3.12,
+      "text": "Fast, so fast!",
+      "language": "en",
+      "original_language": "es",
+      "original_text": "Rápido, qué rápido, eh."
+    },
+    {
+      "start": 3.86,
+      "end": 5.34,
+      "text": "That projectile... Whoa!",
+      "language": "en",
+      "original_language": "es",
+      "original_text": "Esa bola… ¡Oy!"
+    }
+  ],
+  "full_text": "One stock again, huh! Fast, so fast! That projectile... Whoa!",
+  "detected_language": "en",
+  "original_language": "es",
+  "corrections": []
+}

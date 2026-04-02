@@ -1,0 +1,63 @@
+{
+  "id": "b04986c6-8692-4392-9eb1-21d805329d15",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.18,
+      "text": "上はここはヤマナクション選手",
+      "language": "ja"
+    },
+    {
+      "start": 2.18,
+      "end": 3.84,
+      "text": "ダッシュアタックで差し返す",
+      "language": "ja"
+    },
+    {
+      "start": 3.84,
+      "end": 7.64,
+      "text": "台下から圧を加えたい",
+      "language": "ja"
+    },
+    {
+      "start": 7.64,
+      "end": 8.52,
+      "text": "降り空上?",
+      "language": "ja"
+    },
+    {
+      "start": 8.96,
+      "end": 11.92,
+      "text": "登り空上は当たらなかったんですが弱で拾ってターン継続",
+      "language": "ja"
+    },
+    {
+      "start": 11.92,
+      "end": 13.46,
+      "text": "え空下?",
+      "language": "ja"
+    },
+    {
+      "start": 14.02,
+      "end": 14.5,
+      "text": "撃墜!",
+      "language": "ja"
+    }
+  ],
+  "full_text": "上はここはヤマナクション選手 ダッシュアタックで差し返す 台下から圧を加えたい 降り空上? 登り空上は当たらなかったんですが弱で拾ってターン継続 え空下? 撃墜!",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "山中翔選手",
+      "corrected": "ヤマナクション選手",
+      "rule": "player name (ヤマナクション)"
+    },
+    {
+      "segment_idx": 5,
+      "original": "海空下?",
+      "corrected": "え空下?",
+      "rule": "mishearing"
+    }
+  ]
+}

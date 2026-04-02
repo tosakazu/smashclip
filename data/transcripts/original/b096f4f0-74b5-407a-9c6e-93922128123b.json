@@ -1,0 +1,75 @@
+{
+  "id": "b096f4f0-74b5-407a-9c6e-93922128123b",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.66,
+      "text": "Que nos pudo haber alcanzado a plantar.",
+      "language": "es"
+    },
+    {
+      "start": 1.74,
+      "end": 2.06,
+      "text": "Y no.",
+      "language": "es"
+    },
+    {
+      "start": 2.2,
+      "end": 3.3,
+      "text": "Que es lo que vamos a tener.",
+      "language": "es"
+    },
+    {
+      "start": 3.44,
+      "end": 4.28,
+      "text": "Un intento.",
+      "language": "es"
+    },
+    {
+      "start": 4.66,
+      "end": 5.6,
+      "text": "Para robarle el borde.",
+      "language": "es"
+    },
+    {
+      "start": 5.7,
+      "end": 6.12,
+      "text": "Si el setenta.",
+      "language": "es"
+    },
+    {
+      "start": 6.16,
+      "end": 7.18,
+      "text": "El personaje está verdaderamente.",
+      "language": "es"
+    },
+    {
+      "start": 7.28,
+      "end": 7.72,
+      "text": "Que altísimo.",
+      "language": "es"
+    },
+    {
+      "start": 7.88,
+      "end": 8.82,
+      "text": "Pero con el down smash.",
+      "language": "es"
+    },
+    {
+      "start": 8.82,
+      "end": 9.12,
+      "text": "Le ha.",
+      "language": "es"
+    }
+  ],
+  "full_text": "Que nos pudo haber alcanzado a plantar. Y no. Que es lo que vamos a tener. Un intento. Para robarle el borde. Si el setenta. El personaje está verdaderamente. Que altísimo. Pero con el down smash. Le ha.",
+  "detected_language": "es",
+  "corrections": [
+    {
+      "segment_idx": 8,
+      "original": "dadmash",
+      "corrected": "down smash",
+      "rule": "smash term (down smash)"
+    }
+  ]
+}

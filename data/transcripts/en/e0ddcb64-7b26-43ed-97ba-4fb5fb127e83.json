@@ -1,0 +1,32 @@
+{
+  "id": "e0ddcb64-7b26-43ed-97ba-4fb5fb127e83",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 11.7,
+      "text": "They've been making the most of every precious moment throughout this set, and now they're definitely capitalizing on this crucial opportunity—but they're getting caught and taking the stock...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "たちはあまりにも貴重というのがこれまでの試合展開からでもあってもやめるぞ切り紫もで行きましたよ今その貴重なチャンスを確実にものにはしているが被撃墜として"
+    },
+    {
+      "start": 11.7,
+      "end": 15.76,
+      "text": "That's how it goes, right?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いるものだっすよねーだっすよ"
+    }
+  ],
+  "full_text": "They've been making the most of every precious moment throughout this set, and now they're definitely capitalizing on this crucial opportunity—but they're getting caught and taking the stock... That's how it goes, right?",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "日焼けとして",
+      "corrected": "被撃墜として",
+      "rule": "misheard word"
+    }
+  ]
+}

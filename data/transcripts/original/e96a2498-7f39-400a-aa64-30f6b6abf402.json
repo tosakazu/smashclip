@@ -1,0 +1,45 @@
+{
+  "id": "e96a2498-7f39-400a-aa64-30f6b6abf402",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.58,
+      "text": "スキルして果敢に攻めていく",
+      "language": "ja"
+    },
+    {
+      "start": 1.58,
+      "end": 4.02,
+      "text": "しかしうっちー選手抜けて",
+      "language": "ja"
+    },
+    {
+      "start": 4.02,
+      "end": 6.98,
+      "text": "ここは展開を継続していきたい",
+      "language": "ja"
+    },
+    {
+      "start": 6.98,
+      "end": 11.14,
+      "text": "あとジャンプを使ってしまったので",
+      "language": "ja"
+    },
+    {
+      "start": 11.14,
+      "end": 13.06,
+      "text": "ここはメタナイトがその復帰阻止の",
+      "language": "ja"
+    }
+  ],
+  "full_text": "スキルして果敢に攻めていく しかしうっちー選手抜けて ここは展開を継続していきたい あとジャンプを使ってしまったので ここはメタナイトがその復帰阻止の",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "ウッチー",
+      "corrected": "うっちー",
+      "rule": "player name spelling"
+    }
+  ]
+}

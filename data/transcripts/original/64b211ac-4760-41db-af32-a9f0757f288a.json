@@ -1,0 +1,45 @@
+{
+  "id": "64b211ac-4760-41db-af32-a9f0757f288a",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.64,
+      "text": "Unpredictable, but Miya is taking note of them, is now intercepting him, which is key, versus Pikachu.",
+      "language": "en"
+    },
+    {
+      "start": 4.88,
+      "end": 7.0,
+      "text": "Again, that down air has been doing wonders.",
+      "language": "en"
+    },
+    {
+      "start": 7.4,
+      "end": 9.82,
+      "text": "This is the first stock, and Miya has taken note of that.",
+      "language": "en"
+    },
+    {
+      "start": 10.0,
+      "end": 11.38,
+      "text": "Oh my god, what a ho-",
+      "language": "en"
+    }
+  ],
+  "full_text": "Unpredictable, but Miya is taking note of them, is now intercepting him, which is key, versus Pikachu. Again, that down air has been doing wonders. This is the first stock, and Miya has taken note of that. Oh my god, what a ho-",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "downer",
+      "corrected": "down air",
+      "rule": "Smash move term"
+    },
+    {
+      "segment_idx": 2,
+      "original": "first talk",
+      "corrected": "first stock",
+      "rule": "Smash term (stock)"
+    }
+  ]
+}

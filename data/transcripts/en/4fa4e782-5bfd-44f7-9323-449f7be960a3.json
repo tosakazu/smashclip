@@ -1,0 +1,70 @@
+{
+  "id": "4fa4e782-5bfd-44f7-9323-449f7be960a3",
+  "segments": [
+    {
+      "start": 0.5,
+      "end": 3.12,
+      "text": "So the Pikmin are cycling back in",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあピクミンが結果として回ることになっており"
+    },
+    {
+      "start": 3.12,
+      "end": 4.16,
+      "text": "Two purples right now",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "現在紫2匹"
+    },
+    {
+      "start": 4.16,
+      "end": 7.08,
+      "text": "That purple bair is scary! So scary!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあ紫の空後が怖い怖い"
+    },
+    {
+      "start": 7.08,
+      "end": 9.58,
+      "text": "Throws the purple then spins it out",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "紫投げ切ってからスピンを起動"
+    },
+    {
+      "start": 9.58,
+      "end": 10.68,
+      "text": "Spin's up!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "スピンを起動"
+    },
+    {
+      "start": 10.68,
+      "end": 12.56,
+      "text": "But here comes the back air!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "だがここは空後"
+    }
+  ],
+  "full_text": "So the Pikmin are cycling back in. Two purples right now. That purple bair is scary! So scary! Throws the purple then spins it out. Spin's up! But here comes the back air!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "空へが",
+      "corrected": "空後が",
+      "rule": "move abbreviation: 空へ→空後"
+    },
+    {
+      "segment_idx": 5,
+      "original": "空中後ろ",
+      "corrected": "空後",
+      "rule": "move abbreviation"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "id": "29490344-4a14-4419-9192-63833e7e0a74",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.2,
+      "text": "再度上からの着地",
+      "language": "ja"
+    },
+    {
+      "start": 2.2,
+      "end": 4.64,
+      "text": "2回通してライン有利を得たのは",
+      "language": "ja"
+    },
+    {
+      "start": 4.64,
+      "end": 5.92,
+      "text": "DenKOTAですが",
+      "language": "ja"
+    },
+    {
+      "start": 5.92,
+      "end": 9.2,
+      "text": "剣キャラ特有のシールドに対するプレッシャーで",
+      "language": "ja"
+    },
+    {
+      "start": 9.2,
+      "end": 10.6,
+      "text": "うまくラインを入れ替える",
+      "language": "ja"
+    },
+    {
+      "start": 10.6,
+      "end": 12.9,
+      "text": "ディレイ空Nからヒット確認",
+      "language": "ja"
+    }
+  ],
+  "full_text": "再度上からの着地 2回通してライン有利を得たのは DenKOTAですが 剣キャラ特有のシールドに対するプレッシャーで うまくラインを入れ替える ディレイ空Nからヒット確認",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "デンコタ",
+      "corrected": "DenKOTA",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 3,
+      "original": "ケンケラ",
+      "corrected": "剣キャラ",
+      "rule": "misheard: ケンケラ→剣キャラ"
+    },
+    {
+      "segment_idx": 5,
+      "original": "ディレイクールからヒット確認",
+      "corrected": "ディレイ空Nからヒット確認",
+      "rule": "misheard: クール→空N"
+    }
+  ]
+}

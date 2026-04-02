@@ -1,0 +1,49 @@
+{
+  "id": "0ada095d-4725-4059-9f8d-bd9cefbc0073",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.96,
+      "text": "This is a really important stock right here!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これかなり欲しいですよ"
+    },
+    {
+      "start": 0.96,
+      "end": 1.46,
+      "text": "Yeah!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "はい"
+    },
+    {
+      "start": 2.38,
+      "end": 3.02,
+      "text": "Can he get it?!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "食える?"
+    },
+    {
+      "start": 3.02,
+      "end": 4.02,
+      "text": "What's going to happen?!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "どうなる?"
+    },
+    {
+      "start": 4.02,
+      "end": 5.06,
+      "text": "Go for it! GET THE KO!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "食え!ちぃしろ!"
+    }
+  ],
+  "full_text": "This is a really important stock right here! Yeah! Can he get it?! What's going to happen?! Go for it! GET THE KO!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

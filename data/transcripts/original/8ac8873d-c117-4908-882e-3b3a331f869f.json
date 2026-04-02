@@ -1,0 +1,38 @@
+{
+  "id": "8ac8873d-c117-4908-882e-3b3a331f869f",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.68,
+      "text": "差し返し",
+      "language": "ja"
+    },
+    {
+      "start": 0.68,
+      "end": 5.62,
+      "text": "リンクというよりグルトの元々得意としている横軸の差し合いの部分が",
+      "language": "ja"
+    },
+    {
+      "start": 5.62,
+      "end": 7.86,
+      "text": "リンクでも12分に発揮されているか",
+      "language": "ja"
+    },
+    {
+      "start": 7.86,
+      "end": 9.0,
+      "text": "おー上手",
+      "language": "ja"
+    },
+    {
+      "start": 9.0,
+      "end": 9.88,
+      "text": "なるほど",
+      "language": "ja"
+    }
+  ],
+  "full_text": "差し返し リンクというよりグルトの元々得意としている横軸の差し合いの部分が リンクでも12分に発揮されているか おー上手 なるほど",
+  "detected_language": "ja",
+  "corrections": []
+}

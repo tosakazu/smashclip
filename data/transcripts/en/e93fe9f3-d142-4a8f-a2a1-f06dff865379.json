@@ -1,0 +1,80 @@
+{
+  "id": "e93fe9f3-d142-4a8f-a2a1-f06dff865379",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.16,
+      "text": "gives the impression they're in control, but",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "取っている印象がありますが"
+    },
+    {
+      "start": 1.16,
+      "end": 3.14,
+      "text": "the damage lead goes to",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "パーセントリードしてるのは"
+    },
+    {
+      "start": 3.14,
+      "end": 4.88,
+      "text": "Neo, right?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ネオ選手側なんですよね"
+    },
+    {
+      "start": 4.88,
+      "end": 7.42,
+      "text": "Neo's up roughly 100%",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "おおよそ100%リードがありますから"
+    },
+    {
+      "start": 7.42,
+      "end": 9.0,
+      "text": "grab",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "掴む"
+    },
+    {
+      "start": 9.0,
+      "end": 10.02,
+      "text": "throw",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "投げ込む"
+    },
+    {
+      "start": 10.02,
+      "end": 12.28,
+      "text": "he escapes that with DI",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここはベク変でかわしてきた"
+    },
+    {
+      "start": 12.28,
+      "end": 15.7,
+      "text": "applying pressure with tipper spacing",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "後ろの圧をかけつつ先端"
+    }
+  ],
+  "full_text": "gives the impression they're in control, but the damage lead goes to Neo, right? Neo's up roughly 100% grab throw he escapes that with DI applying pressure with tipper spacing",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 6,
+      "original": "変更でかしてきた",
+      "corrected": "ベク変でかわしてきた",
+      "rule": "smash term: 変更→ベク変"
+    }
+  ]
+}

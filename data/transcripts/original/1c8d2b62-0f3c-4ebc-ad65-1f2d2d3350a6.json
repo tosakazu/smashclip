@@ -1,0 +1,44 @@
+{
+  "id": "1c8d2b62-0f3c-4ebc-ad65-1f2d2d3350a6",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.96,
+      "text": "かなりね",
+      "language": "ja"
+    },
+    {
+      "start": 0.96,
+      "end": 2.54,
+      "text": "機能してますね",
+      "language": "ja"
+    },
+    {
+      "start": 2.54,
+      "end": 2.94,
+      "text": "これは",
+      "language": "ja"
+    },
+    {
+      "start": 2.94,
+      "end": 4.74,
+      "text": "危ない下投げ空中上",
+      "language": "ja"
+    },
+    {
+      "start": 4.74,
+      "end": 5.72,
+      "text": "あわや撃墜といったところ",
+      "language": "ja"
+    },
+    {
+      "start": 5.72,
+      "end": 6.42,
+      "text": "えー",
+      "language": "ja"
+    }
+  ],
+  "full_text": "かなりね 機能してますね これは 危ない下投げ空中上 あわや撃墜といったところ えー",
+  "detected_language": "ja",
+  "corrections": []
+}

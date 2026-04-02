@@ -1,0 +1,38 @@
+{
+  "id": "23b9f884-bbee-4b47-a1d4-8c81b927391d",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.8,
+      "text": "Product of the Sumipa, um, development cycle.",
+      "language": "en"
+    },
+    {
+      "start": 4.22,
+      "end": 5.42,
+      "text": "Uh, used to be a 2-2-er here.",
+      "language": "en"
+    },
+    {
+      "start": 5.98,
+      "end": 10.22,
+      "text": "Now, second best Olimar player in the world and can beat the likes of Acola.",
+      "language": "en"
+    },
+    {
+      "start": 10.76,
+      "end": 15.52,
+      "text": "So, um, yeah. Crazy development from both of these guys.",
+      "language": "en"
+    },
+    {
+      "start": 15.7,
+      "end": 17.88,
+      "text": "Oh! No way!",
+      "language": "en"
+    }
+  ],
+  "full_text": "Product of the Sumipa, um, development cycle. Uh, used to be a 2-2-er here. Now, second best Olimar player in the world and can beat the likes of Acola. So, um, yeah. Crazy development from both of these guys. Oh! No way!",
+  "detected_language": "en",
+  "corrections": []
+}

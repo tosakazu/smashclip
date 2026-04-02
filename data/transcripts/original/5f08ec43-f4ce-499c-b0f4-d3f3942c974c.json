@@ -1,0 +1,32 @@
+{
+  "id": "5f08ec43-f4ce-499c-b0f4-d3f3942c974c",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.44,
+      "text": "こうしています",
+      "language": "ja"
+    },
+    {
+      "start": 0.44,
+      "end": 6.42,
+      "text": "空中タイムから横強を繋いでいった",
+      "language": "ja"
+    },
+    {
+      "start": 6.42,
+      "end": 7.24,
+      "text": "これは",
+      "language": "ja"
+    },
+    {
+      "start": 7.24,
+      "end": 9.36,
+      "text": "ジャンプがない",
+      "language": "ja"
+    }
+  ],
+  "full_text": "こうしています 空中タイムから横強を繋いでいった これは ジャンプがない",
+  "detected_language": "ja",
+  "corrections": []
+}

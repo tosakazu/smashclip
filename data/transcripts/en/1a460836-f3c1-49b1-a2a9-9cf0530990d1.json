@@ -1,0 +1,56 @@
+{
+  "id": "1a460836-f3c1-49b1-a2a9-9cf0530990d1",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.56,
+      "text": "Toon Link and Dr. Mario!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "今度はツムストとドクターマリオ"
+    },
+    {
+      "start": 1.56,
+      "end": 5.2,
+      "text": "Capsule mixup!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "カプセル読み合い"
+    },
+    {
+      "start": 5.2,
+      "end": 8.28,
+      "text": "Shiro's jumping out of the grab!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "つかみをジャンプで受ける白雪"
+    },
+    {
+      "start": 8.28,
+      "end": 10.02,
+      "text": "Up B",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "上Bを"
+    },
+    {
+      "start": 10.02,
+      "end": 11.24,
+      "text": "Landing it! Landing it! Landing it!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "入れてきてきて"
+    }
+  ],
+  "full_text": "Toon Link and Dr. Mario! Capsule mixup! Shiro's jumping out of the grab! Up B Landing it! Landing it! Landing it!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "今度はジムスとダクターマリオ",
+      "corrected": "今度はツムストとドクターマリオ",
+      "rule": "Player name correction: ジムス→ツムスト (Tsumusuto), ダクター→ドクター"
+    }
+  ]
+}

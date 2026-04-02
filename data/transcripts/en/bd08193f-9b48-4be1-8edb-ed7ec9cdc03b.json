@@ -1,0 +1,49 @@
+{
+  "id": "bd08193f-9b48-4be1-8edb-ed7ec9cdc03b",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.88,
+      "text": "10 percent!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "10%!"
+    },
+    {
+      "start": 0.88,
+      "end": 1.78,
+      "text": "Oh my God!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "うわぁぁぁぁぁぁぁぁぁぁぁぁぁぁぁ!"
+    },
+    {
+      "start": 4.28,
+      "end": 4.84,
+      "text": "This is!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これは!"
+    },
+    {
+      "start": 4.84,
+      "end": 6.1,
+      "text": "Insane!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "うますぎる!"
+    },
+    {
+      "start": 6.1,
+      "end": 7.54,
+      "text": "What?! No way!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "えぇ!まさかのぉ!"
+    }
+  ],
+  "full_text": "10 percent! Oh my God! This is! Insane! What?! No way!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

@@ -1,0 +1,45 @@
+{
+  "id": "98bcd56f-75f0-4e1d-8723-602e0b8c89c9",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "text": "バッと入れた!",
+      "language": "ja"
+    },
+    {
+      "start": 1.0,
+      "end": 3.0,
+      "text": "そのなかに踏み切った!",
+      "language": "ja"
+    },
+    {
+      "start": 3.0,
+      "end": 7.0,
+      "text": "ことごとくの選択肢が全てTweekに届いているが",
+      "language": "ja"
+    }
+  ],
+  "full_text": "バッと入れた! そのなかに踏み切った! ことごとくの選択肢が全てTweekに届いているが",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "バッターレイド",
+      "corrected": "バッと入れた",
+      "rule": "Whisper misheard"
+    },
+    {
+      "segment_idx": 1,
+      "original": "飛び切った",
+      "corrected": "踏み切った",
+      "rule": "Whisper misheard"
+    },
+    {
+      "segment_idx": 2,
+      "original": "スイッチ",
+      "corrected": "Tweek",
+      "rule": "player name"
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "id": "719c3bea-500f-4acc-8cc1-a0b6839e929f",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.24,
+      "text": "空前から逃れていく空中N ジャストシールドですが",
+      "language": "ja"
+    },
+    {
+      "start": 3.24,
+      "end": 4.68,
+      "text": "その後の攻撃とも優秀",
+      "language": "ja"
+    },
+    {
+      "start": 4.68,
+      "end": 6.66,
+      "text": "空中シールドは持続ヒットにはなりましたが",
+      "language": "ja"
+    },
+    {
+      "start": 6.66,
+      "end": 7.72,
+      "text": "崖展開は獲得した",
+      "language": "ja"
+    },
+    {
+      "start": 7.72,
+      "end": 9.32,
+      "text": "この崖はどういったんですか",
+      "language": "ja"
+    },
+    {
+      "start": 9.32,
+      "end": 11.38,
+      "text": "なるほど体を切り離して空中前攻撃",
+      "language": "ja"
+    },
+    {
+      "start": 11.38,
+      "end": 12.44,
+      "text": "メテオをぶつけていきますが",
+      "language": "ja"
+    },
+    {
+      "start": 12.44,
+      "end": 13.74,
+      "text": "ダイブ展開はまずすぎるぞ",
+      "language": "ja"
+    },
+    {
+      "start": 13.74,
+      "end": 15.44,
+      "text": "もう完璧崖展開",
+      "language": "ja"
+    }
+  ],
+  "full_text": "空前から逃れていく空中N ジャストシールドですが その後の攻撃とも優秀 空中シールドは持続ヒットにはなりましたが 崖展開は獲得した この崖はどういったんですか なるほど体を切り離して空中前攻撃 メテオをぶつけていきますが ダイブ展開はまずすぎるぞ もう完璧崖展開",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_index": 0,
+      "original": "前から逃れていく空中エンジャースシールドですが",
+      "corrected": "空前から逃れていく空中N ジャストシールドですが"
+    },
+    {
+      "segment_index": 3,
+      "original": "ガキ展開は獲得した",
+      "corrected": "崖展開は獲得した"
+    },
+    {
+      "segment_index": 4,
+      "original": "このガキはどういったんですか",
+      "corrected": "この崖はどういったんですか"
+    },
+    {
+      "segment_index": 8,
+      "original": "フール完璧ガキ展開",
+      "corrected": "もう完璧崖展開"
+    }
+  ]
+}

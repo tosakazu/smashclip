@@ -1,0 +1,27 @@
+{
+  "id": "9ad9a284-6b3f-412c-8dbd-03014a689e80",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.64,
+      "text": "that then decided to start picking up Greninja and oh my god he has to twist",
+      "language": "en"
+    },
+    {
+      "start": 3.64,
+      "end": 7.56,
+      "text": "twist around the blocks but Niner off the stage again oh my god Onin baited",
+      "language": "en"
+    }
+  ],
+  "full_text": "that then decided to start picking up Greninja and oh my god he has to twist twist around the blocks but Niner off the stage again oh my god Onin baited",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "Odin",
+      "corrected": "Onin",
+      "rule": "player name"
+    }
+  ]
+}

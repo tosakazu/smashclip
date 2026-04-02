@@ -1,0 +1,24 @@
+{
+  "id": "19ea81d3-4f64-416a-9777-6931798187ee",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 7.64,
+      "text": "And now the side slash pattern's got crazy power too! This is insane, right? Yeah, a bit up in the air...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "と今度は横斬りパターンも威力高っ これ強いですよねうんちょっと空中にとっ"
+    }
+  ],
+  "full_text": "And now the side slash pattern's got crazy power too! This is insane, right? Yeah, a bit up in the air...",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "と今度は横切りパターンも以来起こっ これ強いですよねうんちょっと空中にとっ",
+      "corrected": "と今度は横斬りパターンも威力高っ これ強いですよねうんちょっと空中にとっ",
+      "rule": "Whisper kanji homophone: 横切り→横斬り (Corrin move), 以来起こっ→威力高っ"
+    }
+  ]
+}

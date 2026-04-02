@@ -1,0 +1,57 @@
+{
+  "id": "06a07e81-2a17-489d-b611-9b644d7928e5",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.36,
+      "text": "さあ念願スピン通りましたね",
+      "language": "ja"
+    },
+    {
+      "start": 2.36,
+      "end": 4.44,
+      "text": "やはりスピンが通ると火力一気に伸びますね",
+      "language": "ja"
+    },
+    {
+      "start": 4.44,
+      "end": 5.66,
+      "text": "さあ",
+      "language": "ja"
+    },
+    {
+      "start": 5.66,
+      "end": 8.0,
+      "text": "空Nが偉いですね",
+      "language": "ja"
+    },
+    {
+      "start": 8.0,
+      "end": 9.58,
+      "text": "ここに来てスピンが通り出した",
+      "language": "ja"
+    },
+    {
+      "start": 9.58,
+      "end": 10.64,
+      "text": "着地狩りがよう…",
+      "language": "ja"
+    }
+  ],
+  "full_text": "さあ念願スピン通りましたね やはりスピンが通ると火力一気に伸びますね さあ 空Nが偉いですね ここに来てスピンが通り出した 着地狩りがよう…",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 3,
+      "original": "空中ネムが偉いですね",
+      "corrected": "空Nが偉いですね",
+      "rule": "Move abbreviation correction (空中ネム → 空N)"
+    },
+    {
+      "segment_idx": 5,
+      "original": "アクシガリがようこそ",
+      "corrected": "着地狩りがよう…",
+      "rule": "Kanji homophone correction (アクシガリ → 着地狩り)"
+    }
+  ]
+}

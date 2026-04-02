@@ -1,0 +1,27 @@
+{
+  "id": "9a3a126c-e316-44d4-a4e2-8ef0dbc278b4",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 8.94,
+      "text": "笑えないここ弱3段撃墜通してきましたレイジがあるカズヤが残っているちょっと邪魔だなこのレイジ投げ始動ができないんで確かにそうですねそうですね",
+      "language": "ja"
+    }
+  ],
+  "full_text": "笑えないここ弱3段撃墜通してきましたレイジがあるカズヤが残っているちょっと邪魔だなこのレイジ投げ始動ができないんで確かにそうですねそうですね",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "弱3弾",
+      "corrected": "弱3段",
+      "rule": "kanji homophone"
+    },
+    {
+      "segment_idx": 0,
+      "original": "投げ自動",
+      "corrected": "投げ始動",
+      "rule": "kanji homophone"
+    }
+  ]
+}

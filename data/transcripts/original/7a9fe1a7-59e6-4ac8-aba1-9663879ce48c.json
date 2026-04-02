@@ -1,0 +1,62 @@
+{
+  "id": "7a9fe1a7-59e6-4ac8-aba1-9663879ce48c",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.32,
+      "text": "ソニックこうなってくると",
+      "language": "ja"
+    },
+    {
+      "start": 1.32,
+      "end": 4.6,
+      "text": "当然ルイージが触れる位置にソニックがいるはずもなく",
+      "language": "ja"
+    },
+    {
+      "start": 4.6,
+      "end": 5.24,
+      "text": "おっと触った?",
+      "language": "ja"
+    },
+    {
+      "start": 5.5,
+      "end": 6.44,
+      "text": "上強で拾ったが",
+      "language": "ja"
+    },
+    {
+      "start": 6.44,
+      "end": 8.0,
+      "text": "まあここは即死にはならない",
+      "language": "ja"
+    },
+    {
+      "start": 8.0,
+      "end": 9.0,
+      "text": "当たり方ですね",
+      "language": "ja"
+    },
+    {
+      "start": 9.0,
+      "end": 9.66,
+      "text": "お前",
+      "language": "ja"
+    },
+    {
+      "start": 9.66,
+      "end": 11.1,
+      "text": "うわーやりすぎる",
+      "language": "ja"
+    },
+    {
+      "start": 11.1,
+      "end": 11.3,
+      "text": "あれ?",
+      "language": "ja"
+    }
+  ],
+  "full_text": "ソニックこうなってくると 当然ルイージが触れる位置にソニックがいるはずもなく おっと触った? 上強で拾ったが まあここは即死にはならない 当たり方ですね お前 うわーやりすぎる あれ?",
+  "detected_language": "ja",
+  "corrections": []
+}

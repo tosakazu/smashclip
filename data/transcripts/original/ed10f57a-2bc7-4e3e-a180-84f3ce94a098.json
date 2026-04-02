@@ -1,0 +1,51 @@
+{
+  "id": "ed10f57a-2bc7-4e3e-a180-84f3ce94a098",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.4,
+      "text": "チコが嫌な位置にいる",
+      "language": "ja"
+    },
+    {
+      "start": 1.4,
+      "end": 2.58,
+      "text": "空中Nドラマバレー",
+      "language": "ja"
+    },
+    {
+      "start": 2.58,
+      "end": 5.32,
+      "text": "台上で受け身を取ったところ",
+      "language": "ja"
+    },
+    {
+      "start": 5.32,
+      "end": 6.9,
+      "text": "チコが攻撃を重ねるかというところ",
+      "language": "ja"
+    },
+    {
+      "start": 6.9,
+      "end": 7.66,
+      "text": "空中",
+      "language": "ja"
+    }
+  ],
+  "full_text": "チコが嫌な位置にいる 空中Nドラマバレー 台上で受け身を取ったところ チコが攻撃を重ねるかというところ 空中",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "空中にドラマバレー",
+      "corrected": "空中Nドラマバレー",
+      "rule": "misheard: 空中に→空中N"
+    },
+    {
+      "segment_idx": 2,
+      "original": "雷雨で受け身",
+      "corrected": "台上で受け身",
+      "rule": "kanji homophone: 雷雨→台上"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": "8122af02-080a-4d15-b3dd-e206025cb7e2",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.0,
+      "text": "Out of shield nair!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ガーキャン空N"
+    },
+    {
+      "start": 5.0,
+      "end": 7.42,
+      "text": "Nair into the guaranteed bair!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空N持続から空後の確定と"
+    }
+  ],
+  "full_text": "Out of shield nair! Nair into the guaranteed bair!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "ガーキャンクエネ",
+      "corrected": "ガーキャン空N",
+      "rule": "move abbreviation"
+    },
+    {
+      "segment_idx": 1,
+      "original": "クエネ持続から空中死の確定と",
+      "corrected": "空N持続から空後の確定と",
+      "rule": "move abbreviation + kanji homophone"
+    }
+  ]
+}

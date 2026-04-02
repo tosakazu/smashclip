@@ -1,0 +1,30 @@
+{
+  "id": "c9021a5c-002e-4025-8cb2-d70a05ea8ee1",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.16,
+      "text": "Ledge grab again! Yeah, but watch the hitbox there—gotta be careful. Ah, there's the nair!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "もう崖つかまりいやーでもそうですね判定だしちょっと気をつけあーこれはネール"
+    }
+  ],
+  "full_text": "Ledge grab again! Yeah, but watch the hitbox there—gotta be careful. Ah, there's the nair!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "がけつかわり",
+      "corrected": "崖つかまり",
+      "rule": "smash term (崖つかまり)"
+    },
+    {
+      "segment_idx": 0,
+      "original": "ネイル",
+      "corrected": "ネール",
+      "rule": "character move (Nayru's Love / ネールの愛)"
+    }
+  ]
+}

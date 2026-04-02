@@ -1,0 +1,80 @@
+{
+  "id": "104e0c94-2cdb-4156-b901-d636f34b99f8",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.12,
+      "text": "Countering with forward smash!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さすがに横スマで反撃か"
+    },
+    {
+      "start": 1.12,
+      "end": 3.82,
+      "text": "Great read, he's stealing the counterattack!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "判断早くて反撃を奪ってきます"
+    },
+    {
+      "start": 3.82,
+      "end": 6.18,
+      "text": "Link could've actually blocked that",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "確かにリンクだったら阻止できるか"
+    },
+    {
+      "start": 6.18,
+      "end": 8.78,
+      "text": "These big moves are just too strong",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "大きい技が優秀で"
+    },
+    {
+      "start": 8.78,
+      "end": 10.1,
+      "text": "And that just broke down!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これは崩れたね"
+    },
+    {
+      "start": 10.1,
+      "end": 11.46,
+      "text": "If this doesn't randomly come out...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これ暴発しないと"
+    },
+    {
+      "start": 11.46,
+      "end": 13.36,
+      "text": "It won't connect!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "届かない"
+    },
+    {
+      "start": 13.36,
+      "end": 14.48,
+      "text": "Insane!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "すごい"
+    }
+  ],
+  "full_text": "Countering with forward smash! Great read, he's stealing the counterattack! Link could've actually blocked that. These big moves are just too strong. And that just broke down! If this doesn't randomly come out... It won't connect! Insane!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "さすがによこそまで反撃か",
+      "corrected": "さすがに横スマで反撃か",
+      "rule": "Move abbreviation: よこそま→横スマ (forward smash)"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "f7e5d8ab-ef1d-4242-8894-0c4750c74d4f",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.62,
+      "text": "Man, that's clean!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いやーうまいですね"
+    },
+    {
+      "start": 3.62,
+      "end": 4.6,
+      "text": "JINJIN's timing",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "JINJINさんのタイミング"
+    },
+    {
+      "start": 4.6,
+      "end": 7.3,
+      "text": "And landed the punish right there!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そしてここ合わせました"
+    }
+  ],
+  "full_text": "Man, that's clean! JINJIN's timing And landed the punish right there!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "ビジュアルさんの",
+      "corrected": "JINJINさんの",
+      "rule": "player name: ビジュアル→JINJIN"
+    }
+  ]
+}

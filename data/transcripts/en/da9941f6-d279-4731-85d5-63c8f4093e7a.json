@@ -1,0 +1,32 @@
+{
+  "id": "da9941f6-d279-4731-85d5-63c8f4093e7a",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 7.18,
+      "text": "Dodges the meteor with down tilt - here, even with the tight escape window, just like that the rising nair connects!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "メテオ交わした下強からここは採掘時間を増したがあっというところですよ 昇り空Nをコンピュートって言った"
+    },
+    {
+      "start": 7.18,
+      "end": 12.56,
+      "text": "At this point, does auto cancel appear to have frames that are locked in place?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "もはやオートキャンセルはフレームが固定されているように見えるだろうか"
+    }
+  ],
+  "full_text": "Dodges the meteor with down tilt - here, even with the tight escape window, just like that the rising nair connects! At this point, does auto cancel appear to have frames that are locked in place?",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "目をかわせした今日本からここは採掘時間を増したがあっというところですよ 上り口をコンピューントって言った",
+      "corrected": "メテオ交わした下強からここは採掘時間を増したがあっというところですよ 昇り空Nをコンピュートって言った",
+      "rule": "kanji homophone (下強)"
+    }
+  ]
+}

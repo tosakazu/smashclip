@@ -1,0 +1,39 @@
+{
+  "id": "fd1cebef-456b-4a8b-a5a2-f682d52ce5b1",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.38,
+      "text": "反撃",
+      "language": "ja"
+    },
+    {
+      "start": 0.38,
+      "end": 5.54,
+      "text": "この反撃を取ったことによって",
+      "language": "ja"
+    },
+    {
+      "start": 5.54,
+      "end": 7.24,
+      "text": "アルセーヌを呼び出すことに成功",
+      "language": "ja"
+    },
+    {
+      "start": 7.24,
+      "end": 9.98,
+      "text": "ザクレイをやや前のめりにさせて",
+      "language": "ja"
+    }
+  ],
+  "full_text": "反撃 この反撃を取ったことによって アルセーヌを呼び出すことに成功 ザクレイをやや前のめりにさせて",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "R性能を呼び出す",
+      "corrected": "アルセーヌを呼び出す",
+      "rule": "misheard: R性能→アルセーヌ (Joker's Arsene)"
+    }
+  ]
+}

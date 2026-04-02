@@ -1,0 +1,27 @@
+{
+  "id": "81d1616f-1eb1-42fd-a99b-fbba321ce944",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.8,
+      "text": "in absolute control roy oh yeah we did definitely see Raru start to pick things up by the very end",
+      "language": "en"
+    },
+    {
+      "start": 5.8,
+      "end": 9.42,
+      "text": "so i think this is not a misjudgment out of the japanese player",
+      "language": "en"
+    }
+  ],
+  "full_text": "in absolute control roy oh yeah we did definitely see Raru start to pick things up by the very end so i think this is not a misjudgment out of the japanese player",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "raro",
+      "corrected": "Raru",
+      "rule": "player name"
+    }
+  ]
+}

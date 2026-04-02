@@ -1,0 +1,39 @@
+{
+  "id": "c305bcc7-5bb9-4308-8e55-c74a0a3a1a48",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.86,
+      "text": "上から落ちてきます",
+      "language": "ja"
+    },
+    {
+      "start": 1.86,
+      "end": 3.7,
+      "text": "爆弾を当ててからの空中へ",
+      "language": "ja"
+    },
+    {
+      "start": 3.7,
+      "end": 5.0,
+      "text": "しかし撃墜に当たらない",
+      "language": "ja"
+    },
+    {
+      "start": 5.0,
+      "end": 10.18,
+      "text": "そしてこれはなんと",
+      "language": "ja"
+    }
+  ],
+  "full_text": "上から落ちてきます 爆弾を当ててからの空中へ しかし撃墜に当たらない そしてこれはなんと",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "撃沈",
+      "corrected": "撃墜",
+      "rule": "smash term"
+    }
+  ]
+}

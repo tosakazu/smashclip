@@ -1,0 +1,128 @@
+{
+  "id": "eea9b476-dddc-48fd-b344-b458c4a73b07",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.2,
+      "text": "Won't connect",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "対して当たらない"
+    },
+    {
+      "start": 1.2,
+      "end": 3.72,
+      "text": "Gets the bair mash out!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空後の暴れをうまく通した"
+    },
+    {
+      "start": 3.72,
+      "end": 4.28,
+      "text": "Yaura",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "Yaura"
+    },
+    {
+      "start": 4.28,
+      "end": 6.04,
+      "text": "Shields the dash shot",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ダッシュショットはガードして"
+    },
+    {
+      "start": 6.04,
+      "end": 6.98,
+      "text": "Ryuk",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "Ryuk"
+    },
+    {
+      "start": 6.98,
+      "end": 8.88,
+      "text": "Going in aggressively but",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "攻め入るんですけど"
+    },
+    {
+      "start": 8.88,
+      "end": 10.8,
+      "text": "Even as the gap closes",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "距離を縮めても"
+    },
+    {
+      "start": 10.8,
+      "end": 12.36,
+      "text": "Won't get grabbed",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "捕まることはしない"
+    },
+    {
+      "start": 12.36,
+      "end": 13.46,
+      "text": "Lands Neutral B too",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "NBも当てて"
+    },
+    {
+      "start": 13.46,
+      "end": 14.3,
+      "text": "Does this connect?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これ入れるのか?"
+    },
+    {
+      "start": 15.14,
+      "end": 15.94,
+      "text": "Doesn't land",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "入れない"
+    }
+  ],
+  "full_text": "Won't connect Gets the bair mash out! Yaura Shields the dash shot Ryuk Going in aggressively but Even as the gap closes Won't get grabbed Lands Neutral B too Does this connect? Doesn't land",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "空中後ろ手の暴れ",
+      "corrected": "空後の暴れ",
+      "rule": "abbreviation"
+    },
+    {
+      "segment_idx": 2,
+      "original": "矢浦",
+      "corrected": "Yaura",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 4,
+      "original": "リューク",
+      "corrected": "Ryuk",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 5,
+      "original": "攻めいるんですけど",
+      "corrected": "攻め入るんですけど",
+      "rule": "typo"
+    },
+    {
+      "segment_idx": 8,
+      "original": "Bも当てて",
+      "corrected": "NBも当てて",
+      "rule": "misheard: B→NB"
+    }
+  ]
+}

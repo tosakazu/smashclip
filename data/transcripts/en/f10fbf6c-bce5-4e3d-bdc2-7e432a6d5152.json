@@ -1,0 +1,56 @@
+{
+  "id": "f10fbf6c-bce5-4e3d-bdc2-7e432a6d5152",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.3,
+      "text": "The landing gets through here!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここは着地が通って"
+    },
+    {
+      "start": 2.3,
+      "end": 4.16,
+      "text": "Grab!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "つかみ"
+    },
+    {
+      "start": 4.16,
+      "end": 6.04,
+      "text": "Raidein",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ライデイン"
+    },
+    {
+      "start": 6.04,
+      "end": 7.84,
+      "text": "Landing's connecting!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "着地が通っていて"
+    },
+    {
+      "start": 7.84,
+      "end": 9.56,
+      "text": "Forward tilt!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "横強攻撃"
+    }
+  ],
+  "full_text": "The landing gets through here! Grab! Raidein Landing's connecting! Forward tilt!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "雷電",
+      "corrected": "ライデイン",
+      "rule": "Hero spell name: 雷電→ライデイン"
+    }
+  ]
+}

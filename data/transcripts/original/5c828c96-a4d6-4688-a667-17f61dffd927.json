@@ -1,0 +1,39 @@
+{
+  "id": "5c828c96-a4d6-4688-a667-17f61dffd927",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.54,
+      "text": "空中にいたのかとって143%",
+      "language": "ja"
+    },
+    {
+      "start": 3.54,
+      "end": 4.82,
+      "text": "もうここまで来たら",
+      "language": "ja"
+    },
+    {
+      "start": 4.82,
+      "end": 6.8,
+      "text": "行くしかないぞヨネピ横強で通して",
+      "language": "ja"
+    },
+    {
+      "start": 6.8,
+      "end": 8.56,
+      "text": "26%対0%",
+      "language": "ja"
+    }
+  ],
+  "full_text": "空中にいたのかとって143% もうここまで来たら 行くしかないぞヨネピ横強で通して 26%対0%",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "ヨネピヨコキョで通して",
+      "corrected": "ヨネピ横強で通して",
+      "rule": "move name"
+    }
+  ]
+}

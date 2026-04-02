@@ -1,0 +1,86 @@
+{
+  "id": "d6b780d0-adb5-4ab4-9195-1cc663c928ce",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.88,
+      "text": "Yeah, the escape situation",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "はい、逃げかけの展開"
+    },
+    {
+      "start": 0.88,
+      "end": 3.36,
+      "text": "Back air, and—",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空後、さあこれは"
+    },
+    {
+      "start": 3.36,
+      "end": 6.26,
+      "text": "Saving his jump",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ジャンプを取っておいている"
+    },
+    {
+      "start": 6.26,
+      "end": 9.42,
+      "text": "Sealing the ledge getup",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "が、崖上がりのジャッジで固めて"
+    },
+    {
+      "start": 9.42,
+      "end": 12.4,
+      "text": "Even though it hit about 3x harder than on other characters",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "なんか他のキャラの3倍くらい入ってたけど"
+    },
+    {
+      "start": 12.4,
+      "end": 14.0,
+      "text": "Still rolling with it",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "まだ続くこの"
+    },
+    {
+      "start": 14.0,
+      "end": 14.72,
+      "text": "Yeah",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そうですね"
+    },
+    {
+      "start": 14.72,
+      "end": 15.0,
+      "text": "Up",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "上"
+    }
+  ],
+  "full_text": "Yeah, the escape situation Back air, and— Saving his jump Sealing the ledge getup Even though it hit about 3x harder than on other characters Still rolling with it Yeah Up",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "くご、さあこれは",
+      "corrected": "空後、さあこれは",
+      "rule": "smash term (くご→空後)"
+    },
+    {
+      "segment_idx": 3,
+      "original": "ジャックで固めて",
+      "corrected": "ジャッジで固めて",
+      "rule": "smash term (ジャック→ジャッジ, G&W side B)"
+    }
+  ]
+}

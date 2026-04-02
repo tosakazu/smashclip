@@ -1,0 +1,45 @@
+{
+  "id": "5f5656ff-9d0e-468b-af3c-2b9ff9d12444",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.16,
+      "text": "ガケ狩りが嫌すぎる",
+      "language": "ja"
+    },
+    {
+      "start": 4.16,
+      "end": 6.0,
+      "text": "弱から横スマッシュ",
+      "language": "ja"
+    },
+    {
+      "start": 6.78,
+      "end": 7.52,
+      "text": "え?",
+      "language": "ja"
+    },
+    {
+      "start": 7.86,
+      "end": 9.82,
+      "text": "なになになになになに",
+      "language": "ja"
+    },
+    {
+      "start": 9.82,
+      "end": 11.4,
+      "text": "ボールか",
+      "language": "ja"
+    }
+  ],
+  "full_text": "ガケ狩りが嫌すぎる 弱から横スマッシュ え? なになになになになに ボールか",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "ジャックから明日スマッシュ",
+      "corrected": "弱から横スマッシュ",
+      "rule": "misheard smash terms"
+    }
+  ]
+}

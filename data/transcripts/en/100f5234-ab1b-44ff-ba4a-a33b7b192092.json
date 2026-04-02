@@ -1,0 +1,46 @@
+{
+  "id": "100f5234-ab1b-44ff-ba4a-a33b7b192092",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.62,
+      "text": "Miya",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "Miya選手"
+    },
+    {
+      "start": 0.62,
+      "end": 3.72,
+      "text": "Yeah, but seriously, with this speedy Sonic though...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いやーでも本当にこのスピーディーなソニックに出し"
+    },
+    {
+      "start": 3.72,
+      "end": 6.32,
+      "text": "Oh! And the bair connects perfectly!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "おっと空後もこれはうまく合わせてみせました"
+    }
+  ],
+  "full_text": "Miya Yeah, but seriously, with this speedy Sonic though... Oh! And the bair connects perfectly!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "宮選手",
+      "corrected": "Miya選手",
+      "rule": "Player name: 宮→Miya"
+    },
+    {
+      "segment_idx": 2,
+      "original": "おっと口城もこれはうまく合わせてみせました",
+      "corrected": "おっと空後もこれはうまく合わせてみせました",
+      "rule": "Move abbreviation: 口城→空後 (back air)"
+    }
+  ]
+}

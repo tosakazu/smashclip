@@ -1,0 +1,25 @@
+{
+  "id": "26c92d71-9373-4cc6-822d-b042409b8cb4",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 7.08,
+      "text": "Jab gets scary at higher percents, but with this spin movement, you avoid getting caught by jab in the first place.",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "弱に当たると怖くなってくるどんなパーセントではあるが まずは弱に当たらないでしょうこのスピンの立ち回り"
+    },
+    {
+      "start": 7.08,
+      "end": 12.56,
+      "text": "Aerial, strong attack - that's the finisher! Boom!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空中攻撃 強攻撃 やはり飛ばし技 バーン!"
+    }
+  ],
+  "full_text": "Jab gets scary at higher percents, but with this spin movement, you avoid getting caught by jab in the first place. Aerial, strong attack - that's the finisher! Boom!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

@@ -1,0 +1,63 @@
+{
+  "id": "7ac99b08-8cc4-47e6-8795-5fb37fef13d4",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.74,
+      "text": "スローの時間が短くなったので",
+      "language": "ja"
+    },
+    {
+      "start": 1.74,
+      "end": 5.34,
+      "text": "そこも見越してみたいなところはあったんですけど",
+      "language": "ja"
+    },
+    {
+      "start": 5.34,
+      "end": 7.58,
+      "text": "たまPもかなりどこまで",
+      "language": "ja"
+    },
+    {
+      "start": 7.58,
+      "end": 8.28,
+      "text": "そうですよね",
+      "language": "ja"
+    },
+    {
+      "start": 8.28,
+      "end": 10.16,
+      "text": "その先を見ているお利用者",
+      "language": "ja"
+    },
+    {
+      "start": 10.16,
+      "end": 11.92,
+      "text": "ウィッチタイムスロー",
+      "language": "ja"
+    },
+    {
+      "start": 11.92,
+      "end": 13.02,
+      "text": "当たらない",
+      "language": "ja"
+    }
+  ],
+  "full_text": "スローの時間が短くなったので そこも見越してみたいなところはあったんですけど たまPもかなりどこまで そうですよね その先を見ているお利用者 ウィッチタイムスロー 当たらない",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "タマフィ",
+      "corrected": "たまP",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 5,
+      "original": "グウェーチュースロー",
+      "corrected": "ウィッチタイムスロー",
+      "rule": "move name (Bayonetta Witch Time)"
+    }
+  ]
+}

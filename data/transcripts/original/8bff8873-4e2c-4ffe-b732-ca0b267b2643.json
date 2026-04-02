@@ -1,0 +1,22 @@
+{
+  "id": "8bff8873-4e2c-4ffe-b732-ca0b267b2643",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.74,
+      "text": "is also kind of nickel and dimed his way back into the lead here gotta try to get himself a",
+      "language": "en"
+    },
+    {
+      "start": 4.74,
+      "end": 9.52,
+      "text": "stock yeah i was looking a little suspect luckily though not gonna lose that stock yet back here fine",
+      "language": "en"
+    }
+  ],
+  "full_text": "is also kind of nickel and dimed his way back into the lead here gotta try to get himself a stock yeah i was looking a little suspect luckily though not gonna lose that stock yet back here fine",
+  "detected_language": "en",
+  "corrections": [
+    "diamond→dimed (English idiom 'nickel and dimed')"
+  ]
+}

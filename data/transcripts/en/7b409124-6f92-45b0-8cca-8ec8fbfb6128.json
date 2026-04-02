@@ -1,0 +1,26 @@
+{
+  "id": "7b409124-6f92-45b0-8cca-8ec8fbfb6128",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.92,
+      "text": "I mean, it's good that you're getting the damage, but not the kill, yo.",
+      "language": "en"
+    },
+    {
+      "start": 3.18,
+      "end": 7.52,
+      "text": "I don't want to think these trades are exactly the best deal for you, you know?",
+      "language": "en"
+    },
+    {
+      "start": 7.86,
+      "end": 10.44,
+      "text": "But that's it, there we go, two-framer on game.",
+      "language": "en"
+    }
+  ],
+  "full_text": "I mean, it's good that you're getting the damage, but not the kill, yo. I don't want to think these trades are exactly the best deal for you, you know? But that's it, there we go, two-framer on game.",
+  "detected_language": "en",
+  "corrections": []
+}

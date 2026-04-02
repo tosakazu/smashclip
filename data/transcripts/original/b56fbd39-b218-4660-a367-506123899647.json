@@ -1,0 +1,39 @@
+{
+  "id": "b56fbd39-b218-4660-a367-506123899647",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.86,
+      "text": "1回目の撃墜がなかなか読めない",
+      "language": "ja"
+    },
+    {
+      "start": 1.86,
+      "end": 4.16,
+      "text": "ここは近づいてくるゼルダにも負けずに",
+      "language": "ja"
+    },
+    {
+      "start": 4.16,
+      "end": 5.38,
+      "text": "呼吸を溜めていきました",
+      "language": "ja"
+    },
+    {
+      "start": 5.38,
+      "end": 7.0,
+      "text": "太陽礼拝発射",
+      "language": "ja"
+    }
+  ],
+  "full_text": "1回目の撃墜がなかなか読めない ここは近づいてくるゼルダにも負けずに 呼吸を溜めていきました 太陽礼拝発射",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 3,
+      "original": "太陽霊発射",
+      "corrected": "太陽礼拝発射",
+      "rule": "move name"
+    }
+  ]
+}

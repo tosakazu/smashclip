@@ -1,0 +1,76 @@
+{
+  "id": "5a77177d-b6c0-48be-b00e-c156e23b0c4c",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.44,
+      "text": "That's why nairs and fairs are coming from behind",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "だから裏から空Nとか空前が飛んでくる"
+    },
+    {
+      "start": 2.44,
+      "end": 5.28,
+      "text": "That's Lunamado's strength right there",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "Lunamado選手の強いところですね"
+    },
+    {
+      "start": 5.28,
+      "end": 5.56,
+      "text": "Yeah",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そうですね"
+    },
+    {
+      "start": 5.56,
+      "end": 6.42,
+      "text": "That's one example",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これも一つ"
+    },
+    {
+      "start": 6.42,
+      "end": 8.64,
+      "text": "The exchanges kept happening, but",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "バチバチバチバチ引いていったが"
+    },
+    {
+      "start": 8.64,
+      "end": 9.82,
+      "text": "It ended up being a disadvantage instead",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "逆にマイナスになって"
+    }
+  ],
+  "full_text": "That's why nairs and fairs are coming from behind That's Lunamado's strength right there Yeah That's one example The exchanges kept happening, but It ended up being a disadvantage instead",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "ケンミーとかカクミー",
+      "corrected": "空Nとか空前",
+      "rule": "move abbreviation"
+    },
+    {
+      "segment_idx": 1,
+      "original": "ルナワド",
+      "corrected": "Lunamado",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 4,
+      "original": "パツイパツイ",
+      "corrected": "バチバチバチバチ",
+      "rule": "misheard word"
+    }
+  ]
+}

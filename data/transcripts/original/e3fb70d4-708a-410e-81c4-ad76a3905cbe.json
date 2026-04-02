@@ -1,0 +1,45 @@
+{
+  "id": "e3fb70d4-708a-410e-81c4-ad76a3905cbe",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.86,
+      "text": "Real scary, trying to find some way to go for it, and trying to find some way to do it.",
+      "language": "en"
+    },
+    {
+      "start": 4.04,
+      "end": 9.26,
+      "text": "Lammers' backing off, recognizing the time, trying to make Lui$ go into him, not be a little bit more antsy.",
+      "language": "en"
+    },
+    {
+      "start": 9.56,
+      "end": 13.94,
+      "text": "Trying to catch Lui$ with the hand in the cookie jar, gets the landing, and brings it to game 5!",
+      "language": "en"
+    }
+  ],
+  "full_text": "Real scary, trying to find some way to go for it, and trying to find some way to do it. Lammers' backing off, recognizing the time, trying to make Lui$ go into him, not be a little bit more antsy. Trying to catch Lui$ with the hand in the cookie jar, gets the landing, and brings it to game 5!",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "Emerson's",
+      "corrected": "Lammers'",
+      "rule": "player name: Lammers44"
+    },
+    {
+      "segment_idx": 1,
+      "original": "make Luis",
+      "corrected": "make Lui$",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 2,
+      "original": "Luis",
+      "corrected": "Lui$",
+      "rule": "player name"
+    }
+  ]
+}

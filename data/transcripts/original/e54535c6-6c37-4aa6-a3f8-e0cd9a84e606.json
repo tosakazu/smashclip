@@ -1,0 +1,45 @@
+{
+  "id": "e54535c6-6c37-4aa6-a3f8-e0cd9a84e606",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.8,
+      "text": "苦しい時間が続いてる",
+      "language": "ja"
+    },
+    {
+      "start": 1.8,
+      "end": 3.38,
+      "text": "MkLeoの着地狩りが上手すぎる",
+      "language": "ja"
+    },
+    {
+      "start": 3.38,
+      "end": 3.88,
+      "text": "ちょっと待って",
+      "language": "ja"
+    },
+    {
+      "start": 3.88,
+      "end": 8.04,
+      "text": "一旦距離を取る",
+      "language": "ja"
+    },
+    {
+      "start": 8.04,
+      "end": 8.76,
+      "text": "上手すぎますよ",
+      "language": "ja"
+    }
+  ],
+  "full_text": "苦しい時間が続いてる MkLeoの着地狩りが上手すぎる ちょっと待って 一旦距離を取る 上手すぎますよ",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "NKROのガキ狩りが上手すぎる",
+      "corrected": "MkLeoの着地狩りが上手すぎる",
+      "rule": "player name: MkLeo, misheard: 着地狩り"
+    }
+  ]
+}

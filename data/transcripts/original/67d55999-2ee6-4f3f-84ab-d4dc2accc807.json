@@ -1,0 +1,105 @@
+{
+  "id": "67d55999-2ee6-4f3f-84ab-d4dc2accc807",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.76,
+      "text": "それをやり切っている",
+      "language": "ja"
+    },
+    {
+      "start": 0.76,
+      "end": 1.64,
+      "text": "さあこの吹っ飛び",
+      "language": "ja"
+    },
+    {
+      "start": 1.64,
+      "end": 3.22,
+      "text": "横から吹っ飛ばす",
+      "language": "ja"
+    },
+    {
+      "start": 3.22,
+      "end": 4.48,
+      "text": "外から帰ってくる",
+      "language": "ja"
+    },
+    {
+      "start": 4.48,
+      "end": 5.04,
+      "text": "崖を掴む",
+      "language": "ja"
+    },
+    {
+      "start": 5.04,
+      "end": 5.94,
+      "text": "攻撃機関が大丈夫",
+      "language": "ja"
+    },
+    {
+      "start": 5.94,
+      "end": 7.1,
+      "text": "ここでダッシュガード",
+      "language": "ja"
+    },
+    {
+      "start": 7.1,
+      "end": 8.2,
+      "text": "よく見ている後ろ投げから",
+      "language": "ja"
+    },
+    {
+      "start": 8.2,
+      "end": 9.34,
+      "text": "横Bで打ち上げて",
+      "language": "ja"
+    },
+    {
+      "start": 9.34,
+      "end": 11.82,
+      "text": "いやー見せつけた空上",
+      "language": "ja"
+    }
+  ],
+  "full_text": "それをやり切っている さあこの吹っ飛び 横から吹っ飛ばす 外から帰ってくる 崖を掴む 攻撃機関が大丈夫 ここでダッシュガード よく見ている後ろ投げから 横Bで打ち上げて いやー見せつけた空上",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "副主人",
+      "corrected": "吹っ飛び",
+      "rule": "misheard word"
+    },
+    {
+      "segment_idx": 2,
+      "original": "吹き出す",
+      "corrected": "吹っ飛ばす",
+      "rule": "misheard word"
+    },
+    {
+      "segment_idx": 6,
+      "original": "ダッシュカード",
+      "corrected": "ダッシュガード",
+      "rule": "misheard word"
+    },
+    {
+      "segment_idx": 7,
+      "original": "後ろだけから",
+      "corrected": "後ろ投げから",
+      "rule": "misheard word"
+    },
+    {
+      "segment_idx": 8,
+      "original": "ビジョンで",
+      "corrected": "横Bで",
+      "rule": "Fox move name (横B=Fox Illusion)"
+    },
+    {
+      "segment_idx": 9,
+      "original": "空中へ",
+      "corrected": "空上",
+      "rule": "move name"
+    }
+  ]
+}

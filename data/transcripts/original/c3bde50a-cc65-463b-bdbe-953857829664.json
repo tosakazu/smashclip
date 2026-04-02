@@ -1,0 +1,39 @@
+{
+  "id": "c3bde50a-cc65-463b-bdbe-953857829664",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.44,
+      "text": "嘘でしょ!嘘でしょ!",
+      "language": "ja"
+    },
+    {
+      "start": 1.84,
+      "end": 4.1,
+      "text": "あれはかなり不幸な事故でしたね",
+      "language": "ja"
+    },
+    {
+      "start": 4.1,
+      "end": 6.36,
+      "text": "前側から後ろ側に引き寄せられてが",
+      "language": "ja"
+    },
+    {
+      "start": 6.36,
+      "end": 9.02,
+      "text": "という間にもうすぐに取り返していきます",
+      "language": "ja"
+    }
+  ],
+  "full_text": "嘘でしょ!嘘でしょ! あれはかなり不幸な事故でしたね 前側から後ろ側に引き寄せられてが という間にもうすぐに取り返していきます",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "あのは",
+      "corrected": "あれは",
+      "rule": "misheard word"
+    }
+  ]
+}

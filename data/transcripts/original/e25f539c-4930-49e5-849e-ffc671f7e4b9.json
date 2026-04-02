@@ -1,0 +1,33 @@
+{
+  "id": "e25f539c-4930-49e5-849e-ffc671f7e4b9",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.24,
+      "text": "He's losing that rage drive.",
+      "language": "en"
+    },
+    {
+      "start": 1.5,
+      "end": 3.9,
+      "text": "To be honest, this rate, you can just wait for Light to throw out an upsmash.",
+      "language": "en"
+    },
+    {
+      "start": 3.94,
+      "end": 5.92,
+      "text": "Oh no way though, a B, that's gonna do it, Riddles!",
+      "language": "en"
+    }
+  ],
+  "full_text": "He's losing that rage drive. To be honest, this rate, you can just wait for Light to throw out an upsmash. Oh no way though, a B, that's gonna do it, Riddles!",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "this raid",
+      "corrected": "this rate",
+      "rule": "misheard word"
+    }
+  ]
+}

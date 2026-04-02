@@ -1,0 +1,51 @@
+{
+  "id": "85983ac3-2c66-4d12-b5e8-1800a0d33c51",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.26,
+      "text": "ある動きには変わらない",
+      "language": "ja"
+    },
+    {
+      "start": 1.26,
+      "end": 3.02,
+      "text": "おっと空上から空下",
+      "language": "ja"
+    },
+    {
+      "start": 3.02,
+      "end": 3.82,
+      "text": "ほら",
+      "language": "ja"
+    },
+    {
+      "start": 3.82,
+      "end": 4.8,
+      "text": "えー",
+      "language": "ja"
+    },
+    {
+      "start": 4.8,
+      "end": 6.02,
+      "text": "撃墜している",
+      "language": "ja"
+    },
+    {
+      "start": 6.02,
+      "end": 6.88,
+      "text": "さあ負けた",
+      "language": "ja"
+    }
+  ],
+  "full_text": "ある動きには変わらない おっと空上から空下 ほら えー 撃墜している さあ負けた",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "おっと空中上から空中した",
+      "corrected": "おっと空上から空下",
+      "rule": "move abbreviation (空中上→空上, 空中した→空下)"
+    }
+  ]
+}

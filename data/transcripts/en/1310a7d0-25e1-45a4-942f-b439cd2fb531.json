@@ -1,0 +1,45 @@
+{
+  "id": "1310a7d0-25e1-45a4-942f-b439cd2fb531",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.64,
+      "text": "Tough thing to come back from.",
+      "language": "en"
+    },
+    {
+      "start": 2.16,
+      "end": 3.5,
+      "text": "He's crouching under the C4.",
+      "language": "en"
+    },
+    {
+      "start": 3.68,
+      "end": 5.3,
+      "text": "He doesn't care. He's right on top of it.",
+      "language": "en"
+    },
+    {
+      "start": 5.66,
+      "end": 7.56,
+      "text": "Throw is big, chilling right now.",
+      "language": "en"
+    },
+    {
+      "start": 7.68,
+      "end": 8.32,
+      "text": "Gets another.",
+      "language": "en"
+    }
+  ],
+  "full_text": "Tough thing to come back from. He's crouching under the C4. He doesn't care. He's right on top of it. Throw is big, chilling right now. Gets another.",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "He's crouching under the seafoam.",
+      "corrected": "He's crouching under the C4.",
+      "rule": "Smash terminology: seafoam→C4 (Snake's down special)"
+    }
+  ]
+}

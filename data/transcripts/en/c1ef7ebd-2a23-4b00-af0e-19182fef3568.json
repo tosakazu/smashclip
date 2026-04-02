@@ -1,0 +1,52 @@
+{
+  "id": "c1ef7ebd-2a23-4b00-af0e-19182fef3568",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 8.08,
+      "text": "Won't let it land, but he's charging once. Can't maintain that dair wall—that's the restriction.",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "が当てさせてくれないだが1回ゴリパンを貯めますよ 空中下の壁を張っていないよと制限"
+    },
+    {
+      "start": 8.08,
+      "end": 15.92,
+      "text": "Great advantage after that up B! When invincibility runs out, forward tilt. Reverses with neutral special, wants to catch with the follow-up up B but it doesn't connect!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "上B出した後から展開が美味しい無敵切れに横強攻撃 ニュートラル必殺技で反転して上B出した後巻き込みたかったんですが当たらない"
+    },
+    {
+      "start": 15.92,
+      "end": 20.68,
+      "text": "But he catches the ledge getup off fair with up air!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "しかし空中前での崖上がりを空中上で拾え"
+    }
+  ],
+  "full_text": "Won't let it land, but he's charging once. Can't maintain that dair wall—that's the restriction. Great advantage after that up B! When invincibility runs out, forward tilt. Reverses with neutral special, wants to catch with the follow-up up B but it doesn't connect! But he catches the ledge getup off fair with up air!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "空中しの壁",
+      "corrected": "空中下の壁",
+      "rule": "misheard move name"
+    },
+    {
+      "segment_idx": 1,
+      "original": "ウエヒスタサド",
+      "corrected": "上B出した後",
+      "rule": "misheard move name"
+    },
+    {
+      "segment_idx": 1,
+      "original": "ウエヒスタサド",
+      "corrected": "上B出した後",
+      "rule": "misheard move name"
+    }
+  ]
+}

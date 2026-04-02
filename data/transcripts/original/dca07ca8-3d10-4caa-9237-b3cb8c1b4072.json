@@ -1,0 +1,33 @@
+{
+  "id": "dca07ca8-3d10-4caa-9237-b3cb8c1b4072",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.08,
+      "text": "ピクミンの投げから手裏剣的",
+      "language": "ja"
+    },
+    {
+      "start": 1.08,
+      "end": 4.0,
+      "text": "上B空振らせて紫の上スマッシュ",
+      "language": "ja"
+    },
+    {
+      "start": 4.8,
+      "end": 10.0,
+      "text": "ジャストシールド横スマッシュ",
+      "language": "ja"
+    }
+  ],
+  "full_text": "ピクミンの投げから手裏剣的 上B空振らせて紫の上スマッシュ ジャストシールド横スマッシュ",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "テクミンの投げから主要投的",
+      "corrected": "ピクミンの投げから手裏剣的",
+      "rule": "misheard word (Pikmin)"
+    }
+  ]
+}

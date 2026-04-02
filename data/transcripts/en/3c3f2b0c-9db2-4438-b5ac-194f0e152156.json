@@ -1,0 +1,72 @@
+{
+  "id": "3c3f2b0c-9db2-4438-b5ac-194f0e152156",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.16,
+      "text": "Just can't extend the recovery",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ただリターンが伸びないですね"
+    },
+    {
+      "start": 2.16,
+      "end": 3.68,
+      "text": "Up to 86%",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "86%まで"
+    },
+    {
+      "start": 3.68,
+      "end": 5.74,
+      "text": "Will TamaP get cornered here?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "たまPだいふく選手が追い込まれていくか"
+    },
+    {
+      "start": 5.74,
+      "end": 7.68,
+      "text": "But patiently gathering stage control",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "しかし焦らず資材を集め"
+    },
+    {
+      "start": 7.68,
+      "end": 9.76,
+      "text": "Gradually but steadily closing in",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "徐々にですが詰めていこうというところ"
+    },
+    {
+      "start": 9.76,
+      "end": 11.8,
+      "text": "Also following up on the lag",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "遅らせたところも追いかける"
+    },
+    {
+      "start": 11.8,
+      "end": 13.2,
+      "text": "Going for the meteor...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "メテオでの"
+    }
+  ],
+  "full_text": "Just can't extend the recovery Up to 86% Will TamaP get cornered here? But patiently gathering stage control Gradually but steadily closing in Also following up on the lag Going for the meteor...",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "ターバンビー・ダイフス選手",
+      "corrected": "たまPだいふく選手",
+      "rule": "player name"
+    }
+  ]
+}

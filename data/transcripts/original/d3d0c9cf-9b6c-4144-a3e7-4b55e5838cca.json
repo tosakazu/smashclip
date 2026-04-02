@@ -1,0 +1,32 @@
+{
+  "id": "d3d0c9cf-9b6c-4144-a3e7-4b55e5838cca",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.32,
+      "text": "今の変更はあってそうだったけど",
+      "language": "ja"
+    },
+    {
+      "start": 1.32,
+      "end": 1.72,
+      "text": "そうですね",
+      "language": "ja"
+    },
+    {
+      "start": 1.72,
+      "end": 3.0,
+      "text": "おっと!",
+      "language": "ja"
+    },
+    {
+      "start": 3.24,
+      "end": 3.98,
+      "text": "いやー!",
+      "language": "ja"
+    }
+  ],
+  "full_text": "今の変更はあってそうだったけど そうですね おっと! いやー!",
+  "detected_language": "ja",
+  "corrections": []
+}

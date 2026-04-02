@@ -1,0 +1,54 @@
+{
+  "id": "15dd4b22-a9ff-42c3-8431-4714e9260344",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.16,
+      "text": "While there are different ways to approach the neutral...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "立ち回りの対策はいろいろあるかと思いますが"
+    },
+    {
+      "start": 2.16,
+      "end": 3.82,
+      "text": "Sonic is choosing to move forward",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ソニックは前に出ることを選んでいる"
+    },
+    {
+      "start": 3.82,
+      "end": 5.96,
+      "text": "But white Pikmin is still in the mix",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "たださすがに白ピクミンは剥がしてますね"
+    },
+    {
+      "start": 5.96,
+      "end": 8.56,
+      "text": "And white can't be ignored—it's putting out real damage",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "白はねちょっと馬鹿にならないダメージが出ますから"
+    }
+  ],
+  "full_text": "While there are different ways to approach the neutral... Sonic is choosing to move forward But white Pikmin is still in the mix And white can't be ignored—it's putting out real damage",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "タゴとの対策はいろいろあるかと思いますが",
+      "corrected": "立ち回りの対策はいろいろあるかと思いますが",
+      "rule": "Garbled transcription: タゴとの→立ち回りの"
+    },
+    {
+      "segment_idx": 3,
+      "original": "派手にならないダメージが出ますから",
+      "corrected": "馬鹿にならないダメージが出ますから",
+      "rule": "Kanji homophone: 派手にならない→馬鹿にならない (idiomatic expression)"
+    }
+  ]
+}

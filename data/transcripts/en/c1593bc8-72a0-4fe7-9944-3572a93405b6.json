@@ -1,0 +1,27 @@
+{
+  "id": "c1593bc8-72a0-4fe7-9944-3572a93405b6",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.16,
+      "text": "with the landings from snake you have to be really careful have some real estate",
+      "language": "en"
+    },
+    {
+      "start": 4.16,
+      "end": 7.6,
+      "text": "have some insurance with the explosive spot dodge",
+      "language": "en"
+    }
+  ],
+  "full_text": "with the landings from snake you have to be really careful have some real estate have some insurance with the explosive spot dodge",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "spot dog",
+      "corrected": "spot dodge",
+      "rule": "smash term"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "2db8c2ff-5a41-45d2-977d-d53b15a1375c",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.52,
+      "text": "Man, I really don't wanna get caught",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いやもう当たりたくないですね"
+    },
+    {
+      "start": 1.52,
+      "end": 3.42,
+      "text": "Just getting juggled like that freaks me out",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "浮かされるだけでヒヤッとしてしまいます"
+    },
+    {
+      "start": 3.42,
+      "end": 6.78,
+      "text": "From above",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "上から"
+    },
+    {
+      "start": 6.78,
+      "end": 7.48,
+      "text": "Oh no!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "うーわ"
+    }
+  ],
+  "full_text": "Man, I really don't wanna get caught Just getting juggled like that freaks me out From above Oh no!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

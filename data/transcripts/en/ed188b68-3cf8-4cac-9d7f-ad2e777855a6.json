@@ -1,0 +1,45 @@
+{
+  "id": "ed188b68-3cf8-4cac-9d7f-ad2e777855a6",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.08,
+      "text": "I need to get rid of this dog, ASAP, Rocky.",
+      "language": "en"
+    },
+    {
+      "start": 2.66,
+      "end": 3.06,
+      "text": "Insane.",
+      "language": "en"
+    },
+    {
+      "start": 3.58,
+      "end": 5.52,
+      "text": "How do you stay alive for so long?",
+      "language": "en"
+    },
+    {
+      "start": 5.64,
+      "end": 6.82,
+      "text": "Two back airs, finally.",
+      "language": "en"
+    },
+    {
+      "start": 7.5,
+      "end": 8.36,
+      "text": "Yes, okay, what happened?",
+      "language": "en"
+    }
+  ],
+  "full_text": "I need to get rid of this dog, ASAP, Rocky. Insane. How do you stay alive for so long? Two back airs, finally. Yes, okay, what happened?",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 3,
+      "original": "Two backers",
+      "corrected": "Two back airs",
+      "rule": "smash term: backers→back airs"
+    }
+  ]
+}

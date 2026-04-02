@@ -1,0 +1,45 @@
+{
+  "id": "38579a58-b5cc-4c5d-adc9-93b8dbfc7238",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.94,
+      "text": "下がって下がってターン継続を選択",
+      "language": "ja"
+    },
+    {
+      "start": 1.94,
+      "end": 6.4,
+      "text": "回し蹴りからガードへの圧を高めていく鳥ちゃんだが",
+      "language": "ja"
+    },
+    {
+      "start": 6.4,
+      "end": 8.84,
+      "text": "空後うまく追い払う",
+      "language": "ja"
+    },
+    {
+      "start": 8.84,
+      "end": 10.56,
+      "text": "効いて昇竜拳?",
+      "language": "ja"
+    },
+    {
+      "start": 11.38,
+      "end": 13.04,
+      "text": "相手がジャンプしたところを見逃さない",
+      "language": "ja"
+    }
+  ],
+  "full_text": "下がって下がってターン継続を選択 回し蹴りからガードへの圧を高めていく鳥ちゃんだが 空後うまく追い払う 効いて昇竜拳? 相手がジャンプしたところを見逃さない",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "空中後ろうまく",
+      "corrected": "空後うまく",
+      "rule": "空中後ろ→空後"
+    }
+  ]
+}

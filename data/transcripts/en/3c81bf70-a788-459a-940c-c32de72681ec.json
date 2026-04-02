@@ -1,0 +1,57 @@
+{
+  "id": "3c81bf70-a788-459a-940c-c32de72681ec",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.62,
+      "text": "Hitting from the back sets up the grab too!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "後ろ側で当てることにその後つかみもつながる"
+    },
+    {
+      "start": 3.62,
+      "end": 4.3,
+      "text": "Yeah, exactly",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いやそうですね"
+    },
+    {
+      "start": 4.3,
+      "end": 11.12,
+      "text": "One more!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "もう一度"
+    },
+    {
+      "start": 11.12,
+      "end": 12.8,
+      "text": "Recovery from above",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "上から復帰"
+    },
+    {
+      "start": 12.8,
+      "end": 16.24,
+      "text": "Way too clean!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "うますぎ"
+    },
+    {
+      "start": 16.24,
+      "end": 17.14,
+      "text": "That's clean!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これはうまい"
+    }
+  ],
+  "full_text": "Hitting from the back sets up the grab too! Yeah, exactly One more! Recovery from above Way too clean! That's clean!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

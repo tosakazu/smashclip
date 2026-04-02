@@ -1,0 +1,68 @@
+{
+  "id": "7dad52da-fdac-4b37-a942-4e79e002fdf2",
+  "segments": [
+    {
+      "start": 0.88,
+      "end": 2.74,
+      "text": "Come back!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "とりあえず缶帰ってこい"
+    },
+    {
+      "start": 2.74,
+      "end": 4.62,
+      "text": "Airdodge, fair!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "移動回避に空前"
+    },
+    {
+      "start": 4.62,
+      "end": 5.4,
+      "text": "Come on!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "缶を出して"
+    },
+    {
+      "start": 5.4,
+      "end": 7.08,
+      "text": "Yeah!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これねー"
+    },
+    {
+      "start": 7.08,
+      "end": 9.8,
+      "text": "Yeah!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これねー"
+    }
+  ],
+  "full_text": "Come back! Airdodge, fair! Come on! Yeah! Yeah!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "艦帰ってこい",
+      "corrected": "缶帰ってこい",
+      "rule": "kanji homophone: 艦→缶 (Duck Hunt's can)"
+    },
+    {
+      "segment_idx": 1,
+      "original": "空中しろ",
+      "corrected": "空前",
+      "rule": "misheard: 空中しろ→空前 (move is 空前)"
+    },
+    {
+      "segment_idx": 2,
+      "original": "艦を出して",
+      "corrected": "缶を出して",
+      "rule": "kanji homophone: 艦→缶 (Duck Hunt's can)"
+    }
+  ]
+}

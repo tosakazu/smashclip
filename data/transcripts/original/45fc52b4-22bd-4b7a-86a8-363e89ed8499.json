@@ -1,0 +1,50 @@
+{
+  "id": "45fc52b4-22bd-4b7a-86a8-363e89ed8499",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.92,
+      "text": "ここが重たりだ",
+      "language": "ja"
+    },
+    {
+      "start": 0.92,
+      "end": 2.72,
+      "text": "さあフリップキックで",
+      "language": "ja"
+    },
+    {
+      "start": 2.72,
+      "end": 4.54,
+      "text": "全員消し飛んだ",
+      "language": "ja"
+    },
+    {
+      "start": 4.54,
+      "end": 5.98,
+      "text": "なんであ",
+      "language": "ja"
+    },
+    {
+      "start": 5.98,
+      "end": 6.68,
+      "text": "これは",
+      "language": "ja"
+    },
+    {
+      "start": 6.68,
+      "end": 7.86,
+      "text": "キックが",
+      "language": "ja"
+    },
+    {
+      "start": 7.86,
+      "end": 8.3,
+      "text": "珍しい",
+      "language": "ja"
+    }
+  ],
+  "full_text": "ここが重たりだ さあフリップキックで 全員消し飛んだ なんであ これは キックが 珍しい",
+  "detected_language": "ja",
+  "corrections": []
+}

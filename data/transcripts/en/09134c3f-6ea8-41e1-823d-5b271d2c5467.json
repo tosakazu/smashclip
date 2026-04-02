@@ -1,0 +1,48 @@
+{
+  "id": "09134c3f-6ea8-41e1-823d-5b271d2c5467",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.86,
+      "text": "Even worked Dolphin into the recovery, but that was an early release!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ドルフィンにも織り込んだ復帰だったがこれは早出し"
+    },
+    {
+      "start": 3.86,
+      "end": 5.64,
+      "text": "The early out changed the spacing",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "早出しがコースをした"
+    },
+    {
+      "start": 5.64,
+      "end": 7.62,
+      "text": "Couldn't catch them with the jump",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ジャンプでは追い切れなかったですね"
+    },
+    {
+      "start": 7.62,
+      "end": 12.44,
+      "text": "Going for the edgeguard with fair, but they're mashing out with bair—Zacharay with the edgeguard!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空前による復帰阻止を狙っていくが空後で暴れているのはザクレイで復帰阻止を"
+    }
+  ],
+  "full_text": "Even worked Dolphin into the recovery, but that was an early release! The early out changed the spacing Couldn't catch them with the jump Going for the edgeguard with fair, but they're mashing out with bair—Zacharay with the edgeguard!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "ドルフィン2030にも織り込んだ復帰だったがこれは早出し",
+      "corrected": "ドルフィンにも織り込んだ復帰だったがこれは早出し",
+      "rule": "Noise removal (2030 is Whisper artifact)"
+    }
+  ]
+}

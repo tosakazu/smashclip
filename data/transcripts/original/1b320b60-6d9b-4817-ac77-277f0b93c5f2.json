@@ -1,0 +1,56 @@
+{
+  "id": "1b320b60-6d9b-4817-ac77-277f0b93c5f2",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.76,
+      "text": "後ろピクミンも無視して",
+      "language": "ja"
+    },
+    {
+      "start": 1.76,
+      "end": 3.28,
+      "text": "攻め入る攻め入るけん",
+      "language": "ja"
+    },
+    {
+      "start": 3.28,
+      "end": 4.54,
+      "text": "しかし紫紫だぞ",
+      "language": "ja"
+    },
+    {
+      "start": 4.54,
+      "end": 5.46,
+      "text": "回避を切った",
+      "language": "ja"
+    },
+    {
+      "start": 5.46,
+      "end": 6.5,
+      "text": "回避を切ってしまうと",
+      "language": "ja"
+    },
+    {
+      "start": 6.5,
+      "end": 8.4,
+      "text": "この崖がちょっと苦しかったが",
+      "language": "ja"
+    },
+    {
+      "start": 8.4,
+      "end": 9.58,
+      "text": "うまく通していって",
+      "language": "ja"
+    },
+    {
+      "start": 9.58,
+      "end": 10.96,
+      "text": "空中上ちゃんと",
+      "language": "ja"
+    }
+  ],
+  "full_text": "後ろピクミンも無視して 攻め入る攻め入るけん しかし紫紫だぞ 回避を切った 回避を切ってしまうと この崖がちょっと苦しかったが うまく通していって 空中上ちゃんと",
+  "detected_language": "ja",
+  "corrections": []
+}

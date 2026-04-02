@@ -1,0 +1,45 @@
+{
+  "id": "2cfb3d89-d519-4452-8831-6924c354aa49",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.0,
+      "text": "Ooh, low profiling there.",
+      "language": "en"
+    },
+    {
+      "start": 3.0,
+      "end": 6.0,
+      "text": "Oh, down air though.",
+      "language": "en"
+    },
+    {
+      "start": 6.0,
+      "end": 7.0,
+      "text": "Is that enough?",
+      "language": "en"
+    },
+    {
+      "start": 7.0,
+      "end": 8.0,
+      "text": "My lord, not enough.",
+      "language": "en"
+    },
+    {
+      "start": 8.0,
+      "end": 11.0,
+      "text": "Mao going deep!",
+      "language": "en"
+    }
+  ],
+  "full_text": "Ooh, low profiling there. Oh, down air though. Is that enough? My lord, not enough. Mao going deep!",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 4,
+      "original": "My goalie going deep!",
+      "corrected": "Mao going deep!",
+      "rule": "player name: My goalie→Mao (misheard)"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "id": "5c5f47e2-f4ef-4b51-a6a3-fd6bbc86787d",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.64,
+      "text": "他の選択肢は撃墜には至らないんですけど唯一撃墜まで見えるメテオ",
+      "language": "ja"
+    },
+    {
+      "start": 3.64,
+      "end": 6.4,
+      "text": "この辺りの撃墜へのゾーンの差ですね",
+      "language": "ja"
+    },
+    {
+      "start": 6.4,
+      "end": 8.5,
+      "text": "空前空前圧かけて",
+      "language": "ja"
+    },
+    {
+      "start": 8.5,
+      "end": 13.4,
+      "text": "ジャスガに対して対策を張るような",
+      "language": "ja"
+    },
+    {
+      "start": 13.4,
+      "end": 14.86,
+      "text": "空中攻撃の",
+      "language": "ja"
+    },
+    {
+      "start": 14.86,
+      "end": 17.06,
+      "text": "この横Bはおそらくジャスガ対策でしょう",
+      "language": "ja"
+    },
+    {
+      "start": 17.06,
+      "end": 18.72,
+      "text": "結構遅れてねジャスガするためには",
+      "language": "ja"
+    }
+  ],
+  "full_text": "他の選択肢は撃墜には至らないんですけど唯一撃墜まで見えるメテオ この辺りの撃墜へのゾーンの差ですね 空前空前圧かけて ジャスガに対して対策を張るような 空中攻撃の この横Bはおそらくジャスガ対策でしょう 結構遅れてねジャスガするためには",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "ゾーンの草",
+      "corrected": "ゾーンの差",
+      "rule": "misheard word"
+    },
+    {
+      "segment_idx": 2,
+      "original": "空母空母",
+      "corrected": "空前空前",
+      "rule": "move abbreviation"
+    },
+    {
+      "segment_idx": 5,
+      "original": "横ビーム",
+      "corrected": "横B",
+      "rule": "move abbreviation"
+    }
+  ]
+}

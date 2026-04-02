@@ -1,0 +1,62 @@
+{
+  "id": "3a1f66ac-2703-491f-ba63-39ec827037ef",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Landed the ground smash!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "地上スカッシュ騎士を通すことができた"
+    },
+    {
+      "start": 2.0,
+      "end": 3.36,
+      "text": "But wasn't letting them settle down",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "あまり落ち着かせていたが"
+    },
+    {
+      "start": 3.36,
+      "end": 4.9,
+      "text": "Out of shield with aerial follow-ups",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ブロックから空射キャスティングですが"
+    },
+    {
+      "start": 4.9,
+      "end": 6.76,
+      "text": "Forward smash if Carmelo shields",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "カルメロのガードの場合横スマして"
+    },
+    {
+      "start": 6.76,
+      "end": 8.42,
+      "text": "Punishing that endlag",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "硬直を狩り取っていった"
+    }
+  ],
+  "full_text": "Landed the ground smash! But wasn't letting them settle down. Out of shield with aerial follow-ups. Forward smash if Carmelo shields. Punishing that endlag.",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "スカッシャ騎士",
+      "corrected": "スカッシュ騎士",
+      "rule": "misheard word"
+    },
+    {
+      "segment_idx": 4,
+      "original": "横詰まして",
+      "corrected": "横スマして",
+      "rule": "misheard: 横詰ま→横スマ"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "id": "d43cdceb-3889-470c-8bc6-bcbb0869809c",
+  "segments": [
+    {
+      "start": 0.52,
+      "end": 2.16,
+      "text": "空後での差し込みも見えて",
+      "language": "ja"
+    },
+    {
+      "start": 2.16,
+      "end": 3.74,
+      "text": "ここはジャック",
+      "language": "ja"
+    },
+    {
+      "start": 3.74,
+      "end": 5.84,
+      "text": "安全に横強攻撃",
+      "language": "ja"
+    },
+    {
+      "start": 5.84,
+      "end": 7.92,
+      "text": "もう一度ここは内受け身",
+      "language": "ja"
+    },
+    {
+      "start": 7.92,
+      "end": 10.06,
+      "text": "ちょっと見えていたようにも見えたんですが",
+      "language": "ja"
+    },
+    {
+      "start": 10.06,
+      "end": 11.56,
+      "text": "横スマは止まる位置が遠かった",
+      "language": "ja"
+    }
+  ],
+  "full_text": "空後での差し込みも見えて ここはジャック 安全に横強攻撃 もう一度ここは内受け身 ちょっと見えていたようにも見えたんですが 横スマは止まる位置が遠かった",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "空中白手の差し込み",
+      "corrected": "空後での差し込み",
+      "rule": "smash term (空中白手→空後で)"
+    }
+  ]
+}

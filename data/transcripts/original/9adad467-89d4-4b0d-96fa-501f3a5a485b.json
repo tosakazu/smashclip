@@ -1,0 +1,69 @@
+{
+  "id": "9adad467-89d4-4b0d-96fa-501f3a5a485b",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.2,
+      "text": "暴れをケアしてボーイの上スマッシュ",
+      "language": "ja"
+    },
+    {
+      "start": 2.2,
+      "end": 3.54,
+      "text": "サイクロンスカをサクッと",
+      "language": "ja"
+    },
+    {
+      "start": 3.54,
+      "end": 5.12,
+      "text": "踏みからんとこ",
+      "language": "ja"
+    },
+    {
+      "start": 5.12,
+      "end": 8.0,
+      "text": "サイクロンスカを妨害するための",
+      "language": "ja"
+    },
+    {
+      "start": 8.0,
+      "end": 10.36,
+      "text": "空Nを逆手にとって読み切って",
+      "language": "ja"
+    },
+    {
+      "start": 10.36,
+      "end": 11.4,
+      "text": "ダメージを",
+      "language": "ja"
+    }
+  ],
+  "full_text": "暴れをケアしてボーイの上スマッシュ サイクロンスカをサクッと 踏みからんとこ サイクロンスカを妨害するための 空Nを逆手にとって読み切って ダメージを",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "ボール",
+      "corrected": "ボーイ",
+      "rule": "Whisper misheard"
+    },
+    {
+      "segment_idx": 1,
+      "original": "サイクルスカ",
+      "corrected": "サイクロンスカ",
+      "rule": "move name (Luigi cyclone whiff)"
+    },
+    {
+      "segment_idx": 3,
+      "original": "サイクルスカ",
+      "corrected": "サイクロンスカ",
+      "rule": "move name (Luigi cyclone whiff)"
+    },
+    {
+      "segment_idx": 4,
+      "original": "空中ニュートラル",
+      "corrected": "空N",
+      "rule": "move abbreviation"
+    }
+  ]
+}

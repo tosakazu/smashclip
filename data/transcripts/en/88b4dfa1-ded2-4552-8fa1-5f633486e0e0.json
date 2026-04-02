@@ -1,0 +1,65 @@
+{
+  "id": "88b4dfa1-ded2-4552-8fa1-5f633486e0e0",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.84,
+      "text": "Bracket reset!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "でリセット入れて"
+    },
+    {
+      "start": 0.84,
+      "end": 1.98,
+      "text": "Tamaya",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "たまや"
+    },
+    {
+      "start": 1.98,
+      "end": 3.38,
+      "text": "Let's go!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ほい"
+    },
+    {
+      "start": 3.38,
+      "end": 4.56,
+      "text": "Alright so...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあということで"
+    },
+    {
+      "start": 4.56,
+      "end": 5.6,
+      "text": "Grand Finals",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "えーとグランドファイナル"
+    },
+    {
+      "start": 5.6,
+      "end": 6.46,
+      "text": "reset",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "リセット目"
+    },
+    {
+      "start": 6.46,
+      "end": 6.72,
+      "text": "Yeah!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "あー"
+    }
+  ],
+  "full_text": "Bracket reset! Tamaya Let's go! Alright so... Grand Finals reset Yeah!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

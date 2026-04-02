@@ -1,0 +1,39 @@
+{
+  "id": "6445346a-94a8-4791-9d0d-b25693d99694",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.84,
+      "text": "If a run-up f-smash would have done it, but Miya, I think, just kind of believe I don't need to do that.",
+      "language": "en"
+    },
+    {
+      "start": 5.88,
+      "end": 7.92,
+      "text": "I'm already in position to kill with f-smash.",
+      "language": "en"
+    }
+  ],
+  "full_text": "If a run-up f-smash would have done it, but Miya, I think, just kind of believe I don't need to do that. I'm already in position to kill with f-smash.",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "run-up of Smash",
+      "corrected": "run-up f-smash",
+      "rule": "Smash term"
+    },
+    {
+      "segment_idx": 0,
+      "original": "but me",
+      "corrected": "but Miya",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 1,
+      "original": "less Smash",
+      "corrected": "f-smash",
+      "rule": "Smash term"
+    }
+  ]
+}

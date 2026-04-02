@@ -1,0 +1,57 @@
+{
+  "id": "27eb9f85-813e-4108-9b41-873673648075",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.16,
+      "text": "Lemozamora's showing truly masterful spacing here",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "この辺りはもう本当にさすがのレモゾナといいますか"
+    },
+    {
+      "start": 2.16,
+      "end": 3.78,
+      "text": "The character control is really refined now",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さすがの使い込みになってきますが"
+    },
+    {
+      "start": 3.78,
+      "end": 4.6,
+      "text": "Nice dash attack!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いいDAだ"
+    },
+    {
+      "start": 4.6,
+      "end": 6.2,
+      "text": "He makes it back!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "戻ってきた"
+    },
+    {
+      "start": 6.2,
+      "end": 7.44,
+      "text": "Ledge!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "崖"
+    },
+    {
+      "start": 7.44,
+      "end": 9.36,
+      "text": "Beautiful read, doesn't miss that opening!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "このチャンス逃さなくてさすがですね"
+    }
+  ],
+  "full_text": "Lemozamora's showing truly masterful spacing here. The character control is really refined now. Nice dash attack! He makes it back! Ledge! Beautiful read, doesn't miss that opening!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

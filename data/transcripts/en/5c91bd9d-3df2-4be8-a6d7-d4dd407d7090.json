@@ -1,0 +1,54 @@
+{
+  "id": "5c91bd9d-3df2-4be8-a6d7-d4dd407d7090",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.06,
+      "text": "But that nair is insane!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "でも非常に優秀な空Nですが"
+    },
+    {
+      "start": 3.06,
+      "end": 3.52,
+      "text": "The Shutra",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ザ・シュトラ"
+    },
+    {
+      "start": 3.52,
+      "end": 4.46,
+      "text": "Turnaround!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "反転!"
+    },
+    {
+      "start": 4.46,
+      "end": 5.24,
+      "text": "Thunder!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "カミナリ!"
+    }
+  ],
+  "full_text": "But that nair is insane! The Shutra Turnaround! Thunder!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "空襲メダルですが",
+      "corrected": "空Nですが",
+      "rule": "move abbreviation"
+    },
+    {
+      "segment_idx": 3,
+      "original": "カミノリ",
+      "corrected": "カミナリ",
+      "rule": "misheard word"
+    }
+  ]
+}

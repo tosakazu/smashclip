@@ -1,0 +1,57 @@
+{
+  "id": "15117138-3af7-406f-8f61-e74c1efccc2f",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.7,
+      "text": "中ホールドが本当にてるんではないので体重若干ある勇者はまだ撃墜はされないが空中",
+      "language": "ja"
+    },
+    {
+      "start": 5.7,
+      "end": 8.64,
+      "text": "空前だ メラチラ見せの読み合いにも参加しない",
+      "language": "ja"
+    },
+    {
+      "start": 8.64,
+      "end": 13.08,
+      "text": "引きジャンプからの吹っ飛び空前",
+      "language": "ja"
+    },
+    {
+      "start": 13.2,
+      "end": 16.12,
+      "text": "横スマッシュ攻撃安定押し付けに期待がその先の回避上がり",
+      "language": "ja"
+    }
+  ],
+  "full_text": "中ホールドが本当にてるんではないので体重若干ある勇者はまだ撃墜はされないが空中 空前だ メラチラ見せの読み合いにも参加しない 引きジャンプからの吹っ飛び空前 横スマッシュ攻撃安定押し付けに期待がその先の回避上がり",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "中ホールドカー本はてるんではないので体重 若干ある勇者はまだ技術はされないが空中",
+      "corrected": "中ホールドが本当にてるんではないので体重若干ある勇者はまだ撃墜はされないが空中",
+      "rule": "Kanji homophone: 技術→撃墜; garbled transcription cleanup"
+    },
+    {
+      "segment_idx": 1,
+      "original": "所詮断 メラチラ見せの読み合いにも参加しない",
+      "corrected": "空前だ メラチラ見せの読み合いにも参加しない",
+      "rule": "Move abbreviation: 所詮断→空前だ"
+    },
+    {
+      "segment_idx": 2,
+      "original": "引きジャンプからも吹き空中前",
+      "corrected": "引きジャンプからの吹っ飛び空前",
+      "rule": "Move abbreviation: 空中前→空前; garbled cleanup"
+    },
+    {
+      "segment_idx": 3,
+      "original": "競争突攻撃安定押し付けに期待がその先の 回避上がり",
+      "corrected": "横スマッシュ攻撃安定押し付けに期待がその先の回避上がり",
+      "rule": "Garbled transcription: 競争突→横スマッシュ"
+    }
+  ]
+}

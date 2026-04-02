@@ -1,0 +1,33 @@
+{
+  "id": "fe25095a-9931-4f45-b370-c11c8fe93a0b",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.96,
+      "text": "ねマジで 壊れた",
+      "language": "ja"
+    },
+    {
+      "start": 2.96,
+      "end": 7.4,
+      "text": "使い切らせましたねー ダイヤなくなっちゃいましたねー",
+      "language": "ja"
+    },
+    {
+      "start": 7.4,
+      "end": 10.82,
+      "text": "崖上からどうした",
+      "language": "ja"
+    }
+  ],
+  "full_text": "ねマジで 壊れた 使い切らせましたねー ダイヤなくなっちゃいましたねー 崖上からどうした",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "口上から",
+      "corrected": "崖上から",
+      "rule": "misheard: 口上→崖上"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "c57c228d-c1a7-4dbf-9cda-bce46207b71e",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.04,
+      "text": "速い動きってね",
+      "language": "ja"
+    },
+    {
+      "start": 1.04,
+      "end": 3.6,
+      "text": "これほんまにリンクかって思うようなね",
+      "language": "ja"
+    },
+    {
+      "start": 3.6,
+      "end": 5.2,
+      "text": "面食らったことになったりするんですけど",
+      "language": "ja"
+    },
+    {
+      "start": 5.2,
+      "end": 6.78,
+      "text": "ここで下強から空上で撃墜",
+      "language": "ja"
+    }
+  ],
+  "full_text": "速い動きってね これほんまにリンクかって思うようなね 面食らったことになったりするんですけど ここで下強から空上で撃墜",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 3,
+      "original": "ここでした今日から空中で覚醒で激戦",
+      "corrected": "ここで下強から空上で撃墜",
+      "rule": "misheard combo description"
+    }
+  ]
+}

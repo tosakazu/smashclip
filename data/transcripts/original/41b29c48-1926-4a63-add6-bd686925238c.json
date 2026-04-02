@@ -1,0 +1,57 @@
+{
+  "id": "41b29c48-1926-4a63-add6-bd686925238c",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.56,
+      "text": "ダイヤモンド",
+      "language": "ja"
+    },
+    {
+      "start": 0.56,
+      "end": 1.22,
+      "text": "うーん",
+      "language": "ja"
+    },
+    {
+      "start": 1.22,
+      "end": 1.94,
+      "text": "ここはクリスマス",
+      "language": "ja"
+    },
+    {
+      "start": 1.94,
+      "end": 2.44,
+      "text": "ただまだ",
+      "language": "ja"
+    },
+    {
+      "start": 2.44,
+      "end": 3.72,
+      "text": "うおー早い",
+      "language": "ja"
+    },
+    {
+      "start": 3.72,
+      "end": 6.14,
+      "text": "おっと",
+      "language": "ja"
+    },
+    {
+      "start": 6.14,
+      "end": 7.86,
+      "text": "よーこースマッシュー",
+      "language": "ja"
+    }
+  ],
+  "full_text": "ダイヤモンド うーん ここはクリスマス ただまだ うおー早い おっと よーこースマッシュー",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 6,
+      "original": "よーこーすましー",
+      "corrected": "よーこースマッシュー",
+      "rule": "Smash term: 横スマッシュ (forward smash) said emphatically"
+    }
+  ]
+}

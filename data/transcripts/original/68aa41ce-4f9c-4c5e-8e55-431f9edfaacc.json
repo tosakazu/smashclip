@@ -1,0 +1,63 @@
+{
+  "id": "68aa41ce-4f9c-4c5e-8e55-431f9edfaacc",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.3,
+      "text": "やりとするような",
+      "language": "ja"
+    },
+    {
+      "start": 1.3,
+      "end": 3.6,
+      "text": "ここでね何か崖で嫌なものを",
+      "language": "ja"
+    },
+    {
+      "start": 3.6,
+      "end": 4.94,
+      "text": "植えたりする可能性もあるわけですから",
+      "language": "ja"
+    },
+    {
+      "start": 4.94,
+      "end": 7.08,
+      "text": "ライン回復が",
+      "language": "ja"
+    },
+    {
+      "start": 7.08,
+      "end": 9.68,
+      "text": "ここでウェビーで何とか返した",
+      "language": "ja"
+    },
+    {
+      "start": 9.68,
+      "end": 10.9,
+      "text": "空後で",
+      "language": "ja"
+    },
+    {
+      "start": 10.9,
+      "end": 11.84,
+      "text": "いってー",
+      "language": "ja"
+    }
+  ],
+  "full_text": "やりとするような ここでね何か崖で嫌なものを 植えたりする可能性もあるわけですから ライン回復が ここでウェビーで何とか返した 空後で いってー",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "株",
+      "corrected": "崖",
+      "rule": "kanji homophone"
+    },
+    {
+      "segment_idx": 5,
+      "original": "空中白",
+      "corrected": "空後",
+      "rule": "kanji homophone (しろ→後)"
+    }
+  ]
+}

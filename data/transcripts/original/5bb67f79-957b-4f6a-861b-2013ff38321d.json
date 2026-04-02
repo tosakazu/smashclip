@@ -1,0 +1,39 @@
+{
+  "id": "5bb67f79-957b-4f6a-861b-2013ff38321d",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "text": "開けることができるかどうか",
+      "language": "ja"
+    },
+    {
+      "start": 1.0,
+      "end": 4.12,
+      "text": "空中攻撃の始動を引っ掛けにいったが",
+      "language": "ja"
+    },
+    {
+      "start": 4.12,
+      "end": 5.12,
+      "text": "これはおっと",
+      "language": "ja"
+    },
+    {
+      "start": 5.12,
+      "end": 7.46,
+      "text": "ジャン",
+      "language": "ja"
+    }
+  ],
+  "full_text": "開けることができるかどうか 空中攻撃の始動を引っ掛けにいったが これはおっと ジャン",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "空中グラップの時速",
+      "corrected": "空中攻撃の始動",
+      "rule": "misheard word"
+    }
+  ]
+}

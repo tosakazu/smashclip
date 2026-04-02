@@ -1,0 +1,33 @@
+{
+  "id": "db1fb23b-dc65-4462-9d75-ff2aaee56d32",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.36,
+      "text": "132% now on Acola.",
+      "language": "en"
+    },
+    {
+      "start": 4.7,
+      "end": 7.82,
+      "text": "The Purple just going to be tossing those like there's no tomorrow.",
+      "language": "en"
+    },
+    {
+      "start": 7.96,
+      "end": 8.98,
+      "text": "The up air coming out as well.",
+      "language": "en"
+    }
+  ],
+  "full_text": "132% now on Acola. The Purple just going to be tossing those like there's no tomorrow. The up air coming out as well.",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "The Upper coming out as well.",
+      "corrected": "The up air coming out as well.",
+      "rule": "whisper_misrecognition"
+    }
+  ]
+}

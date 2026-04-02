@@ -1,0 +1,35 @@
+{
+  "id": "8c38c8cc-7553-4551-9ba1-8d272444bb89",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.06,
+      "text": "Neutral air!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空中ニュートラル"
+    },
+    {
+      "start": 2.06,
+      "end": 5.04,
+      "text": "Now they're going for the kill!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあぶっ飛ばすに変えてきたぞ"
+    },
+    {
+      "start": 5.04,
+      "end": 7.4,
+      "text": "But what a marvelous combo!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これはしかしマーベラスコンビネーション"
+    }
+  ],
+  "full_text": "Neutral air! Now they're going for the kill! But what a marvelous combo!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    "コミュネーション→コンビネーション (Marvelous Combination, Roy's side B)"
+  ]
+}

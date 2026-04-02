@@ -1,0 +1,26 @@
+{
+  "id": "ce2c740d-cc99-4988-9bd0-c9f06f78277d",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 7.04,
+      "text": "ここでカウンター見せてきました",
+      "language": "ja"
+    },
+    {
+      "start": 7.04,
+      "end": 10.0,
+      "text": "撃墜までできれば最高ではありましたが",
+      "language": "ja"
+    },
+    {
+      "start": 11.12,
+      "end": 15.86,
+      "text": "後ろで差し返す",
+      "language": "ja"
+    }
+  ],
+  "full_text": "ここでカウンター見せてきました 撃墜までできれば最高ではありましたが 後ろで差し返す",
+  "detected_language": "ja",
+  "corrections": []
+}

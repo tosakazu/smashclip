@@ -1,0 +1,44 @@
+{
+  "id": "11d95ee6-31a0-4203-8e7b-dbe9959fafc5",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.3,
+      "text": "んー非常に素早い",
+      "language": "ja"
+    },
+    {
+      "start": 2.3,
+      "end": 3.48,
+      "text": "一回きりの展開",
+      "language": "ja"
+    },
+    {
+      "start": 3.48,
+      "end": 5.5,
+      "text": "上ずらして抜けていって",
+      "language": "ja"
+    },
+    {
+      "start": 5.5,
+      "end": 6.64,
+      "text": "ドルフィンで反撃取って",
+      "language": "ja"
+    },
+    {
+      "start": 6.64,
+      "end": 7.84,
+      "text": "ゲージを空にしていって",
+      "language": "ja"
+    },
+    {
+      "start": 7.84,
+      "end": 9.28,
+      "text": "下強からダウンにした",
+      "language": "ja"
+    }
+  ],
+  "full_text": "んー非常に素早い 一回きりの展開 上ずらして抜けていって ドルフィンで反撃取って ゲージを空にしていって 下強からダウンにした",
+  "detected_language": "ja",
+  "corrections": []
+}

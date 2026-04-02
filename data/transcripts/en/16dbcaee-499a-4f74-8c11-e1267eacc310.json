@@ -1,0 +1,94 @@
+{
+  "id": "16dbcaee-499a-4f74-8c11-e1267eacc310",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.12,
+      "text": "No hit!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここは当たらず"
+    },
+    {
+      "start": 2.12,
+      "end": 5.0,
+      "text": "That's insane!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "怖すぎ怖すぎ"
+    },
+    {
+      "start": 5.0,
+      "end": 6.16,
+      "text": "Nice!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "うまい"
+    },
+    {
+      "start": 6.16,
+      "end": 7.52,
+      "text": "Up air in time!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空上できる間に合ってる"
+    },
+    {
+      "start": 7.52,
+      "end": 9.68,
+      "text": "Still good!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "まだ大丈夫"
+    },
+    {
+      "start": 9.68,
+      "end": 12.64,
+      "text": "Come on!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "どっちか先に来てくれ"
+    },
+    {
+      "start": 12.64,
+      "end": 14.18,
+      "text": "Parry it!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ジャスガ取って"
+    },
+    {
+      "start": 14.18,
+      "end": 16.84,
+      "text": "Should've been from behind!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "後ろ側にいたはずだ"
+    },
+    {
+      "start": 16.84,
+      "end": 17.88,
+      "text": "Got the back!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "後ろにいた"
+    }
+  ],
+  "full_text": "No hit! That's insane! Nice! Up air in time! Still good! Come on! Parry it! Should've been from behind! Got the back!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 3,
+      "original": "想像できる間に合ってる",
+      "corrected": "空上できる間に合ってる",
+      "rule": "Kanji homophone: 想像→空上 (up air)"
+    },
+    {
+      "segment_idx": 6,
+      "original": "ジャスカ取って",
+      "corrected": "ジャスガ取って",
+      "rule": "Smash term: ジャスカ→ジャスガ (just guard)"
+    }
+  ]
+}

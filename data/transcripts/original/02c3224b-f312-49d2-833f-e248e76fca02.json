@@ -1,0 +1,51 @@
+{
+  "id": "02c3224b-f312-49d2-833f-e248e76fca02",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.76,
+      "text": "宇宙にとる空後",
+      "language": "ja"
+    },
+    {
+      "start": 1.76,
+      "end": 4.22,
+      "text": "ひたすらスマして狙っていく",
+      "language": "ja"
+    },
+    {
+      "start": 4.22,
+      "end": 5.36,
+      "text": "トルネード",
+      "language": "ja"
+    },
+    {
+      "start": 5.36,
+      "end": 7.58,
+      "text": "空振りに対して",
+      "language": "ja"
+    },
+    {
+      "start": 7.58,
+      "end": 8.5,
+      "text": "そして",
+      "language": "ja"
+    }
+  ],
+  "full_text": "宇宙にとる空後 ひたすらスマして狙っていく トルネード 空振りに対して そして",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "宇宙にとる宇宙城",
+      "corrected": "宇宙にとる空後",
+      "rule": "auto-rule"
+    },
+    {
+      "segment_idx": 1,
+      "original": "ひたすまして狙っていく",
+      "corrected": "ひたすらスマして狙っていく",
+      "rule": "misheard word"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "id": "69d708cb-13ee-4ea7-9ad5-169d45c2297c",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.5,
+      "text": "Going for it!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "狙っていく"
+    },
+    {
+      "start": 0.5,
+      "end": 2.36,
+      "text": "The dair meteor manages to land!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空下のメテオはなんとか"
+    },
+    {
+      "start": 2.36,
+      "end": 3.74,
+      "text": "Dolphin Slash grabs the ledge first",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ドルフィンで先に崖を掴んで"
+    },
+    {
+      "start": 3.74,
+      "end": 5.5,
+      "text": "Forward smash? Is the dodge being read?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "横スマッシュ?回避が見えてるの?"
+    },
+    {
+      "start": 6.26,
+      "end": 6.88,
+      "text": "Somehow pulls it off",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "なんとか"
+    },
+    {
+      "start": 6.88,
+      "end": 8.36,
+      "text": "Zakreya's dodging through it",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "かわしているのはザクレイ"
+    },
+    {
+      "start": 8.36,
+      "end": 10.54,
+      "text": "The up air gets cut short",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空上は途中で止まっちゃって"
+    },
+    {
+      "start": 10.54,
+      "end": 11.78,
+      "text": "The spin connects",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "コマが当たってるのは"
+    }
+  ],
+  "full_text": "Going for it! The dair meteor manages to land! Dolphin Slash grabs the ledge first Forward smash? Is the dodge being read? Somehow pulls it off Zakreya's dodging through it The up air gets cut short The spin connects",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "ガキを捕まって",
+      "corrected": "崖を掴んで",
+      "rule": "Whisper mishearing (がき→がけ)"
+    },
+    {
+      "segment_idx": 7,
+      "original": "クマ",
+      "corrected": "コマ",
+      "rule": "Whisper mishearing (R.O.B. gyro)"
+    }
+  ]
+}

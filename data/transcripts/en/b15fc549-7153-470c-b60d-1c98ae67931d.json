@@ -1,0 +1,39 @@
+{
+  "id": "b15fc549-7153-470c-b60d-1c98ae67931d",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.4,
+      "text": "ends up being a big factor you gotta watch out he's trying to set it up",
+      "language": "en"
+    },
+    {
+      "start": 6.32,
+      "end": 11.6,
+      "text": "we've got one Banjo that i can think of that Lui$ may have played",
+      "language": "en"
+    },
+    {
+      "start": 11.6,
+      "end": 16.48,
+      "text": "radoop he is not at this level but he's got some of that stuff on lock so if Lui$",
+      "language": "en"
+    }
+  ],
+  "full_text": "ends up being a big factor you gotta watch out he's trying to set it up we've got one Banjo that i can think of that Lui$ may have played radoop he is not at this level but he's got some of that stuff on lock so if Lui$",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "louie money",
+      "corrected": "Lui$",
+      "rule": "player name (Lui$)"
+    },
+    {
+      "segment_idx": 2,
+      "original": "louie money",
+      "corrected": "Lui$",
+      "rule": "player name (Lui$)"
+    }
+  ]
+}

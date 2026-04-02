@@ -1,0 +1,74 @@
+{
+  "id": "84e780c6-5ebd-486c-8359-b3905f9f7bdc",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.98,
+      "text": "In Piorim state",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ピオリム状態"
+    },
+    {
+      "start": 3.98,
+      "end": 5.36,
+      "text": "The weight gets lighter too, you see",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "体重も軽くなるんでね"
+    },
+    {
+      "start": 5.36,
+      "end": 8.92,
+      "text": "Though that's a bit KO-scary",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "若干撃墜怖いところですが"
+    },
+    {
+      "start": 8.92,
+      "end": 10.94,
+      "text": "Piorim runs out during that forward smash charge",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "今の横スマホールド時間中にピオリムがなくなる"
+    },
+    {
+      "start": 10.94,
+      "end": 11.96,
+      "text": "Still gets the KO!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "それでも撃墜"
+    }
+  ],
+  "full_text": "In Piorim state the weight gets lighter too, you see though that's a bit KO-scary Piorim runs out during that forward smash charge Still gets the KO!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "ピューリム",
+      "corrected": "ピオリム",
+      "rule": "spell name (ピューリム→ピオリム)"
+    },
+    {
+      "segment_idx": 2,
+      "original": "激戦",
+      "corrected": "撃墜",
+      "rule": "kanji homophone (激戦→撃墜)"
+    },
+    {
+      "segment_idx": 3,
+      "original": "ピューリム",
+      "corrected": "ピオリム",
+      "rule": "spell name"
+    },
+    {
+      "segment_idx": 4,
+      "original": "超相撲つ",
+      "corrected": "撃墜",
+      "rule": "misheard word"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "0e060e23-8258-4210-bab2-d278230bf04f",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.64,
+      "text": "Even accounting for that, if it lands it's a stock, so...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "っていうのも加味しても当たれば撃墜だからっていうので"
+    },
+    {
+      "start": 2.64,
+      "end": 3.12,
+      "text": "Yeah",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そうですね"
+    },
+    {
+      "start": 3.12,
+      "end": 6.42,
+      "text": "Since it's a bair, even whiffing it isn't that punishing",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空後空なんで外してもそんな手痛い"
+    }
+  ],
+  "full_text": "Even accounting for that, if it lands it's a stock, so... Yeah Since it's a bair, even whiffing it isn't that punishing",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "空担空なんで外してもそんな手痛い",
+      "corrected": "空後空なんで外してもそんな手痛い",
+      "rule": "Move abbreviation: 空担空→空後空 (back air whiff)"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+[project]
+name = "smashclip"
+version = "1.0.0"
+description = "SmashClip: A Multimodal Dataset for Clip-Worthiness Assessment"
+requires-python = ">=3.10"
+dependencies = [
+    "torch>=2.0",
+    "numpy",
+    "scipy",
+    "scikit-learn",
+    "tqdm",
+]
+
+[project.optional-dependencies]
+features = [
+    "transformers",
+    "accelerate",
+    "librosa",
+    "soundfile",
+    "sentence-transformers",
+    "decord",
+]
+analysis = [
+    "matplotlib",
+    "seaborn",
+    "pandas",
+]

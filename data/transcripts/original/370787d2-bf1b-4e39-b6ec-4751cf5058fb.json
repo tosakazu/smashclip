@@ -1,0 +1,33 @@
+{
+  "id": "370787d2-bf1b-4e39-b6ec-4751cf5058fb",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.78,
+      "text": "3日連続で大会に臨んでいるというスタイルですね",
+      "language": "ja"
+    },
+    {
+      "start": 3.78,
+      "end": 10.74,
+      "text": "下投げからの空前空前運んで運んで空後で押し切った",
+      "language": "ja"
+    },
+    {
+      "start": 10.74,
+      "end": 11.38,
+      "text": "お見事",
+      "language": "ja"
+    }
+  ],
+  "full_text": "3日連続で大会に臨んでいるというスタイルですね 下投げからの空前空前運んで運んで空後で押し切った お見事",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "空中白で押し切った",
+      "corrected": "空後で押し切った",
+      "rule": "Whisper error: 空中白→空後"
+    }
+  ]
+}

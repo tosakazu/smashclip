@@ -1,0 +1,62 @@
+{
+  "id": "cee8e50f-0824-4f2c-a83b-bd111f167bb6",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.9,
+      "text": "Finally connects!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "やっと当たったって感じだな"
+    },
+    {
+      "start": 2.9,
+      "end": 4.86,
+      "text": "Now, back air again!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあしかし空中後ろを再び"
+    },
+    {
+      "start": 4.86,
+      "end": 6.04,
+      "text": "Tough spot!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "苦しいぞ"
+    },
+    {
+      "start": 6.04,
+      "end": 8.76,
+      "text": "Starting with bair at the edge!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "まずはこの崖を空中後ろ"
+    },
+    {
+      "start": 8.76,
+      "end": 9.82,
+      "text": "That's brutal!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これは激痛"
+    }
+  ],
+  "full_text": "Finally connects! Now, back air again! Tough spot! Starting with bair at the edge! That's brutal!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "空中死霊を再び",
+      "corrected": "空中後ろを再び",
+      "rule": "smash term (空中後ろ=back air, 死霊 is mishearing of うしろ)"
+    },
+    {
+      "segment_idx": 3,
+      "original": "まずはこの賭けを空中死霊",
+      "corrected": "まずはこの崖を空中後ろ",
+      "rule": "smash term (空中後ろ=back air, 賭け→崖)"
+    }
+  ]
+}

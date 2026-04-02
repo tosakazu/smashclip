@@ -1,0 +1,26 @@
+{
+  "id": "ab9d8fc1-4211-468e-b57a-7b664e853aaf",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.56,
+      "text": "They're cheering. They want to see their boy get that 2-0.",
+      "language": "en"
+    },
+    {
+      "start": 3.04,
+      "end": 5.24,
+      "text": "But here comes Glutoni. Big combo!",
+      "language": "en"
+    },
+    {
+      "start": 5.32,
+      "end": 7.7,
+      "text": "With the conversion into the waft!",
+      "language": "en"
+    }
+  ],
+  "full_text": "They're cheering. They want to see their boy get that 2-0. But here comes Glutoni. Big combo! With the conversion into the waft!",
+  "detected_language": "en",
+  "corrections": []
+}

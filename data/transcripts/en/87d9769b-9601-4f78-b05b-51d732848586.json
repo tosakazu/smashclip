@@ -1,0 +1,70 @@
+{
+  "id": "87d9769b-9601-4f78-b05b-51d732848586",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.84,
+      "text": "Didn't connect after that spin",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "今度のスピンの後の10秒は当たりませんでしたが"
+    },
+    {
+      "start": 2.84,
+      "end": 5.04,
+      "text": "Is he shutting down the ground game now?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "今度は下を潰しますか"
+    },
+    {
+      "start": 5.04,
+      "end": 7.96,
+      "text": "Flying to the inside",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "内側に飛んでいって"
+    },
+    {
+      "start": 7.96,
+      "end": 8.98,
+      "text": "Got the kick out but",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ゴトラ蹴りましたが"
+    },
+    {
+      "start": 8.98,
+      "end": 10.34,
+      "text": "Forward smash!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "横スマッシュー"
+    },
+    {
+      "start": 10.34,
+      "end": 11.0,
+      "text": "KO!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "撃墜"
+    }
+  ],
+  "full_text": "Didn't connect after that spin. Is he shutting down the ground game now? Flying to the inside. Got the kick out but. Forward smash! KO!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 4,
+      "original": "ようこそシュー",
+      "corrected": "横スマッシュー",
+      "rule": "move name (ようこそシュー→横スマッシュー)"
+    },
+    {
+      "segment_idx": 5,
+      "original": "激強",
+      "corrected": "撃墜",
+      "rule": "kanji homophone (激強→撃墜)"
+    }
+  ]
+}

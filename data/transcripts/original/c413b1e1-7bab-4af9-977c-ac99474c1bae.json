@@ -1,0 +1,51 @@
+{
+  "id": "c413b1e1-7bab-4af9-977c-ac99474c1bae",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.8,
+      "text": "空中後ろまで見えていたが落下速度がちょっと早かった",
+      "language": "ja"
+    },
+    {
+      "start": 2.8,
+      "end": 4.74,
+      "text": "勝つためにはおならを温存しないといけない",
+      "language": "ja"
+    },
+    {
+      "start": 4.74,
+      "end": 7.68,
+      "text": "ジャック手堅いですね",
+      "language": "ja"
+    },
+    {
+      "start": 7.68,
+      "end": 9.12,
+      "text": "ギリギリまで確認して",
+      "language": "ja"
+    },
+    {
+      "start": 9.12,
+      "end": 12.04,
+      "text": "引きからダッシュ攻撃",
+      "language": "ja"
+    },
+    {
+      "start": 12.04,
+      "end": 12.92,
+      "text": "撃墜",
+      "language": "ja"
+    }
+  ],
+  "full_text": "空中後ろまで見えていたが落下速度がちょっと早かった 勝つためにはおならを温存しないといけない ジャック手堅いですね ギリギリまで確認して 引きからダッシュ攻撃 撃墜",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 4,
+      "original": "久々から出し攻撃",
+      "corrected": "引きからダッシュ攻撃",
+      "rule": "misheard words"
+    }
+  ]
+}

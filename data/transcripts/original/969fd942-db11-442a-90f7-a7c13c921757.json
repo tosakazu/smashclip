@@ -1,0 +1,20 @@
+{
+  "id": "969fd942-db11-442a-90f7-a7c13c921757",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.7,
+      "text": "is not quite really optimized but maybe he can get away with something",
+      "language": "en"
+    },
+    {
+      "start": 3.7,
+      "end": 7.96,
+      "text": "oh he's missing the stop right there oh my god",
+      "language": "en"
+    }
+  ],
+  "full_text": "is not quite really optimized but maybe he can get away with something oh he's missing the stop right there oh my god",
+  "detected_language": "en",
+  "corrections": []
+}

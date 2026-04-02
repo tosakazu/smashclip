@@ -1,0 +1,54 @@
+{
+  "id": "6408a94f-fa26-49d2-b790-58c42041a2e3",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.64,
+      "text": "No confirmed combo, so passing it up and moving into the ledge situation",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "確定はなしで見送って崖展開ですとこう言ってきました"
+    },
+    {
+      "start": 2.64,
+      "end": 7.8,
+      "text": "Sonic's evasion is fast for sure, but...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "やはりソニック側で弱点の一つとして回避は早いんですけど"
+    },
+    {
+      "start": 7.8,
+      "end": 11.1,
+      "text": "His horizontal movement without Spin doesn't have as many options, so...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "横移動はスピンとか使っちゃうとそんなにないので"
+    },
+    {
+      "start": 11.1,
+      "end": 13.18,
+      "text": "Once he gets juggled, it gets pretty rough...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "着地狩りの展開に持っていかれると結構"
+    }
+  ],
+  "full_text": "No confirmed combo, so passing it up and moving into the ledge situation Sonic's evasion is fast for sure, but... His horizontal movement without Spin doesn't have as many options, so... Once he gets juggled, it gets pretty rough...",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "賭け展開",
+      "corrected": "崖展開",
+      "rule": "kanji homophone (かけ→がけ)"
+    },
+    {
+      "segment_idx": 3,
+      "original": "着地側の展開",
+      "corrected": "着地狩りの展開",
+      "rule": "Smash term (着地狩り)"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "31ee6fa0-5554-481e-8280-18aec357d801",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.78,
+      "text": "Unstoppable! Switching up with shield!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "止まらないぞ シールドに変えていく"
+    },
+    {
+      "start": 1.78,
+      "end": 4.46,
+      "text": "Wow! That grab's got no knockback!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "うおっと掴みとして全然飛ばない"
+    },
+    {
+      "start": 4.46,
+      "end": 7.3,
+      "text": "Both in triple digits!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあパーセンテージはどちらも3桁台"
+    },
+    {
+      "start": 7.3,
+      "end": 9.96,
+      "text": "The fair couldn't finish!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空中前押し切れなかったブレイザーになった"
+    },
+    {
+      "start": 9.96,
+      "end": 11.94,
+      "text": "Forward tilt closes it for the KO!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "横強で詰めて撃墜"
+    }
+  ],
+  "full_text": "Unstoppable! Switching up with shield! Wow! That grab's got no knockback! Both in triple digits! The fair couldn't finish! Forward tilt closes it for the KO!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 4,
+      "original": "激突",
+      "corrected": "撃墜",
+      "rule": "kanji homophone: 激突→撃墜"
+    }
+  ]
+}

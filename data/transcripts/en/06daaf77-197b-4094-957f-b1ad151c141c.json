@@ -1,0 +1,39 @@
+{
+  "id": "06daaf77-197b-4094-957f-b1ad151c141c",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.6,
+      "text": "being this wall all set all bracket oh no the up B oh no didn't do enough but the bair gonna",
+      "language": "en"
+    },
+    {
+      "start": 6.6,
+      "end": 11.96,
+      "text": "gonna trade back here and ken couldn't make it back and that was the impenetrable wall",
+      "language": "en"
+    },
+    {
+      "start": 11.96,
+      "end": 16.08,
+      "text": "that we were talking about earlier on here today as Miya sits comfortably",
+      "language": "en"
+    }
+  ],
+  "full_text": "being this wall all set all bracket oh no the up B oh no didn't do enough but the bair gonna gonna trade back here and ken couldn't make it back and that was the impenetrable wall that we were talking about earlier on here today as Miya sits comfortably",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "being this wall all set all bracket oh no the obi oh no didn't do enough but the bacon",
+      "corrected": "being this wall all set all bracket oh no the up B oh no didn't do enough but the bair gonna",
+      "rule": "Move name correction (obi → up B, bacon → bair gonna)"
+    },
+    {
+      "segment_idx": 2,
+      "original": "that we were talking about earlier on here today as mia sits comfortably",
+      "corrected": "that we were talking about earlier on here today as Miya sits comfortably",
+      "rule": "Player name correction (mia → Miya)"
+    }
+  ]
+}

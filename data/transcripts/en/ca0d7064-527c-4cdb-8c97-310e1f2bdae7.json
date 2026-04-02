@@ -1,0 +1,64 @@
+{
+  "id": "ca0d7064-527c-4cdb-8c97-310e1f2bdae7",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.14,
+      "text": "Perfect edgeguard!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "復帰阻止しきって"
+    },
+    {
+      "start": 2.14,
+      "end": 4.28,
+      "text": "Uchii takes a 1-stock lead!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "うっちー選手1ストック先取"
+    },
+    {
+      "start": 4.28,
+      "end": 5.64,
+      "text": "But the fastest wind god fist!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "しかし最速風神拳"
+    },
+    {
+      "start": 5.64,
+      "end": 7.38,
+      "text": "What is this?!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これは?"
+    },
+    {
+      "start": 7.72,
+      "end": 9.02,
+      "text": "Will it reach a KO?!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "撃墜まで?いくのか?"
+    },
+    {
+      "start": 9.3,
+      "end": 11.54,
+      "text": "It goes! There it is!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いくー!いっちゃったねー"
+    }
+  ],
+  "full_text": "Perfect edgeguard! Uchii takes a 1-stock lead! But the fastest wind god fist! What is this?! Will it reach a KO?! It goes! There it is!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "うっちぃ選手1ストック選手",
+      "corrected": "うっちー選手1ストック先取",
+      "rule": "mishearing (先取)"
+    }
+  ]
+}

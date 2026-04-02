@@ -1,0 +1,56 @@
+{
+  "id": "90140e35-0609-46d7-beea-4ae609ffecf7",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.8,
+      "text": "Already threw out the fair and it whiffed!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "もう当てた空中前スカってしまった"
+    },
+    {
+      "start": 1.8,
+      "end": 4.3,
+      "text": "That's not reaching up there",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これは冷静に空中に届かない"
+    },
+    {
+      "start": 4.3,
+      "end": 7.96,
+      "text": "My voice too",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあ私の声も"
+    },
+    {
+      "start": 7.96,
+      "end": 9.86,
+      "text": "It's becoming like an echo now, but",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "もはや響きに近くなっているんですが"
+    },
+    {
+      "start": 9.86,
+      "end": 11.46,
+      "text": "That mild H.O player",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "マイルドなH.O選手"
+    }
+  ],
+  "full_text": "Already threw out the fair and it whiffed! That's not reaching up there My voice too It's becoming like an echo now, but That mild H.O player",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 4,
+      "original": "マイルナエイチグオー選手",
+      "corrected": "マイルドなH.O選手",
+      "rule": "player name"
+    }
+  ]
+}

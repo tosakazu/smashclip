@@ -1,0 +1,72 @@
+{
+  "id": "7081f5de-16ad-4a99-aea6-a59a3f8dbe74",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.0,
+      "text": "カルトコ、内側に潜り込んでかわして",
+      "language": "ja"
+    },
+    {
+      "start": 3.0,
+      "end": 4.0,
+      "text": "見ている",
+      "language": "ja"
+    },
+    {
+      "start": 4.0,
+      "end": 6.0,
+      "text": "上Bでつなげるか?",
+      "language": "ja"
+    },
+    {
+      "start": 6.0,
+      "end": 9.0,
+      "text": "このパーセントはつながっている",
+      "language": "ja"
+    },
+    {
+      "start": 9.0,
+      "end": 12.0,
+      "text": "撃墜だ",
+      "language": "ja"
+    },
+    {
+      "start": 16.0,
+      "end": 19.0,
+      "text": "ついに到達した",
+      "language": "ja"
+    },
+    {
+      "start": 19.0,
+      "end": 22.0,
+      "text": "かつてのライバル、今は宿敵",
+      "language": "ja"
+    },
+    {
+      "start": 22.0,
+      "end": 25.0,
+      "text": "輝きの笑顔が似合う男",
+      "language": "ja"
+    }
+  ],
+  "full_text": "カルトコ、内側に潜り込んでかわして 見ている 上Bでつなげるか? このパーセントはつながっている 撃墜だ ついに到達した かつてのライバル、今は宿敵 輝きの笑顔が似合う男",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_index": 2,
+      "original": "上でつなげるか?",
+      "corrected": "上Bでつなげるか?"
+    },
+    {
+      "segment_index": 3,
+      "original": "このパーフェクトはつながっている",
+      "corrected": "このパーセントはつながっている"
+    },
+    {
+      "segment_index": 7,
+      "original": "かがるみの男女が似合う男",
+      "corrected": "輝きの笑顔が似合う男"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "3813af34-10d3-4cb3-929d-a341d8252787",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.88,
+      "text": "counter",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "カウント本体"
+    },
+    {
+      "start": 0.88,
+      "end": 3.28,
+      "text": "and",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "と"
+    },
+    {
+      "start": 3.28,
+      "end": 7.4,
+      "text": "counter",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "カウント本体"
+    },
+    {
+      "start": 7.4,
+      "end": 8.24,
+      "text": "—",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "で"
+    },
+    {
+      "start": 8.24,
+      "end": 9.3,
+      "text": "so well set up",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "よく仕込った"
+    }
+  ],
+  "full_text": "counter and counter — so well set up",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 4,
+      "original": "よくしこった",
+      "corrected": "よく仕込った",
+      "rule": "misheard word"
+    }
+  ]
+}

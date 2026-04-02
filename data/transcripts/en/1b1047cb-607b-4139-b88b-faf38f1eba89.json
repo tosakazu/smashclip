@@ -1,0 +1,27 @@
+{
+  "id": "1b1047cb-607b-4139-b88b-faf38f1eba89",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.92,
+      "text": "stage with the key difference of narrow side flat zones and the tall up top flat zone.",
+      "language": "en"
+    },
+    {
+      "start": 6.4,
+      "end": 12.5,
+      "text": "Oh yeah I mean I'm not an expert on the Wario Kirby matchup but oh okay.",
+      "language": "en"
+    }
+  ],
+  "full_text": "stage with the key difference of narrow side flat zones and the tall up top flat zone. Oh yeah I mean I'm not an expert on the Wario Kirby matchup but oh okay.",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "Oh yeah I mean I'm not an expert on the wall heel curbs matchup but oh okay.",
+      "corrected": "Oh yeah I mean I'm not an expert on the Wario Kirby matchup but oh okay.",
+      "rule": "Whisper mishearing: wall heel curbs→Wario Kirby"
+    }
+  ]
+}

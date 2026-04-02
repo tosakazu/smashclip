@@ -1,0 +1,81 @@
+{
+  "id": "ba16e188-8824-4405-9355-eeca6624b59a",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.62,
+      "text": "うーん 全然ありそう",
+      "language": "ja"
+    },
+    {
+      "start": 2.62,
+      "end": 5.28,
+      "text": "おぉ!ダッシュつかみ! 消火栓の後ろに",
+      "language": "ja"
+    },
+    {
+      "start": 5.28,
+      "end": 9.32,
+      "text": "逃げるのであれば ダッシュで近づくぞと",
+      "language": "ja"
+    },
+    {
+      "start": 9.32,
+      "end": 11.7,
+      "text": "うぅ!この崖? リンゴが置いてあるが",
+      "language": "ja"
+    },
+    {
+      "start": 11.7,
+      "end": 13.84,
+      "text": "下スマッシュも置いてある",
+      "language": "ja"
+    },
+    {
+      "start": 13.84,
+      "end": 15.66,
+      "text": "無理すぎー",
+      "language": "ja"
+    },
+    {
+      "start": 15.66,
+      "end": 17.82,
+      "text": "いやーこの崖固めで",
+      "language": "ja"
+    },
+    {
+      "start": 17.82,
+      "end": 20.26,
+      "text": "まずはここ取り切りました",
+      "language": "ja"
+    }
+  ],
+  "full_text": "うーん 全然ありそう おぉ!ダッシュつかみ! 消火栓の後ろに 逃げるのであれば ダッシュで近づくぞと うぅ!この崖? リンゴが置いてあるが 下スマッシュも置いてある 無理すぎー いやーこの崖固めで まずはここ取り切りました",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "ショウカゼンの後ろに",
+      "corrected": "消火栓の後ろに",
+      "rule": "Whisper error"
+    },
+    {
+      "segment_idx": 6,
+      "original": "崖がためで",
+      "corrected": "崖固めで",
+      "rule": "Whisper error"
+    },
+    {
+      "segment_idx": 3,
+      "original": "リンコ",
+      "corrected": "リンゴ",
+      "rule": "kanji homophone"
+    },
+    {
+      "segment_idx": 4,
+      "original": "スタスマッチ",
+      "corrected": "下スマッシュ",
+      "rule": "move name"
+    }
+  ]
+}

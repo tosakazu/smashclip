@@ -1,0 +1,100 @@
+{
+  "id": "de1700fb-5e7f-4022-ac97-2ebdffc5d6aa",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.96,
+      "text": "And yeah, the situation's already looking pretty bad",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そしてもう別に展開悪いんですよね"
+    },
+    {
+      "start": 1.96,
+      "end": 6.66,
+      "text": "Well, of course there's no counter here",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあもちろん反撃はない"
+    },
+    {
+      "start": 6.66,
+      "end": 8.14,
+      "text": "Off the falling up air",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "下りの空中上から"
+    },
+    {
+      "start": 8.14,
+      "end": 10.84,
+      "text": "Side B's scary though",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "横B怖いが"
+    },
+    {
+      "start": 10.84,
+      "end": 11.52,
+      "text": "Blocks it!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "止める"
+    },
+    {
+      "start": 11.52,
+      "end": 12.64,
+      "text": "Wait, he blocked that one earlier too!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いや先ほども止めた"
+    },
+    {
+      "start": 12.64,
+      "end": 13.84,
+      "text": "He's out!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "死んだ"
+    },
+    {
+      "start": 13.84,
+      "end": 15.92,
+      "text": "That's way out of bounds!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "OBすぎですね"
+    },
+    {
+      "start": 15.92,
+      "end": 18.08,
+      "text": "That earlier mistake came from the platform spin",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "先ほどのミスはこの台上スピンに"
+    }
+  ],
+  "full_text": "And yeah, the situation's already looking pretty bad Well, of course there's no counter here Off the falling up air Side B's scary though Blocks it! Wait, he blocked that one earlier too! He's out! That's way out of bounds! That earlier mistake came from the platform spin",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 3,
+      "original": "横ビル",
+      "corrected": "横B",
+      "rule": "smash term (side special)"
+    },
+    {
+      "segment_idx": 7,
+      "original": "OBすぎですね",
+      "corrected": "OBすぎですね",
+      "rule": "no change needed"
+    },
+    {
+      "segment_idx": 8,
+      "original": "大上スピン",
+      "corrected": "台上スピン",
+      "rule": "misheard word (platform spin)"
+    }
+  ]
+}

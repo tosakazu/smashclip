@@ -1,0 +1,50 @@
+{
+  "id": "e11e6115-7e03-4c72-a696-39f179dd1143",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.14,
+      "text": "これは一度引かざるを得ない。",
+      "language": "ja"
+    },
+    {
+      "start": 1.52,
+      "end": 2.14,
+      "text": "引いて横スマ。",
+      "language": "ja"
+    },
+    {
+      "start": 2.62,
+      "end": 3.56,
+      "text": "当たるはずもない。",
+      "language": "ja"
+    },
+    {
+      "start": 4.06,
+      "end": 4.78,
+      "text": "剣のスマッシュ。",
+      "language": "ja"
+    },
+    {
+      "start": 6.38,
+      "end": 7.3,
+      "text": "守りが固いぞ。",
+      "language": "ja"
+    },
+    {
+      "start": 7.64,
+      "end": 10.02,
+      "text": "だがここは再び上から空中後ろ。",
+      "language": "ja"
+    },
+    {
+      "start": 10.3,
+      "end": 11.6,
+      "text": "紫ピクミンの破壊力。",
+      "language": "ja"
+    }
+  ],
+  "full_text": "これは一度引かざるを得ない。 引いて横スマ。 当たるはずもない。 剣のスマッシュ。 守りが固いぞ。 だがここは再び上から空中後ろ。 紫ピクミンの破壊力。",
+  "detected_language": "ja",
+  "corrections": []
+}

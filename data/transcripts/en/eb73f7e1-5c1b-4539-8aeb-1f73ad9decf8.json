@@ -1,0 +1,68 @@
+{
+  "id": "eb73f7e1-5c1b-4539-8aeb-1f73ad9decf8",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.2,
+      "text": "Off-stage at low percent!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "低%PKフリーズ"
+    },
+    {
+      "start": 1.2,
+      "end": 3.42,
+      "text": "Watch the juggle!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "音を鳴らして着地狩りの展開見ているぞ"
+    },
+    {
+      "start": 3.42,
+      "end": 4.48,
+      "text": "Nair into...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空Nから先を"
+    },
+    {
+      "start": 4.48,
+      "end": 5.42,
+      "text": "Up air!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空上"
+    },
+    {
+      "start": 5.42,
+      "end": 7.38,
+      "text": "I see",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そっか"
+    }
+  ],
+  "full_text": "Off-stage at low percent! Watch the juggle! Nair into... Up air! I see",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "2%",
+      "corrected": "低%",
+      "rule": "context"
+    },
+    {
+      "segment_idx": 2,
+      "original": "クエノトシから先を",
+      "corrected": "空Nから先を",
+      "rule": "misheard: クエノトシ→空N"
+    },
+    {
+      "segment_idx": 3,
+      "original": "クーチューブ",
+      "corrected": "空上",
+      "rule": "misheard: クーチューブ→空上"
+    }
+  ]
+}

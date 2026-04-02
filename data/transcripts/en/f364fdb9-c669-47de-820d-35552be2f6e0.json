@@ -1,0 +1,38 @@
+{
+  "id": "f364fdb9-c669-47de-820d-35552be2f6e0",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.24,
+      "text": "Want to juggle but Puff lands way too safely",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "着地狩りたいけどプリン着地悠々自適"
+    },
+    {
+      "start": 5.24,
+      "end": 9.26,
+      "text": "The neutral spacing's not as comfortable though",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ただ差し合いは悠々自適ともいかず"
+    }
+  ],
+  "full_text": "Want to juggle but Puff lands way too safely The neutral spacing's not as comfortable though",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "着地借りたいけどプリント着地悠々自敵",
+      "corrected": "着地狩りたいけどプリン着地悠々自適",
+      "rule": "misheard: 借り→狩り, プリント→プリン, 自敵→自適"
+    },
+    {
+      "segment_idx": 1,
+      "original": "悠々自敵",
+      "corrected": "悠々自適",
+      "rule": "kanji: 自敵→自適"
+    }
+  ]
+}

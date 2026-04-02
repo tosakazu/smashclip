@@ -1,0 +1,64 @@
+{
+  "id": "cb6837d4-17ea-49d7-b2fd-6d249aa5355e",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.7,
+      "text": "Will Kuroshio go for the KO?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "撃墜狙いしますか黒船選手"
+    },
+    {
+      "start": 2.7,
+      "end": 11.62,
+      "text": "But even at 73%, he's still got about that much of a shot!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ただ73%はゲッティング可能性もぐらいにあるぞ"
+    },
+    {
+      "start": 11.62,
+      "end": 13.38,
+      "text": "Next",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "次の"
+    },
+    {
+      "start": 13.38,
+      "end": 16.24,
+      "text": "Coming up",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これから"
+    },
+    {
+      "start": 16.24,
+      "end": 17.26,
+      "text": "Coming up",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これから"
+    },
+    {
+      "start": 17.26,
+      "end": 47.24,
+      "text": "Next time preview",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "次回予告"
+    }
+  ],
+  "full_text": "Will Kuroshio go for the KO? But even at 73%, he's still got about that much of a shot! Next Coming up Coming up Next time preview",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "実況狙い",
+      "corrected": "撃墜狙い",
+      "rule": "smash term (撃墜)"
+    }
+  ]
+}

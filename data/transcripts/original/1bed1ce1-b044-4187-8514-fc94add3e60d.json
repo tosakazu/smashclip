@@ -1,0 +1,69 @@
+{
+  "id": "1bed1ce1-b044-4187-8514-fc94add3e60d",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.24,
+      "text": "打ち上げて空中へ 苦しいところです",
+      "language": "ja"
+    },
+    {
+      "start": 2.24,
+      "end": 4.04,
+      "text": "空ダは間に合わないが",
+      "language": "ja"
+    },
+    {
+      "start": 4.04,
+      "end": 6.5,
+      "text": "上り空ダから受け身の読み合いですけれども",
+      "language": "ja"
+    },
+    {
+      "start": 6.5,
+      "end": 10.62,
+      "text": "Dabuz選手が一歩手前",
+      "language": "ja"
+    },
+    {
+      "start": 10.62,
+      "end": 12.76,
+      "text": "上スマッシュ ちょっと危ない当たり方でした",
+      "language": "ja"
+    },
+    {
+      "start": 12.76,
+      "end": 14.92,
+      "text": "124% これはビジョン",
+      "language": "ja"
+    },
+    {
+      "start": 14.92,
+      "end": 16.12,
+      "text": "ガードからしっかり",
+      "language": "ja"
+    }
+  ],
+  "full_text": "打ち上げて空中へ 苦しいところです 空ダは間に合わないが 上り空ダから受け身の読み合いですけれども Dabuz選手が一歩手前 上スマッシュ ちょっと危ない当たり方でした 124% これはビジョン ガードからしっかり",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "クーダーは間に合うがない",
+      "corrected": "空ダは間に合わないが",
+      "rule": "Whisper mishearing: クーダー→空ダ, word order"
+    },
+    {
+      "segment_idx": 2,
+      "original": "上りクーダーから受け身の読み合いですけれども",
+      "corrected": "上り空ダから受け身の読み合いですけれども",
+      "rule": "Whisper mishearing: クーダー→空ダ"
+    },
+    {
+      "segment_idx": 3,
+      "original": "ダブル選手が一歩手前",
+      "corrected": "Dabuz選手が一歩手前",
+      "rule": "Player name correction: ダブル→Dabuz (metadata)"
+    }
+  ]
+}

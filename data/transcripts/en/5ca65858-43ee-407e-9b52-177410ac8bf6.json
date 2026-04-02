@@ -1,0 +1,41 @@
+{
+  "id": "5ca65858-43ee-407e-9b52-177410ac8bf6",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.3,
+      "text": "Their defense is locking in!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "硬さに磨きがかかれ"
+    },
+    {
+      "start": 2.3,
+      "end": 5.74,
+      "text": "No mercy now!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "心を鬼にさまち"
+    },
+    {
+      "start": 5.74,
+      "end": 7.04,
+      "text": "I'm so heated!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "怒るわー"
+    },
+    {
+      "start": 7.04,
+      "end": 7.96,
+      "text": "That's ridiculous!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "バカ"
+    }
+  ],
+  "full_text": "Their defense is locking in! No mercy now! I'm so heated! That's ridiculous!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

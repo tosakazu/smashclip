@@ -1,0 +1,94 @@
+{
+  "id": "caac8fb4-00ef-4be7-aa39-e1f06734cb41",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.96,
+      "text": "The player's also looking forward to this!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "の選手も楽しみにしているということです"
+    },
+    {
+      "start": 1.96,
+      "end": 4.66,
+      "text": "Oh! Recovering up from ledge!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "おっと引く上から"
+    },
+    {
+      "start": 4.66,
+      "end": 6.38,
+      "text": "Up air was tough!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空中上難しかった"
+    },
+    {
+      "start": 6.38,
+      "end": 7.08,
+      "text": "Coming down?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "引く下か"
+    },
+    {
+      "start": 7.08,
+      "end": 7.76,
+      "text": "Down tilt!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "下強化"
+    },
+    {
+      "start": 7.76,
+      "end": 9.22,
+      "text": "The guy who messes up every call!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "全てを言い間違える男"
+    },
+    {
+      "start": 9.22,
+      "end": 11.76,
+      "text": "So forward tilt is strong against that!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあ横強大きいに対して"
+    },
+    {
+      "start": 11.76,
+      "end": 12.54,
+      "text": "Parsley Man",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "パセリマン選手"
+    },
+    {
+      "start": 12.54,
+      "end": 13.36,
+      "text": "Reads the feint smash!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "見切った振りスマ"
+    }
+  ],
+  "full_text": "The player's also looking forward to this! Oh! Recovering up from ledge! Up air was tough! Coming down? Down tilt! The guy who messes up every call! So forward tilt is strong against that! Parsley Man Reads the feint smash!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 7,
+      "original": "パズリマン",
+      "corrected": "パセリマン",
+      "rule": "player name (Paseriman)"
+    },
+    {
+      "segment_idx": 8,
+      "original": "ブリスマ",
+      "corrected": "振りスマ",
+      "rule": "smash term (振り向きスマッシュ)"
+    }
+  ]
+}

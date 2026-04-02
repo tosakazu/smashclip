@@ -1,0 +1,33 @@
+{
+  "id": "bf77e7a6-50b7-42d9-9975-f94a3f6e76f6",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.12,
+      "text": "actively negating all of game and watches seemingly broken tools with fire hydrant",
+      "language": "en"
+    },
+    {
+      "start": 5.12,
+      "end": 15.92,
+      "text": "and movement and root usage and then Miya having to try to use those broken tools",
+      "language": "en"
+    }
+  ],
+  "full_text": "actively negating all of game and watches seemingly broken tools with fire hydrant and movement and root usage and then Miya having to try to use those broken tools",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "root usage",
+      "corrected": "fruit usage",
+      "rule": "Pac-Man move"
+    },
+    {
+      "segment_idx": 1,
+      "original": "mia",
+      "corrected": "Miya",
+      "rule": "player name"
+    }
+  ]
+}

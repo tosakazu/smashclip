@@ -1,0 +1,38 @@
+{
+  "id": "e422934a-d79e-4574-88a0-3c7eda7db813",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.62,
+      "text": "天井になって",
+      "language": "ja"
+    },
+    {
+      "start": 0.62,
+      "end": 5.88,
+      "text": "果敢な攻めを可能としている",
+      "language": "ja"
+    },
+    {
+      "start": 5.88,
+      "end": 7.5,
+      "text": "さあ台外に押しとどめて",
+      "language": "ja"
+    },
+    {
+      "start": 7.5,
+      "end": 8.82,
+      "text": "横必殺で拾う",
+      "language": "ja"
+    },
+    {
+      "start": 8.82,
+      "end": 9.24,
+      "text": "あ",
+      "language": "ja"
+    }
+  ],
+  "full_text": "天井になって 果敢な攻めを可能としている さあ台外に押しとどめて 横必殺で拾う あ",
+  "detected_language": "ja",
+  "corrections": []
+}

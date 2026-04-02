@@ -1,0 +1,70 @@
+{
+  "id": "bd6343e6-8b8d-47ea-be34-5a6d55d2c1f9",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.56,
+      "text": "Even next week, it's probably just Dabuz",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "来週見てもDabuz選手しかやらないでしょ"
+    },
+    {
+      "start": 1.56,
+      "end": 4.58,
+      "text": "So Chico's not in the picture now",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあチコがいない状況ですから"
+    },
+    {
+      "start": 4.58,
+      "end": 6.4,
+      "text": "Makes it tough to play aggressive",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ちょっとアグレッシブには行きづらいかな"
+    },
+    {
+      "start": 6.4,
+      "end": 7.56,
+      "text": "That's kind of the vibe I'm getting",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "というような感じがしますが"
+    },
+    {
+      "start": 7.56,
+      "end": 9.14,
+      "text": "Gets cornered at ledge... bair!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "崖上に追い詰められて空後"
+    },
+    {
+      "start": 9.14,
+      "end": 10.24,
+      "text": "High damage!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "高校歴々"
+    }
+  ],
+  "full_text": "Even next week, it's probably just Dabuz. So Chico's not in the picture now. Makes it tough to play aggressive. That's kind of the vibe I'm getting. Gets cornered at ledge... bair! High damage!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "ダマツ選手",
+      "corrected": "Dabuz選手",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 4,
+      "original": "空中しろ",
+      "corrected": "空後",
+      "rule": "kanji homophone"
+    }
+  ]
+}

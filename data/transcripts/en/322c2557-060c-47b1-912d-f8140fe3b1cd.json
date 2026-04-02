@@ -1,0 +1,25 @@
+{
+  "id": "322c2557-060c-47b1-912d-f8140fe3b1cd",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.74,
+      "text": "Hits the bomb, air turnaround fair—but it doesn't land!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "爆弾を当てて空中切り返して空中前ですがこれは通らない"
+    },
+    {
+      "start": 3.74,
+      "end": 7.32,
+      "text": "But there's another fair off the bomb right on landing!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "しかしそのまままた着地際に爆弾からの空中前"
+    }
+  ],
+  "full_text": "Hits the bomb, air turnaround fair—but it doesn't land! But there's another fair off the bomb right on landing!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

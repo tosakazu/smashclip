@@ -1,0 +1,44 @@
+{
+  "id": "27eb9f85-813e-4108-9b41-873673648075",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.16,
+      "text": "この辺りはもう本当にさすがのレモゾナといいますか",
+      "language": "ja"
+    },
+    {
+      "start": 2.16,
+      "end": 3.78,
+      "text": "さすがの使い込みになってきますが",
+      "language": "ja"
+    },
+    {
+      "start": 3.78,
+      "end": 4.6,
+      "text": "いいDAだ",
+      "language": "ja"
+    },
+    {
+      "start": 4.6,
+      "end": 6.2,
+      "text": "戻ってきた",
+      "language": "ja"
+    },
+    {
+      "start": 6.2,
+      "end": 7.44,
+      "text": "崖",
+      "language": "ja"
+    },
+    {
+      "start": 7.44,
+      "end": 9.36,
+      "text": "このチャンス逃さなくてさすがですね",
+      "language": "ja"
+    }
+  ],
+  "full_text": "この辺りはもう本当にさすがのレモゾナといいますか さすがの使い込みになってきますが いいDAだ 戻ってきた 崖 このチャンス逃さなくてさすがですね",
+  "detected_language": "ja",
+  "corrections": []
+}

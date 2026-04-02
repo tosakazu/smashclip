@@ -1,0 +1,104 @@
+{
+  "id": "3f68c777-4dbf-4777-917f-65ed8f7848e8",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.32,
+      "text": "Pretty straightforward spacing",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "結構素直な置き当てだったりとか"
+    },
+    {
+      "start": 1.32,
+      "end": 2.36,
+      "text": "Wasn't showing it before",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "見せてこなかったんだけど"
+    },
+    {
+      "start": 2.36,
+      "end": 4.12,
+      "text": "Finally bringing it out here!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ついにここで初めて見せてきましたね"
+    },
+    {
+      "start": 4.12,
+      "end": 5.78,
+      "text": "That hidden tech!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "隠していた手札を"
+    },
+    {
+      "start": 5.78,
+      "end": 7.54,
+      "text": "Riddles breaking out their options",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "解放し始めたリドルス"
+    },
+    {
+      "start": 7.54,
+      "end": 9.04,
+      "text": "And from here",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここからさらに"
+    },
+    {
+      "start": 9.04,
+      "end": 10.26,
+      "text": "In this KO game",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "この撃墜勝負に"
+    },
+    {
+      "start": 10.26,
+      "end": 12.06,
+      "text": "Will we see more damage?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "火力が追加されるか"
+    },
+    {
+      "start": 12.06,
+      "end": 12.52,
+      "text": "Doesn't reach",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "届かない"
+    },
+    {
+      "start": 12.52,
+      "end": 14.0,
+      "text": "That's short",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これは届かず"
+    },
+    {
+      "start": 14.0,
+      "end": 16.2,
+      "text": "With the spring we've had so far",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "今までのスプリングの"
+    }
+  ],
+  "full_text": "Pretty straightforward spacing Wasn't showing it before Finally bringing it out here! That hidden tech! Riddles breaking out their options And from here In this KO game Will we see more damage? Doesn't reach That's short With the spring we've had so far",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 4,
+      "original": "リトルス",
+      "corrected": "リドルス",
+      "rule": "player name: Riddles = リドルス"
+    }
+  ]
+}

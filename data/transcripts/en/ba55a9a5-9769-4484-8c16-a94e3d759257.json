@@ -1,0 +1,27 @@
+{
+  "id": "ba55a9a5-9769-4484-8c16-a94e3d759257",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.4,
+      "text": "possibly see from spargo especially when he's got that limit ready yeah there's arrow catching",
+      "language": "en"
+    },
+    {
+      "start": 4.4,
+      "end": 9.2,
+      "text": "the star before there Spargo started real early too but glow and blue which means the ko",
+      "language": "en"
+    }
+  ],
+  "full_text": "possibly see from spargo especially when he's got that limit ready yeah there's arrow catching the star before there Spargo started real early too but glow and blue which means the ko",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "sparrow started",
+      "corrected": "Spargo started",
+      "rule": "player name"
+    }
+  ]
+}

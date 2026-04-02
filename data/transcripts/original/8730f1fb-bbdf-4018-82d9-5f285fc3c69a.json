@@ -1,0 +1,33 @@
+{
+  "id": "8730f1fb-bbdf-4018-82d9-5f285fc3c69a",
+  "segments": [
+    {
+      "start": 0.66,
+      "end": 2.82,
+      "text": "とりあえず撃墜を通したいがキョンリンク",
+      "language": "ja"
+    },
+    {
+      "start": 2.82,
+      "end": 6.36,
+      "text": "空前を通してあげて",
+      "language": "ja"
+    }
+  ],
+  "full_text": "とりあえず撃墜を通したいがキョンリンク 空前を通してあげて",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "激戦に通したいが",
+      "corrected": "撃墜を通したいが",
+      "rule": "kanji homophone (激戦→撃墜)"
+    },
+    {
+      "segment_idx": 1,
+      "original": "クーマへ通してあげて",
+      "corrected": "空前を通してあげて",
+      "rule": "move name (クーマ→空前)"
+    }
+  ]
+}

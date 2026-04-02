@@ -1,0 +1,39 @@
+{
+  "id": "cba16fd2-eef7-4d8e-8170-0e78b507b54a",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.0,
+      "text": "into something you can't really contest head to head like Lui$ needs like a setup to contest",
+      "language": "en"
+    },
+    {
+      "start": 4.0,
+      "end": 8.64,
+      "text": "with all the kitchen sink that Lammers is dealing with he has to earn this one goes in deep a",
+      "language": "en"
+    },
+    {
+      "start": 8.64,
+      "end": 11.92,
+      "text": "little bit too deep no perfect just enough and now",
+      "language": "en"
+    }
+  ],
+  "full_text": "into something you can't really contest head to head like Lui$ needs like a setup to contest with all the kitchen sink that Lammers is dealing with he has to earn this one goes in deep a little bit too deep no perfect just enough and now",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "luis",
+      "corrected": "Lui$",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 1,
+      "original": "lamb",
+      "corrected": "Lammers",
+      "rule": "player name"
+    }
+  ]
+}

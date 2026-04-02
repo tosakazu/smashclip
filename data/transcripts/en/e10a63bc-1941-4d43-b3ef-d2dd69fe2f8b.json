@@ -1,0 +1,114 @@
+{
+  "id": "e10a63bc-1941-4d43-b3ef-d2dd69fe2f8b",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.34,
+      "text": "That's razor-thin!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここは紙一重回避落とし"
+    },
+    {
+      "start": 1.34,
+      "end": 1.8,
+      "text": "Up tilt!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "上強"
+    },
+    {
+      "start": 1.8,
+      "end": 2.86,
+      "text": "Up tilt!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "上強"
+    },
+    {
+      "start": 2.86,
+      "end": 4.6,
+      "text": "Game!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "寿命撃墜"
+    },
+    {
+      "start": 4.6,
+      "end": 6.38,
+      "text": "Such a dependable tool!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "本当に頼りになる技です"
+    },
+    {
+      "start": 6.38,
+      "end": 8.26,
+      "text": "Here we go!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここからだな"
+    },
+    {
+      "start": 8.26,
+      "end": 9.2,
+      "text": "1 stock each!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ストック1対1"
+    },
+    {
+      "start": 9.2,
+      "end": 10.48,
+      "text": "Building damage!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ダメージを"
+    },
+    {
+      "start": 10.48,
+      "end": 11.46,
+      "text": "Way too good!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "上手すぎ"
+    },
+    {
+      "start": 11.46,
+      "end": 15.2,
+      "text": "Going in!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "あそこで前に"
+    }
+  ],
+  "full_text": "That's razor-thin! Up tilt! Up tilt! Game! Such a dependable tool! Here we go! 1 stock each! Building damage! Way too good! Going in!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "上京",
+      "corrected": "上強",
+      "rule": "smash term (up tilt)"
+    },
+    {
+      "segment_idx": 2,
+      "original": "上京",
+      "corrected": "上強",
+      "rule": "smash term (up tilt)"
+    },
+    {
+      "segment_idx": 4,
+      "original": "手折りになる技です",
+      "corrected": "頼りになる技です",
+      "rule": "misheard word"
+    },
+    {
+      "segment_idx": 6,
+      "original": "ストック11",
+      "corrected": "ストック1対1",
+      "rule": "misheard word"
+    }
+  ]
+}

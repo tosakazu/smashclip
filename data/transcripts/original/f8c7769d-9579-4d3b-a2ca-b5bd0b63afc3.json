@@ -1,0 +1,26 @@
+{
+  "id": "f8c7769d-9579-4d3b-a2ca-b5bd0b63afc3",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.72,
+      "text": "じっくりじっくり",
+      "language": "ja"
+    },
+    {
+      "start": 1.72,
+      "end": 3.66,
+      "text": "時間を使って",
+      "language": "ja"
+    },
+    {
+      "start": 3.66,
+      "end": 5.5,
+      "text": "よし",
+      "language": "ja"
+    }
+  ],
+  "full_text": "じっくりじっくり 時間を使って よし",
+  "detected_language": "ja",
+  "corrections": []
+}

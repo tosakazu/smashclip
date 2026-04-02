@@ -1,0 +1,44 @@
+{
+  "id": "26773e4a-a637-4fde-8f82-076337033b49",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.24,
+      "text": "ダッシュ攻撃",
+      "language": "ja"
+    },
+    {
+      "start": 2.24,
+      "end": 6.24,
+      "text": "簡単にはターンを",
+      "language": "ja"
+    },
+    {
+      "start": 6.24,
+      "end": 8.78,
+      "text": "やらんぞというザクレイ",
+      "language": "ja"
+    },
+    {
+      "start": 8.78,
+      "end": 11.0,
+      "text": "吹っ飛ばし下側斜め移動回避",
+      "language": "ja"
+    },
+    {
+      "start": 11.0,
+      "end": 12.2,
+      "text": "しっかり返ってくるぞ",
+      "language": "ja"
+    },
+    {
+      "start": 12.2,
+      "end": 13.38,
+      "text": "食らえ!",
+      "language": "ja"
+    }
+  ],
+  "full_text": "ダッシュ攻撃 簡単にはターンを やらんぞというザクレイ 吹っ飛ばし下側斜め移動回避 しっかり返ってくるぞ 食らえ!",
+  "detected_language": "ja",
+  "corrections": []
+}

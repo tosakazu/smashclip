@@ -1,0 +1,108 @@
+{
+  "id": "bbff6e5b-afdc-4a3b-b160-33ff10db0efe",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.16,
+      "text": "Alright, now from the recovery!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあ体育の復帰者から"
+    },
+    {
+      "start": 2.16,
+      "end": 3.5,
+      "text": "Bair!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空後"
+    },
+    {
+      "start": 3.5,
+      "end": 6.26,
+      "text": "What about that!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これはどうだ"
+    },
+    {
+      "start": 6.26,
+      "end": 7.12,
+      "text": "From that angle",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "カブの駅から"
+    },
+    {
+      "start": 7.12,
+      "end": 8.74,
+      "text": "Coming up from below!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "復帰は下から"
+    },
+    {
+      "start": 8.74,
+      "end": 11.16,
+      "text": "Although the up air won't KO them",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空中前に撃墜しないものの"
+    },
+    {
+      "start": 11.16,
+      "end": 12.88,
+      "text": "With no more jumps though",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "もうジャンプがないけど"
+    },
+    {
+      "start": 12.88,
+      "end": 15.04,
+      "text": "with the up air",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空中前で"
+    },
+    {
+      "start": 15.04,
+      "end": 16.14,
+      "text": "They pull it off!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "うまく通しました"
+    },
+    {
+      "start": 16.14,
+      "end": 20.18,
+      "text": "But they can't afford to miss even once!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ただ1発の空振りは許されない"
+    }
+  ],
+  "full_text": "Alright, now from the recovery! Bair! What about that! From that angle Coming up from below! Although the up air won't KO them With no more jumps though with the up air They pull it off! But they can't afford to miss even once!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "空中しろ",
+      "corrected": "空後",
+      "rule": "kanji homophone"
+    },
+    {
+      "segment_idx": 4,
+      "original": "復帰は下京",
+      "corrected": "復帰は下から",
+      "rule": "kanji homophone"
+    },
+    {
+      "segment_idx": 9,
+      "original": "ただNBAのカラブルは許されない",
+      "corrected": "ただ1発の空振りは許されない",
+      "rule": "Whisper error"
+    }
+  ]
+}

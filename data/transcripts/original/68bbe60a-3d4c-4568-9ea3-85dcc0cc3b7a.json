@@ -1,0 +1,45 @@
+{
+  "id": "68bbe60a-3d4c-4568-9ea3-85dcc0cc3b7a",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.26,
+      "text": "いやもう上品選手笑っちゃってるじゃんもう",
+      "language": "ja"
+    },
+    {
+      "start": 2.26,
+      "end": 3.16,
+      "text": "あまりにも",
+      "language": "ja"
+    },
+    {
+      "start": 3.16,
+      "end": 7.46,
+      "text": "ものすぎるピチューそして攻撃力が高すぎるYン",
+      "language": "ja"
+    },
+    {
+      "start": 7.46,
+      "end": 9.14,
+      "text": "この圧倒的な展開",
+      "language": "ja"
+    },
+    {
+      "start": 9.14,
+      "end": 11.72,
+      "text": "しかしそこを攻撃力で貫いた",
+      "language": "ja"
+    }
+  ],
+  "full_text": "いやもう上品選手笑っちゃってるじゃんもう あまりにも ものすぎるピチューそして攻撃力が高すぎるYン この圧倒的な展開 しかしそこを攻撃力で貫いた",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "ワイン",
+      "corrected": "Yン",
+      "rule": "player name"
+    }
+  ]
+}

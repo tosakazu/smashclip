@@ -1,0 +1,65 @@
+{
+  "id": "fa43e9eb-a180-4039-abfd-a309173c65d4",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.16,
+      "text": "Came in clean!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "素直に来ましたね"
+    },
+    {
+      "start": 1.16,
+      "end": 2.84,
+      "text": "Simple approach",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "今のはシンプル"
+    },
+    {
+      "start": 2.84,
+      "end": 4.04,
+      "text": "No spacing in the world!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "壁すら立てねえよと"
+    },
+    {
+      "start": 4.04,
+      "end": 7.6,
+      "text": "103%!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そして103%です"
+    },
+    {
+      "start": 7.6,
+      "end": 9.08,
+      "text": "Can he survive?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "守りきれるかどうか"
+    },
+    {
+      "start": 9.08,
+      "end": 9.78,
+      "text": "What happens!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "どうなる"
+    },
+    {
+      "start": 9.78,
+      "end": 10.8,
+      "text": "That's the KO!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "倒しきり"
+    }
+  ],
+  "full_text": "Came in clean! Simple approach No spacing in the world! 103%! Can he survive? What happens! That's the KO!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

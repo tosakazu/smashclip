@@ -1,0 +1,128 @@
+{
+  "id": "d15c7834-e8cf-4a9f-b820-6981a978ac37",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "text": "They're getting read",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "見破られているので"
+    },
+    {
+      "start": 1.0,
+      "end": 2.54,
+      "text": "Wants to mash out again",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "また暴れたく"
+    },
+    {
+      "start": 2.54,
+      "end": 3.62,
+      "text": "But keeps trying to cut out",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "切ってはくるが"
+    },
+    {
+      "start": 3.62,
+      "end": 5.32,
+      "text": "Can nair land?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空N着地を押せるか"
+    },
+    {
+      "start": 5.32,
+      "end": 6.04,
+      "text": "Up air!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空上"
+    },
+    {
+      "start": 6.04,
+      "end": 7.78,
+      "text": "Up air!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空上"
+    },
+    {
+      "start": 7.78,
+      "end": 8.7,
+      "text": "No options!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "資材がない"
+    },
+    {
+      "start": 8.7,
+      "end": 10.14,
+      "text": "Up air!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空上"
+    },
+    {
+      "start": 10.14,
+      "end": 11.08,
+      "text": "No options...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "資材が"
+    },
+    {
+      "start": 11.08,
+      "end": 13.0,
+      "text": "Out of position",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "建てられる位置にはもういない"
+    },
+    {
+      "start": 13.0,
+      "end": 13.94,
+      "text": "Up B's gonna hit!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "上B決めてそう"
+    }
+  ],
+  "full_text": "They're getting read Wants to mash out again But keeps trying to cut out Can nair land? Up air! Up air! No options! Up air! No options... Out of position Up B's gonna hit!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 3,
+      "original": "空間着地",
+      "corrected": "空N着地",
+      "rule": "smash term (空間→空N)"
+    },
+    {
+      "segment_idx": 4,
+      "original": "空中へ",
+      "corrected": "空上",
+      "rule": "smash term (空中へ→空上, kill move context)"
+    },
+    {
+      "segment_idx": 5,
+      "original": "空中へ",
+      "corrected": "空上",
+      "rule": "smash term (空中へ→空上)"
+    },
+    {
+      "segment_idx": 7,
+      "original": "空中へ",
+      "corrected": "空上",
+      "rule": "smash term (空中へ→空上)"
+    },
+    {
+      "segment_idx": 10,
+      "original": "上見えてそ",
+      "corrected": "上B決めてそう",
+      "rule": "smash term (上見えてそ→上B決めてそう, kill move)"
+    }
+  ]
+}

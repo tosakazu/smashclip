@@ -1,0 +1,39 @@
+{
+  "id": "85b81a8f-cf5f-43b8-ac1d-564cb2240bfb",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.52,
+      "text": "あてにとってきくざかり村人がスナイパーパチンコ一撃決めて撃墜",
+      "language": "ja"
+    },
+    {
+      "start": 4.52,
+      "end": 10.14,
+      "text": "さあRizeasuマルス3スト対1スト苦しい状況だがここは空N",
+      "language": "ja"
+    }
+  ],
+  "full_text": "あてにとってきくざかり村人がスナイパーパチンコ一撃決めて撃墜 さあRizeasuマルス3スト対1スト苦しい状況だがここは空N",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "キック盛り",
+      "corrected": "きくざかり",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 1,
+      "original": "リゼアスマルス3速対10速",
+      "corrected": "Rizeasuマルス3スト対1スト",
+      "rule": "player name + stock count (速→スト)"
+    },
+    {
+      "segment_idx": 1,
+      "original": "ここは空",
+      "corrected": "ここは空N",
+      "rule": "move name"
+    }
+  ]
+}

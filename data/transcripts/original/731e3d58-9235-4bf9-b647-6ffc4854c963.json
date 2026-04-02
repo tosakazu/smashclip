@@ -1,0 +1,26 @@
+{
+  "id": "731e3d58-9235-4bf9-b647-6ffc4854c963",
+  "segments": [
+    {
+      "start": 0.64,
+      "end": 1.92,
+      "text": "tried for the mix-up but",
+      "language": "en"
+    },
+    {
+      "start": 2.8,
+      "end": 5.92,
+      "text": "game and watch up here just it doesn't have the lag to punish",
+      "language": "en"
+    },
+    {
+      "start": 8.0,
+      "end": 15.92,
+      "text": "just a little bit late there",
+      "language": "en"
+    }
+  ],
+  "full_text": "tried for the mix-up but game and watch up here just it doesn't have the lag to punish just a little bit late there",
+  "detected_language": "en",
+  "corrections": []
+}

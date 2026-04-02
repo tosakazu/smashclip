@@ -1,0 +1,51 @@
+{
+  "id": "819c824d-89c0-410d-b300-755fca8e9591",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.24,
+      "text": "上Bのタイミングでちょうどガンが当たったことによって",
+      "language": "ja"
+    },
+    {
+      "start": 3.24,
+      "end": 4.22,
+      "text": "ちょっとフレームずれましたね",
+      "language": "ja"
+    },
+    {
+      "start": 4.22,
+      "end": 4.58,
+      "text": "なるほど",
+      "language": "ja"
+    },
+    {
+      "start": 4.58,
+      "end": 8.66,
+      "text": "そしてアルセーヌも出てきた",
+      "language": "ja"
+    },
+    {
+      "start": 8.66,
+      "end": 11.0,
+      "text": "上投げで撃墜するんだ",
+      "language": "ja"
+    }
+  ],
+  "full_text": "上Bのタイミングでちょうどガンが当たったことによって ちょっとフレームずれましたね なるほど そしてアルセーヌも出てきた 上投げで撃墜するんだ",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 3,
+      "original": "そしてアルセールも出てきた",
+      "corrected": "そしてアルセーヌも出てきた",
+      "rule": "character name"
+    },
+    {
+      "segment_idx": 4,
+      "original": "上だけを撃沈するんだ",
+      "corrected": "上投げで撃墜するんだ",
+      "rule": "kanji homophone"
+    }
+  ]
+}

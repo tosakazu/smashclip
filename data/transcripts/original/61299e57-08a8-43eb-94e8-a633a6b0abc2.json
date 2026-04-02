@@ -1,0 +1,21 @@
+{
+  "id": "61299e57-08a8-43eb-94e8-a633a6b0abc2",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 11.7,
+      "text": "Those combos are what they're down to, but now this, I would say, it's an even game to do, get my watches, wait, if he gets one good attack, maybe a smash attack, remember what I said about the down smash, he could come in any second, and he gets a risk, Raflow pops off.",
+      "language": "en"
+    }
+  ],
+  "full_text": "Those combos are what they're down to, but now this, I would say, it's an even game to do, get my watches, wait, if he gets one good attack, maybe a smash attack, remember what I said about the down smash, he could come in any second, and he gets a risk, Raflow pops off.",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "Raflo",
+      "corrected": "Raflow",
+      "rule": "player name"
+    }
+  ]
+}

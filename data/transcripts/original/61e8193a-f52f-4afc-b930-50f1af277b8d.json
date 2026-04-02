@@ -1,0 +1,57 @@
+{
+  "id": "61e8193a-f52f-4afc-b930-50f1af277b8d",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.38,
+      "text": "このゲームの愉快なパーティーゲーム要素が出てしまいました",
+      "language": "ja"
+    },
+    {
+      "start": 3.38,
+      "end": 5.4,
+      "text": "かなり確率は少ないですけれどもね",
+      "language": "ja"
+    },
+    {
+      "start": 5.4,
+      "end": 6.72,
+      "text": "空後",
+      "language": "ja"
+    },
+    {
+      "start": 6.72,
+      "end": 8.66,
+      "text": "ブロック判定も挟んで",
+      "language": "ja"
+    },
+    {
+      "start": 8.66,
+      "end": 9.56,
+      "text": "コンボ火力は十分",
+      "language": "ja"
+    },
+    {
+      "start": 9.56,
+      "end": 11.44,
+      "text": "これだけ離してジャンプで当たった",
+      "language": "ja"
+    },
+    {
+      "start": 11.44,
+      "end": 13.16,
+      "text": "一撃通していった",
+      "language": "ja"
+    }
+  ],
+  "full_text": "このゲームの愉快なパーティーゲーム要素が出てしまいました かなり確率は少ないですけれどもね 空後 ブロック判定も挟んで コンボ火力は十分 これだけ離してジャンプで当たった 一撃通していった",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "空中しろ",
+      "corrected": "空後",
+      "rule": "smash term (空中後ろ)"
+    }
+  ]
+}

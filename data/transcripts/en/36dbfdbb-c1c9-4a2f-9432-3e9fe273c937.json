@@ -1,0 +1,56 @@
+{
+  "id": "36dbfdbb-c1c9-4a2f-9432-3e9fe273c937",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.94,
+      "text": "He's here! That helps!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "来ました 助かります"
+    },
+    {
+      "start": 1.94,
+      "end": 5.4,
+      "text": "Uh... past the block there",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "あのーブロックがある先"
+    },
+    {
+      "start": 5.4,
+      "end": 7.84,
+      "text": "When he grabs that cart right there",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ところにトロッコ掴まるとね"
+    },
+    {
+      "start": 7.84,
+      "end": 8.32,
+      "text": "Oh!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "あ!"
+    },
+    {
+      "start": 9.02,
+      "end": 10.6,
+      "text": "The spin sent him flying!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "スピンが浮いたぞ!"
+    }
+  ],
+  "full_text": "He's here! That helps! Uh... past the block there When he grabs that cart right there Oh! The spin sent him flying!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "トロトロ捕まるとね",
+      "corrected": "トロッコ掴まるとね",
+      "rule": "Steve move: トロッコ(minecart)"
+    }
+  ]
+}

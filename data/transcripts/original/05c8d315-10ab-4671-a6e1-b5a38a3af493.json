@@ -1,0 +1,45 @@
+{
+  "id": "05c8d315-10ab-4671-a6e1-b5a38a3af493",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "text": "というところはあるので",
+      "language": "ja"
+    },
+    {
+      "start": 1.0,
+      "end": 3.78,
+      "text": "空N",
+      "language": "ja"
+    },
+    {
+      "start": 3.78,
+      "end": 6.44,
+      "text": "ギリギリ撃墜せずに移動回避にはバネが当たれ",
+      "language": "ja"
+    },
+    {
+      "start": 6.44,
+      "end": 7.76,
+      "text": "ドローン",
+      "language": "ja"
+    },
+    {
+      "start": 7.76,
+      "end": 8.62,
+      "text": "回していく",
+      "language": "ja"
+    }
+  ],
+  "full_text": "というところはあるので 空N ギリギリ撃墜せずに移動回避にはバネが当たれ ドローン 回していく",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "空中ニュートラル",
+      "corrected": "空N",
+      "rule": "auto-rule"
+    }
+  ]
+}

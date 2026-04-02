@@ -1,0 +1,51 @@
+{
+  "id": "7ad7f785-a2d0-4b47-abda-2210deee3b12",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.32,
+      "text": "But Miya just knew he was going to get it.",
+      "language": "en"
+    },
+    {
+      "start": 3.12,
+      "end": 7.32,
+      "text": "Nevertheless, Tea started bringing this back slowly but surely.",
+      "language": "en"
+    },
+    {
+      "start": 7.8,
+      "end": 9.14,
+      "text": "Is there hope yet?",
+      "language": "en"
+    },
+    {
+      "start": 11.56,
+      "end": 14.48,
+      "text": "Not if you angle straight into the back air.",
+      "language": "en"
+    },
+    {
+      "start": 14.56,
+      "end": 15.68,
+      "text": "And it's not like that was even a...",
+      "language": "en"
+    }
+  ],
+  "full_text": "But Miya just knew he was going to get it. Nevertheless, Tea started bringing this back slowly but surely. Is there hope yet? Not if you angle straight into the back air. And it's not like that was even a...",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "Mia",
+      "corrected": "Miya",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 1,
+      "original": "Tia",
+      "corrected": "Tea",
+      "rule": "player name"
+    }
+  ]
+}

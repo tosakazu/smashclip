@@ -1,0 +1,60 @@
+{
+  "id": "d25a3067-9371-4be8-9306-3c1a620f171c",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.48,
+      "text": "Bair strings continue—connects into the nair!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空後展開継続うまく通っている空Nに続く"
+    },
+    {
+      "start": 4.48,
+      "end": 6.84,
+      "text": "Recovery incoming—getting pressured from below!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあどうだここの復帰は下から押せていく"
+    },
+    {
+      "start": 6.84,
+      "end": 9.88,
+      "text": "Platform getup—and the damage is even!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあ台上がり気づけばパーセント横並びだ"
+    },
+    {
+      "start": 9.88,
+      "end": 11.72,
+      "text": "Staying in the air the whole time!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "あーずっと空"
+    }
+  ],
+  "full_text": "Bair strings continue—connects into the nair! Recovery incoming—getting pressured from below! Platform getup—and the damage is even! Staying in the air the whole time!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "空中しろ展開継続",
+      "corrected": "空後展開継続",
+      "rule": "smash term (空中しろ→空後)"
+    },
+    {
+      "segment_idx": 0,
+      "original": "空中に続く",
+      "corrected": "空Nに続く",
+      "rule": "smash term (空中→空N)"
+    },
+    {
+      "segment_idx": 2,
+      "original": "さあだ買い上がり",
+      "corrected": "さあ台上がり",
+      "rule": "smash term (だ買い上がり→台上がり)"
+    }
+  ]
+}

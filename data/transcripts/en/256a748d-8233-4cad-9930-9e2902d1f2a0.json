@@ -1,0 +1,20 @@
+{
+  "id": "256a748d-8233-4cad-9930-9e2902d1f2a0",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.68,
+      "text": "So we managed to take stock number two, could be in quite the pickle.",
+      "language": "en"
+    },
+    {
+      "start": 4.68,
+      "end": 8.12,
+      "text": "Yep. Oh, he had that angle quite good! Oh, not again!",
+      "language": "en"
+    }
+  ],
+  "full_text": "So we managed to take stock number two, could be in quite the pickle. Yep. Oh, he had that angle quite good! Oh, not again!",
+  "detected_language": "en",
+  "corrections": []
+}

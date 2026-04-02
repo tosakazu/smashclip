@@ -1,0 +1,45 @@
+{
+  "id": "b11522b2-5c85-484e-916a-ffeb55ae7dd0",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.64,
+      "text": "圧がすごい空中前暴れ通されて羽が生えたセフィロス",
+      "language": "ja"
+    },
+    {
+      "start": 3.64,
+      "end": 7.44,
+      "text": "なるほど崖離し空中前やはりセフィロスこれが強い",
+      "language": "ja"
+    },
+    {
+      "start": 7.44,
+      "end": 9.54,
+      "text": "そして下スマッシュをすかしで",
+      "language": "ja"
+    },
+    {
+      "start": 9.54,
+      "end": 13.32,
+      "text": "そして横スマ撃墜",
+      "language": "ja"
+    }
+  ],
+  "full_text": "圧がすごい空中前暴れ通されて羽が生えたセフィロス なるほど崖離し空中前やはりセフィロスこれが強い そして下スマッシュをすかしで そして横スマ撃墜",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "セヒロス",
+      "corrected": "セフィロス",
+      "rule": "character name (Sephiroth=セフィロス)"
+    },
+    {
+      "segment_idx": 1,
+      "original": "セヒロス",
+      "corrected": "セフィロス",
+      "rule": "character name (Sephiroth=セフィロス)"
+    }
+  ]
+}

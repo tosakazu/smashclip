@@ -1,0 +1,54 @@
+{
+  "id": "d0920f07-0aeb-421a-847a-8ac10a320638",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.86,
+      "text": "From the throw",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "投げから"
+    },
+    {
+      "start": 1.86,
+      "end": 3.94,
+      "text": "Wow, down smash placement!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "うわー下スマッシュのおき"
+    },
+    {
+      "start": 3.94,
+      "end": 5.7,
+      "text": "Can you even space like that?!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そんな暴れ置きある"
+    },
+    {
+      "start": 5.7,
+      "end": 6.32,
+      "text": "Insane",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "何か"
+    }
+  ],
+  "full_text": "From the throw Wow, down smash placement! Can you even space like that?! Insane",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "ネギから",
+      "corrected": "投げから",
+      "rule": "mishearing (なげ→ネギ)"
+    },
+    {
+      "segment_idx": 2,
+      "original": "暴れおきある",
+      "corrected": "暴れ置きある",
+      "rule": "smash term formatting"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "6e37daeb-fb0f-436e-a375-e6fcc8f8a4bb",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.66,
+      "text": "More bombs getting through!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さらに爆弾通って"
+    },
+    {
+      "start": 3.66,
+      "end": 6.34,
+      "text": "Zoning with down special!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "下必殺技で牽制します"
+    },
+    {
+      "start": 6.34,
+      "end": 10.16,
+      "text": "This is an up smash!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これは上スマッシュ"
+    }
+  ],
+  "full_text": "More bombs getting through! Zoning with down special! This is an up smash!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

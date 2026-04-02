@@ -1,0 +1,33 @@
+{
+  "id": "aeed93e5-26b8-4a95-8b40-8a661bf20914",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.4,
+      "text": "さあリドルスが122%",
+      "language": "ja"
+    },
+    {
+      "start": 4.4,
+      "end": 6.18,
+      "text": "空上で撃墜を取りますが",
+      "language": "ja"
+    },
+    {
+      "start": 6.18,
+      "end": 7.14,
+      "text": "レイジが邪魔",
+      "language": "ja"
+    }
+  ],
+  "full_text": "さあリドルスが122% 空上で撃墜を取りますが レイジが邪魔",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "クーベで撃墜を取りますが",
+      "corrected": "空上で撃墜を取りますが",
+      "rule": "move name (空上)"
+    }
+  ]
+}

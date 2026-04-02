@@ -1,0 +1,80 @@
+{
+  "id": "b8ce69e8-ae0b-4efd-83d2-b197c95ebd22",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.86,
+      "text": "He's got one, but for a moment that situation gets really unclear",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "持ってるから一旦わからなくなるラインが入れ替わって"
+    },
+    {
+      "start": 3.86,
+      "end": 5.3,
+      "text": "That's scary!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "危ないー!"
+    },
+    {
+      "start": 5.3,
+      "end": 7.82,
+      "text": "He barely made it—next time he doesn't",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "持ったけどさすがに大丈夫だったが次はない"
+    },
+    {
+      "start": 7.82,
+      "end": 8.84,
+      "text": "Not happening next time",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "次はないぞこれ"
+    },
+    {
+      "start": 8.84,
+      "end": 10.22,
+      "text": "With Pichu's recovery though",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ピチューの復帰力であれば"
+    },
+    {
+      "start": 10.22,
+      "end": 12.9,
+      "text": "Oh! Way too clean!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "おー!うますぎる"
+    },
+    {
+      "start": 12.9,
+      "end": 14.06,
+      "text": "Didn't even flinch",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "顔色一つ"
+    },
+    {
+      "start": 14.06,
+      "end": 14.4,
+      "text": "Incredible!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "すげー"
+    }
+  ],
+  "full_text": "He's got one, but for a moment that situation gets really unclear That's scary! He barely made it—next time he doesn't Not happening next time With Pichu's recovery though Oh! Way too clean! Didn't even flinch Incredible!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 4,
+      "original": "ピッチの復帰力",
+      "corrected": "ピチューの復帰力",
+      "rule": "kanji homophone"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "17a05883-e6b7-4648-b4f6-b68990441229",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 7.44,
+      "text": "Keeping purple on them, they evaded in the air! Up smash also spot dodged!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "手元に紫携えて空中でかわした 上スマッシュもニュートラル回避"
+    },
+    {
+      "start": 7.44,
+      "end": 12.12,
+      "text": "And then dodging that forward smash off the ledge with a spot dodge, answering with their own forward smash - nice!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そしてこの崖横スマッシュをニュートラル回避かわした横スマッシュさすが"
+    },
+    {
+      "start": 12.12,
+      "end": 16.12,
+      "text": "One more stock and it's all over - yellow with the up throw KO to finish it!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "にもう一発でしょ 黄色の上投げ撃墜とはいえ"
+    }
+  ],
+  "full_text": "Keeping purple on them, they evaded in the air! Up smash also spot dodged! And then dodging that forward smash off the ledge with a spot dodge, answering with their own forward smash - nice! One more stock and it's all over - yellow with the up throw KO to finish it!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "に猛発でしょ 黄色の上投げ犠牲とはいえ",
+      "corrected": "にもう一発でしょ 黄色の上投げ撃墜とはいえ",
+      "rule": "Garbled transcription: 猛発→もう一発; Kanji homophone: 犠牲→撃墜"
+    }
+  ]
+}

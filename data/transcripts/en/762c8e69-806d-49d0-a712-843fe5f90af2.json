@@ -1,0 +1,32 @@
+{
+  "id": "762c8e69-806d-49d0-a712-843fe5f90af2",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.06,
+      "text": "Bit by bit racking up damage to pressure them",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "じわりじわりとパーセンテージ取って追い込んでいこうかという"
+    },
+    {
+      "start": 4.06,
+      "end": 6.82,
+      "text": "That's Byleth, but that whiffs",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "とりぃベレトですがこれは届かない"
+    }
+  ],
+  "full_text": "Bit by bit racking up damage to pressure them That's Byleth, but that whiffs",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "トリーベルト",
+      "corrected": "とりぃベレト",
+      "rule": "player name + character name"
+    }
+  ]
+}

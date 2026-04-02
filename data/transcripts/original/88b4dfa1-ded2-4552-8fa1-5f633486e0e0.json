@@ -1,0 +1,50 @@
+{
+  "id": "88b4dfa1-ded2-4552-8fa1-5f633486e0e0",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.84,
+      "text": "でリセット入れて",
+      "language": "ja"
+    },
+    {
+      "start": 0.84,
+      "end": 1.98,
+      "text": "たまや",
+      "language": "ja"
+    },
+    {
+      "start": 1.98,
+      "end": 3.38,
+      "text": "ほい",
+      "language": "ja"
+    },
+    {
+      "start": 3.38,
+      "end": 4.56,
+      "text": "さあということで",
+      "language": "ja"
+    },
+    {
+      "start": 4.56,
+      "end": 5.6,
+      "text": "えーとグランドファイナル",
+      "language": "ja"
+    },
+    {
+      "start": 5.6,
+      "end": 6.46,
+      "text": "リセット目",
+      "language": "ja"
+    },
+    {
+      "start": 6.46,
+      "end": 6.72,
+      "text": "あー",
+      "language": "ja"
+    }
+  ],
+  "full_text": "でリセット入れて たまや ほい さあということで えーとグランドファイナル リセット目 あー",
+  "detected_language": "ja",
+  "corrections": []
+}

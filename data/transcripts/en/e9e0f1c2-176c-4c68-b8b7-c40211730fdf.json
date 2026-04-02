@@ -1,0 +1,92 @@
+{
+  "id": "e9e0f1c2-176c-4c68-b8b7-c40211730fdf",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.78,
+      "text": "Perfect setup!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "バッチリ仕込んでいます"
+    },
+    {
+      "start": 0.78,
+      "end": 2.96,
+      "text": "The bair!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "食いの空後"
+    },
+    {
+      "start": 2.96,
+      "end": 5.82,
+      "text": "One nair!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空N一発"
+    },
+    {
+      "start": 5.82,
+      "end": 7.22,
+      "text": "Up B in the air!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "もう一回空中で上B"
+    },
+    {
+      "start": 7.22,
+      "end": 8.56,
+      "text": "Strings it together!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "強引に繋げていった"
+    },
+    {
+      "start": 8.56,
+      "end": 11.82,
+      "text": "Neutral B juggle!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さらにはNBの着地狩りで拾って"
+    },
+    {
+      "start": 11.82,
+      "end": 13.1,
+      "text": "Multi-hit!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "多段技で"
+    },
+    {
+      "start": 13.1,
+      "end": 14.46,
+      "text": "Juggle!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "着地狩り"
+    }
+  ],
+  "full_text": "Perfect setup! The bair! One nair! Up B in the air! Strings it together! Neutral B juggle! Multi-hit! Juggle!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "悔いの空中しろ",
+      "corrected": "食いの空後",
+      "rule": "misheard: 空中しろ→空後"
+    },
+    {
+      "segment_idx": 2,
+      "original": "空中一発",
+      "corrected": "空N一発",
+      "rule": "abbreviation: 空中→空N"
+    },
+    {
+      "segment_idx": 5,
+      "original": "必要",
+      "corrected": "拾って",
+      "rule": "misheard"
+    }
+  ]
+}

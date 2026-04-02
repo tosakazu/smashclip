@@ -1,0 +1,65 @@
+{
+  "id": "45fc52b4-22bd-4b7a-86a8-363e89ed8499",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.92,
+      "text": "That's intense!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここが重たりだ"
+    },
+    {
+      "start": 0.92,
+      "end": 2.72,
+      "text": "And the flip kick!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあフリップキックで"
+    },
+    {
+      "start": 2.72,
+      "end": 4.54,
+      "text": "Everyone gets sent flying!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "全員消し飛んだ"
+    },
+    {
+      "start": 4.54,
+      "end": 5.98,
+      "text": "Wow!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "なんであ"
+    },
+    {
+      "start": 5.98,
+      "end": 6.68,
+      "text": "That's",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これは"
+    },
+    {
+      "start": 6.68,
+      "end": 7.86,
+      "text": "the kick",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "キックが"
+    },
+    {
+      "start": 7.86,
+      "end": 8.3,
+      "text": "is rare!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "珍しい"
+    }
+  ],
+  "full_text": "That's intense! And the flip kick! Everyone gets sent flying! Wow! That's the kick is rare!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

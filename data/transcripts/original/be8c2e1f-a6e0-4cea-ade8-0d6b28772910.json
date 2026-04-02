@@ -1,0 +1,51 @@
+{
+  "id": "be8c2e1f-a6e0-4cea-ade8-0d6b28772910",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.96,
+      "text": "無理に行きませんね",
+      "language": "ja"
+    },
+    {
+      "start": 1.96,
+      "end": 4.02,
+      "text": "捕らえたい一撃92%",
+      "language": "ja"
+    },
+    {
+      "start": 4.02,
+      "end": 5.78,
+      "text": "差が縮んでくる",
+      "language": "ja"
+    },
+    {
+      "start": 5.78,
+      "end": 7.7,
+      "text": "カルメロ、ダイヤモンドを大事にしながら",
+      "language": "ja"
+    },
+    {
+      "start": 7.7,
+      "end": 9.18,
+      "text": "ここで倒しきる一手",
+      "language": "ja"
+    },
+    {
+      "start": 9.18,
+      "end": 11.18,
+      "text": "追いついた追いついた",
+      "language": "ja"
+    }
+  ],
+  "full_text": "無理に行きませんね 捕らえたい一撃92% 差が縮んでくる カルメロ、ダイヤモンドを大事にしながら ここで倒しきる一手 追いついた追いついた",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 3,
+      "original": "スカルメロアダイヤモンド",
+      "corrected": "カルメロ、ダイヤモンド",
+      "rule": "player name"
+    }
+  ]
+}

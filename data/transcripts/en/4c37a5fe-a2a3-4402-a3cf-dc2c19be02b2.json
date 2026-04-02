@@ -1,0 +1,20 @@
+{
+  "id": "4c37a5fe-a2a3-4402-a3cf-dc2c19be02b2",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.6,
+      "text": "He parried into dashing, like that's a real crazy setup for Luigi.",
+      "language": "en"
+    },
+    {
+      "start": 3.82,
+      "end": 9.26,
+      "text": "It is insane, and the fact that he almost got a follow-up from that is insane, but there we go, down B, and...",
+      "language": "en"
+    }
+  ],
+  "full_text": "He parried into dashing, like that's a real crazy setup for Luigi. It is insane, and the fact that he almost got a follow-up from that is insane, but there we go, down B, and...",
+  "detected_language": "en",
+  "corrections": []
+}

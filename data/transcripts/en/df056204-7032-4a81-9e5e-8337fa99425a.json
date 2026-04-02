@@ -1,0 +1,56 @@
+{
+  "id": "df056204-7032-4a81-9e5e-8337fa99425a",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.44,
+      "text": "Umeki, who's been shining, and Peter, who's shown rapid growth over the past year",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "で活躍しているウメキ選手と最近ここ1年でね急激に頭角を表したピーター"
+    },
+    {
+      "start": 6.44,
+      "end": 16.4,
+      "text": "No DI, but he gets coverage—that's fine, right? Couldn't be helped—that's insane! But then he stops the fully charged smash, and Umeki secures the KO!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ベクトルはないけどカバーとれはとしてパパ引いてあこれは大丈夫だよね仕方なかったですねえぐしかしその後100%スマッシュを止めていて撃墜はウメキで"
+    }
+  ],
+  "full_text": "Umeki, who's been shining, and Peter, who's shown rapid growth over the past year No DI, but he gets coverage—that's fine, right? Couldn't be helped—that's insane! But then he stops the fully charged smash, and Umeki secures the KO!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "メッキ選手",
+      "corrected": "ウメキ選手",
+      "rule": "player name (Umeki)"
+    },
+    {
+      "segment_idx": 0,
+      "original": "表せピター",
+      "corrected": "表したピーター",
+      "rule": "misheard word"
+    },
+    {
+      "segment_idx": 1,
+      "original": "ペットラーブないけどカーブとれはとして",
+      "corrected": "ベクトルはないけどカバーとれはとして",
+      "rule": "misheard word"
+    },
+    {
+      "segment_idx": 1,
+      "original": "仕方ないでしたね",
+      "corrected": "仕方なかったですね",
+      "rule": "misheard word"
+    },
+    {
+      "segment_idx": 1,
+      "original": "激痛は梅木で",
+      "corrected": "撃墜はウメキで",
+      "rule": "player name + misheard word"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "63ef4645-cbc8-4ad1-9fce-0ceb417f72fd",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.84,
+      "text": "Maybe as big as his lead that Mark is trying to do at the moment.",
+      "language": "en"
+    },
+    {
+      "start": 3.44,
+      "end": 5.88,
+      "text": "Playing it very safely, picking his spots so well.",
+      "language": "en"
+    },
+    {
+      "start": 6.32,
+      "end": 8.7,
+      "text": "Look at that, they are absolutely working out.",
+      "language": "en"
+    },
+    {
+      "start": 8.84,
+      "end": 9.8,
+      "text": "There we go!",
+      "language": "en"
+    }
+  ],
+  "full_text": "Maybe as big as his lead that Mark is trying to do at the moment. Playing it very safely, picking his spots so well. Look at that, they are absolutely working out. There we go!",
+  "detected_language": "en",
+  "corrections": []
+}

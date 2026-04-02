@@ -1,0 +1,48 @@
+{
+  "id": "797cc1e4-8bb8-4c22-a47d-aa7364027671",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.62,
+      "text": "That's some unfortunate luck right there",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "残念ついてますから"
+    },
+    {
+      "start": 0.62,
+      "end": 5.28,
+      "text": "Ledge getup",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "崖上がり"
+    },
+    {
+      "start": 5.28,
+      "end": 6.9,
+      "text": "Can't afford that risk",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "リスクは払えない"
+    },
+    {
+      "start": 6.9,
+      "end": 8.96,
+      "text": "And Riddles lands the KO!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここはRiddles選手が撃墜通していきました"
+    }
+  ],
+  "full_text": "That's some unfortunate luck right there Ledge getup Can't afford that risk And Riddles lands the KO!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 3,
+      "original": "ジャックさんが激推",
+      "corrected": "Riddles選手が撃墜",
+      "rule": "player name + 激推→撃墜"
+    }
+  ]
+}

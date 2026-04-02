@@ -1,0 +1,39 @@
+{
+  "id": "fd47f9b2-c697-4daf-9ea6-6ee24d431f17",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.3,
+      "text": "Ooh, I'm surprised that forward air or forward smash that did not connect right there.",
+      "language": "en"
+    },
+    {
+      "start": 4.66,
+      "end": 6.94,
+      "text": "Maybe mistimed it a little bit, and oh, this might be a kill.",
+      "language": "en"
+    },
+    {
+      "start": 7.44,
+      "end": 9.3,
+      "text": "Ooh, he finds the air dodge as well.",
+      "language": "en"
+    }
+  ],
+  "full_text": "Ooh, I'm surprised that forward air or forward smash that did not connect right there. Maybe mistimed it a little bit, and oh, this might be a kill. Ooh, he finds the air dodge as well.",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "Forwarder won a Force Smash",
+      "corrected": "forward air or forward smash",
+      "rule": "misheard"
+    },
+    {
+      "segment_idx": 2,
+      "original": "Air Dodge",
+      "corrected": "air dodge",
+      "rule": "formatting"
+    }
+  ]
+}

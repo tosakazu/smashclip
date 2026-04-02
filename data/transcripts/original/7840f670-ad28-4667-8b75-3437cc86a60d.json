@@ -1,0 +1,39 @@
+{
+  "id": "7840f670-ad28-4667-8b75-3437cc86a60d",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "text": "崖スキップ!",
+      "language": "ja"
+    },
+    {
+      "start": 1.0,
+      "end": 2.0,
+      "text": "地上にいないから",
+      "language": "ja"
+    },
+    {
+      "start": 2.0,
+      "end": 4.0,
+      "text": "ただこちらもジャンプなので",
+      "language": "ja"
+    },
+    {
+      "start": 4.0,
+      "end": 6.14,
+      "text": "この膝っきりは崩れにならないですね",
+      "language": "ja"
+    }
+  ],
+  "full_text": "崖スキップ! 地上にいないから ただこちらもジャンプなので この膝っきりは崩れにならないですね",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "ガキスキップ",
+      "corrected": "崖スキップ",
+      "rule": "kanji homophone"
+    }
+  ]
+}

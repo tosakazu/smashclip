@@ -1,0 +1,51 @@
+{
+  "id": "ec33c0e3-596f-4095-a095-86b8317b6267",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.16,
+      "text": "This is really rough, I mean, at the end of the day.",
+      "language": "en"
+    },
+    {
+      "start": 3.4,
+      "end": 4.12,
+      "text": "Oh, airdodge.",
+      "language": "en"
+    },
+    {
+      "start": 5.04,
+      "end": 8.46,
+      "text": "Okay, I would actually like to have seen the drag downs right here,",
+      "language": "en"
+    },
+    {
+      "start": 8.56,
+      "end": 11.22,
+      "text": "but just going for the bread and butters, that...",
+      "language": "en"
+    },
+    {
+      "start": 11.22,
+      "end": 12.38,
+      "text": "Oh, my God, that killed.",
+      "language": "en"
+    },
+    {
+      "start": 12.64,
+      "end": 12.96,
+      "text": "Killed.",
+      "language": "en"
+    }
+  ],
+  "full_text": "This is really rough, I mean, at the end of the day. Oh, airdodge. Okay, I would actually like to have seen the drag downs right here, but just going for the bread and butters, that... Oh, my God, that killed. Killed.",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "drag dots",
+      "corrected": "drag downs",
+      "rule": "smash term: drag dots→drag downs"
+    }
+  ]
+}

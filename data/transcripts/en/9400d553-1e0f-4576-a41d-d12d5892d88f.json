@@ -1,0 +1,32 @@
+{
+  "id": "9400d553-1e0f-4576-a41d-d12d5892d88f",
+  "segments": [
+    {
+      "start": 0.36,
+      "end": 2.76,
+      "text": "Against the up B, forward tilt down shift",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そして上Bに対しては横強下シフト"
+    },
+    {
+      "start": 2.76,
+      "end": 5.18,
+      "text": "Forward tilt just then? Or maybe no shift?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "横強だったかな今?無シフトかな?"
+    }
+  ],
+  "full_text": "Against the up B, forward tilt down shift Forward tilt just then? Or maybe no shift?",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "ウェビーに対しては",
+      "corrected": "上Bに対しては",
+      "rule": "move name (ウェビー→上B)"
+    }
+  ]
+}

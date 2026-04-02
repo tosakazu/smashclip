@@ -1,0 +1,26 @@
+{
+  "id": "c727db1b-4d2a-497b-be6e-a9312d2fca13",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.04,
+      "text": "あーほんとだ",
+      "language": "ja"
+    },
+    {
+      "start": 2.04,
+      "end": 4.58,
+      "text": "突撃で全然やられちゃうね",
+      "language": "ja"
+    },
+    {
+      "start": 4.58,
+      "end": 8.7,
+      "text": "これは",
+      "language": "ja"
+    }
+  ],
+  "full_text": "あーほんとだ 突撃で全然やられちゃうね これは",
+  "detected_language": "ja",
+  "corrections": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "a61d69ff-bd57-4d78-997d-42a44d69c6b3",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.94,
+      "text": "Usually I think I've got a pretty solid feel for that kind of thing",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "普段だと思う 僕のそれなりにあるとかそういう感じだと"
+    },
+    {
+      "start": 3.94,
+      "end": 8.68,
+      "text": "Since it lasts so long, we're going for the punish",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "持続が長いから 狙っていくみたいな"
+    }
+  ],
+  "full_text": "Usually I think I've got a pretty solid feel for that kind of thing Since it lasts so long, we're going for the punish",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

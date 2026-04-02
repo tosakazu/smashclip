@@ -1,0 +1,33 @@
+{
+  "id": "a0183d08-2384-4e93-b07e-5e36cfdf1a5b",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.66,
+      "text": "And there's the matchup!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "という形になるでしょうか"
+    },
+    {
+      "start": 1.66,
+      "end": 3.72,
+      "text": "The stage is Small Battlefield",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ステージは小戦場"
+    },
+    {
+      "start": 3.72,
+      "end": 5.52,
+      "text": "Oh! And what's this?!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "おーっとなんと"
+    }
+  ],
+  "full_text": "And there's the matchup! The stage is Small Battlefield. Oh! And what's this?!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

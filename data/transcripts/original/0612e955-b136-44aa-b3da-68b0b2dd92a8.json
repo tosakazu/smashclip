@@ -1,0 +1,45 @@
+{
+  "id": "0612e955-b136-44aa-b3da-68b0b2dd92a8",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.4,
+      "text": "風向き投げ硬直を起動空前",
+      "language": "ja"
+    },
+    {
+      "start": 6.4,
+      "end": 7.52,
+      "text": "宮崎帆美かわしていくが",
+      "language": "ja"
+    },
+    {
+      "start": 7.52,
+      "end": 11.6,
+      "text": "上り空前対空通って空N始動",
+      "language": "ja"
+    },
+    {
+      "start": 11.6,
+      "end": 14.8,
+      "text": "グラップキャンセルによる崖スキップも見逃さなかった",
+      "language": "ja"
+    }
+  ],
+  "full_text": "風向き投げ硬直を起動空前 宮崎帆美かわしていくが 上り空前対空通って空N始動 グラップキャンセルによる崖スキップも見逃さなかった",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "風向き投げ硬直を起動空中前",
+      "corrected": "風向き投げ硬直を起動空前",
+      "rule": "auto-rule"
+    },
+    {
+      "segment_idx": 2,
+      "original": "空中指導",
+      "corrected": "空N始動",
+      "rule": "misheard term"
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "id": "0cf94d8f-75fd-4cba-af5f-2ceb167f83d2",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Next!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "次"
+    },
+    {
+      "start": 2.0,
+      "end": 3.0,
+      "text": "That's risky, but",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "危ないが"
+    },
+    {
+      "start": 3.0,
+      "end": 4.0,
+      "text": "somehow",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "なんとか"
+    },
+    {
+      "start": 4.0,
+      "end": 5.0,
+      "text": "he gets back!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "戻った"
+    },
+    {
+      "start": 5.0,
+      "end": 6.0,
+      "text": "He's back!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "戻った"
+    },
+    {
+      "start": 6.0,
+      "end": 7.0,
+      "text": "No nair,",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空N取らず"
+    },
+    {
+      "start": 7.0,
+      "end": 8.0,
+      "text": "bair!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空後"
+    },
+    {
+      "start": 8.0,
+      "end": 9.0,
+      "text": "Doesn't use it,",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "取らず"
+    },
+    {
+      "start": 9.0,
+      "end": 10.0,
+      "text": "straight bair!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空後"
+    },
+    {
+      "start": 10.0,
+      "end": 11.0,
+      "text": "Graffiti",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "グラフィティー"
+    },
+    {
+      "start": 11.0,
+      "end": 12.0,
+      "text": "—both land bair at the same time!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "2人空後が同時に"
+    },
+    {
+      "start": 12.0,
+      "end": 13.0,
+      "text": "KO!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "撃墜"
+    }
+  ],
+  "full_text": "Next! That's risky, but somehow he gets back! He's back! No nair, bair! Doesn't use it, straight bair! Graffiti—both land bair at the same time! KO!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

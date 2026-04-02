@@ -1,0 +1,80 @@
+{
+  "id": "02781ca7-58ed-41c4-8645-365f9c572273",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.16,
+      "text": "Flying off-stage, what happens at this ledge?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "飛び出してこの崖どうなる"
+    },
+    {
+      "start": 1.16,
+      "end": 3.78,
+      "text": "Uses the bomb from here",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここはボムから"
+    },
+    {
+      "start": 3.78,
+      "end": 4.96,
+      "text": "But wait, that doesn't connect!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いやしかし繋がらない"
+    },
+    {
+      "start": 4.96,
+      "end": 7.92,
+      "text": "Grabs the ledge!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "崖を掴んで"
+    },
+    {
+      "start": 7.92,
+      "end": 9.84,
+      "text": "Ledge getup from above, but—",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "崖上がり上からだがここは"
+    },
+    {
+      "start": 9.84,
+      "end": 11.58,
+      "text": "Up smash catches it!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "上スマが拾う"
+    },
+    {
+      "start": 11.58,
+      "end": 13.68,
+      "text": "Punishing the mash out!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "暴れに対して"
+    },
+    {
+      "start": 13.68,
+      "end": 14.4,
+      "text": "Coming up from below the platform",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "台下から上"
+    }
+  ],
+  "full_text": "Flying off-stage, what happens at this ledge? Uses the bomb from here But wait, that doesn't connect! Grabs the ledge! Ledge getup from above, but— Up smash catches it! Punishing the mash out! Coming up from below the platform",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 5,
+      "original": "上スマッシュが拾う",
+      "corrected": "上スマが拾う",
+      "rule": "auto-rule"
+    }
+  ]
+}

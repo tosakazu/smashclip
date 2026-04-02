@@ -1,0 +1,57 @@
+{
+  "id": "ed6b0f03-0235-4f28-8a1f-35e5b705cfce",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.58,
+      "text": "当たっていった",
+      "language": "ja"
+    },
+    {
+      "start": 1.58,
+      "end": 2.98,
+      "text": "しかしその爆発",
+      "language": "ja"
+    },
+    {
+      "start": 2.98,
+      "end": 4.96,
+      "text": "地面を砕くことも同義",
+      "language": "ja"
+    },
+    {
+      "start": 4.96,
+      "end": 8.24,
+      "text": "なおちゃディディーそのまま奈落の外へ",
+      "language": "ja"
+    },
+    {
+      "start": 8.24,
+      "end": 9.18,
+      "text": "そこへ",
+      "language": "ja"
+    },
+    {
+      "start": 9.18,
+      "end": 13.02,
+      "text": "これは悪く噛み合ってしまいましたが",
+      "language": "ja"
+    },
+    {
+      "start": 13.02,
+      "end": 14.58,
+      "text": "ここはバナナか",
+      "language": "ja"
+    }
+  ],
+  "full_text": "当たっていった しかしその爆発 地面を砕くことも同義 なおちゃディディーそのまま奈落の外へ そこへ これは悪く噛み合ってしまいましたが ここはバナナか",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 3,
+      "original": "ナオチャディリー",
+      "corrected": "なおちゃディディー",
+      "rule": "player name"
+    }
+  ]
+}

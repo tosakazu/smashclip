@@ -1,0 +1,33 @@
+{
+  "id": "ca6e450d-9d60-4b7a-959a-7dbc2d71934f",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.94,
+      "text": "さあ崖からの読み合い",
+      "language": "ja"
+    },
+    {
+      "start": 2.94,
+      "end": 7.9,
+      "text": "かなり前に来るタイミングを潰すのがうまくいっています",
+      "language": "ja"
+    },
+    {
+      "start": 7.9,
+      "end": 8.84,
+      "text": "これはウィスター",
+      "language": "ja"
+    }
+  ],
+  "full_text": "さあ崖からの読み合い かなり前に来るタイミングを潰すのがうまくいっています これはウィスター",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "今日からの",
+      "corrected": "崖からの",
+      "rule": "smash term (崖)"
+    }
+  ]
+}

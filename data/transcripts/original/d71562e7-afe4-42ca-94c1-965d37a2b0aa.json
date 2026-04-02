@@ -1,0 +1,195 @@
+{
+  "id": "d71562e7-afe4-42ca-94c1-965d37a2b0aa",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "つかみ!",
+      "language": "ja"
+    },
+    {
+      "start": 2.0,
+      "end": 5.0,
+      "text": "発生が遅いからこそそのまま回避に当たりましたね",
+      "language": "ja"
+    },
+    {
+      "start": 5.0,
+      "end": 8.0,
+      "text": "逆にね、ワンテンポを置くことによって刺していった",
+      "language": "ja"
+    },
+    {
+      "start": 8.0,
+      "end": 12.0,
+      "text": "さあストックが並ぶと全然わからないのがルイージ対面ということはもう周知の事実でしょう",
+      "language": "ja"
+    },
+    {
+      "start": 12.0,
+      "end": 14.0,
+      "text": "もうみんなが理解してるでしょう",
+      "language": "ja"
+    },
+    {
+      "start": 14.0,
+      "end": 17.0,
+      "text": "つかみだけでなくらるは打撃でもとってくる男だと",
+      "language": "ja"
+    },
+    {
+      "start": 17.0,
+      "end": 21.0,
+      "text": "下強から横強固めると",
+      "language": "ja"
+    },
+    {
+      "start": 21.0,
+      "end": 23.0,
+      "text": "これはガードから勝ってはしない",
+      "language": "ja"
+    },
+    {
+      "start": 23.0,
+      "end": 25.0,
+      "text": "踏みは難しい",
+      "language": "ja"
+    },
+    {
+      "start": 25.0,
+      "end": 28.0,
+      "text": "かきあがり、ブロックを破壊して通す",
+      "language": "ja"
+    },
+    {
+      "start": 28.0,
+      "end": 30.0,
+      "text": "空中前に対しては先置き空後",
+      "language": "ja"
+    },
+    {
+      "start": 30.0,
+      "end": 33.0,
+      "text": "空対空を合わせて追い払って採掘を回す",
+      "language": "ja"
+    },
+    {
+      "start": 33.0,
+      "end": 36.0,
+      "text": "強い素材、強いトロッコを使っていきたい構えだ",
+      "language": "ja"
+    },
+    {
+      "start": 36.0,
+      "end": 38.0,
+      "text": "空中上から空中クラフト",
+      "language": "ja"
+    },
+    {
+      "start": 38.0,
+      "end": 39.0,
+      "text": "崩している",
+      "language": "ja"
+    },
+    {
+      "start": 39.0,
+      "end": 40.0,
+      "text": "下強にトロッコ",
+      "language": "ja"
+    },
+    {
+      "start": 40.0,
+      "end": 42.0,
+      "text": "一回ギリギリ戦い",
+      "language": "ja"
+    },
+    {
+      "start": 42.0,
+      "end": 43.0,
+      "text": "回避がない",
+      "language": "ja"
+    },
+    {
+      "start": 43.0,
+      "end": 44.0,
+      "text": "どうする?",
+      "language": "ja"
+    },
+    {
+      "start": 44.0,
+      "end": 45.0,
+      "text": "ギリギリ戦闘の中、きつい状況だ",
+      "language": "ja"
+    },
+    {
+      "start": 45.0,
+      "end": 46.0,
+      "text": "ゴン出る?",
+      "language": "ja"
+    },
+    {
+      "start": 46.0,
+      "end": 47.0,
+      "text": "ゴンゴン",
+      "language": "ja"
+    },
+    {
+      "start": 47.0,
+      "end": 48.0,
+      "text": "その場面も通った",
+      "language": "ja"
+    },
+    {
+      "start": 48.0,
+      "end": 49.0,
+      "text": "軽く前を振りますが",
+      "language": "ja"
+    },
+    {
+      "start": 49.0,
+      "end": 50.0,
+      "text": "ダッシュ!",
+      "language": "ja"
+    }
+  ],
+  "full_text": "つかみ! 発生が遅いからこそそのまま回避に当たりましたね 逆にね、ワンテンポを置くことによって刺していった さあストックが並ぶと全然わからないのがルイージ対面ということはもう周知の事実でしょう もうみんなが理解してるでしょう つかみだけでなくらるは打撃でもとってくる男だと 下強から横強固めると これはガードから勝ってはしない 踏みは難しい かきあがり、ブロックを破壊して通す 空中前に対しては先置き空後 空対空を合わせて追い払って採掘を回す 強い素材、強いトロッコを使っていきたい構えだ 空中上から空中クラフト 崩している 下強にトロッコ 一回ギリギリ戦い 回避がない どうする? ギリギリ戦闘の中、きつい状況だ ゴン出る? ゴンゴン その場面も通った 軽く前を振りますが ダッシュ!",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 5,
+      "original": "つかみだけでなくラルは打撃でもとってくる男だと",
+      "corrected": "つかみだけでなくらるは打撃でもとってくる男だと",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 10,
+      "original": "空中前に対しては先置き空中しろ",
+      "corrected": "空中前に対しては先置き空後",
+      "rule": "smash notation (空中しろ→空後)"
+    },
+    {
+      "segment_idx": 12,
+      "original": "強いツエレ、強いトルコを使っていきたい構えだ",
+      "corrected": "強い素材、強いトロッコを使っていきたい構えだ",
+      "rule": "Steve move name (トロッコ)"
+    },
+    {
+      "segment_idx": 13,
+      "original": "空中上から空中クラップ",
+      "corrected": "空中上から空中クラフト",
+      "rule": "Steve terminology (クラフト)"
+    },
+    {
+      "segment_idx": 15,
+      "original": "下強にトルコ",
+      "corrected": "下強にトロッコ",
+      "rule": "Steve move name (トロッコ)"
+    },
+    {
+      "segment_idx": 23,
+      "original": "軽く前を切りますが",
+      "corrected": "軽く前を振りますが",
+      "rule": "whisper_misrecognition"
+    }
+  ]
+}

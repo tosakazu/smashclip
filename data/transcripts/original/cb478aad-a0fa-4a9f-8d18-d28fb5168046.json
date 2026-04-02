@@ -1,0 +1,27 @@
+{
+  "id": "cb478aad-a0fa-4a9f-8d18-d28fb5168046",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 8.24,
+      "text": "を拾うのがあまりに大きいということはさっきの試合を見て火を見るより明らかだ このカードにおいては特にでかいですからね",
+      "language": "ja"
+    },
+    {
+      "start": 8.24,
+      "end": 14.0,
+      "text": "トロッコ 先見大同士を送っていったが下投げ?",
+      "language": "ja"
+    }
+  ],
+  "full_text": "を拾うのがあまりに大きいということはさっきの試合を見て火を見るより明らかだ このカードにおいては特にでかいですからね トロッコ 先見大同士を送っていったが下投げ?",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "ドロッコ",
+      "corrected": "トロッコ",
+      "rule": "smash term (Steve's minecart)"
+    }
+  ]
+}

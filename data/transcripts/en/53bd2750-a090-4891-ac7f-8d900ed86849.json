@@ -1,0 +1,17 @@
+{
+  "id": "53bd2750-a090-4891-ac7f-8d900ed86849",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 7.2,
+      "text": "Oh, fell asleep!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "あ、寝ちゃったー"
+    }
+  ],
+  "full_text": "Oh, fell asleep!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

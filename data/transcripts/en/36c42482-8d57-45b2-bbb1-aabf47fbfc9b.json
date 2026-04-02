@@ -1,0 +1,120 @@
+{
+  "id": "36c42482-8d57-45b2-bbb1-aabf47fbfc9b",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.3,
+      "text": "Special!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "スペル!"
+    },
+    {
+      "start": 1.26,
+      "end": 1.96,
+      "text": "Got the ledge!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "崖を取った"
+    },
+    {
+      "start": 1.96,
+      "end": 3.22,
+      "text": "Looking for the nair!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空Nを見ている"
+    },
+    {
+      "start": 3.22,
+      "end": 4.38,
+      "text": "Fair!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空前!"
+    },
+    {
+      "start": 4.82,
+      "end": 5.44,
+      "text": "How about that!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "どうだこれは!"
+    },
+    {
+      "start": 5.86,
+      "end": 7.22,
+      "text": "They made the directional airdodge!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "大丈夫か移動回避が間に合った!"
+    },
+    {
+      "start": 7.58,
+      "end": 9.3,
+      "text": "Sonic at 2 frames—they get the airdodge!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ソニック2フレで早いですから回避"
+    },
+    {
+      "start": 9.3,
+      "end": 12.06,
+      "text": "The match is over just like that!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いやしかし本当に一瞬で試合が決まる!"
+    },
+    {
+      "start": 12.26,
+      "end": 13.3,
+      "text": "That's the win!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "勝ったぞ!どうだ!"
+    },
+    {
+      "start": 14.14,
+      "end": 15.78,
+      "text": "Fire Jump Punch!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここでファイヤージャンプパンチ!"
+    }
+  ],
+  "full_text": "Special! Got the ledge! Looking for the nair! Fair! How about that! They made the directional airdodge! Sonic at 2 frames—they get the airdodge! The match is over just like that! That's the win! Fire Jump Punch!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "崖を撮った",
+      "corrected": "崖を取った",
+      "rule": "kanji: 撮った→取った"
+    },
+    {
+      "segment_idx": 2,
+      "original": "宇宙を見ている",
+      "corrected": "空Nを見ている",
+      "rule": "Whisper error: 宇宙→空N"
+    },
+    {
+      "segment_idx": 3,
+      "original": "宇宙前!",
+      "corrected": "空前!",
+      "rule": "Whisper error: 宇宙前→空前"
+    },
+    {
+      "segment_idx": 5,
+      "original": "ダイクロン移動回避が間に合った!",
+      "corrected": "大丈夫か移動回避が間に合った!",
+      "rule": "misheard"
+    },
+    {
+      "segment_idx": 9,
+      "original": "ワイヤージャンパンチ!",
+      "corrected": "ファイヤージャンプパンチ!",
+      "rule": "Luigi move name: ファイヤージャンプパンチ"
+    }
+  ]
+}

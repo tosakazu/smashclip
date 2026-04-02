@@ -1,0 +1,38 @@
+{
+  "id": "2c097606-0872-4534-93a8-d0c41e13a54f",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.64,
+      "text": "Yeah, I love the animation for that, man.",
+      "language": "en"
+    },
+    {
+      "start": 2.72,
+      "end": 4.06,
+      "text": "Little dolphin dip.",
+      "language": "en"
+    },
+    {
+      "start": 4.4,
+      "end": 5.1,
+      "text": "Little dip-a-roo.",
+      "language": "en"
+    },
+    {
+      "start": 5.38,
+      "end": 6.08,
+      "text": "Oh, it's so nice.",
+      "language": "en"
+    },
+    {
+      "start": 7.0,
+      "end": 9.46,
+      "text": "Oh, but he just kicks him in the face with...",
+      "language": "en"
+    }
+  ],
+  "full_text": "Yeah, I love the animation for that, man. Little dolphin dip. Little dip-a-roo. Oh, it's so nice. Oh, but he just kicks him in the face with...",
+  "detected_language": "en",
+  "corrections": []
+}

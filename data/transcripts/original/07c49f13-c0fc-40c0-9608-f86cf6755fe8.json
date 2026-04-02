@@ -1,0 +1,33 @@
+{
+  "id": "07c49f13-c0fc-40c0-9608-f86cf6755fe8",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.0,
+      "text": "Just outspacing the side B from Sora, to take that first stock very early.",
+      "language": "en"
+    },
+    {
+      "start": 5.0,
+      "end": 9.0,
+      "text": "Big mistake from AyaLin, cleans it up very quickly with the c-",
+      "language": "en"
+    }
+  ],
+  "full_text": "Just outspacing the side B from Sora, to take that first stock very early. Big mistake from AyaLin, cleans it up very quickly with the c-",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "Just outspacing the side B from Zora, to take that first stop very early.",
+      "corrected": "Just outspacing the side B from Sora, to take that first stock very early.",
+      "rule": "Character/terminology correction (Zora → Sora, stop → stock)"
+    },
+    {
+      "segment_idx": 1,
+      "original": "Big mistake from Ireland, cleans it up very quickly with the c-",
+      "corrected": "Big mistake from AyaLin, cleans it up very quickly with the c-",
+      "rule": "Player name correction (Ireland → AyaLin)"
+    }
+  ]
+}

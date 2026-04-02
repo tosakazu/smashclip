@@ -1,0 +1,57 @@
+{
+  "id": "26773e4a-a637-4fde-8f82-076337033b49",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.24,
+      "text": "Dash attack!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ダッシュ攻撃"
+    },
+    {
+      "start": 2.24,
+      "end": 6.24,
+      "text": "Won't give up control that easy",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "簡単にはターンを"
+    },
+    {
+      "start": 6.24,
+      "end": 8.78,
+      "text": "Says Zackray",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "やらんぞというザクレイ"
+    },
+    {
+      "start": 8.78,
+      "end": 11.0,
+      "text": "Knockback down, directional airdodge away",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "吹っ飛ばし下側斜め移動回避"
+    },
+    {
+      "start": 11.0,
+      "end": 12.2,
+      "text": "Coming back strong!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "しっかり返ってくるぞ"
+    },
+    {
+      "start": 12.2,
+      "end": 13.38,
+      "text": "Take this!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "食らえ!"
+    }
+  ],
+  "full_text": "Dash attack! Won't give up control that easy Says Zackray Knockback down, directional airdodge away Coming back strong! Take this!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

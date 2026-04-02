@@ -1,0 +1,57 @@
+{
+  "id": "3781cce2-3eaf-41df-bc0c-964b5bd6cdca",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.94,
+      "text": "ブッキャー通した",
+      "language": "ja"
+    },
+    {
+      "start": 1.94,
+      "end": 4.1,
+      "text": "対空メガボルト",
+      "language": "ja"
+    },
+    {
+      "start": 4.1,
+      "end": 6.38,
+      "text": "ワリオの体重の重さ",
+      "language": "ja"
+    },
+    {
+      "start": 6.38,
+      "end": 8.24,
+      "text": "衛星カスがバイクが破壊される",
+      "language": "ja"
+    },
+    {
+      "start": 8.24,
+      "end": 10.1,
+      "text": "空Nで",
+      "language": "ja"
+    },
+    {
+      "start": 10.1,
+      "end": 11.04,
+      "text": "詰め切った",
+      "language": "ja"
+    }
+  ],
+  "full_text": "ブッキャー通した 対空メガボルト ワリオの体重の重さ 衛星カスがバイクが破壊される 空Nで 詰め切った",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 3,
+      "original": "衛星カスが",
+      "corrected": "衛星カスが",
+      "rule": "no change needed"
+    },
+    {
+      "segment_idx": 4,
+      "original": "宇宙ニュートラルで",
+      "corrected": "空Nで",
+      "rule": "宇宙X→空X, 空中ニュートラル→空N"
+    }
+  ]
+}

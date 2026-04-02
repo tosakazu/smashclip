@@ -1,0 +1,33 @@
+{
+  "id": "0013fccd-624e-4a0a-98b1-6be6ec2ec76c",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.48,
+      "text": "the neutral we talked about how he was in like dash back erratical explosive play mode",
+      "language": "en"
+    },
+    {
+      "start": 4.48,
+      "end": 9.8,
+      "text": "then he went into full hop mode but TG is finding ways to",
+      "language": "en"
+    }
+  ],
+  "full_text": "the neutral we talked about how he was in like dash back erratical explosive play mode then he went into full hop mode but TG is finding ways to",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "autoretical",
+      "corrected": "erratical",
+      "rule": "misheard word"
+    },
+    {
+      "segment_idx": 1,
+      "original": "Tor Gurley",
+      "corrected": "TG",
+      "rule": "player name"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "id": "93c90415-396e-4764-968e-3a3ae6e14862",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.98,
+      "text": "Still stuck in a difficult spot",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ただ状況は苦しいのは続いている"
+    },
+    {
+      "start": 1.98,
+      "end": 4.02,
+      "text": "Converting to offense and applying pressure",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "撃に変えていって圧をかけていく"
+    },
+    {
+      "start": 4.02,
+      "end": 5.74,
+      "text": "So in this situation",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあこの状況"
+    },
+    {
+      "start": 5.74,
+      "end": 7.92,
+      "text": "First they want to slip through",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "まずは掻い潜りたいが"
+    },
+    {
+      "start": 7.92,
+      "end": 10.16,
+      "text": "But without the KO, it's not enough",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "撃墜しなければ安いもの"
+    },
+    {
+      "start": 10.16,
+      "end": 11.12,
+      "text": "That's the position we're in",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "というようなところですが"
+    },
+    {
+      "start": 11.12,
+      "end": 11.74,
+      "text": "Finding the opening",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "掻い潜って"
+    }
+  ],
+  "full_text": "Still stuck in a difficult spot Converting to offense and applying pressure So in this situation First they want to slip through But without the KO, it's not enough That's the position we're in Finding the opening",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "劇に変えていって",
+      "corrected": "撃に変えていって",
+      "rule": "kanji homophone (劇→撃, Shulk Monado Art)"
+    },
+    {
+      "segment_idx": 3,
+      "original": "飼いくぐり隊が",
+      "corrected": "掻い潜りたいが",
+      "rule": "misheard word (飼いくぐり隊→掻い潜りたい)"
+    },
+    {
+      "segment_idx": 6,
+      "original": "飼いくぐって",
+      "corrected": "掻い潜って",
+      "rule": "misheard word"
+    }
+  ]
+}

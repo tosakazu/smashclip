@@ -1,0 +1,33 @@
+{
+  "id": "21dce6f1-a8c3-4274-9444-6bb227aff81d",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "That was so smart!"
+    },
+    {
+      "start": 2.0,
+      "end": 4.0,
+      "text": "That was the final stock of the day!"
+    },
+    {
+      "start": 4.0,
+      "end": 6.0,
+      "text": "Look at that! No materials at all!"
+    },
+    {
+      "start": 6.0,
+      "end": 9.0,
+      "text": "He has no minecart, no anvil, he has to use the elytra to get back"
+    },
+    {
+      "start": 9.0,
+      "end": 11.0,
+      "text": "And finally he gets the final stock!"
+    }
+  ],
+  "full_text": "That was so smart! That was the final stock of the day! Look at that! No materials at all! He has no minecart, no anvil, he has to use the elytra to get back And finally he gets the final stock!",
+  "detected_language": "en",
+  "corrections": []
+}

@@ -1,0 +1,83 @@
+{
+  "id": "8a678961-b88e-4970-9129-85117c75b783",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.72,
+      "text": "Ooh, that's rough!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "おー悪いか"
+    },
+    {
+      "start": 0.72,
+      "end": 2.72,
+      "text": "He's fine",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "大丈夫"
+    },
+    {
+      "start": 2.72,
+      "end": 5.04,
+      "text": "But Shuton is pressing the advantage hard",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いやしかしシュートンもしっかりと追いかけています"
+    },
+    {
+      "start": 5.04,
+      "end": 6.22,
+      "text": "back throw",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "後ろ投げ"
+    },
+    {
+      "start": 6.22,
+      "end": 8.98,
+      "text": "waiting, but...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "待っているが"
+    },
+    {
+      "start": 8.98,
+      "end": 10.5,
+      "text": "Why are you mashing?!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "なんでそこで暴れんねん"
+    },
+    {
+      "start": 10.5,
+      "end": 12.44,
+      "text": "You gotta read the approach",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "相手が来ること分かってないと無理ですけどね"
+    },
+    {
+      "start": 12.44,
+      "end": 13.4,
+      "text": "Oh, he got the spacing!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "おーひろめました"
+    },
+    {
+      "start": 13.4,
+      "end": 13.94,
+      "text": "He opened it up!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ひろめました"
+    }
+  ],
+  "full_text": "Ooh, that's rough! He's fine But Shuton is pressing the advantage hard back throw waiting, but... Why are you mashing?! You gotta read the approach Oh, he got the spacing! He opened it up!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    "そばたき→シュートン (Shuton player name from metadata)"
+  ]
+}

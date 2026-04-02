@@ -1,0 +1,44 @@
+{
+  "id": "c9280f8f-fe6b-4e17-81c7-83869864f25f",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.06,
+      "text": "さあ130%",
+      "language": "ja"
+    },
+    {
+      "start": 2.06,
+      "end": 3.48,
+      "text": "よっしゃ本当に",
+      "language": "ja"
+    },
+    {
+      "start": 3.48,
+      "end": 4.86,
+      "text": "ナイリで撃墜してもおかしくはない",
+      "language": "ja"
+    },
+    {
+      "start": 4.86,
+      "end": 7.18,
+      "text": "ここまでラインを稼いだリューク",
+      "language": "ja"
+    },
+    {
+      "start": 7.18,
+      "end": 8.64,
+      "text": "ダッシュアタックが見られていた",
+      "language": "ja"
+    },
+    {
+      "start": 8.64,
+      "end": 9.72,
+      "text": "上に投げて撃墜",
+      "language": "ja"
+    }
+  ],
+  "full_text": "さあ130% よっしゃ本当に ナイリで撃墜してもおかしくはない ここまでラインを稼いだリューク ダッシュアタックが見られていた 上に投げて撃墜",
+  "detected_language": "ja",
+  "corrections": []
+}

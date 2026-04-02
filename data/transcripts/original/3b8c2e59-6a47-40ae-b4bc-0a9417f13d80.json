@@ -1,0 +1,27 @@
+{
+  "id": "3b8c2e59-6a47-40ae-b4bc-0a9417f13d80",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.84,
+      "text": "当然ねあのソニックはもう撃墜パーセントなんで撃墜できる技をマイルド側も振っていきます",
+      "language": "ja"
+    },
+    {
+      "start": 4.84,
+      "end": 8.14,
+      "text": "さっきのねあの格闘Miiとかもそうだ",
+      "language": "ja"
+    }
+  ],
+  "full_text": "当然ねあのソニックはもう撃墜パーセントなんで撃墜できる技をマイルド側も振っていきます さっきのねあの格闘Miiとかもそうだ",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "格闘ミー",
+      "corrected": "格闘Mii",
+      "rule": "Smash term: ミー→Mii"
+    }
+  ]
+}

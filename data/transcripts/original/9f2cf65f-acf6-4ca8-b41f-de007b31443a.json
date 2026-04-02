@@ -1,0 +1,38 @@
+{
+  "id": "9f2cf65f-acf6-4ca8-b41f-de007b31443a",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.8,
+      "text": "ダッシュアタックその足は少し届かない",
+      "language": "ja"
+    },
+    {
+      "start": 1.8,
+      "end": 2.86,
+      "text": "浮かせた",
+      "language": "ja"
+    },
+    {
+      "start": 2.86,
+      "end": 5.76,
+      "text": "美味しい展開上Bまで繋がればというところだったんですけれども",
+      "language": "ja"
+    },
+    {
+      "start": 5.76,
+      "end": 6.4,
+      "text": "ここは",
+      "language": "ja"
+    },
+    {
+      "start": 6.4,
+      "end": 8.66,
+      "text": "下りの空中へ",
+      "language": "ja"
+    }
+  ],
+  "full_text": "ダッシュアタックその足は少し届かない 浮かせた 美味しい展開上Bまで繋がればというところだったんですけれども ここは 下りの空中へ",
+  "detected_language": "ja",
+  "corrections": []
+}

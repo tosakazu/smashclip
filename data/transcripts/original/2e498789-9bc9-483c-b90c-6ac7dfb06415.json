@@ -1,0 +1,20 @@
+{
+  "id": "2e498789-9bc9-483c-b90c-6ac7dfb06415",
+  "segments": [
+    {
+      "start": 0.76,
+      "end": 3.2,
+      "text": "引っ掛け、いつも通り",
+      "language": "ja"
+    },
+    {
+      "start": 3.2,
+      "end": 7.44,
+      "text": "そしてどこかで",
+      "language": "ja"
+    }
+  ],
+  "full_text": "引っ掛け、いつも通り そしてどこかで",
+  "detected_language": "ja",
+  "corrections": []
+}

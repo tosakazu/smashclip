@@ -1,0 +1,25 @@
+{
+  "id": "deae3df6-d5fd-47a4-8be1-3bfa23efa41d",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.04,
+      "text": "Wow, this capsule tech is insane!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "あーこれカプセルの展開やばすぎ"
+    },
+    {
+      "start": 6.04,
+      "end": 7.62,
+      "text": "Down throw to up air!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "下投げ空上で"
+    }
+  ],
+  "full_text": "Wow, this capsule tech is insane! Down throw to up air!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

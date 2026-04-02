@@ -1,0 +1,39 @@
+{
+  "id": "01004365-98bd-4121-9d14-e63059341a8e",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.68,
+      "text": "Freaking sick.",
+      "language": "en"
+    },
+    {
+      "start": 0.96,
+      "end": 5.08,
+      "text": "Yeah, absolutely the number one representative of both of their characters.",
+      "language": "en"
+    },
+    {
+      "start": 7.16,
+      "end": 10.46,
+      "text": "But it looks like Gachipi's the one with all the momentum in his favor right now.",
+      "language": "en"
+    },
+    {
+      "start": 10.52,
+      "end": 11.6,
+      "text": "He gets the down smash off.",
+      "language": "en"
+    }
+  ],
+  "full_text": "Freaking sick. Yeah, absolutely the number one representative of both of their characters. But it looks like Gachipi's the one with all the momentum in his favor right now. He gets the down smash off.",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "Gatchby's",
+      "corrected": "Gachipi's",
+      "rule": "player name"
+    }
+  ]
+}

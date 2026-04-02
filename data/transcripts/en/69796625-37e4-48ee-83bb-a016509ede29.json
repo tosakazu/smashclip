@@ -1,0 +1,64 @@
+{
+  "id": "69796625-37e4-48ee-83bb-a016509ede29",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.72,
+      "text": "Not quite at KO % yet—130%",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "まだ撃墜にはならない130%"
+    },
+    {
+      "start": 1.72,
+      "end": 3.64,
+      "text": "Yeah, the tipper's really scary so...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いやー先端が非常に怖いので"
+    },
+    {
+      "start": 3.64,
+      "end": 4.54,
+      "text": "Going in with that",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "Dを通していく"
+    },
+    {
+      "start": 4.54,
+      "end": 6.1,
+      "text": "So how far are they going to chase?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあどこまで追いかける"
+    },
+    {
+      "start": 6.1,
+      "end": 7.0,
+      "text": "Well but this...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあしかしこれは"
+    },
+    {
+      "start": 7.0,
+      "end": 8.52,
+      "text": "kid",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ガキ"
+    }
+  ],
+  "full_text": "Not quite at KO % yet—130% Yeah, the tipper's really scary so... Going in with that So how far are they going to chase? Well but this... kid",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "激戦",
+      "corrected": "撃墜",
+      "rule": "kanji homophone (げきせん→げきつい)"
+    }
+  ]
+}

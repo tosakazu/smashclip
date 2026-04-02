@@ -1,0 +1,28 @@
+{
+  "id": "8c38c8cc-7553-4551-9ba1-8d272444bb89",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.06,
+      "text": "空中ニュートラル",
+      "language": "ja"
+    },
+    {
+      "start": 2.06,
+      "end": 5.04,
+      "text": "さあぶっ飛ばすに変えてきたぞ",
+      "language": "ja"
+    },
+    {
+      "start": 5.04,
+      "end": 7.4,
+      "text": "これはしかしマーベラスコンビネーション",
+      "language": "ja"
+    }
+  ],
+  "full_text": "空中ニュートラル さあぶっ飛ばすに変えてきたぞ これはしかしマーベラスコンビネーション",
+  "detected_language": "ja",
+  "corrections": [
+    "コミュネーション→コンビネーション (Marvelous Combination, Roy's side B)"
+  ]
+}

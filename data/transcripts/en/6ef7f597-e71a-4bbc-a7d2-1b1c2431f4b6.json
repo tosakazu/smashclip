@@ -1,0 +1,99 @@
+{
+  "id": "6ef7f597-e71a-4bbc-a7d2-1b1c2431f4b6",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "text": "So counters and stuff",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "カウンターとかですけどね"
+    },
+    {
+      "start": 1.0,
+      "end": 3.98,
+      "text": "Reading the back dodge with bair",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあ後ろに回避したいところ空後合わせていった"
+    },
+    {
+      "start": 3.98,
+      "end": 6.86,
+      "text": "Luna Mad had the stock lead",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ストックリード先に取っていたのはルナマド選手"
+    },
+    {
+      "start": 6.86,
+      "end": 10.86,
+      "text": "As Sonic at this percent, it's looking pretty even",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ソニックとしてもこのぐらいのパーセント帯だったらまあまあぐらいの気持ちでしょうね"
+    },
+    {
+      "start": 10.86,
+      "end": 12.38,
+      "text": "But they got KO'd",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "撃墜されちゃいましたけど"
+    },
+    {
+      "start": 12.38,
+      "end": 14.72,
+      "text": "Great, great!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "見ましたねよかったよかった"
+    },
+    {
+      "start": 14.72,
+      "end": 18.44,
+      "text": "Escaping the juggle with Flip Kick",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあフリップキックで着地狩りを拒否していって"
+    },
+    {
+      "start": 18.44,
+      "end": 21.06,
+      "text": "Ken's playing it safe with the bair",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ケン選手もここは無理しないそして空後"
+    }
+  ],
+  "full_text": "So counters and stuff Reading the back dodge with bair Luna Mad had the stock lead As Sonic at this percent, it's looking pretty even But they got KO'd Great, great! Escaping the juggle with Flip Kick Ken's playing it safe with the bair",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_index": 1,
+      "original": "さあ後ろに回避したいところ空中しろ合わせていった",
+      "corrected": "さあ後ろに回避したいところ空後合わせていった"
+    },
+    {
+      "segment_index": 2,
+      "original": "ストックリード先に取っていたのはルナマドカクミ",
+      "corrected": "ストックリード先に取っていたのはルナマド選手"
+    },
+    {
+      "segment_index": 3,
+      "original": "ソニックとしてもこのぐらいのパーセント年間だったらまあまあぐらいの気持ちでしょうね",
+      "corrected": "ソニックとしてもこのぐらいのパーセント帯だったらまあまあぐらいの気持ちでしょうね"
+    },
+    {
+      "segment_index": 4,
+      "original": "戦闘されちゃいましたけど",
+      "corrected": "撃墜されちゃいましたけど"
+    },
+    {
+      "segment_index": 7,
+      "original": "ケン選手もここは無理しないそして空中しろ",
+      "corrected": "ケン選手もここは無理しないそして空後"
+    }
+  ]
+}

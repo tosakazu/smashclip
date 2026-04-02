@@ -1,0 +1,44 @@
+{
+  "id": "3c81bf70-a788-459a-940c-c32de72681ec",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.62,
+      "text": "後ろ側で当てることにその後つかみもつながる",
+      "language": "ja"
+    },
+    {
+      "start": 3.62,
+      "end": 4.3,
+      "text": "いやそうですね",
+      "language": "ja"
+    },
+    {
+      "start": 4.3,
+      "end": 11.12,
+      "text": "もう一度",
+      "language": "ja"
+    },
+    {
+      "start": 11.12,
+      "end": 12.8,
+      "text": "上から復帰",
+      "language": "ja"
+    },
+    {
+      "start": 12.8,
+      "end": 16.24,
+      "text": "うますぎ",
+      "language": "ja"
+    },
+    {
+      "start": 16.24,
+      "end": 17.14,
+      "text": "これはうまい",
+      "language": "ja"
+    }
+  ],
+  "full_text": "後ろ側で当てることにその後つかみもつながる いやそうですね もう一度 上から復帰 うますぎ これはうまい",
+  "detected_language": "ja",
+  "corrections": []
+}

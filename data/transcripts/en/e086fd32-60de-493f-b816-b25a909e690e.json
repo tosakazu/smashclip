@@ -1,0 +1,124 @@
+{
+  "id": "e086fd32-60de-493f-b816-b25a909e690e",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.86,
+      "text": "Just barely got back!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ちょうどディレイをかけたサイマグに対して戻れて"
+    },
+    {
+      "start": 1.86,
+      "end": 2.38,
+      "text": "Whoa!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "危ない!"
+    },
+    {
+      "start": 2.84,
+      "end": 4.14,
+      "text": "Made the airdodge, but yeah, obviously",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "回避きたがさすがにそうですよね"
+    },
+    {
+      "start": 4.14,
+      "end": 5.76,
+      "text": "Only escape option was to go inside",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "内側にしか逃げ場はなかった"
+    },
+    {
+      "start": 5.76,
+      "end": 6.84,
+      "text": "Kutney plays it safe",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "クーティニーを無理せず"
+    },
+    {
+      "start": 6.84,
+      "end": 7.64,
+      "text": "Going for the damage!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "火力を取る"
+    },
+    {
+      "start": 7.64,
+      "end": 9.0,
+      "text": "Gackt is scary too",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "Gacktももう怖すぎる"
+    },
+    {
+      "start": 9.6,
+      "end": 11.82,
+      "text": "Airdodge, Kutney!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "よけろクーティニー"
+    },
+    {
+      "start": 11.82,
+      "end": 12.44,
+      "text": "What?!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "どうなの?"
+    },
+    {
+      "start": 12.66,
+      "end": 14.0,
+      "text": "That's the kill!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "撃ついたー!"
+    },
+    {
+      "start": 17.0,
+      "end": 17.92,
+      "text": "Kutney!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "クーティニー"
+    },
+    {
+      "start": 17.92,
+      "end": 18.7,
+      "text": "And that's the set!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "この勝ち"
+    }
+  ],
+  "full_text": "Just barely got back! Whoa! Made the airdodge, but yeah, obviously Only escape option was to go inside Kutney plays it safe Going for the damage! Gackt is scary too Airdodge, Kutney! What?! That's the kill! Kutney! And that's the set!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 6,
+      "original": "ガシコギ",
+      "corrected": "Gackt",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 7,
+      "original": "避けようクーティニー",
+      "corrected": "よけろクーティニー",
+      "rule": "misheard word"
+    },
+    {
+      "segment_idx": 11,
+      "original": "この落ち",
+      "corrected": "この勝ち",
+      "rule": "misheard word"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "34da0dd9-53eb-47af-8c7f-a06cea9dcd6a",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.26,
+      "text": "Counting hits and what they're looking for",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "攻撃数や何を狙うか"
+    },
+    {
+      "start": 1.26,
+      "end": 2.98,
+      "text": "Needs to get back to center stage first",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "まずはステージ中央に戻りたい"
+    },
+    {
+      "start": 2.98,
+      "end": 4.84,
+      "text": "Up B covers the down tilt",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "下強に対して上Bが取れている"
+    },
+    {
+      "start": 4.84,
+      "end": 8.08,
+      "text": "Playing patient on the dodge here too",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いやーここも回避しっかり待ちます"
+    }
+  ],
+  "full_text": "Counting hits and what they're looking for Needs to get back to center stage first Up B covers the down tilt Playing patient on the dodge here too",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

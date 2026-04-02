@@ -1,0 +1,17 @@
+{
+  "id": "913afd34-7503-46e3-99e6-4fbefea2424d",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.24,
+      "text": "Because it has an active hitbox during the spin, it's a bad matchup against Pikmin",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "スピン中に攻撃判定があるせいで ピクミンに対して相性が悪い技"
+    }
+  ],
+  "full_text": "Because it has an active hitbox during the spin, it's a bad matchup against Pikmin",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

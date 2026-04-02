@@ -1,0 +1,63 @@
+{
+  "id": "2b06c4ed-3c2d-471f-b6db-a9b00ee5f0f0",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.3,
+      "text": "採掘 優秀で空後からダブルアップを狙っていったが",
+      "language": "ja"
+    },
+    {
+      "start": 3.3,
+      "end": 5.24,
+      "text": "横を暴れて切っていった",
+      "language": "ja"
+    },
+    {
+      "start": 5.24,
+      "end": 7.08,
+      "text": "ダッシュ攻撃で",
+      "language": "ja"
+    },
+    {
+      "start": 7.08,
+      "end": 9.58,
+      "text": "持続ヒットでもただ崖展開を獲得した",
+      "language": "ja"
+    },
+    {
+      "start": 9.58,
+      "end": 11.18,
+      "text": "空後",
+      "language": "ja"
+    }
+  ],
+  "full_text": "採掘 優秀で空後からダブルアップを狙っていったが 横を暴れて切っていった ダッシュ攻撃で 持続ヒットでもただ崖展開を獲得した 空後",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "佐久間優秀で空中城からダブルアップを狙っていったが",
+      "corrected": "採掘 優秀で空後からダブルアップを狙っていったが",
+      "rule": "misheard: 佐久間→採掘, 空中城→空後"
+    },
+    {
+      "segment_idx": 2,
+      "original": "ダッシュポイントで",
+      "corrected": "ダッシュ攻撃で",
+      "rule": "misheard: ポイント→攻撃"
+    },
+    {
+      "segment_idx": 3,
+      "original": "ただガキ展開を獲得した",
+      "corrected": "ただ崖展開を獲得した",
+      "rule": "misheard: ガキ→崖"
+    },
+    {
+      "segment_idx": 4,
+      "original": "空中城",
+      "corrected": "空後",
+      "rule": "move abbrev: 空中城→空後"
+    }
+  ]
+}

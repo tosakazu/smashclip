@@ -1,0 +1,26 @@
+{
+  "id": "8d3e7543-d252-4253-ab41-b298b48fa367",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.58,
+      "text": "これは狙っていた上スマッシュを積んでのところでギリギリ目の前で止まる",
+      "language": "ja"
+    },
+    {
+      "start": 5.58,
+      "end": 11.12,
+      "text": "えー",
+      "language": "ja"
+    },
+    {
+      "start": 11.12,
+      "end": 13.36,
+      "text": "ほっ",
+      "language": "ja"
+    }
+  ],
+  "full_text": "これは狙っていた上スマッシュを積んでのところでギリギリ目の前で止まる えー ほっ",
+  "detected_language": "ja",
+  "corrections": []
+}

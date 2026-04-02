@@ -1,0 +1,51 @@
+{
+  "id": "426093ae-9f74-4464-935d-dfa88bc370dd",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "X字の準備は完了!",
+      "language": "ja"
+    },
+    {
+      "start": 2.0,
+      "end": 3.0,
+      "text": "上手すぎしっかり避けてる!",
+      "language": "ja"
+    },
+    {
+      "start": 3.0,
+      "end": 5.0,
+      "text": "崖が怖すぎるぞ!",
+      "language": "ja"
+    },
+    {
+      "start": 5.0,
+      "end": 6.0,
+      "text": "動けないよ!",
+      "language": "ja"
+    },
+    {
+      "start": 6.0,
+      "end": 8.0,
+      "text": "横強でブロックを壊していった!",
+      "language": "ja"
+    },
+    {
+      "start": 8.0,
+      "end": 10.0,
+      "text": "どうした!本当にどうした!",
+      "language": "ja"
+    }
+  ],
+  "full_text": "X字の準備は完了! 上手すぎしっかり避けてる! 崖が怖すぎるぞ! 動けないよ! 横強でブロックを壊していった! どうした!本当にどうした!",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 4,
+      "original": "横行で",
+      "corrected": "横強で",
+      "rule": "kanji homophone (move name)"
+    }
+  ]
+}

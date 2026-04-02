@@ -1,0 +1,32 @@
+{
+  "id": "3ef17caf-6526-4eba-bccc-60ce9ab54125",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.38,
+      "text": "空中へ空中へ着地狩りが長く続く",
+      "language": "ja"
+    },
+    {
+      "start": 3.38,
+      "end": 6.62,
+      "text": "さあ今日点灯してしまうこれは",
+      "language": "ja"
+    },
+    {
+      "start": 6.62,
+      "end": 9.0,
+      "text": "ギリギリ",
+      "language": "ja"
+    },
+    {
+      "start": 9.0,
+      "end": 11.6,
+      "text": "いやははは",
+      "language": "ja"
+    }
+  ],
+  "full_text": "空中へ空中へ着地狩りが長く続く さあ今日点灯してしまうこれは ギリギリ いやははは",
+  "detected_language": "ja",
+  "corrections": []
+}

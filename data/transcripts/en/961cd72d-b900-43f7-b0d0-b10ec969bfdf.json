@@ -1,0 +1,48 @@
+{
+  "id": "961cd72d-b900-43f7-b0d0-b10ec969bfdf",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.74,
+      "text": "Off the bomb!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "爆弾からの"
+    },
+    {
+      "start": 0.74,
+      "end": 3.68,
+      "text": "Nice, going for it again!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いいぞもう一回狙う"
+    },
+    {
+      "start": 3.68,
+      "end": 4.5,
+      "text": "One more time!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "もう一回"
+    },
+    {
+      "start": 4.5,
+      "end": 7.22,
+      "text": "That's it!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "やはりこれです"
+    }
+  ],
+  "full_text": "Off the bomb! Nice, going for it again! One more time! That's it!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "いいえ一回狙う",
+      "corrected": "いいぞもう一回狙う",
+      "rule": "misheard word"
+    }
+  ]
+}

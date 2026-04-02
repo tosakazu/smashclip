@@ -1,0 +1,49 @@
+{
+  "id": "2b2f6a00-b692-4d8d-92f8-05aae253be97",
+  "segments": [
+    {
+      "start": 0.26,
+      "end": 2.8,
+      "text": "Purple pikmin's already charged",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "次の紫ピクミンがもうすでにチャージされている"
+    },
+    {
+      "start": 2.8,
+      "end": 4.88,
+      "text": "Standing by",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そこにスタンバイしている"
+    },
+    {
+      "start": 4.88,
+      "end": 9.42,
+      "text": "If he gets caught by that purple attack, it's gonna be rough",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "何かこの紫ピクミンの攻撃に引っかかってしまうときついぞ"
+    },
+    {
+      "start": 9.42,
+      "end": 11.84,
+      "text": "Red forward smash has spacing so he's safe",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "赤の横スマッシュはラインがあるので大丈夫"
+    },
+    {
+      "start": 11.84,
+      "end": 13.88,
+      "text": "But the fair...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "しかし空中前での"
+    }
+  ],
+  "full_text": "Purple pikmin's already charged Standing by If he gets caught by that purple attack, it's gonna be rough Red forward smash has spacing so he's safe But the fair...",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

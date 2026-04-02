@@ -1,0 +1,33 @@
+{
+  "id": "ad288dc2-a1e5-4137-94db-8abfd00eea0f",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.3,
+      "text": "ギミックキャラクター",
+      "language": "ja"
+    },
+    {
+      "start": 3.3,
+      "end": 9.04,
+      "text": "シモンもまたミニゲーム族の一人",
+      "language": "ja"
+    },
+    {
+      "start": 9.04,
+      "end": 10.82,
+      "text": "いやーずり落ちてきた",
+      "language": "ja"
+    }
+  ],
+  "full_text": "ギミックキャラクター シモンもまたミニゲーム族の一人 いやーずり落ちてきた",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "シモもまた",
+      "corrected": "シモンもまた",
+      "rule": "Character name: シモ→シモン(Simon)"
+    }
+  ]
+}

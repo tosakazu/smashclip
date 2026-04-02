@@ -1,0 +1,78 @@
+{
+  "id": "695b090f-c41a-45fa-9d0a-8511ea3904c3",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.68,
+      "text": "I mean,",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "というか"
+    },
+    {
+      "start": 1.68,
+      "end": 4.98,
+      "text": "since it won't confirm,",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "確定しないので"
+    },
+    {
+      "start": 4.98,
+      "end": 5.9,
+      "text": "let me get another look",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "一回様子を見たか"
+    },
+    {
+      "start": 5.9,
+      "end": 9.0,
+      "text": "at Meta Knight's",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあメタナイトの"
+    },
+    {
+      "start": 9.0,
+      "end": 10.04,
+      "text": "signature appeal -",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "魅力の一つともいえる"
+    },
+    {
+      "start": 10.04,
+      "end": 12.44,
+      "text": "we see that KO combo right there, but",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "その即死コンボその辺りが見えたが"
+    },
+    {
+      "start": 12.44,
+      "end": 13.88,
+      "text": "Ucchi is staying cool",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "うっちー選手ここは冷静"
+    }
+  ],
+  "full_text": "I mean, since it won't confirm, let me get another look at Meta Knight's signature appeal - we see that KO combo right there, but Ucchi is staying cool",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 3,
+      "original": "メタラメタナイト",
+      "corrected": "メタナイト",
+      "rule": "Whisper duplication error"
+    },
+    {
+      "segment_idx": 6,
+      "original": "うっちぃ",
+      "corrected": "うっちー",
+      "rule": "player name"
+    }
+  ]
+}

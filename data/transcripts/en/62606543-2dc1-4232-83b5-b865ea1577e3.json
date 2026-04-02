@@ -1,0 +1,80 @@
+{
+  "id": "62606543-2dc1-4232-83b5-b865ea1577e3",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.62,
+      "text": "Keeping damage minimal while",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "最低限のダメージに抑えながら"
+    },
+    {
+      "start": 2.62,
+      "end": 4.02,
+      "text": "fighting",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "戦っています"
+    },
+    {
+      "start": 4.02,
+      "end": 5.24,
+      "text": "Maintaining forward spacing",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "打ち前固めている"
+    },
+    {
+      "start": 5.24,
+      "end": 6.24,
+      "text": "The throw lands here",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここは投げが通る"
+    },
+    {
+      "start": 6.24,
+      "end": 7.84,
+      "text": "Forward throw into continued pressure",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "前投げからターン継続"
+    },
+    {
+      "start": 7.84,
+      "end": 9.66,
+      "text": "Back to ledge again",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "またしても崖展開"
+    },
+    {
+      "start": 9.66,
+      "end": 11.0,
+      "text": "This is Hide Sylvie",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これはハイドシルビー"
+    },
+    {
+      "start": 11.88,
+      "end": 13.68,
+      "text": "The forward attack bomb",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "打ち前の爆弾が"
+    }
+  ],
+  "full_text": "Keeping damage minimal while fighting Maintaining forward spacing The throw lands here Forward throw into continued pressure Back to ledge again This is Hide Sylvie The forward attack bomb",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 5,
+      "original": "ちょっと展開",
+      "corrected": "崖展開",
+      "rule": "smash term"
+    }
+  ]
+}

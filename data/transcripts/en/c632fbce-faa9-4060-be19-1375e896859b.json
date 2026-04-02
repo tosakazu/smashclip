@@ -1,0 +1,74 @@
+{
+  "id": "c632fbce-faa9-4060-be19-1375e896859b",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.8,
+      "text": "From the ledge grab, game on!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "崖の掴みからエイガオン"
+    },
+    {
+      "start": 1.8,
+      "end": 4.54,
+      "text": "The percentage is racking up so fast!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "パーセントがみるみる溜まっていきますね"
+    },
+    {
+      "start": 4.54,
+      "end": 6.2,
+      "text": "And the ledge situation",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そして崖上での展開"
+    },
+    {
+      "start": 6.2,
+      "end": 7.3,
+      "text": "Nair",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空N"
+    },
+    {
+      "start": 7.3,
+      "end": 8.8,
+      "text": "Lands the up B!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "上Bかまして"
+    }
+  ],
+  "full_text": "From the ledge grab, game on! The percentage is racking up so fast! And the ledge situation Nair Lands the up B!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "武器の掴みから映画オン",
+      "corrected": "崖の掴みからエイガオン",
+      "rule": "misheard move name (Joker Eigaon)"
+    },
+    {
+      "segment_idx": 2,
+      "original": "武器としての",
+      "corrected": "崖上での",
+      "rule": "misheard word"
+    },
+    {
+      "segment_idx": 3,
+      "original": "クーエヌ",
+      "corrected": "空N",
+      "rule": "misheard move name"
+    },
+    {
+      "segment_idx": 4,
+      "original": "上映がして",
+      "corrected": "上Bかまして",
+      "rule": "misheard move name"
+    }
+  ]
+}

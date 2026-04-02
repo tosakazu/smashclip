@@ -1,0 +1,39 @@
+{
+  "id": "bdba71e3-065d-408a-a89e-e22cb2d75bb0",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.06,
+      "text": "爆弾がないちょっと怖いところ",
+      "language": "ja"
+    },
+    {
+      "start": 4.06,
+      "end": 6.1,
+      "text": "上強だったので撃墜は免れた",
+      "language": "ja"
+    },
+    {
+      "start": 6.1,
+      "end": 8.08,
+      "text": "着地狩り",
+      "language": "ja"
+    }
+  ],
+  "full_text": "爆弾がないちょっと怖いところ 上強だったので撃墜は免れた 着地狩り",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "撃墜を招かれた",
+      "corrected": "撃墜は免れた",
+      "rule": "misheard phrase"
+    },
+    {
+      "segment_idx": 2,
+      "original": "直地ゴリ",
+      "corrected": "着地狩り",
+      "rule": "smash term"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": "fdc2d67a-1192-41dd-b60b-269c63564515",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.8,
+      "text": "one of the most, if not the most seasoned player",
+      "language": "en"
+    },
+    {
+      "start": 2.8,
+      "end": 3.98,
+      "text": "in this room.",
+      "language": "en"
+    },
+    {
+      "start": 3.98,
+      "end": 6.38,
+      "text": "A lot of experience coming through here for Leo.",
+      "language": "en"
+    },
+    {
+      "start": 7.58,
+      "end": 8.78,
+      "text": "All right, trying to get the recast.",
+      "language": "en"
+    },
+    {
+      "start": 8.78,
+      "end": 10.1,
+      "text": "Not gonna get it, but don't need it, man.",
+      "language": "en"
+    },
+    {
+      "start": 10.1,
+      "end": 10.94,
+      "text": "They have tilt.",
+      "language": "en"
+    }
+  ],
+  "full_text": "one of the most, if not the most seasoned player in this room. A lot of experience coming through here for Leo. All right, trying to get the recast. Not gonna get it, but don't need it, man. They have tilt.",
+  "detected_language": "en",
+  "corrections": []
+}

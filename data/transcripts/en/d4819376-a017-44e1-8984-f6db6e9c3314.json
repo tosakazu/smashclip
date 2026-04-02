@@ -1,0 +1,40 @@
+{
+  "id": "d4819376-a017-44e1-8984-f6db6e9c3314",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.12,
+      "text": "Ideally they can secure that breathing room and reset safely, but...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "できればコリンクが一安心 安心できる時間は確保できるんですが"
+    },
+    {
+      "start": 5.12,
+      "end": 10.0,
+      "text": "On the flip side, if they can't pull that off, it gets dangerous. Can't afford any mistakes.",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "逆にそれができなかったら 油断ならない"
+    },
+    {
+      "start": 10.0,
+      "end": 12.8,
+      "text": "And this is coming in so smoothly from the left!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これは悠々とそうですね左から"
+    }
+  ],
+  "full_text": "Ideally they can secure that breathing room and reset safely, but... On the flip side, if they can't pull that off, it gets dangerous. Can't afford any mistakes. And this is coming in so smoothly from the left!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "コニックが",
+      "corrected": "コリンクが",
+      "rule": "player name (コニック→コリンク1219)"
+    }
+  ]
+}

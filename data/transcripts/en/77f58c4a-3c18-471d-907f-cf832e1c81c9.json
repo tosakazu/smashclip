@@ -1,0 +1,33 @@
+{
+  "id": "77f58c4a-3c18-471d-907f-cf832e1c81c9",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.08,
+      "text": "that we weren't going to see something out of the ordinary right there coming in from me especially",
+      "language": "en"
+    },
+    {
+      "start": 4.08,
+      "end": 8.14,
+      "text": "whenever he was able to recover center stage but Raru is just setting everything up for",
+      "language": "en"
+    },
+    {
+      "start": 8.14,
+      "end": 12.86,
+      "text": "success right here as the decision making that he has has been absolutely pristine a lot of people",
+      "language": "en"
+    }
+  ],
+  "full_text": "that we weren't going to see something out of the ordinary right there coming in from me especially whenever he was able to recover center stage but Raru is just setting everything up for success right here as the decision making that he has has been absolutely pristine a lot of people",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "center straight but bradu",
+      "corrected": "center stage but Raru",
+      "rule": "player name + misheard word"
+    }
+  ]
+}

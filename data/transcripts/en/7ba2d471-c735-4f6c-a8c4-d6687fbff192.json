@@ -1,0 +1,38 @@
+{
+  "id": "7ba2d471-c735-4f6c-a8c4-d6687fbff192",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.0,
+      "text": "Okay, swinging down, ooh, the wings almost.",
+      "language": "en"
+    },
+    {
+      "start": 5.0,
+      "end": 7.0,
+      "text": "Clip and lay there, yeah.",
+      "language": "en"
+    },
+    {
+      "start": 7.0,
+      "end": 9.0,
+      "text": "Drag down, wait, wait for it.",
+      "language": "en"
+    },
+    {
+      "start": 9.0,
+      "end": 11.0,
+      "text": "Wow, okay.",
+      "language": "en"
+    },
+    {
+      "start": 11.0,
+      "end": 13.0,
+      "text": "This hurt box.",
+      "language": "en"
+    }
+  ],
+  "full_text": "Okay, swinging down, ooh, the wings almost. Clip and lay there, yeah. Drag down, wait, wait for it. Wow, okay. This hurt box.",
+  "detected_language": "en",
+  "corrections": []
+}

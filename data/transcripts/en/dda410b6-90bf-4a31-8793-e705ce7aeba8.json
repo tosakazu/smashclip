@@ -1,0 +1,33 @@
+{
+  "id": "dda410b6-90bf-4a31-8793-e705ce7aeba8",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.54,
+      "text": "yeah desperately wants to get it but will not be given any chance and now Lui$ is just like you",
+      "language": "en"
+    },
+    {
+      "start": 6.54,
+      "end": 10.78,
+      "text": "know what let me just back off right here if I can set up an Explosive Flame here we go so",
+      "language": "en"
+    },
+    {
+      "start": 10.78,
+      "end": 11.76,
+      "text": "this is gonna be good with",
+      "language": "en"
+    }
+  ],
+  "full_text": "yeah desperately wants to get it but will not be given any chance and now Lui$ is just like you know what let me just back off right here if I can set up an Explosive Flame here we go so this is gonna be good with",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "luis",
+      "corrected": "Lui$",
+      "rule": "player name"
+    }
+  ]
+}

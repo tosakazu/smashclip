@@ -1,0 +1,73 @@
+{
+  "id": "e48fb7cb-aadc-4aae-9b06-bf227456ff25",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.6,
+      "text": "He should be done but he's way too tanky!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "追い詰めてるはずなのに硬すぎる"
+    },
+    {
+      "start": 2.6,
+      "end": 4.24,
+      "text": "How am I supposed to KO this Mario?!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "どうやって撃墜するんだよこのマリオ"
+    },
+    {
+      "start": 4.24,
+      "end": 6.78,
+      "text": "How is he surviving this?!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "なぜこんなに耐えられる"
+    },
+    {
+      "start": 6.78,
+      "end": 7.54,
+      "text": "Just like that!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "こうして"
+    },
+    {
+      "start": 7.54,
+      "end": 9.1,
+      "text": "Still in it!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "まだじゃない"
+    },
+    {
+      "start": 9.1,
+      "end": 11.36,
+      "text": "He's still hanging on but taking so much damage!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "まだ耐えるが痛いぞダメージ"
+    },
+    {
+      "start": 11.36,
+      "end": 14.1,
+      "text": "That edgeguard is insane!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "復帰阻止もうますぎる"
+    },
+    {
+      "start": 14.1,
+      "end": 16.2,
+      "text": "Seriously?!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "マジ"
+    }
+  ],
+  "full_text": "He should be done but he's way too tanky! How am I supposed to KO this Mario?! How is he surviving this?! Just like that! Still in it! He's still hanging on but taking so much damage! That edgeguard is insane! Seriously?!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

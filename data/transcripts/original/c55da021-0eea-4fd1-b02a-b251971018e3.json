@@ -1,0 +1,39 @@
+{
+  "id": "c55da021-0eea-4fd1-b02a-b251971018e3",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.14,
+      "text": "お互いの技",
+      "language": "ja"
+    },
+    {
+      "start": 2.14,
+      "end": 3.6,
+      "text": "特にクーティニー",
+      "language": "ja"
+    },
+    {
+      "start": 3.6,
+      "end": 6.3,
+      "text": "ここまで執拗に振っているということは",
+      "language": "ja"
+    },
+    {
+      "start": 6.3,
+      "end": 7.0,
+      "text": "そういうことでしょう",
+      "language": "ja"
+    }
+  ],
+  "full_text": "お互いの技 特にクーティニー ここまで執拗に振っているということは そういうことでしょう",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "必要に",
+      "corrected": "執拗に",
+      "rule": "misheard word"
+    }
+  ]
+}

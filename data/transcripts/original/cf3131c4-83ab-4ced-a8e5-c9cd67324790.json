@@ -1,0 +1,39 @@
+{
+  "id": "cf3131c4-83ab-4ced-a8e5-c9cd67324790",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.04,
+      "text": "てる展開でサイクロン暴れとかされの苦しいですね でもねやっぱされる側は早く技を当てたいんですよ",
+      "language": "ja"
+    },
+    {
+      "start": 6.04,
+      "end": 13.24,
+      "text": "はい だから引っかかっちゃうんですよね どうしても撃墜択を通さなければならない これもスプリング引っかかっているが",
+      "language": "ja"
+    },
+    {
+      "start": 13.24,
+      "end": 13.96,
+      "text": "なるほど",
+      "language": "ja"
+    }
+  ],
+  "full_text": "てる展開でサイクロン暴れとかされの苦しいですね でもねやっぱされる側は早く技を当てたいんですよ はい だから引っかかっちゃうんですよね どうしても撃墜択を通さなければならない これもスプリング引っかかっているが なるほど",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "サイコロ暴れ",
+      "corrected": "サイクロン暴れ",
+      "rule": "move name (Luigi down-B = サイクロン)"
+    },
+    {
+      "segment_idx": 1,
+      "original": "激推託を通さなければない",
+      "corrected": "撃墜択を通さなければならない",
+      "rule": "smash term (撃墜択=kill option)"
+    }
+  ]
+}

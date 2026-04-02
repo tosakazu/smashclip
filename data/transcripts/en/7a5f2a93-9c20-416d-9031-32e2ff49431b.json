@@ -1,0 +1,32 @@
+{
+  "id": "7a5f2a93-9c20-416d-9031-32e2ff49431b",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.36,
+      "text": "So Cinder Lion gets past the tough Meta Knight matchup, but...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあメタネットという強敵を乗り越えたシンダライオン選手ですが"
+    },
+    {
+      "start": 5.36,
+      "end": 10.42,
+      "text": "It's the same matchup as Winners Finals again!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "またしてもウィナーズファイナルと同じ組み合わせ"
+    }
+  ],
+  "full_text": "So Cinder Lion gets past the tough Meta Knight matchup, but... It's the same matchup as Winners Finals again!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "ふくさし",
+      "corrected": "組み合わせ",
+      "rule": "whisper misrecognition"
+    }
+  ]
+}

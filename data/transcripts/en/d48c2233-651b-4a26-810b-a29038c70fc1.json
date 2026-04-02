@@ -1,0 +1,62 @@
+{
+  "id": "d48c2233-651b-4a26-810b-a29038c70fc1",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Maintaining the winning momentum",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "勝った状況を継続するような"
+    },
+    {
+      "start": 2.0,
+      "end": 4.0,
+      "text": "Yeah, just holding shield",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあガード張り倒してる"
+    },
+    {
+      "start": 4.0,
+      "end": 5.0,
+      "text": "Bomb!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあボンプ"
+    },
+    {
+      "start": 5.0,
+      "end": 6.0,
+      "text": "Right here!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここ"
+    },
+    {
+      "start": 6.0,
+      "end": 8.0,
+      "text": "That was a perfect read!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "読み切りのグッドでした"
+    }
+  ],
+  "full_text": "Maintaining the winning momentum Yeah, just holding shield Bomb! Right here! That was a perfect read!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "カード張り倒してる",
+      "corrected": "ガード張り倒してる",
+      "rule": "smash term (カード→ガード)"
+    },
+    {
+      "segment_idx": 4,
+      "original": "グッズでした",
+      "corrected": "グッドでした",
+      "rule": "mishearing (グッズ→グッド)"
+    }
+  ]
+}

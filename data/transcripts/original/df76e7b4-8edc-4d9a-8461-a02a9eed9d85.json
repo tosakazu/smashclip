@@ -1,0 +1,39 @@
+{
+  "id": "df76e7b4-8edc-4d9a-8461-a02a9eed9d85",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.36,
+      "text": "一気に上スマッシュで撃墜まで狙っていこうというところだったんですけども",
+      "language": "ja"
+    },
+    {
+      "start": 4.36,
+      "end": 5.6,
+      "text": "スパーゴはしっかり分かっていました",
+      "language": "ja"
+    },
+    {
+      "start": 5.6,
+      "end": 8.84,
+      "text": "そしてこれはよく取り切った",
+      "language": "ja"
+    },
+    {
+      "start": 8.84,
+      "end": 10.56,
+      "text": "よく取り切ったこの流れ",
+      "language": "ja"
+    }
+  ],
+  "full_text": "一気に上スマッシュで撃墜まで狙っていこうというところだったんですけども スパーゴはしっかり分かっていました そしてこれはよく取り切った よく取り切ったこの流れ",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "スパーク",
+      "corrected": "スパーゴ",
+      "rule": "player name (Sparg0)"
+    }
+  ]
+}

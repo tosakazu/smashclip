@@ -1,0 +1,84 @@
+{
+  "id": "9ae67b98-0db8-4588-a86d-800be12a039d",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.44,
+      "text": "Here he comes!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "やってくるぞ"
+    },
+    {
+      "start": 0.44,
+      "end": 2.28,
+      "text": "He's got options here",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "タネルもある状況"
+    },
+    {
+      "start": 2.28,
+      "end": 5.94,
+      "text": "Dashing in with the throw!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここでダッシュから投げを通す"
+    },
+    {
+      "start": 5.94,
+      "end": 9.68,
+      "text": "Wants to finish it here, but...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "やりきりたいところですが"
+    },
+    {
+      "start": 9.68,
+      "end": 10.8,
+      "text": "Percent's just a bit short",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "パーセントが若干足りない"
+    },
+    {
+      "start": 10.8,
+      "end": 12.4,
+      "text": "Throw into neutral B!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "投げ通してNB"
+    },
+    {
+      "start": 12.4,
+      "end": 14.0,
+      "text": "Bair for the KO!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空後をここで通した撃墜"
+    }
+  ],
+  "full_text": "Here he comes! He's got options here Dashing in with the throw! Wants to finish it here, but... Percent's just a bit short Throw into neutral B! Bair for the KO!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "出しから",
+      "corrected": "ダッシュから",
+      "rule": "Whisper misheard"
+    },
+    {
+      "segment_idx": 6,
+      "original": "空中死",
+      "corrected": "空後",
+      "rule": "Whisper misheard move name"
+    },
+    {
+      "segment_idx": 6,
+      "original": "激戦",
+      "corrected": "撃墜",
+      "rule": "kanji homophone"
+    }
+  ]
+}

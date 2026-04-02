@@ -1,0 +1,40 @@
+{
+  "id": "7d129eb5-4355-466a-95f7-a0dd214acb6c",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.68,
+      "text": "Yeah, you can't grab that though, right?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いやーそうなんだね 掴めないですよねあれ"
+    },
+    {
+      "start": 1.68,
+      "end": 7.48,
+      "text": "From that Illusion setup we saw earlier, the down air mashing gets through",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "イリュージョンから先ほど見た展開ですが 空下の暴れが通ります"
+    },
+    {
+      "start": 7.48,
+      "end": 10.78,
+      "text": "Yeah, it's just an up smash",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いやーただの技で上スマッシュさあ"
+    }
+  ],
+  "full_text": "Yeah, you can't grab that though, right? From that Illusion setup we saw earlier, the down air mashing gets through Yeah, it's just an up smash",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "フィリュージョン",
+      "corrected": "イリュージョン",
+      "rule": "misheard: フィリュージョン→イリュージョン (Fox's side B)"
+    }
+  ]
+}

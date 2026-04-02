@@ -1,0 +1,45 @@
+{
+  "id": "7c4bfc97-1c35-429e-8f35-90177bc2f744",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.42,
+      "text": "コリンク",
+      "language": "ja"
+    },
+    {
+      "start": 0.42,
+      "end": 2.9,
+      "text": "1試合目からしっかりと当てていきました",
+      "language": "ja"
+    },
+    {
+      "start": 2.9,
+      "end": 5.4,
+      "text": "さあこれは崖上がり",
+      "language": "ja"
+    },
+    {
+      "start": 5.4,
+      "end": 6.48,
+      "text": "お互いに崖への圧",
+      "language": "ja"
+    },
+    {
+      "start": 6.48,
+      "end": 7.98,
+      "text": "出ますが",
+      "language": "ja"
+    }
+  ],
+  "full_text": "コリンク 1試合目からしっかりと当てていきました さあこれは崖上がり お互いに崖への圧 出ますが",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "コニック",
+      "corrected": "コリンク",
+      "rule": "player name: コニック→コリンク (コリンク1219)"
+    }
+  ]
+}

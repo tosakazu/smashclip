@@ -1,0 +1,84 @@
+{
+  "id": "2ba7dbf8-c002-47bd-a90d-15617a336bbb",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.2,
+      "text": "Moving to the opposite side",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "反対側に移動する判断です"
+    },
+    {
+      "start": 3.2,
+      "end": 3.96,
+      "text": "Oh!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "おっと"
+    },
+    {
+      "start": 3.96,
+      "end": 5.84,
+      "text": "since they dashed in",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ダッシュで近づいたから"
+    },
+    {
+      "start": 5.84,
+      "end": 7.32,
+      "text": "DI miss here!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここのベク変ミス"
+    },
+    {
+      "start": 7.32,
+      "end": 9.52,
+      "text": "Tough turnaround grab!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "難しい反転つかみ"
+    },
+    {
+      "start": 9.52,
+      "end": 12.12,
+      "text": "Against the moment that tempts a shield",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "このシールドを張りたくなる場面に対して"
+    },
+    {
+      "start": 12.12,
+      "end": 13.46,
+      "text": "Snow responds!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "対応するSnow"
+    }
+  ],
+  "full_text": "Moving to the opposite side. Oh! since they dashed in. DI miss here! Tough turnaround grab! Against the moment that tempts a shield. Snow responds!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "足で近づいたから",
+      "corrected": "ダッシュで近づいたから",
+      "rule": "misheard"
+    },
+    {
+      "segment_idx": 3,
+      "original": "ベストマッチ",
+      "corrected": "ベク変ミス",
+      "rule": "misheard: ベストマッチ→ベク変ミス"
+    },
+    {
+      "segment_idx": 6,
+      "original": "スノーバリオ",
+      "corrected": "Snow",
+      "rule": "player name: スノーバリオ→Snow"
+    }
+  ]
+}

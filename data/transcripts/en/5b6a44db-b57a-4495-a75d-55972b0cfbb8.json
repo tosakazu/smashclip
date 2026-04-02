@@ -1,0 +1,46 @@
+{
+  "id": "5b6a44db-b57a-4495-a75d-55972b0cfbb8",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.36,
+      "text": "While skillfully shutting down Ike's offense",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "アイクの攻めの策をうまいこと封じながら"
+    },
+    {
+      "start": 6.36,
+      "end": 10.3,
+      "text": "Jagabutter's Duck Hunt is steadily gaining the advantage",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "じわりじわりと試合の優位を取っているのはじゃがバターダックハント"
+    },
+    {
+      "start": 10.3,
+      "end": 12.36,
+      "text": "There's the bair!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここは空中後ろ"
+    }
+  ],
+  "full_text": "While skillfully shutting down Ike's offense Jagabutter's Duck Hunt is steadily gaining the advantage There's the bair!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "ジャガーバッターガックハント",
+      "corrected": "じゃがバターダックハント",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 2,
+      "original": "空中にしろ",
+      "corrected": "空中後ろ",
+      "rule": "move name"
+    }
+  ]
+}

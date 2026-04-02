@@ -1,0 +1,70 @@
+{
+  "id": "058ac47c-00cd-4d84-8dd6-98acace95a29",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.3,
+      "text": "He's angling the can at his opponent",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "缶を相手の方に向けながら"
+    },
+    {
+      "start": 3.3,
+      "end": 3.92,
+      "text": "and fires!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "撃ってますね"
+    },
+    {
+      "start": 3.92,
+      "end": 4.66,
+      "text": "That's a knockdown, so—",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これはダウンやから"
+    },
+    {
+      "start": 4.66,
+      "end": 6.46,
+      "text": "down smash!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "下スマ"
+    },
+    {
+      "start": 6.46,
+      "end": 7.74,
+      "text": "Insane DI!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ベクトルやっばい"
+    },
+    {
+      "start": 7.74,
+      "end": 9.34,
+      "text": "He can't recover from that!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "帰ってこれない"
+    }
+  ],
+  "full_text": "He's angling the can at his opponent and fires! That's a knockdown, so— down smash! Insane DI! He can't recover from that!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "艦を相手の方に向けながら",
+      "corrected": "缶を相手の方に向けながら",
+      "rule": "kanji homophone"
+    },
+    {
+      "segment_idx": 3,
+      "original": "シータースマッシュ",
+      "corrected": "下スマ",
+      "rule": "misheard move"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "79b2f542-20d3-41d2-abc0-edc3a0123379",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.16,
+      "text": "oh but still this back air just came out of nowhere left side and",
+      "language": "en"
+    },
+    {
+      "start": 5.76,
+      "end": 15.92,
+      "text": "it's scary gotta be super mindful of how mata recovers",
+      "language": "en"
+    }
+  ],
+  "full_text": "oh but still this back air just came out of nowhere left side and it's scary gotta be super mindful of how mata recovers",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "this party",
+      "corrected": "this back air",
+      "rule": "move name (空後)"
+    }
+  ]
+}

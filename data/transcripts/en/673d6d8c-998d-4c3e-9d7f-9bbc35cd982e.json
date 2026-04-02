@@ -1,0 +1,70 @@
+{
+  "id": "673d6d8c-998d-4c3e-9d7f-9bbc35cd982e",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "text": "Couldn't land another one!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "もう一発通らず"
+    },
+    {
+      "start": 1.0,
+      "end": 3.78,
+      "text": "Nice!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "うまい"
+    },
+    {
+      "start": 3.78,
+      "end": 5.16,
+      "text": "Resetting once more",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "もう一度仕切り直して"
+    },
+    {
+      "start": 5.16,
+      "end": 7.9,
+      "text": "The gamestate's kinda...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いやーちょっとゲーム面は"
+    },
+    {
+      "start": 7.9,
+      "end": 8.78,
+      "text": "insane",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "やばい"
+    },
+    {
+      "start": 8.78,
+      "end": 11.56,
+      "text": "From the Wind God Step...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "風神ステップからね"
+    }
+  ],
+  "full_text": "Couldn't land another one! Nice! Resetting once more. The gamestate's kinda... insane. From the Wind God Step...",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 3,
+      "original": "ゲームマンは",
+      "corrected": "ゲーム面は",
+      "rule": "misheard word"
+    },
+    {
+      "segment_idx": 5,
+      "original": "風神ステッカーをね",
+      "corrected": "風神ステップからね",
+      "rule": "Kazuya move name (風神ステップ)"
+    }
+  ]
+}

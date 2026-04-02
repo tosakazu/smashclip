@@ -1,0 +1,72 @@
+{
+  "id": "7a269c28-a4b6-47e3-a77f-fbe59a4a9e8b",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.14,
+      "text": "The dash attacks are coming out more and more",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ダッシュが心なしか増えているようにも思える"
+    },
+    {
+      "start": 2.14,
+      "end": 4.28,
+      "text": "Really ramping up those mixups",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "かなり読み合いに増やしていきましたよね"
+    },
+    {
+      "start": 4.28,
+      "end": 9.52,
+      "text": "Carefully breaking down that solid fireball wall",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ファイアボールで固めの壁を丁寧に壊しにいく"
+    },
+    {
+      "start": 9.52,
+      "end": 10.48,
+      "text": "No spacing",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ラインがない"
+    },
+    {
+      "start": 10.48,
+      "end": 13.08,
+      "text": "There it comes! Hits and connects with the fair!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "くる!当たったが空中前で対応接続"
+    },
+    {
+      "start": 13.08,
+      "end": 14.16,
+      "text": "Playing through the reads",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "読み合い果たしていく"
+    },
+    {
+      "start": 14.16,
+      "end": 15.26,
+      "text": "There! Right there!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "くる!今の!"
+    }
+  ],
+  "full_text": "The dash attacks are coming out more and more Really ramping up those mixups Carefully breaking down that solid fireball wall No spacing There it comes! Hits and connects with the fair! Playing through the reads There! Right there!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "大切",
+      "corrected": "ダッシュ",
+      "rule": "whisper misrecognition"
+    }
+  ]
+}

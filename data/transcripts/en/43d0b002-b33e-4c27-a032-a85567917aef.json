@@ -1,0 +1,25 @@
+{
+  "id": "43d0b002-b33e-4c27-a032-a85567917aef",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.9,
+      "text": "Wants to approach neutral with boomerang, cleanly using double jump to recover and chaining another boomerang",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ニュートラル外に出せブーメランと一緒に攻めていきたいが2段ジャンプきっちり使って上がった後もう1回ブーメランと複合"
+    },
+    {
+      "start": 6.9,
+      "end": 12.76,
+      "text": "Bombs and arrows combined to juggle, forcing the airdodge out of up B range",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "合わせて爆弾弓矢でジャグリングからの回避をさせて上B届かない位置"
+    }
+  ],
+  "full_text": "Wants to approach neutral with boomerang, cleanly using double jump to recover and chaining another boomerang Bombs and arrows combined to juggle, forcing the airdodge out of up B range",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

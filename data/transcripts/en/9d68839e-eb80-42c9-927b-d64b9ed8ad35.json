@@ -1,0 +1,33 @@
+{
+  "id": "9d68839e-eb80-42c9-927b-d64b9ed8ad35",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.44,
+      "text": "There we go!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "よし、当たる"
+    },
+    {
+      "start": 0.44,
+      "end": 3.22,
+      "text": "Off the aerial input",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空中入力だから"
+    },
+    {
+      "start": 3.22,
+      "end": 5.0,
+      "text": "And that's where it starts",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここはスタート"
+    }
+  ],
+  "full_text": "There we go! Off the aerial input And that's where it starts",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

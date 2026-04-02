@@ -1,0 +1,33 @@
+{
+  "id": "4cf5fec8-1b57-4a4e-9935-168358b3b173",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.84,
+      "text": "普通に強いんやな",
+      "language": "ja"
+    },
+    {
+      "start": 1.84,
+      "end": 4.16,
+      "text": "ともマグマブロックです",
+      "language": "ja"
+    },
+    {
+      "start": 14.5,
+      "end": 15.56,
+      "text": "さあ横強で仕留め",
+      "language": "ja"
+    }
+  ],
+  "full_text": "普通に強いんやな ともマグマブロックです さあ横強で仕留め",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "さあ横行で10秒",
+      "corrected": "さあ横強で仕留め",
+      "rule": "move abbreviation (横行→横強)"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "4a799e62-a1d9-4fde-937e-ce7fa18829d8",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.8,
+      "text": "He's hitting where it hurts!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "痛いところ掴んでいる"
+    },
+    {
+      "start": 1.8,
+      "end": 2.38,
+      "text": "From the front!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "前台から"
+    },
+    {
+      "start": 2.38,
+      "end": 5.5,
+      "text": "Nice!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "うまっ"
+    }
+  ],
+  "full_text": "He's hitting where it hurts! From the front! Nice!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

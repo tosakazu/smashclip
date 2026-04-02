@@ -1,0 +1,33 @@
+{
+  "id": "f08def54-6a82-41bb-8b7c-0fcf7844a79f",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.0,
+      "text": "Oh no, you were slipping on the wheel, ouch, where were you?",
+      "language": "en"
+    },
+    {
+      "start": 3.0,
+      "end": 9.0,
+      "text": "This is really rough, just remember like, 3 days ago, Raru went on a killing spree",
+      "language": "en"
+    },
+    {
+      "start": 9.0,
+      "end": 10.74,
+      "text": "on the crew battle, he took like 8",
+      "language": "en"
+    }
+  ],
+  "full_text": "Oh no, you were slipping on the wheel, ouch, where were you? This is really rough, just remember like, 3 days ago, Raru went on a killing spree on the crew battle, he took like 8",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "Raro",
+      "corrected": "Raru",
+      "rule": "player name"
+    }
+  ]
+}

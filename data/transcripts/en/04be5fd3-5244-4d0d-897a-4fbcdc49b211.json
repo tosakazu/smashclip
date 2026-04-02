@@ -1,0 +1,62 @@
+{
+  "id": "04be5fd3-5244-4d0d-897a-4fbcdc49b211",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.34,
+      "text": "His spacing is locked down here too",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここもカバー効いてる"
+    },
+    {
+      "start": 4.34,
+      "end": 6.88,
+      "text": "I see",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "なるほど"
+    },
+    {
+      "start": 6.88,
+      "end": 9.22,
+      "text": "Yeah, but that spacing is way off",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いやしかしそことがめちゃうの"
+    },
+    {
+      "start": 9.22,
+      "end": 9.96,
+      "text": "Recovery's coming in",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "セービング入って"
+    },
+    {
+      "start": 9.96,
+      "end": 10.86,
+      "text": "That's a shoryuken-type recovery",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これは昇竜系"
+    }
+  ],
+  "full_text": "His spacing is locked down here too I see Yeah, but that spacing is way off Recovery's coming in That's a shoryuken-type recovery",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 3,
+      "original": "セーリング入って",
+      "corrected": "セービング入って",
+      "rule": "misheard term"
+    },
+    {
+      "segment_idx": 4,
+      "original": "これは勝利系",
+      "corrected": "これは昇竜系",
+      "rule": "auto-rule"
+    }
+  ]
+}

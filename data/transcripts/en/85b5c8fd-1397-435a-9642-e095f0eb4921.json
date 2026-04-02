@@ -1,0 +1,46 @@
+{
+  "id": "85b5c8fd-1397-435a-9642-e095f0eb4921",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.62,
+      "text": "Yeah, razor-thin!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "でねー 紙一重"
+    },
+    {
+      "start": 3.62,
+      "end": 9.56,
+      "text": "Up air into nair for another hit—whoa!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空上空Nを経由してもう一発 うわぁ"
+    },
+    {
+      "start": 9.56,
+      "end": 12.66,
+      "text": "It connects! Man, this is incredible! Right—the up air!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "刺さってるからいやーこれはすばらしいなるほど空上"
+    }
+  ],
+  "full_text": "Yeah, razor-thin! Up air into nair for another hit—whoa! It connects! Man, this is incredible! Right—the up air!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "作上クエダイを経由してもう一発",
+      "corrected": "空上空Nを経由してもう一発",
+      "rule": "move name (作上→空上, クエダイ→空N)"
+    },
+    {
+      "segment_idx": 2,
+      "original": "さてるからいやーこれはすばらしいあるほど空",
+      "corrected": "刺さってるからいやーこれはすばらしいなるほど空上",
+      "rule": "misheard words"
+    }
+  ]
+}

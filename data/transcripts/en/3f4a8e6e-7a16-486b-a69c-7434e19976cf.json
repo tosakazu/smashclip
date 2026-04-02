@@ -1,0 +1,62 @@
+{
+  "id": "3f4a8e6e-7a16-486b-a69c-7434e19976cf",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.84,
+      "text": "I wonder if things would've gone completely different if that had connected",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "どこでも食えれば試合内容が変わっているのかな"
+    },
+    {
+      "start": 1.84,
+      "end": 5.94,
+      "text": "If we look at how Kuroshio took that KO race on the first stock",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "1ストック目の撃墜レースで黒船が成功した形を捉えれば"
+    },
+    {
+      "start": 5.94,
+      "end": 7.42,
+      "text": "Yeah, that's basically it",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "一応これですからね"
+    },
+    {
+      "start": 7.42,
+      "end": 14.84,
+      "text": "Whoa!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "うわあああああ"
+    },
+    {
+      "start": 14.84,
+      "end": 17.16,
+      "text": "Whoa!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "うわあああああ"
+    }
+  ],
+  "full_text": "I wonder if things would've gone completely different if that had connected If we look at how Kuroshio took that KO race on the first stock Yeah, that's basically it Whoa! Whoa!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "1スタック目",
+      "corrected": "1ストック目",
+      "rule": "Smash term: ストック (stock)"
+    },
+    {
+      "segment_idx": 1,
+      "original": "黒ひね",
+      "corrected": "黒船",
+      "rule": "player name: 黒船 (くろふね)"
+    }
+  ]
+}

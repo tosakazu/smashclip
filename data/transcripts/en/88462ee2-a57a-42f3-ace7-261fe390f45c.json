@@ -1,0 +1,72 @@
+{
+  "id": "88462ee2-a57a-42f3-ace7-261fe390f45c",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.38,
+      "text": "Goldo's also moving in",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ゴルドーとも見えていくんですが"
+    },
+    {
+      "start": 2.38,
+      "end": 3.74,
+      "text": "And Goldo's spacing game",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "このゴルドーの牽制も"
+    },
+    {
+      "start": 3.74,
+      "end": 5.76,
+      "text": "is cutting through really clean",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "かなりいやらしく通ってくる"
+    },
+    {
+      "start": 5.76,
+      "end": 8.82,
+      "text": "pushing them left here",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "左側に追い出そうかというところ"
+    },
+    {
+      "start": 8.82,
+      "end": 10.02,
+      "text": "Goldo connects with the hit!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これはゴルドーが当たってしまう"
+    },
+    {
+      "start": 10.02,
+      "end": 12.04,
+      "text": "Off the fair!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これは空中前"
+    },
+    {
+      "start": 12.04,
+      "end": 13.22,
+      "text": "That's the KO!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "当てる撃墜"
+    }
+  ],
+  "full_text": "Goldo's also moving in and Goldo's spacing game is cutting through really clean pushing them left here Goldo connects with the hit! Off the fair! That's the KO!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "このゴルドーの剣勢も",
+      "corrected": "このゴルドーの牽制も",
+      "rule": "kanji homophone (剣勢→牽制)"
+    }
+  ]
+}

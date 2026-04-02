@@ -1,0 +1,73 @@
+{
+  "id": "21d22de8-01a5-401a-803e-73dfc84e7235",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.3,
+      "text": "Into this juggle,",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "飛ばしてこの着地狩りですが"
+    },
+    {
+      "start": 2.3,
+      "end": 4.3,
+      "text": "Takes the nair heading down",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空Nで一旦降りで取ります"
+    },
+    {
+      "start": 4.3,
+      "end": 5.58,
+      "text": "Recovery, nair, beautiful!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "復帰、空N、いい！"
+    },
+    {
+      "start": 5.58,
+      "end": 8.06,
+      "text": "Landed solid damage!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いい火力稼いだ"
+    },
+    {
+      "start": 8.06,
+      "end": 10.06,
+      "text": "Well, this character's pretty light, you know",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "まあねゲッチはね体重自体は軽いですからね"
+    },
+    {
+      "start": 10.06,
+      "end": 11.24,
+      "text": "It's all percent from here",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここからパーセント"
+    },
+    {
+      "start": 11.24,
+      "end": 13.08,
+      "text": "Once the damage racks up enough",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "十分に貯められてしまうと"
+    },
+    {
+      "start": 13.08,
+      "end": 14.58,
+      "text": "One smash ends it",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "一スマッシュ"
+    }
+  ],
+  "full_text": "Into this juggle, Takes the nair heading down Recovery, nair, beautiful! Landed solid damage! Well, this character's pretty light, you know It's all percent from here Once the damage racks up enough One smash ends it",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

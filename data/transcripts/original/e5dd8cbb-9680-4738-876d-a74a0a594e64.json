@@ -1,0 +1,33 @@
+{
+  "id": "e5dd8cbb-9680-4738-876d-a74a0a594e64",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.3,
+      "text": "やりたい行動を潰していこうというところでしょうか",
+      "language": "ja"
+    },
+    {
+      "start": 2.3,
+      "end": 4.3,
+      "text": "上スマ打ちたき",
+      "language": "ja"
+    }
+  ],
+  "full_text": "やりたい行動を潰していこうというところでしょうか 上スマ打ちたき",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "やりたいコードを潰していこう",
+      "corrected": "やりたい行動を潰していこう",
+      "rule": "misheard: 行動"
+    },
+    {
+      "segment_idx": 1,
+      "original": "うえつまし打ちたき",
+      "corrected": "上スマ打ちたき",
+      "rule": "move abbreviation: 上スマ"
+    }
+  ]
+}

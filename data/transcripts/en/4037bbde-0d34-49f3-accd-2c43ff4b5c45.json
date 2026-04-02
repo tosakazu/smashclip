@@ -1,0 +1,41 @@
+{
+  "id": "4037bbde-0d34-49f3-accd-2c43ff4b5c45",
+  "segments": [
+    {
+      "start": 0.62,
+      "end": 2.02,
+      "text": "Ledge grab right there!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここは崖を掴んだ"
+    },
+    {
+      "start": 2.02,
+      "end": 6.96,
+      "text": "Punish that whiffed approach!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "攻撃引きかかりに対して復讐しろ"
+    },
+    {
+      "start": 6.96,
+      "end": 9.76,
+      "text": "Yeah",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "うん"
+    },
+    {
+      "start": 9.76,
+      "end": 11.24,
+      "text": "Mix up the timing",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここはタイミングをずらし"
+    }
+  ],
+  "full_text": "Ledge grab right there! Punish that whiffed approach! Yeah Mix up the timing",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

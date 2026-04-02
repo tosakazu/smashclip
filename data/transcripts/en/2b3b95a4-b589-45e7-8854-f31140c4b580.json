@@ -1,0 +1,80 @@
+{
+  "id": "2b3b95a4-b589-45e7-8854-f31140c4b580",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.28,
+      "text": "Up tilt to up air!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "上強 空上"
+    },
+    {
+      "start": 1.28,
+      "end": 3.82,
+      "text": "Couldn't connect with the IDJ up air and both—",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "IDJ空上で繋げなかった両者が"
+    },
+    {
+      "start": 3.82,
+      "end": 6.94,
+      "text": "Miya immediately switching the momentum!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "即座に展開入れ替えてくるMiya"
+    },
+    {
+      "start": 6.94,
+      "end": 8.86,
+      "text": "Back air!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空後"
+    },
+    {
+      "start": 8.86,
+      "end": 9.86,
+      "text": "DI in, going up!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "内変更で上"
+    }
+  ],
+  "full_text": "Up tilt to up air! Couldn't connect with the IDJ up air and both— Miya immediately switching the momentum! Back air! DI in, going up!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "上京空中上",
+      "corrected": "上強 空上",
+      "rule": "kanji homophone: 上京→上強"
+    },
+    {
+      "segment_idx": 1,
+      "original": "ロースが",
+      "corrected": "両者が",
+      "rule": "misheard: ロース→両者"
+    },
+    {
+      "segment_idx": 2,
+      "original": "ミニア",
+      "corrected": "Miya",
+      "rule": "player name: ミニア→Miya"
+    },
+    {
+      "segment_idx": 3,
+      "original": "空中後ろ",
+      "corrected": "空後",
+      "rule": "move abbrev"
+    },
+    {
+      "segment_idx": 4,
+      "original": "内偏向で上",
+      "corrected": "内変更で上",
+      "rule": "misheard: 偏向→変更 (ベク変)"
+    }
+  ]
+}

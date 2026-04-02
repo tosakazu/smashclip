@@ -1,0 +1,93 @@
+{
+  "id": "3bca2cad-b3f7-45f2-8356-ea019dfece4c",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.88,
+      "text": "あれ怖すぎなんですけど",
+      "language": "ja"
+    },
+    {
+      "start": 1.88,
+      "end": 3.9,
+      "text": "確かにダッシュアタックはちょっと使いやすいか",
+      "language": "ja"
+    },
+    {
+      "start": 3.9,
+      "end": 5.9,
+      "text": "いつ爆発する?あれ",
+      "language": "ja"
+    },
+    {
+      "start": 5.9,
+      "end": 8.8,
+      "text": "ここが空下の石",
+      "language": "ja"
+    },
+    {
+      "start": 8.8,
+      "end": 9.48,
+      "text": "止めていった",
+      "language": "ja"
+    },
+    {
+      "start": 9.48,
+      "end": 12.78,
+      "text": "ここがトロッコ",
+      "language": "ja"
+    },
+    {
+      "start": 12.78,
+      "end": 14.3,
+      "text": "崖の展開",
+      "language": "ja"
+    },
+    {
+      "start": 14.3,
+      "end": 15.32,
+      "text": "壁を建てる",
+      "language": "ja"
+    },
+    {
+      "start": 15.32,
+      "end": 16.38,
+      "text": "下から戻ってくるところ",
+      "language": "ja"
+    },
+    {
+      "start": 16.38,
+      "end": 17.2,
+      "text": "おー",
+      "language": "ja"
+    },
+    {
+      "start": 17.2,
+      "end": 18.22,
+      "text": "いやー",
+      "language": "ja"
+    },
+    {
+      "start": 18.22,
+      "end": 18.8,
+      "text": "あの展",
+      "language": "ja"
+    }
+  ],
+  "full_text": "あれ怖すぎなんですけど 確かにダッシュアタックはちょっと使いやすいか いつ爆発する?あれ ここが空下の石 止めていった ここがトロッコ 崖の展開 壁を建てる 下から戻ってくるところ おー いやー あの展",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 3,
+      "original": "空中死の石",
+      "corrected": "空下の石",
+      "rule": "misheard: 空中死→空下"
+    },
+    {
+      "segment_idx": 11,
+      "original": "あの天",
+      "corrected": "あの展",
+      "rule": "misheard: 天→展"
+    }
+  ]
+}

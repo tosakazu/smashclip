@@ -1,0 +1,20 @@
+{
+  "id": "acd80216-30a0-4fec-80ab-a168216a7af1",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 9.96,
+      "text": "oh there this could be this could be a little bit i do i see what you're saying chat",
+      "language": "en"
+    },
+    {
+      "start": 9.96,
+      "end": 15.88,
+      "text": "nk leo is definitely waiting let me take a look back see if he's getting his hand warm",
+      "language": "en"
+    }
+  ],
+  "full_text": "oh there this could be this could be a little bit i do i see what you're saying chat nk leo is definitely waiting let me take a look back see if he's getting his hand warm",
+  "detected_language": "en",
+  "corrections": []
+}

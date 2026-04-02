@@ -1,0 +1,27 @@
+{
+  "id": "5b0a4b08-1799-4a84-b9a6-1dec6e41d4f4",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.5,
+      "text": "ダックハント こういうところで考えれば今のように",
+      "language": "ja"
+    },
+    {
+      "start": 6.44,
+      "end": 11.14,
+      "text": "早めに上から復帰横スマッシュ",
+      "language": "ja"
+    }
+  ],
+  "full_text": "ダックハント こういうところで考えれば今のように 早めに上から復帰横スマッシュ",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "ダッグハンド",
+      "corrected": "ダックハント",
+      "rule": "character name"
+    }
+  ]
+}

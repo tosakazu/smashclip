@@ -1,0 +1,24 @@
+{
+  "id": "8a47efbe-f4f1-40bc-8407-382d4a2ebca4",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 8.68,
+      "text": "おーら一瞬で不利状況 ここで一旦ジャストシールドから様子見、引きつかみ通して前投げ",
+      "language": "ja"
+    },
+    {
+      "start": 8.68,
+      "end": 14.52,
+      "text": "ドローを出せられてしまった まるでそこで止まるんだよという",
+      "language": "ja"
+    }
+  ],
+  "full_text": "おーら一瞬で不利状況 ここで一旦ジャストシールドから様子見、引きつかみ通して前投げ ドローを出せられてしまった まるでそこで止まるんだよという",
+  "detected_language": "ja",
+  "corrections": [
+    "振り状況→不利状況 (disadvantage state, kanji homophone)",
+    "様子見え→様子見 (observation, extra え removed)",
+    "前だけ→前投げ (forward throw)"
+  ]
+}

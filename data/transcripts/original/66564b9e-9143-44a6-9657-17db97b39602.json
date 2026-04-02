@@ -1,0 +1,57 @@
+{
+  "id": "66564b9e-9143-44a6-9657-17db97b39602",
+  "segments": [
+    {
+      "start": 0.46,
+      "end": 2.34,
+      "text": "横強攻撃そのままにぴったり",
+      "language": "ja"
+    },
+    {
+      "start": 2.34,
+      "end": 3.7,
+      "text": "はめるではないので",
+      "language": "ja"
+    },
+    {
+      "start": 3.7,
+      "end": 5.1,
+      "text": "ギリ生存しますが",
+      "language": "ja"
+    },
+    {
+      "start": 5.1,
+      "end": 5.4,
+      "text": "ここ",
+      "language": "ja"
+    },
+    {
+      "start": 5.4,
+      "end": 6.76,
+      "text": "引き空中前",
+      "language": "ja"
+    },
+    {
+      "start": 6.76,
+      "end": 6.96,
+      "text": "はい",
+      "language": "ja"
+    }
+  ],
+  "full_text": "横強攻撃そのままにぴったり はめるではないので ギリ生存しますが ここ 引き空中前 はい",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "陽光強攻撃",
+      "corrected": "横強攻撃",
+      "rule": "kanji homophone (ようこう→よここう)"
+    },
+    {
+      "segment_idx": 4,
+      "original": "四季空中前",
+      "corrected": "引き空中前",
+      "rule": "misheard word"
+    }
+  ]
+}

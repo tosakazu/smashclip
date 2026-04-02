@@ -1,0 +1,41 @@
+{
+  "id": "4f4974f8-53da-44f0-9672-30e882e2fb94",
+  "segments": [
+    {
+      "start": 0.56,
+      "end": 5.26,
+      "text": "Despite Dr. Mario's weak recovery, he's making it back!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "帰ってくるドクターマリオの復帰弱者ながらの"
+    },
+    {
+      "start": 5.26,
+      "end": 9.56,
+      "text": "All the essence of that recovery is packed right here!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "その復帰の全ての粋がここに詰まっているような"
+    },
+    {
+      "start": 9.56,
+      "end": 10.96,
+      "text": "Incredible!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "うまー"
+    },
+    {
+      "start": 10.96,
+      "end": 12.1,
+      "text": "Up!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "上に"
+    }
+  ],
+  "full_text": "Despite Dr. Mario's weak recovery, he's making it back! All the essence of that recovery is packed right here! Incredible! Up!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

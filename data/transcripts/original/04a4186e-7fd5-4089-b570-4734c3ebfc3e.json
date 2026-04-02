@@ -1,0 +1,56 @@
+{
+  "id": "04a4186e-7fd5-4089-b570-4734c3ebfc3e",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.76,
+      "text": "マジで見逃さない",
+      "language": "ja"
+    },
+    {
+      "start": 0.76,
+      "end": 3.38,
+      "text": "さあピンチはチャンス",
+      "language": "ja"
+    },
+    {
+      "start": 3.38,
+      "end": 4.06,
+      "text": "チャンスはピンチ",
+      "language": "ja"
+    },
+    {
+      "start": 4.06,
+      "end": 4.88,
+      "text": "おっとソード出した",
+      "language": "ja"
+    },
+    {
+      "start": 4.88,
+      "end": 5.02,
+      "text": "あれ",
+      "language": "ja"
+    },
+    {
+      "start": 5.02,
+      "end": 6.52,
+      "text": "これは多分届かないですね",
+      "language": "ja"
+    },
+    {
+      "start": 6.52,
+      "end": 7.96,
+      "text": "うまい道連れ",
+      "language": "ja"
+    },
+    {
+      "start": 7.96,
+      "end": 8.58,
+      "text": "これこれ",
+      "language": "ja"
+    }
+  ],
+  "full_text": "マジで見逃さない さあピンチはチャンス チャンスはピンチ おっとソード出した あれ これは多分届かないですね うまい道連れ これこれ",
+  "detected_language": "ja",
+  "corrections": []
+}

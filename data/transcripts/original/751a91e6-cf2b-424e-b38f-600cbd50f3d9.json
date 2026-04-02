@@ -1,0 +1,45 @@
+{
+  "id": "751a91e6-cf2b-424e-b38f-600cbd50f3d9",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.6,
+      "text": "さあこれ追いつけるのか?",
+      "language": "ja"
+    },
+    {
+      "start": 4.24,
+      "end": 6.94,
+      "text": "トリック側が対スティーブでやりたい展開になってますからね",
+      "language": "ja"
+    },
+    {
+      "start": 6.94,
+      "end": 8.84,
+      "text": "さああcola選手当てられます",
+      "language": "ja"
+    },
+    {
+      "start": 8.84,
+      "end": 9.84,
+      "text": "わあああああああ",
+      "language": "ja"
+    },
+    {
+      "start": 9.84,
+      "end": 10.4,
+      "text": "ダーゲット",
+      "language": "ja"
+    }
+  ],
+  "full_text": "さあこれ追いつけるのか? トリック側が対スティーブでやりたい展開になってますからね さああcola選手当てられます わあああああああ ダーゲット",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "コーラス選手",
+      "corrected": "あcola選手",
+      "rule": "player name"
+    }
+  ]
+}

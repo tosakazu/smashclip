@@ -1,0 +1,49 @@
+{
+  "id": "0e53f3dc-ab7c-4456-8c97-ee10d6d83055",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.68,
+      "text": "I think they're about even in terms of character power though",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "キャラパワーは同じくらいだと思うんですけど"
+    },
+    {
+      "start": 3.68,
+      "end": 4.92,
+      "text": "Pretty contrasting matchups though",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "結構対照的ですね"
+    },
+    {
+      "start": 4.92,
+      "end": 7.24,
+      "text": "Apparently Pajuni's pretty strong",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "意外とパジュニは強いらしいけど"
+    },
+    {
+      "start": 7.24,
+      "end": 9.54,
+      "text": "I mean, I think it's strong myself too, honestly",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "強いらしいというか俺も強いと思ってるんだけど"
+    },
+    {
+      "start": 9.54,
+      "end": 13.0,
+      "text": "Buff",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "強化"
+    }
+  ],
+  "full_text": "I think they're about even in terms of character power though Pretty contrasting matchups though Apparently Pajuni's pretty strong I mean, I think it's strong myself too, honestly Buff",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

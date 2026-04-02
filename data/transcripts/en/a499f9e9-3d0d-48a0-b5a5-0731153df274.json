@@ -1,0 +1,47 @@
+{
+  "id": "a499f9e9-3d0d-48a0-b5a5-0731153df274",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.26,
+      "text": "Right after the spin shifts positioning, hunting with bair, like—",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "スピンとかでラインが入れ替わった直後に空中後ろで狩るっていう"
+    },
+    {
+      "start": 3.26,
+      "end": 5.54,
+      "text": "That's the Sonic matchup, right?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ソニック対策ですよね"
+    },
+    {
+      "start": 5.54,
+      "end": 7.3,
+      "text": "Yamanaktion's showing it too",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ヤマナクション選手も見せていく"
+    },
+    {
+      "start": 7.3,
+      "end": 13.12,
+      "text": "Building damage from spin into nair, forcing those air dodges—",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "スピンからの空中ニュートラル火力を伸ばして回避させて空中"
+    }
+  ],
+  "full_text": "Right after the spin shifts positioning, hunting with bair, like— That's the Sonic matchup, right? Yamanaktion's showing it too Building damage from spin into nair, forcing those air dodges—",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "original": "山中ちゃん選手",
+      "corrected": "ヤマナクション選手",
+      "reason": "プレイヤー名ヤマナクション"
+    }
+  ]
+}

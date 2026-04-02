@@ -1,0 +1,32 @@
+{
+  "id": "6fc97581-05f1-4c06-b067-bdb0068e73c1",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.8,
+      "text": "さあこれは上に投げて",
+      "language": "ja"
+    },
+    {
+      "start": 4.8,
+      "end": 8.26,
+      "text": "フェイスタスの圧をかけていくんですが",
+      "language": "ja"
+    },
+    {
+      "start": 8.26,
+      "end": 9.96,
+      "text": "さあ仕掛けた",
+      "language": "ja"
+    }
+  ],
+  "full_text": "さあこれは上に投げて フェイスタスの圧をかけていくんですが さあ仕掛けた",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_index": 2,
+      "original": "さあしがえだ",
+      "corrected": "さあ仕掛けた"
+    }
+  ]
+}

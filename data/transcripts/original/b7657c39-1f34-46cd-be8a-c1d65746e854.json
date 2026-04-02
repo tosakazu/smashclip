@@ -1,0 +1,26 @@
+{
+  "id": "b7657c39-1f34-46cd-be8a-c1d65746e854",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.38,
+      "text": "目鏡走って追いかけて",
+      "language": "ja"
+    },
+    {
+      "start": 2.38,
+      "end": 3.64,
+      "text": "目鏡攻撃を見ると",
+      "language": "ja"
+    },
+    {
+      "start": 3.64,
+      "end": 5.28,
+      "text": "笛途中で",
+      "language": "ja"
+    }
+  ],
+  "full_text": "目鏡走って追いかけて 目鏡攻撃を見ると 笛途中で",
+  "detected_language": "ja",
+  "corrections": []
+}

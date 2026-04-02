@@ -1,0 +1,43 @@
+{
+  "id": "712fd7fe-e967-4afb-bf4a-9fd5b8b5ab8b",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.22,
+      "text": "爆弾下投げからの空上通して",
+      "language": "ja"
+    },
+    {
+      "start": 5.22,
+      "end": 6.82,
+      "text": "展開作って反転空後",
+      "language": "ja"
+    },
+    {
+      "start": 6.82,
+      "end": 9.26,
+      "text": "もう一回爆弾持っているが",
+      "language": "ja"
+    },
+    {
+      "start": 9.26,
+      "end": 12.04,
+      "text": "あえて回転切り復帰に対して",
+      "language": "ja"
+    }
+  ],
+  "full_text": "爆弾下投げからの空上通して 展開作って反転空後 もう一回爆弾持っているが あえて回転切り復帰に対して",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_index": 0,
+      "original": "爆弾したねからの空中城通して",
+      "corrected": "爆弾下投げからの空上通して"
+    },
+    {
+      "segment_index": 1,
+      "original": "展開作って反転空中城",
+      "corrected": "展開作って反転空後"
+    }
+  ]
+}

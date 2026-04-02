@@ -1,0 +1,51 @@
+{
+  "id": "7ec01560-d213-4c14-a520-7c473fc4af96",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.96,
+      "text": "ロボットが上から帰るのも空上で許さない",
+      "language": "ja"
+    },
+    {
+      "start": 2.96,
+      "end": 5.1,
+      "text": "Yauraが一歩引いたところで",
+      "language": "ja"
+    },
+    {
+      "start": 5.1,
+      "end": 7.8,
+      "text": "あらゆる択に対して対応できる位置で待っている",
+      "language": "ja"
+    },
+    {
+      "start": 7.8,
+      "end": 10.42,
+      "text": "上強をしっかりと",
+      "language": "ja"
+    }
+  ],
+  "full_text": "ロボットが上から帰るのも空上で許さない Yauraが一歩引いたところで あらゆる択に対して対応できる位置で待っている 上強をしっかりと",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "空中上",
+      "corrected": "空上",
+      "rule": "abbreviation: 空中上→空上"
+    },
+    {
+      "segment_idx": 1,
+      "original": "矢浦",
+      "corrected": "Yaura",
+      "rule": "player name: 矢浦→Yaura"
+    },
+    {
+      "segment_idx": 2,
+      "original": "タク",
+      "corrected": "択",
+      "rule": "katakana→kanji: タク→択"
+    }
+  ]
+}

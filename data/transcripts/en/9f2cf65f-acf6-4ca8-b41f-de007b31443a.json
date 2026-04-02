@@ -1,0 +1,49 @@
+{
+  "id": "9f2cf65f-acf6-4ca8-b41f-de007b31443a",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.8,
+      "text": "Dash attack spacing comes up just short",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ダッシュアタックその足は少し届かない"
+    },
+    {
+      "start": 1.8,
+      "end": 2.86,
+      "text": "Launches them!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "浮かせた"
+    },
+    {
+      "start": 2.86,
+      "end": 5.76,
+      "text": "Would've been tasty if that linked into the up B, but...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "美味しい展開上Bまで繋がればというところだったんですけれども"
+    },
+    {
+      "start": 5.76,
+      "end": 6.4,
+      "text": "Here",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここは"
+    },
+    {
+      "start": 6.4,
+      "end": 8.66,
+      "text": "Takes to the air",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "下りの空中へ"
+    }
+  ],
+  "full_text": "Dash attack spacing comes up just short Launches them! Would've been tasty if that linked into the up B, but... Here Takes to the air",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

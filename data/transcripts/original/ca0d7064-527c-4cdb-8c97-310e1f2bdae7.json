@@ -1,0 +1,51 @@
+{
+  "id": "ca0d7064-527c-4cdb-8c97-310e1f2bdae7",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.14,
+      "text": "復帰阻止しきって",
+      "language": "ja"
+    },
+    {
+      "start": 2.14,
+      "end": 4.28,
+      "text": "うっちー選手1ストック先取",
+      "language": "ja"
+    },
+    {
+      "start": 4.28,
+      "end": 5.64,
+      "text": "しかし最速風神拳",
+      "language": "ja"
+    },
+    {
+      "start": 5.64,
+      "end": 7.38,
+      "text": "これは?",
+      "language": "ja"
+    },
+    {
+      "start": 7.72,
+      "end": 9.02,
+      "text": "撃墜まで?いくのか?",
+      "language": "ja"
+    },
+    {
+      "start": 9.3,
+      "end": 11.54,
+      "text": "いくー!いっちゃったねー",
+      "language": "ja"
+    }
+  ],
+  "full_text": "復帰阻止しきって うっちー選手1ストック先取 しかし最速風神拳 これは? 撃墜まで?いくのか? いくー!いっちゃったねー",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "うっちぃ選手1ストック選手",
+      "corrected": "うっちー選手1ストック先取",
+      "rule": "mishearing (先取)"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "e6b016b2-7392-43ab-8766-fff27291787e",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 17.68,
+      "text": "Next time!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "次回予告"
+    }
+  ],
+  "full_text": "Next time!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

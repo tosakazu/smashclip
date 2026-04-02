@@ -1,0 +1,20 @@
+{
+  "id": "cb18bf70-af22-47c2-a92a-e06b1f260d70",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.94,
+      "text": "ではありますが 何を狙っていくか",
+      "language": "ja"
+    },
+    {
+      "start": 2.94,
+      "end": 8.36,
+      "text": "カードとしてはなぁどうしてもこの近距離1本でいくカード",
+      "language": "ja"
+    }
+  ],
+  "full_text": "ではありますが 何を狙っていくか カードとしてはなぁどうしてもこの近距離1本でいくカード",
+  "detected_language": "ja",
+  "corrections": []
+}

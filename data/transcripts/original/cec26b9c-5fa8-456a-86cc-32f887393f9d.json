@@ -1,0 +1,81 @@
+{
+  "id": "cec26b9c-5fa8-456a-86cc-32f887393f9d",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.58,
+      "text": "大福選手側",
+      "language": "ja"
+    },
+    {
+      "start": 0.58,
+      "end": 3.4,
+      "text": "ここでしゃがみ捨てに当てるが",
+      "language": "ja"
+    },
+    {
+      "start": 3.4,
+      "end": 4.72,
+      "text": "上強からウィッチツイスト",
+      "language": "ja"
+    },
+    {
+      "start": 4.72,
+      "end": 6.78,
+      "text": "抜け出し位置に対して追いかける",
+      "language": "ja"
+    },
+    {
+      "start": 6.78,
+      "end": 8.14,
+      "text": "読み合いが発生します",
+      "language": "ja"
+    },
+    {
+      "start": 8.14,
+      "end": 11.72,
+      "text": "このずらし対応というところもね",
+      "language": "ja"
+    },
+    {
+      "start": 11.72,
+      "end": 13.64,
+      "text": "たまP大福選手側に必要になってきますね",
+      "language": "ja"
+    },
+    {
+      "start": 13.64,
+      "end": 14.06,
+      "text": "そうですね",
+      "language": "ja"
+    },
+    {
+      "start": 14.06,
+      "end": 18.24,
+      "text": "金床はなんとこの撃墜だ",
+      "language": "ja"
+    },
+    {
+      "start": 18.24,
+      "end": 21.24,
+      "text": "あそこまで降りかけた",
+      "language": "ja"
+    }
+  ],
+  "full_text": "大福選手側 ここでしゃがみ捨てに当てるが 上強からウィッチツイスト 抜け出し位置に対して追いかける 読み合いが発生します このずらし対応というところもね たまP大福選手側に必要になってきますね そうですね 金床はなんとこの撃墜だ あそこまで降りかけた",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "上京からウィッチツイスト",
+      "corrected": "上強からウィッチツイスト",
+      "rule": "smash term (上強=up tilt)"
+    },
+    {
+      "segment_idx": 6,
+      "original": "玉木大福選手側",
+      "corrected": "たまP大福選手側",
+      "rule": "player name (たまPだいふく)"
+    }
+  ]
+}

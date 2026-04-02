@@ -1,0 +1,57 @@
+{
+  "id": "bf0ab219-6ca8-4782-b346-5d12399451f3",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.28,
+      "text": "ここから倒すには時間をしっかり使う必要がありそうですね",
+      "language": "ja"
+    },
+    {
+      "start": 3.28,
+      "end": 5.16,
+      "text": "時間を使いつつ読み合い",
+      "language": "ja"
+    },
+    {
+      "start": 5.16,
+      "end": 5.76,
+      "text": "まずい捕まった",
+      "language": "ja"
+    },
+    {
+      "start": 5.76,
+      "end": 8.3,
+      "text": "これはファイヤー確定パーティー",
+      "language": "ja"
+    },
+    {
+      "start": 8.3,
+      "end": 11.18,
+      "text": "圧倒的だ",
+      "language": "ja"
+    },
+    {
+      "start": 11.18,
+      "end": 14.76,
+      "text": "こいつを崇めろ",
+      "language": "ja"
+    }
+  ],
+  "full_text": "ここから倒すには時間をしっかり使う必要がありそうですね 時間を使いつつ読み合い まずい捕まった これはファイヤー確定パーティー 圧倒的だ こいつを崇めろ",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "読み上げ",
+      "corrected": "読み合い",
+      "rule": "smash term"
+    },
+    {
+      "segment_idx": 3,
+      "original": "ファイヤーキャンパーティー",
+      "corrected": "ファイヤー確定パーティー",
+      "rule": "misheard phrase"
+    }
+  ]
+}

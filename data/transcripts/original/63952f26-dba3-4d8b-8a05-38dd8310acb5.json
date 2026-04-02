@@ -1,0 +1,69 @@
+{
+  "id": "63952f26-dba3-4d8b-8a05-38dd8310acb5",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.36,
+      "text": "That's where JuiceGoose seems to be going.",
+      "language": "en"
+    },
+    {
+      "start": 1.58,
+      "end": 3.54,
+      "text": "He's behind his projectiles.",
+      "language": "en"
+    },
+    {
+      "start": 3.92,
+      "end": 4.66,
+      "text": "He's got it.",
+      "language": "en"
+    },
+    {
+      "start": 5.02,
+      "end": 6.48,
+      "text": "Oh, we need to see a d-air kill here.",
+      "language": "en"
+    },
+    {
+      "start": 6.66,
+      "end": 7.32,
+      "text": "Man, that's going to be bad.",
+      "language": "en"
+    },
+    {
+      "start": 7.98,
+      "end": 10.6,
+      "text": "See, an Inkling famously cannot pose a scar.",
+      "language": "en"
+    },
+    {
+      "start": 11.3,
+      "end": 12.28,
+      "text": "But back here, they're back here.",
+      "language": "en"
+    },
+    {
+      "start": 12.28,
+      "end": 13.12,
+      "text": "They're going to do an actual.",
+      "language": "en"
+    }
+  ],
+  "full_text": "That's where JuiceGoose seems to be going. He's behind his projectiles. He's got it. Oh, we need to see a d-air kill here. Man, that's going to be bad. See, an Inkling famously cannot pose a scar. But back here, they're back here. They're going to do an actual.",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "JuiceBee",
+      "corrected": "JuiceGoose",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 3,
+      "original": "a dead ritual",
+      "corrected": "a d-air kill",
+      "rule": "misheard Smash term"
+    }
+  ]
+}

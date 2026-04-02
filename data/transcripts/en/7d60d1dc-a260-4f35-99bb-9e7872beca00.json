@@ -1,0 +1,86 @@
+{
+  "id": "7d60d1dc-a260-4f35-99bb-9e7872beca00",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.1,
+      "text": "But you already know that",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "しかしそれは分かっているでしょう"
+    },
+    {
+      "start": 2.1,
+      "end": 3.18,
+      "text": "TamaP and Daifuku as well",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "たまPだいふく選手も"
+    },
+    {
+      "start": 3.18,
+      "end": 3.82,
+      "text": "Here we go!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあ出たぞ"
+    },
+    {
+      "start": 3.82,
+      "end": 4.72,
+      "text": "Diamond",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ダイヤモンド"
+    },
+    {
+      "start": 4.72,
+      "end": 6.2,
+      "text": "Fully charged!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "装填完了"
+    },
+    {
+      "start": 6.2,
+      "end": 8.92,
+      "text": "Time to counterattack!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "反撃の準備は整える"
+    },
+    {
+      "start": 8.92,
+      "end": 11.92,
+      "text": "161%",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "161%"
+    },
+    {
+      "start": 11.92,
+      "end": 15.52,
+      "text": "Forward smash for the KO!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "この上スマッシュは横スマッシュで撃墜"
+    }
+  ],
+  "full_text": "But you already know that TamaP and Daifuku as well Here we go! Diamond Fully charged! Time to counterattack! 161% Forward smash for the KO!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "タマピーダイク選手",
+      "corrected": "たまPだいふく選手",
+      "rule": "player name: タマピーダイク→たまPだいふく"
+    },
+    {
+      "segment_idx": 3,
+      "original": "ダイヤマンド",
+      "corrected": "ダイヤモンド",
+      "rule": "misheard: ダイヤマンド→ダイヤモンド (Steve's diamond)"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "60ff1bae-48da-450f-b997-c14f2b8bcf79",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.68,
+      "text": "3対3 ストックは動かずそのままです",
+      "language": "ja"
+    },
+    {
+      "start": 3.68,
+      "end": 4.96,
+      "text": "空中前で切り返して",
+      "language": "ja"
+    },
+    {
+      "start": 4.96,
+      "end": 8.28,
+      "text": "いやー シックでねー",
+      "language": "ja"
+    },
+    {
+      "start": 8.28,
+      "end": 10.9,
+      "text": "芸術的な いやー空中前の復帰阻止",
+      "language": "ja"
+    },
+    {
+      "start": 10.9,
+      "end": 11.48,
+      "text": "あれだった",
+      "language": "ja"
+    }
+  ],
+  "full_text": "3対3 ストックは動かずそのままです 空中前で切り返して いやー シックでねー 芸術的な いやー空中前の復帰阻止 あれだった",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "動かすならんたままです",
+      "corrected": "動かずそのままです",
+      "rule": "misheard phrase"
+    }
+  ]
+}

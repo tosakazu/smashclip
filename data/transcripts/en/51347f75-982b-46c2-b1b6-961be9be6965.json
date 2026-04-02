@@ -1,0 +1,38 @@
+{
+  "id": "51347f75-982b-46c2-b1b6-961be9be6965",
+  "segments": [
+    {
+      "start": 0.34,
+      "end": 2.3,
+      "text": "What will Mairudo choose?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "マイルドは何を選択してくるか"
+    },
+    {
+      "start": 2.3,
+      "end": 5.02,
+      "text": "And that's a KO!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そしてヤマナクションここで踏み落としたで撃墜"
+    }
+  ],
+  "full_text": "What will Mairudo choose? And that's a KO!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "マイファー",
+      "corrected": "マイルド",
+      "rule": "player name: マイルドなH.O"
+    },
+    {
+      "segment_idx": 1,
+      "original": "踏み崩した",
+      "corrected": "踏み落とした",
+      "rule": "misheard word"
+    }
+  ]
+}

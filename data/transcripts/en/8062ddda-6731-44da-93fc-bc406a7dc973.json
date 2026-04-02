@@ -1,0 +1,84 @@
+{
+  "id": "8062ddda-6731-44da-93fc-bc406a7dc973",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Taking the lead!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "トップする形"
+    },
+    {
+      "start": 2.0,
+      "end": 4.0,
+      "text": "Down tilt, naturally DI away",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "下強、当然外変更"
+    },
+    {
+      "start": 4.0,
+      "end": 6.0,
+      "text": "Incredible!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "素晴らしい"
+    },
+    {
+      "start": 6.0,
+      "end": 8.0,
+      "text": "Perfect timing!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "タイミングバッチリ"
+    },
+    {
+      "start": 8.0,
+      "end": 10.0,
+      "text": "Caught the startup with up air!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "動き出しを捉えた空中上から"
+    },
+    {
+      "start": 10.0,
+      "end": 12.0,
+      "text": "Shuton takes stage control!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ライン有利を奪ったしゅーとん"
+    },
+    {
+      "start": 12.0,
+      "end": 14.0,
+      "text": "Up air, the dodge escapes!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空中上、ここは上に回避を通し"
+    }
+  ],
+  "full_text": "Taking the lead! Down tilt, naturally DI away Incredible! Perfect timing! Caught the startup with up air! Shuton takes stage control! Up air, the dodge escapes!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 4,
+      "original": "動き出しを捉えた空中城から",
+      "corrected": "動き出しを捉えた空中上から",
+      "rule": "kanji homophone"
+    },
+    {
+      "segment_idx": 5,
+      "original": "ライン有利を奪ったシュート",
+      "corrected": "ライン有利を奪ったしゅーとん",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 6,
+      "original": "空中城、ここは上人へ回避を通し",
+      "corrected": "空中上、ここは上に回避を通し",
+      "rule": "kanji homophone"
+    }
+  ]
+}

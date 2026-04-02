@@ -1,0 +1,123 @@
+{
+  "id": "8c49c789-77f4-45ef-9b0a-8703438b7252",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.94,
+      "text": "Shield came in!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "シールドが間に合って"
+    },
+    {
+      "start": 0.94,
+      "end": 2.16,
+      "text": "Locked it down!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "固めきって"
+    },
+    {
+      "start": 2.16,
+      "end": 2.76,
+      "text": "Caught the sourspot!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "弱ヒットを拾って"
+    },
+    {
+      "start": 2.76,
+      "end": 3.18,
+      "text": "Up smash!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "上スマッシュ"
+    },
+    {
+      "start": 3.18,
+      "end": 4.5,
+      "text": "Damage mounting slow",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "じわりじわりと"
+    },
+    {
+      "start": 4.5,
+      "end": 5.62,
+      "text": "Percentage keeps building",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "パーセントが追いついてきたか"
+    },
+    {
+      "start": 5.62,
+      "end": 7.42,
+      "text": "From this spacing",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "この間合い"
+    },
+    {
+      "start": 7.42,
+      "end": 8.0,
+      "text": "Whoa!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "おっと"
+    },
+    {
+      "start": 8.0,
+      "end": 9.02,
+      "text": "No way!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "無理やろそれ"
+    },
+    {
+      "start": 9.02,
+      "end": 9.66,
+      "text": "Out of the grab!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "投げ抜けから"
+    },
+    {
+      "start": 9.66,
+      "end": 10.96,
+      "text": "Parry!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ジャストシールド"
+    },
+    {
+      "start": 10.96,
+      "end": 12.02,
+      "text": "Oh wow!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "おーまい"
+    },
+    {
+      "start": 12.02,
+      "end": 12.88,
+      "text": "That's incredible!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "お見事"
+    },
+    {
+      "start": 12.88,
+      "end": 13.88,
+      "text": "Indeed!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "なるほど"
+    }
+  ],
+  "full_text": "Shield came in! Locked it down! Caught the sourspot! Up smash! Damage mounting slow Percentage keeps building From this spacing Whoa! No way! Out of the grab! Parry! Oh wow! That's incredible! Indeed!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    "シャケット→弱ヒット (jab hit, Ryu's jab connecting into combo)"
+  ]
+}

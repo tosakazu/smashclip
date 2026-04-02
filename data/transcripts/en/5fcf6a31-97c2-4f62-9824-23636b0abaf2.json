@@ -1,0 +1,86 @@
+{
+  "id": "5fcf6a31-97c2-4f62-9824-23636b0abaf2",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.02,
+      "text": "Dodging it all!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "避けてるこれも避ける"
+    },
+    {
+      "start": 1.02,
+      "end": 3.64,
+      "text": "He's reading it!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "見ているぞ"
+    },
+    {
+      "start": 3.64,
+      "end": 4.86,
+      "text": "He's reading it!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "見ているぞ"
+    },
+    {
+      "start": 4.86,
+      "end": 6.84,
+      "text": "He sees it!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "見ている"
+    },
+    {
+      "start": 6.84,
+      "end": 8.24,
+      "text": "Oh!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "おー"
+    },
+    {
+      "start": 8.24,
+      "end": 10.8,
+      "text": "The dair got him!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "今の空下によったんですけど"
+    },
+    {
+      "start": 10.8,
+      "end": 12.24,
+      "text": "Oh! The dair connects!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "おーここで空下のインパクト"
+    },
+    {
+      "start": 12.24,
+      "end": 14.28,
+      "text": "Wait, that...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いや今の"
+    }
+  ],
+  "full_text": "Dodging it all! He's reading it! He's reading it! He sees it! Oh! The dair got him! Oh! The dair connects! Wait, that...",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 5,
+      "original": "空母に酔った",
+      "corrected": "空下によった",
+      "rule": "smash term (空下)"
+    },
+    {
+      "segment_idx": 6,
+      "original": "ツラのインタクト",
+      "corrected": "空下のインパクト",
+      "rule": "misheard words"
+    }
+  ]
+}

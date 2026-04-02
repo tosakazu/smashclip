@@ -1,0 +1,72 @@
+{
+  "id": "bc619c9b-87bf-46f3-b58a-f175cfd27571",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.46,
+      "text": "It's pretty tough to KO Sonic, right?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "なかなかソニックの撃墜が難しいですよね"
+    },
+    {
+      "start": 2.46,
+      "end": 5.08,
+      "text": "Since it's not an upward KO, Sonic...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "上撃墜じゃないのでソニックって"
+    },
+    {
+      "start": 5.08,
+      "end": 8.08,
+      "text": "And they started punishing the Spin with Win Staff",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そしてスピンに対してウィンスタッフで咎め始めましたよ"
+    },
+    {
+      "start": 8.08,
+      "end": 9.24,
+      "text": "What do you think!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "どうだ"
+    },
+    {
+      "start": 9.24,
+      "end": 10.92,
+      "text": "Spring got shut down too!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "スプリングも切らされたよ"
+    },
+    {
+      "start": 10.92,
+      "end": 11.9,
+      "text": "Attack",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "攻撃"
+    },
+    {
+      "start": 11.9,
+      "end": 13.18,
+      "text": "Man!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いやー"
+    }
+  ],
+  "full_text": "It's pretty tough to KO Sonic, right? Since it's not an upward KO, Sonic... And they started punishing the Spin with Win Staff What do you think! Spring got shut down too! Attack Man!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 4,
+      "original": "スプリングも切らされたいよ",
+      "corrected": "スプリングも切らされたよ",
+      "rule": "Whisper error"
+    }
+  ]
+}

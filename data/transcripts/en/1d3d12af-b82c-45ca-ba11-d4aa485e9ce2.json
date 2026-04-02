@@ -1,0 +1,32 @@
+{
+  "id": "1d3d12af-b82c-45ca-ba11-d4aa485e9ce2",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.04,
+      "text": "He was only gone for around two months.",
+      "language": "en"
+    },
+    {
+      "start": 2.18,
+      "end": 5.94,
+      "text": "He'll have still been playing with anyone who can take him online, I'm sure.",
+      "language": "en"
+    },
+    {
+      "start": 5.98,
+      "end": 9.22,
+      "text": "And he has done a big Japanese tournament only last week.",
+      "language": "en"
+    },
+    {
+      "start": 9.3,
+      "end": 10.92,
+      "text": "The guy should be relatively fresh.",
+      "language": "en"
+    }
+  ],
+  "full_text": "He was only gone for around two months. He'll have still been playing with anyone who can take him online, I'm sure. And he has done a big Japanese tournament only last week. The guy should be relatively fresh.",
+  "detected_language": "en",
+  "corrections": []
+}

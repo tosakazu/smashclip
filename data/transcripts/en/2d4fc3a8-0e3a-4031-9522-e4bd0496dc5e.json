@@ -1,0 +1,54 @@
+{
+  "id": "2d4fc3a8-0e3a-4031-9522-e4bd0496dc5e",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.46,
+      "text": "He's out of bananas!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "バナナの在庫が切れていますよ"
+    },
+    {
+      "start": 1.46,
+      "end": 5.16,
+      "text": "Now Nao's going deep with the up B!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあなおちゃ選手深めの上必殺技で"
+    },
+    {
+      "start": 5.16,
+      "end": 9.82,
+      "text": "Racking up damage on Steve, but",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "スティーブのダメージを稼いでいくんですが"
+    },
+    {
+      "start": 9.82,
+      "end": 10.74,
+      "text": "There's the minecart!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここはトロッコが"
+    }
+  ],
+  "full_text": "He's out of bananas! Now Nao's going deep with the up B! Racking up damage on Steve, but There's the minecart!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "別の在庫が切れていますよ",
+      "corrected": "バナナの在庫が切れていますよ",
+      "rule": "misheard: 別の→バナナの"
+    },
+    {
+      "segment_idx": 1,
+      "original": "直茶選手",
+      "corrected": "なおちゃ選手",
+      "rule": "player name: 直茶→なおちゃ"
+    }
+  ]
+}

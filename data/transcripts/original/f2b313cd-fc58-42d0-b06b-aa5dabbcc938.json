@@ -1,0 +1,21 @@
+{
+  "id": "f2b313cd-fc58-42d0-b06b-aa5dabbcc938",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 7.52,
+      "text": "空N業から空上 反転前回持っているのはMTKプラスとペンションからでしょってここはあとっ",
+      "language": "ja"
+    }
+  ],
+  "full_text": "空N業から空上 反転前回持っているのはMTKプラスとペンションからでしょってここはあとっ",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "運営業から宇宙へ 発達前前回持っているのは mtk プラスとペンションからでしょってここはあとっ",
+      "corrected": "空N業から空上 反転前回持っているのはMTKプラスとペンションからでしょってここはあとっ",
+      "rule": "misheard: 運営業→空N業, 宇宙へ→空上, mtk→MTK"
+    }
+  ]
+}

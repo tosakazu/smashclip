@@ -1,0 +1,38 @@
+{
+  "id": "406b2d16-547d-496b-895c-f780d327ffe1",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.32,
+      "text": "上も怖いところ",
+      "language": "ja"
+    },
+    {
+      "start": 1.32,
+      "end": 4.0,
+      "text": "逃げることができる",
+      "language": "ja"
+    },
+    {
+      "start": 4.0,
+      "end": 5.06,
+      "text": "歩行速度が",
+      "language": "ja"
+    },
+    {
+      "start": 5.06,
+      "end": 6.3,
+      "text": "速いわけで",
+      "language": "ja"
+    },
+    {
+      "start": 6.3,
+      "end": 7.26,
+      "text": "おっとこれは完全に",
+      "language": "ja"
+    }
+  ],
+  "full_text": "上も怖いところ 逃げることができる 歩行速度が 速いわけで おっとこれは完全に",
+  "detected_language": "ja",
+  "corrections": []
+}

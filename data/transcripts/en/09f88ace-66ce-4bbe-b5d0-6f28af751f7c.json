@@ -1,0 +1,25 @@
+{
+  "id": "09f88ace-66ce-4bbe-b5d0-6f28af751f7c",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.32,
+      "text": "Just pulled off an incredible 12th place finish!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "12位というね素晴らしい成績を収めたばかり"
+    },
+    {
+      "start": 3.32,
+      "end": 8.32,
+      "text": "It's been a while since a major tournament like this, but...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "久々のこの大対戦会というところですがまたは"
+    }
+  ],
+  "full_text": "Just pulled off an incredible 12th place finish! It's been a while since a major tournament like this, but...",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

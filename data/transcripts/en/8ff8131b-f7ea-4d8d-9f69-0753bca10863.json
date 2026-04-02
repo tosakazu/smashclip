@@ -1,0 +1,40 @@
+{
+  "id": "8ff8131b-f7ea-4d8d-9f69-0753bca10863",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.1,
+      "text": "That deeper option gets through!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "この選手の深めの選択肢が通りますね"
+    },
+    {
+      "start": 2.1,
+      "end": 4.42,
+      "text": "Forward smash with great spacing!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "横スマッシュ良い距離"
+    },
+    {
+      "start": 4.42,
+      "end": 5.2,
+      "text": "Let's go!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあ"
+    }
+  ],
+  "full_text": "That deeper option gets through! Forward smash with great spacing! Let's go!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "横距離",
+      "corrected": "良い距離",
+      "rule": "misheard word"
+    }
+  ]
+}

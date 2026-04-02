@@ -1,0 +1,41 @@
+{
+  "id": "b3b26995-f45d-4bef-b56f-c2b74af19ad4",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.8,
+      "text": "Pokemon Stadium 2 coming up then",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ポケモンスタジアム2が出てくるんですね"
+    },
+    {
+      "start": 1.8,
+      "end": 6.4,
+      "text": "For Donkey Kong on Pokemon Stadium 2, recovery is pretty strong, but",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ドンキーコングで言えばこのポケモンスタジアム2でのリフの運びは"
+    },
+    {
+      "start": 6.4,
+      "end": 8.54,
+      "text": "It's solid, but",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "かなり強力ではありますが"
+    },
+    {
+      "start": 8.54,
+      "end": 10.64,
+      "text": "That's not really what we're talking about here",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "リフの運びとかではなく"
+    }
+  ],
+  "full_text": "Pokemon Stadium 2 coming up then For Donkey Kong on Pokemon Stadium 2, recovery is pretty strong, but It's solid, but That's not really what we're talking about here",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

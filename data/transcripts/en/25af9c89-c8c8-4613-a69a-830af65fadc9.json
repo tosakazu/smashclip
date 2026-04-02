@@ -1,0 +1,25 @@
+{
+  "id": "25af9c89-c8c8-4613-a69a-830af65fadc9",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.5,
+      "text": "There's also the dash attack. To handle that, you need a slight retreat—",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "もあります ダッシュ攻撃でさばくためには薄い後ろに"
+    },
+    {
+      "start": 4.5,
+      "end": 8.16,
+      "text": "That backing-away action is necessary, though—",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "下がる引き行動が必要なんですけど"
+    }
+  ],
+  "full_text": "There's also the dash attack. To handle that, you need a slight retreat— That backing-away action is necessary, though—",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

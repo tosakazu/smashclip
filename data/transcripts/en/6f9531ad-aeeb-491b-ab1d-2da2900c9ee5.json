@@ -1,0 +1,79 @@
+{
+  "id": "6f9531ad-aeeb-491b-ab1d-2da2900c9ee5",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.86,
+      "text": "Not a special",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "スペシャルとはならず"
+    },
+    {
+      "start": 0.86,
+      "end": 3.64,
+      "text": "Forcefully connects with the arm",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "バイク強引にアームに当てて"
+    },
+    {
+      "start": 3.64,
+      "end": 4.94,
+      "text": "Not choosing the spike",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ノーリッパーを選択から"
+    },
+    {
+      "start": 4.94,
+      "end": 6.7,
+      "text": "Connects upward",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "上にこづいて"
+    },
+    {
+      "start": 6.7,
+      "end": 7.62,
+      "text": "Off-ledge fair",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "崖外空前"
+    },
+    {
+      "start": 7.62,
+      "end": 10.26,
+      "text": "Still hitting the opponent",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ジェガヒでも相手を"
+    },
+    {
+      "start": 10.26,
+      "end": 11.96,
+      "text": "Even backing up, still connects",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "下がっても相手を"
+    },
+    {
+      "start": 11.96,
+      "end": 14.22,
+      "text": "Enhanced arm also links up",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これも繋いできた強化アーム"
+    }
+  ],
+  "full_text": "Not a special Forcefully connects with the arm Not choosing the spike Connects upward Off-ledge fair Still hitting the opponent Even backing up, still connects Enhanced arm also links up",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_index": 6,
+      "original": "崖外に追いやし続けるか",
+      "corrected": "下がっても相手を"
+    }
+  ]
+}

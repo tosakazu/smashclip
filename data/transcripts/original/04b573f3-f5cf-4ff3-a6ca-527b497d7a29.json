@@ -1,0 +1,44 @@
+{
+  "id": "04b573f3-f5cf-4ff3-a6ca-527b497d7a29",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Waiting for the dare, doesn't quite get it.",
+      "language": "en"
+    },
+    {
+      "start": 2.0,
+      "end": 4.0,
+      "text": "Too late, yeah.",
+      "language": "en"
+    },
+    {
+      "start": 4.0,
+      "end": 6.0,
+      "text": "We'll get another chance soon.",
+      "language": "en"
+    },
+    {
+      "start": 6.0,
+      "end": 8.0,
+      "text": "We'll see what can be done.",
+      "language": "en"
+    },
+    {
+      "start": 8.0,
+      "end": 10.0,
+      "text": "Nice spike.",
+      "language": "en"
+    },
+    {
+      "start": 10.0,
+      "end": 12.0,
+      "text": "He's trying to stave that off from happening.",
+      "language": "en"
+    }
+  ],
+  "full_text": "Waiting for the dare, doesn't quite get it. Too late, yeah. We'll get another chance soon. We'll see what can be done. Nice spike. He's trying to stave that off from happening.",
+  "detected_language": "en",
+  "corrections": []
+}

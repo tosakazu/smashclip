@@ -1,0 +1,32 @@
+{
+  "id": "a6a73b76-8e1f-49d4-a8c2-105cd1a2511b",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.78,
+      "text": "2度焦がすかソニックの体を",
+      "language": "ja"
+    },
+    {
+      "start": 2.78,
+      "end": 4.9,
+      "text": "空中上から空中前",
+      "language": "ja"
+    },
+    {
+      "start": 4.9,
+      "end": 5.82,
+      "text": "バネで追いかける",
+      "language": "ja"
+    },
+    {
+      "start": 5.82,
+      "end": 8.72,
+      "text": "空中後ろジャンプ",
+      "language": "ja"
+    }
+  ],
+  "full_text": "2度焦がすかソニックの体を 空中上から空中前 バネで追いかける 空中後ろジャンプ",
+  "detected_language": "ja",
+  "corrections": []
+}

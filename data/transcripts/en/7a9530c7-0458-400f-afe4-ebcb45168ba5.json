@@ -1,0 +1,52 @@
+{
+  "id": "7a9530c7-0458-400f-afe4-ebcb45168ba5",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.5,
+      "text": "Looks like Yoshidora was limiting their landing options.",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "Yoshidora選手の着地点を少なくしていたようにも見えます"
+    },
+    {
+      "start": 3.5,
+      "end": 7.46,
+      "text": "Fair's in the mix too, and now even the platform's risky.",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "今度は空中前も一役買って台の上にもリスクがつきます"
+    },
+    {
+      "start": 7.46,
+      "end": 9.46,
+      "text": "Charge it up!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "チャージショットを溜めろ"
+    }
+  ],
+  "full_text": "Looks like Yoshidora was limiting their landing options. Fair's in the mix too, and now even the platform's risky. Charge it up!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "吉田選手",
+      "corrected": "Yoshidora選手",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 1,
+      "original": "ひと役勝って",
+      "corrected": "一役買って",
+      "rule": "kanji homophone"
+    },
+    {
+      "segment_idx": 2,
+      "original": "たまろ",
+      "corrected": "溜めろ",
+      "rule": "whisper misrecognition"
+    }
+  ]
+}

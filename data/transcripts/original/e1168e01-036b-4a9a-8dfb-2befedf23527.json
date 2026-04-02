@@ -1,0 +1,27 @@
+{
+  "id": "e1168e01-036b-4a9a-8dfb-2befedf23527",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.8,
+      "text": "to even things out it could be the case right here oh tries to get him up for a tech situation",
+      "language": "en"
+    },
+    {
+      "start": 4.8,
+      "end": 9.68,
+      "text": "doesn't quite work Raru with the correct DI right there and that is going a little bit more",
+      "language": "en"
+    }
+  ],
+  "full_text": "to even things out it could be the case right here oh tries to get him up for a tech situation doesn't quite work Raru with the correct DI right there and that is going a little bit more",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "rather with the correct di",
+      "corrected": "Raru with the correct DI",
+      "rule": "player name"
+    }
+  ]
+}

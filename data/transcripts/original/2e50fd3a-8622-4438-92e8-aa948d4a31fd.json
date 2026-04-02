@@ -1,0 +1,57 @@
+{
+  "id": "2e50fd3a-8622-4438-92e8-aa948d4a31fd",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.86,
+      "text": "空前から",
+      "language": "ja"
+    },
+    {
+      "start": 2.86,
+      "end": 5.72,
+      "text": "おーそのエリトラのコントロール",
+      "language": "ja"
+    },
+    {
+      "start": 5.72,
+      "end": 7.66,
+      "text": "崖上がり",
+      "language": "ja"
+    },
+    {
+      "start": 7.66,
+      "end": 8.66,
+      "text": "2つも",
+      "language": "ja"
+    },
+    {
+      "start": 8.66,
+      "end": 10.1,
+      "text": "うーん見事",
+      "language": "ja"
+    }
+  ],
+  "full_text": "空前から おーそのエリトラのコントロール 崖上がり 2つも うーん見事",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "宇宙前",
+      "corrected": "空前",
+      "rule": "move name normalization"
+    },
+    {
+      "segment_idx": 2,
+      "original": "駆け上がり",
+      "corrected": "崖上がり",
+      "rule": "Whisper misrecognition"
+    },
+    {
+      "segment_idx": 4,
+      "original": "うーのみご",
+      "corrected": "うーん見事",
+      "rule": "Whisper misrecognition"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "id": "d0a69e01-49ba-4593-a949-cffd9a16fef4",
+  "segments": [
+    {
+      "start": 0.36,
+      "end": 1.26,
+      "text": "It's okay!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここはなんとか大丈夫"
+    },
+    {
+      "start": 1.26,
+      "end": 3.52,
+      "text": "Kazuhito's ledge getup!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあカズヒト選手この崖上がり"
+    },
+    {
+      "start": 3.52,
+      "end": 5.52,
+      "text": "He commits!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "やりきりタイガークースタバレ"
+    },
+    {
+      "start": 5.52,
+      "end": 7.22,
+      "text": "Gets knocked out!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "外に倒していたので"
+    },
+    {
+      "start": 7.22,
+      "end": 10.46,
+      "text": "Dodges the forward smash and up air, but",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "なんとかそのまま横スマッシュや空中上での撃墜は免れたが"
+    },
+    {
+      "start": 10.46,
+      "end": 12.44,
+      "text": "the item throw finishes it!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "アイテム投げで外に撃墜"
+    }
+  ],
+  "full_text": "It's okay! Kazuhito's ledge getup! He commits! Gets knocked out! Dodges the forward smash and up air, but the item throw finishes it!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 4,
+      "original": "ウェスマッシュ",
+      "corrected": "横スマッシュ",
+      "rule": "smash term (横スマ)"
+    }
+  ]
+}

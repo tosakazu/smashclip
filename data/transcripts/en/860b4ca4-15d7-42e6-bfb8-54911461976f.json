@@ -1,0 +1,26 @@
+{
+  "id": "860b4ca4-15d7-42e6-bfb8-54911461976f",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.0,
+      "text": "It's very important for like, because Sora's combos are very long.",
+      "language": "en"
+    },
+    {
+      "start": 4.0,
+      "end": 6.0,
+      "text": "Oh, you tried to intercept it there, but...",
+      "language": "en"
+    },
+    {
+      "start": 6.0,
+      "end": 10.0,
+      "text": "I feel like all these multi-hit aerials just must be so frustrating.",
+      "language": "en"
+    }
+  ],
+  "full_text": "It's very important for like, because Sora's combos are very long. Oh, you tried to intercept it there, but... I feel like all these multi-hit aerials just must be so frustrating.",
+  "detected_language": "en",
+  "corrections": []
+}

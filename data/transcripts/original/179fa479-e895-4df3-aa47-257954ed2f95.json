@@ -1,0 +1,27 @@
+{
+  "id": "179fa479-e895-4df3-aa47-257954ed2f95",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.46,
+      "text": "しっかりと立ち回っていきたいところ",
+      "language": "ja"
+    },
+    {
+      "start": 2.46,
+      "end": 5.42,
+      "text": "まあマーベラスコンビネーションか",
+      "language": "ja"
+    }
+  ],
+  "full_text": "しっかりと立ち回っていきたいところ まあマーベラスコンビネーションか",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "まあベラスコンビネーションか",
+      "corrected": "まあマーベラスコンビネーションか",
+      "rule": "Move name: ベラスコンビネーション→マーベラスコンビネーション (Marth side-B)"
+    }
+  ]
+}

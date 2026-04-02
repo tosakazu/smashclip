@@ -1,0 +1,48 @@
+{
+  "id": "3a53e5ea-5e1b-4ace-a5c1-9a8dd9ca8234",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.64,
+      "text": "Tech and coming back from below!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "受け身取って台下から"
+    },
+    {
+      "start": 1.64,
+      "end": 3.7,
+      "text": "Kyon's putting on the pressure!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "キョンがプレッシャーかけてくる"
+    },
+    {
+      "start": 3.7,
+      "end": 4.4,
+      "text": "Step, step!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ステップステップ"
+    },
+    {
+      "start": 4.4,
+      "end": 5.34,
+      "text": "Fair!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空前の"
+    }
+  ],
+  "full_text": "Tech and coming back from below! Kyon's putting on the pressure! Step, step! Fair!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 3,
+      "original": "グーチュー前の",
+      "corrected": "空前の",
+      "rule": "misheard: グーチュー前→空前"
+    }
+  ]
+}

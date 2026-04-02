@@ -1,0 +1,40 @@
+{
+  "id": "b2fbbe0b-2029-489b-9363-b318c588717d",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.2,
+      "text": "Yeah, went for the edgeguard but he's ready for the jab lock",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "はい、崖上がりを攻めたけど、弱3段しっかり見ている"
+    },
+    {
+      "start": 2.2,
+      "end": 4.9,
+      "text": "Mashing out with the fair",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空中前で暴れて"
+    },
+    {
+      "start": 4.9,
+      "end": 7.72,
+      "text": "And that's the Grabbing Scratch for the stock!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあここはもう一度グラビングスクラッチで撃墜"
+    }
+  ],
+  "full_text": "Yeah, went for the edgeguard but he's ready for the jab lock Mashing out with the fair And that's the Grabbing Scratch for the stock!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "火上がりを進めたけど、ジャック3弾しっかり見ている",
+      "corrected": "崖上がりを攻めたけど、弱3段しっかり見ている",
+      "rule": "smash terms (崖上がり, 弱3段)"
+    }
+  ]
+}

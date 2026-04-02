@@ -1,0 +1,25 @@
+{
+  "id": "bd9508d8-1909-4c03-b45f-d7fd162d460f",
+  "segments": [
+    {
+      "start": 0.4,
+      "end": 2.9,
+      "text": "Bair catches the ledge getup!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "崖上がりを空中後ろから出してアタック"
+    },
+    {
+      "start": 2.9,
+      "end": 6.02,
+      "text": "Frame trap shining! Forward tilt reads the dodge!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあフレームトラップが光る横強で差し返す回避を見ていた"
+    }
+  ],
+  "full_text": "Bair catches the ledge getup! Frame trap shining! Forward tilt reads the dodge!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

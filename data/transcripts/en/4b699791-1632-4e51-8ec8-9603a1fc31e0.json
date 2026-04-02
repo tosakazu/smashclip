@@ -1,0 +1,126 @@
+{
+  "id": "4b699791-1632-4e51-8ec8-9603a1fc31e0",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.5,
+      "text": "Stacking dash attacks",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "DAを重ねて"
+    },
+    {
+      "start": 1.5,
+      "end": 2.64,
+      "text": "Ledge situation",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "崖展開"
+    },
+    {
+      "start": 2.64,
+      "end": 3.8,
+      "text": "Reading it",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "音が見ている"
+    },
+    {
+      "start": 3.8,
+      "end": 5.34,
+      "text": "Maintaining distance",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "距離を取る"
+    },
+    {
+      "start": 5.34,
+      "end": 6.14,
+      "text": "The banana",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "バナナを"
+    },
+    {
+      "start": 6.14,
+      "end": 7.9,
+      "text": "Gets it back first",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "まずは取り返して"
+    },
+    {
+      "start": 7.9,
+      "end": 8.88,
+      "text": "Air-to-air",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空対空"
+    },
+    {
+      "start": 8.88,
+      "end": 10.0,
+      "text": "Shuuton connects!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "通しているのはシュートン"
+    },
+    {
+      "start": 10.0,
+      "end": 10.84,
+      "text": "That landing, that play!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "着地は展開は"
+    },
+    {
+      "start": 10.84,
+      "end": 12.02,
+      "text": "So clean!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "うまーい"
+    },
+    {
+      "start": 12.02,
+      "end": 12.72,
+      "text": "Up throw connects!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "上投げ通す"
+    },
+    {
+      "start": 12.72,
+      "end": 13.36,
+      "text": "That's nice!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "うまいね"
+    },
+    {
+      "start": 13.36,
+      "end": 14.64,
+      "text": "The landing",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "着地"
+    }
+  ],
+  "full_text": "Stacking dash attacks Ledge situation Reading it Maintaining distance The banana Gets it back first Air-to-air Shuuton connects! That landing, that play! So clean! Up throw connects! That's nice! The landing",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "出しアタックを重ねて",
+      "corrected": "DAを重ねて",
+      "rule": "move abbreviation (ダッシュアタック→DA)"
+    },
+    {
+      "segment_idx": 10,
+      "original": "青投げ通す",
+      "corrected": "上投げ通す",
+      "rule": "move name (上投げ = up throw)"
+    }
+  ]
+}

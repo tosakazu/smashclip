@@ -1,0 +1,20 @@
+{
+  "id": "9a4fca9a-8de5-467b-8071-aa0fc0e4cf7d",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.76,
+      "text": "This is game plan completely flips on its head the moment Arsene comes out",
+      "language": "en"
+    },
+    {
+      "start": 6.0,
+      "end": 8.0,
+      "text": "Up there, he is gonna get this",
+      "language": "en"
+    }
+  ],
+  "full_text": "This is game plan completely flips on its head the moment Arsene comes out Up there, he is gonna get this",
+  "detected_language": "en",
+  "corrections": []
+}

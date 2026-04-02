@@ -1,0 +1,45 @@
+{
+  "id": "7d0a59cc-762e-40bc-a27e-76953370ac9a",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.52,
+      "text": "What do you do here? Down tilt, not going to kill.",
+      "language": "en"
+    },
+    {
+      "start": 3.14,
+      "end": 4.22,
+      "text": "This lead from Eiku...",
+      "language": "en"
+    },
+    {
+      "start": 4.22,
+      "end": 6.34,
+      "text": "What is that?",
+      "language": "en"
+    },
+    {
+      "start": 7.34,
+      "end": 8.88,
+      "text": "Would up right have even killed there?",
+      "language": "en"
+    }
+  ],
+  "full_text": "What do you do here? Down tilt, not going to kill. This lead from Eiku... What is that? Would up right have even killed there?",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "Eagle",
+      "corrected": "Eiku",
+      "rule": "player name: Eagle→Eiku"
+    },
+    {
+      "segment_idx": 3,
+      "original": "Upright",
+      "corrected": "up right",
+      "rule": "context: likely 'up right' as in up+right direction"
+    }
+  ]
+}

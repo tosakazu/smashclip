@@ -1,0 +1,62 @@
+{
+  "id": "8ddf098e-fdbc-48ec-8e0d-5198e3cd21d5",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.54,
+      "text": "Yeah, dash attack cutting in!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "はい、ダッシュ攻撃切り込んできて"
+    },
+    {
+      "start": 1.54,
+      "end": 3.44,
+      "text": "Right, no Pikmin available",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そうですね、ピクミン今いなかったんで"
+    },
+    {
+      "start": 3.44,
+      "end": 5.12,
+      "text": "Gotta pull them here",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "必ず引き抜こうというところ"
+    },
+    {
+      "start": 5.12,
+      "end": 6.76,
+      "text": "Playing aggressive",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "強気に仕掛けにかかる"
+    },
+    {
+      "start": 6.76,
+      "end": 10.12,
+      "text": "Charged shot into forward tilt tipper spacing!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "チャージショットから横強先端微調"
+    }
+  ],
+  "full_text": "Yeah, dash attack cutting in! Right, no Pikmin available Gotta pull them here Playing aggressive Charged shot into forward tilt tipper spacing!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "出し攻撃",
+      "corrected": "ダッシュ攻撃",
+      "rule": "misheard word"
+    },
+    {
+      "segment_idx": 2,
+      "original": "引き抜くとしょう",
+      "corrected": "引き抜こうという",
+      "rule": "misheard word"
+    }
+  ]
+}

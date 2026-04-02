@@ -1,0 +1,74 @@
+{
+  "id": "eac988bc-7da6-4271-a20d-bcc4e6debb75",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.26,
+      "text": "Hit into forward smash hold!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "当てと横スマッシュホールド"
+    },
+    {
+      "start": 1.26,
+      "end": 2.66,
+      "text": "Just barely doesn't KO!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ギリギリギリギリ撃墜しない"
+    },
+    {
+      "start": 2.66,
+      "end": 6.06,
+      "text": "Tweek's taking huge down spacing on the front!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "正面は下が大幅に移動取っていくのはTweek"
+    },
+    {
+      "start": 6.06,
+      "end": 9.08,
+      "text": "Lands the banana on him clean!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "しっかりやつにバナナも当てて"
+    },
+    {
+      "start": 9.08,
+      "end": 12.18,
+      "text": "Down tilt into instant out of shield up smash!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "下強ですが即座にガーキャン上スマッシュ"
+    }
+  ],
+  "full_text": "Hit into forward smash hold! Just barely doesn't KO! Tweek's taking huge down spacing on the front! Lands the banana on him clean! Down tilt into instant out of shield up smash!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "キーキーキーキー失礼しない",
+      "corrected": "ギリギリギリギリ撃墜しない",
+      "rule": "misheard"
+    },
+    {
+      "segment_idx": 2,
+      "original": "正観は下が大幅に移動とっていくのはツインク",
+      "corrected": "正面は下が大幅に移動取っていくのはTweek",
+      "rule": "player name: ツインク→Tweek"
+    },
+    {
+      "segment_idx": 3,
+      "original": "そろっこりやつにバナーも当てて",
+      "corrected": "しっかりやつにバナナも当てて",
+      "rule": "misheard: バナー→バナナ"
+    },
+    {
+      "segment_idx": 4,
+      "original": "即三夜の",
+      "corrected": "即座に",
+      "rule": "misheard"
+    }
+  ]
+}

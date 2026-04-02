@@ -1,0 +1,214 @@
+{
+  "id": "42588f94-d1f7-4e6a-aec1-4b63da2c9a44",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.58,
+      "text": "Dodge is burned!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "回避も切らして"
+    },
+    {
+      "start": 1.58,
+      "end": 4.44,
+      "text": "Timing's rough!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いやータイミングが悪い"
+    },
+    {
+      "start": 4.44,
+      "end": 5.0,
+      "text": "But wait—",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いやしかし"
+    },
+    {
+      "start": 5.0,
+      "end": 7.4,
+      "text": "No getting comfortable, Jinjin!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "油断してないぞジンジン"
+    },
+    {
+      "start": 7.4,
+      "end": 9.14,
+      "text": "One more bair!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いや空後はあと1個空後"
+    },
+    {
+      "start": 9.14,
+      "end": 10.48,
+      "text": "Just one hit!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "何か1個当たれば"
+    },
+    {
+      "start": 10.48,
+      "end": 11.22,
+      "text": "One more bair!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "あと空後"
+    },
+    {
+      "start": 11.22,
+      "end": 15.22,
+      "text": "One touch either way!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いやしかしあとワンタッチそっちも同じ"
+    },
+    {
+      "start": 15.22,
+      "end": 16.74,
+      "text": "Clean!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いやうまい"
+    },
+    {
+      "start": 16.74,
+      "end": 19.0,
+      "text": "Either player could take it!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "どうするどっちが勝てもおかしくない"
+    },
+    {
+      "start": 19.0,
+      "end": 21.26,
+      "text": "Pure neutral",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "差し合いかどうなる"
+    },
+    {
+      "start": 21.26,
+      "end": 23.9,
+      "text": "Wants feathers but just trading hits",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いや羽欲しいけどこれは数やりとるわ"
+    },
+    {
+      "start": 23.9,
+      "end": 25.54,
+      "text": "Bair doesn't stick!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあ空後当たらない"
+    },
+    {
+      "start": 25.54,
+      "end": 26.78,
+      "text": "Can't build wings!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "羽生やせないんだよね"
+    },
+    {
+      "start": 26.78,
+      "end": 30.38,
+      "text": "Stuck position!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "うわスタッキョーマジか"
+    },
+    {
+      "start": 30.38,
+      "end": 31.38,
+      "text": "Building momentum!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "展開を作って"
+    },
+    {
+      "start": 31.38,
+      "end": 32.98,
+      "text": "Bair misses!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空後取らず"
+    },
+    {
+      "start": 32.98,
+      "end": 36.24,
+      "text": "What's next?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "どうなる"
+    },
+    {
+      "start": 36.24,
+      "end": 38.64,
+      "text": "Oh no!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いやー"
+    },
+    {
+      "start": 38.64,
+      "end": 40.58,
+      "text": "Oh no!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いやー"
+    },
+    {
+      "start": 40.58,
+      "end": 41.32,
+      "text": "Incredible!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "素晴らしい"
+    }
+  ],
+  "full_text": "Dodge is burned! Timing's rough! But wait— No getting comfortable, Jinjin! One more bair! Just one hit! One more bair! One touch either way! Clean! Either player could take it! Pure neutral Wants feathers but just trading hits Bair doesn't stick! Can't build wings! Stuck position! Building momentum! Bair misses! What's next? Oh no! Oh no! Incredible!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 4,
+      "original": "空豪",
+      "corrected": "空後",
+      "rule": "kanji homophone (move name)"
+    },
+    {
+      "segment_idx": 6,
+      "original": "空豪",
+      "corrected": "空後",
+      "rule": "kanji homophone (move name)"
+    },
+    {
+      "segment_idx": 12,
+      "original": "空豪",
+      "corrected": "空後",
+      "rule": "kanji homophone (move name)"
+    },
+    {
+      "segment_idx": 16,
+      "original": "空豪",
+      "corrected": "空後",
+      "rule": "kanji homophone (move name)"
+    },
+    {
+      "segment_idx": 7,
+      "original": "ワザッチャー",
+      "corrected": "ワンタッチ",
+      "rule": "misheard word"
+    },
+    {
+      "segment_idx": 16,
+      "original": "トラズ",
+      "corrected": "取らず",
+      "rule": "katakana to kanji"
+    }
+  ]
+}

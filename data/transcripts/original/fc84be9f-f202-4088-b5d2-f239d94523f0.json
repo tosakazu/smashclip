@@ -1,0 +1,26 @@
+{
+  "id": "fc84be9f-f202-4088-b5d2-f239d94523f0",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.32,
+      "text": "ダッシュアタックでバナナを回収",
+      "language": "ja"
+    },
+    {
+      "start": 3.32,
+      "end": 6.4,
+      "text": "まずは一つ撃墜を通したいところではある",
+      "language": "ja"
+    },
+    {
+      "start": 6.4,
+      "end": 10.88,
+      "text": "いやーここでまさか",
+      "language": "ja"
+    }
+  ],
+  "full_text": "ダッシュアタックでバナナを回収 まずは一つ撃墜を通したいところではある いやーここでまさか",
+  "detected_language": "ja",
+  "corrections": []
+}

@@ -1,0 +1,86 @@
+{
+  "id": "2849f15c-2ae6-46c3-a638-6ded6cbdda33",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.82,
+      "text": "Back throw hasn't landed yet, but",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "後ろ投げはまだでしょうが"
+    },
+    {
+      "start": 3.82,
+      "end": 5.32,
+      "text": "What about the edgeguard?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "復帰阻止はどうか"
+    },
+    {
+      "start": 5.32,
+      "end": 6.54,
+      "text": "Dodging it!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "かわしている"
+    },
+    {
+      "start": 6.54,
+      "end": 7.66,
+      "text": "Dodges to the inside",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "内側でかわって"
+    },
+    {
+      "start": 7.66,
+      "end": 8.72,
+      "text": "Neo recovers with bair!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ネオ リターン空後へ"
+    },
+    {
+      "start": 8.72,
+      "end": 11.48,
+      "text": "Really good at those ledge shutdowns",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ライン回復行動をしっかりと止めるのはうまいですね"
+    },
+    {
+      "start": 11.48,
+      "end": 12.62,
+      "text": "There it is!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これですね"
+    },
+    {
+      "start": 12.62,
+      "end": 15.1,
+      "text": "Guards the reversed bair too!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "スピン反転空後もガード"
+    }
+  ],
+  "full_text": "Back throw hasn't landed yet, but What about the edgeguard? Dodging it! Dodges to the inside Neo recovers with bair! Really good at those ledge shutdowns There it is! Guards the reversed bair too!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "武器阻止",
+      "corrected": "復帰阻止",
+      "rule": "kanji homophone: 武器→復帰"
+    },
+    {
+      "segment_idx": 4,
+      "original": "ネオルターン空中へ",
+      "corrected": "ネオ リターン空後へ",
+      "rule": "player name + move abbrev: ネオルターン空中→ネオ リターン空後"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "id": "e8e9a441-c2da-486a-9aa9-c9a546a19822",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.08,
+      "text": "Hit Kazuya and his Rage goes wild!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "くらえばカズヤの堪忍袋の緒が切れる"
+    },
+    {
+      "start": 2.08,
+      "end": 2.86,
+      "text": "There it is!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "切れた"
+    },
+    {
+      "start": 2.86,
+      "end": 5.34,
+      "text": "Rage Drive is fully charged!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあレイジドライブ溜まりまして"
+    },
+    {
+      "start": 5.34,
+      "end": 6.96,
+      "text": "Kazuya enveloped in that red light!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "赤き光を纏うカズヤ"
+    },
+    {
+      "start": 6.96,
+      "end": 8.52,
+      "text": "Rage Drive whiffs!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "レイジドライブ当たらない"
+    },
+    {
+      "start": 8.52,
+      "end": 11.2,
+      "text": "Even if it connects, it won't KO at this percent",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "まだねレイジドライブ当たっても撃墜しないパーセントでしょうが"
+    },
+    {
+      "start": 11.2,
+      "end": 14.82,
+      "text": "Here he reads the panic and punishes with side B!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここはレイジドライブ暴れを読み切っての横必殺技"
+    },
+    {
+      "start": 14.82,
+      "end": 16.54,
+      "text": "From a step back",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "一歩引いた位置から"
+    }
+  ],
+  "full_text": "Hit Kazuya and his Rage goes wild! There it is! Rage Drive is fully charged! Kazuya enveloped in that red light! Rage Drive whiffs! Even if it connects, it won't KO at this percent Here he reads the panic and punishes with side B! From a step back",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "観念袋の方が切れる",
+      "corrected": "堪忍袋の緒が切れる",
+      "rule": "misheard: 観念袋→堪忍袋"
+    }
+  ]
+}

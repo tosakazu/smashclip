@@ -1,0 +1,57 @@
+{
+  "id": "292311fc-d4af-44ef-8876-5ab5c773f1a2",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.0,
+      "text": "ちょっとね、ショートジャンプ様子見増えてきたので",
+      "language": "ja"
+    },
+    {
+      "start": 3.0,
+      "end": 5.0,
+      "text": "ジャンプ潰せる横強の選択肢が",
+      "language": "ja"
+    },
+    {
+      "start": 5.0,
+      "end": 8.0,
+      "text": "これから視野に入ってくるか",
+      "language": "ja"
+    },
+    {
+      "start": 8.0,
+      "end": 9.0,
+      "text": "どんどん回避",
+      "language": "ja"
+    },
+    {
+      "start": 9.0,
+      "end": 11.0,
+      "text": "いたたたたたたたたた",
+      "language": "ja"
+    }
+  ],
+  "full_text": "ちょっとね、ショートジャンプ様子見増えてきたので ジャンプ潰せる横強の選択肢が これから視野に入ってくるか どんどん回避 いたたたたたたたたた",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "ショージャンプ",
+      "corrected": "ショートジャンプ",
+      "rule": "ショージャンプ→ショートジャンプ"
+    },
+    {
+      "segment_idx": 1,
+      "original": "ジャンプボタン潰せるよ補強の選択肢が",
+      "corrected": "ジャンプ潰せる横強の選択肢が",
+      "rule": "misheard: ボタン潰せるよ補強→潰せる横強"
+    },
+    {
+      "segment_idx": 2,
+      "original": "視野",
+      "corrected": "視野",
+      "rule": "OK"
+    }
+  ]
+}

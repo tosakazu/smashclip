@@ -1,0 +1,39 @@
+{
+  "id": "15cc910b-d638-42e9-a312-854e77f8e4a9",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "text": "He's pretty good at edgeguarding, too.",
+      "language": "en"
+    },
+    {
+      "start": 6.0,
+      "end": 7.0,
+      "text": "Yeah, free kill.",
+      "language": "en"
+    },
+    {
+      "start": 7.0,
+      "end": 8.0,
+      "text": "I don't know.",
+      "language": "en"
+    },
+    {
+      "start": 8.0,
+      "end": 11.0,
+      "text": "I mean, Gluto does like to do a lot with Wario.",
+      "language": "en"
+    }
+  ],
+  "full_text": "He's pretty good at edgeguarding, too. Yeah, free kill. I don't know. I mean, Gluto does like to do a lot with Wario.",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "Yeah, pre-kill.",
+      "corrected": "Yeah, free kill.",
+      "rule": "Smash term: pre-kill→free kill"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "9bc80727-e976-4953-88a2-4c57d697c032",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.36,
+      "text": "with an up B with a stage spike to lose his second stock already",
+      "language": "en"
+    },
+    {
+      "start": 3.36,
+      "end": 6.7,
+      "text": "it's a complete menace the entire garden is screaming",
+      "language": "en"
+    }
+  ],
+  "full_text": "with an up B with a stage spike to lose his second stock already it's a complete menace the entire garden is screaming",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "stage fight",
+      "corrected": "stage spike",
+      "rule": "Smash term"
+    }
+  ]
+}

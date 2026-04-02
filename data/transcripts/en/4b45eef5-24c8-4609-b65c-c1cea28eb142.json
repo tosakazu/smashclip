@@ -1,0 +1,40 @@
+{
+  "id": "4b45eef5-24c8-4609-b65c-c1cea28eb142",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.12,
+      "text": "Looks rough, that's about it",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "きついようだからそんなもんか"
+    },
+    {
+      "start": 4.94,
+      "end": 8.98,
+      "text": "Out of shield fair right at center",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ガーキャン空前でちょうどセンターの前"
+    },
+    {
+      "start": 8.98,
+      "end": 11.34,
+      "text": "That's...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これは"
+    }
+  ],
+  "full_text": "Looks rough, that's about it Out of shield fair right at center That's...",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "がキャンク者前でちょうどセンターの前",
+      "corrected": "ガーキャン空前でちょうどセンターの前",
+      "rule": "Smash terminology + move abbreviation"
+    }
+  ]
+}

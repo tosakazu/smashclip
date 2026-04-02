@@ -1,0 +1,27 @@
+{
+  "id": "e7ab1de9-f408-4c95-9118-408650ce2423",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.28,
+      "text": "うまく空中ニュートラル暴れを通したが引いてなっこ",
+      "language": "ja"
+    },
+    {
+      "start": 3.28,
+      "end": 9.96,
+      "text": "こういう突進技はえまさか撃墜",
+      "language": "ja"
+    }
+  ],
+  "full_text": "うまく空中ニュートラル暴れを通したが引いてなっこ こういう突進技はえまさか撃墜",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "激戦",
+      "corrected": "撃墜",
+      "rule": "kanji homophone: 激戦→撃墜"
+    }
+  ]
+}

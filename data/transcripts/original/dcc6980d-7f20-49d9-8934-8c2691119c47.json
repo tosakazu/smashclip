@@ -1,0 +1,26 @@
+{
+  "id": "dcc6980d-7f20-49d9-8934-8c2691119c47",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.78,
+      "text": "ゲーム差が3倍ぐらいになるので",
+      "language": "ja"
+    },
+    {
+      "start": 1.78,
+      "end": 2.36,
+      "text": "そうですね",
+      "language": "ja"
+    },
+    {
+      "start": 2.36,
+      "end": 5.36,
+      "text": "ここはダッシュアタックでよく見ていた",
+      "language": "ja"
+    }
+  ],
+  "full_text": "ゲーム差が3倍ぐらいになるので そうですね ここはダッシュアタックでよく見ていた",
+  "detected_language": "ja",
+  "corrections": []
+}

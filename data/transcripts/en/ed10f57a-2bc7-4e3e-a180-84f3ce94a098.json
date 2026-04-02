@@ -1,0 +1,62 @@
+{
+  "id": "ed10f57a-2bc7-4e3e-a180-84f3ce94a098",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.4,
+      "text": "Chiko's in a bad position",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "チコが嫌な位置にいる"
+    },
+    {
+      "start": 1.4,
+      "end": 2.58,
+      "text": "Nair into a read",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空中Nドラマバレー"
+    },
+    {
+      "start": 2.58,
+      "end": 5.32,
+      "text": "Tech on the platform",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "台上で受け身を取ったところ"
+    },
+    {
+      "start": 5.32,
+      "end": 6.9,
+      "text": "Chiko continues to stack attacks",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "チコが攻撃を重ねるかというところ"
+    },
+    {
+      "start": 6.9,
+      "end": 7.66,
+      "text": "Airborne",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空中"
+    }
+  ],
+  "full_text": "Chiko's in a bad position Nair into a read Tech on the platform Chiko continues to stack attacks Airborne",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "空中にドラマバレー",
+      "corrected": "空中Nドラマバレー",
+      "rule": "misheard: 空中に→空中N"
+    },
+    {
+      "segment_idx": 2,
+      "original": "雷雨で受け身",
+      "corrected": "台上で受け身",
+      "rule": "kanji homophone: 雷雨→台上"
+    }
+  ]
+}

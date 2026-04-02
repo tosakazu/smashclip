@@ -1,0 +1,217 @@
+{
+  "id": "a5342e53-5d84-4915-bfe8-aab7cb294811",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.84,
+      "text": "追いついたぞー!",
+      "language": "ja"
+    },
+    {
+      "start": 0.84,
+      "end": 2.08,
+      "text": "ストック1-1!",
+      "language": "ja"
+    },
+    {
+      "start": 2.76,
+      "end": 3.26,
+      "text": "だが?",
+      "language": "ja"
+    },
+    {
+      "start": 5.24,
+      "end": 6.4,
+      "text": "吹っ飛びにはしっかりガード!",
+      "language": "ja"
+    },
+    {
+      "start": 6.4,
+      "end": 7.24,
+      "text": "空中上から",
+      "language": "ja"
+    },
+    {
+      "start": 7.24,
+      "end": 7.74,
+      "text": "外へ",
+      "language": "ja"
+    },
+    {
+      "start": 7.74,
+      "end": 8.5,
+      "text": "あ!食いつく当たる!",
+      "language": "ja"
+    },
+    {
+      "start": 8.5,
+      "end": 9.0,
+      "text": "うー危ない!",
+      "language": "ja"
+    },
+    {
+      "start": 9.0,
+      "end": 10.7,
+      "text": "おー怖すぎ怖すぎ怖すぎ",
+      "language": "ja"
+    },
+    {
+      "start": 10.7,
+      "end": 11.48,
+      "text": "重たすぎる",
+      "language": "ja"
+    },
+    {
+      "start": 11.48,
+      "end": 12.2,
+      "text": "あ、けど?けど?",
+      "language": "ja"
+    },
+    {
+      "start": 12.2,
+      "end": 12.7,
+      "text": "分かんない分かんない",
+      "language": "ja"
+    },
+    {
+      "start": 12.7,
+      "end": 13.2,
+      "text": "空中上?",
+      "language": "ja"
+    },
+    {
+      "start": 13.2,
+      "end": 13.7,
+      "text": "どうする?",
+      "language": "ja"
+    },
+    {
+      "start": 13.7,
+      "end": 14.2,
+      "text": "出た!影打ち!",
+      "language": "ja"
+    },
+    {
+      "start": 14.2,
+      "end": 14.7,
+      "text": "でかい!",
+      "language": "ja"
+    },
+    {
+      "start": 14.7,
+      "end": 15.2,
+      "text": "空N落として!",
+      "language": "ja"
+    },
+    {
+      "start": 15.2,
+      "end": 15.7,
+      "text": "空N落として!",
+      "language": "ja"
+    },
+    {
+      "start": 15.7,
+      "end": 16.2,
+      "text": "まだでっかい続く!",
+      "language": "ja"
+    },
+    {
+      "start": 16.2,
+      "end": 16.7,
+      "text": "空N落として!",
+      "language": "ja"
+    },
+    {
+      "start": 16.7,
+      "end": 17.2,
+      "text": "まだでっかい続く!",
+      "language": "ja"
+    },
+    {
+      "start": 17.2,
+      "end": 17.7,
+      "text": "無敵を!",
+      "language": "ja"
+    },
+    {
+      "start": 17.7,
+      "end": 18.2,
+      "text": "空中上!",
+      "language": "ja"
+    },
+    {
+      "start": 18.2,
+      "end": 18.7,
+      "text": "でっかい続くの!",
+      "language": "ja"
+    },
+    {
+      "start": 18.7,
+      "end": 19.2,
+      "text": "でっかい続くの!",
+      "language": "ja"
+    },
+    {
+      "start": 19.2,
+      "end": 19.7,
+      "text": "追い切り!",
+      "language": "ja"
+    },
+    {
+      "start": 19.7,
+      "end": 20.2,
+      "text": "行ったー!",
+      "language": "ja"
+    },
+    {
+      "start": 20.2,
+      "end": 28.7,
+      "text": "やった!",
+      "language": "ja"
+    }
+  ],
+  "full_text": "追いついたぞー! ストック1-1! だが? 吹っ飛びにはしっかりガード! 空中上から 外へ あ!食いつく当たる! うー危ない! おー怖すぎ怖すぎ怖すぎ 重たすぎる あ、けど?けど? 分かんない分かんない 空中上? どうする? 出た!影打ち! でかい! 空N落として! 空N落として! まだでっかい続く! 空N落として! まだでっかい続く! 無敵を! 空中上! でっかい続くの! でっかい続くの! 追い切り! 行ったー! やった!",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "original": "ふけにはしっかりガード",
+      "corrected": "吹っ飛びにはしっかりガード",
+      "reason": "吹っ飛びに対するガード"
+    },
+    {
+      "original": "空中城",
+      "corrected": "空中上",
+      "reason": "空中上攻撃（up air）"
+    },
+    {
+      "original": "クイヌ当たる",
+      "corrected": "食いつく当たる",
+      "reason": "攻撃が当たった"
+    },
+    {
+      "original": "ディナスクイヌ",
+      "corrected": "出た!影打ち!",
+      "reason": "ゲッコウガの横B（影打ち）"
+    },
+    {
+      "original": "空落として",
+      "corrected": "空N落として",
+      "reason": "空中N攻撃で落とす"
+    },
+    {
+      "original": "無役を",
+      "corrected": "無敵を",
+      "reason": "無敵状態"
+    },
+    {
+      "original": "よびきり",
+      "corrected": "追い切り",
+      "reason": "追い切って撃墜"
+    },
+    {
+      "original": "ito",
+      "corrected": "行ったー!",
+      "reason": "撃墜の叫び"
+    }
+  ]
+}

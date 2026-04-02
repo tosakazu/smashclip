@@ -1,0 +1,68 @@
+{
+  "id": "9670290d-48e7-4f7c-9d4f-e5db34211b3a",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.0,
+      "text": "Back air pushing out with that reversed input",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空中後ろ、ここは反転入力で外側に押し出していきます"
+    },
+    {
+      "start": 3.0,
+      "end": 7.8,
+      "text": "Diddy's dash attack spacing is really tough to nail",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ディディーのDA攻撃、かなり距離の確認難しいんですけど"
+    },
+    {
+      "start": 7.8,
+      "end": 11.12,
+      "text": "Going for the banana into grab, but gets caught with an inward up smash",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ワンツーバナナと掴みを狙っていったが、内側上スマッシュ"
+    },
+    {
+      "start": 11.12,
+      "end": 13.26,
+      "text": "He's covering that too",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここに対してもケアをしている"
+    },
+    {
+      "start": 13.26,
+      "end": 14.66,
+      "text": "Snow takes the first stock",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "スノー選手まずは1ストック先行"
+    }
+  ],
+  "full_text": "Back air pushing out with that reversed input Diddy's dash attack spacing is really tough to nail Going for the banana into grab, but gets caught with an inward up smash He's covering that too Snow takes the first stock",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "ディニーのPA攻撃",
+      "corrected": "ディディーのDA攻撃",
+      "rule": "character name + move name (PA→DA)"
+    },
+    {
+      "segment_idx": 2,
+      "original": "128番線と掴みを狙っていったが、内側上スマッシュ",
+      "corrected": "ワンツーバナナと掴みを狙っていったが、内側上スマッシュ",
+      "rule": "misheard word"
+    },
+    {
+      "segment_idx": 4,
+      "original": "一時速先行",
+      "corrected": "1ストック先行",
+      "rule": "misheard word"
+    }
+  ]
+}

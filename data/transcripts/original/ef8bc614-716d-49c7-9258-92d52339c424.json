@@ -1,0 +1,45 @@
+{
+  "id": "ef8bc614-716d-49c7-9258-92d52339c424",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.18,
+      "text": "空中前から走って空中前",
+      "language": "ja"
+    },
+    {
+      "start": 2.18,
+      "end": 3.78,
+      "text": "ダブルアップに行きましたが",
+      "language": "ja"
+    },
+    {
+      "start": 3.78,
+      "end": 4.66,
+      "text": "ここは暴れたシュートン",
+      "language": "ja"
+    },
+    {
+      "start": 4.66,
+      "end": 6.96,
+      "text": "最後空上",
+      "language": "ja"
+    }
+  ],
+  "full_text": "空中前から走って空中前 ダブルアップに行きましたが ここは暴れたシュートン 最後空上",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "暴れたシュート",
+      "corrected": "暴れたシュートン",
+      "rule": "player name: シュート→シュートン"
+    },
+    {
+      "segment_idx": 3,
+      "original": "空中A",
+      "corrected": "空上",
+      "rule": "misheard: 空中A→空上"
+    }
+  ]
+}

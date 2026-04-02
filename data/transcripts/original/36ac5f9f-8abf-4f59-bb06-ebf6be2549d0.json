@@ -1,0 +1,63 @@
+{
+  "id": "36ac5f9f-8abf-4f59-bb06-ebf6be2549d0",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.96,
+      "text": "右アーク、空中入ったら空後は避けて",
+      "language": "ja"
+    },
+    {
+      "start": 3.12,
+      "end": 5.46,
+      "text": "- 何回このつかみが通るんか",
+      "language": "ja"
+    },
+    {
+      "start": 5.54,
+      "end": 7.48,
+      "text": "体重差で5分ぐらいですよこの位置関係なら",
+      "language": "ja"
+    },
+    {
+      "start": 7.58,
+      "end": 8.08,
+      "text": "- 確かに",
+      "language": "ja"
+    },
+    {
+      "start": 8.42,
+      "end": 8.94,
+      "text": "あー",
+      "language": "ja"
+    },
+    {
+      "start": 8.98,
+      "end": 11.26,
+      "text": "ほんがウェイ空前",
+      "language": "ja"
+    },
+    {
+      "start": 11.38,
+      "end": 11.94,
+      "text": "爆発",
+      "language": "ja"
+    }
+  ],
+  "full_text": "右アーク、空中入ったら空後は避けて - 何回このつかみが通るんか 体重差で5分ぐらいですよこの位置関係なら - 確かに あー ほんがウェイ空前 爆発",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "宇宙入ったら空 後ろは",
+      "corrected": "空中入ったら空後は",
+      "rule": "Whisper error: 宇宙→空中/空"
+    },
+    {
+      "segment_idx": 5,
+      "original": "ホン・ガ・ウェー空中前",
+      "corrected": "ほんがウェイ空前",
+      "rule": "move abbreviation: 空中前→空前"
+    }
+  ]
+}

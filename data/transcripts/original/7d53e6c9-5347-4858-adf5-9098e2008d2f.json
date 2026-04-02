@@ -1,0 +1,26 @@
+{
+  "id": "7d53e6c9-5347-4858-adf5-9098e2008d2f",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.0,
+      "text": "Definitely scary for a light character like Sora, and especially on Hollow Bastion.",
+      "language": "en"
+    },
+    {
+      "start": 5.1,
+      "end": 5.66,
+      "text": "This isn't going to be good.",
+      "language": "en"
+    },
+    {
+      "start": 5.74,
+      "end": 8.16,
+      "text": "Oh, looks for the up tilt, and it will be the down smash hold.",
+      "language": "en"
+    }
+  ],
+  "full_text": "Definitely scary for a light character like Sora, and especially on Hollow Bastion. This isn't going to be good. Oh, looks for the up tilt, and it will be the down smash hold.",
+  "detected_language": "en",
+  "corrections": []
+}

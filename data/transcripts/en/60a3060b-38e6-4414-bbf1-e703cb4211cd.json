@@ -1,0 +1,80 @@
+{
+  "id": "60a3060b-38e6-4414-bbf1-e703cb4211cd",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.52,
+      "text": "Stepping to shake up the defense, and dair keeps the pressure on!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ステップを使って揺さぶって空中下からの展開"
+    },
+    {
+      "start": 2.52,
+      "end": 3.62,
+      "text": "The shield is holding firm!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ガードは盛り上がっている"
+    },
+    {
+      "start": 3.62,
+      "end": 4.86,
+      "text": "Dair is still solid!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空中下はまだ大丈夫"
+    },
+    {
+      "start": 4.86,
+      "end": 7.74,
+      "text": "In this tight spot, trading blows back and forth!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "苦しいところをお互いにコーパーからチューパー"
+    },
+    {
+      "start": 7.74,
+      "end": 9.52,
+      "text": "Even burning a jump,",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ジャンプの一つを取ってみても"
+    },
+    {
+      "start": 9.52,
+      "end": 11.0,
+      "text": "still leads to the KO!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "撃墜に繋がる"
+    },
+    {
+      "start": 11.0,
+      "end": 12.6,
+      "text": "Up smash!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "上スマッシュ"
+    },
+    {
+      "start": 12.6,
+      "end": 14.82,
+      "text": "There it is!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここで鳴り響いた"
+    }
+  ],
+  "full_text": "Stepping to shake up the defense, and dair keeps the pressure on! The shield is holding firm! Dair is still solid! In this tight spot, trading blows back and forth! Even burning a jump, still leads to the KO! Up smash! There it is!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 5,
+      "original": "激戦と繋がる",
+      "corrected": "撃墜に繋がる",
+      "rule": "kanji homophone (撃墜)"
+    }
+  ]
+}

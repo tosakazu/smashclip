@@ -1,0 +1,70 @@
+{
+  "id": "c8437792-1982-46e6-bd4d-4137c5c74f97",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.32,
+      "text": "Spaced fair",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "引き空前"
+    },
+    {
+      "start": 1.32,
+      "end": 3.54,
+      "text": "Nice down B clash!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "上手く下必殺技も相殺している"
+    },
+    {
+      "start": 3.54,
+      "end": 5.36,
+      "text": "And",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "あと"
+    },
+    {
+      "start": 5.36,
+      "end": 7.78,
+      "text": "Shielded the first hit of up B, but",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "上必殺1段目はガードしたんですが"
+    },
+    {
+      "start": 7.78,
+      "end": 8.98,
+      "text": "Greninja jumped too fast",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ゲッコウガのジャンプが早すぎて"
+    },
+    {
+      "start": 8.98,
+      "end": 9.16,
+      "text": "What?!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "え?"
+    }
+  ],
+  "full_text": "Spaced fair Nice down B clash! And Shielded the first hit of up B, but Greninja jumped too fast What?!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "引き食う前",
+      "corrected": "引き空前",
+      "rule": "smash term (空中前攻撃)"
+    },
+    {
+      "segment_idx": 4,
+      "original": "月光河",
+      "corrected": "ゲッコウガ",
+      "rule": "character name (Greninja)"
+    }
+  ]
+}

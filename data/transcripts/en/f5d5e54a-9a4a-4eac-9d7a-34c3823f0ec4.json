@@ -1,0 +1,100 @@
+{
+  "id": "f5d5e54a-9a4a-4eac-9d7a-34c3823f0ec4",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.2,
+      "text": "Let's go!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "よいしょ"
+    },
+    {
+      "start": 0.2,
+      "end": 4.56,
+      "text": "Even without ティオリム, still charged!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ティオリム無くなっても装填"
+    },
+    {
+      "start": 4.56,
+      "end": 7.58,
+      "text": "Unlike マホカンタ,",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "マホカンタとは違って"
+    },
+    {
+      "start": 7.58,
+      "end": 9.64,
+      "text": "the next cooldown too—",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "次のディレイクールタイムもね"
+    },
+    {
+      "start": 9.64,
+      "end": 10.76,
+      "text": "it's not that long,",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そこまでないんで"
+    },
+    {
+      "start": 10.76,
+      "end": 14.12,
+      "text": "Bikult's up!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "バイキルトかかった"
+    },
+    {
+      "start": 14.12,
+      "end": 17.06,
+      "text": "Fair confirms throw!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空前からそのまま当て投げ"
+    },
+    {
+      "start": 17.06,
+      "end": 19.58,
+      "text": "Gets knocked into place!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "バタンって構えられてる"
+    },
+    {
+      "start": 19.58,
+      "end": 21.6,
+      "text": "There's no escaping this!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これはもう避けることはできません"
+    }
+  ],
+  "full_text": "Let's go! Even without ティオリム, still charged! Unlike マホカンタ, the next cooldown too— it's not that long, Bikult's up! Fair confirms throw! Gets knocked into place! There's no escaping this!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 5,
+      "original": "バイキルとかかった",
+      "corrected": "バイキルトかかった",
+      "rule": "Hero spell name: バイキルと→バイキルト"
+    },
+    {
+      "segment_idx": 6,
+      "original": "クール前",
+      "corrected": "空前",
+      "rule": "misheard: クール→空"
+    },
+    {
+      "segment_idx": 7,
+      "original": "バダンって",
+      "corrected": "バタンって",
+      "rule": "misheard"
+    }
+  ]
+}

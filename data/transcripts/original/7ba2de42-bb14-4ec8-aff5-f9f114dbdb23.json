@@ -1,0 +1,45 @@
+{
+  "id": "7ba2de42-bb14-4ec8-aff5-f9f114dbdb23",
+  "segments": [
+    {
+      "start": 0.2,
+      "end": 12.12,
+      "text": "Sisqui trying to survive, great dash attack over here, trying to come with the forward there, the catch is with the upper, get again back into the stage, great approach from Sisqui, trying to bring some right now, the downer is going to get a kick, what?",
+      "language": "en"
+    },
+    {
+      "start": 12.96,
+      "end": 22.38,
+      "text": "Out of nowhere, and Sisqui is out of the tournament, look at Raru, he wants your love, he wants your praise, people make noise.",
+      "language": "en"
+    },
+    {
+      "start": 22.92,
+      "end": 26.34,
+      "text": "Oh my goodness, what a way to bring things back Sisqui.",
+      "language": "en"
+    }
+  ],
+  "full_text": "Sisqui trying to survive, great dash attack over here, trying to come with the forward there, the catch is with the upper, get again back into the stage, great approach from Sisqui, trying to bring some right now, the downer is going to get a kick, what? Out of nowhere, and Sisqui is out of the tournament, look at Raru, he wants your love, he wants your praise, people make noise. Oh my goodness, what a way to bring things back Sisqui.",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "Siski",
+      "corrected": "Sisqui",
+      "rule": "player name: Siski→Sisqui"
+    },
+    {
+      "segment_idx": 1,
+      "original": "Siski",
+      "corrected": "Sisqui",
+      "rule": "player name: Siski→Sisqui"
+    },
+    {
+      "segment_idx": 2,
+      "original": "Siski",
+      "corrected": "Sisqui",
+      "rule": "player name: Siski→Sisqui"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "id": "5a22be9c-cbf1-4bee-b00e-5273df171439",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.52,
+      "text": "Bair connected!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空後のヒットが見えた"
+    },
+    {
+      "start": 1.52,
+      "end": 3.06,
+      "text": "Up B there",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここは上B"
+    },
+    {
+      "start": 3.06,
+      "end": 4.82,
+      "text": "Invincibility frames barely make it?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "無敵でギリギリ間に合わないか"
+    },
+    {
+      "start": 4.82,
+      "end": 5.26,
+      "text": "Yeah",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そうですね"
+    },
+    {
+      "start": 5.26,
+      "end": 8.04,
+      "text": "From the platform hit",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "作業台に対してヒットしていた関係"
+    }
+  ],
+  "full_text": "Bair connected! Up B there Invincibility frames barely make it? Yeah From the platform hit",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "ゴールパリックが見えた",
+      "corrected": "空後のヒットが見えた",
+      "rule": "misheard word"
+    },
+    {
+      "segment_idx": 1,
+      "original": "上ピン",
+      "corrected": "上B",
+      "rule": "move abbreviation"
+    }
+  ]
+}

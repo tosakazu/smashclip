@@ -1,0 +1,39 @@
+{
+  "id": "5792e335-aa7f-4260-806b-e7c1b14724bb",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.04,
+      "text": "actually grabbed a fireball there the down air is going to kill though",
+      "language": "en"
+    },
+    {
+      "start": 3.04,
+      "end": 7.44,
+      "text": "Kurama sitting at 146 damage let's see if we can make any use out of this rage all right let's see",
+      "language": "en"
+    },
+    {
+      "start": 8.64,
+      "end": 10.2,
+      "text": "nice",
+      "language": "en"
+    }
+  ],
+  "full_text": "actually grabbed a fireball there the down air is going to kill though Kurama sitting at 146 damage let's see if we can make any use out of this rage all right let's see nice",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "downer",
+      "corrected": "down air",
+      "rule": "move name"
+    },
+    {
+      "segment_idx": 1,
+      "original": "chroma",
+      "corrected": "Kurama",
+      "rule": "player name"
+    }
+  ]
+}

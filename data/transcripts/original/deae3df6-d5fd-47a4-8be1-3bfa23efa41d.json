@@ -1,0 +1,20 @@
+{
+  "id": "deae3df6-d5fd-47a4-8be1-3bfa23efa41d",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.04,
+      "text": "あーこれカプセルの展開やばすぎ",
+      "language": "ja"
+    },
+    {
+      "start": 6.04,
+      "end": 7.62,
+      "text": "下投げ空上で",
+      "language": "ja"
+    }
+  ],
+  "full_text": "あーこれカプセルの展開やばすぎ 下投げ空上で",
+  "detected_language": "ja",
+  "corrections": []
+}

@@ -1,0 +1,49 @@
+{
+  "id": "a71ae0a2-79df-4b10-b5c2-c7945e2513e5",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "対空から空中ニュートラル",
+      "language": "ja"
+    },
+    {
+      "start": 2.0,
+      "end": 4.0,
+      "text": "空中で動かして台上横スマッシュ",
+      "language": "ja"
+    },
+    {
+      "start": 4.0,
+      "end": 6.0,
+      "text": "台上着地を先に",
+      "language": "ja"
+    },
+    {
+      "start": 6.0,
+      "end": 8.0,
+      "text": "もう埋めるような格好",
+      "language": "ja"
+    },
+    {
+      "start": 8.0,
+      "end": 10.0,
+      "text": "空中後ろをすっぽ抜けて十分",
+      "language": "ja"
+    }
+  ],
+  "full_text": "対空から空中ニュートラル 空中で動かして台上横スマッシュ 台上着地を先に もう埋めるような格好 空中後ろをすっぽ抜けて十分",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "original": "台上車スマッシュ",
+      "corrected": "台上横スマッシュ",
+      "reason": "横スマッシュの聞き取りミス"
+    },
+    {
+      "original": "空中車をすっぽ抜けて",
+      "corrected": "空中後ろをすっぽ抜けて",
+      "reason": "空中後ろ攻撃（back air）"
+    }
+  ]
+}

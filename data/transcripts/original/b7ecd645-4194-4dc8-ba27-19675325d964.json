@@ -1,0 +1,57 @@
+{
+  "id": "b7ecd645-4194-4dc8-ba27-19675325d964",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.66,
+      "text": "当たるものが当たれば撃墜するそんな状況",
+      "language": "ja"
+    },
+    {
+      "start": 2.66,
+      "end": 4.5,
+      "text": "横強うまく暴れて",
+      "language": "ja"
+    },
+    {
+      "start": 4.5,
+      "end": 7.24,
+      "text": "あ、全然全然全然全然全然",
+      "language": "ja"
+    },
+    {
+      "start": 7.24,
+      "end": 9.4,
+      "text": "欲しいパーフェクトが",
+      "language": "ja"
+    },
+    {
+      "start": 9.4,
+      "end": 10.08,
+      "text": "あー見てるんだ",
+      "language": "ja"
+    },
+    {
+      "start": 10.08,
+      "end": 10.62,
+      "text": "見てる",
+      "language": "ja"
+    },
+    {
+      "start": 10.62,
+      "end": 12.56,
+      "text": "最後に",
+      "language": "ja"
+    }
+  ],
+  "full_text": "当たるものが当たれば撃墜するそんな状況 横強うまく暴れて あ、全然全然全然全然全然 欲しいパーフェクトが あー見てるんだ 見てる 最後に",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "横京",
+      "corrected": "横強",
+      "rule": "move name"
+    }
+  ]
+}

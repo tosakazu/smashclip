@@ -1,0 +1,49 @@
+{
+  "id": "a168821e-0ef1-456f-bda6-966a25bce291",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.24,
+      "text": "Using fair's strong disjoints...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空中前のね強靭な判定を"
+    },
+    {
+      "start": 4.24,
+      "end": 5.6,
+      "text": "...but they want to apply it better...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "うまく活かしたいところですが"
+    },
+    {
+      "start": 5.6,
+      "end": 6.62,
+      "text": "Oh man, scary stuff!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "あー怖い怖い"
+    },
+    {
+      "start": 6.62,
+      "end": 8.02,
+      "text": "That was out of range!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "あーっと遠すぎた"
+    },
+    {
+      "start": 8.02,
+      "end": 9.82,
+      "text": "Second stock already!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "あっという間の2ストック目"
+    }
+  ],
+  "full_text": "Using fair's strong disjoints... ...but they want to apply it better... Oh man, scary stuff! That was out of range! Second stock already!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

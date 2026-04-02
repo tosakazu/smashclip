@@ -1,0 +1,72 @@
+{
+  "id": "5ab8533a-f0cc-444a-94b1-68e2464ed5ad",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.06,
+      "text": "Fair banana with zero mercy!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空中前バナナの顔をまるで持っていないかのような"
+    },
+    {
+      "start": 4.06,
+      "end": 5.98,
+      "text": "Relentless barrage of aerials!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "怒涛の空中攻撃の連続"
+    },
+    {
+      "start": 5.98,
+      "end": 7.46,
+      "text": "Explosive storm!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "嵐の爆発物"
+    },
+    {
+      "start": 7.46,
+      "end": 8.8,
+      "text": "Somehow slips through!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "なんとか掻い潜った"
+    },
+    {
+      "start": 8.8,
+      "end": 10.58,
+      "text": "Air drop crank!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空中にドロークランク"
+    },
+    {
+      "start": 10.58,
+      "end": 10.9,
+      "text": "He's done!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "死ぬ"
+    },
+    {
+      "start": 10.9,
+      "end": 11.74,
+      "text": "Launches him away!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "まるで飛ばす"
+    }
+  ],
+  "full_text": "Fair banana with zero mercy! Relentless barrage of aerials! Explosive storm! Somehow slips through! Air drop crank! He's done! Launches him away!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 3,
+      "original": "飼い潜った",
+      "corrected": "掻い潜った",
+      "rule": "kanji homophone"
+    }
+  ]
+}

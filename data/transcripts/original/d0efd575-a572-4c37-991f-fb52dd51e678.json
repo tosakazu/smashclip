@@ -1,0 +1,20 @@
+{
+  "id": "d0efd575-a572-4c37-991f-fb52dd51e678",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.48,
+      "text": "くらいつかしもしかし触れたのは シュートンの光",
+      "language": "ja"
+    },
+    {
+      "start": 4.48,
+      "end": 6.42,
+      "text": "勝利権",
+      "language": "ja"
+    }
+  ],
+  "full_text": "くらいつかしもしかし触れたのは シュートンの光 勝利権",
+  "detected_language": "ja",
+  "corrections": []
+}

@@ -1,0 +1,27 @@
+{
+  "id": "e7c6de86-f0b3-400c-9541-b8f12020632c",
+  "segments": [
+    {
+      "start": 0.88,
+      "end": 2.5,
+      "text": "Love the wall jump there.",
+      "language": "en"
+    },
+    {
+      "start": 4.28,
+      "end": 5.5,
+      "text": "Jab is going to be enough, yeah.",
+      "language": "en"
+    }
+  ],
+  "full_text": "Love the wall jump there. Jab is going to be enough, yeah.",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "Javis",
+      "corrected": "Jab is",
+      "rule": "misheard: Javis→Jab is"
+    }
+  ]
+}

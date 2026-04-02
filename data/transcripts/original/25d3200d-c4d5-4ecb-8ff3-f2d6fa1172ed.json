@@ -1,0 +1,50 @@
+{
+  "id": "25d3200d-c4d5-4ecb-8ff3-f2d6fa1172ed",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.42,
+      "text": "もしくは3ストの巻き返しまで",
+      "language": "ja"
+    },
+    {
+      "start": 3.42,
+      "end": 5.16,
+      "text": "伸ばしてくれるんでしょうか",
+      "language": "ja"
+    },
+    {
+      "start": 5.16,
+      "end": 7.92,
+      "text": "しかしテシ試すここはうまくボムから空前",
+      "language": "ja"
+    },
+    {
+      "start": 7.92,
+      "end": 9.08,
+      "text": "もう一度",
+      "language": "ja"
+    },
+    {
+      "start": 9.08,
+      "end": 11.54,
+      "text": "空Nで外に追い出して",
+      "language": "ja"
+    },
+    {
+      "start": 11.54,
+      "end": 13.1,
+      "text": "もうジャンプがない",
+      "language": "ja"
+    },
+    {
+      "start": 13.1,
+      "end": 14.98,
+      "text": "さあチャージショット",
+      "language": "ja"
+    }
+  ],
+  "full_text": "もしくは3ストの巻き返しまで 伸ばしてくれるんでしょうか しかしテシ試すここはうまくボムから空前 もう一度 空Nで外に追い出して もうジャンプがない さあチャージショット",
+  "detected_language": "ja",
+  "corrections": []
+}

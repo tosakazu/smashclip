@@ -1,0 +1,25 @@
+{
+  "id": "11b67460-f21c-47d7-b644-6abf458bbfc7",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.54,
+      "text": "They're putting a lot of trust in out-of-shield mashing",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ガキャン暴れに結構大きな信頼をつけているようですね"
+    },
+    {
+      "start": 2.54,
+      "end": 5.08,
+      "text": "Up smash",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "上スマッシュ"
+    }
+  ],
+  "full_text": "They're putting a lot of trust in out-of-shield mashing Up smash",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

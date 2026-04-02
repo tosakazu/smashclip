@@ -1,0 +1,72 @@
+{
+  "id": "7416a088-eaa1-4d3d-91a4-e678e05f82b6",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.82,
+      "text": "Sent up!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "上にダウンしたところ"
+    },
+    {
+      "start": 0.82,
+      "end": 3.14,
+      "text": "Up tilt into up air!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "上強で拾って空中上"
+    },
+    {
+      "start": 3.14,
+      "end": 5.46,
+      "text": "Now Ucchie's got Rage!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあウッチー選手レイジまで持ち込んだ"
+    },
+    {
+      "start": 5.46,
+      "end": 8.0,
+      "text": "Sends him flying before the ledge!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そして崖を捕まらせない空中に打たれる"
+    },
+    {
+      "start": 8.0,
+      "end": 10.2,
+      "text": "In the air with Rage, the juggle continues—",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "捕まってレイジ空中で打っているが"
+    },
+    {
+      "start": 10.2,
+      "end": 11.38,
+      "text": "Down smash!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここは下スマッシュ"
+    },
+    {
+      "start": 11.38,
+      "end": 12.58,
+      "text": "Ucchie with it!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ウッチー選手が"
+    }
+  ],
+  "full_text": "Sent up! Up tilt into up air! Now Ucchie's got Rage! Sends him flying before the ledge! In the air with Rage, the juggle continues— Down smash! Ucchie with it!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 5,
+      "original": "シートスマッシュ",
+      "corrected": "下スマッシュ",
+      "rule": "move name: 下スマ"
+    }
+  ]
+}

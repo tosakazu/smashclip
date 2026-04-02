@@ -1,0 +1,64 @@
+{
+  "id": "7d671644-3a55-47a6-a27f-38f7e877f6f8",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.78,
+      "text": "Attacks getting swatted away!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "攻撃が振り払って"
+    },
+    {
+      "start": 1.78,
+      "end": 4.1,
+      "text": "Still creating tons of ledge situations",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "依然崖展開を多く作っているのは"
+    },
+    {
+      "start": 4.1,
+      "end": 5.44,
+      "text": "on Shuutan's side, but",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "シュートン選手側になりますが"
+    },
+    {
+      "start": 5.44,
+      "end": 7.26,
+      "text": "Center stage, attacking from one side",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "中央、片引きを攻撃"
+    },
+    {
+      "start": 7.26,
+      "end": 9.8,
+      "text": "With punish opportunities coming up",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "パニッシュメント類も起きながら"
+    },
+    {
+      "start": 9.8,
+      "end": 11.38,
+      "text": "KO'ing from below takes the lead!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "切ると下からに1位で"
+    }
+  ],
+  "full_text": "Attacks getting swatted away! Still creating tons of ledge situations on Shuutan's side, but Center stage, attacking from one side With punish opportunities coming up KO'ing from below takes the lead!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "以前",
+      "corrected": "依然",
+      "rule": "kanji homophone: 以前→依然 (still/continuing)"
+    }
+  ]
+}

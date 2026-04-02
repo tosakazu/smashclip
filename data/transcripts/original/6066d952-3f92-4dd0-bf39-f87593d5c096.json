@@ -1,0 +1,51 @@
+{
+  "id": "6066d952-3f92-4dd0-bf39-f87593d5c096",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.74,
+      "text": "チシの攻撃",
+      "language": "ja"
+    },
+    {
+      "start": 0.74,
+      "end": 4.28,
+      "text": "なおちゃディディー",
+      "language": "ja"
+    },
+    {
+      "start": 4.28,
+      "end": 6.7,
+      "text": "一旦引いてバナナを装填しながら",
+      "language": "ja"
+    },
+    {
+      "start": 6.7,
+      "end": 8.14,
+      "text": "差し返しを狙いますが",
+      "language": "ja"
+    },
+    {
+      "start": 8.14,
+      "end": 10.06,
+      "text": "さあヤマナクション",
+      "language": "ja"
+    },
+    {
+      "start": 10.06,
+      "end": 12.24,
+      "text": "ここは空中後ろで攻め込み",
+      "language": "ja"
+    }
+  ],
+  "full_text": "チシの攻撃 なおちゃディディー 一旦引いてバナナを装填しながら 差し返しを狙いますが さあヤマナクション ここは空中後ろで攻め込み",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "ナオチャディリー",
+      "corrected": "なおちゃディディー",
+      "rule": "player name + character name"
+    }
+  ]
+}

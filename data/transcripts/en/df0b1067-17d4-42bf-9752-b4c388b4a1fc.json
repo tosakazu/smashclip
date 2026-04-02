@@ -1,0 +1,90 @@
+{
+  "id": "df0b1067-17d4-42bf-9752-b4c388b4a1fc",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Still mashing out relentlessly",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "暴れがまだやまず配がない"
+    },
+    {
+      "start": 2.0,
+      "end": 3.38,
+      "text": "From the parry with down tilt",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ジャストシールドから下強で"
+    },
+    {
+      "start": 3.38,
+      "end": 5.62,
+      "text": "Won't stop!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "止まんなすぎる"
+    },
+    {
+      "start": 5.62,
+      "end": 7.46,
+      "text": "Dark Samus lands the fair through the mashing!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空中前暴れをうまく通したダークサムス"
+    },
+    {
+      "start": 7.46,
+      "end": 9.34,
+      "text": "After the nair,",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空N後の"
+    },
+    {
+      "start": 9.34,
+      "end": 12.12,
+      "text": "Charge Shot connects on the back, but",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "後ろ側にチャージショットが当たりますが"
+    },
+    {
+      "start": 12.12,
+      "end": 13.0,
+      "text": "Up special here!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここは上必殺"
+    }
+  ],
+  "full_text": "Still mashing out relentlessly From the parry with down tilt Won't stop! Dark Samus lands the fair through the mashing! After the nair, Charge Shot connects on the back, but Up special here!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "暴行がまだ山受け配がない",
+      "corrected": "暴れがまだやまず配がない",
+      "rule": "misheard word"
+    },
+    {
+      "segment_idx": 3,
+      "original": "ティスタムス",
+      "corrected": "ダークサムス",
+      "rule": "misheard word (Dark Samus)"
+    },
+    {
+      "segment_idx": 4,
+      "original": "空打の",
+      "corrected": "空N後の",
+      "rule": "smash term"
+    },
+    {
+      "segment_idx": 6,
+      "original": "上必要",
+      "corrected": "上必殺",
+      "rule": "misheard word"
+    }
+  ]
+}

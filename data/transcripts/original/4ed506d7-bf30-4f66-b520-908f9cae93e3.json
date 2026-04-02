@@ -1,0 +1,21 @@
+{
+  "id": "4ed506d7-bf30-4f66-b520-908f9cae93e3",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.14,
+      "text": "I mean, you need Rage to have that back air kill at any percent, or multiple.",
+      "language": "en"
+    }
+  ],
+  "full_text": "I mean, you need Rage to have that back air kill at any percent, or multiple.",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "back of your kill",
+      "corrected": "back air kill",
+      "rule": "misheard: back of your → back air"
+    }
+  ]
+}

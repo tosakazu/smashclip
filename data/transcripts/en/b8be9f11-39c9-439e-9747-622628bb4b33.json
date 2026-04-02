@@ -1,0 +1,57 @@
+{
+  "id": "b8be9f11-39c9-439e-9747-622628bb4b33",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.96,
+      "text": "two hits so the first hit actually makes your character airborne then the second hit connects",
+      "language": "en"
+    },
+    {
+      "start": 2.96,
+      "end": 6.76,
+      "text": "you can take that on reaction uh it is very difficult though and Monte has been hitting",
+      "language": "en"
+    },
+    {
+      "start": 6.76,
+      "end": 12.96,
+      "text": "some of those yeah but leo bring it back with the damage catching the drift to the no way okay",
+      "language": "en"
+    },
+    {
+      "start": 12.96,
+      "end": 18.78,
+      "text": "catching the drift to the left getting a ton of damage and my goodness getting lit up by the side",
+      "language": "en"
+    },
+    {
+      "start": 18.78,
+      "end": 26.22,
+      "text": "B so much damage from that it's crazy going down on the wire here offstage situation Monte",
+      "language": "en"
+    },
+    {
+      "start": 26.22,
+      "end": 31.58,
+      "text": "oh no that's bad oh not gonna get the air dodge there but you know",
+      "language": "en"
+    }
+  ],
+  "full_text": "two hits so the first hit actually makes your character airborne then the second hit connects you can take that on reaction uh it is very difficult though and Monte has been hitting some of those yeah but leo bring it back with the damage catching the drift to the no way okay catching the drift to the left getting a ton of damage and my goodness getting lit up by the side B so much damage from that it's crazy going down on the wire here offstage situation Monte oh no that's bad oh not gonna get the air dodge there but you know",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "monty",
+      "corrected": "Monte",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 4,
+      "original": "beach",
+      "corrected": "B",
+      "rule": "move name"
+    }
+  ]
+}

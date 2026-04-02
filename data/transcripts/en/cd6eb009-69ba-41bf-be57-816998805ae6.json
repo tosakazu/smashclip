@@ -1,0 +1,33 @@
+{
+  "id": "cd6eb009-69ba-41bf-be57-816998805ae6",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.86,
+      "text": "Both at 2 stocks!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ストックカウントは2人"
+    },
+    {
+      "start": 2.86,
+      "end": 6.9,
+      "text": "And he's chaining fair off the bomb!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そして爆弾を当ててからの空中前にも繋げていく"
+    },
+    {
+      "start": 6.9,
+      "end": 9.0,
+      "text": "Landing another bomb—and another—taking it to the air!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さらに爆弾を当てて爆弾を当てて空中"
+    }
+  ],
+  "full_text": "Both at 2 stocks! And he's chaining fair off the bomb! Landing another bomb—and another—taking it to the air!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

@@ -1,0 +1,57 @@
+{
+  "id": "11d95ee6-31a0-4203-8e7b-dbe9959fafc5",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.3,
+      "text": "Wow, so quick!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "んー非常に素早い"
+    },
+    {
+      "start": 2.3,
+      "end": 3.48,
+      "text": "One opening!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "一回きりの展開"
+    },
+    {
+      "start": 3.48,
+      "end": 5.5,
+      "text": "DI's up to escape!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "上ずらして抜けていって"
+    },
+    {
+      "start": 5.5,
+      "end": 6.64,
+      "text": "Gets the counter with Dolphin!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ドルフィンで反撃取って"
+    },
+    {
+      "start": 6.64,
+      "end": 7.84,
+      "text": "Drains the gauge!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ゲージを空にしていって"
+    },
+    {
+      "start": 7.84,
+      "end": 9.28,
+      "text": "Down tilt into knockdown!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "下強からダウンにした"
+    }
+  ],
+  "full_text": "Wow, so quick! One opening! DI's up to escape! Gets the counter with Dolphin! Drains the gauge! Down tilt into knockdown!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

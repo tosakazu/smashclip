@@ -1,0 +1,32 @@
+{
+  "id": "a0dd177d-208b-447a-85da-ce0f872cc92a",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.66,
+      "text": "ヘビーのフェイントからの移動回避",
+      "language": "ja"
+    },
+    {
+      "start": 2.66,
+      "end": 4.6,
+      "text": "そして本命",
+      "language": "ja"
+    },
+    {
+      "start": 4.6,
+      "end": 7.06,
+      "text": "カナトコ通してストック先制",
+      "language": "ja"
+    },
+    {
+      "start": 7.06,
+      "end": 9.06,
+      "text": "うわー追いかけてる",
+      "language": "ja"
+    }
+  ],
+  "full_text": "ヘビーのフェイントからの移動回避 そして本命 カナトコ通してストック先制 うわー追いかけてる",
+  "detected_language": "ja",
+  "corrections": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "e5f957b0-4530-4669-b9f5-e542f747d230",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.84,
+      "text": "punish that as he recovered it was not quite taken that's gonna be scary for WaKa all right",
+      "language": "en"
+    },
+    {
+      "start": 5.84,
+      "end": 8.96,
+      "text": "let's see you know we really haven't seen Raru be able to do anything too",
+      "language": "en"
+    },
+    {
+      "start": 8.96,
+      "end": 12.22,
+      "text": "extraordinary with the lead right he's got those leads but they don't",
+      "language": "en"
+    }
+  ],
+  "full_text": "punish that as he recovered it was not quite taken that's gonna be scary for WaKa all right let's see you know we really haven't seen Raru be able to do anything too extraordinary with the lead right he's got those leads but they don't",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "raro",
+      "corrected": "Raru",
+      "rule": "player name"
+    }
+  ]
+}

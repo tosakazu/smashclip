@@ -1,0 +1,25 @@
+{
+  "id": "2e498789-9bc9-483c-b90c-6ac7dfb06415",
+  "segments": [
+    {
+      "start": 0.76,
+      "end": 3.2,
+      "text": "Caught them, as always",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "引っ掛け、いつも通り"
+    },
+    {
+      "start": 3.2,
+      "end": 7.44,
+      "text": "And then somewhere...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そしてどこかで"
+    }
+  ],
+  "full_text": "Caught them, as always And then somewhere...",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

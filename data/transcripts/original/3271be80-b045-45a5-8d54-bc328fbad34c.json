@@ -1,0 +1,51 @@
+{
+  "id": "3271be80-b045-45a5-8d54-bc328fbad34c",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.2,
+      "text": "再びと再びそして鉄の資源も十分に潤った状態",
+      "language": "ja"
+    },
+    {
+      "start": 3.2,
+      "end": 4.74,
+      "text": "そうですねちょっとありすぎなぐらいの",
+      "language": "ja"
+    },
+    {
+      "start": 4.74,
+      "end": 8.2,
+      "text": "そうですねむしろ鉄がいらないかというところですが",
+      "language": "ja"
+    },
+    {
+      "start": 8.2,
+      "end": 11.8,
+      "text": "その後まるでピクミンの色調整をするかのように",
+      "language": "ja"
+    },
+    {
+      "start": 11.8,
+      "end": 12.98,
+      "text": "届いている",
+      "language": "ja"
+    },
+    {
+      "start": 12.98,
+      "end": 13.88,
+      "text": "空後で",
+      "language": "ja"
+    }
+  ],
+  "full_text": "再びと再びそして鉄の資源も十分に潤った状態 そうですねちょっとありすぎなぐらいの そうですねむしろ鉄がいらないかというところですが その後まるでピクミンの色調整をするかのように 届いている 空後で",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 5,
+      "original": "空中後ろで",
+      "corrected": "空後で",
+      "rule": "move abbreviation"
+    }
+  ]
+}

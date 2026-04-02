@@ -1,0 +1,54 @@
+{
+  "id": "d194dc1b-ea35-4185-bb32-71c8c7b36602",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.54,
+      "text": "The momentum keeps going!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "う〜ん展開継続していく"
+    },
+    {
+      "start": 2.54,
+      "end": 5.1,
+      "text": "There's that defense!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さすがの防御力"
+    },
+    {
+      "start": 5.1,
+      "end": 9.54,
+      "text": "Umeki with the Rage, cleanly gets back on stage and chains it up!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "うめきレイジきっちり復帰通して次に繋いでいきます"
+    },
+    {
+      "start": 9.54,
+      "end": 10.84,
+      "text": "Nair KO at mid-percent!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空N中%で撃墜から"
+    }
+  ],
+  "full_text": "The momentum keeps going! There's that defense! Umeki with the Rage, cleanly gets back on stage and chains it up! Nair KO at mid-percent!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "うぬ展開係数4匹",
+      "corrected": "う〜ん展開継続していく",
+      "rule": "mishearing (係数4匹→継続していく)"
+    },
+    {
+      "segment_idx": 3,
+      "original": "くぬ中傷でゲイツイから",
+      "corrected": "空N中%で撃墜から",
+      "rule": "smash term (くぬ→空N, ゲイツイ→撃墜)"
+    }
+  ]
+}

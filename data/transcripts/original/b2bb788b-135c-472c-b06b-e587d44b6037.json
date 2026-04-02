@@ -1,0 +1,45 @@
+{
+  "id": "b2bb788b-135c-472c-b06b-e587d44b6037",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.2,
+      "text": "3ストックいってるからプリンの方がこれは上を行くぞ",
+      "language": "ja"
+    },
+    {
+      "start": 2.2,
+      "end": 3.38,
+      "text": "空中後ろ",
+      "language": "ja"
+    },
+    {
+      "start": 3.38,
+      "end": 5.0,
+      "text": "118.8%",
+      "language": "ja"
+    },
+    {
+      "start": 5.0,
+      "end": 7.64,
+      "text": "空中ニュートラル",
+      "language": "ja"
+    }
+  ],
+  "full_text": "3ストックいってるからプリンの方がこれは上を行くぞ 空中後ろ 118.8% 空中ニュートラル",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "3体で行ってるからガープリンの方が",
+      "corrected": "3ストックいってるからプリンの方が",
+      "rule": "smash term (ストック) + character name (プリン=Jigglypuff)"
+    },
+    {
+      "segment_idx": 1,
+      "original": "空中しろ",
+      "corrected": "空中後ろ",
+      "rule": "move name (空後)"
+    }
+  ]
+}

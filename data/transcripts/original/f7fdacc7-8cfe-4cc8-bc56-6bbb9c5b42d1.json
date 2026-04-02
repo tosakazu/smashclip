@@ -1,0 +1,69 @@
+{
+  "id": "f7fdacc7-8cfe-4cc8-bc56-6bbb9c5b42d1",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 8.62,
+      "text": "空NでもねこれでOP回復したせいで今今一番撃墜しそうですねワンタッチで らるの精度であれば間違いないと言ったことでしょうしかし",
+      "language": "ja"
+    },
+    {
+      "start": 8.62,
+      "end": 14.08,
+      "text": "うまーさあ 撃墜拒否を通せるかグラトニーなんかうまいな",
+      "language": "ja"
+    },
+    {
+      "start": 14.08,
+      "end": 23.24,
+      "text": "グラトニー徹底して純粋にスマブラの基礎の部分 細かく細かくフレームを理解していけ",
+      "language": "ja"
+    },
+    {
+      "start": 23.24,
+      "end": 29.06,
+      "text": "集中さあNBと置いてくんだこれを振ってあげてくれ",
+      "language": "ja"
+    }
+  ],
+  "full_text": "空NでもねこれでOP回復したせいで今今一番撃墜しそうですねワンタッチで らるの精度であれば間違いないと言ったことでしょうしかし うまーさあ 撃墜拒否を通せるかグラトニーなんかうまいな グラトニー徹底して純粋にスマブラの基礎の部分 細かく細かくフレームを理解していけ 集中さあNBと置いてくんだこれを振ってあげてくれ",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "クランジョーでもねこれで op 回復したせいで今今一番ブレイクそうですねワンクラップで",
+      "corrected": "空NでもねこれでOP回復したせいで今今一番撃墜しそうですねワンタッチで",
+      "rule": "misheard: クランジョー→空N, ブレイク→撃墜, ワンクラップ→ワンタッチ"
+    },
+    {
+      "segment_idx": 0,
+      "original": "ラルの制度",
+      "corrected": "らるの精度",
+      "rule": "player name + kanji: 制度→精度"
+    },
+    {
+      "segment_idx": 1,
+      "original": "グラフォリア",
+      "corrected": "グラトニー",
+      "rule": "player name: グラフォリア→グラトニー(Glutonny)"
+    },
+    {
+      "segment_idx": 2,
+      "original": "グラフォリア",
+      "corrected": "グラトニー",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 2,
+      "original": "スマウラ",
+      "corrected": "スマブラ",
+      "rule": "misheard: スマウラ→スマブラ"
+    },
+    {
+      "segment_idx": 3,
+      "original": "ねクスと置いてくんだ",
+      "corrected": "NBと置いてくんだ",
+      "rule": "misheard: ねクス→NB"
+    }
+  ]
+}

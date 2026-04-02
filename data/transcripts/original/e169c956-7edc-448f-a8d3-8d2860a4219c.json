@@ -1,0 +1,27 @@
+{
+  "id": "e169c956-7edc-448f-a8d3-8d2860a4219c",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.96,
+      "text": "Yeah, well the so falling up air doesn't work in this game really the only reason I feel like he did falling up airs because",
+      "language": "en"
+    }
+  ],
+  "full_text": "Yeah, well the so falling up air doesn't work in this game really the only reason I feel like he did falling up airs because",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "falling upper",
+      "corrected": "falling up air",
+      "rule": "smash term"
+    },
+    {
+      "segment_idx": 0,
+      "original": "falling uppers",
+      "corrected": "falling up airs",
+      "rule": "smash term"
+    }
+  ]
+}

@@ -1,0 +1,207 @@
+{
+  "id": "565d87c4-3628-4756-b53f-5de28ba7ed6c",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "やばい",
+      "language": "ja"
+    },
+    {
+      "start": 2.0,
+      "end": 3.0,
+      "text": "上に打ち上げて",
+      "language": "ja"
+    },
+    {
+      "start": 3.0,
+      "end": 5.0,
+      "text": "怖い怖い",
+      "language": "ja"
+    },
+    {
+      "start": 5.0,
+      "end": 7.0,
+      "text": "外に逃げる読みの空中前だったんですが",
+      "language": "ja"
+    },
+    {
+      "start": 7.0,
+      "end": 9.0,
+      "text": "ここは掴みを通して空中後ろ",
+      "language": "ja"
+    },
+    {
+      "start": 9.0,
+      "end": 10.0,
+      "text": "ボムから",
+      "language": "ja"
+    },
+    {
+      "start": 10.0,
+      "end": 12.0,
+      "text": "空中後ろ",
+      "language": "ja"
+    },
+    {
+      "start": 12.0,
+      "end": 14.0,
+      "text": "さあ展開",
+      "language": "ja"
+    },
+    {
+      "start": 14.0,
+      "end": 15.0,
+      "text": "崖展開",
+      "language": "ja"
+    },
+    {
+      "start": 15.0,
+      "end": 16.0,
+      "text": "美味しい美味しい",
+      "language": "ja"
+    },
+    {
+      "start": 16.0,
+      "end": 17.0,
+      "text": "上強は当たらないが",
+      "language": "ja"
+    },
+    {
+      "start": 17.0,
+      "end": 18.0,
+      "text": "ジャンプで何度か返ってくる",
+      "language": "ja"
+    },
+    {
+      "start": 18.0,
+      "end": 19.0,
+      "text": "ラインの延長",
+      "language": "ja"
+    },
+    {
+      "start": 19.0,
+      "end": 20.0,
+      "text": "チャージショット引っかかった",
+      "language": "ja"
+    },
+    {
+      "start": 20.0,
+      "end": 21.0,
+      "text": "もう一度崖",
+      "language": "ja"
+    },
+    {
+      "start": 21.0,
+      "end": 22.0,
+      "text": "ゴリパン読まれている",
+      "language": "ja"
+    },
+    {
+      "start": 22.0,
+      "end": 23.0,
+      "text": "しっかりガード",
+      "language": "ja"
+    },
+    {
+      "start": 23.0,
+      "end": 24.0,
+      "text": "ガードしても反撃なかったから",
+      "language": "ja"
+    },
+    {
+      "start": 24.0,
+      "end": 25.0,
+      "text": "崖が登れた",
+      "language": "ja"
+    },
+    {
+      "start": 25.0,
+      "end": 26.0,
+      "text": "怖い",
+      "language": "ja"
+    },
+    {
+      "start": 26.0,
+      "end": 27.0,
+      "text": "ボムから",
+      "language": "ja"
+    },
+    {
+      "start": 27.0,
+      "end": 28.0,
+      "text": "何が",
+      "language": "ja"
+    },
+    {
+      "start": 28.0,
+      "end": 29.0,
+      "text": "何がこれ",
+      "language": "ja"
+    },
+    {
+      "start": 29.0,
+      "end": 31.0,
+      "text": "上手すぎる横強攻撃",
+      "language": "ja"
+    },
+    {
+      "start": 31.0,
+      "end": 32.0,
+      "text": "合わせるの",
+      "language": "ja"
+    },
+    {
+      "start": 32.0,
+      "end": 34.0,
+      "text": "今度はドンキーコング側だ",
+      "language": "ja"
+    },
+    {
+      "start": 34.0,
+      "end": 35.0,
+      "text": "確かに",
+      "language": "ja"
+    },
+    {
+      "start": 35.0,
+      "end": 36.0,
+      "text": "確かに",
+      "language": "ja"
+    },
+    {
+      "start": 36.0,
+      "end": 38.0,
+      "text": "上手すぎるだろ",
+      "language": "ja"
+    },
+    {
+      "start": 38.0,
+      "end": 40.0,
+      "text": "怖いなマジで",
+      "language": "ja"
+    },
+    {
+      "start": 40.0,
+      "end": 41.0,
+      "text": "下強のヒットが",
+      "language": "ja"
+    }
+  ],
+  "full_text": "やばい 上に打ち上げて 怖い怖い 外に逃げる読みの空中前だったんですが ここは掴みを通して空中後ろ ボムから 空中後ろ さあ展開 崖展開 美味しい美味しい 上強は当たらないが ジャンプで何度か返ってくる ラインの延長 チャージショット引っかかった もう一度崖 ゴリパン読まれている しっかりガード ガードしても反撃なかったから 崖が登れた 怖い ボムから 何が 何がこれ 上手すぎる横強攻撃 合わせるの 今度はドンキーコング側だ 確かに 確かに 上手すぎるだろ 怖いなマジで 下強のヒットが",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 10,
+      "original": "上今日は当たらないが",
+      "corrected": "上強は当たらないが",
+      "rule": "misheard word (今日→強)"
+    },
+    {
+      "segment_idx": 12,
+      "original": "マイルの延長",
+      "corrected": "ラインの延長",
+      "rule": "misheard word (マイル→ライン)"
+    }
+  ]
+}

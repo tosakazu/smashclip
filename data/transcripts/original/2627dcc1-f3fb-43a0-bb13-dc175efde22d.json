@@ -1,0 +1,38 @@
+{
+  "id": "2627dcc1-f3fb-43a0-bb13-dc175efde22d",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.4,
+      "text": "ブロックを作って",
+      "language": "ja"
+    },
+    {
+      "start": 2.4,
+      "end": 3.46,
+      "text": "さあどうする",
+      "language": "ja"
+    },
+    {
+      "start": 3.46,
+      "end": 5.64,
+      "text": "二段ジャンプを使って移動回避",
+      "language": "ja"
+    },
+    {
+      "start": 5.64,
+      "end": 7.58,
+      "text": "面白すぎる",
+      "language": "ja"
+    },
+    {
+      "start": 7.58,
+      "end": 10.62,
+      "text": "前に行ったと",
+      "language": "ja"
+    }
+  ],
+  "full_text": "ブロックを作って さあどうする 二段ジャンプを使って移動回避 面白すぎる 前に行ったと",
+  "detected_language": "ja",
+  "corrections": []
+}

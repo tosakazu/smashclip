@@ -1,0 +1,39 @@
+{
+  "id": "cc928295-9bf6-46e4-bb75-e55c7547f118",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 8.5,
+      "text": "ヒカリが突然多分リュウの空上から撃墜することも多いんで こっちでたぶん着地狩りした方がいいんじゃないかな なるほど",
+      "language": "ja"
+    },
+    {
+      "start": 8.5,
+      "end": 15.12,
+      "text": "さあこの選択がきちゃってるか それとも不 少し早めのメテオ",
+      "language": "ja"
+    }
+  ],
+  "full_text": "ヒカリが突然多分リュウの空上から撃墜することも多いんで こっちでたぶん着地狩りした方がいいんじゃないかな なるほど さあこの選択がきちゃってるか それとも不 少し早めのメテオ",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "方が突然多分龍",
+      "corrected": "ヒカリが突然多分リュウ",
+      "rule": "character name (Ryu/Pyra/Mythra)"
+    },
+    {
+      "segment_idx": 0,
+      "original": "着地ありした方が",
+      "corrected": "着地狩りした方が",
+      "rule": "smash term (着地狩り)"
+    },
+    {
+      "segment_idx": 1,
+      "original": "少し前のメリー",
+      "corrected": "少し早めのメテオ",
+      "rule": "smash term (メテオ)"
+    }
+  ]
+}

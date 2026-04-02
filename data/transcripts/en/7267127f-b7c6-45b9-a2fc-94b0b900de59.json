@@ -1,0 +1,56 @@
+{
+  "id": "7267127f-b7c6-45b9-a2fc-94b0b900de59",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.08,
+      "text": "Now that they've taken it!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "1ステージ取ったからには"
+    },
+    {
+      "start": 1.08,
+      "end": 4.08,
+      "text": "Neo's true strength shines!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ネオの真骨頂が光る"
+    },
+    {
+      "start": 4.08,
+      "end": 8.38,
+      "text": "From the double jump into the air!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "2段から空中へ"
+    },
+    {
+      "start": 8.38,
+      "end": 12.76,
+      "text": "And the forward tilt!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さらには横強"
+    },
+    {
+      "start": 12.76,
+      "end": 13.4,
+      "text": "Right here!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここで"
+    }
+  ],
+  "full_text": "Now that they've taken it! Neo's true strength shines! From the double jump into the air! And the forward tilt! Right here!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 3,
+      "original": "横狂気",
+      "corrected": "横強",
+      "rule": "kanji homophone: 狂気→強"
+    }
+  ]
+}

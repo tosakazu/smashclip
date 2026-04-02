@@ -1,0 +1,51 @@
+{
+  "id": "85030873-bbdb-4d7a-8371-acd45ee400eb",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.8,
+      "text": "上必殺技通らずしかし空後が通っていく",
+      "language": "ja"
+    },
+    {
+      "start": 3.8,
+      "end": 5.34,
+      "text": "横強行して",
+      "language": "ja"
+    },
+    {
+      "start": 5.34,
+      "end": 10.8,
+      "text": "空後通らない",
+      "language": "ja"
+    },
+    {
+      "start": 10.8,
+      "end": 13.16,
+      "text": "これは横必殺技",
+      "language": "ja"
+    },
+    {
+      "start": 13.16,
+      "end": 15.02,
+      "text": "そのままカートで一気に撃墜",
+      "language": "ja"
+    }
+  ],
+  "full_text": "上必殺技通らずしかし空後が通っていく 横強行して 空後通らない これは横必殺技 そのままカートで一気に撃墜",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "空中白",
+      "corrected": "空後",
+      "rule": "move name (空中白→空後)"
+    },
+    {
+      "segment_idx": 2,
+      "original": "空中白",
+      "corrected": "空後",
+      "rule": "move name (空中白→空後)"
+    }
+  ]
+}

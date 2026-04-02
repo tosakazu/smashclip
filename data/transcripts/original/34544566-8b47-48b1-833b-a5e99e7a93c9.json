@@ -1,0 +1,63 @@
+{
+  "id": "34544566-8b47-48b1-833b-a5e99e7a93c9",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.86,
+      "text": "難しいところだったらおそらくそういうところでしょう",
+      "language": "ja"
+    },
+    {
+      "start": 1.86,
+      "end": 6.84,
+      "text": "さあそれでも次の紫を構えつつ",
+      "language": "ja"
+    },
+    {
+      "start": 6.84,
+      "end": 9.4,
+      "text": "撃墜を狙うパーセント帯",
+      "language": "ja"
+    },
+    {
+      "start": 9.4,
+      "end": 12.82,
+      "text": "シュートン選手側が先ほどから空後をガードさせて",
+      "language": "ja"
+    },
+    {
+      "start": 12.82,
+      "end": 14.24,
+      "text": "その後の読みをうまく制して",
+      "language": "ja"
+    }
+  ],
+  "full_text": "難しいところだったらおそらくそういうところでしょう さあそれでも次の紫を構えつつ 撃墜を狙うパーセント帯 シュートン選手側が先ほどから空後をガードさせて その後の読みをうまく制して",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "パーセントタイ",
+      "corrected": "パーセント帯",
+      "rule": "kanji: 帯(たい)"
+    },
+    {
+      "segment_idx": 3,
+      "original": "中東選手",
+      "corrected": "シュートン選手",
+      "rule": "player name: Shuton"
+    },
+    {
+      "segment_idx": 3,
+      "original": "空中白",
+      "corrected": "空後",
+      "rule": "misheard: 空中白→空後"
+    },
+    {
+      "segment_idx": 4,
+      "original": "余命",
+      "corrected": "読み",
+      "rule": "misheard: 読み"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "fd66ec27-6dcd-4b0b-8fde-d7c8c9168fba",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 7.26,
+      "text": "okay right there corner carry okay doubling up on the kicks here absolutely",
+      "language": "en"
+    },
+    {
+      "start": 7.26,
+      "end": 11.04,
+      "text": "now Atreus being really troublesome to get",
+      "language": "en"
+    }
+  ],
+  "full_text": "okay right there corner carry okay doubling up on the kicks here absolutely now Atreus being really troublesome to get",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "atreus",
+      "corrected": "Atreus",
+      "rule": "player name capitalization"
+    }
+  ]
+}

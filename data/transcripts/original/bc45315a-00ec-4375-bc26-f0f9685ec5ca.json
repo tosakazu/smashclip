@@ -1,0 +1,27 @@
+{
+  "id": "bc45315a-00ec-4375-bc26-f0f9685ec5ca",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.84,
+      "text": "just about to say man gotta be careful about that definitely a big win",
+      "language": "en"
+    },
+    {
+      "start": 3.84,
+      "end": 8.84,
+      "text": "condition here that may blow this whole thing out of water Wow",
+      "language": "en"
+    }
+  ],
+  "full_text": "just about to say man gotta be careful about that definitely a big win condition here that may blow this whole thing out of water Wow",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "wind",
+      "corrected": "win",
+      "rule": "Whisper error"
+    }
+  ]
+}

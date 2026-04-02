@@ -1,0 +1,49 @@
+{
+  "id": "2f020d6e-b803-4ba8-9b67-3701c9ec628f",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.3,
+      "text": "Forward tilt with the timing slightly off, but...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "少しタイミングをずらした中足でありましたが"
+    },
+    {
+      "start": 3.3,
+      "end": 3.72,
+      "text": "On fire!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "灼熱"
+    },
+    {
+      "start": 3.72,
+      "end": 6.2,
+      "text": "Pushing in but gets caught by an aerial!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "追い込んでいくが空中攻撃"
+    },
+    {
+      "start": 6.2,
+      "end": 7.44,
+      "text": "Great spacing!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "置き方がうまい"
+    },
+    {
+      "start": 7.44,
+      "end": 8.16,
+      "text": "Nice!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "うまいな"
+    }
+  ],
+  "full_text": "Forward tilt with the timing slightly off, but... On fire! Pushing in but gets caught by an aerial! Great spacing! Nice!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

@@ -1,0 +1,39 @@
+{
+  "id": "cc8818f0-62f4-44b0-9d4b-339bce92a27c",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.94,
+      "text": "But these single blocks are forcing him to jump not using the Mythra's ability to run fast",
+      "language": "en"
+    },
+    {
+      "start": 5.0,
+      "end": 9.66,
+      "text": "Yeah, and he's actually breaking the wall for the syrup at the time and Leo gets there. He's already gone",
+      "language": "en"
+    },
+    {
+      "start": 9.66,
+      "end": 13.2,
+      "text": "Oh look at that, barely misses the pop out of that, but nothing to worry about",
+      "language": "en"
+    }
+  ],
+  "full_text": "But these single blocks are forcing him to jump not using the Mythra's ability to run fast Yeah, and he's actually breaking the wall for the syrup at the time and Leo gets there. He's already gone Oh look at that, barely misses the pop out of that, but nothing to worry about",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "the mistress ability",
+      "corrected": "the Mythra's ability",
+      "rule": "character name (Mythra misheard as mistress)"
+    },
+    {
+      "segment_idx": 1,
+      "original": "little gets there",
+      "corrected": "Leo gets there",
+      "rule": "player name (MkLeo)"
+    }
+  ]
+}

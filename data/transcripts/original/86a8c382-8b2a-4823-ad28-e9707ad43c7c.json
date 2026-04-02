@@ -1,0 +1,26 @@
+{
+  "id": "86a8c382-8b2a-4823-ad28-e9707ad43c7c",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.88,
+      "text": "Jump!",
+      "language": "en"
+    },
+    {
+      "start": 3.88,
+      "end": 4.88,
+      "text": "Jump!",
+      "language": "en"
+    },
+    {
+      "start": 4.88,
+      "end": 7.88,
+      "text": "Jump!",
+      "language": "en"
+    }
+  ],
+  "full_text": "Jump! Jump! Jump!",
+  "detected_language": "en",
+  "corrections": []
+}

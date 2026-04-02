@@ -1,0 +1,118 @@
+{
+  "id": "f23d68ee-700c-4e9f-833f-0b0975f31226",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.96,
+      "text": "He got out!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "抜けられた"
+    },
+    {
+      "start": 0.96,
+      "end": 3.4,
+      "text": "Is the depth coming through?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "深みはめくれているか"
+    },
+    {
+      "start": 3.4,
+      "end": 4.92,
+      "text": "Man, DI is tough!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いやーDI難しいですよ"
+    },
+    {
+      "start": 4.92,
+      "end": 5.94,
+      "text": "From that position",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "今の位置"
+    },
+    {
+      "start": 5.94,
+      "end": 7.12,
+      "text": "Really tough",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "本当に難しい"
+    },
+    {
+      "start": 7.12,
+      "end": 8.38,
+      "text": "That's seriously hard!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "マジで難しいです今の"
+    },
+    {
+      "start": 8.38,
+      "end": 10.3,
+      "text": "Mahoro's barely dodging, but...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "マホロもギリギリかわしているが"
+    },
+    {
+      "start": 10.3,
+      "end": 11.74,
+      "text": "Still not in trouble",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "それでも窮地いらず"
+    },
+    {
+      "start": 11.74,
+      "end": 12.72,
+      "text": "Before you know it",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "気がつけば"
+    },
+    {
+      "start": 12.72,
+      "end": 14.04,
+      "text": "nair KO!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空Nニュートラルの撃墜"
+    },
+    {
+      "start": 14.04,
+      "end": 15.18,
+      "text": "Ouch!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "痛いなー"
+    },
+    {
+      "start": 15.18,
+      "end": 16.44,
+      "text": "That was perfect!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "完璧でしたね"
+    }
+  ],
+  "full_text": "He got out! Is the depth coming through? Man, DI is tough! From that position, really tough. That's seriously hard! Mahoro's barely dodging, but... still not in trouble. Before you know it, nair KO! Ouch! That was perfect!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "DNA",
+      "corrected": "DI",
+      "rule": "smash term: DNA→DI"
+    },
+    {
+      "segment_idx": 9,
+      "original": "宇宙ニュートラル",
+      "corrected": "空Nニュートラル",
+      "rule": "misheard: 宇宙→空N"
+    }
+  ]
+}

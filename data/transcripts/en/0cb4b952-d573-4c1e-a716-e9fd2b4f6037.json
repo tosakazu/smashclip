@@ -1,0 +1,41 @@
+{
+  "id": "0cb4b952-d573-4c1e-a716-e9fd2b4f6037",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.18,
+      "text": "Getup attack here!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "足返す 攻撃起き上がりをここで選択"
+    },
+    {
+      "start": 2.18,
+      "end": 5.92,
+      "text": "Mashing into down tilt!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "トロッコで暴れて 下強から"
+    },
+    {
+      "start": 5.92,
+      "end": 8.64,
+      "text": "Shield break timing was a bit late...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ブロックの自然破壊のタイミングが少し遅かったか"
+    },
+    {
+      "start": 8.64,
+      "end": 9.64,
+      "text": "But up tilt from here!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "しかし上強から"
+    }
+  ],
+  "full_text": "Getup attack here! Mashing into down tilt! Shield break timing was a bit late... But up tilt from here!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

@@ -1,0 +1,44 @@
+{
+  "id": "b2c50fe9-6082-4f66-9b31-5200e12a3efa",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.56,
+      "text": "See the amount of damage that he's doing.",
+      "language": "en"
+    },
+    {
+      "start": 1.56,
+      "end": 3.6,
+      "text": "So he needs to punish his mobility.",
+      "language": "en"
+    },
+    {
+      "start": 3.6,
+      "end": 5.94,
+      "text": "He needs to punish the moment that he loses.",
+      "language": "en"
+    },
+    {
+      "start": 5.94,
+      "end": 7.0,
+      "text": "What? Oh, exactly.",
+      "language": "en"
+    },
+    {
+      "start": 7.0,
+      "end": 8.5,
+      "text": "Just like that, just like that.",
+      "language": "en"
+    },
+    {
+      "start": 9.46,
+      "end": 10.3,
+      "text": "There it goes.",
+      "language": "en"
+    }
+  ],
+  "full_text": "See the amount of damage that he's doing. So he needs to punish his mobility. He needs to punish the moment that he loses. What? Oh, exactly. Just like that, just like that. There it goes.",
+  "detected_language": "en",
+  "corrections": []
+}

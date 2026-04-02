@@ -1,0 +1,27 @@
+{
+  "id": "baf3a4da-263b-4bd1-9215-23b877ebff0a",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.14,
+      "text": "A lot on the line, a trip to winner's side for the 16-man bracket, day 3 here at the Throne 2.",
+      "language": "en"
+    },
+    {
+      "start": 6.68,
+      "end": 11.56,
+      "text": "zackray almost catches the nair here, Spargo has to have some kind of response very soon and there it is.",
+      "language": "en"
+    }
+  ],
+  "full_text": "A lot on the line, a trip to winner's side for the 16-man bracket, day 3 here at the Throne 2. zackray almost catches the nair here, Spargo has to have some kind of response very soon and there it is.",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "Zachary almost",
+      "corrected": "zackray almost",
+      "rule": "player name"
+    }
+  ]
+}

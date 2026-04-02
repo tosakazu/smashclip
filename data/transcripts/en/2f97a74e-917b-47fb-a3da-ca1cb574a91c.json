@@ -1,0 +1,56 @@
+{
+  "id": "2f97a74e-917b-47fb-a3da-ca1cb574a91c",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.22,
+      "text": "Banana drop, responds to it here too",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "バナナ落とし、ここにも反応する"
+    },
+    {
+      "start": 1.22,
+      "end": 2.94,
+      "text": "Counters that with an anti-air",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そこに対して対空で合わせる"
+    },
+    {
+      "start": 2.94,
+      "end": 4.96,
+      "text": "This ledge",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "この崖"
+    },
+    {
+      "start": 4.96,
+      "end": 7.5,
+      "text": "Bair off the banana",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "バナナから空後"
+    },
+    {
+      "start": 7.5,
+      "end": 9.14,
+      "text": "Wow, this exchange",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いやーこの点"
+    }
+  ],
+  "full_text": "Banana drop, responds to it here too Counters that with an anti-air This ledge Bair off the banana Wow, this exchange",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 3,
+      "original": "空中しろ",
+      "corrected": "空後",
+      "rule": "move name normalization"
+    }
+  ]
+}

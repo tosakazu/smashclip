@@ -1,0 +1,41 @@
+{
+  "id": "1f128021-1e48-40ae-9c61-d395fbbc46b8",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.94,
+      "text": "Kuro keeps the edgeguard going with KO opportunities!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "復帰阻止展開が継続してくろー選手の撃墜チャンスがありました"
+    },
+    {
+      "start": 2.94,
+      "end": 4.68,
+      "text": "But he barely makes it back",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "なんとか生還できたが"
+    },
+    {
+      "start": 4.68,
+      "end": 7.0,
+      "text": "There's a 100% damage gap though",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "パーセント差100%あるんですが"
+    },
+    {
+      "start": 7.0,
+      "end": 8.08,
+      "text": "Yeah, that's insane",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "んーこれ強いんだよな"
+    }
+  ],
+  "full_text": "Kuro keeps the edgeguard going with KO opportunities! But he barely makes it back There's a 100% damage gap though Yeah, that's insane",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

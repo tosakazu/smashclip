@@ -1,0 +1,38 @@
+{
+  "id": "c5f1f0b3-4cff-433f-aa6c-ab7fad08d789",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.92,
+      "text": "Oh! Rocket Headbutt!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "あっ ロケット頭突きになってしまった"
+    },
+    {
+      "start": 3.92,
+      "end": 7.6,
+      "text": "And a clean bair!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そして空後でスカッと"
+    }
+  ],
+  "full_text": "Oh! Rocket Headbutt! And a clean bair!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "ロケット術気になってしまった",
+      "corrected": "ロケット頭突きになってしまった",
+      "rule": "misheard move name (Pichu skull bash)"
+    },
+    {
+      "segment_idx": 1,
+      "original": "カーボートスクッチ",
+      "corrected": "空後でスカッと",
+      "rule": "misheard move + expression"
+    }
+  ]
+}

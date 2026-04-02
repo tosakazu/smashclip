@@ -1,0 +1,68 @@
+{
+  "id": "65bfcad6-9d05-49f1-96b5-ea32ebdca83f",
+  "segments": [
+    {
+      "start": 0.4,
+      "end": 1.66,
+      "text": "Get space!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "一旦距離を取れ"
+    },
+    {
+      "start": 1.66,
+      "end": 3.46,
+      "text": "Off the Hadoken",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "波動拳から"
+    },
+    {
+      "start": 3.46,
+      "end": 5.62,
+      "text": "Forward tilt!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "で横強気"
+    },
+    {
+      "start": 5.62,
+      "end": 7.68,
+      "text": "Didn't connect - was that the read?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これが当たらないと読みだったか"
+    },
+    {
+      "start": 7.68,
+      "end": 9.42,
+      "text": "Jab jab up special!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "弱弱昇竜"
+    }
+  ],
+  "full_text": "Get space! Off the Hadoken, forward tilt! Didn't connect - was that the read? Jab jab up special!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "魔導剣",
+      "corrected": "波動拳",
+      "rule": "Ryu move name (はどうけん)"
+    },
+    {
+      "segment_idx": 3,
+      "original": "当たらないと予判だったか",
+      "corrected": "当たらないと読みだったか",
+      "rule": "Smash term (読み=read)"
+    },
+    {
+      "segment_idx": 4,
+      "original": "弱弱勝利",
+      "corrected": "弱弱昇竜",
+      "rule": "Ryu move name (昇竜拳) matching kill move"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "32864524-4ccc-40df-8611-93af2b639853",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.8,
+      "text": "In this situation, won't attack recklessly",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "この状況さあなおちゃ選手安易に攻めることはない"
+    },
+    {
+      "start": 3.8,
+      "end": 9.96,
+      "text": "Gotta hold that banana down tight to extend the combo",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "バナナをしっかり持ってコンボを伸ばしたい"
+    },
+    {
+      "start": 9.96,
+      "end": 12.52,
+      "text": "Lost the minecart off-stage, so stuck here",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "崖外に出したトロッコがないのでここ"
+    }
+  ],
+  "full_text": "In this situation, won't attack recklessly Gotta hold that banana down tight to extend the combo Lost the minecart off-stage, so stuck here",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "直茶選手",
+      "corrected": "なおちゃ選手",
+      "rule": "player name"
+    }
+  ]
+}

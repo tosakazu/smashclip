@@ -1,0 +1,54 @@
+{
+  "id": "7804a0cc-addb-4cef-935c-78085d8a42df",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.78,
+      "text": "Yeah, did he SDI?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "はい、え、ずらしか?"
+    },
+    {
+      "start": 3.08,
+      "end": 4.06,
+      "text": "Got it in!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "足刀蹴り入って"
+    },
+    {
+      "start": 4.06,
+      "end": 5.38,
+      "text": "Oh, caught it!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "え、取った!"
+    },
+    {
+      "start": 5.54,
+      "end": 7.78,
+      "text": "Yeah, I see it now!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いやー、なるほどな"
+    }
+  ],
+  "full_text": "Yeah, did he SDI? Got it in! Oh, caught it! Yeah, I see it now!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "速投蹴り",
+      "corrected": "足刀蹴り",
+      "rule": "move name (Ryu side kick)"
+    },
+    {
+      "segment_idx": 2,
+      "original": "エルトラ",
+      "corrected": "え、取った",
+      "rule": "whisper misrecognition"
+    }
+  ]
+}

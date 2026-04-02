@@ -1,0 +1,44 @@
+{
+  "id": "3febbe71-9bef-44dc-a243-40f00ce6aa3f",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.88,
+      "text": "あー2回目",
+      "language": "ja"
+    },
+    {
+      "start": 0.88,
+      "end": 2.14,
+      "text": "おー見事",
+      "language": "ja"
+    },
+    {
+      "start": 2.14,
+      "end": 3.6,
+      "text": "セービングで",
+      "language": "ja"
+    },
+    {
+      "start": 3.6,
+      "end": 7.74,
+      "text": "耐えることを信頼しきった2回目の空中前でした",
+      "language": "ja"
+    },
+    {
+      "start": 7.74,
+      "end": 9.88,
+      "text": "掴んで",
+      "language": "ja"
+    },
+    {
+      "start": 9.88,
+      "end": 11.58,
+      "text": "おーなるほど",
+      "language": "ja"
+    }
+  ],
+  "full_text": "あー2回目 おー見事 セービングで 耐えることを信頼しきった2回目の空中前でした 掴んで おーなるほど",
+  "detected_language": "ja",
+  "corrections": []
+}

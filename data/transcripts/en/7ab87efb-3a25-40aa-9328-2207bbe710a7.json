@@ -1,0 +1,25 @@
+{
+  "id": "7ab87efb-3a25-40aa-9328-2207bbe710a7",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.3,
+      "text": "Crucial approach!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "重要な差し込み技"
+    },
+    {
+      "start": 1.3,
+      "end": 4.24,
+      "text": "And this too!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そしてこれも"
+    }
+  ],
+  "full_text": "Crucial approach! And this too!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

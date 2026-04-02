@@ -1,0 +1,27 @@
+{
+  "id": "cac38dca-15ea-4a86-b507-9581cab30fc8",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.72,
+      "text": "YamanAction has so many resources at the moment and he's trying to preserve them for as long as possible some kind of platform situation",
+      "language": "en"
+    },
+    {
+      "start": 6.72,
+      "end": 10.98,
+      "text": "Never mind. YamanAction manages to recover without a tech situation. Oh, you're in the blender right now",
+      "language": "en"
+    }
+  ],
+  "full_text": "YamanAction has so many resources at the moment and he's trying to preserve them for as long as possible some kind of platform situation Never mind. YamanAction manages to recover without a tech situation. Oh, you're in the blender right now",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "you're the blender",
+      "corrected": "you're in the blender",
+      "rule": "common phrase"
+    }
+  ]
+}

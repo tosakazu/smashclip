@@ -1,0 +1,32 @@
+{
+  "id": "298589fa-9d63-47f9-94f6-569ec84c3516",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.68,
+      "text": "Man, that whoosh sound keeps spooking me every time!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "危ないもうなんかシュッていう音が出る度に体が怖がっちゃいますよね"
+    },
+    {
+      "start": 3.68,
+      "end": 7.44,
+      "text": "Yeah, I feel you - they had that forward tilt spaced too!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "わかるわこれーしかも今横強を置いてたのに"
+    }
+  ],
+  "full_text": "Man, that whoosh sound keeps spooking me every time! Yeah, I feel you - they had that forward tilt spaced too!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "横胸",
+      "corrected": "横強",
+      "rule": "kanji homophone: 横胸→横強"
+    }
+  ]
+}

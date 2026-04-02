@@ -1,0 +1,63 @@
+{
+  "id": "d4470f85-1c80-41de-a6fe-92afa9420f84",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.16,
+      "text": "で、ジャンプをさせられると ちょっと機動力が足りないぞ",
+      "language": "ja"
+    },
+    {
+      "start": 3.16,
+      "end": 5.5,
+      "text": "ここで追い詰められた状況だが 空中後ろ",
+      "language": "ja"
+    },
+    {
+      "start": 5.5,
+      "end": 7.24,
+      "text": "スティーブが前に出るタイミングで通す",
+      "language": "ja"
+    },
+    {
+      "start": 7.24,
+      "end": 8.5,
+      "text": "あ、ボロになった ピンチになった",
+      "language": "ja"
+    },
+    {
+      "start": 8.5,
+      "end": 10.5,
+      "text": "この崖どう戻る? 空中後ろ",
+      "language": "ja"
+    },
+    {
+      "start": 10.5,
+      "end": 13.14,
+      "text": "これは痛み分けの形ですが 撃墜る",
+      "language": "ja"
+    }
+  ],
+  "full_text": "で、ジャンプをさせられると ちょっと機動力が足りないぞ ここで追い詰められた状況だが 空中後ろ スティーブが前に出るタイミングで通す あ、ボロになった ピンチになった この崖どう戻る? 空中後ろ これは痛み分けの形ですが 撃墜る",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "機能力が足りない",
+      "corrected": "機動力が足りない",
+      "rule": "mishearing (機能力→機動力, mobility)"
+    },
+    {
+      "segment_idx": 3,
+      "original": "ポロになった",
+      "corrected": "ボロになった",
+      "rule": "mishearing (ポロ→ボロ, Steve equipment degraded)"
+    },
+    {
+      "segment_idx": 4,
+      "original": "このガキどう戻る",
+      "corrected": "この崖どう戻る",
+      "rule": "mishearing (ガキ→崖)"
+    }
+  ]
+}

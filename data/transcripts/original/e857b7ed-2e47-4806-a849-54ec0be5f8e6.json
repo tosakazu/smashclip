@@ -1,0 +1,26 @@
+{
+  "id": "e857b7ed-2e47-4806-a849-54ec0be5f8e6",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.64,
+      "text": "決して待たない",
+      "language": "ja"
+    },
+    {
+      "start": 1.64,
+      "end": 3.68,
+      "text": "必要なところでしか待たないぞ",
+      "language": "ja"
+    },
+    {
+      "start": 3.68,
+      "end": 8.0,
+      "text": "転がり許しません",
+      "language": "ja"
+    }
+  ],
+  "full_text": "決して待たない 必要なところでしか待たないぞ 転がり許しません",
+  "detected_language": "ja",
+  "corrections": []
+}

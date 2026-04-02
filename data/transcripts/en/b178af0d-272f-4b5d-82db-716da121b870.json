@@ -1,0 +1,41 @@
+{
+  "id": "b178af0d-272f-4b5d-82db-716da121b870",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.54,
+      "text": "YES! The ledge trap is finally starting!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "よし、ついに崖展開が始まったのか"
+    },
+    {
+      "start": 3.54,
+      "end": 8.9,
+      "text": "Perfect!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "完璧だ"
+    },
+    {
+      "start": 8.9,
+      "end": 11.16,
+      "text": "How long is this gonna last?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いつまで続くんだ、この"
+    },
+    {
+      "start": 11.16,
+      "end": 12.56,
+      "text": "Perfect!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "完璧"
+    }
+  ],
+  "full_text": "YES! The ledge trap is finally starting! Perfect! How long is this gonna last? Perfect!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

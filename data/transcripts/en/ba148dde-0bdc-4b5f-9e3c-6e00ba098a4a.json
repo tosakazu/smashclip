@@ -1,0 +1,41 @@
+{
+  "id": "ba148dde-0bdc-4b5f-9e3c-6e00ba098a4a",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.6,
+      "text": "Constantly applying pressure!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "どんどんと追い込んでいく"
+    },
+    {
+      "start": 1.6,
+      "end": 3.1,
+      "text": "Early up B recovery!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "早めに上B復帰"
+    },
+    {
+      "start": 3.1,
+      "end": 5.18,
+      "text": "If they manage to get back to the stage...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "なんとかステージに帰ってこれたら"
+    },
+    {
+      "start": 5.18,
+      "end": 6.74,
+      "text": "Now back to neutral!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあここはその場に"
+    }
+  ],
+  "full_text": "Constantly applying pressure! Early up B recovery! If they manage to get back to the stage... Now back to neutral!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

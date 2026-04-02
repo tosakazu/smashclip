@@ -1,0 +1,21 @@
+{
+  "id": "fb29fb9b-5e73-45eb-b454-dc69a92d7d34",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.8,
+      "text": "Let Arsene come out. Yeah, I feel like it's easy to get in your head calculating the risk",
+      "language": "en"
+    }
+  ],
+  "full_text": "Let Arsene come out. Yeah, I feel like it's easy to get in your head calculating the risk",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "our scent",
+      "corrected": "Arsene",
+      "rule": "character name: our scent→Arsene (Joker's persona)"
+    }
+  ]
+}

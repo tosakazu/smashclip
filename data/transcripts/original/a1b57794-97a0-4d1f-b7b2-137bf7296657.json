@@ -1,0 +1,27 @@
+{
+  "id": "a1b57794-97a0-4d1f-b7b2-137bf7296657",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.64,
+      "text": "撃墜難しいけど、うん、78までくれば",
+      "language": "ja"
+    },
+    {
+      "start": 2.64,
+      "end": 9.2,
+      "text": "弱からのマベであったりとか、弱からの横スマッシュで撃墜見えてきますよ",
+      "language": "ja"
+    }
+  ],
+  "full_text": "撃墜難しいけど、うん、78までくれば 弱からのマベであったりとか、弱からの横スマッシュで撃墜見えてきますよ",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "ジャッカラ",
+      "corrected": "弱からの",
+      "rule": "move name (jab into)"
+    }
+  ]
+}

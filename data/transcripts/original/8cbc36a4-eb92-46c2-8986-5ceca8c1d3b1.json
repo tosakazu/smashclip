@@ -1,0 +1,28 @@
+{
+  "id": "8cbc36a4-eb92-46c2-8986-5ceca8c1d3b1",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.1,
+      "text": "影響バレるブロック越しでもあらゆるツイークの手札が",
+      "language": "ja"
+    },
+    {
+      "start": 5.1,
+      "end": 6.9,
+      "text": "コーラに忍び寄る",
+      "language": "ja"
+    },
+    {
+      "start": 6.9,
+      "end": 10.0,
+      "text": "ダッシュ攻撃持続たっぷり",
+      "language": "ja"
+    }
+  ],
+  "full_text": "影響バレるブロック越しでもあらゆるツイークの手札が コーラに忍び寄る ダッシュ攻撃持続たっぷり",
+  "detected_language": "ja",
+  "corrections": [
+    "出し攻撃→ダッシュ攻撃 (dash attack, DA)"
+  ]
+}

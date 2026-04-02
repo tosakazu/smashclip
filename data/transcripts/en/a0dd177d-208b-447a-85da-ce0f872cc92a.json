@@ -1,0 +1,41 @@
+{
+  "id": "a0dd177d-208b-447a-85da-ce0f872cc92a",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.66,
+      "text": "Heavy lands the feint into the directional airdodge!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ヘビーのフェイントからの移動回避"
+    },
+    {
+      "start": 2.66,
+      "end": 4.6,
+      "text": "And here's the real attack!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そして本命"
+    },
+    {
+      "start": 4.6,
+      "end": 7.06,
+      "text": "Kanatoko connects and takes the first stock!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "カナトコ通してストック先制"
+    },
+    {
+      "start": 7.06,
+      "end": 9.06,
+      "text": "Oh! They're chasing them down!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "うわー追いかけてる"
+    }
+  ],
+  "full_text": "Heavy lands the feint into the directional airdodge! And here's the real attack! Kanatoko connects and takes the first stock! Oh! They're chasing them down!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

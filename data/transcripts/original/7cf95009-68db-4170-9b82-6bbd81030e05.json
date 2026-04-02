@@ -1,0 +1,20 @@
+{
+  "id": "7cf95009-68db-4170-9b82-6bbd81030e05",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.52,
+      "text": "空対空地対空どちらも相手の予想を上回るような",
+      "language": "ja"
+    },
+    {
+      "start": 6.52,
+      "end": 10.3,
+      "text": "ワンプレイが続いているそのまま",
+      "language": "ja"
+    }
+  ],
+  "full_text": "空対空地対空どちらも相手の予想を上回るような ワンプレイが続いているそのまま",
+  "detected_language": "ja",
+  "corrections": []
+}

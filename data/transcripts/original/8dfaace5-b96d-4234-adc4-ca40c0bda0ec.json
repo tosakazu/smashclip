@@ -1,0 +1,57 @@
+{
+  "id": "8dfaace5-b96d-4234-adc4-ca40c0bda0ec",
+  "segments": [
+    {
+      "start": 0.2,
+      "end": 1.9,
+      "text": "空中前はしっかり浮き身を取って",
+      "language": "ja"
+    },
+    {
+      "start": 1.9,
+      "end": 3.42,
+      "text": "崖展開なんとか維持して",
+      "language": "ja"
+    },
+    {
+      "start": 3.42,
+      "end": 6.7,
+      "text": "ホーミングをかわして",
+      "language": "ja"
+    },
+    {
+      "start": 6.7,
+      "end": 8.38,
+      "text": "ピクミン張り付けたんですが",
+      "language": "ja"
+    },
+    {
+      "start": 8.38,
+      "end": 9.14,
+      "text": "スマッシュまでは当たらない",
+      "language": "ja"
+    },
+    {
+      "start": 9.14,
+      "end": 9.48,
+      "text": "おっと",
+      "language": "ja"
+    },
+    {
+      "start": 9.48,
+      "end": 12.58,
+      "text": "KENの横スマッシュ",
+      "language": "ja"
+    }
+  ],
+  "full_text": "空中前はしっかり浮き身を取って 崖展開なんとか維持して ホーミングをかわして ピクミン張り付けたんですが スマッシュまでは当たらない おっと KENの横スマッシュ",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 6,
+      "original": "剣の横スマッシュ",
+      "corrected": "KENの横スマッシュ",
+      "rule": "player name"
+    }
+  ]
+}

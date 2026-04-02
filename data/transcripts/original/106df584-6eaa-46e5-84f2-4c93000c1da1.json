@@ -1,0 +1,87 @@
+{
+  "id": "106df584-6eaa-46e5-84f2-4c93000c1da1",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.0,
+      "text": "なんとか助かったそしてそのまま空後",
+      "language": "ja"
+    },
+    {
+      "start": 3.0,
+      "end": 4.94,
+      "text": "カズヤの崖奪いちょっと難しいですよね",
+      "language": "ja"
+    },
+    {
+      "start": 4.94,
+      "end": 5.9,
+      "text": "難しいですね",
+      "language": "ja"
+    },
+    {
+      "start": 5.9,
+      "end": 9.9,
+      "text": "いやーしかし今の事故も怖かったんですけれども",
+      "language": "ja"
+    },
+    {
+      "start": 9.9,
+      "end": 11.5,
+      "text": "なんとかリミット使って戻ってきた",
+      "language": "ja"
+    },
+    {
+      "start": 11.5,
+      "end": 13.58,
+      "text": "この一時(いっとき)を生かしたい",
+      "language": "ja"
+    },
+    {
+      "start": 13.58,
+      "end": 14.78,
+      "text": "ただ",
+      "language": "ja"
+    },
+    {
+      "start": 14.78,
+      "end": 15.98,
+      "text": "これは繋がっている",
+      "language": "ja"
+    },
+    {
+      "start": 15.98,
+      "end": 19.5,
+      "text": "最風から上に繋いでいきましょう",
+      "language": "ja"
+    }
+  ],
+  "full_text": "なんとか助かったそしてそのまま空後 カズヤの崖奪いちょっと難しいですよね 難しいですね いやーしかし今の事故も怖かったんですけれども なんとかリミット使って戻ってきた この一時(いっとき)を生かしたい ただ これは繋がっている 最風から上に繋いでいきましょう",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "なんとか助かったそしてそのまま空中しろ",
+      "corrected": "なんとか助かったそしてそのまま空後",
+      "rule": "Move abbreviation: 空中しろ→空後 (back air)"
+    },
+    {
+      "segment_idx": 3,
+      "original": "いやーしかし今の時刻も怖かったんですけれども",
+      "corrected": "いやーしかし今の事故も怖かったんですけれども",
+      "rule": "Kanji homophone: 時刻→事故"
+    },
+    {
+      "segment_idx": 5,
+      "original": "この一時得を生かしたい",
+      "corrected": "この一時(いっとき)を生かしたい",
+      "rule": "Whisper mishearing: 一時得→一時"
+    },
+    {
+      "segment_idx": 8,
+      "original": "最速空陣形から上に繋いでいきましょう",
+      "corrected": "最風から上に繋いでいきましょう",
+      "rule": "Smash terminology: 最速空陣形→最風 (Electric Wind God Fist)"
+    }
+  ]
+}

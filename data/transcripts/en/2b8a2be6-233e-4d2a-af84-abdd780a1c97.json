@@ -1,0 +1,80 @@
+{
+  "id": "2b8a2be6-233e-4d2a-af84-abdd780a1c97",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.16,
+      "text": "I think tama P had the advantage here",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "権利があったのってたまP側だったと思うんですけど"
+    },
+    {
+      "start": 3.16,
+      "end": 6.56,
+      "text": "Next thing you know, Bayonetta's stock is gone!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "気がついたらなんかベヨネッタのストックがなくなってるみたいな"
+    },
+    {
+      "start": 6.56,
+      "end": 9.14,
+      "text": "a cola trying to move left",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "左に移動しようというあcola選手側の動き"
+    },
+    {
+      "start": 9.14,
+      "end": 12.28,
+      "text": "But the up smash doesn't connect, here's the bair!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "しかし上スマッシュが当たらずここで空後"
+    },
+    {
+      "start": 12.28,
+      "end": 13.12,
+      "text": "KO!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "撃墜"
+    }
+  ],
+  "full_text": "I think tama P had the advantage here Next thing you know, Bayonetta's stock is gone! a cola trying to move left But the up smash doesn't connect, here's the bair! KO!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "タマピー",
+      "corrected": "たまP",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 1,
+      "original": "ビオネッタの顔がなくなってる",
+      "corrected": "ベヨネッタのストックがなくなってる",
+      "rule": "misheard: ビオネッタの顔→ベヨネッタのストック"
+    },
+    {
+      "segment_idx": 2,
+      "original": "アコーラ",
+      "corrected": "あcola",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 3,
+      "original": "空中スロー",
+      "corrected": "空後",
+      "rule": "misheard: 空中スロー→空後"
+    },
+    {
+      "segment_idx": 4,
+      "original": "続2位",
+      "corrected": "撃墜",
+      "rule": "misheard: 続2位→撃墜"
+    }
+  ]
+}

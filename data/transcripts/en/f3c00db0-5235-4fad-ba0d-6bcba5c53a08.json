@@ -1,0 +1,41 @@
+{
+  "id": "f3c00db0-5235-4fad-ba0d-6bcba5c53a08",
+  "segments": [
+    {
+      "start": 0.68,
+      "end": 3.06,
+      "text": "Down tilt, backs up once, Monkey Flip!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "下強から1回下がってモンキーフリップ攻撃"
+    },
+    {
+      "start": 3.06,
+      "end": 7.52,
+      "text": "The attack, goes straight to the getup—",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "攻撃、なるほどそのまま上がりをしたところが"
+    },
+    {
+      "start": 7.52,
+      "end": 11.38,
+      "text": "Banana's placed there, down smash but that barely doesn't connect in time!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "バナナが置いてあるので下スマッシュしかしもギリギリ間に合わない"
+    },
+    {
+      "start": 11.38,
+      "end": 14.92,
+      "text": "Here's the Flip, working around the platform!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここはフリップ、作業台回って"
+    }
+  ],
+  "full_text": "Down tilt, backs up once, Monkey Flip! The attack, goes straight to the getup— Banana's placed there, down smash but that barely doesn't connect in time! Here's the Flip, working around the platform!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

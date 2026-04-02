@@ -1,0 +1,39 @@
+{
+  "id": "5cec6692-f658-4555-b7be-285ba6b356da",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.6,
+      "text": "バナナ経由の面白いコンボが見れそうだったんですが",
+      "language": "ja"
+    },
+    {
+      "start": 2.6,
+      "end": 4.44,
+      "text": "マイルドなH.O選手これをしっかり拒否",
+      "language": "ja"
+    },
+    {
+      "start": 4.44,
+      "end": 5.62,
+      "text": "空中上で暴れて",
+      "language": "ja"
+    },
+    {
+      "start": 5.62,
+      "end": 8.3,
+      "text": "さあ縦軸の展開空中ニュートラル深めに",
+      "language": "ja"
+    }
+  ],
+  "full_text": "バナナ経由の面白いコンボが見れそうだったんですが マイルドなH.O選手これをしっかり拒否 空中上で暴れて さあ縦軸の展開空中ニュートラル深めに",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "マルタン・エイチョウ選手",
+      "corrected": "マイルドなH.O選手",
+      "rule": "player name"
+    }
+  ]
+}

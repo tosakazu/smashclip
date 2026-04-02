@@ -1,0 +1,70 @@
+{
+  "id": "3781cce2-3eaf-41df-bc0c-964b5bd6cdca",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.94,
+      "text": "Broke through!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ブッキャー通した"
+    },
+    {
+      "start": 1.94,
+      "end": 4.1,
+      "text": "Anti-air Mega Volt!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "対空メガボルト"
+    },
+    {
+      "start": 4.1,
+      "end": 6.38,
+      "text": "Wario's weight!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ワリオの体重の重さ"
+    },
+    {
+      "start": 6.38,
+      "end": 8.24,
+      "text": "The Bike is destroyed!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "衛星カスがバイクが破壊される"
+    },
+    {
+      "start": 8.24,
+      "end": 10.1,
+      "text": "With nair!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空Nで"
+    },
+    {
+      "start": 10.1,
+      "end": 11.04,
+      "text": "Sealed it!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "詰め切った"
+    }
+  ],
+  "full_text": "Broke through! Anti-air Mega Volt! Wario's weight! The Bike is destroyed! With nair! Sealed it!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 3,
+      "original": "衛星カスが",
+      "corrected": "衛星カスが",
+      "rule": "no change needed"
+    },
+    {
+      "segment_idx": 4,
+      "original": "宇宙ニュートラルで",
+      "corrected": "空Nで",
+      "rule": "宇宙X→空X, 空中ニュートラル→空N"
+    }
+  ]
+}

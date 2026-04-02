@@ -1,0 +1,33 @@
+{
+  "id": "4b45eef5-24c8-4609-b65c-c1cea28eb142",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.12,
+      "text": "きついようだからそんなもんか",
+      "language": "ja"
+    },
+    {
+      "start": 4.94,
+      "end": 8.98,
+      "text": "ガーキャン空前でちょうどセンターの前",
+      "language": "ja"
+    },
+    {
+      "start": 8.98,
+      "end": 11.34,
+      "text": "これは",
+      "language": "ja"
+    }
+  ],
+  "full_text": "きついようだからそんなもんか ガーキャン空前でちょうどセンターの前 これは",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "がキャンク者前でちょうどセンターの前",
+      "corrected": "ガーキャン空前でちょうどセンターの前",
+      "rule": "Smash terminology + move abbreviation"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "87fb3a7c-63d6-48cf-8149-986254953000",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.4,
+      "text": "盛り上がりも絶好調というところですがステージは村と町",
+      "language": "ja"
+    },
+    {
+      "start": 4.4,
+      "end": 6.46,
+      "text": "あっとここは",
+      "language": "ja"
+    }
+  ],
+  "full_text": "盛り上がりも絶好調というところですがステージは村と町 あっとここは",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "村戸町",
+      "corrected": "村と町",
+      "rule": "stage name (村戸町→村と町)"
+    }
+  ]
+}

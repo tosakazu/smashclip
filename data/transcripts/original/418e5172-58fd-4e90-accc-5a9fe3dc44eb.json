@@ -1,0 +1,57 @@
+{
+  "id": "418e5172-58fd-4e90-accc-5a9fe3dc44eb",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.96,
+      "text": "ないのがこのケンという男",
+      "language": "ja"
+    },
+    {
+      "start": 0.96,
+      "end": 1.72,
+      "text": "ダッシュアタック",
+      "language": "ja"
+    },
+    {
+      "start": 1.72,
+      "end": 2.82,
+      "text": "差し込んで",
+      "language": "ja"
+    },
+    {
+      "start": 2.82,
+      "end": 4.46,
+      "text": "崖を吸わせる",
+      "language": "ja"
+    },
+    {
+      "start": 4.46,
+      "end": 5.76,
+      "text": "空中上で拾って",
+      "language": "ja"
+    },
+    {
+      "start": 5.76,
+      "end": 7.66,
+      "text": "もう一台空中上空中後ろ",
+      "language": "ja"
+    },
+    {
+      "start": 7.66,
+      "end": 8.9,
+      "text": "だったんですが笛を",
+      "language": "ja"
+    }
+  ],
+  "full_text": "ないのがこのケンという男 ダッシュアタック 差し込んで 崖を吸わせる 空中上で拾って もう一台空中上空中後ろ だったんですが笛を",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "ケント",
+      "corrected": "ケン",
+      "rule": "player name: KEN = ケン"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": "fde318fe-e8e7-491b-999b-a5829da3c981",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.14,
+      "text": "空中前は出ていく",
+      "language": "ja"
+    },
+    {
+      "start": 3.14,
+      "end": 4.28,
+      "text": "右に出している",
+      "language": "ja"
+    },
+    {
+      "start": 4.28,
+      "end": 6.88,
+      "text": "ここ我慢してというところ",
+      "language": "ja"
+    },
+    {
+      "start": 6.88,
+      "end": 8.2,
+      "text": "しかし空中前が通る",
+      "language": "ja"
+    },
+    {
+      "start": 8.2,
+      "end": 9.36,
+      "text": "右に出ているぞ",
+      "language": "ja"
+    },
+    {
+      "start": 9.36,
+      "end": 12.3,
+      "text": "さらに空中ニュートラルで撃墜",
+      "language": "ja"
+    }
+  ],
+  "full_text": "空中前は出ていく 右に出している ここ我慢してというところ しかし空中前が通る 右に出ているぞ さらに空中ニュートラルで撃墜",
+  "detected_language": "ja",
+  "corrections": []
+}

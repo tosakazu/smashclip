@@ -1,0 +1,26 @@
+{
+  "id": "386a0f9d-5b49-437f-af9b-6e67fe1a0eb3",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.3,
+      "text": "思ったより長いこれ",
+      "language": "ja"
+    },
+    {
+      "start": 1.3,
+      "end": 3.46,
+      "text": "上の無理矢理通して",
+      "language": "ja"
+    },
+    {
+      "start": 3.46,
+      "end": 4.76,
+      "text": "さあこれ暴れ",
+      "language": "ja"
+    }
+  ],
+  "full_text": "思ったより長いこれ 上の無理矢理通して さあこれ暴れ",
+  "detected_language": "ja",
+  "corrections": []
+}

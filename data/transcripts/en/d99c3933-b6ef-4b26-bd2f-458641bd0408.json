@@ -1,0 +1,33 @@
+{
+  "id": "d99c3933-b6ef-4b26-bd2f-458641bd0408",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.08,
+      "text": "Gotta minimize the damage there",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "被ダメージは抑えたいところ"
+    },
+    {
+      "start": 3.08,
+      "end": 7.04,
+      "text": "Against that two-hit forward smash, shield accidentally dropped on the second hit",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "2段の横スマッシュに対して思わず2段目でガードが離れてしまっていました"
+    },
+    {
+      "start": 7.04,
+      "end": 9.48,
+      "text": "Hmm, that's incredibly well done",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "うーん非常にうまく"
+    }
+  ],
+  "full_text": "Gotta minimize the damage there. Against that two-hit forward smash, shield accidentally dropped on the second hit. Hmm, that's incredibly well done",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

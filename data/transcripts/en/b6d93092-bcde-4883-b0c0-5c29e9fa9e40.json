@@ -1,0 +1,242 @@
+{
+  "id": "b6d93092-bcde-4883-b0c0-5c29e9fa9e40",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Can he get back?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "帰れるの?"
+    },
+    {
+      "start": 2.0,
+      "end": 4.0,
+      "text": "He's back!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "帰れた!"
+    },
+    {
+      "start": 4.0,
+      "end": 6.0,
+      "text": "What was that?!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "なにそれ?"
+    },
+    {
+      "start": 6.0,
+      "end": 8.0,
+      "text": "Insane!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "うますぎる!"
+    },
+    {
+      "start": 8.0,
+      "end": 12.0,
+      "text": "Counterattack!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空前風反撃"
+    },
+    {
+      "start": 12.0,
+      "end": 16.0,
+      "text": "He recovers!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "帰れる!"
+    },
+    {
+      "start": 16.0,
+      "end": 20.0,
+      "text": "What happens now?!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "どうなるんだ?"
+    },
+    {
+      "start": 20.0,
+      "end": 22.0,
+      "text": "The fateful ledge!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "運命の崖"
+    },
+    {
+      "start": 22.0,
+      "end": 26.0,
+      "text": "Which way?!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "どっちだ?"
+    },
+    {
+      "start": 26.0,
+      "end": 28.0,
+      "text": "Which way?!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "どっちだ?"
+    },
+    {
+      "start": 28.0,
+      "end": 30.0,
+      "text": "KO!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "撃墜!"
+    },
+    {
+      "start": 30.0,
+      "end": 32.0,
+      "text": "What an intense match!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "激戦だった!"
+    },
+    {
+      "start": 36.0,
+      "end": 38.0,
+      "text": "In that critical moment,",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "あの切迫した場面で"
+    },
+    {
+      "start": 38.0,
+      "end": 40.0,
+      "text": "All the way through the loser's bracket!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "裏トーナメントを通しきりました!"
+    },
+    {
+      "start": 40.0,
+      "end": 42.0,
+      "text": "The rising star!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "超新星!"
+    },
+    {
+      "start": 42.0,
+      "end": 44.0,
+      "text": "The champion's return!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "王者の帰還!"
+    },
+    {
+      "start": 44.0,
+      "end": 46.0,
+      "text": "The 13th Bonfire,",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "第13回篝火"
+    },
+    {
+      "start": 46.0,
+      "end": 48.0,
+      "text": "To decide the world champion,",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "世界覇者を決めるに"
+    },
+    {
+      "start": 48.0,
+      "end": 50.0,
+      "text": "In a fitting battle,",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "相応しい戦いで"
+    },
+    {
+      "start": 50.0,
+      "end": 52.0,
+      "text": "Once again, the victor is",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "再び勝ち取ったのは"
+    },
+    {
+      "start": 52.0,
+      "end": 54.0,
+      "text": "Acola!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "アコーラ!"
+    },
+    {
+      "start": 54.0,
+      "end": 56.0,
+      "text": "Congratulations!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "おめでとうございます!"
+    },
+    {
+      "start": 58.0,
+      "end": 60.0,
+      "text": "Thank you for watching!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ご視聴ありがとうございました!"
+    }
+  ],
+  "full_text": "Can he get back? He's back! What was that?! Insane! Counterattack! He recovers! What happens now?! The fateful ledge! Which way?! Which way?! KO! What an intense match! In that critical moment, All the way through the loser's bracket! The rising star! The champion's return! The 13th Bonfire, To decide the world champion, In a fitting battle, Once again, the victor is Acola! Congratulations! Thank you for watching!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "変えれるの?",
+      "corrected": "帰れるの?",
+      "rule": "kanji homophone"
+    },
+    {
+      "segment_idx": 1,
+      "original": "変えた!",
+      "corrected": "帰れた!",
+      "rule": "kanji homophone"
+    },
+    {
+      "segment_idx": 5,
+      "original": "変えれる!",
+      "corrected": "帰れる!",
+      "rule": "kanji homophone"
+    },
+    {
+      "segment_idx": 10,
+      "original": "脱入!",
+      "corrected": "撃墜!",
+      "rule": "misheard word"
+    },
+    {
+      "segment_idx": 12,
+      "original": "切腹した画面で",
+      "corrected": "切迫した場面で",
+      "rule": "kanji homophone"
+    },
+    {
+      "segment_idx": 13,
+      "original": "裏タグを通しきりました!",
+      "corrected": "裏トーナメントを通しきりました!",
+      "rule": "misheard word"
+    },
+    {
+      "segment_idx": 16,
+      "original": "ガガリビー",
+      "corrected": "篝火",
+      "rule": "tournament name"
+    },
+    {
+      "segment_idx": 19,
+      "original": "再び帰りたいったのは",
+      "corrected": "再び勝ち取ったのは",
+      "rule": "misheard word"
+    }
+  ]
+}

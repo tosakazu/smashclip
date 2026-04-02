@@ -1,0 +1,57 @@
+{
+  "id": "97aef7a7-d5c0-4b89-9c93-79b2d7b91e84",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.72,
+      "text": "Uchii closing in here, but...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "近くにかかるうっちぃ選手だが"
+    },
+    {
+      "start": 1.72,
+      "end": 3.6,
+      "text": "Resetting to neutral",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "一旦ニュートラルに戻ります"
+    },
+    {
+      "start": 3.6,
+      "end": 4.5,
+      "text": "Rapid jab",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ラッシュアタック"
+    },
+    {
+      "start": 4.5,
+      "end": 5.72,
+      "text": "Oh, is this bad?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "おーこれはまずいか?"
+    },
+    {
+      "start": 5.96,
+      "end": 6.48,
+      "text": "Back air?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空中後ろ?"
+    },
+    {
+      "start": 7.12,
+      "end": 8.48,
+      "text": "Oh, it lands!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "えー当たるのだな"
+    }
+  ],
+  "full_text": "Uchii closing in here, but... Resetting to neutral Rapid jab Oh, is this bad? Back air? Oh, it lands!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

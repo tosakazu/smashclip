@@ -1,0 +1,93 @@
+{
+  "id": "4ec505fc-3ea5-4f30-a609-800100585539",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.82,
+      "text": "消え",
+      "language": "ja"
+    },
+    {
+      "start": 2.4,
+      "end": 2.9,
+      "text": "回避!",
+      "language": "ja"
+    },
+    {
+      "start": 2.9,
+      "end": 4.4,
+      "text": "崖上がり!",
+      "language": "ja"
+    },
+    {
+      "start": 4.4,
+      "end": 5.4,
+      "text": "おお!うまい!",
+      "language": "ja"
+    },
+    {
+      "start": 5.4,
+      "end": 6.76,
+      "text": "この回避上がり、反転使い!",
+      "language": "ja"
+    },
+    {
+      "start": 6.76,
+      "end": 7.48,
+      "text": "頼む!",
+      "language": "ja"
+    },
+    {
+      "start": 7.48,
+      "end": 7.9,
+      "text": "あっ!",
+      "language": "ja"
+    },
+    {
+      "start": 7.9,
+      "end": 8.26,
+      "text": "きた!",
+      "language": "ja"
+    },
+    {
+      "start": 8.26,
+      "end": 9.46,
+      "text": "来た!",
+      "language": "ja"
+    },
+    {
+      "start": 9.46,
+      "end": 10.52,
+      "text": "このルート!",
+      "language": "ja"
+    },
+    {
+      "start": 10.52,
+      "end": 11.42,
+      "text": "読み切り!",
+      "language": "ja"
+    }
+  ],
+  "full_text": "消え 回避! 崖上がり! おお!うまい! この回避上がり、反転使い! 頼む! あっ! きた! 来た! このルート! 読み切り!",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "エリザ",
+      "corrected": "回避",
+      "rule": "misheard word"
+    },
+    {
+      "segment_idx": 2,
+      "original": "駆け上がり",
+      "corrected": "崖上がり",
+      "rule": "kanji homophone: 駆け→崖"
+    },
+    {
+      "segment_idx": 4,
+      "original": "オーバー上がり、反省使い",
+      "corrected": "回避上がり、反転使い",
+      "rule": "misheard: オーバー→回避, 反省→反転"
+    }
+  ]
+}

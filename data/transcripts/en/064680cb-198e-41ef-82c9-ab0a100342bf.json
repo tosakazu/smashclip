@@ -1,0 +1,32 @@
+{
+  "id": "064680cb-198e-41ef-82c9-ab0a100342bf",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.58,
+      "text": "Okay, gets a grab once again, puts it back off stage.",
+      "language": "en"
+    },
+    {
+      "start": 3.58,
+      "end": 5.8,
+      "text": "You say, yeah, man, last time I air dodged off stage,",
+      "language": "en"
+    },
+    {
+      "start": 5.8,
+      "end": 6.64,
+      "text": "it didn't work out so-",
+      "language": "en"
+    },
+    {
+      "start": 6.64,
+      "end": 8.48,
+      "text": "It didn't work out so-",
+      "language": "en"
+    }
+  ],
+  "full_text": "Okay, gets a grab once again, puts it back off stage. You say, yeah, man, last time I air dodged off stage, it didn't work out so- It didn't work out so-",
+  "detected_language": "en",
+  "corrections": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "7aa4d647-e1c9-4322-9355-0f13748a88de",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.62,
+      "text": "Couldn't land the hit, but secured ledge advantage at 12.",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "当たりは拾えずだがしかし12分にライン有利を得た"
+    },
+    {
+      "start": 3.62,
+      "end": 7.02,
+      "text": "Trading neutral in the mixup right here.",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここで入れ替えるニュートラル読み合い"
+    },
+    {
+      "start": 7.02,
+      "end": 9.14,
+      "text": "Applying relay and pushing in hard.",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "リレーをかけて急"
+    }
+  ],
+  "full_text": "Couldn't land the hit, but secured ledge advantage at 12. Trading neutral in the mixup right here. Applying relay and pushing in hard.",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

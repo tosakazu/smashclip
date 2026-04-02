@@ -1,0 +1,39 @@
+{
+  "id": "4f12f372-c6a7-4e76-a982-2fe7fdeddaa8",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.24,
+      "text": "The winner's set was so, so close, but Monte was hitting 80% to 90%",
+      "language": "en"
+    },
+    {
+      "start": 5.24,
+      "end": 7.02,
+      "text": "of the edgeguards in that set.",
+      "language": "en"
+    },
+    {
+      "start": 7.02,
+      "end": 11.84,
+      "text": "So that is really, really important.",
+      "language": "en"
+    }
+  ],
+  "full_text": "The winner's set was so, so close, but Monte was hitting 80% to 90% of the edgeguards in that set. So that is really, really important.",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "Monty",
+      "corrected": "Monte",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 1,
+      "original": "edge guards",
+      "corrected": "edgeguards",
+      "rule": "smash terminology"
+    }
+  ]
+}

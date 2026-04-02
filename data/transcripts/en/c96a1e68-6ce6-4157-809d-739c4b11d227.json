@@ -1,0 +1,27 @@
+{
+  "id": "c96a1e68-6ce6-4157-809d-739c4b11d227",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.52,
+      "text": "Again, are making sure that, oh, they were hanging on to that stock for quite a while,",
+      "language": "en"
+    },
+    {
+      "start": 4.6,
+      "end": 7.86,
+      "text": "but Guilheww able to find it, finally, but look at that pressure, and jeez!",
+      "language": "en"
+    }
+  ],
+  "full_text": "Again, are making sure that, oh, they were hanging on to that stock for quite a while, but Guilheww able to find it, finally, but look at that pressure, and jeez!",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "Gil Hugh",
+      "corrected": "Guilheww",
+      "rule": "player name"
+    }
+  ]
+}

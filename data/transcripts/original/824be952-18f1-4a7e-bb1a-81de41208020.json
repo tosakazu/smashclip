@@ -1,0 +1,69 @@
+{
+  "id": "824be952-18f1-4a7e-bb1a-81de41208020",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "text": "カキャンリー",
+      "language": "ja"
+    },
+    {
+      "start": 1.0,
+      "end": 3.62,
+      "text": "空Nビームは当たらない",
+      "language": "ja"
+    },
+    {
+      "start": 3.62,
+      "end": 5.5,
+      "text": "だいぶ近づくことができません",
+      "language": "ja"
+    },
+    {
+      "start": 5.5,
+      "end": 7.74,
+      "text": "ガード漏れに対して下シフト",
+      "language": "ja"
+    },
+    {
+      "start": 7.74,
+      "end": 10.24,
+      "text": "やったー",
+      "language": "ja"
+    },
+    {
+      "start": 10.24,
+      "end": 12.26,
+      "text": "押し切ったー",
+      "language": "ja"
+    },
+    {
+      "start": 12.26,
+      "end": 15.06,
+      "text": "1ストック目流れで取られたもの",
+      "language": "ja"
+    }
+  ],
+  "full_text": "カキャンリー 空Nビームは当たらない だいぶ近づくことができません ガード漏れに対して下シフト やったー 押し切ったー 1ストック目流れで取られたもの",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "クエノビーは当たらない",
+      "corrected": "空Nビームは当たらない",
+      "rule": "move abbreviation"
+    },
+    {
+      "segment_idx": 3,
+      "original": "カード漏れに対して下シェフト",
+      "corrected": "ガード漏れに対して下シフト",
+      "rule": "Whisper mishearing"
+    },
+    {
+      "segment_idx": 6,
+      "original": "1フット目流れで取られたもの",
+      "corrected": "1ストック目流れで取られたもの",
+      "rule": "game term"
+    }
+  ]
+}

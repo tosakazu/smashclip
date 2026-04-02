@@ -1,0 +1,41 @@
+{
+  "id": "d7f8b695-5265-4d2f-a8c2-a038ff9e79c6",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.96,
+      "text": "Pichu's always wailing though",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ピチューはいつも泣いてますけどね"
+    },
+    {
+      "start": 1.96,
+      "end": 4.68,
+      "text": "Definitely a KO percent with that lightning kick!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "間違いなく稲妻キックではバーストするパーセントでございます"
+    },
+    {
+      "start": 4.68,
+      "end": 5.3,
+      "text": "I mean",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "もうね"
+    },
+    {
+      "start": 5.3,
+      "end": 7.2,
+      "text": "Like this",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "このように"
+    }
+  ],
+  "full_text": "Pichu's always wailing though Definitely a KO percent with that lightning kick! I mean Like this",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

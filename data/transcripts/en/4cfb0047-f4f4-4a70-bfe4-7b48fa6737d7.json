@@ -1,0 +1,38 @@
+{
+  "id": "4cfb0047-f4f4-4a70-bfe4-7b48fa6737d7",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.04,
+      "text": "Drops the ledge, back to neutral!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "崖を離して そして再びニュートラルの状態から"
+    },
+    {
+      "start": 5.04,
+      "end": 9.98,
+      "text": "Going for the landing—whoa, down air! What was that?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "着地入れます おっと 空下した 今のは?"
+    }
+  ],
+  "full_text": "Drops the ledge, back to neutral! Going for the landing—whoa, down air! What was that?",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "到着入れます",
+      "corrected": "着地入れます",
+      "rule": "kanji homophone: 到着→着地"
+    },
+    {
+      "segment_idx": 1,
+      "original": "空死した",
+      "corrected": "空下した",
+      "rule": "move abbreviation: 空死→空下"
+    }
+  ]
+}

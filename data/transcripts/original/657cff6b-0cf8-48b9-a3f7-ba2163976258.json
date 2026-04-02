@@ -1,0 +1,32 @@
+{
+  "id": "657cff6b-0cf8-48b9-a3f7-ba2163976258",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.14,
+      "text": "スーパーアイクです",
+      "language": "ja"
+    },
+    {
+      "start": 3.14,
+      "end": 5.86,
+      "text": "アイクなんて目じゃないぐらいのパーセントから飛びますけど",
+      "language": "ja"
+    },
+    {
+      "start": 5.86,
+      "end": 7.74,
+      "text": "横強で差し返す",
+      "language": "ja"
+    },
+    {
+      "start": 7.74,
+      "end": 12.2,
+      "text": "シールドして上強攻撃",
+      "language": "ja"
+    }
+  ],
+  "full_text": "スーパーアイクです アイクなんて目じゃないぐらいのパーセントから飛びますけど 横強で差し返す シールドして上強攻撃",
+  "detected_language": "ja",
+  "corrections": []
+}

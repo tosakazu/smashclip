@@ -1,0 +1,27 @@
+{
+  "id": "15cbe5cb-1e73-4d91-b137-68ae4912a93f",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 12.36,
+      "text": "Raru had to improvise a little bit, go for that back air into a B combo instead of the Zair combo that we've been seeing out of him, but now just down to a dash attack, Raru with a little bit of luxury to be able to sit back and do simple stuff, but now as...",
+      "language": "en"
+    }
+  ],
+  "full_text": "Raru had to improvise a little bit, go for that back air into a B combo instead of the Zair combo that we've been seeing out of him, but now just down to a dash attack, Raru with a little bit of luxury to be able to sit back and do simple stuff, but now as...",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "Rauru had to improvise",
+      "corrected": "Raru had to improvise",
+      "rule": "Player name: Rauru→Raru"
+    },
+    {
+      "segment_idx": 0,
+      "original": "Rauru with a little bit of luxury",
+      "corrected": "Raru with a little bit of luxury",
+      "rule": "Player name: Rauru→Raru"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "id": "16f7ec0a-b105-40db-8195-f2284057da67",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.08,
+      "text": "Holding forward smash there, they boldly came in with dash attack",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここは横スマホールドをしている中で果敢にダッシュ攻撃で"
+    },
+    {
+      "start": 5.08,
+      "end": 8.66,
+      "text": "Punished Spin's throw attempt",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "スピンを投げでとがめました"
+    },
+    {
+      "start": 8.66,
+      "end": 12.96,
+      "text": "With Pikmin's hitspark in there, I wonder if there was an easier option",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ピクミンのヒットも込みでやりやすいものがあったのかなと"
+    }
+  ],
+  "full_text": "Holding forward smash there, they boldly came in with dash attack Punished Spin's throw attempt With Pikmin's hitspark in there, I wonder if there was an easier option",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "ロボスマホールをしている中で",
+      "corrected": "横スマホールドをしている中で",
+      "rule": "Garbled transcription: ロボスマホール→横スマホールド"
+    },
+    {
+      "segment_idx": 2,
+      "original": "ピクミンの一つとも込みで",
+      "corrected": "ピクミンのヒットも込みで",
+      "rule": "Garbled transcription: 一つとも→ヒットも"
+    }
+  ]
+}

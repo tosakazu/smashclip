@@ -1,0 +1,38 @@
+{
+  "id": "0e53f3dc-ab7c-4456-8c97-ee10d6d83055",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.68,
+      "text": "キャラパワーは同じくらいだと思うんですけど",
+      "language": "ja"
+    },
+    {
+      "start": 3.68,
+      "end": 4.92,
+      "text": "結構対照的ですね",
+      "language": "ja"
+    },
+    {
+      "start": 4.92,
+      "end": 7.24,
+      "text": "意外とパジュニは強いらしいけど",
+      "language": "ja"
+    },
+    {
+      "start": 7.24,
+      "end": 9.54,
+      "text": "強いらしいというか俺も強いと思ってるんだけど",
+      "language": "ja"
+    },
+    {
+      "start": 9.54,
+      "end": 13.0,
+      "text": "強化",
+      "language": "ja"
+    }
+  ],
+  "full_text": "キャラパワーは同じくらいだと思うんですけど 結構対照的ですね 意外とパジュニは強いらしいけど 強いらしいというか俺も強いと思ってるんだけど 強化",
+  "detected_language": "ja",
+  "corrections": []
+}

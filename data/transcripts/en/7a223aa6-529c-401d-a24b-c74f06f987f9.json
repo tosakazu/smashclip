@@ -1,0 +1,102 @@
+{
+  "id": "7a223aa6-529c-401d-a24b-c74f06f987f9",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.88,
+      "text": "Perfect!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "バッチリ"
+    },
+    {
+      "start": 0.88,
+      "end": 4.14,
+      "text": "Lands that bair tipper clean!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "しっかりと空中後ろのクリティカルを当てて"
+    },
+    {
+      "start": 4.14,
+      "end": 4.96,
+      "text": "Takes the stock!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "撃墜を取り切った"
+    },
+    {
+      "start": 4.96,
+      "end": 6.42,
+      "text": "What's happening?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これはどうなってんか"
+    },
+    {
+      "start": 6.42,
+      "end": 11.88,
+      "text": "By DI'ing away",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "外側にずらすことによって"
+    },
+    {
+      "start": 11.88,
+      "end": 14.48,
+      "text": "But barely avoids losing a stock",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ストックを失う事態だけは避けられましたが"
+    },
+    {
+      "start": 14.48,
+      "end": 15.3,
+      "text": "65%",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "65%から"
+    },
+    {
+      "start": 15.3,
+      "end": 15.72,
+      "text": "Inward DI",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "内ベク変で"
+    },
+    {
+      "start": 15.72,
+      "end": 18.52,
+      "text": "Reading it perfectly!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "内ベク変でしっかり見てる"
+    },
+    {
+      "start": 18.52,
+      "end": 19.48,
+      "text": "Insane!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "なんてことだ"
+    }
+  ],
+  "full_text": "Perfect! Lands that bair tipper clean! Takes the stock! What's happening? By DI'ing away But barely avoids losing a stock 65% Inward DI Reading it perfectly! Insane!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 7,
+      "original": "内部で",
+      "corrected": "内ベク変で",
+      "rule": "ベク変 (DI) misheard"
+    },
+    {
+      "segment_idx": 8,
+      "original": "内部でしっかり見てる",
+      "corrected": "内ベク変でしっかり見てる",
+      "rule": "ベク変 (DI) misheard"
+    }
+  ]
+}

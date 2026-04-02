@@ -1,0 +1,160 @@
+{
+  "id": "4701a2e6-0e75-4f56-9b51-d6c7786e20eb",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Right here! Right here!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここです!ここです!"
+    },
+    {
+      "start": 2.0,
+      "end": 4.0,
+      "text": "Recovery's weak!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "復帰が弱くなります!"
+    },
+    {
+      "start": 4.0,
+      "end": 6.0,
+      "text": "Oh, they made it back!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いやー帰ってしまった!"
+    },
+    {
+      "start": 6.0,
+      "end": 8.0,
+      "text": "For real?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "マジで?"
+    },
+    {
+      "start": 8.0,
+      "end": 10.0,
+      "text": "Down B here!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここで下Bを選択!"
+    },
+    {
+      "start": 10.0,
+      "end": 12.0,
+      "text": "What now?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "どうする?"
+    },
+    {
+      "start": 12.0,
+      "end": 14.0,
+      "text": "Pressure!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "圧をかける!"
+    },
+    {
+      "start": 14.0,
+      "end": 16.0,
+      "text": "That whiff punish went through!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いやー打ち返し通したんですけど"
+    },
+    {
+      "start": 16.0,
+      "end": 18.0,
+      "text": "Read by the dash attack!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ダッシュアタックで見られていました!"
+    },
+    {
+      "start": 18.0,
+      "end": 20.0,
+      "text": "Dair! Still recovering!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空下!まだ戻る!"
+    },
+    {
+      "start": 20.0,
+      "end": 22.0,
+      "text": "No way! No way!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "マジ無理!マジ無理!"
+    },
+    {
+      "start": 22.0,
+      "end": 24.0,
+      "text": "Great recovery!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "よく返したね!"
+    },
+    {
+      "start": 24.0,
+      "end": 26.0,
+      "text": "And the landing!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そして着地の展開!"
+    },
+    {
+      "start": 26.0,
+      "end": 28.0,
+      "text": "Can't even tell!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "分からなくなったぞ!"
+    },
+    {
+      "start": 28.0,
+      "end": 30.0,
+      "text": "Got the read!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここで見た!"
+    },
+    {
+      "start": 30.0,
+      "end": 32.0,
+      "text": "Yeah",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そうですね"
+    },
+    {
+      "start": 32.0,
+      "end": 34.0,
+      "text": "Here at ホール's...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここでホールの"
+    },
+    {
+      "start": 34.0,
+      "end": 36.0,
+      "text": "KO!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "撃墜!"
+    }
+  ],
+  "full_text": "Right here! Right here! Recovery's weak! Oh, they made it back! For real? Down B here! What now? Pressure! That whiff punish went through! Read by the dash attack! Dair! Still recovering! No way! No way! Great recovery! And the landing! Can't even tell! Got the read! Yeah Here at ホール's... KO!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 6,
+      "original": "圧倒をかける",
+      "corrected": "圧をかける",
+      "rule": "misheard phrase"
+    }
+  ]
+}

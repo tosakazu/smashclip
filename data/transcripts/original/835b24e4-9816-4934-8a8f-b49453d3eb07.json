@@ -1,0 +1,39 @@
+{
+  "id": "835b24e4-9816-4934-8a8f-b49453d3eb07",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.16,
+      "text": "なるほど",
+      "language": "ja"
+    },
+    {
+      "start": 0.16,
+      "end": 4.52,
+      "text": "ジャストシールド",
+      "language": "ja"
+    },
+    {
+      "start": 4.52,
+      "end": 9.34,
+      "text": "空前",
+      "language": "ja"
+    },
+    {
+      "start": 9.34,
+      "end": 12.16,
+      "text": "これは撃墜して",
+      "language": "ja"
+    }
+  ],
+  "full_text": "なるほど ジャストシールド 空前 これは撃墜して",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "熊江",
+      "corrected": "空前",
+      "rule": "move name homophone"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "id": "1db128b6-826a-4edb-b564-e862916b6750",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.38,
+      "text": "The bomb's getting erased by the hit!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これ爆弾が攻撃判定で消されちゃって"
+    },
+    {
+      "start": 3.38,
+      "end": 5.38,
+      "text": "Bomb connects, but...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "で爆弾ヒット確認したんですけど"
+    },
+    {
+      "start": 5.38,
+      "end": 5.62,
+      "text": "I see",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "なるほど"
+    },
+    {
+      "start": 5.62,
+      "end": 7.86,
+      "text": "It's just weak contact with the bomb...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "爆弾の擦り当てになっちゃうんですよね"
+    },
+    {
+      "start": 7.86,
+      "end": 10.0,
+      "text": "So that bomb forward smash...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "なるほどその爆弾横スマッシュの"
+    },
+    {
+      "start": 10.0,
+      "end": 11.84,
+      "text": "Not this again?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "またこれですか"
+    }
+  ],
+  "full_text": "The bomb's getting erased by the hit! Bomb connects, but... I see. It's just weak contact with the bomb... So that bomb forward smash... Not this again?",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 4,
+      "original": "なるほどその爆弾ウェスマッシュの",
+      "corrected": "なるほどその爆弾横スマッシュの",
+      "rule": "Whisper mishearing: ウェスマッシュ→横スマッシュ"
+    }
+  ]
+}

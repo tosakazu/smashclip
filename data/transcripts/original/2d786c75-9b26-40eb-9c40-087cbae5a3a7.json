@@ -1,0 +1,39 @@
+{
+  "id": "2d786c75-9b26-40eb-9c40-087cbae5a3a7",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.68,
+      "text": "釣り出した そして横B 確定はしてないものの ガード外に刺さっている",
+      "language": "ja"
+    },
+    {
+      "start": 5.68,
+      "end": 12.38,
+      "text": "空N暴れが間に合って これはかなり後隙が少ない 入れ替わった展開",
+      "language": "ja"
+    }
+  ],
+  "full_text": "釣り出した そして横B 確定はしてないものの ガード外に刺さっている 空N暴れが間に合って これはかなり後隙が少ない 入れ替わった展開",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "陽光B",
+      "corrected": "横B",
+      "rule": "kanji: 陽光→横"
+    },
+    {
+      "segment_idx": 0,
+      "original": "ガードサイドに刺さっている",
+      "corrected": "ガード外に刺さっている",
+      "rule": "misheard: サイド→外"
+    },
+    {
+      "segment_idx": 1,
+      "original": "空中へ暴れ",
+      "corrected": "空N暴れ",
+      "rule": "move: 空中へ→空N"
+    }
+  ]
+}

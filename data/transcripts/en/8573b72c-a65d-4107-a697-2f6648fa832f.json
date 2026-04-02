@@ -1,0 +1,56 @@
+{
+  "id": "8573b72c-a65d-4107-a697-2f6648fa832f",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.04,
+      "text": "Going straight for the up smash!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "上スマッシュを直接打っていきました"
+    },
+    {
+      "start": 4.04,
+      "end": 5.48,
+      "text": "What a crisp up smash!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "生きのいい上スマ"
+    },
+    {
+      "start": 5.48,
+      "end": 8.42,
+      "text": "Not missing these key moments...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "こういった場面を見逃さないというのが"
+    },
+    {
+      "start": 8.42,
+      "end": 10.74,
+      "text": "That's exactly what Mizuno emphasized before the match",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "まさしく試合前に水野さんがおっしゃっていた"
+    },
+    {
+      "start": 10.74,
+      "end": 12.9,
+      "text": "That whole patient defense strategy, right?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "守って守ってというところですよね"
+    }
+  ],
+  "full_text": "Going straight for the up smash! What a crisp up smash! Not missing these key moments... That's exactly what Mizuno emphasized before the match. That whole patient defense strategy, right?",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "息のいい上スマ",
+      "corrected": "生きのいい上スマ",
+      "rule": "kanji homophone (息→生き)"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "d9afa386-3b17-46b6-965e-b4d778e9d613",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.3,
+      "text": "さあどっちが撃墜通せ",
+      "language": "ja"
+    },
+    {
+      "start": 3.3,
+      "end": 6.12,
+      "text": "弱弱昇竜拳",
+      "language": "ja"
+    }
+  ],
+  "full_text": "さあどっちが撃墜通せ 弱弱昇竜拳",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "ジャクジャク昇竜拳",
+      "corrected": "弱弱昇竜拳",
+      "rule": "smash notation (弱)"
+    }
+  ]
+}

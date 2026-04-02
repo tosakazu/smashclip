@@ -1,0 +1,144 @@
+{
+  "id": "e1aab994-0fc7-4b8c-af92-a95e2fc71601",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.58,
+      "text": "Charging it up",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "チャージショット見せているか"
+    },
+    {
+      "start": 1.58,
+      "end": 3.3,
+      "text": "Yoshidora takes the back",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "後ろを取ったヨシドラ"
+    },
+    {
+      "start": 3.3,
+      "end": 5.92,
+      "text": "Will he jump off the edge?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "崖は飛び込むか"
+    },
+    {
+      "start": 5.92,
+      "end": 6.76,
+      "text": "Playing patient",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "我慢する"
+    },
+    {
+      "start": 6.76,
+      "end": 9.34,
+      "text": "Controlling the egg timing",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "卵タイミングをコントロールする"
+    },
+    {
+      "start": 9.34,
+      "end": 10.62,
+      "text": "Grab whiffs",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "掴みがかわす"
+    },
+    {
+      "start": 10.62,
+      "end": 12.58,
+      "text": "Charging it up or...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "チャージショットを貯めるかそれとも"
+    },
+    {
+      "start": 12.58,
+      "end": 13.78,
+      "text": "Against Yoshidora's approach",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "前を詰めてくるヨシドラに対して"
+    },
+    {
+      "start": 13.78,
+      "end": 14.56,
+      "text": "Ooh, tough from behind",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "おっと苦しい後ろ"
+    },
+    {
+      "start": 14.56,
+      "end": 15.32,
+      "text": "Clean spacing on that!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "打点が高い"
+    },
+    {
+      "start": 15.32,
+      "end": 16.06,
+      "text": "The fair!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "どうだ空中前"
+    },
+    {
+      "start": 16.06,
+      "end": 17.36,
+      "text": "That's a hit!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これは撃ついた"
+    },
+    {
+      "start": 17.36,
+      "end": 20.84,
+      "text": "Just makes it back at the last second!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "最後の最後で飛び"
+    }
+  ],
+  "full_text": "Charging it up Yoshidora takes the back Will he jump off the edge? Playing patient Controlling the egg timing Grab whiffs Charging it up or... Against Yoshidora's approach Ooh, tough from behind Clean spacing on that! The fair! That's a hit! Just makes it back at the last second!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "吉澤",
+      "corrected": "ヨシドラ",
+      "rule": "player name (Yoshidora)"
+    },
+    {
+      "segment_idx": 7,
+      "original": "吉澤",
+      "corrected": "ヨシドラ",
+      "rule": "player name (Yoshidora)"
+    },
+    {
+      "segment_idx": 8,
+      "original": "苦しいしろ",
+      "corrected": "苦しい後ろ",
+      "rule": "misheard word (back air)"
+    },
+    {
+      "segment_idx": 10,
+      "original": "どうだくじまえ",
+      "corrected": "どうだ空中前",
+      "rule": "smash term (forward air)"
+    },
+    {
+      "segment_idx": 11,
+      "original": "これは激つい",
+      "corrected": "これは撃ついた",
+      "rule": "misheard word"
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "id": "54f90710-8afe-4f30-a2ba-ff2e3b9de146",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.46,
+      "text": "今度は3対1横スマッシュ振ったんですがまだ撃墜には至らないか",
+      "language": "ja"
+    },
+    {
+      "start": 3.46,
+      "end": 5.84,
+      "text": "いくら体重が軽いゲッチと言えどもまだ耐えています",
+      "language": "ja"
+    },
+    {
+      "start": 5.84,
+      "end": 10.02,
+      "text": "ステップで詰ってこの崖で決めきることができるかどうか",
+      "language": "ja"
+    },
+    {
+      "start": 10.02,
+      "end": 12.64,
+      "text": "ダッシュ攻撃から今度はミーヤのターン",
+      "language": "ja"
+    },
+    {
+      "start": 12.64,
+      "end": 14.04,
+      "text": "より展開が入れ替わって",
+      "language": "ja"
+    },
+    {
+      "start": 14.04,
+      "end": 15.62,
+      "text": "吸収したさらにジャスマンして",
+      "language": "ja"
+    },
+    {
+      "start": 15.62,
+      "end": 16.86,
+      "text": "吸収したメテオ",
+      "language": "ja"
+    },
+    {
+      "start": 16.86,
+      "end": 19.66,
+      "text": "帰ってくること当然できません",
+      "language": "ja"
+    }
+  ],
+  "full_text": "今度は3対1横スマッシュ振ったんですがまだ撃墜には至らないか いくら体重が軽いゲッチと言えどもまだ耐えています ステップで詰ってこの崖で決めきることができるかどうか ダッシュ攻撃から今度はミーヤのターン より展開が入れ替わって 吸収したさらにジャスマンして 吸収したメテオ 帰ってくること当然できません",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "横スマッシュビホールドですが",
+      "corrected": "横スマッシュ振ったんですが",
+      "rule": "misheard word"
+    },
+    {
+      "segment_idx": 1,
+      "original": "ゲッチと言えでも",
+      "corrected": "ゲッチと言えども",
+      "rule": "grammar/misheard"
+    },
+    {
+      "segment_idx": 2,
+      "original": "ステップで潰って",
+      "corrected": "ステップで詰って",
+      "rule": "kanji homophone"
+    },
+    {
+      "segment_idx": 3,
+      "original": "ミニアーのターン",
+      "corrected": "ミーヤのターン",
+      "rule": "player name (Miya)"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "id": "6c5f1a8c-e3d7-4a42-96de-fadcad0c53b5",
+  "segments": [
+    {
+      "start": 0.2,
+      "end": 3.24,
+      "text": "So getup attack's the only option",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そうすると攻撃上がりしかない可能性がありますね"
+    },
+    {
+      "start": 3.24,
+      "end": 6.0,
+      "text": "And side B on the landing",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そして着地が横B"
+    },
+    {
+      "start": 6.0,
+      "end": 8.96,
+      "text": "But getup attack has massive risk if shielded",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "攻撃上がりはねガードされた時のリスクが甚大ですから"
+    },
+    {
+      "start": 8.96,
+      "end": 12.16,
+      "text": "So he can't keep using that option",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そう何度も取れる択ではないでしょうから"
+    },
+    {
+      "start": 12.16,
+      "end": 18.34,
+      "text": "Side B this time takes it to the KO!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "横B今度こそ撃墜まで行きます"
+    }
+  ],
+  "full_text": "So getup attack's the only option And side B on the landing But getup attack has massive risk if shielded So he can't keep using that option Side B this time takes it to the KO!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "横火",
+      "corrected": "横B",
+      "rule": "Whisper mishearing (move name)"
+    },
+    {
+      "segment_idx": 3,
+      "original": "落ちる策",
+      "corrected": "取れる択",
+      "rule": "Whisper mishearing"
+    },
+    {
+      "segment_idx": 4,
+      "original": "横火",
+      "corrected": "横B",
+      "rule": "Whisper mishearing (move name)"
+    }
+  ]
+}

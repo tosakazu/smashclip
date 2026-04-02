@@ -1,0 +1,51 @@
+{
+  "id": "1b989f16-5a18-4b2d-bac8-49bfad2104e6",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.76,
+      "text": "クレイジーですよ",
+      "language": "ja"
+    },
+    {
+      "start": 1.76,
+      "end": 2.88,
+      "text": "青ピクミンにも十分",
+      "language": "ja"
+    },
+    {
+      "start": 2.88,
+      "end": 7.74,
+      "text": "カラゴン撃墜通したが",
+      "language": "ja"
+    },
+    {
+      "start": 7.74,
+      "end": 10.0,
+      "text": "100%以上差があったとは思えない",
+      "language": "ja"
+    },
+    {
+      "start": 10.0,
+      "end": 11.12,
+      "text": "やりとり",
+      "language": "ja"
+    },
+    {
+      "start": 11.12,
+      "end": 12.52,
+      "text": "折り返しによっては本当",
+      "language": "ja"
+    }
+  ],
+  "full_text": "クレイジーですよ 青ピクミンにも十分 カラゴン撃墜通したが 100%以上差があったとは思えない やりとり 折り返しによっては本当",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 5,
+      "original": "折り口によったら本話",
+      "corrected": "折り返しによっては本当",
+      "rule": "Whisper mishearing: 折り口→折り返し, 本話→本当"
+    }
+  ]
+}

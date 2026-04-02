@@ -1,0 +1,46 @@
+{
+  "id": "4f66b750-1951-40ac-9278-5a3ffa129ca2",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "text": "Especially in neutral",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "特にニュートラルがあって"
+    },
+    {
+      "start": 1.0,
+      "end": 3.4,
+      "text": "Charging up smash",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "上スマを溜めていて"
+    },
+    {
+      "start": 3.4,
+      "end": 6.74,
+      "text": "Forward tilt's too slow",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "横強は硬直高くて間に合わなくて"
+    }
+  ],
+  "full_text": "Especially in neutral Charging up smash Forward tilt's too slow",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "とくしゅうにとるがあゆち",
+      "corrected": "特にニュートラルがあって",
+      "rule": "misheard garbled text"
+    },
+    {
+      "segment_idx": 1,
+      "original": "上様足",
+      "corrected": "上スマ",
+      "rule": "kanji homophone: 上様足→上スマ"
+    }
+  ]
+}

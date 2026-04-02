@@ -1,0 +1,64 @@
+{
+  "id": "8e7d9ea4-cabd-4515-911b-6728e5e96127",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.16,
+      "text": "Can he make it back? What's the situation?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "帰ってこれるのか?どうなんですか?"
+    },
+    {
+      "start": 2.26,
+      "end": 3.66,
+      "text": "He's back if there's no edgeguard!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "復帰阻止が来なければ帰れます"
+    },
+    {
+      "start": 3.66,
+      "end": 6.88,
+      "text": "This is where he has to hang on! Final push!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここはあえてラスト我慢です"
+    },
+    {
+      "start": 6.88,
+      "end": 8.08,
+      "text": "He's on the ledge",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "先ほどからつかまって"
+    },
+    {
+      "start": 8.08,
+      "end": 9.46,
+      "text": "Oh no, that's bad! That's so bad!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "まずいか?まずい!"
+    },
+    {
+      "start": 10.8,
+      "end": 11.58,
+      "text": "But even from here!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここからでも"
+    }
+  ],
+  "full_text": "Can he make it back? What's the situation? He's back if there's no edgeguard! This is where he has to hang on! Final push! He's on the ledge Oh no, that's bad! That's so bad! But even from here!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 3,
+      "original": "つらまって",
+      "corrected": "つかまって",
+      "rule": "misheard word"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "68a59422-2fa4-48b8-9ad0-1e238c9d012e",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.04,
+      "text": "スマッシュはやはり間に合わないか",
+      "language": "ko"
+    }
+  ],
+  "full_text": "スマッシュはやはり間に合わないか",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "少り",
+      "corrected": "やはり",
+      "rule": "Whisper mishearing"
+    }
+  ]
+}

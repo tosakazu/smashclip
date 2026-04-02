@@ -1,0 +1,33 @@
+{
+  "id": "b2fbbe0b-2029-489b-9363-b318c588717d",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.2,
+      "text": "はい、崖上がりを攻めたけど、弱3段しっかり見ている",
+      "language": "ja"
+    },
+    {
+      "start": 2.2,
+      "end": 4.9,
+      "text": "空中前で暴れて",
+      "language": "ja"
+    },
+    {
+      "start": 4.9,
+      "end": 7.72,
+      "text": "さあここはもう一度グラビングスクラッチで撃墜",
+      "language": "ja"
+    }
+  ],
+  "full_text": "はい、崖上がりを攻めたけど、弱3段しっかり見ている 空中前で暴れて さあここはもう一度グラビングスクラッチで撃墜",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "火上がりを進めたけど、ジャック3弾しっかり見ている",
+      "corrected": "崖上がりを攻めたけど、弱3段しっかり見ている",
+      "rule": "smash terms (崖上がり, 弱3段)"
+    }
+  ]
+}

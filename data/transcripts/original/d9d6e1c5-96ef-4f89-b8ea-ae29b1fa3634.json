@@ -1,0 +1,111 @@
+{
+  "id": "d9d6e1c5-96ef-4f89-b8ea-ae29b1fa3634",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.08,
+      "text": "ゾーンに入る",
+      "language": "ja"
+    },
+    {
+      "start": 1.08,
+      "end": 2.42,
+      "text": "そんな一歩になったのか",
+      "language": "ja"
+    },
+    {
+      "start": 2.42,
+      "end": 4.42,
+      "text": "と思わせるような火力",
+      "language": "ja"
+    },
+    {
+      "start": 4.42,
+      "end": 6.18,
+      "text": "98から100を超えた",
+      "language": "ja"
+    },
+    {
+      "start": 6.18,
+      "end": 7.3,
+      "text": "まずすぎた",
+      "language": "ja"
+    },
+    {
+      "start": 7.3,
+      "end": 9.0,
+      "text": "下強から冷静に",
+      "language": "ja"
+    },
+    {
+      "start": 9.58,
+      "end": 11.94,
+      "text": "見てますね崖",
+      "language": "ja"
+    },
+    {
+      "start": 11.94,
+      "end": 12.62,
+      "text": "空後",
+      "language": "ja"
+    },
+    {
+      "start": 12.62,
+      "end": 13.94,
+      "text": "今度はジャンプ上がりもとがめて",
+      "language": "ja"
+    },
+    {
+      "start": 13.94,
+      "end": 14.64,
+      "text": "ピーナッツ",
+      "language": "ja"
+    },
+    {
+      "start": 14.64,
+      "end": 17.1,
+      "text": "ジャンプは残しているので",
+      "language": "ja"
+    },
+    {
+      "start": 17.1,
+      "end": 18.26,
+      "text": "帰ることはできますが",
+      "language": "ja"
+    },
+    {
+      "start": 18.26,
+      "end": 19.14,
+      "text": "今度は",
+      "language": "ja"
+    },
+    {
+      "start": 19.14,
+      "end": 20.9,
+      "text": "完全につま先だ",
+      "language": "ja"
+    }
+  ],
+  "full_text": "ゾーンに入る そんな一歩になったのか と思わせるような火力 98から100を超えた まずすぎた 下強から冷静に 見てますね崖 空後 今度はジャンプ上がりもとがめて ピーナッツ ジャンプは残しているので 帰ることはできますが 今度は 完全につま先だ",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 5,
+      "original": "今日から冷静に",
+      "corrected": "下強から冷静に",
+      "rule": "kanji homophone (下強)"
+    },
+    {
+      "segment_idx": 6,
+      "original": "見てますね絵描け",
+      "corrected": "見てますね崖",
+      "rule": "whisper_misrecognition"
+    },
+    {
+      "segment_idx": 7,
+      "original": "空中しろ",
+      "corrected": "空後",
+      "rule": "smash notation (空中しろ→空後)"
+    }
+  ]
+}

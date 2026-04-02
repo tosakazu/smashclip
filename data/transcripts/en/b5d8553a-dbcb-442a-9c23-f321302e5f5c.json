@@ -1,0 +1,65 @@
+{
+  "id": "b5d8553a-dbcb-442a-9c23-f321302e5f5c",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "text": "Shirabuhoro",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "シラブホーロー"
+    },
+    {
+      "start": 1.0,
+      "end": 2.74,
+      "text": "showing great patience",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "忍耐力があります"
+    },
+    {
+      "start": 2.74,
+      "end": 3.84,
+      "text": "but that's",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "しかしそれは"
+    },
+    {
+      "start": 3.84,
+      "end": 6.02,
+      "text": "something Zelda mains share too",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ゼルダ使いも同じところ"
+    },
+    {
+      "start": 6.02,
+      "end": 7.3,
+      "text": "strong Zelda player",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "強豪ゼルダ使い"
+    },
+    {
+      "start": 7.3,
+      "end": 8.4,
+      "text": "whoa, the speed on that!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "おっとこれは高速量"
+    },
+    {
+      "start": 8.4,
+      "end": 10.16,
+      "text": "if both hits come out, did it connect?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "2段出てたら届いてる?"
+    }
+  ],
+  "full_text": "Shirabuhoro showing great patience but that's something Zelda mains share too strong Zelda player whoa, the speed on that! if both hits come out, did it connect?",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

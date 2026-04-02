@@ -1,0 +1,78 @@
+{
+  "id": "1d170596-5645-492f-bdd8-c390436a151d",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.14,
+      "text": "Subtle H.O. Donkey Kong",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "マイルドなH.Oドンキー"
+    },
+    {
+      "start": 1.14,
+      "end": 2.2,
+      "text": "dair and",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空下と"
+    },
+    {
+      "start": 2.2,
+      "end": 3.74,
+      "text": "Whoa, that's scary!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "おっと怖い怖い"
+    },
+    {
+      "start": 3.74,
+      "end": 5.84,
+      "text": "went deep with neutral special, but",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ニュートラル必殺技深めにいったんですが"
+    },
+    {
+      "start": 5.84,
+      "end": 7.22,
+      "text": "catches them with a great mixup!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "うまくめくっていた"
+    },
+    {
+      "start": 7.22,
+      "end": 8.9,
+      "text": "And up smash for the KO!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そして上スマッシュで拾って撃墜"
+    },
+    {
+      "start": 8.9,
+      "end": 9.88,
+      "text": "Let's go!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあ"
+    }
+  ],
+  "full_text": "Subtle H.O. Donkey Kong dair and Whoa, that's scary! went deep with neutral special, but catches them with a great mixup! And up smash for the KO! Let's go!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "マイルナレイチョウドンキー",
+      "corrected": "マイルドなH.Oドンキー",
+      "rule": "Player name correction: マイルナレイチョウ→マイルドなH.O"
+    },
+    {
+      "segment_idx": 1,
+      "original": "空中したと",
+      "corrected": "空下と",
+      "rule": "Whisper mishearing: 空中した→空下"
+    }
+  ]
+}

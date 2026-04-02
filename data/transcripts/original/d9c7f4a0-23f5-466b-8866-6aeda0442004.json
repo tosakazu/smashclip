@@ -1,0 +1,63 @@
+{
+  "id": "d9c7f4a0-23f5-466b-8866-6aeda0442004",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.8,
+      "text": "腕が伸びてくる",
+      "language": "ja"
+    },
+    {
+      "start": 0.8,
+      "end": 1.86,
+      "text": "回避しているアコラ",
+      "language": "ja"
+    },
+    {
+      "start": 1.86,
+      "end": 3.06,
+      "text": "まだまだ展開継続",
+      "language": "ja"
+    },
+    {
+      "start": 3.06,
+      "end": 5.36,
+      "text": "さあどうする",
+      "language": "ja"
+    },
+    {
+      "start": 5.36,
+      "end": 7.14,
+      "text": "ダイヤの武器ここで生成",
+      "language": "ja"
+    },
+    {
+      "start": 7.14,
+      "end": 8.26,
+      "text": "うまい",
+      "language": "ja"
+    },
+    {
+      "start": 8.26,
+      "end": 9.36,
+      "text": "ここは",
+      "language": "ja"
+    },
+    {
+      "start": 9.36,
+      "end": 11.86,
+      "text": "強気行動",
+      "language": "ja"
+    }
+  ],
+  "full_text": "腕が伸びてくる 回避しているアコラ まだまだ展開継続 さあどうする ダイヤの武器ここで生成 うまい ここは 強気行動",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "回避しているアコーラ",
+      "corrected": "回避しているアコラ",
+      "rule": "player name"
+    }
+  ]
+}

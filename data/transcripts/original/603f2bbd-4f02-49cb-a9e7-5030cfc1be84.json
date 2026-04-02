@@ -1,0 +1,57 @@
+{
+  "id": "603f2bbd-4f02-49cb-a9e7-5030cfc1be84",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.32,
+      "text": "ストック先制はあcola",
+      "language": "ja"
+    },
+    {
+      "start": 2.32,
+      "end": 4.26,
+      "text": "拒否に拒否を重ねて",
+      "language": "ja"
+    },
+    {
+      "start": 4.26,
+      "end": 7.02,
+      "text": "素材もダイヤと金が",
+      "language": "ja"
+    },
+    {
+      "start": 7.02,
+      "end": 9.44,
+      "text": "装填されているぞ",
+      "language": "ja"
+    },
+    {
+      "start": 9.44,
+      "end": 11.8,
+      "text": "弱から空中前",
+      "language": "ja"
+    },
+    {
+      "start": 11.8,
+      "end": 12.76,
+      "text": "強気に暴れ落とし",
+      "language": "ja"
+    }
+  ],
+  "full_text": "ストック先制はあcola 拒否に拒否を重ねて 素材もダイヤと金が 装填されているぞ 弱から空中前 強気に暴れ落とし",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "ストックス先生はアコーラ",
+      "corrected": "ストック先制はあcola",
+      "rule": "smash term + player name"
+    },
+    {
+      "segment_idx": 4,
+      "original": "ジャックからスクイッチ前",
+      "corrected": "弱から空中前",
+      "rule": "move abbreviation"
+    }
+  ]
+}

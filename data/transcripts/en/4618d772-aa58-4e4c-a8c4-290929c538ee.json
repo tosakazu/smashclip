@@ -1,0 +1,48 @@
+{
+  "id": "4618d772-aa58-4e4c-a8c4-290929c538ee",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.6,
+      "text": "Tough!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "難しい"
+    },
+    {
+      "start": 0.6,
+      "end": 1.98,
+      "text": "Off the Giga Thunder!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ギガサンダーから"
+    },
+    {
+      "start": 1.98,
+      "end": 4.86,
+      "text": "That almost cost him but!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここは命が消えかねなかったが"
+    },
+    {
+      "start": 4.86,
+      "end": 5.18,
+      "text": "Kazuhito",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "カズヒト"
+    }
+  ],
+  "full_text": "Tough! Off the Giga Thunder! That almost cost him but! Kazuhito",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "ギャスアンダー",
+      "corrected": "ギガサンダー",
+      "rule": "misheard move name (Robin thunder spell)"
+    }
+  ]
+}

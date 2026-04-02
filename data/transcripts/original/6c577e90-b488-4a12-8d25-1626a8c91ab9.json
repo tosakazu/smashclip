@@ -1,0 +1,57 @@
+{
+  "id": "6c577e90-b488-4a12-8d25-1626a8c91ab9",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.74,
+      "text": "難しい",
+      "language": "ja"
+    },
+    {
+      "start": 0.74,
+      "end": 4.28,
+      "text": "いやDAガード硬直が長いのも",
+      "language": "ja"
+    },
+    {
+      "start": 4.28,
+      "end": 5.88,
+      "text": "ちょっといやらしいですよね",
+      "language": "ja"
+    },
+    {
+      "start": 5.88,
+      "end": 8.16,
+      "text": "反転を入れてるのに反転が出ないとか",
+      "language": "ja"
+    },
+    {
+      "start": 8.16,
+      "end": 9.48,
+      "text": "あこれは",
+      "language": "ja"
+    },
+    {
+      "start": 9.48,
+      "end": 11.06,
+      "text": "いやー感性が",
+      "language": "ja"
+    },
+    {
+      "start": 11.06,
+      "end": 12.7,
+      "text": "あけどうまい",
+      "language": "ja"
+    }
+  ],
+  "full_text": "難しい いやDAガード硬直が長いのも ちょっといやらしいですよね 反転を入れてるのに反転が出ないとか あこれは いやー感性が あけどうまい",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "ディーガード硬着",
+      "corrected": "DAガード硬直",
+      "rule": "Whisper mishearing + Smash term"
+    }
+  ]
+}

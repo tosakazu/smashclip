@@ -1,0 +1,20 @@
+{
+  "id": "2f1987c1-b836-4e61-b708-5af1ab85d326",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.6,
+      "text": "he knows that ken is very good at punishing that kind of thing he's not been mashing it",
+      "language": "en"
+    },
+    {
+      "start": 4.16,
+      "end": 9.04,
+      "text": "uh and he's been a bit more careful with it and um when he's used it it's worked oh",
+      "language": "en"
+    }
+  ],
+  "full_text": "he knows that ken is very good at punishing that kind of thing he's not been mashing it uh and he's been a bit more careful with it and um when he's used it it's worked oh",
+  "detected_language": "en",
+  "corrections": []
+}

@@ -1,0 +1,62 @@
+{
+  "id": "f55686be-d993-4b98-ad7c-347bceebd4bf",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.7,
+      "text": "Showing that it's not that simple",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "やすい京ではないということを"
+    },
+    {
+      "start": 1.7,
+      "end": 2.94,
+      "text": "proving it right here",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これで証明してくれている"
+    },
+    {
+      "start": 2.94,
+      "end": 5.32,
+      "text": "Came out with nair, but got caught in the up air juggle",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空Nでたが空上着地狩りの展開"
+    },
+    {
+      "start": 5.32,
+      "end": 8.38,
+      "text": "Got some nice mashing out though",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "うまく暴れを通していったが"
+    },
+    {
+      "start": 8.38,
+      "end": 8.88,
+      "text": "quite a bit",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "だいぶ"
+    }
+  ],
+  "full_text": "Showing that it's not that simple proving it right here Came out with nair, but got caught in the up air juggle Got some nice mashing out though quite a bit",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "やすい今日ではない",
+      "corrected": "やすい京ではない",
+      "rule": "context"
+    },
+    {
+      "segment_idx": 2,
+      "original": "空中でたが空中へ着地狩り",
+      "corrected": "空Nでたが空上着地狩り",
+      "rule": "abbreviation: 空中→空N, 空中へ→空上"
+    }
+  ]
+}

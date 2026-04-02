@@ -1,0 +1,81 @@
+{
+  "id": "083bed0f-b52b-4e2a-98eb-39aa4fa835a4",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.88,
+      "text": "That's solid",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いいんじゃないかなと思います"
+    },
+    {
+      "start": 0.88,
+      "end": 3.74,
+      "text": "made it past the ledge, but",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ボウリングを落として崖を越えていきましたが"
+    },
+    {
+      "start": 3.74,
+      "end": 6.48,
+      "text": "Fair attacks like that too",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "このような空中前とかもね"
+    },
+    {
+      "start": 6.48,
+      "end": 7.64,
+      "text": "you gotta commit to land it",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "当てに行かないといけないので"
+    },
+    {
+      "start": 7.64,
+      "end": 9.88,
+      "text": "Neo with the clean out of shield punish",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "それに対してしっかりガードからは"
+    },
+    {
+      "start": 9.88,
+      "end": 11.58,
+      "text": "that's what Neo does",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "反撃を決めていくのがネオ選手"
+    },
+    {
+      "start": 11.58,
+      "end": 14.36,
+      "text": "So what now?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあどうする"
+    },
+    {
+      "start": 14.36,
+      "end": 15.46,
+      "text": "Oh, that's clean!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "おっとうまく"
+    },
+    {
+      "start": 15.46,
+      "end": 15.88,
+      "text": "toward the screen",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "画面に行って"
+    }
+  ],
+  "full_text": "That's solid made it past the ledge, but Fair attacks like that too you gotta commit to land it Neo with the clean out of shield punish that's what Neo does So what now? Oh, that's clean! toward the screen",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

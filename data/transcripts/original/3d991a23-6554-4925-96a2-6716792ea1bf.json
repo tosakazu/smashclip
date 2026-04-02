@@ -1,0 +1,32 @@
+{
+  "id": "3d991a23-6554-4925-96a2-6716792ea1bf",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.4,
+      "text": "いけないのはお互い",
+      "language": "ja"
+    },
+    {
+      "start": 1.4,
+      "end": 3.0,
+      "text": "コンボ火力",
+      "language": "ja"
+    },
+    {
+      "start": 3.0,
+      "end": 5.54,
+      "text": "これはジャンプある",
+      "language": "ja"
+    },
+    {
+      "start": 5.54,
+      "end": 7.6,
+      "text": "なかったな",
+      "language": "ja"
+    }
+  ],
+  "full_text": "いけないのはお互い コンボ火力 これはジャンプある なかったな",
+  "detected_language": "ja",
+  "corrections": []
+}

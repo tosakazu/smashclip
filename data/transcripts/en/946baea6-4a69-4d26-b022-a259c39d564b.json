@@ -1,0 +1,32 @@
+{
+  "id": "946baea6-4a69-4d26-b022-a259c39d564b",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.84,
+      "text": "The ability to control space and shut down the opponent like that is huge",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "相手の空間を阻害できるっていうのが"
+    },
+    {
+      "start": 2.84,
+      "end": 4.34,
+      "text": "Whoa!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "わお"
+    }
+  ],
+  "full_text": "The ability to control space and shut down the opponent like that is huge Whoa!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "相手の瞬間を阻害できる",
+      "corrected": "相手の空間を阻害できる",
+      "rule": "misheard word (瞬間→空間)"
+    }
+  ]
+}

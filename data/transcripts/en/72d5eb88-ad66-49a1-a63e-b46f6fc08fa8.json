@@ -1,0 +1,86 @@
+{
+  "id": "72d5eb88-ad66-49a1-a63e-b46f6fc08fa8",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Can you keep up with this game speed?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ゲームスピードの速さについてこれるか"
+    },
+    {
+      "start": 2.0,
+      "end": 4.12,
+      "text": "Yeah, defensively...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "まあ守備で"
+    },
+    {
+      "start": 4.12,
+      "end": 6.42,
+      "text": "Nothing defensively",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "守備で何も"
+    },
+    {
+      "start": 6.42,
+      "end": 6.96,
+      "text": "Whoa, could it be...?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "あーこれまさか"
+    },
+    {
+      "start": 6.96,
+      "end": 8.48,
+      "text": "Oh, one more!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "おー一回ね"
+    },
+    {
+      "start": 8.48,
+      "end": 10.16,
+      "text": "This is a bit...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これはちょっと"
+    },
+    {
+      "start": 10.16,
+      "end": 12.36,
+      "text": "Bowser's weight without getting KO'd yet is...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "まだ撃墜してないクッパの重さが"
+    },
+    {
+      "start": 12.36,
+      "end": 15.12,
+      "text": "But the bair from this side!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "だがうちから空後"
+    }
+  ],
+  "full_text": "Can you keep up with this game speed? Yeah, defensively... Nothing defensively Whoa, could it be...? Oh, one more! This is a bit... Bowser's weight without getting KO'd yet is... But the bair from this side!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 6,
+      "original": "撃沈",
+      "corrected": "撃墜",
+      "rule": "kanji homophone: 撃沈→撃墜"
+    },
+    {
+      "segment_idx": 7,
+      "original": "だが内から空中しろ",
+      "corrected": "だがうちから空後",
+      "rule": "move abbreviation: 空後"
+    }
+  ]
+}

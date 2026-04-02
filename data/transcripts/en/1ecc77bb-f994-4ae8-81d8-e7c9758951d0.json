@@ -1,0 +1,41 @@
+{
+  "id": "1ecc77bb-f994-4ae8-81d8-e7c9758951d0",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.82,
+      "text": "Will a smash turn things around?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "スマッシュが流れを変えることになるでしょうか"
+    },
+    {
+      "start": 2.82,
+      "end": 8.02,
+      "text": "Sonic's neutral is incredibly strong as expected, and",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ソニックはやっぱり立ち回りは非常に強力ですし"
+    },
+    {
+      "start": 8.02,
+      "end": 12.48,
+      "text": "trading neutral, he's definitely powerful, but",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ニュートラルの展開をやりあうとなると相当強力ではあるんですが"
+    },
+    {
+      "start": 12.48,
+      "end": 13.08,
+      "text": "on the flip side,",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "その分"
+    }
+  ],
+  "full_text": "Will a smash turn things around? Sonic's neutral is incredibly strong as expected, and trading neutral, he's definitely powerful, but on the flip side,",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

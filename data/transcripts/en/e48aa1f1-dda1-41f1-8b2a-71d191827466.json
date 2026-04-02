@@ -1,0 +1,64 @@
+{
+  "id": "e48aa1f1-dda1-41f1-8b2a-71d191827466",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.88,
+      "text": "Making the comeback!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "返していきましたね"
+    },
+    {
+      "start": 0.88,
+      "end": 2.28,
+      "text": "Coming back strong!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "レビィで帰ってきて"
+    },
+    {
+      "start": 2.28,
+      "end": 4.76,
+      "text": "There's the momentum!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあこれに流れ"
+    },
+    {
+      "start": 4.76,
+      "end": 6.76,
+      "text": "Building up now!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "勢いづいたか"
+    },
+    {
+      "start": 6.76,
+      "end": 8.84,
+      "text": "S.C. Mario is unstoppable!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "止まらないぞエスケーマリオ"
+    },
+    {
+      "start": 8.84,
+      "end": 11.1,
+      "text": "The second double!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "2回目のダブル"
+    }
+  ],
+  "full_text": "Making the comeback! Coming back strong! There's the momentum! Building up now! S.C. Mario is unstoppable! The second double!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 4,
+      "original": "止まらないぞSKマリオ",
+      "corrected": "止まらないぞエスケーマリオ",
+      "rule": "player name: エスケー(Mario)"
+    }
+  ]
+}

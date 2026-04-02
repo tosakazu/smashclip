@@ -1,0 +1,57 @@
+{
+  "id": "0d0f04b6-effd-4352-8b6c-00364078ed4c",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.64,
+      "text": "Out of shield nair!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ガーキャン空N"
+    },
+    {
+      "start": 0.64,
+      "end": 4.9,
+      "text": "Once more they come in with spacing, out of shield up B!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "もう一回ラインを詰めて固めに来たところはガーキャン上B"
+    },
+    {
+      "start": 4.9,
+      "end": 6.04,
+      "text": "Up air up air!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空上空上"
+    },
+    {
+      "start": 6.04,
+      "end": 7.16,
+      "text": "The up air connects!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "引っかかった空上"
+    },
+    {
+      "start": 7.16,
+      "end": 9.0,
+      "text": "Up B into the KO!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "上B繋げてそのまま撃墜"
+    },
+    {
+      "start": 9.0,
+      "end": 10.64,
+      "text": "Crisp!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "正確"
+    }
+  ],
+  "full_text": "Out of shield nair! Once more they come in with spacing, out of shield up B! Up air up air! The up air connects! Up B into the KO! Crisp!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

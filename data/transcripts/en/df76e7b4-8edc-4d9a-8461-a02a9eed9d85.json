@@ -1,0 +1,48 @@
+{
+  "id": "df76e7b4-8edc-4d9a-8461-a02a9eed9d85",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.36,
+      "text": "Going for the up smash KO there, but...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "一気に上スマッシュで撃墜まで狙っていこうというところだったんですけども"
+    },
+    {
+      "start": 4.36,
+      "end": 5.6,
+      "text": "Spargo had that read locked down",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "スパーゴはしっかり分かっていました"
+    },
+    {
+      "start": 5.6,
+      "end": 8.84,
+      "text": "And he takes it clean!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そしてこれはよく取り切った"
+    },
+    {
+      "start": 8.84,
+      "end": 10.56,
+      "text": "What a clean punish",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "よく取り切ったこの流れ"
+    }
+  ],
+  "full_text": "Going for the up smash KO there, but... Spargo had that read locked down And he takes it clean! What a clean punish",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "スパーク",
+      "corrected": "スパーゴ",
+      "rule": "player name (Sparg0)"
+    }
+  ]
+}

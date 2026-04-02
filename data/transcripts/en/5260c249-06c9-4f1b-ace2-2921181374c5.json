@@ -1,0 +1,20 @@
+{
+  "id": "5260c249-06c9-4f1b-ace2-2921181374c5",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.42,
+      "text": "he's down 2-1 right now it just feels like when it comes to this matchup",
+      "language": "en"
+    },
+    {
+      "start": 3.42,
+      "end": 7.14,
+      "text": "he is just oh my god that's what i'm talking about he is more",
+      "language": "en"
+    }
+  ],
+  "full_text": "he's down 2-1 right now it just feels like when it comes to this matchup he is just oh my god that's what i'm talking about he is more",
+  "detected_language": "en",
+  "corrections": []
+}

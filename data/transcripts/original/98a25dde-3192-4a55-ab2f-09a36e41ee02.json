@@ -1,0 +1,45 @@
+{
+  "id": "98a25dde-3192-4a55-ab2f-09a36e41ee02",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.92,
+      "text": "弾を避けたものの",
+      "language": "ja"
+    },
+    {
+      "start": 1.92,
+      "end": 3.48,
+      "text": "食らっちゃうないです",
+      "language": "ja"
+    },
+    {
+      "start": 3.48,
+      "end": 4.66,
+      "text": "止め切りました",
+      "language": "ja"
+    },
+    {
+      "start": 4.66,
+      "end": 6.16,
+      "text": "完璧すぎる",
+      "language": "ja"
+    }
+  ],
+  "full_text": "弾を避けたものの 食らっちゃうないです 止め切りました 完璧すぎる",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "男",
+      "corrected": "弾",
+      "rule": "kanji homophone"
+    },
+    {
+      "segment_idx": 1,
+      "original": "グルーチューナイです",
+      "corrected": "食らっちゃうないです",
+      "rule": "Whisper misheard"
+    }
+  ]
+}

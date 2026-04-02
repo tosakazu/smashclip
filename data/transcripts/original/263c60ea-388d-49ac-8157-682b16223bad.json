@@ -1,0 +1,44 @@
+{
+  "id": "263c60ea-388d-49ac-8157-682b16223bad",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "どよぉやぁぁ!!",
+      "language": "ja"
+    },
+    {
+      "start": 2.0,
+      "end": 4.0,
+      "text": "ひやー!",
+      "language": "ja"
+    },
+    {
+      "start": 4.72,
+      "end": 5.92,
+      "text": "速出しでギリギリ",
+      "language": "ja"
+    },
+    {
+      "start": 5.92,
+      "end": 6.64,
+      "text": "おぉぉぉ",
+      "language": "ja"
+    },
+    {
+      "start": 10.0,
+      "end": 11.18,
+      "text": "当たらなければ大丈夫か?",
+      "language": "ja"
+    },
+    {
+      "start": 11.18,
+      "end": 12.68,
+      "text": "回避読みダブルマーク当たる!!",
+      "language": "ja"
+    }
+  ],
+  "full_text": "どよぉやぁぁ!! ひやー! 速出しでギリギリ おぉぉぉ 当たらなければ大丈夫か? 回避読みダブルマーク当たる!!",
+  "detected_language": "ja",
+  "corrections": []
+}

@@ -1,0 +1,57 @@
+{
+  "id": "6fee7793-3be7-4c6f-9d48-f4626f9215ae",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.98,
+      "text": "Any hit that connects is gonna be rough",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "何かしら合わせられてしまうときついが"
+    },
+    {
+      "start": 2.98,
+      "end": 4.86,
+      "text": "Olimar's the same deal",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "オリマーもそれは同じ"
+    },
+    {
+      "start": 4.86,
+      "end": 5.92,
+      "text": "122%",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "122%"
+    },
+    {
+      "start": 5.92,
+      "end": 7.24,
+      "text": "This one's also a lightweight",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "こちらもまた軽いファイター"
+    },
+    {
+      "start": 7.24,
+      "end": 9.34,
+      "text": "Two purples is scary stuff",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "紫2匹で怖い怖い"
+    },
+    {
+      "start": 9.34,
+      "end": 11.56,
+      "text": "Spin to burn the purple and bair!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "スピンで紫を削って空中後ろ"
+    }
+  ],
+  "full_text": "Any hit that connects is gonna be rough. Olimar's the same deal. 122%. This one's also a lightweight. Two purples is scary stuff. Spin to burn the purple and bair!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

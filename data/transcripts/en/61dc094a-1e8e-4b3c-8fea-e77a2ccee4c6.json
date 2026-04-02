@@ -1,0 +1,26 @@
+{
+  "id": "61dc094a-1e8e-4b3c-8fea-e77a2ccee4c6",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.58,
+      "text": "I'm really deceptively fast character. He's so mobile and also being able to be ready to intercept you",
+      "language": "en"
+    },
+    {
+      "start": 5.58,
+      "end": 9.08,
+      "text": "No problem, but I look for something on the ledge. I like that me just saying okay",
+      "language": "en"
+    },
+    {
+      "start": 9.08,
+      "end": 11.96,
+      "text": "I know the bomb is gonna do it the first",
+      "language": "en"
+    }
+  ],
+  "full_text": "I'm really deceptively fast character. He's so mobile and also being able to be ready to intercept you No problem, but I look for something on the ledge. I like that me just saying okay I know the bomb is gonna do it the first",
+  "detected_language": "en",
+  "corrections": []
+}

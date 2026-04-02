@@ -1,0 +1,21 @@
+{
+  "id": "d2eb379e-4523-4329-8542-d5cf6f072e28",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 7.2,
+      "text": "good for kind of uh-oh this oh actually good DI on that oh wait wait wait it just what the",
+      "language": "en"
+    }
+  ],
+  "full_text": "good for kind of uh-oh this oh actually good DI on that oh wait wait wait it just what the",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "good di",
+      "corrected": "good DI",
+      "rule": "smash term (DI = directional influence, capitalized)"
+    }
+  ]
+}

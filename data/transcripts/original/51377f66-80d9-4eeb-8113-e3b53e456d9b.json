@@ -1,0 +1,87 @@
+{
+  "id": "51377f66-80d9-4eeb-8113-e3b53e456d9b",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.32,
+      "text": "撃墜している いやこれ撃墜したのデカいです",
+      "language": "ja"
+    },
+    {
+      "start": 2.32,
+      "end": 4.76,
+      "text": "最速じゃなくて若干ディレイかけたのが良かった",
+      "language": "ja"
+    },
+    {
+      "start": 4.76,
+      "end": 5.86,
+      "text": "下強から上強を混ぜた",
+      "language": "ja"
+    },
+    {
+      "start": 5.86,
+      "end": 7.22,
+      "text": "挟んで",
+      "language": "ja"
+    },
+    {
+      "start": 7.22,
+      "end": 10.18,
+      "text": "着地が上手いがまだ浮いている",
+      "language": "ja"
+    },
+    {
+      "start": 10.18,
+      "end": 11.56,
+      "text": "回避着地",
+      "language": "ja"
+    },
+    {
+      "start": 11.56,
+      "end": 14.02,
+      "text": "横スマッシュ差し返し",
+      "language": "ja"
+    },
+    {
+      "start": 14.02,
+      "end": 14.64,
+      "text": "うわー",
+      "language": "ja"
+    },
+    {
+      "start": 14.64,
+      "end": 16.88,
+      "text": "スーパープレイの応酬",
+      "language": "ja"
+    },
+    {
+      "start": 16.88,
+      "end": 18.3,
+      "text": "そこで用意してたんだ",
+      "language": "ja"
+    }
+  ],
+  "full_text": "撃墜している いやこれ撃墜したのデカいです 最速じゃなくて若干ディレイかけたのが良かった 下強から上強を混ぜた 挟んで 着地が上手いがまだ浮いている 回避着地 横スマッシュ差し返し うわー スーパープレイの応酬 そこで用意してたんだ",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "下行から上行",
+      "corrected": "下強から上強",
+      "rule": "kanji homophone: 行→強"
+    },
+    {
+      "segment_idx": 6,
+      "original": "4本スマッシュ",
+      "corrected": "横スマッシュ",
+      "rule": "misheard: 4本→横"
+    },
+    {
+      "segment_idx": 8,
+      "original": "欧州",
+      "corrected": "応酬",
+      "rule": "kanji homophone: 欧州→応酬"
+    }
+  ]
+}

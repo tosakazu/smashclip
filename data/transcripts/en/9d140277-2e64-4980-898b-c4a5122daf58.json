@@ -1,0 +1,62 @@
+{
+  "id": "9d140277-2e64-4980-898b-c4a5122daf58",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.54,
+      "text": "It connects, but the confirmed punish was up B there—they went with up tilt instead.",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "当たりますがここは上B確定反撃でしたが上強攻撃ですね"
+    },
+    {
+      "start": 3.54,
+      "end": 6.92,
+      "text": "Position's a little too high though.",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ちょっと位置が高すぎましたが"
+    },
+    {
+      "start": 6.92,
+      "end": 9.54,
+      "text": "And they grab and up throw, but it's not guaranteed, so...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そして掴んで上に投げて確定をしないので"
+    },
+    {
+      "start": 9.54,
+      "end": 11.72,
+      "text": "They read it and come down with fair, and...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "一回様子を見て空前に降ってと"
+    },
+    {
+      "start": 11.72,
+      "end": 15.46,
+      "text": "That's hilarious!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "笑っちゃう"
+    }
+  ],
+  "full_text": "It connects, but the confirmed punish was up B there—they went with up tilt instead. Position's a little too high though. And they grab and up throw, but it's not guaranteed, so... They read it and come down with fair, and... That's hilarious!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "上必殺技確定反撃でした強攻撃",
+      "corrected": "上B確定反撃でしたが上強攻撃",
+      "rule": "move abbreviation"
+    },
+    {
+      "segment_idx": 3,
+      "original": "空中前に座ってと",
+      "corrected": "空前に降ってと",
+      "rule": "move abbreviation + Whisper misheard"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "de7dd5ff-7cb3-40a0-9539-f50422835098",
+  "segments": [
+    {
+      "start": 0.7,
+      "end": 3.06,
+      "text": "Alright, approaching with nair into a down tilt!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあ空中ニュートラル差し込みからの下強攻撃"
+    },
+    {
+      "start": 3.06,
+      "end": 5.52,
+      "text": "Steadily racking up damage with forward tilt to push them out!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ダメージを着実に稼いで横強で追い出す"
+    },
+    {
+      "start": 5.52,
+      "end": 7.08,
+      "text": "Charged shot at the ledge, and here we go!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "崖にチャージショットからこれは!"
+    },
+    {
+      "start": 7.32,
+      "end": 8.04,
+      "text": "Meteor!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "メテオー!"
+    }
+  ],
+  "full_text": "Alright, approaching with nair into a down tilt! Steadily racking up damage with forward tilt to push them out! Charged shot at the ledge, and here we go! Meteor!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

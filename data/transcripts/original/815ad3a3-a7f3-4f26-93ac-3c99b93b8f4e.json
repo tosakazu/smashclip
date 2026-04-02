@@ -1,0 +1,57 @@
+{
+  "id": "815ad3a3-a7f3-4f26-93ac-3c99b93b8f4e",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.68,
+      "text": "MASAが待つ!MASAが待つ!",
+      "language": "ja"
+    },
+    {
+      "start": 6.14,
+      "end": 8.3,
+      "text": "再び今度は前出しに",
+      "language": "ja"
+    },
+    {
+      "start": 8.3,
+      "end": 9.94,
+      "text": "置いている下強から",
+      "language": "ja"
+    },
+    {
+      "start": 9.94,
+      "end": 11.98,
+      "text": "なんとか空上これ撃墜ぃーだ!",
+      "language": "ja"
+    },
+    {
+      "start": 13.16,
+      "end": 14.44,
+      "text": "決着も静かでした",
+      "language": "ja"
+    },
+    {
+      "start": 14.44,
+      "end": 15.38,
+      "text": "そうでしたね",
+      "language": "ja"
+    }
+  ],
+  "full_text": "MASAが待つ!MASAが待つ! 再び今度は前出しに 置いている下強から なんとか空上これ撃墜ぃーだ! 決着も静かでした そうでしたね",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "まさが待つ!まさが待つ!",
+      "corrected": "MASAが待つ!MASAが待つ!",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 3,
+      "original": "なんとか宇宙エレゲイツイーだ!",
+      "corrected": "なんとか空上これ撃墜ぃーだ!",
+      "rule": "move name homophone + Whisper mishearing"
+    }
+  ]
+}

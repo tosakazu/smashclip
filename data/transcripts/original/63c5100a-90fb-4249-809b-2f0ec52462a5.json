@@ -1,0 +1,69 @@
+{
+  "id": "63c5100a-90fb-4249-809b-2f0ec52462a5",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.46,
+      "text": "いきなり油断したところに飛び出すような反撃",
+      "language": "ja"
+    },
+    {
+      "start": 2.46,
+      "end": 4.24,
+      "text": "加速してきましたね",
+      "language": "ja"
+    },
+    {
+      "start": 4.24,
+      "end": 6.08,
+      "text": "消火栓回避を間に合わせ",
+      "language": "ja"
+    },
+    {
+      "start": 6.08,
+      "end": 8.26,
+      "text": "ここの下側",
+      "language": "ja"
+    },
+    {
+      "start": 8.26,
+      "end": 10.32,
+      "text": "バネで崖をつかめるが",
+      "language": "ja"
+    },
+    {
+      "start": 10.32,
+      "end": 11.56,
+      "text": "空前!",
+      "language": "ja"
+    },
+    {
+      "start": 11.64,
+      "end": 13.26,
+      "text": "そこの受け身の",
+      "language": "ja"
+    }
+  ],
+  "full_text": "いきなり油断したところに飛び出すような反撃 加速してきましたね 消火栓回避を間に合わせ ここの下側 バネで崖をつかめるが 空前! そこの受け身の",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "飛び立つような反応",
+      "corrected": "飛び出すような反撃",
+      "rule": "misheard word"
+    },
+    {
+      "segment_idx": 4,
+      "original": "パワーエースでガキをつかめるが",
+      "corrected": "バネで崖をつかめるが",
+      "rule": "Sonic move name + kanji homophone (ガキ→崖)"
+    },
+    {
+      "segment_idx": 5,
+      "original": "くちまえ",
+      "corrected": "空前",
+      "rule": "move abbreviation (くうまえ→くちまえ)"
+    }
+  ]
+}

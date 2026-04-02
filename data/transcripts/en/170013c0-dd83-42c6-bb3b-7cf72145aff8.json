@@ -1,0 +1,62 @@
+{
+  "id": "170013c0-dd83-42c6-bb3b-7cf72145aff8",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "It's fragile!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "壊れやすい"
+    },
+    {
+      "start": 2.0,
+      "end": 6.0,
+      "text": "Breaks so easy!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "壊れやすい"
+    },
+    {
+      "start": 6.96,
+      "end": 8.78,
+      "text": "I hate this",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ちょっとこれ嫌な"
+    },
+    {
+      "start": 8.78,
+      "end": 9.92,
+      "text": "The break there was rough",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "壊れ方しましたが"
+    },
+    {
+      "start": 9.92,
+      "end": 11.32,
+      "text": "Let's go!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "よっしゃー"
+    }
+  ],
+  "full_text": "It's fragile! Breaks so easy! I hate this The break there was rough Let's go!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "生きてれやすい",
+      "corrected": "壊れやすい",
+      "rule": "Garbled transcription: 生きてれやすい→壊れやすい (Steve blocks are fragile)"
+    },
+    {
+      "segment_idx": 1,
+      "original": "生きてれやすい",
+      "corrected": "壊れやすい",
+      "rule": "Garbled transcription: 生きてれやすい→壊れやすい"
+    }
+  ]
+}

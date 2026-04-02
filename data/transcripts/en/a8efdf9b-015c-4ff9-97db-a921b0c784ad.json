@@ -1,0 +1,40 @@
+{
+  "id": "a8efdf9b-015c-4ff9-97db-a921b0c784ad",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.16,
+      "text": "Luigi's lateral air mobility isn't really that strong, so...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ルイージは空中横機動力はそこまで優秀ではないですから"
+    },
+    {
+      "start": 3.16,
+      "end": 4.08,
+      "text": "that",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "あれを"
+    },
+    {
+      "start": 4.08,
+      "end": 4.92,
+      "text": "Oh!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "おー"
+    }
+  ],
+  "full_text": "Luigi's lateral air mobility isn't really that strong, so... that Oh!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "ブイージ",
+      "corrected": "ルイージ",
+      "rule": "Character name: ブイージ→ルイージ(Luigi)"
+    }
+  ]
+}

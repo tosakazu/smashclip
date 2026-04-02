@@ -1,0 +1,39 @@
+{
+  "id": "1759e382-e817-497d-92b3-d980fcff50b1",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.6,
+      "text": "Speaking through that bair coming out from Game & Watch's side, actually connects and takes out",
+      "language": "en"
+    },
+    {
+      "start": 5.6,
+      "end": 9.82,
+      "text": "Miya's first stock. What are these conversions coming out from SuperDog's part?",
+      "language": "en"
+    },
+    {
+      "start": 10.16,
+      "end": 12.52,
+      "text": "He's having to find a nice take. Oh, but the second!",
+      "language": "en"
+    }
+  ],
+  "full_text": "Speaking through that bair coming out from Game & Watch's side, actually connects and takes out Miya's first stock. What are these conversions coming out from SuperDog's part? He's having to find a nice take. Oh, but the second!",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "that bear coming out",
+      "corrected": "that bair coming out",
+      "rule": "Smash term: bear→bair (back air)"
+    },
+    {
+      "segment_idx": 1,
+      "original": "Mija's first toque",
+      "corrected": "Miya's first stock",
+      "rule": "Player name: Mija→Miya; Smash term: toque→stock"
+    }
+  ]
+}

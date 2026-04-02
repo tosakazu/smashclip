@@ -1,0 +1,33 @@
+{
+  "id": "58361b5c-9705-4d7a-b27e-7364e9364f93",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.3,
+      "text": "リンクの回転斬りの方が全方向対応で",
+      "language": "ja"
+    },
+    {
+      "start": 3.3,
+      "end": 4.06,
+      "text": "あれ?",
+      "language": "ja"
+    },
+    {
+      "start": 5.02,
+      "end": 5.7,
+      "text": "あ、な",
+      "language": "ja"
+    }
+  ],
+  "full_text": "リンクの回転斬りの方が全方向対応で あれ? あ、な",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "グリンク",
+      "corrected": "リンク",
+      "rule": "character name"
+    }
+  ]
+}

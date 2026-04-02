@@ -1,0 +1,56 @@
+{
+  "id": "60ff1bae-48da-450f-b997-c14f2b8bcf79",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.68,
+      "text": "Stocks remain 3-3!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "3対3 ストックは動かずそのままです"
+    },
+    {
+      "start": 3.68,
+      "end": 4.96,
+      "text": "Cuts back with fair!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空中前で切り返して"
+    },
+    {
+      "start": 4.96,
+      "end": 8.28,
+      "text": "Yeah, that was sick!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いやー シックでねー"
+    },
+    {
+      "start": 8.28,
+      "end": 10.9,
+      "text": "That's artistic - wow, that fair edgeguard!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "芸術的な いやー空中前の復帰阻止"
+    },
+    {
+      "start": 10.9,
+      "end": 11.48,
+      "text": "That's the play!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "あれだった"
+    }
+  ],
+  "full_text": "Stocks remain 3-3! Cuts back with fair! Yeah, that was sick! That's artistic - wow, that fair edgeguard! That's the play!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "動かすならんたままです",
+      "corrected": "動かずそのままです",
+      "rule": "misheard phrase"
+    }
+  ]
+}

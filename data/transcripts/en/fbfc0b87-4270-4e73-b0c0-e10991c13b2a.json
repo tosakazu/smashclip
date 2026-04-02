@@ -1,0 +1,39 @@
+{
+  "id": "fbfc0b87-4270-4e73-b0c0-e10991c13b2a",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.34,
+      "text": "You know you're going to eat one or two up airs, and it's little damage, but even then, a big sting still hurts.",
+      "language": "en"
+    },
+    {
+      "start": 5.76,
+      "end": 8.24,
+      "text": "A little damage can make for a big result, okay?",
+      "language": "en"
+    },
+    {
+      "start": 8.34,
+      "end": 8.48,
+      "text": "Yes!",
+      "language": "en"
+    },
+    {
+      "start": 8.48,
+      "end": 10.42,
+      "text": "So all of that is being played nicely.",
+      "language": "en"
+    }
+  ],
+  "full_text": "You know you're going to eat one or two up airs, and it's little damage, but even then, a big sting still hurts. A little damage can make for a big result, okay? Yes! So all of that is being played nicely.",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "uppers",
+      "corrected": "up airs",
+      "rule": "smash term"
+    }
+  ]
+}

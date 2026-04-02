@@ -1,0 +1,57 @@
+{
+  "id": "9af47ba0-abfa-480f-8598-163229d45d14",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.56,
+      "text": "Slow dodge!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "回避が遅い"
+    },
+    {
+      "start": 0.56,
+      "end": 1.6,
+      "text": "Oh!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "あーこれ"
+    },
+    {
+      "start": 1.6,
+      "end": 2.82,
+      "text": "That KO though...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "撃墜がさー"
+    },
+    {
+      "start": 2.82,
+      "end": 3.6,
+      "text": "Uh!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "あー"
+    },
+    {
+      "start": 3.6,
+      "end": 5.02,
+      "text": "Can't dodge that!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "避けられません"
+    },
+    {
+      "start": 5.02,
+      "end": 6.4,
+      "text": "So hard to dodge!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "マジで避けづらい"
+    }
+  ],
+  "full_text": "Slow dodge! Oh! That KO though... Uh! Can't dodge that! So hard to dodge!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

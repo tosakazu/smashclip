@@ -1,0 +1,46 @@
+{
+  "id": "324f5bad-aa72-440c-aed1-eb6a452af14d",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.88,
+      "text": "He goes for it, but the last stock player lands the move instead!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "トライしましたが、逆にラス側が技を当てることによって"
+    },
+    {
+      "start": 4.88,
+      "end": 6.9,
+      "text": "This edgeguard situation is the critical moment—",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "復帰阻止展開、ここが肝になるが"
+    },
+    {
+      "start": 6.9,
+      "end": 11.94,
+      "text": "He reads it perfectly and applies the full pressure!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "完全に呼び切って詰めてきったぞ"
+    }
+  ],
+  "full_text": "He goes for it, but the last stock player lands the move instead! This edgeguard situation is the critical moment— He reads it perfectly and applies the full pressure!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "ランス側",
+      "corrected": "ラス側",
+      "rule": "player name (Wrath→ラス)"
+    },
+    {
+      "segment_idx": 1,
+      "original": "吹き阻止展開",
+      "corrected": "復帰阻止展開",
+      "rule": "misheard: 復帰阻止"
+    }
+  ]
+}

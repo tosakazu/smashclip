@@ -1,0 +1,33 @@
+{
+  "id": "ed34a852-65e0-4ccd-9f7e-5534ed0572e0",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.26,
+      "text": "every wrong decision and capitalizing out from every single one of them WaKa still holding center",
+      "language": "en"
+    },
+    {
+      "start": 5.26,
+      "end": 9.42,
+      "text": "stage putting extra pressure with those dash attacks yes this could translate into a stock",
+      "language": "en"
+    },
+    {
+      "start": 9.42,
+      "end": 10.42,
+      "text": "for the lead is",
+      "language": "en"
+    }
+  ],
+  "full_text": "every wrong decision and capitalizing out from every single one of them WaKa still holding center stage putting extra pressure with those dash attacks yes this could translate into a stock for the lead is",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "waka",
+      "corrected": "WaKa",
+      "rule": "player name"
+    }
+  ]
+}

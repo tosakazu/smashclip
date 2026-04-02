@@ -1,0 +1,20 @@
+{
+  "id": "353cf41b-fdf9-4ae9-9a81-b7c2ef64a530",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.84,
+      "text": "You have to fight yourself as Link in the, you know what I'm saying, kind of situation.",
+      "language": "en"
+    },
+    {
+      "start": 5.98,
+      "end": 8.76,
+      "text": "Because Nia even having the tag is like the shadow.",
+      "language": "en"
+    }
+  ],
+  "full_text": "You have to fight yourself as Link in the, you know what I'm saying, kind of situation. Because Nia even having the tag is like the shadow.",
+  "detected_language": "en",
+  "corrections": []
+}

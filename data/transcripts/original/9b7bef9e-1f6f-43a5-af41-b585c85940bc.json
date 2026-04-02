@@ -1,0 +1,20 @@
+{
+  "id": "9b7bef9e-1f6f-43a5-af41-b585c85940bc",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.4,
+      "text": "And I do think the tricks are definitely just not working out as much.",
+      "language": "en"
+    },
+    {
+      "start": 2.96,
+      "end": 4.22,
+      "text": "Oh my god!",
+      "language": "en"
+    }
+  ],
+  "full_text": "And I do think the tricks are definitely just not working out as much. Oh my god!",
+  "detected_language": "en",
+  "corrections": []
+}

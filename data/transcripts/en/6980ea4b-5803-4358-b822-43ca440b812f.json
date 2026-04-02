@@ -1,0 +1,72 @@
+{
+  "id": "6980ea4b-5803-4358-b822-43ca440b812f",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.5,
+      "text": "Recovering!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "上がります"
+    },
+    {
+      "start": 0.5,
+      "end": 2.0,
+      "text": "Incredible!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "トランドだ"
+    },
+    {
+      "start": 2.0,
+      "end": 2.58,
+      "text": "Landing...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "着地は"
+    },
+    {
+      "start": 2.58,
+      "end": 5.1,
+      "text": "Back at the ledge!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "がけがけ"
+    },
+    {
+      "start": 5.1,
+      "end": 5.78,
+      "text": "As expected!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "やっぱり"
+    },
+    {
+      "start": 5.78,
+      "end": 6.46,
+      "text": "Smash!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "スマッシュを"
+    },
+    {
+      "start": 6.46,
+      "end": 7.98,
+      "text": "Nailed it!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "合わせてみせた"
+    }
+  ],
+  "full_text": "Recovering! Incredible! Landing... Back at the ledge! As expected! Smash! Nailed it!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "よがります",
+      "corrected": "上がります",
+      "rule": "Whisper mishearing"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "id": "d2e180e4-31eb-419a-9b1e-670660f6edb8",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.36,
+      "text": "His fundamentals are really solid too",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "一押しも上手いんだから"
+    },
+    {
+      "start": 1.36,
+      "end": 4.22,
+      "text": "Alright, at ledge, at ledge—he's setting up the ledge trap",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "一応崖、崖、崖狩りに"
+    },
+    {
+      "start": 4.22,
+      "end": 6.5,
+      "text": "But Rage aside",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "しかしレイジもそれはそれとして"
+    },
+    {
+      "start": 6.5,
+      "end": 9.5,
+      "text": "Wow, that's clean",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いや上手"
+    },
+    {
+      "start": 9.5,
+      "end": 11.06,
+      "text": "He's skilled, Rage is really helping him",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "上手いねレイジね"
+    },
+    {
+      "start": 11.06,
+      "end": 12.92,
+      "text": "Wow, that's clean",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いや上手"
+    },
+    {
+      "start": 12.92,
+      "end": 14.1,
+      "text": "Man",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いやー"
+    },
+    {
+      "start": 14.1,
+      "end": 14.56,
+      "text": "That's right",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そうですか"
+    }
+  ],
+  "full_text": "His fundamentals are really solid too Alright, at ledge, at ledge—he's setting up the ledge trap But Rage aside Wow, that's clean He's skilled, Rage is really helping him Wow, that's clean Man That's right",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "一応掛けがけがけ狩りに",
+      "corrected": "一応崖、崖、崖狩りに",
+      "rule": "smash term (掛け→崖)"
+    }
+  ]
+}

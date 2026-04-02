@@ -1,0 +1,40 @@
+{
+  "id": "8fdc4fa4-7bb8-4fc7-8f4d-0d3d987dfdb7",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.62,
+      "text": "Forward only for 50%!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "前から出しただけ50%"
+    },
+    {
+      "start": 1.62,
+      "end": 3.36,
+      "text": "Reading 90 percent!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "9割読んでる"
+    },
+    {
+      "start": 3.36,
+      "end": 4.92,
+      "text": "That's insane!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "おつよき"
+    }
+  ],
+  "full_text": "Forward only for 50%! Reading 90 percent! That's insane!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "90万読んでる",
+      "corrected": "9割読んでる",
+      "rule": "misheard word"
+    }
+  ]
+}

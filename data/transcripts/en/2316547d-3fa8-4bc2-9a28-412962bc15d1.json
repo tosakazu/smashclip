@@ -1,0 +1,57 @@
+{
+  "id": "2316547d-3fa8-4bc2-9a28-412962bc15d1",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.34,
+      "text": "Here Zakray immediately denies the target",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあここはすかさずザクレイ選手のターゲットを拒否して"
+    },
+    {
+      "start": 3.34,
+      "end": 5.32,
+      "text": "When they attack, shutting it down with Bowser's pressure",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "攻めてくるところはクッパプレスで抑えていく"
+    },
+    {
+      "start": 5.32,
+      "end": 7.12,
+      "text": "Got a nice advantage there",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ちょっとお得に稼ぎましたね今ね"
+    },
+    {
+      "start": 7.12,
+      "end": 9.54,
+      "text": "Going for the charged down smash?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "下スマッシュホールドしているか"
+    },
+    {
+      "start": 9.54,
+      "end": 11.72,
+      "text": "When they start pulling stuff like this, it's really...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "こういうことをし始めるから本当に"
+    },
+    {
+      "start": 11.72,
+      "end": 12.44,
+      "text": "90%",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "90%"
+    }
+  ],
+  "full_text": "Here Zakray immediately denies the target When they attack, shutting it down with Bowser's pressure Got a nice advantage there Going for the charged down smash? When they start pulling stuff like this, it's really... 90%",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

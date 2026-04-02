@@ -1,0 +1,63 @@
+{
+  "id": "0efa4bc2-e3f3-4153-9bf3-6d94099e4c59",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.1,
+      "text": "さあ96%のビハインド",
+      "language": "ja"
+    },
+    {
+      "start": 2.1,
+      "end": 4.64,
+      "text": "丸々1ストックの差もあって",
+      "language": "ja"
+    },
+    {
+      "start": 4.64,
+      "end": 6.48,
+      "text": "これはかなり大きな絶望",
+      "language": "ja"
+    },
+    {
+      "start": 6.48,
+      "end": 7.2,
+      "text": "後ろ投げ",
+      "language": "ja"
+    },
+    {
+      "start": 7.2,
+      "end": 8.78,
+      "text": "サムスの体重ならまだ耐える",
+      "language": "ja"
+    },
+    {
+      "start": 8.78,
+      "end": 10.56,
+      "text": "だがこの着地狩りの展開",
+      "language": "ja"
+    },
+    {
+      "start": 10.56,
+      "end": 12.6,
+      "text": "PKサンダーで打ち上げられて",
+      "language": "ja"
+    },
+    {
+      "start": 12.6,
+      "end": 14.24,
+      "text": "さあすまほで",
+      "language": "ja"
+    }
+  ],
+  "full_text": "さあ96%のビハインド 丸々1ストックの差もあって これはかなり大きな絶望 後ろ投げ サムスの体重ならまだ耐える だがこの着地狩りの展開 PKサンダーで打ち上げられて さあすまほで",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 7,
+      "original": "さあスマホで",
+      "corrected": "さあすまほで",
+      "rule": "Player name: スマホ→すまほ (player name, not smartphone)"
+    }
+  ]
+}

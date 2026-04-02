@@ -1,0 +1,138 @@
+{
+  "id": "face6d1c-6c0b-472d-b96b-24630dc16d99",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.54,
+      "text": "Platforms down",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "1段ブロックを置き"
+    },
+    {
+      "start": 1.54,
+      "end": 4.06,
+      "text": "Did the cart get them?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "トロッコを止めてくれたか"
+    },
+    {
+      "start": 4.06,
+      "end": 5.3,
+      "text": "Good DI on the down tilt!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "下強ベク変がいい"
+    },
+    {
+      "start": 5.3,
+      "end": 8.68,
+      "text": "Jab into dash attack!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ジャックからダッシュ攻撃につなげて"
+    },
+    {
+      "start": 8.68,
+      "end": 9.8,
+      "text": "That's confirmed from there, but...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ルーティンから確定ですが"
+    },
+    {
+      "start": 9.8,
+      "end": 11.66,
+      "text": "Goes aggressive with the roll getup!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "強気な回避上がりを通して"
+    },
+    {
+      "start": 11.66,
+      "end": 14.26,
+      "text": "Coming down from above",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "上から落としてくる"
+    },
+    {
+      "start": 14.26,
+      "end": 15.6,
+      "text": "Got carted!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "トロッコを運ばれたぞ"
+    },
+    {
+      "start": 15.6,
+      "end": 18.32,
+      "text": "Forward smash, neutral getup!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "横スマッシュニュートラル回避"
+    },
+    {
+      "start": 18.32,
+      "end": 18.98,
+      "text": "Great read!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いい読み"
+    }
+  ],
+  "full_text": "Platforms down Did the cart get them? Good DI on the down tilt! Jab into dash attack! That's confirmed from there, but... Goes aggressive with the roll getup! Coming down from above Got carted! Forward smash, neutral getup! Great read!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "1段ブロックを押し",
+      "corrected": "1段ブロックを置き",
+      "rule": "misheard"
+    },
+    {
+      "segment_idx": 1,
+      "original": "トロコ",
+      "corrected": "トロッコ",
+      "rule": "typo"
+    },
+    {
+      "segment_idx": 2,
+      "original": "下強変更",
+      "corrected": "下強ベク変",
+      "rule": "smash term: 変更→ベク変"
+    },
+    {
+      "segment_idx": 3,
+      "original": "出し攻撃",
+      "corrected": "ダッシュ攻撃",
+      "rule": "misheard"
+    },
+    {
+      "segment_idx": 4,
+      "original": "ルーティンから獲得",
+      "corrected": "ルーティンから確定",
+      "rule": "misheard"
+    },
+    {
+      "segment_idx": 7,
+      "original": "トロコ",
+      "corrected": "トロッコ",
+      "rule": "typo"
+    },
+    {
+      "segment_idx": 8,
+      "original": "横すばし",
+      "corrected": "横スマッシュ",
+      "rule": "misheard"
+    },
+    {
+      "segment_idx": 9,
+      "original": "いってよみ",
+      "corrected": "いい読み",
+      "rule": "misheard"
+    }
+  ]
+}

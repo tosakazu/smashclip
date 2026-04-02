@@ -1,0 +1,62 @@
+{
+  "id": "5d9cc697-0e24-4977-bb8c-1c1766f2e592",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.86,
+      "text": "It's showing!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "見えていきました"
+    },
+    {
+      "start": 0.86,
+      "end": 2.54,
+      "text": "Cornered them!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "追い詰めた"
+    },
+    {
+      "start": 2.54,
+      "end": 3.64,
+      "text": "ledge situation",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "崖の展開"
+    },
+    {
+      "start": 3.64,
+      "end": 5.0,
+      "text": "up air spacing",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空中上を置く"
+    },
+    {
+      "start": 5.84,
+      "end": 8.06,
+      "text": "down tilt!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "下強で"
+    }
+  ],
+  "full_text": "It's showing! Cornered them! ledge situation up air spacing down tilt!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 3,
+      "original": "空中城",
+      "corrected": "空中上",
+      "rule": "kanji homophone"
+    },
+    {
+      "segment_idx": 4,
+      "original": "下強制",
+      "corrected": "下強で",
+      "rule": "misheard word"
+    }
+  ]
+}

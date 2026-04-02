@@ -1,0 +1,45 @@
+{
+  "id": "c193f7bc-add5-49ee-b238-c2ae566ab08d",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.88,
+      "text": "すかし投げだったんですけどそれすらも読んでいた雨飴選手",
+      "language": "ja"
+    },
+    {
+      "start": 2.88,
+      "end": 7.12,
+      "text": "空後ろ、空後反転弱を見事",
+      "language": "ja"
+    },
+    {
+      "start": 7.12,
+      "end": 11.22,
+      "text": "崖ついた後はすべてしっかりと拒否をしながら",
+      "language": "ja"
+    }
+  ],
+  "full_text": "すかし投げだったんですけどそれすらも読んでいた雨飴選手 空後ろ、空後反転弱を見事 崖ついた後はすべてしっかりと拒否をしながら",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "上上選手",
+      "corrected": "雨飴選手",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 1,
+      "original": "空への空母反転弱",
+      "corrected": "空後ろ、空後反転弱",
+      "rule": "smash term"
+    },
+    {
+      "segment_idx": 2,
+      "original": "消しついた空は",
+      "corrected": "崖ついた後は",
+      "rule": "misheard phrase"
+    }
+  ]
+}

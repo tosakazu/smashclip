@@ -1,0 +1,45 @@
+{
+  "id": "bdc0f73c-3ecc-4acd-97da-8415bf18e163",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.84,
+      "text": "いや高いですよね",
+      "language": "ja"
+    },
+    {
+      "start": 0.84,
+      "end": 3.48,
+      "text": "きつくなるけど十分高い",
+      "language": "ja"
+    },
+    {
+      "start": 3.48,
+      "end": 4.14,
+      "text": "十分高い",
+      "language": "ja"
+    },
+    {
+      "start": 4.14,
+      "end": 4.7,
+      "text": "これは",
+      "language": "ja"
+    },
+    {
+      "start": 4.7,
+      "end": 6.18,
+      "text": "崖様子見して",
+      "language": "ja"
+    }
+  ],
+  "full_text": "いや高いですよね きつくなるけど十分高い 十分高い これは 崖様子見して",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "ギッチになるけど",
+      "corrected": "きつくなるけど",
+      "rule": "misheard word"
+    }
+  ]
+}

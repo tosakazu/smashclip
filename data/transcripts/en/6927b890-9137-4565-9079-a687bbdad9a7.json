@@ -1,0 +1,27 @@
+{
+  "id": "6927b890-9137-4565-9079-a687bbdad9a7",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.24,
+      "text": "how dangerous it is to give Kurama platforms plus rage so oh platforms plus rage that's a recipe",
+      "language": "en"
+    },
+    {
+      "start": 7.44,
+      "end": 15.92,
+      "text": "that's it",
+      "language": "en"
+    }
+  ],
+  "full_text": "how dangerous it is to give Kurama platforms plus rage so oh platforms plus rage that's a recipe that's it",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "karama",
+      "corrected": "Kurama",
+      "rule": "player name"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "id": "837a7d78-58cb-4d83-8129-164ff10d3963",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.84,
+      "text": "一気にパーセント逆転したぞ",
+      "language": "ja"
+    },
+    {
+      "start": 3.84,
+      "end": 4.94,
+      "text": "現在90%",
+      "language": "ja"
+    },
+    {
+      "start": 4.94,
+      "end": 7.12,
+      "text": "しかしここは不思議そうな時代か",
+      "language": "ja"
+    },
+    {
+      "start": 7.12,
+      "end": 9.64,
+      "text": "横必殺ぶっぱかったからの空上で",
+      "language": "ja"
+    },
+    {
+      "start": 9.64,
+      "end": 11.54,
+      "text": "一気に上まで押し寄せたか",
+      "language": "ja"
+    },
+    {
+      "start": 11.54,
+      "end": 12.2,
+      "text": "ここは",
+      "language": "ja"
+    }
+  ],
+  "full_text": "一気にパーセント逆転したぞ 現在90% しかしここは不思議そうな時代か 横必殺ぶっぱかったからの空上で 一気に上まで押し寄せたか ここは",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 3,
+      "original": "横必殺はっぱかったからの空中上で",
+      "corrected": "横必殺ぶっぱかったからの空上で",
+      "rule": "misheard word (はっぱ→ぶっぱ), move abbreviation (空中上→空上)"
+    }
+  ]
+}

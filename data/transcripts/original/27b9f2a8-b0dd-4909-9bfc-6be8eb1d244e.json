@@ -1,0 +1,62 @@
+{
+  "id": "27b9f2a8-b0dd-4909-9bfc-6be8eb1d244e",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.7,
+      "text": "前を抜いちゃった",
+      "language": "ja"
+    },
+    {
+      "start": 0.7,
+      "end": 4.06,
+      "text": "狙ってますかねこの上Bの巻き込み",
+      "language": "ja"
+    },
+    {
+      "start": 4.06,
+      "end": 5.44,
+      "text": "これはかなり狙ってそうですね",
+      "language": "ja"
+    },
+    {
+      "start": 5.44,
+      "end": 7.58,
+      "text": "当たらなかったとしても",
+      "language": "ja"
+    },
+    {
+      "start": 7.58,
+      "end": 8.64,
+      "text": "ちょっとだけ当たったとしても",
+      "language": "ja"
+    },
+    {
+      "start": 8.64,
+      "end": 9.44,
+      "text": "その後リターンになると",
+      "language": "ja"
+    },
+    {
+      "start": 9.44,
+      "end": 10.98,
+      "text": "どうするの?",
+      "language": "ja"
+    },
+    {
+      "start": 11.38,
+      "end": 12.36,
+      "text": "おー離脱する",
+      "language": "ja"
+    },
+    {
+      "start": 12.36,
+      "end": 13.24,
+      "text": "もう降ろさせて",
+      "language": "ja"
+    }
+  ],
+  "full_text": "前を抜いちゃった 狙ってますかねこの上Bの巻き込み これはかなり狙ってそうですね 当たらなかったとしても ちょっとだけ当たったとしても その後リターンになると どうするの? おー離脱する もう降ろさせて",
+  "detected_language": "ja",
+  "corrections": []
+}

@@ -1,0 +1,57 @@
+{
+  "id": "aa183a3a-f077-4cf4-8736-acc3b46c1576",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.58,
+      "text": "車が通って",
+      "language": "ja"
+    },
+    {
+      "start": 0.58,
+      "end": 4.54,
+      "text": "横Bで位置を入れ替えますが",
+      "language": "ja"
+    },
+    {
+      "start": 4.54,
+      "end": 7.9,
+      "text": "ジャンプから",
+      "language": "ja"
+    },
+    {
+      "start": 7.9,
+      "end": 9.9,
+      "text": "紫を投げて",
+      "language": "ja"
+    },
+    {
+      "start": 9.9,
+      "end": 12.3,
+      "text": "大ジャンプで通したのがキモです",
+      "language": "ja"
+    },
+    {
+      "start": 12.3,
+      "end": 15.62,
+      "text": "台上 スジャンプから上スマー",
+      "language": "ja"
+    }
+  ],
+  "full_text": "車が通って 横Bで位置を入れ替えますが ジャンプから 紫を投げて 大ジャンプで通したのがキモです 台上 スジャンプから上スマー",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "横橋で位置を入れ替えますが",
+      "corrected": "横Bで位置を入れ替えますが",
+      "rule": "Move: 横橋→横B"
+    },
+    {
+      "segment_idx": 5,
+      "original": "第4回スジャースが上すまー",
+      "corrected": "台上 スジャンプから上スマー",
+      "rule": "Smash term: 第4回スジャース→台上スジャンプから; move: 上すま→上スマ"
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "id": "cac3b0af-5ad5-4522-9146-5b290c06a664",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.22,
+      "text": "Samus was in a rough spot getting juggled",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "サムスが着地狩りをされる不利な展開だったんですけど"
+    },
+    {
+      "start": 3.22,
+      "end": 3.62,
+      "text": "Yeah",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そうですね"
+    },
+    {
+      "start": 3.62,
+      "end": 4.6,
+      "text": "Just before that",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "一瞬前まで"
+    },
+    {
+      "start": 4.6,
+      "end": 5.02,
+      "text": "Right",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "はい"
+    },
+    {
+      "start": 5.02,
+      "end": 5.96,
+      "text": "For some reason",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "なぜか"
+    },
+    {
+      "start": 5.96,
+      "end": 6.9,
+      "text": "Next thing you know",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "気づけば"
+    },
+    {
+      "start": 6.9,
+      "end": 9.38,
+      "text": "Donkey Kong's gone!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "顔が消えてるなドンキーゴング"
+    },
+    {
+      "start": 9.38,
+      "end": 10.44,
+      "text": "And here",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここは"
+    }
+  ],
+  "full_text": "Samus was in a rough spot getting juggled Yeah Just before that Right For some reason Next thing you know Donkey Kong's gone! And here",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

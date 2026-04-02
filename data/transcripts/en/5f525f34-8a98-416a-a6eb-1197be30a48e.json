@@ -1,0 +1,88 @@
+{
+  "id": "5f525f34-8a98-416a-a6eb-1197be30a48e",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.04,
+      "text": "Stuck at the back, no escape!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "リアボル動かない我慢"
+    },
+    {
+      "start": 1.04,
+      "end": 2.52,
+      "text": "From standing forward into",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "立ち前から"
+    },
+    {
+      "start": 2.52,
+      "end": 4.44,
+      "text": "Bair!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空後"
+    },
+    {
+      "start": 4.44,
+      "end": 6.54,
+      "text": "Nice hit with that!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いいのが届きましたよこれ"
+    },
+    {
+      "start": 6.54,
+      "end": 7.38,
+      "text": "But this...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いやこれは"
+    },
+    {
+      "start": 7.38,
+      "end": 9.56,
+      "text": "This is pretty huge...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これはだいぶ"
+    },
+    {
+      "start": 9.56,
+      "end": 11.92,
+      "text": "Luck is siding with them!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いや運も味方して"
+    },
+    {
+      "start": 11.92,
+      "end": 13.86,
+      "text": "The reversal window!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "逆転のワイヤー"
+    },
+    {
+      "start": 13.86,
+      "end": 14.5,
+      "text": "Right there!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "今の"
+    }
+  ],
+  "full_text": "Stuck at the back, no escape! From standing forward into Bair! Nice hit with that! But this... This is pretty huge... Luck is siding with them! The reversal window! Right there!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "空中しろ",
+      "corrected": "空後",
+      "rule": "smash term (空中後ろ)"
+    }
+  ]
+}

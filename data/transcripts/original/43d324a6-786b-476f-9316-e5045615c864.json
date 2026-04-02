@@ -1,0 +1,32 @@
+{
+  "id": "43d324a6-786b-476f-9316-e5045615c864",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.0,
+      "text": "that is not falling for the Palutena pressure that usually has",
+      "language": "en"
+    },
+    {
+      "start": 4.0,
+      "end": 6.9,
+      "text": "yes again, oh this is a rear grab, this is a rear grab",
+      "language": "en"
+    },
+    {
+      "start": 6.9,
+      "end": 10.34,
+      "text": "oh no, you're looking at the wrong side, my guy, my guy",
+      "language": "en"
+    },
+    {
+      "start": 10.34,
+      "end": 11.3,
+      "text": "it didn't matter, it didn't matter",
+      "language": "en"
+    }
+  ],
+  "full_text": "that is not falling for the Palutena pressure that usually has yes again, oh this is a rear grab, this is a rear grab oh no, you're looking at the wrong side, my guy, my guy it didn't matter, it didn't matter",
+  "detected_language": "en",
+  "corrections": []
+}

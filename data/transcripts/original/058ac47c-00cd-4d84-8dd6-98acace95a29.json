@@ -1,0 +1,57 @@
+{
+  "id": "058ac47c-00cd-4d84-8dd6-98acace95a29",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.3,
+      "text": "缶を相手の方に向けながら",
+      "language": "ja"
+    },
+    {
+      "start": 3.3,
+      "end": 3.92,
+      "text": "撃ってますね",
+      "language": "ja"
+    },
+    {
+      "start": 3.92,
+      "end": 4.66,
+      "text": "これはダウンやから",
+      "language": "ja"
+    },
+    {
+      "start": 4.66,
+      "end": 6.46,
+      "text": "下スマ",
+      "language": "ja"
+    },
+    {
+      "start": 6.46,
+      "end": 7.74,
+      "text": "ベクトルやっばい",
+      "language": "ja"
+    },
+    {
+      "start": 7.74,
+      "end": 9.34,
+      "text": "帰ってこれない",
+      "language": "ja"
+    }
+  ],
+  "full_text": "缶を相手の方に向けながら 撃ってますね これはダウンやから 下スマ ベクトルやっばい 帰ってこれない",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "艦を相手の方に向けながら",
+      "corrected": "缶を相手の方に向けながら",
+      "rule": "kanji homophone"
+    },
+    {
+      "segment_idx": 3,
+      "original": "シータースマッシュ",
+      "corrected": "下スマ",
+      "rule": "misheard move"
+    }
+  ]
+}

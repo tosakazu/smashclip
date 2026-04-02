@@ -1,0 +1,57 @@
+{
+  "id": "80a77513-603a-4530-81c6-12be2af7d566",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.78,
+      "text": "Covering neutral",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ニュートラル被せていく"
+    },
+    {
+      "start": 0.78,
+      "end": 4.36,
+      "text": "Neutral getup from here",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここはその場上がりからの"
+    },
+    {
+      "start": 4.36,
+      "end": 5.2,
+      "text": "Shields to check",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ガードで様子見"
+    },
+    {
+      "start": 5.2,
+      "end": 8.16,
+      "text": "Knocked down on the dive",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ダイブでのダウン"
+    },
+    {
+      "start": 8.16,
+      "end": 9.0,
+      "text": "That's scary!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これは怖い"
+    },
+    {
+      "start": 9.0,
+      "end": 11.36,
+      "text": "Up special!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "上必殺"
+    }
+  ],
+  "full_text": "Covering neutral. Neutral getup from here. Shields to check. Knocked down on the dive. That's scary! Up special!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

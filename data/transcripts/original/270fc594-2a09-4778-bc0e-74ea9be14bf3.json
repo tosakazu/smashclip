@@ -1,0 +1,62 @@
+{
+  "id": "270fc594-2a09-4778-bc0e-74ea9be14bf3",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.5,
+      "text": "空Nもう一回空N",
+      "language": "ja"
+    },
+    {
+      "start": 1.5,
+      "end": 3.98,
+      "text": "降り空Nへ",
+      "language": "ja"
+    },
+    {
+      "start": 3.98,
+      "end": 5.2,
+      "text": "先ほども見たこの展開",
+      "language": "ja"
+    },
+    {
+      "start": 5.2,
+      "end": 6.16,
+      "text": "空Nに打たれ",
+      "language": "ja"
+    },
+    {
+      "start": 6.16,
+      "end": 9.24,
+      "text": "カルメロ信じ切った3戦目でも",
+      "language": "ja"
+    },
+    {
+      "start": 9.24,
+      "end": 10.66,
+      "text": "終点の立ち回り",
+      "language": "ja"
+    },
+    {
+      "start": 10.66,
+      "end": 12.7,
+      "text": "やはり変わらないのかこの展開",
+      "language": "ja"
+    },
+    {
+      "start": 12.7,
+      "end": 13.8,
+      "text": "高めの空N",
+      "language": "ja"
+    },
+    {
+      "start": 13.8,
+      "end": 15.16,
+      "text": "ブロックを使った",
+      "language": "ja"
+    }
+  ],
+  "full_text": "空Nもう一回空N 降り空Nへ 先ほども見たこの展開 空Nに打たれ カルメロ信じ切った3戦目でも 終点の立ち回り やはり変わらないのかこの展開 高めの空N ブロックを使った",
+  "detected_language": "ja",
+  "corrections": []
+}

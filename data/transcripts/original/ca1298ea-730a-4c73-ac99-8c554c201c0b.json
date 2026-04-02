@@ -1,0 +1,69 @@
+{
+  "id": "ca1298ea-730a-4c73-ac99-8c554c201c0b",
+  "segments": [
+    {
+      "start": 0.32,
+      "end": 1.36,
+      "text": "空Nの暴れが通った?",
+      "language": "ja"
+    },
+    {
+      "start": 1.64,
+      "end": 2.42,
+      "text": "空N空N空N?",
+      "language": "ja"
+    },
+    {
+      "start": 2.9,
+      "end": 4.04,
+      "text": "まさか?まさか?",
+      "language": "ja"
+    },
+    {
+      "start": 4.86,
+      "end": 5.34,
+      "text": "抜けた!",
+      "language": "ja"
+    },
+    {
+      "start": 6.06,
+      "end": 7.0,
+      "text": "さあ最後の",
+      "language": "ja"
+    },
+    {
+      "start": 7.0,
+      "end": 9.86,
+      "text": "ニュートラル必殺技が",
+      "language": "ja"
+    },
+    {
+      "start": 9.86,
+      "end": 11.2,
+      "text": "抜けてしまった",
+      "language": "ja"
+    }
+  ],
+  "full_text": "空Nの暴れが通った? 空N空N空N? まさか?まさか? 抜けた! さあ最後の ニュートラル必殺技が 抜けてしまった",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "クエの哀れ",
+      "corrected": "空Nの暴れ",
+      "rule": "smash term (空N + 暴れ)"
+    },
+    {
+      "segment_idx": 1,
+      "original": "クエクエクエ",
+      "corrected": "空N空N空N",
+      "rule": "smash term (空N)"
+    },
+    {
+      "segment_idx": 5,
+      "original": "ニュータラル",
+      "corrected": "ニュートラル",
+      "rule": "smash term (neutral)"
+    }
+  ]
+}

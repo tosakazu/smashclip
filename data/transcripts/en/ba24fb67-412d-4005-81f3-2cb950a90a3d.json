@@ -1,0 +1,116 @@
+{
+  "id": "ba24fb67-412d-4005-81f3-2cb950a90a3d",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.48,
+      "text": "Clean shutdown on Sheik!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "気に入った紫はきっちり倒すことができた"
+    },
+    {
+      "start": 2.48,
+      "end": 5.88,
+      "text": "Olimar countermeasure",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ピクミン&オリマー対策"
+    },
+    {
+      "start": 5.88,
+      "end": 8.08,
+      "text": "Subtle but absolutely critical",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "地味ながらもかなり重要な要素"
+    },
+    {
+      "start": 8.08,
+      "end": 10.26,
+      "text": "Freeze Sheik and—",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "凍られた紫はちゃんと仕留めると"
+    },
+    {
+      "start": 10.26,
+      "end": 12.18,
+      "text": "fair",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空前"
+    },
+    {
+      "start": 12.18,
+      "end": 14.52,
+      "text": "Last hit connects on Olimar's",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "最終弾がオリマーの"
+    },
+    {
+      "start": 14.52,
+      "end": 15.98,
+      "text": "head!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "でけえ頭に当たって"
+    },
+    {
+      "start": 15.98,
+      "end": 19.68,
+      "text": "Against that getup bomb placement",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "攻撃上がりボム設置に対して"
+    },
+    {
+      "start": 19.68,
+      "end": 22.06,
+      "text": "Perfect answer!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "合わせにくる"
+    },
+    {
+      "start": 22.06,
+      "end": 23.08,
+      "text": "dash attack",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ダッシュ攻撃"
+    },
+    {
+      "start": 23.08,
+      "end": 24.58,
+      "text": "Up B recovery!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "上Bの機動力に"
+    }
+  ],
+  "full_text": "Clean shutdown on Sheik! Olimar countermeasure Subtle but absolutely critical Freeze Sheik and— fair Last hit connects on Olimar's head! Against that getup bomb placement Perfect answer! dash attack Up B recovery!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "キクミン&オリマー対策",
+      "corrected": "ピクミン&オリマー対策",
+      "rule": "kanji homophone"
+    },
+    {
+      "segment_idx": 4,
+      "original": "口前",
+      "corrected": "空前",
+      "rule": "kanji homophone"
+    },
+    {
+      "segment_idx": 9,
+      "original": "出し攻撃",
+      "corrected": "ダッシュ攻撃",
+      "rule": "Whisper error"
+    }
+  ]
+}

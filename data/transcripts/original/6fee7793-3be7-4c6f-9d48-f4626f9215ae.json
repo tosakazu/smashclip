@@ -1,0 +1,44 @@
+{
+  "id": "6fee7793-3be7-4c6f-9d48-f4626f9215ae",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.98,
+      "text": "何かしら合わせられてしまうときついが",
+      "language": "ja"
+    },
+    {
+      "start": 2.98,
+      "end": 4.86,
+      "text": "オリマーもそれは同じ",
+      "language": "ja"
+    },
+    {
+      "start": 4.86,
+      "end": 5.92,
+      "text": "122%",
+      "language": "ja"
+    },
+    {
+      "start": 5.92,
+      "end": 7.24,
+      "text": "こちらもまた軽いファイター",
+      "language": "ja"
+    },
+    {
+      "start": 7.24,
+      "end": 9.34,
+      "text": "紫2匹で怖い怖い",
+      "language": "ja"
+    },
+    {
+      "start": 9.34,
+      "end": 11.56,
+      "text": "スピンで紫を削って空中後ろ",
+      "language": "ja"
+    }
+  ],
+  "full_text": "何かしら合わせられてしまうときついが オリマーもそれは同じ 122% こちらもまた軽いファイター 紫2匹で怖い怖い スピンで紫を削って空中後ろ",
+  "detected_language": "ja",
+  "corrections": []
+}

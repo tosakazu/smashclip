@@ -1,0 +1,45 @@
+{
+  "id": "090ebb78-4359-446e-93d8-f7e8d9174804",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.58,
+      "text": "こんな怪しくただ着地を見つめていたが",
+      "language": "ja"
+    },
+    {
+      "start": 2.58,
+      "end": 4.62,
+      "text": "ここで後ろ投げ展開が入れ替わって",
+      "language": "ja"
+    },
+    {
+      "start": 4.62,
+      "end": 6.42,
+      "text": "楽器をよく見てて掴みをかわして",
+      "language": "ja"
+    },
+    {
+      "start": 6.42,
+      "end": 6.92,
+      "text": "ダッシュ攻撃",
+      "language": "ja"
+    },
+    {
+      "start": 6.92,
+      "end": 8.08,
+      "text": "伸び切るでしょう",
+      "language": "ja"
+    }
+  ],
+  "full_text": "こんな怪しくただ着地を見つめていたが ここで後ろ投げ展開が入れ替わって 楽器をよく見てて掴みをかわして ダッシュ攻撃 伸び切るでしょう",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 3,
+      "original": "ラッシュ攻撃",
+      "corrected": "ダッシュ攻撃",
+      "rule": "Move name correction (ラッシュ攻撃 → ダッシュ攻撃)"
+    }
+  ]
+}

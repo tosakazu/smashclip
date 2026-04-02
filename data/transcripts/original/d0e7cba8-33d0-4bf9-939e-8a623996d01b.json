@@ -1,0 +1,51 @@
+{
+  "id": "d0e7cba8-33d0-4bf9-939e-8a623996d01b",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.5,
+      "text": "お前はしなかった?",
+      "language": "ja"
+    },
+    {
+      "start": 0.68,
+      "end": 4.16,
+      "text": "あ、見てたんですけれどもね",
+      "language": "ja"
+    },
+    {
+      "start": 4.16,
+      "end": 5.16,
+      "text": "ギリギリ確定しませんでした",
+      "language": "ja"
+    },
+    {
+      "start": 5.16,
+      "end": 8.58,
+      "text": "なかなかゲームアンドウォッチの回避優秀とは言い難いが",
+      "language": "ja"
+    },
+    {
+      "start": 8.58,
+      "end": 10.06,
+      "text": "逆にそれが難しかったか",
+      "language": "ja"
+    },
+    {
+      "start": 10.06,
+      "end": 10.48,
+      "text": "そうですね",
+      "language": "ja"
+    }
+  ],
+  "full_text": "お前はしなかった? あ、見てたんですけれどもね ギリギリ確定しませんでした なかなかゲームアンドウォッチの回避優秀とは言い難いが 逆にそれが難しかったか そうですね",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 3,
+      "original": "ゲームアンドウッチ",
+      "corrected": "ゲームアンドウォッチ",
+      "rule": "character name (Game & Watch)"
+    }
+  ]
+}

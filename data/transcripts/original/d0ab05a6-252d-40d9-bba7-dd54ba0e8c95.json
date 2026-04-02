@@ -1,0 +1,33 @@
+{
+  "id": "d0ab05a6-252d-40d9-bba7-dd54ba0e8c95",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.34,
+      "text": "thing if he's not finding those opportunities right away he's happy just uh shooting the",
+      "language": "en"
+    },
+    {
+      "start": 4.34,
+      "end": 8.4,
+      "text": "lasers he's happy just reflecting back the T-jolts like we already see him do it a couple",
+      "language": "en"
+    },
+    {
+      "start": 8.4,
+      "end": 12.28,
+      "text": "of times but oh that was a nice chase from shiny mark who at least is bringing it down",
+      "language": "en"
+    }
+  ],
+  "full_text": "thing if he's not finding those opportunities right away he's happy just uh shooting the lasers he's happy just reflecting back the T-jolts like we already see him do it a couple of times but oh that was a nice chase from shiny mark who at least is bringing it down",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "t-jokes",
+      "corrected": "T-jolts",
+      "rule": "move name (Thunder Jolt)"
+    }
+  ]
+}

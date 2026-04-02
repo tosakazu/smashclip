@@ -1,0 +1,45 @@
+{
+  "id": "d9038670-e34d-4b7d-9117-b97bd9d15b12",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.54,
+      "text": "キャラと違う",
+      "language": "ja"
+    },
+    {
+      "start": 0.54,
+      "end": 4.36,
+      "text": "これはもう一回カブを投げて",
+      "language": "ja"
+    },
+    {
+      "start": 4.36,
+      "end": 6.86,
+      "text": "未だ拾い直すつもりなかったとは思うが",
+      "language": "ja"
+    },
+    {
+      "start": 6.86,
+      "end": 7.88,
+      "text": "おー",
+      "language": "ja"
+    },
+    {
+      "start": 7.88,
+      "end": 8.54,
+      "text": "ふーだでも",
+      "language": "ja"
+    }
+  ],
+  "full_text": "キャラと違う これはもう一回カブを投げて 未だ拾い直すつもりなかったとは思うが おー ふーだでも",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "これはもう一回株を投げて",
+      "corrected": "これはもう一回カブを投げて",
+      "rule": "move name (カブ)"
+    }
+  ]
+}

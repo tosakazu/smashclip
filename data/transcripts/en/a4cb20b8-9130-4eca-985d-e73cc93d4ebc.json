@@ -1,0 +1,63 @@
+{
+  "id": "a4cb20b8-9130-4eca-985d-e73cc93d4ebc",
+  "segments": [
+    {
+      "start": 0.66,
+      "end": 1.7,
+      "text": "Spacing it perfectly!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "触れるところで振る"
+    },
+    {
+      "start": 1.7,
+      "end": 4.78,
+      "text": "Not mashing out of shield cancel",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "シールドキャンセルから無理に暴れはしません"
+    },
+    {
+      "start": 4.78,
+      "end": 5.84,
+      "text": "Staying composed even against Courtney",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "クーティニーにも冷静"
+    },
+    {
+      "start": 5.84,
+      "end": 6.88,
+      "text": "But lands it at great spacing!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "しかしいい位置で当たって"
+    },
+    {
+      "start": 6.88,
+      "end": 7.64,
+      "text": "Up smash!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "上スマッシュ"
+    },
+    {
+      "start": 7.64,
+      "end": 8.8,
+      "text": "Running away yet again!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "またしても逃げ"
+    }
+  ],
+  "full_text": "Spacing it perfectly! Not mashing out of shield cancel Staying composed even against Courtney But lands it at great spacing! Up smash! Running away yet again!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "original": "フーティにも冷静",
+      "corrected": "クーティニーにも冷静",
+      "reason": "プレイヤー名クーティニー"
+    }
+  ]
+}

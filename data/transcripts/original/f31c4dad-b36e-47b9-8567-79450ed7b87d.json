@@ -1,0 +1,32 @@
+{
+  "id": "f31c4dad-b36e-47b9-8567-79450ed7b87d",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.74,
+      "text": "次の攻撃でできたら撃墜を通していきたい",
+      "language": "ja"
+    },
+    {
+      "start": 2.74,
+      "end": 5.14,
+      "text": "ただ振り撤回",
+      "language": "ja"
+    },
+    {
+      "start": 5.14,
+      "end": 6.46,
+      "text": "ジャックで取って",
+      "language": "ja"
+    },
+    {
+      "start": 6.46,
+      "end": 7.38,
+      "text": "そのまま狙って",
+      "language": "ja"
+    }
+  ],
+  "full_text": "次の攻撃でできたら撃墜を通していきたい ただ振り撤回 ジャックで取って そのまま狙って",
+  "detected_language": "ja",
+  "corrections": []
+}

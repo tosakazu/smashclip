@@ -1,0 +1,38 @@
+{
+  "id": "5b5931d1-4ae7-4c5f-a6cc-92c18725924d",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.58,
+      "text": "トライしてくることを見越している",
+      "language": "ja"
+    },
+    {
+      "start": 1.58,
+      "end": 2.48,
+      "text": "リレーをかけて",
+      "language": "ja"
+    },
+    {
+      "start": 2.48,
+      "end": 3.24,
+      "text": "おっとジャストシールド",
+      "language": "ja"
+    },
+    {
+      "start": 3.24,
+      "end": 4.76,
+      "text": "高度が高い",
+      "language": "ja"
+    },
+    {
+      "start": 4.76,
+      "end": 6.78,
+      "text": "ジャストシールドから",
+      "language": "ja"
+    }
+  ],
+  "full_text": "トライしてくることを見越している リレーをかけて おっとジャストシールド 高度が高い ジャストシールドから",
+  "detected_language": "ja",
+  "corrections": []
+}

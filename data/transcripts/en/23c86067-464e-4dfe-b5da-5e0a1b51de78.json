@@ -1,0 +1,49 @@
+{
+  "id": "23c86067-464e-4dfe-b5da-5e0a1b51de78",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.42,
+      "text": "That's a really solid conversion!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "かなりいい展開作れましたね"
+    },
+    {
+      "start": 2.42,
+      "end": 3.6,
+      "text": "152% in one turn!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ワンターン 152%"
+    },
+    {
+      "start": 3.6,
+      "end": 5.8,
+      "text": "Zackray's turn extension is looking sharp!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ザクレイのターン継続が光る"
+    },
+    {
+      "start": 5.8,
+      "end": 7.72,
+      "text": "Nair to down smash!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空Nから下スマッシュ"
+    },
+    {
+      "start": 7.72,
+      "end": 8.22,
+      "text": "Nice!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ナイス"
+    }
+  ],
+  "full_text": "That's a really solid conversion! 152% in one turn! Zackray's turn extension is looking sharp! Nair to down smash! Nice!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

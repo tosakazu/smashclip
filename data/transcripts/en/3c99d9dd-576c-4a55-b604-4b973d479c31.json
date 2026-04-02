@@ -1,0 +1,48 @@
+{
+  "id": "3c99d9dd-576c-4a55-b604-4b973d479c31",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.08,
+      "text": "I'm going in where they're extending shield!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "あえてブロックを出しているところに触解をかけに行きます"
+    },
+    {
+      "start": 3.08,
+      "end": 5.68,
+      "text": "Alright! This offense is fire!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "おーし、灼熱が入る"
+    },
+    {
+      "start": 5.68,
+      "end": 7.88,
+      "text": "How's that? What's the percentage?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これはどうだ?パーセントは?"
+    },
+    {
+      "start": 8.12,
+      "end": 8.74,
+      "text": "That's in KO range!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "圏内だった!"
+    }
+  ],
+  "full_text": "I'm going in where they're extending shield! Alright! This offense is fire! How's that? What's the percentage? That's in KO range!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "死灼熱",
+      "corrected": "灼熱",
+      "rule": "Whisper merged おーし+灼熱 into 死灼熱; Ryu move name"
+    }
+  ]
+}

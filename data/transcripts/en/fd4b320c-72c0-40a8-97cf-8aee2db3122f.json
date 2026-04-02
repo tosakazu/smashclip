@@ -1,0 +1,33 @@
+{
+  "id": "fd4b320c-72c0-40a8-97cf-8aee2db3122f",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.8,
+      "text": "is flowing very smoothly and it's giving him a lot of uh breathing right that platform itself",
+      "language": "en"
+    },
+    {
+      "start": 4.8,
+      "end": 8.6,
+      "text": "gives you so much opportunity to be able to breathe which is exactly what Miya is having",
+      "language": "en"
+    },
+    {
+      "start": 8.6,
+      "end": 13.02,
+      "text": "right here he is not breathing he is taking everything and it's not going to work",
+      "language": "en"
+    }
+  ],
+  "full_text": "is flowing very smoothly and it's giving him a lot of uh breathing right that platform itself gives you so much opportunity to be able to breathe which is exactly what Miya is having right here he is not breathing he is taking everything and it's not going to work",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "me is having",
+      "corrected": "Miya is having",
+      "rule": "player name"
+    }
+  ]
+}

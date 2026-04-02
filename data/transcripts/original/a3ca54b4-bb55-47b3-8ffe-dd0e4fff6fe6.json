@@ -1,0 +1,26 @@
+{
+  "id": "a3ca54b4-bb55-47b3-8ffe-dd0e4fff6fe6",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.68,
+      "text": "Both players sitting at two stocks and it is Monte with a slight lead but the",
+      "language": "en"
+    },
+    {
+      "start": 4.68,
+      "end": 9.36,
+      "text": "Arsene's out you got to avoid the onslaught don't get back here don't get up smashed.",
+      "language": "en"
+    }
+  ],
+  "full_text": "Both players sitting at two stocks and it is Monte with a slight lead but the Arsene's out you got to avoid the onslaught don't get back here don't get up smashed.",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "original": "stalks",
+      "corrected": "stocks",
+      "reason": "stocks = ストック（残機）"
+    }
+  ]
+}

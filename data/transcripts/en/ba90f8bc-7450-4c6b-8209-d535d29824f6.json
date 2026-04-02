@@ -1,0 +1,88 @@
+{
+  "id": "ba90f8bc-7450-4c6b-8209-d535d29824f6",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.32,
+      "text": "He's getting restricted, but...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "制限されていきましたが"
+    },
+    {
+      "start": 1.32,
+      "end": 4.04,
+      "text": "So what about this pressure?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあこの密着は?"
+    },
+    {
+      "start": 4.22,
+      "end": 5.74,
+      "text": "Bold move—goes for the full three-hit jab!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "弱3段出し切る勇気の選択"
+    },
+    {
+      "start": 5.74,
+      "end": 7.08,
+      "text": "Breaks through, but...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここは撃ち抜いたが"
+    },
+    {
+      "start": 7.08,
+      "end": 8.2,
+      "text": "That deadly footstool's waiting though...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "致命フットが出ているが"
+    },
+    {
+      "start": 8.2,
+      "end": 9.2,
+      "text": "He's lost the recovery!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ルートがなくなった"
+    },
+    {
+      "start": 9.2,
+      "end": 9.86,
+      "text": "Right off the edge!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "あとエッジ"
+    },
+    {
+      "start": 9.86,
+      "end": 11.0,
+      "text": "Beautiful!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これは見事"
+    },
+    {
+      "start": 11.0,
+      "end": 13.74,
+      "text": "That's absolutely sick!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "かっこよすぎるぞ"
+    }
+  ],
+  "full_text": "He's getting restricted, but... So what about this pressure? Bold move—goes for the full three-hit jab! Breaks through, but... That deadly footstool's waiting though... He's lost the recovery! Right off the edge! Beautiful! That's absolutely sick!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "弱散弾出し切る",
+      "corrected": "弱3段出し切る",
+      "rule": "move name"
+    }
+  ]
+}

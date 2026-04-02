@@ -1,0 +1,40 @@
+{
+  "id": "b78ba572-e6f5-4b3f-9d03-5ed54039ac0a",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.88,
+      "text": "Pressuring with the dash!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ダッシュで揺さぶりをかけて"
+    },
+    {
+      "start": 2.88,
+      "end": 6.86,
+      "text": "Why isn't he going for the charge shot?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "無断チャージショットは撃たないのかってし"
+    },
+    {
+      "start": 6.86,
+      "end": 12.12,
+      "text": "Bomb off the fair!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空中前からボムを使って"
+    }
+  ],
+  "full_text": "Pressuring with the dash! Why isn't he going for the charge shot? Bomb off the fair!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "出しで",
+      "corrected": "ダッシュで",
+      "rule": "misheard word"
+    }
+  ]
+}

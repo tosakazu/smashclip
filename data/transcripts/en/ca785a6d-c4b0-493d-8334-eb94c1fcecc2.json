@@ -1,0 +1,72 @@
+{
+  "id": "ca785a6d-c4b0-493d-8334-eb94c1fcecc2",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.2,
+      "text": "But anyway, that's what's happening",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "だけどね何の話だというところではありますが"
+    },
+    {
+      "start": 2.2,
+      "end": 3.26,
+      "text": "With Mario though",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "マリオならね"
+    },
+    {
+      "start": 3.26,
+      "end": 4.7,
+      "text": "Right here",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあここで"
+    },
+    {
+      "start": 4.7,
+      "end": 7.5,
+      "text": "Since that one was coming down",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "今のは降りていたので"
+    },
+    {
+      "start": 7.5,
+      "end": 9.56,
+      "text": "The attack hitbox wasn't very strong",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "攻撃判定が強力ではなく"
+    },
+    {
+      "start": 9.56,
+      "end": 10.52,
+      "text": "He managed to get back somehow",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "なんとか返ってこれた"
+    },
+    {
+      "start": 10.52,
+      "end": 12.58,
+      "text": "Up?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "上にか"
+    }
+  ],
+  "full_text": "But anyway, that's what's happening. With Mario though, right here—since that one was coming down, the attack hitbox wasn't very strong. He managed to get back somehow. Up?",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 4,
+      "original": "小木判定",
+      "corrected": "攻撃判定",
+      "rule": "smash term (攻撃判定)"
+    }
+  ]
+}

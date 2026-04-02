@@ -1,0 +1,33 @@
+{
+  "id": "ba70c8e2-1454-4cc8-b28f-4a43d80bc1a4",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.2,
+      "text": "横系を通らず下系を通らない",
+      "language": "ja"
+    },
+    {
+      "start": 3.2,
+      "end": 9.06,
+      "text": "戻ってきたところ",
+      "language": "ja"
+    },
+    {
+      "start": 9.06,
+      "end": 11.6,
+      "text": "これはどうなるよ",
+      "language": "ja"
+    }
+  ],
+  "full_text": "横系を通らず下系を通らない 戻ってきたところ これはどうなるよ",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "横桂を通らず下桂を通らない",
+      "corrected": "横系を通らず下系を通らない",
+      "rule": "kanji homophone"
+    }
+  ]
+}

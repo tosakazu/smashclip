@@ -1,0 +1,76 @@
+{
+  "id": "78f0cc78-0ef4-432e-a483-8a08e10fdeb9",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.04,
+      "text": "This player's known for throw usage, so...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "選手が投げが多いプレイヤーではあるので"
+    },
+    {
+      "start": 2.04,
+      "end": 4.32,
+      "text": "That's definitely being accounted for",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そこは意識されていると思いますね"
+    },
+    {
+      "start": 4.32,
+      "end": 5.92,
+      "text": "Even on the Small Battlefield platforms...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "小戦場の台でも"
+    },
+    {
+      "start": 5.92,
+      "end": 7.34,
+      "text": "Pressuring Tweek nicely!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ストレスを与えていくなTweek"
+    },
+    {
+      "start": 7.34,
+      "end": 10.18,
+      "text": "Great dash, excellent movement and spacing",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ダッシュ、動きいい間合い管理だ"
+    },
+    {
+      "start": 10.18,
+      "end": 11.42,
+      "text": "Out of range",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "届かない"
+    }
+  ],
+  "full_text": "This player's known for throw usage, so... That's definitely being accounted for Even on the Small Battlefield platforms... Pressuring Tweek nicely! Great dash, excellent movement and spacing Out of range",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 3,
+      "original": "ツイク",
+      "corrected": "Tweek",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 4,
+      "original": "出し動きいい前管理だ",
+      "corrected": "ダッシュ、動きいい間合い管理だ",
+      "rule": "whisper misrecognition"
+    },
+    {
+      "segment_idx": 5,
+      "original": "届くなない",
+      "corrected": "届かない",
+      "rule": "whisper misrecognition"
+    }
+  ]
+}

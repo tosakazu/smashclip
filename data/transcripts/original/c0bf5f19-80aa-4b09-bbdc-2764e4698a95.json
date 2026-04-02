@@ -1,0 +1,33 @@
+{
+  "id": "c0bf5f19-80aa-4b09-bbdc-2764e4698a95",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.38,
+      "text": "3カブ 出て反転撃墜",
+      "language": "ja"
+    },
+    {
+      "start": 2.38,
+      "end": 8.92,
+      "text": "さあここではケプト側がストック3-1というところでかなり差をつけましたが",
+      "language": "ja"
+    }
+  ],
+  "full_text": "3カブ 出て反転撃墜 さあここではケプト側がストック3-1というところでかなり差をつけましたが",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "出てファンデ撃墜",
+      "corrected": "出て反転撃墜",
+      "rule": "misheard word"
+    },
+    {
+      "segment_idx": 1,
+      "original": "ケプトガオが",
+      "corrected": "ケプト側が",
+      "rule": "misheard word"
+    }
+  ]
+}

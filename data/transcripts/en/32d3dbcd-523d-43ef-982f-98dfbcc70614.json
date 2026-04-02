@@ -1,0 +1,78 @@
+{
+  "id": "32d3dbcd-523d-43ef-982f-98dfbcc70614",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.46,
+      "text": "When you factor in the positioning disadvantage in neutral state...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ニュートラル状態においての立ち位置不利のことも考えると"
+    },
+    {
+      "start": 3.46,
+      "end": 5.24,
+      "text": "Complete turnaround is still absolutely possible",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "全然逆転もしうるだ"
+    },
+    {
+      "start": 5.24,
+      "end": 7.0,
+      "text": "If this goes through...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これを通すと"
+    },
+    {
+      "start": 7.0,
+      "end": 8.34,
+      "text": "How about this momentum?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "この展開はどうだ"
+    },
+    {
+      "start": 8.34,
+      "end": 9.16,
+      "text": "Perfect!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "うーんバッチリ"
+    },
+    {
+      "start": 9.16,
+      "end": 11.2,
+      "text": "Edgeguard locked down!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "復帰阻止決めきった"
+    },
+    {
+      "start": 11.2,
+      "end": 13.56,
+      "text": "They haven't really been committing to the edgeguard like this until now",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "今までね復帰阻止いってなかったですからね"
+    }
+  ],
+  "full_text": "When you factor in the positioning disadvantage in neutral state... Complete turnaround is still absolutely possible If this goes through... How about this momentum? Perfect! Edgeguard locked down! They haven't really been committing to the edgeguard like this until now",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "全然逆転もしやだ",
+      "corrected": "全然逆転もしうるだ",
+      "rule": "misheard: しうる"
+    },
+    {
+      "segment_idx": 4,
+      "original": "うーとはっきり",
+      "corrected": "うーんバッチリ",
+      "rule": "misheard: バッチリ"
+    }
+  ]
+}

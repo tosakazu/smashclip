@@ -1,0 +1,69 @@
+{
+  "id": "e8a336fd-00e8-49f1-b1e3-cdde2a85d9fc",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.8,
+      "text": "次は撃墜拒否 ラストストックを苦しめる",
+      "language": "ja"
+    },
+    {
+      "start": 1.8,
+      "end": 4.12,
+      "text": "うわー 合わせてくる",
+      "language": "ja"
+    },
+    {
+      "start": 4.12,
+      "end": 6.5,
+      "text": "いや結構ね スピンって着地際に合わせたりするんですけど",
+      "language": "ja"
+    },
+    {
+      "start": 6.5,
+      "end": 8.16,
+      "text": "ゲームウォッチのアークポイントなんですけど",
+      "language": "ja"
+    },
+    {
+      "start": 8.16,
+      "end": 9.14,
+      "text": "そこを上Bで拒否しました",
+      "language": "ja"
+    },
+    {
+      "start": 9.14,
+      "end": 10.34,
+      "text": "おっと しかし",
+      "language": "ja"
+    },
+    {
+      "start": 10.34,
+      "end": 10.96,
+      "text": "すみません",
+      "language": "ja"
+    }
+  ],
+  "full_text": "次は撃墜拒否 ラストストックを苦しめる うわー 合わせてくる いや結構ね スピンって着地際に合わせたりするんですけど ゲームウォッチのアークポイントなんですけど そこを上Bで拒否しました おっと しかし すみません",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "ラストを苦しめる",
+      "corrected": "ラストストックを苦しめる",
+      "rule": "context"
+    },
+    {
+      "segment_idx": 3,
+      "original": "ゲームのアークポイント",
+      "corrected": "ゲームウォッチのアークポイント",
+      "rule": "character name"
+    },
+    {
+      "segment_idx": 4,
+      "original": "ウィビーで拒否",
+      "corrected": "上Bで拒否",
+      "rule": "misheard: ウィビー→上B"
+    }
+  ]
+}

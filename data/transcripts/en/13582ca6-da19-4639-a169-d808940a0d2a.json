@@ -1,0 +1,49 @@
+{
+  "id": "13582ca6-da19-4639-a169-d808940a0d2a",
+  "segments": [
+    {
+      "start": 0.18,
+      "end": 3.24,
+      "text": "Alright, using bomb to shift the timing!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあどうだここボムを使いながらタイミングをずらす"
+    },
+    {
+      "start": 3.24,
+      "end": 5.62,
+      "text": "Coming back? No gaps!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "返ってきたか?隙間ない"
+    },
+    {
+      "start": 5.62,
+      "end": 9.46,
+      "text": "An intense KO battle from stock one!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "1ストック目から熱い撃墜争い"
+    },
+    {
+      "start": 9.46,
+      "end": 11.58,
+      "text": "Final stock, charge shot from above!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "最終ストックチャージショットは今度は上から"
+    },
+    {
+      "start": 11.58,
+      "end": 13.46,
+      "text": "No landing spot, but they can still dash attack!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "しかし着地点がなかったダッシュ攻撃できる"
+    }
+  ],
+  "full_text": "Alright, using bomb to shift the timing! Coming back? No gaps! An intense KO battle from stock one! Final stock, charge shot from above! No landing spot, but they can still dash attack!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

@@ -1,0 +1,176 @@
+{
+  "id": "0f6f67b8-a9ba-4ccf-8f2c-5edad2e510be",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.76,
+      "text": "Gotta hold it here!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここで耐えるんだ!"
+    },
+    {
+      "start": 1.28,
+      "end": 2.32,
+      "text": "Still in it though!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "まだ死なないけど"
+    },
+    {
+      "start": 2.32,
+      "end": 4.48,
+      "text": "Coming in aggressive again!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここも強気に来るぞ!"
+    },
+    {
+      "start": 5.5,
+      "end": 6.34,
+      "text": "Spot dodge inward!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "その場から内側回避"
+    },
+    {
+      "start": 6.34,
+      "end": 7.64,
+      "text": "Jumped it!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ジャンプで避けた!"
+    },
+    {
+      "start": 8.42,
+      "end": 9.38,
+      "text": "Swapping positions!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ラインが入れ替わります!"
+    },
+    {
+      "start": 10.26,
+      "end": 11.1,
+      "text": "Shutdown the anti-air!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "対空潰して!"
+    },
+    {
+      "start": 12.36,
+      "end": 12.76,
+      "text": "Inside!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "内側!"
+    },
+    {
+      "start": 13.74,
+      "end": 14.86,
+      "text": "Up smash attempt but—",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "上スマッシュ狙うが!"
+    },
+    {
+      "start": 15.28,
+      "end": 16.48,
+      "text": "Full hop bair!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "大降り空後!"
+    },
+    {
+      "start": 17.78,
+      "end": 18.52,
+      "text": "Undetected!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "バレずに!"
+    },
+    {
+      "start": 18.66,
+      "end": 19.98,
+      "text": "Bringing it out here!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここで見せるのか!"
+    },
+    {
+      "start": 20.7,
+      "end": 22.28,
+      "text": "Escaping outside!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "外逃げる!"
+    },
+    {
+      "start": 23.12,
+      "end": 24.36,
+      "text": "Looking for the anti-air!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "対空狙って!"
+    },
+    {
+      "start": 25.06,
+      "end": 26.02,
+      "text": "Got 'em here!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここで捉えた!"
+    },
+    {
+      "start": 26.3,
+      "end": 27.28,
+      "text": "Right in the center of the stage!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "どうだステージ中央!"
+    },
+    {
+      "start": 27.64,
+      "end": 28.96,
+      "text": "Monkey Flip!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "モンキーフリップ!"
+    },
+    {
+      "start": 30.0,
+      "end": 32.48,
+      "text": "KO!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここで撃墜!"
+    },
+    {
+      "start": 36.82,
+      "end": 38.62,
+      "text": "Full set!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "フルセット!"
+    },
+    {
+      "start": 39.34,
+      "end": 40.14,
+      "text": "Victory!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "勝利!"
+    }
+  ],
+  "full_text": "Gotta hold it here! Still in it though! Coming in aggressive again! Spot dodge inward! Jumped it! Swapping positions! Shutdown the anti-air! Inside! Up smash attempt but— Full hop bair! Undetected! Bringing it out here! Escaping outside! Looking for the anti-air! Got 'em here! Right in the center of the stage! Monkey Flip! KO! Full set! Victory!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 9,
+      "original": "大折り空中しろ!",
+      "corrected": "大降り空後!",
+      "rule": "Move abbreviation: 空中しろ→空後; 大折り→大降り"
+    }
+  ]
+}

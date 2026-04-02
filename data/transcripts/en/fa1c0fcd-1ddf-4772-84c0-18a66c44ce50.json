@@ -1,0 +1,72 @@
+{
+  "id": "fa1c0fcd-1ddf-4772-84c0-18a66c44ce50",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.22,
+      "text": "Going horizontal now",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "で今横に飛ぶと"
+    },
+    {
+      "start": 1.22,
+      "end": 4.0,
+      "text": "If anything catches him",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "次何か引っかかろうものなら"
+    },
+    {
+      "start": 4.0,
+      "end": 5.22,
+      "text": "He's at KO percent, but",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "即撃墜の%ですが"
+    },
+    {
+      "start": 5.22,
+      "end": 7.42,
+      "text": "The throw connects",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "投げを通している"
+    },
+    {
+      "start": 7.42,
+      "end": 9.86,
+      "text": "The tether's working really well",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ワイヤー掴み結構いい味出してますね"
+    },
+    {
+      "start": 9.86,
+      "end": 11.26,
+      "text": "Against Ganondorf",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ガノンドロフの前"
+    },
+    {
+      "start": 11.26,
+      "end": 12.12,
+      "text": "Hmm...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "うーん"
+    }
+  ],
+  "full_text": "Going horizontal now If anything catches him He's at KO percent, but The throw connects The tether's working really well Against Ganondorf Hmm...",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "即撃墜のタクですが",
+      "corrected": "即撃墜の%ですが",
+      "rule": "context"
+    }
+  ]
+}

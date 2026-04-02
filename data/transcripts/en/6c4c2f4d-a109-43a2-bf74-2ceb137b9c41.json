@@ -1,0 +1,65 @@
+{
+  "id": "6c4c2f4d-a109-43a2-bf74-2ceb137b9c41",
+  "segments": [
+    {
+      "start": 0.86,
+      "end": 1.82,
+      "text": "He's lost his momentum",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "動きを失している人"
+    },
+    {
+      "start": 1.82,
+      "end": 4.32,
+      "text": "Got back in, but",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "生還することができたが"
+    },
+    {
+      "start": 4.32,
+      "end": 5.86,
+      "text": "Just here",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここだけ"
+    },
+    {
+      "start": 5.86,
+      "end": 7.6,
+      "text": "From above only",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "上だけ"
+    },
+    {
+      "start": 7.6,
+      "end": 9.48,
+      "text": "Takes it straight into neutral B",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "展開とって直接NB"
+    },
+    {
+      "start": 9.48,
+      "end": 10.46,
+      "text": "Coming in to press",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "接続しに来る"
+    },
+    {
+      "start": 10.46,
+      "end": 14.54,
+      "text": "Calmly OOS'd against that neutral B!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "NBに対して冷静なガード解除した今日"
+    }
+  ],
+  "full_text": "He's lost his momentum Got back in, but Just here From above only Takes it straight into neutral B Coming in to press Calmly OOS'd against that neutral B!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

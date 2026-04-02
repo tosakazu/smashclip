@@ -1,0 +1,57 @@
+{
+  "id": "e0becf86-aa54-4d7c-9ae8-f138d954ccb6",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.4,
+      "text": "難しくなってくるその前にこの崖",
+      "language": "ja"
+    },
+    {
+      "start": 1.4,
+      "end": 2.62,
+      "text": "上がれるか",
+      "language": "ja"
+    },
+    {
+      "start": 2.62,
+      "end": 3.88,
+      "text": "上がれるか",
+      "language": "ja"
+    },
+    {
+      "start": 3.88,
+      "end": 4.96,
+      "text": "まだ上がれてはいない",
+      "language": "ja"
+    },
+    {
+      "start": 4.96,
+      "end": 6.68,
+      "text": "下からカーテンが返ってきた最終段です",
+      "language": "ja"
+    },
+    {
+      "start": 6.68,
+      "end": 9.66,
+      "text": "ここで空中前飛び落とした",
+      "language": "ja"
+    },
+    {
+      "start": 9.66,
+      "end": 10.04,
+      "text": "見事",
+      "language": "ja"
+    }
+  ],
+  "full_text": "難しくなってくるその前にこの崖 上がれるか 上がれるか まだ上がれてはいない 下からカーテンが返ってきた最終段です ここで空中前飛び落とした 見事",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 4,
+      "original": "下級が返ってきた最終弾です",
+      "corrected": "下からカーテンが返ってきた最終段です",
+      "rule": "misheard word"
+    }
+  ]
+}

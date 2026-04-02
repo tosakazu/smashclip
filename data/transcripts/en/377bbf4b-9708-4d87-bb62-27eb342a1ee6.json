@@ -1,0 +1,51 @@
+{
+  "id": "377bbf4b-9708-4d87-bb62-27eb342a1ee6",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.44,
+      "text": "Spargo's the same way, dude.",
+      "language": "en"
+    },
+    {
+      "start": 1.72,
+      "end": 5.36,
+      "text": "I remember, I remember Leo used to down throw and fully charge up smash.",
+      "language": "en"
+    },
+    {
+      "start": 5.8,
+      "end": 9.34,
+      "text": "I was like, yo, how are people getting hit by this?",
+      "language": "en"
+    },
+    {
+      "start": 9.78,
+      "end": 10.06,
+      "text": "What?",
+      "language": "en"
+    },
+    {
+      "start": 10.72,
+      "end": 11.16,
+      "text": "Absolutely.",
+      "language": "en"
+    },
+    {
+      "start": 11.46,
+      "end": 12.26,
+      "text": "And then, hey, using that.",
+      "language": "en"
+    }
+  ],
+  "full_text": "Spargo's the same way, dude. I remember, I remember Leo used to down throw and fully charge up smash. I was like, yo, how are people getting hit by this? What? Absolutely. And then, hey, using that.",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "Spartan's",
+      "corrected": "Spargo's",
+      "rule": "player name"
+    }
+  ]
+}

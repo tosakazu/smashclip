@@ -1,0 +1,39 @@
+{
+  "id": "3928bd0c-acea-4086-bde1-e03e55e7659d",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.4,
+      "text": "バナナからフリップ",
+      "language": "ja"
+    },
+    {
+      "start": 4.4,
+      "end": 8.7,
+      "text": "空後空後戻ってこれるか",
+      "language": "ja"
+    },
+    {
+      "start": 8.7,
+      "end": 9.74,
+      "text": "空下",
+      "language": "ja"
+    }
+  ],
+  "full_text": "バナナからフリップ 空後空後戻ってこれるか 空下",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "空中後ろ空中後ろ",
+      "corrected": "空後空後",
+      "rule": "空中後ろ→空後"
+    },
+    {
+      "segment_idx": 2,
+      "original": "空中下",
+      "corrected": "空下",
+      "rule": "空中下→空下"
+    }
+  ]
+}

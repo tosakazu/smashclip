@@ -1,0 +1,219 @@
+{
+  "id": "edf6dcf0-f76c-4343-8131-b1a1d8e4cf94",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.8,
+      "text": "ポケモンスタジアム2",
+      "language": "ja"
+    },
+    {
+      "start": 3.8,
+      "end": 6.0,
+      "text": "まずは弾幕",
+      "language": "ja"
+    },
+    {
+      "start": 6.0,
+      "end": 9.0,
+      "text": "相手がリスクを犯すまで",
+      "language": "ja"
+    },
+    {
+      "start": 9.0,
+      "end": 11.34,
+      "text": "低リスクなワンタッチで差し込め",
+      "language": "ja"
+    },
+    {
+      "start": 11.34,
+      "end": 12.66,
+      "text": "ワンタッチ",
+      "language": "ja"
+    },
+    {
+      "start": 12.66,
+      "end": 15.76,
+      "text": "つかんだぜ",
+      "language": "ja"
+    },
+    {
+      "start": 15.76,
+      "end": 18.2,
+      "text": "まずはご挨拶",
+      "language": "ja"
+    },
+    {
+      "start": 18.2,
+      "end": 20.92,
+      "text": "1ストック目からワンタッチもぎ取れ",
+      "language": "ja"
+    },
+    {
+      "start": 20.92,
+      "end": 25.6,
+      "text": "これこそがらるルイージだ",
+      "language": "ja"
+    },
+    {
+      "start": 25.6,
+      "end": 27.32,
+      "text": "まずは数秒",
+      "language": "ja"
+    },
+    {
+      "start": 27.32,
+      "end": 28.52,
+      "text": "圧倒的な",
+      "language": "ja"
+    },
+    {
+      "start": 28.52,
+      "end": 30.44,
+      "text": "ビハインドを背負ってしまったグラトニー",
+      "language": "ja"
+    },
+    {
+      "start": 30.44,
+      "end": 32.58,
+      "text": "追い詰めるのはらる",
+      "language": "ja"
+    },
+    {
+      "start": 32.58,
+      "end": 36.6,
+      "text": "やはりらる",
+      "language": "ja"
+    },
+    {
+      "start": 36.6,
+      "end": 37.62,
+      "text": "2本連続",
+      "language": "ja"
+    },
+    {
+      "start": 37.96,
+      "end": 39.02,
+      "text": "40秒です",
+      "language": "ja"
+    },
+    {
+      "start": 39.02,
+      "end": 40.06,
+      "text": "即死撃墜",
+      "language": "ja"
+    },
+    {
+      "start": 40.06,
+      "end": 42.64,
+      "text": "試合中でもガチポーズが上がり",
+      "language": "ja"
+    },
+    {
+      "start": 42.64,
+      "end": 43.56,
+      "text": "え?",
+      "language": "ja"
+    },
+    {
+      "start": 43.64,
+      "end": 45.5,
+      "text": "ジャンプを潰しに行くの?",
+      "language": "ja"
+    },
+    {
+      "start": 45.64,
+      "end": 47.28,
+      "text": "まずいまずいまずい",
+      "language": "ja"
+    },
+    {
+      "start": 47.28,
+      "end": 47.7,
+      "text": "あれ?",
+      "language": "ja"
+    },
+    {
+      "start": 48.46,
+      "end": 50.22,
+      "text": "届かない",
+      "language": "ja"
+    },
+    {
+      "start": 50.22,
+      "end": 55.74,
+      "text": "決着をつけるのは一瞬だ",
+      "language": "ja"
+    },
+    {
+      "start": 55.74,
+      "end": 58.38,
+      "text": "beneath",
+      "language": "ja"
+    },
+    {
+      "start": 58.38,
+      "end": 59.98,
+      "text": "狂気の振動!",
+      "language": "ja"
+    }
+  ],
+  "full_text": "ポケモンスタジアム2 まずは弾幕 相手がリスクを犯すまで 低リスクなワンタッチで差し込め ワンタッチ つかんだぜ まずはご挨拶 1ストック目からワンタッチもぎ取れ これこそがらるルイージだ まずは数秒 圧倒的な ビハインドを背負ってしまったグラトニー 追い詰めるのはらる やはりらる 2本連続 40秒です 即死撃墜 試合中でもガチポーズが上がり え? ジャンプを潰しに行くの? まずいまずいまずい あれ? 届かない 決着をつけるのは一瞬だ beneath 狂気の振動!",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "玉巻",
+      "corrected": "弾幕",
+      "rule": "misheard: 玉巻→弾幕"
+    },
+    {
+      "segment_idx": 7,
+      "original": "ワンタッチも切れ",
+      "corrected": "ワンタッチもぎ取れ",
+      "rule": "misheard"
+    },
+    {
+      "segment_idx": 8,
+      "original": "ラルルイスだ",
+      "corrected": "らるルイージだ",
+      "rule": "player name: ラルルイス→らるルイージ"
+    },
+    {
+      "segment_idx": 11,
+      "original": "グラスリー",
+      "corrected": "グラトニー",
+      "rule": "player name: グラスリー→グラトニー(Glutonny)"
+    },
+    {
+      "segment_idx": 12,
+      "original": "ラルル",
+      "corrected": "らる",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 13,
+      "original": "ラルル",
+      "corrected": "らる",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 14,
+      "original": "2本練習",
+      "corrected": "2本連続",
+      "rule": "misheard"
+    },
+    {
+      "segment_idx": 16,
+      "original": "総技激つい",
+      "corrected": "即死撃墜",
+      "rule": "misheard: 総技激つい→即死撃墜"
+    },
+    {
+      "segment_idx": 25,
+      "original": "京都の振動",
+      "corrected": "狂気の振動",
+      "rule": "misheard: 京都→狂気"
+    }
+  ]
+}

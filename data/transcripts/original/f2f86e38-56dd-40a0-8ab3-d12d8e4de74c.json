@@ -1,0 +1,33 @@
+{
+  "id": "f2f86e38-56dd-40a0-8ab3-d12d8e4de74c",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.54,
+      "text": "3番目が当たらず展開がニュートラルへ",
+      "language": "ja"
+    },
+    {
+      "start": 2.54,
+      "end": 4.78,
+      "text": "連鎖取りして開かないRizeasu(渋井)が",
+      "language": "ja"
+    },
+    {
+      "start": 4.78,
+      "end": 5.32,
+      "text": "こう",
+      "language": "ja"
+    }
+  ],
+  "full_text": "3番目が当たらず展開がニュートラルへ 連鎖取りして開かないRizeasu(渋井)が こう",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "渋井",
+      "corrected": "Rizeasu(渋井)",
+      "rule": "player name context"
+    }
+  ]
+}

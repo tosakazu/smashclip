@@ -1,0 +1,20 @@
+{
+  "id": "0bb302db-2911-4dd0-ae92-f097177b76b3",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.08,
+      "text": "away grenade gonna put a little extra damage on top of me how'd you get off this ledge i",
+      "language": "en"
+    },
+    {
+      "start": 4.08,
+      "end": 6.28,
+      "text": "don't that should be enough to time this",
+      "language": "en"
+    }
+  ],
+  "full_text": "away grenade gonna put a little extra damage on top of me how'd you get off this ledge i don't that should be enough to time this",
+  "detected_language": "en",
+  "corrections": []
+}

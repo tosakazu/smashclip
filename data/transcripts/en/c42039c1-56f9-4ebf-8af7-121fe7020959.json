@@ -1,0 +1,40 @@
+{
+  "id": "c42039c1-56f9-4ebf-8af7-121fe7020959",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.94,
+      "text": "Such a skilled player with excellent throw mixups and spacing!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "かけ方と出し分けがうまい選手ですね"
+    },
+    {
+      "start": 1.94,
+      "end": 2.88,
+      "text": "Dair!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空中下"
+    },
+    {
+      "start": 2.88,
+      "end": 3.68,
+      "text": "Oh, but against that—!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "おっとこれには"
+    }
+  ],
+  "full_text": "Such a skilled player with excellent throw mixups and spacing! Dair! Oh, but against that—!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "空中した",
+      "corrected": "空中下",
+      "rule": "misheard move name"
+    }
+  ]
+}

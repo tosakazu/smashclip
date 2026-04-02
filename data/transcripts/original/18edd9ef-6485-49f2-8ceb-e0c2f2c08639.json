@@ -1,0 +1,69 @@
+{
+  "id": "18edd9ef-6485-49f2-8ceb-e0c2f2c08639",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.16,
+      "text": "今まで他のカムイと違ってとても面白いですよね",
+      "language": "ja"
+    },
+    {
+      "start": 3.16,
+      "end": 5.08,
+      "text": "さあそんな",
+      "language": "ja"
+    },
+    {
+      "start": 5.08,
+      "end": 7.08,
+      "text": "おお今の空Nも",
+      "language": "ja"
+    },
+    {
+      "start": 7.08,
+      "end": 9.46,
+      "text": "持続で当たるとえらいことになりますが",
+      "language": "ja"
+    },
+    {
+      "start": 9.46,
+      "end": 12.32,
+      "text": "メテオにはならないが",
+      "language": "ja"
+    },
+    {
+      "start": 12.32,
+      "end": 13.08,
+      "text": "帰ってきた",
+      "language": "ja"
+    },
+    {
+      "start": 13.08,
+      "end": 14.4,
+      "text": "崖の上がりを見ている",
+      "language": "ja"
+    }
+  ],
+  "full_text": "今まで他のカムイと違ってとても面白いですよね さあそんな おお今の空Nも 持続で当たるとえらいことになりますが メテオにはならないが 帰ってきた 崖の上がりを見ている",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "今まで他の神威と違って",
+      "corrected": "今まで他のカムイと違って",
+      "rule": "Character name: 神威→カムイ (Corrin)"
+    },
+    {
+      "segment_idx": 2,
+      "original": "おお今のクエネも",
+      "corrected": "おお今の空Nも",
+      "rule": "Move abbreviation: クエネ→空N (neutral air)"
+    },
+    {
+      "segment_idx": 6,
+      "original": "かわいい仕上がりを見ている",
+      "corrected": "崖の上がりを見ている",
+      "rule": "Garbled transcription: かわいい仕上がり→崖の上がり"
+    }
+  ]
+}

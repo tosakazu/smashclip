@@ -1,0 +1,31 @@
+{
+  "id": "a71bcb59-a41a-4789-b610-15a0e631d29a",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.24,
+      "text": "Up smash to juggle!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "上スマッシュは着地狩り"
+    },
+    {
+      "start": 1.24,
+      "end": 5.08,
+      "text": "Perfectly grabbed the banana!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ぴったりバナナのところに回収し"
+    }
+  ],
+  "full_text": "Up smash to juggle! Perfectly grabbed the banana!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "original": "カサタリ",
+      "corrected": "着地狩り",
+      "reason": "着地狩り（landing punish）"
+    }
+  ]
+}

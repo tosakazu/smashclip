@@ -1,0 +1,69 @@
+{
+  "id": "a8015a9c-23cb-4522-8cc7-44104e79b4b4",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "こう上スマガンホールドだな",
+      "language": "ja"
+    },
+    {
+      "start": 2.0,
+      "end": 3.0,
+      "text": "当たんない",
+      "language": "ja"
+    },
+    {
+      "start": 3.0,
+      "end": 4.0,
+      "text": "ちゃんと待って",
+      "language": "ja"
+    },
+    {
+      "start": 4.0,
+      "end": 6.0,
+      "text": "空上から空中前",
+      "language": "ja"
+    },
+    {
+      "start": 6.0,
+      "end": 8.0,
+      "text": "姿勢が悪ければピクミングみたいな",
+      "language": "ja"
+    },
+    {
+      "start": 8.0,
+      "end": 9.0,
+      "text": "ファイアーブレスにまた",
+      "language": "ja"
+    },
+    {
+      "start": 9.0,
+      "end": 10.0,
+      "text": "えっとここは?",
+      "language": "ja"
+    },
+    {
+      "start": 10.0,
+      "end": 11.0,
+      "text": "空下メテオ!",
+      "language": "ja"
+    },
+    {
+      "start": 11.0,
+      "end": 12.0,
+      "text": "デュース",
+      "language": "ja"
+    }
+  ],
+  "full_text": "こう上スマガンホールドだな 当たんない ちゃんと待って 空上から空中前 姿勢が悪ければピクミングみたいな ファイアーブレスにまた えっとここは? 空下メテオ! デュース",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "こーうえすまガンホールドだな",
+      "corrected": "こう上スマガンホールドだな",
+      "rule": "Move term: うえすま→上スマ"
+    }
+  ]
+}

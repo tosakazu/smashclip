@@ -1,0 +1,49 @@
+{
+  "id": "a109b20b-8643-4053-ad52-37ea16b36b8d",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.86,
+      "text": "What incredible composure!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ひときわ落ち着きを見せる"
+    },
+    {
+      "start": 1.86,
+      "end": 4.02,
+      "text": "That's how the elite play",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そんな手札が楽園にもある"
+    },
+    {
+      "start": 4.02,
+      "end": 5.4,
+      "text": "But with this sequence...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "しかしこのコード"
+    },
+    {
+      "start": 5.4,
+      "end": 6.62,
+      "text": "Up smash!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "上スマッシュ"
+    },
+    {
+      "start": 6.62,
+      "end": 7.0,
+      "text": "And then...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そして"
+    }
+  ],
+  "full_text": "What incredible composure! That's how the elite play But with this sequence... Up smash! And then...",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

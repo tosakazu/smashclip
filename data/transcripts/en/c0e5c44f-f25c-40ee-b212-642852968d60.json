@@ -1,0 +1,27 @@
+{
+  "id": "c0e5c44f-f25c-40ee-b212-642852968d60",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.04,
+      "text": "right there air dodging through the air multi-hits was able to get through the air",
+      "language": "en"
+    },
+    {
+      "start": 4.04,
+      "end": 8.8,
+      "text": "speed maybe playing a part in it one more big hit right here can we find that and that's gonna be",
+      "language": "en"
+    }
+  ],
+  "full_text": "right there air dodging through the air multi-hits was able to get through the air speed maybe playing a part in it one more big hit right here can we find that and that's gonna be",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "spot dog",
+      "corrected": "spot dodge",
+      "rule": "smash term"
+    }
+  ]
+}

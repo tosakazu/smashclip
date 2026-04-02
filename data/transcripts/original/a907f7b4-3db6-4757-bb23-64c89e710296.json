@@ -1,0 +1,51 @@
+{
+  "id": "a907f7b4-3db6-4757-bb23-64c89e710296",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.26,
+      "text": "受け身とっても多分そんなに良くない展開なんだろうな",
+      "language": "ja"
+    },
+    {
+      "start": 2.26,
+      "end": 3.26,
+      "text": "クエネとか待ってて",
+      "language": "ja"
+    },
+    {
+      "start": 3.26,
+      "end": 5.52,
+      "text": "うわ空下見せていく",
+      "language": "ja"
+    },
+    {
+      "start": 5.52,
+      "end": 10.34,
+      "text": "さあ空中Nのカス当たり",
+      "language": "ja"
+    },
+    {
+      "start": 10.34,
+      "end": 12.52,
+      "text": "弱引っ掛けてから空中後ろ攻撃",
+      "language": "ja"
+    }
+  ],
+  "full_text": "受け身とっても多分そんなに良くない展開なんだろうな クエネとか待ってて うわ空下見せていく さあ空中Nのカス当たり 弱引っ掛けてから空中後ろ攻撃",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 3,
+      "original": "空中城のカース当たり",
+      "corrected": "空中Nのカス当たり",
+      "rule": "Move: 空中城→空中N; homophone: カース→カス"
+    },
+    {
+      "segment_idx": 4,
+      "original": "ジャック引っ掛けてから空中城攻撃",
+      "corrected": "弱引っ掛けてから空中後ろ攻撃",
+      "rule": "Move: ジャック→弱; 空中城→空中後ろ"
+    }
+  ]
+}

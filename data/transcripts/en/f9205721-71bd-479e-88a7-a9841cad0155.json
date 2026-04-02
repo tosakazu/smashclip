@@ -1,0 +1,57 @@
+{
+  "id": "f9205721-71bd-479e-88a7-a9841cad0155",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.62,
+      "text": "Back and forth—",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "お互いに何か"
+    },
+    {
+      "start": 1.62,
+      "end": 2.92,
+      "text": "That was close!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "危なかった"
+    },
+    {
+      "start": 2.92,
+      "end": 6.14,
+      "text": "Coming back from the inside—",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "内側から返ってきて"
+    },
+    {
+      "start": 6.14,
+      "end": 7.44,
+      "text": "Won't miss the landing!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "着地を見逃しません"
+    },
+    {
+      "start": 7.44,
+      "end": 8.6,
+      "text": "This is—",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これは"
+    },
+    {
+      "start": 8.6,
+      "end": 9.92,
+      "text": "Oh!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "あ"
+    }
+  ],
+  "full_text": "Back and forth— That was close! Coming back from the inside— Won't miss the landing! This is— Oh!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

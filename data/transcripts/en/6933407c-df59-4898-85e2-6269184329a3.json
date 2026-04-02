@@ -1,0 +1,72 @@
+{
+  "id": "6933407c-df59-4898-85e2-6269184329a3",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.84,
+      "text": "If that fully charged smash connects, I don't think it's a KO...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "スマッシュホールド当たれば撃墜はしない気もしますが"
+    },
+    {
+      "start": 3.84,
+      "end": 5.78,
+      "text": "Naochao showing that aggressive option",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "強気な択を見せていったナオチャ"
+    },
+    {
+      "start": 5.78,
+      "end": 8.22,
+      "text": "The fair gets a mutual hit right there",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空前がトロッコ相打ちになって"
+    },
+    {
+      "start": 8.22,
+      "end": 13.58,
+      "text": "Up tilt picks it up, and then the deeper fair trades!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "上強攻撃が拾っていくそして深めの空前がトロッコ相打ちになって"
+    }
+  ],
+  "full_text": "If that fully charged smash connects, I don't think it's a KO... Naochao showing that aggressive option The fair gets a mutual hit right there Up tilt picks it up, and then the deeper fair trades!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "タコ",
+      "corrected": "択",
+      "rule": "Whisper mishearing"
+    },
+    {
+      "segment_idx": 2,
+      "original": "空中前",
+      "corrected": "空前",
+      "rule": "move abbreviation"
+    },
+    {
+      "segment_idx": 2,
+      "original": "対打ち",
+      "corrected": "相打ち",
+      "rule": "kanji homophone"
+    },
+    {
+      "segment_idx": 3,
+      "original": "空中前",
+      "corrected": "空前",
+      "rule": "move abbreviation"
+    },
+    {
+      "segment_idx": 3,
+      "original": "対打ち",
+      "corrected": "相打ち",
+      "rule": "kanji homophone"
+    }
+  ]
+}

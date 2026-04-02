@@ -1,0 +1,21 @@
+{
+  "id": "094b0d10-eb5e-463f-bed5-5faf0cc15d9b",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 9.6,
+      "text": "I hate so much with it, here it comes, explosive flame trying to find its mark, and the neutral getup gets called out, screen splat.",
+      "language": "en"
+    }
+  ],
+  "full_text": "I hate so much with it, here it comes, explosive flame trying to find its mark, and the neutral getup gets called out, screen splat.",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "I hate so much with it, here it comes, explosive flame trying to find its mark, and the neutral getup gets sawed out, screen splat.",
+      "corrected": "I hate so much with it, here it comes, explosive flame trying to find its mark, and the neutral getup gets called out, screen splat.",
+      "rule": "Smash terminology correction (sawed out → called out)"
+    }
+  ]
+}

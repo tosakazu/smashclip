@@ -1,0 +1,39 @@
+{
+  "id": "52e19589-6f0b-4405-b4c5-842f905d0614",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.24,
+      "text": "I'm not going to lie, Spargo right now is absolutely on fire.",
+      "language": "en"
+    },
+    {
+      "start": 4.42,
+      "end": 5.96,
+      "text": "He's trying to take this tournament, man.",
+      "language": "en"
+    },
+    {
+      "start": 6.0,
+      "end": 7.5,
+      "text": "He's playing like he's trying to win it.",
+      "language": "en"
+    },
+    {
+      "start": 7.9,
+      "end": 8.06,
+      "text": "Yeah.",
+      "language": "en"
+    }
+  ],
+  "full_text": "I'm not going to lie, Spargo right now is absolutely on fire. He's trying to take this tournament, man. He's playing like he's trying to win it. Yeah.",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "Aspargo",
+      "corrected": "Spargo",
+      "rule": "player name"
+    }
+  ]
+}

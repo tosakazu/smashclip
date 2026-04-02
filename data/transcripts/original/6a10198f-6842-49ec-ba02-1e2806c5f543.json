@@ -1,0 +1,51 @@
+{
+  "id": "6a10198f-6842-49ec-ba02-1e2806c5f543",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.36,
+      "text": "苦い展開がガクト選手に降り注ぎます",
+      "language": "ja"
+    },
+    {
+      "start": 2.36,
+      "end": 5.06,
+      "text": "空前さらに来る",
+      "language": "ja"
+    },
+    {
+      "start": 5.06,
+      "end": 5.94,
+      "text": "さあ",
+      "language": "ja"
+    },
+    {
+      "start": 5.94,
+      "end": 7.54,
+      "text": "ここ来てもおかしくない",
+      "language": "ja"
+    },
+    {
+      "start": 7.54,
+      "end": 9.0,
+      "text": "おっとそもそも距離が",
+      "language": "ja"
+    },
+    {
+      "start": 9.0,
+      "end": 9.72,
+      "text": "バウンドも",
+      "language": "ja"
+    }
+  ],
+  "full_text": "苦い展開がガクト選手に降り注ぎます 空前さらに来る さあ ここ来てもおかしくない おっとそもそも距離が バウンドも",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "宇宙前",
+      "corrected": "空前",
+      "rule": "kanji homophone (宇宙→空)"
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "id": "6d4f381c-61e8-4412-9963-90bb775eac9f",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Never landed it, not once!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "見せてない まだ1回も"
+    },
+    {
+      "start": 2.0,
+      "end": 4.0,
+      "text": "128%",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "128%"
+    },
+    {
+      "start": 4.0,
+      "end": 6.0,
+      "text": "Yeah, trying to trap him with it, but...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いやー引っ掛けたいが"
+    },
+    {
+      "start": 6.0,
+      "end": 8.0,
+      "text": "completely",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "徹底的に"
+    },
+    {
+      "start": 8.0,
+      "end": 10.0,
+      "text": "shutting it down",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "拒否をする"
+    },
+    {
+      "start": 10.0,
+      "end": 12.0,
+      "text": "Snow meanwhile",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "しかしスノー選手側は"
+    },
+    {
+      "start": 12.0,
+      "end": 14.0,
+      "text": "isn't falling for that banana",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "このバナナに引っ掛からないように"
+    },
+    {
+      "start": 14.0,
+      "end": 16.0,
+      "text": "Come on!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあ"
+    },
+    {
+      "start": 16.0,
+      "end": 18.0,
+      "text": "What about here?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "どうだここ"
+    },
+    {
+      "start": 18.0,
+      "end": 20.0,
+      "text": "Dair—",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空下の"
+    },
+    {
+      "start": 20.0,
+      "end": 22.0,
+      "text": "KO!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "撃墜だ"
+    }
+  ],
+  "full_text": "Never landed it, not once! 128% Yeah, trying to trap him with it, but... completely shutting it down. Snow meanwhile isn't falling for that banana. Come on! What about here? Dair— KO!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_index": 9,
+      "original": "空中したの",
+      "corrected": "空下の"
+    }
+  ]
+}

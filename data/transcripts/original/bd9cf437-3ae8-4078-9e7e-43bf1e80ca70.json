@@ -1,0 +1,27 @@
+{
+  "id": "bd9cf437-3ae8-4078-9e7e-43bf1e80ca70",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.76,
+      "text": "be respected oh something on platform no i think he tried to drift and up smash but the dash that",
+      "language": "en"
+    },
+    {
+      "start": 5.76,
+      "end": 9.88,
+      "text": "came out unfortunately he couldn't cancel the dash in time regardless Acola takes",
+      "language": "en"
+    }
+  ],
+  "full_text": "be respected oh something on platform no i think he tried to drift and up smash but the dash that came out unfortunately he couldn't cancel the dash in time regardless Acola takes",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "akola",
+      "corrected": "Acola",
+      "rule": "player name"
+    }
+  ]
+}

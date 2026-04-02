@@ -1,0 +1,48 @@
+{
+  "id": "613b4486-2859-46c7-906f-842a4ed4e438",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.6,
+      "text": "The damage really isn't stacking up much at this point",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これかなりダメージを持ってないですねここまでは"
+    },
+    {
+      "start": 2.6,
+      "end": 4.86,
+      "text": "Right, Kurofune's managing on this stock so far, but",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "はいこのストックはやれている黒船のシーンですが"
+    },
+    {
+      "start": 4.86,
+      "end": 7.56,
+      "text": "Looking at that extended grab range, it's really standing out, so",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "長いキャッチラインを見れば光っているので"
+    },
+    {
+      "start": 7.56,
+      "end": 11.64,
+      "text": "This turn it's looking like whoever gets priority first and can press the offense wins",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "どっちが先に優先権を持ってそのまま打ち手に持っていけばという感じのターンで見えます"
+    }
+  ],
+  "full_text": "The damage really isn't stacking up much at this point Right, Kurofune's managing on this stock so far, but Looking at that extended grab range, it's really standing out, so This turn it's looking like whoever gets priority first and can press the offense wins",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "クロスのシーン",
+      "corrected": "黒船のシーン",
+      "rule": "player name"
+    }
+  ]
+}

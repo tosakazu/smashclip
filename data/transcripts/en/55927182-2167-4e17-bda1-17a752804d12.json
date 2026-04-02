@@ -1,0 +1,33 @@
+{
+  "id": "55927182-2167-4e17-bda1-17a752804d12",
+  "segments": [
+    {
+      "start": 0.88,
+      "end": 3.74,
+      "text": "Can also be a little bit weirder on these floater type characters.",
+      "language": "en"
+    },
+    {
+      "start": 4.24,
+      "end": 6.02,
+      "text": "Swinging through the forward air.",
+      "language": "en"
+    },
+    {
+      "start": 7.26,
+      "end": 10.74,
+      "text": "Oh great, DI coming out from Monte, but the back air is gonna...",
+      "language": "en"
+    }
+  ],
+  "full_text": "Can also be a little bit weirder on these floater type characters. Swinging through the forward air. Oh great, DI coming out from Monte, but the back air is gonna...",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "Monty",
+      "corrected": "Monte",
+      "rule": "player name"
+    }
+  ]
+}

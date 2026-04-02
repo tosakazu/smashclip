@@ -1,0 +1,33 @@
+{
+  "id": "efc868ca-4374-4c84-83dd-7a1ddf1fe26f",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.6,
+      "text": "That grab connected off the pullback, but...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "一度引いたことで通った掴みだったんですが"
+    },
+    {
+      "start": 2.6,
+      "end": 5.24,
+      "text": "Here's a confirmed meteor to bair!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここはメテオからの空中後ろ確定"
+    },
+    {
+      "start": 5.24,
+      "end": 7.96,
+      "text": "Couldn't track that situation",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これは展開追い切れず"
+    }
+  ],
+  "full_text": "That grab connected off the pullback, but... Here's a confirmed meteor to bair! Couldn't track that situation",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

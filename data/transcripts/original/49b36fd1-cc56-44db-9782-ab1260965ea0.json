@@ -1,0 +1,33 @@
+{
+  "id": "49b36fd1-cc56-44db-9782-ab1260965ea0",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.1,
+      "text": "下B落として",
+      "language": "ja"
+    },
+    {
+      "start": 4.1,
+      "end": 10.14,
+      "text": "これは空下したかおっと",
+      "language": "ja"
+    }
+  ],
+  "full_text": "下B落として これは空下したかおっと",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "下気落として",
+      "corrected": "下B落として",
+      "rule": "move abbreviation"
+    },
+    {
+      "segment_idx": 1,
+      "original": "空襲したか",
+      "corrected": "空下したか",
+      "rule": "move abbreviation"
+    }
+  ]
+}

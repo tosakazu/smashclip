@@ -1,0 +1,56 @@
+{
+  "id": "6749729c-a683-4bfb-881e-529b6a0b4ae8",
+  "segments": [
+    {
+      "start": 0.94,
+      "end": 2.22,
+      "text": "Grab the banana, calmly!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "バナナを冷静にとって"
+    },
+    {
+      "start": 2.22,
+      "end": 3.92,
+      "text": "Setting up for the next play!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "次のトリガーを準備"
+    },
+    {
+      "start": 3.92,
+      "end": 5.76,
+      "text": "Counterattack here!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここで反撃"
+    },
+    {
+      "start": 5.76,
+      "end": 7.06,
+      "text": "They're not recovering!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これは帰れないのでは"
+    },
+    {
+      "start": 7.06,
+      "end": 8.0,
+      "text": "Whoa!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いやー"
+    }
+  ],
+  "full_text": "Grab the banana, calmly! Setting up for the next play! Counterattack here! They're not recovering! Whoa!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 3,
+      "original": "変えれない",
+      "corrected": "帰れない",
+      "rule": "kanji homophone (復帰阻止 context)"
+    }
+  ]
+}

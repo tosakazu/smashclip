@@ -1,0 +1,57 @@
+{
+  "id": "3febbe71-9bef-44dc-a243-40f00ce6aa3f",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.88,
+      "text": "Second one!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "あー2回目"
+    },
+    {
+      "start": 0.88,
+      "end": 2.14,
+      "text": "Oh, beautiful!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "おー見事"
+    },
+    {
+      "start": 2.14,
+      "end": 3.6,
+      "text": "Saved it!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "セービングで"
+    },
+    {
+      "start": 3.6,
+      "end": 7.74,
+      "text": "That second fair was complete faith in the recovery!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "耐えることを信頼しきった2回目の空中前でした"
+    },
+    {
+      "start": 7.74,
+      "end": 9.88,
+      "text": "Grabbed!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "掴んで"
+    },
+    {
+      "start": 9.88,
+      "end": 11.58,
+      "text": "Oh, I see!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "おーなるほど"
+    }
+  ],
+  "full_text": "Second one! Oh, beautiful! Saved it! That second fair was complete faith in the recovery! Grabbed! Oh, I see!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

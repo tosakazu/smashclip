@@ -1,0 +1,57 @@
+{
+  "id": "1f673e8c-1583-42d4-8a61-192998dc831a",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Throws the banana!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "バナナ投げて"
+    },
+    {
+      "start": 2.0,
+      "end": 3.58,
+      "text": "Takes low ground",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "下を取る状況"
+    },
+    {
+      "start": 3.58,
+      "end": 6.5,
+      "text": "Don't force the chase here—work the directional airdodge",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここは追いかけを無理せず移動回避からの展開"
+    },
+    {
+      "start": 6.5,
+      "end": 7.46,
+      "text": "Shuts it down! Shuton!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "飛びを落とした！しゅーとん"
+    },
+    {
+      "start": 7.46,
+      "end": 9.06,
+      "text": "Purple Pikmin",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "紫ピクミンが"
+    },
+    {
+      "start": 9.06,
+      "end": 10.64,
+      "text": "Big work!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "大きな仕事"
+    }
+  ],
+  "full_text": "Throws the banana! Takes low ground Don't force the chase here—work the directional airdodge Shuts it down! Shuton! Purple Pikmin Big work!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

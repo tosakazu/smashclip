@@ -1,0 +1,74 @@
+{
+  "id": "2b06c4ed-3c2d-471f-b6db-a9b00ee5f0f0",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.3,
+      "text": "採掘 was skillfully looking to convert off the bair into double-up, but",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "採掘 優秀で空後からダブルアップを狙っていったが"
+    },
+    {
+      "start": 3.3,
+      "end": 5.24,
+      "text": "Forward mashing cut it off",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "横を暴れて切っていった"
+    },
+    {
+      "start": 5.24,
+      "end": 7.08,
+      "text": "Dash attack caught them",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ダッシュ攻撃で"
+    },
+    {
+      "start": 7.08,
+      "end": 9.58,
+      "text": "Even with the lingering hit, only grabbed the ledge state",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "持続ヒットでもただ崖展開を獲得した"
+    },
+    {
+      "start": 9.58,
+      "end": 11.18,
+      "text": "Bair",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空後"
+    }
+  ],
+  "full_text": "採掘 was skillfully looking to convert off the bair into double-up, but Forward mashing cut it off Dash attack caught them Even with the lingering hit, only grabbed the ledge state Bair",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "佐久間優秀で空中城からダブルアップを狙っていったが",
+      "corrected": "採掘 優秀で空後からダブルアップを狙っていったが",
+      "rule": "misheard: 佐久間→採掘, 空中城→空後"
+    },
+    {
+      "segment_idx": 2,
+      "original": "ダッシュポイントで",
+      "corrected": "ダッシュ攻撃で",
+      "rule": "misheard: ポイント→攻撃"
+    },
+    {
+      "segment_idx": 3,
+      "original": "ただガキ展開を獲得した",
+      "corrected": "ただ崖展開を獲得した",
+      "rule": "misheard: ガキ→崖"
+    },
+    {
+      "segment_idx": 4,
+      "original": "空中城",
+      "corrected": "空後",
+      "rule": "move abbrev: 空中城→空後"
+    }
+  ]
+}

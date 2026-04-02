@@ -1,0 +1,45 @@
+{
+  "id": "792ded45-5c0d-49db-9340-6e460040be19",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.1,
+      "text": "そして空後一気に深くまで狙っていく",
+      "language": "ja"
+    },
+    {
+      "start": 3.1,
+      "end": 5.26,
+      "text": "上B巻き込んでこれはどう戻るか",
+      "language": "ja"
+    },
+    {
+      "start": 5.26,
+      "end": 9.86,
+      "text": "回避がなんとか移動回避で崖に捕まることができました",
+      "language": "ja"
+    },
+    {
+      "start": 9.86,
+      "end": 12.8,
+      "text": "崖際から空後ビハインド",
+      "language": "ja"
+    }
+  ],
+  "full_text": "そして空後一気に深くまで狙っていく 上B巻き込んでこれはどう戻るか 回避がなんとか移動回避で崖に捕まることができました 崖際から空後ビハインド",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "空中城",
+      "corrected": "空後",
+      "rule": "空中後ろ misheard as 空中城"
+    },
+    {
+      "segment_idx": 3,
+      "original": "崖以外から空中城",
+      "corrected": "崖際から空後",
+      "rule": "空中後ろ misheard as 空中城 + 崖以外→崖際"
+    }
+  ]
+}

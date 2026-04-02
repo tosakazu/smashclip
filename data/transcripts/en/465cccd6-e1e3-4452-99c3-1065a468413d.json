@@ -1,0 +1,73 @@
+{
+  "id": "465cccd6-e1e3-4452-99c3-1065a468413d",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.5,
+      "text": "Yeah, that's just how it is",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さすがにですからね"
+    },
+    {
+      "start": 1.5,
+      "end": 3.24,
+      "text": "Well, raw damage works too",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "まあ火力でもいいでしょうと"
+    },
+    {
+      "start": 3.24,
+      "end": 5.72,
+      "text": "I see",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "なるほど"
+    },
+    {
+      "start": 5.72,
+      "end": 9.0,
+      "text": "Wow, that's heavy!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いやー重たい"
+    },
+    {
+      "start": 9.0,
+      "end": 9.8,
+      "text": "Wow, that's heavy!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いやー重たい"
+    },
+    {
+      "start": 9.8,
+      "end": 11.48,
+      "text": "Nintendo",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ニンテンドー"
+    },
+    {
+      "start": 11.48,
+      "end": 12.1,
+      "text": "Wow!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いやー"
+    },
+    {
+      "start": 12.1,
+      "end": 13.48,
+      "text": "Wow!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いやー"
+    }
+  ],
+  "full_text": "Yeah, that's just how it is Well, raw damage works too I see Wow, that's heavy! Wow, that's heavy! Nintendo Wow! Wow!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

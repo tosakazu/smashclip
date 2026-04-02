@@ -1,0 +1,32 @@
+{
+  "id": "249b53ea-c7a5-478f-a4c1-e772c71cb3b8",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Gonna warp high.",
+      "language": "en"
+    },
+    {
+      "start": 2.0,
+      "end": 5.0,
+      "text": "Ooh, I like that, the falling up air straight into the up tilt.",
+      "language": "en"
+    },
+    {
+      "start": 5.0,
+      "end": 7.0,
+      "text": "Kind of a block string going on here.",
+      "language": "en"
+    },
+    {
+      "start": 7.0,
+      "end": 10.0,
+      "text": "Great patience from Atreus, able to get the shield, but...",
+      "language": "en"
+    }
+  ],
+  "full_text": "Gonna warp high. Ooh, I like that, the falling up air straight into the up tilt. Kind of a block string going on here. Great patience from Atreus, able to get the shield, but...",
+  "detected_language": "en",
+  "corrections": []
+}

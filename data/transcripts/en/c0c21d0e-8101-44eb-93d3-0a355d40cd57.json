@@ -1,0 +1,81 @@
+{
+  "id": "c0c21d0e-8101-44eb-93d3-0a355d40cd57",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.96,
+      "text": "Mashing out nicely",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "うまく暴れて"
+    },
+    {
+      "start": 0.96,
+      "end": 2.72,
+      "text": "Somehow making it back",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "なんとか帰ってこれます"
+    },
+    {
+      "start": 2.72,
+      "end": 3.48,
+      "text": "Jab mashing",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "弱暴れ"
+    },
+    {
+      "start": 3.48,
+      "end": 6.38,
+      "text": "Back air strings",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空中後ろ連"
+    },
+    {
+      "start": 6.38,
+      "end": 8.34,
+      "text": "Gets pushed out by the nair",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空中ニュートラル外に追い出されて"
+    },
+    {
+      "start": 8.34,
+      "end": 9.48,
+      "text": "Is he gonna recover?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これ帰ってこれんの?"
+    },
+    {
+      "start": 9.52,
+      "end": 10.26,
+      "text": "There's a route from below",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "下からルートがある"
+    },
+    {
+      "start": 10.26,
+      "end": 11.42,
+      "text": "Not making it back!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "帰ってこれないよ"
+    },
+    {
+      "start": 11.42,
+      "end": 12.36,
+      "text": "Just came up short on distance",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "この距離がちょっと足りなかった"
+    }
+  ],
+  "full_text": "Mashing out nicely Somehow making it back Jab mashing Back air strings Gets pushed out by the nair Is he gonna recover? There's a route from below Not making it back! Just came up short on distance",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

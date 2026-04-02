@@ -1,0 +1,27 @@
+{
+  "id": "c12e8bf8-ad97-4568-b7af-82a2fdfded79",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.04,
+      "text": "Jab, back air. 99% now on Yamanaction, actually has him at the ledge and side B!",
+      "language": "en"
+    }
+  ],
+  "full_text": "Jab, back air. 99% now on Yamanaction, actually has him at the ledge and side B!",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "Yaman",
+      "corrected": "Yamanaction",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 0,
+      "original": "side-peat",
+      "corrected": "side B",
+      "rule": "smash term"
+    }
+  ]
+}

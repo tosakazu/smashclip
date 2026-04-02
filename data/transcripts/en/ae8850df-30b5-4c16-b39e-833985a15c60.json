@@ -1,0 +1,27 @@
+{
+  "id": "ae8850df-30b5-4c16-b39e-833985a15c60",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.7,
+      "text": "We can only do so much the magic of Smash Ultimate man",
+      "language": "en"
+    },
+    {
+      "start": 6.04,
+      "end": 8.04,
+      "text": "Yeah, guess wrong",
+      "language": "en"
+    }
+  ],
+  "full_text": "We can only do so much the magic of Smash Ultimate man Yeah, guess wrong",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "smash ultimate me",
+      "corrected": "Smash Ultimate man",
+      "rule": "mishearing"
+    }
+  ]
+}

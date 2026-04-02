@@ -1,0 +1,57 @@
+{
+  "id": "abe5743f-b335-4f0e-87c7-e74a91522a54",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.84,
+      "text": "復帰通して上強で拾われる横スマが見えたが",
+      "language": "ja"
+    },
+    {
+      "start": 2.84,
+      "end": 4.52,
+      "text": "上必殺でしっかり逃げて",
+      "language": "ja"
+    },
+    {
+      "start": 4.52,
+      "end": 8.22,
+      "text": "横スマ振っての差し返しは実らず",
+      "language": "ja"
+    },
+    {
+      "start": 8.22,
+      "end": 11.58,
+      "text": "スピンの無敵合わせ空Nに打たれる",
+      "language": "ja"
+    },
+    {
+      "start": 11.58,
+      "end": 11.96,
+      "text": "なんとか",
+      "language": "ja"
+    }
+  ],
+  "full_text": "復帰通して上強で拾われる横スマが見えたが 上必殺でしっかり逃げて 横スマ振っての差し返しは実らず スピンの無敵合わせ空Nに打たれる なんとか",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "上強度拾われる",
+      "corrected": "上強で拾われる",
+      "rule": "Particle: 度→で"
+    },
+    {
+      "segment_idx": 2,
+      "original": "横スマ足での差し返し",
+      "corrected": "横スマ振っての差し返し",
+      "rule": "Mishearing: 足→振って"
+    },
+    {
+      "segment_idx": 3,
+      "original": "スピンの無敵合わせ空中に打たれる",
+      "corrected": "スピンの無敵合わせ空Nに打たれる",
+      "rule": "Move: 空中→空N"
+    }
+  ]
+}

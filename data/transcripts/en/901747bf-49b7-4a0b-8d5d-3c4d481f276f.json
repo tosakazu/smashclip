@@ -1,0 +1,25 @@
+{
+  "id": "901747bf-49b7-4a0b-8d5d-3c4d481f276f",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Insane!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "めちゃめちゃ"
+    },
+    {
+      "start": 7.0,
+      "end": 9.0,
+      "text": "He read that grab!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "つかみはよっていた"
+    }
+  ],
+  "full_text": "Insane! He read that grab!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

@@ -1,0 +1,69 @@
+{
+  "id": "e270bf6d-cb7c-479d-bbd9-9efc2d991cc4",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.5,
+      "text": "その前にLパッションで撃墜しなかったんですけど",
+      "language": "ja"
+    },
+    {
+      "start": 2.5,
+      "end": 4.1,
+      "text": "空上り撃墜できるか",
+      "language": "ja"
+    },
+    {
+      "start": 4.1,
+      "end": 5.76,
+      "text": "あれできるんですね空上",
+      "language": "ja"
+    },
+    {
+      "start": 5.76,
+      "end": 9.32,
+      "text": "あんまりあのパーセントでもね撃墜できるんですよ",
+      "language": "ja"
+    },
+    {
+      "start": 9.32,
+      "end": 10.32,
+      "text": "いやそうですねなんか",
+      "language": "ja"
+    },
+    {
+      "start": 10.32,
+      "end": 10.8,
+      "text": "あ、うまい",
+      "language": "ja"
+    },
+    {
+      "start": 10.8,
+      "end": 15.2,
+      "text": "あ、待っていってフルホールド横スマッシュ!",
+      "language": "ja"
+    }
+  ],
+  "full_text": "その前にLパッションで撃墜しなかったんですけど 空上り撃墜できるか あれできるんですね空上 あんまりあのパーセントでもね撃墜できるんですよ いやそうですねなんか あ、うまい あ、待っていってフルホールド横スマッシュ!",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "宇宙より",
+      "corrected": "空上り",
+      "rule": "misheard: 宇宙→空上"
+    },
+    {
+      "segment_idx": 2,
+      "original": "あれできるんですね宇宙",
+      "corrected": "あれできるんですね空上",
+      "rule": "misheard: 宇宙→空上"
+    },
+    {
+      "segment_idx": 6,
+      "original": "フルホールド役バッシュ!",
+      "corrected": "フルホールド横スマッシュ!",
+      "rule": "move name: 横スマッシュ"
+    }
+  ]
+}

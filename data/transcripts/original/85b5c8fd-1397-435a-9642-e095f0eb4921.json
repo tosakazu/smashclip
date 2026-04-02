@@ -1,0 +1,39 @@
+{
+  "id": "85b5c8fd-1397-435a-9642-e095f0eb4921",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.62,
+      "text": "でねー 紙一重",
+      "language": "ja"
+    },
+    {
+      "start": 3.62,
+      "end": 9.56,
+      "text": "空上空Nを経由してもう一発 うわぁ",
+      "language": "ja"
+    },
+    {
+      "start": 9.56,
+      "end": 12.66,
+      "text": "刺さってるからいやーこれはすばらしいなるほど空上",
+      "language": "ja"
+    }
+  ],
+  "full_text": "でねー 紙一重 空上空Nを経由してもう一発 うわぁ 刺さってるからいやーこれはすばらしいなるほど空上",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "作上クエダイを経由してもう一発",
+      "corrected": "空上空Nを経由してもう一発",
+      "rule": "move name (作上→空上, クエダイ→空N)"
+    },
+    {
+      "segment_idx": 2,
+      "original": "さてるからいやーこれはすばらしいあるほど空",
+      "corrected": "刺さってるからいやーこれはすばらしいなるほど空上",
+      "rule": "misheard words"
+    }
+  ]
+}

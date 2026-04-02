@@ -1,0 +1,74 @@
+{
+  "id": "9b5f0a1b-47be-4dce-88b1-5b57b2d43207",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.02,
+      "text": "Fair!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空前"
+    },
+    {
+      "start": 2.02,
+      "end": 3.22,
+      "text": "Drives them out, drives them out!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "追い出して追い出して"
+    },
+    {
+      "start": 3.22,
+      "end": 4.56,
+      "text": "Nair!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空N"
+    },
+    {
+      "start": 4.56,
+      "end": 6.6,
+      "text": "Burns the airdodge!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあここは回避を切ってしまって"
+    },
+    {
+      "start": 6.6,
+      "end": 8.92,
+      "text": "Solid dair meteor!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "しっかりと空下メテオ"
+    }
+  ],
+  "full_text": "Fair! Drives them out, drives them out! Nair! Burns the airdodge! Solid dair meteor!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "空中前",
+      "corrected": "空前",
+      "rule": "move abbreviation"
+    },
+    {
+      "segment_idx": 1,
+      "original": "オフ出して出して",
+      "corrected": "追い出して追い出して",
+      "rule": "Whisper misheard"
+    },
+    {
+      "segment_idx": 2,
+      "original": "空中ニュートラル",
+      "corrected": "空N",
+      "rule": "move abbreviation"
+    },
+    {
+      "segment_idx": 4,
+      "original": "空中下め",
+      "corrected": "空下メテオ",
+      "rule": "move abbreviation"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "id": "75a49646-fcb1-4726-990e-4a0ecfae4071",
+  "segments": [
+    {
+      "start": 0.76,
+      "end": 1.58,
+      "text": "ジャストシールド",
+      "language": "ja"
+    },
+    {
+      "start": 1.58,
+      "end": 3.0,
+      "text": "最終弾ではなかった",
+      "language": "ja"
+    },
+    {
+      "start": 3.0,
+      "end": 4.9,
+      "text": "もう一弾残っていた空中前",
+      "language": "ja"
+    },
+    {
+      "start": 4.9,
+      "end": 8.1,
+      "text": "ダッシュアタックに対しては",
+      "language": "ja"
+    },
+    {
+      "start": 8.1,
+      "end": 9.34,
+      "text": "外変更完璧で",
+      "language": "ja"
+    },
+    {
+      "start": 9.34,
+      "end": 12.18,
+      "text": "壊した、そこから空前",
+      "language": "ja"
+    }
+  ],
+  "full_text": "ジャストシールド 最終弾ではなかった もう一弾残っていた空中前 ダッシュアタックに対しては 外変更完璧で 壊した、そこから空前",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 5,
+      "original": "壊した今日から空中前",
+      "corrected": "壊した、そこから空前",
+      "rule": "Whisper mishearing + move abbreviation"
+    }
+  ]
+}

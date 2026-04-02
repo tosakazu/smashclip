@@ -1,0 +1,54 @@
+{
+  "id": "098d7e76-539a-4b2b-83a9-4b7ff9c5a51c",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.9,
+      "text": "And this is also crucial as a KO option",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そしてこれも撃墜択として重要です"
+    },
+    {
+      "start": 2.9,
+      "end": 3.38,
+      "text": "up tilt",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "上強"
+    },
+    {
+      "start": 3.38,
+      "end": 5.12,
+      "text": "Whoa, that's",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "おっとこれは"
+    },
+    {
+      "start": 5.12,
+      "end": 6.96,
+      "text": "a bit sketchy",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "少し黒"
+    }
+  ],
+  "full_text": "And this is also crucial as a KO option up tilt Whoa, that's a bit sketchy",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "そしてこれも激推託として重要です",
+      "corrected": "そしてこれも撃墜択として重要です",
+      "rule": "Kanji homophone correction (激推託 → 撃墜択)"
+    },
+    {
+      "segment_idx": 1,
+      "original": "上京",
+      "corrected": "上強",
+      "rule": "Kanji homophone correction (上京 → 上強)"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "id": "426093ae-9f74-4464-935d-dfa88bc370dd",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Setup locked!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "X字の準備は完了!"
+    },
+    {
+      "start": 2.0,
+      "end": 3.0,
+      "text": "So clean! Perfect avoidance!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "上手すぎしっかり避けてる!"
+    },
+    {
+      "start": 3.0,
+      "end": 5.0,
+      "text": "That ledge is terrifying!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "崖が怖すぎるぞ!"
+    },
+    {
+      "start": 5.0,
+      "end": 6.0,
+      "text": "Can't move!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "動けないよ!"
+    },
+    {
+      "start": 6.0,
+      "end": 8.0,
+      "text": "Breaking blocks with forward tilt!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "横強でブロックを壊していった!"
+    },
+    {
+      "start": 8.0,
+      "end": 10.0,
+      "text": "What?! WHAT?!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "どうした!本当にどうした!"
+    }
+  ],
+  "full_text": "Setup locked! So clean! Perfect avoidance! That ledge is terrifying! Can't move! Breaking blocks with forward tilt! What?! WHAT?!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 4,
+      "original": "横行で",
+      "corrected": "横強で",
+      "rule": "kanji homophone (move name)"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "id": "f753785a-fdda-40e2-8d76-e405620902de",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.36,
+      "text": "How does he recover? With the bair?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "どう戻る? 空後?"
+    },
+    {
+      "start": 1.6,
+      "end": 3.6,
+      "text": "Platform tech form now",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "今度は台上受け身の形ですが"
+    },
+    {
+      "start": 3.6,
+      "end": 5.48,
+      "text": "Trocco had superior killpower!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "撃墜力で上回ったトロッコ"
+    },
+    {
+      "start": 5.48,
+      "end": 7.48,
+      "text": "acola takes a stock with one hit!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "あcolaの一撃がらるのストックを落とした"
+    },
+    {
+      "start": 7.48,
+      "end": 8.44,
+      "text": "That's too fast!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "早すぎるだろ!"
+    },
+    {
+      "start": 8.56,
+      "end": 8.92,
+      "text": "Smash!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "スマッシュ!"
+    },
+    {
+      "start": 9.1,
+      "end": 9.52,
+      "text": "Up!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "アッパ!"
+    }
+  ],
+  "full_text": "How does he recover? With the bair? Platform tech form now Trocco had superior killpower! acola takes a stock with one hit! That's too fast! Smash! Up!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "空中しろ",
+      "corrected": "空後",
+      "rule": "misheard: 空中しろ→空後"
+    },
+    {
+      "segment_idx": 1,
+      "original": "見た見分けの形",
+      "corrected": "台上受け身の形",
+      "rule": "misheard"
+    },
+    {
+      "segment_idx": 3,
+      "original": "アコーラの一撃がラルノッコを落とした",
+      "corrected": "あcolaの一撃がらるのストックを落とした",
+      "rule": "player name: アコーラ→あcola, ラルノッコ→らるのストック"
+    }
+  ]
+}

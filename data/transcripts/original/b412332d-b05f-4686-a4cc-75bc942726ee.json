@@ -1,0 +1,39 @@
+{
+  "id": "b412332d-b05f-4686-a4cc-75bc942726ee",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.6,
+      "text": "もうとっさにシールドボタンに手を伸ばした",
+      "language": "ja"
+    },
+    {
+      "start": 2.6,
+      "end": 7.54,
+      "text": "エリトラトロッコと交えて着地を通したかったのですが",
+      "language": "ja"
+    },
+    {
+      "start": 7.54,
+      "end": 9.14,
+      "text": "着地狩りが止まらない",
+      "language": "ja"
+    },
+    {
+      "start": 9.14,
+      "end": 12.16,
+      "text": "バナナ当たって上強10%",
+      "language": "ja"
+    }
+  ],
+  "full_text": "もうとっさにシールドボタンに手を伸ばした エリトラトロッコと交えて着地を通したかったのですが 着地狩りが止まらない バナナ当たって上強10%",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 3,
+      "original": "上京10秒",
+      "corrected": "上強10%",
+      "rule": "move name + misheard word"
+    }
+  ]
+}

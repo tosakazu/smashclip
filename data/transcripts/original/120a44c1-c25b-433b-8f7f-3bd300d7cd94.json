@@ -1,0 +1,33 @@
+{
+  "id": "120a44c1-c25b-433b-8f7f-3bd300d7cd94",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.18,
+      "text": "blender right there yeah but if that was a javelin would have been the stock for sure",
+      "language": "en"
+    },
+    {
+      "start": 3.18,
+      "end": 7.82,
+      "text": "tried to find the up smash confirmed no one home for it though looking to potentially",
+      "language": "en"
+    },
+    {
+      "start": 7.82,
+      "end": 11.68,
+      "text": "come out on top ShinyMark trying to force this to a game five doesn't",
+      "language": "en"
+    }
+  ],
+  "full_text": "blender right there yeah but if that was a javelin would have been the stock for sure tried to find the up smash confirmed no one home for it though looking to potentially come out on top ShinyMark trying to force this to a game five doesn't",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "come out on top shiny mark trying to force this to a game five doesn't",
+      "corrected": "come out on top ShinyMark trying to force this to a game five doesn't",
+      "rule": "Player name capitalization: shiny mark→ShinyMark"
+    }
+  ]
+}

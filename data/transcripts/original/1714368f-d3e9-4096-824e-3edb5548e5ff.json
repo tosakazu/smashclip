@@ -1,0 +1,51 @@
+{
+  "id": "1714368f-d3e9-4096-824e-3edb5548e5ff",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.4,
+      "text": "Getting the down air, he still managed to come back from that.",
+      "language": "en"
+    },
+    {
+      "start": 2.92,
+      "end": 4.9,
+      "text": "Yep, got some damage right there, but here it is.",
+      "language": "en"
+    },
+    {
+      "start": 5.24,
+      "end": 9.04,
+      "text": "Getting caught right there by that down air actually gave a little bit of momentum to Kameme.",
+      "language": "en"
+    },
+    {
+      "start": 9.22,
+      "end": 10.72,
+      "text": "He has to be leading in the center, there's the up tilt.",
+      "language": "en"
+    },
+    {
+      "start": 11.08,
+      "end": 11.48,
+      "text": "You have to...",
+      "language": "en"
+    }
+  ],
+  "full_text": "Getting the down air, he still managed to come back from that. Yep, got some damage right there, but here it is. Getting caught right there by that down air actually gave a little bit of momentum to Kameme. He has to be leading in the center, there's the up tilt. You have to...",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "a little bit of momentum to Kamehameha",
+      "corrected": "a little bit of momentum to Kameme",
+      "rule": "Player name: Kamehameha→Kameme"
+    },
+    {
+      "segment_idx": 3,
+      "original": "He has to bleed in the center",
+      "corrected": "He has to be leading in the center",
+      "rule": "Garbled transcription: bleed→be leading"
+    }
+  ]
+}

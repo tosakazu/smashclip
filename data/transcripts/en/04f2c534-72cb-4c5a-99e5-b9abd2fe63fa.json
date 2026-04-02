@@ -1,0 +1,66 @@
+{
+  "id": "04f2c534-72cb-4c5a-99e5-b9abd2fe63fa",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.62,
+      "text": "Dead even at 72 to 73%",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "見えましたが72%対73%完全に五分"
+    },
+    {
+      "start": 3.62,
+      "end": 4.94,
+      "text": "Parry fair!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ジャストシールド空前"
+    },
+    {
+      "start": 4.94,
+      "end": 7.46,
+      "text": "Fair",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空前"
+    },
+    {
+      "start": 7.46,
+      "end": 9.92,
+      "text": "Can't punish that",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これは返せないもの"
+    }
+  ],
+  "full_text": "Dead even at 72 to 73% Parry fair! Fair Can't punish that",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "完全にゴム",
+      "corrected": "完全に五分",
+      "rule": "misheard word"
+    },
+    {
+      "segment_idx": 1,
+      "original": "ジャストシールド空中前",
+      "corrected": "ジャストシールド空前",
+      "rule": "auto-rule"
+    },
+    {
+      "segment_idx": 2,
+      "original": "空中前",
+      "corrected": "空前",
+      "rule": "auto-rule"
+    },
+    {
+      "segment_idx": 3,
+      "original": "これは本話にならないもの",
+      "corrected": "これは返せないもの",
+      "rule": "misheard phrase"
+    }
+  ]
+}

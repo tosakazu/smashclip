@@ -1,0 +1,57 @@
+{
+  "id": "ca785a6d-c4b0-493d-8334-eb94c1fcecc2",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.2,
+      "text": "だけどね何の話だというところではありますが",
+      "language": "ja"
+    },
+    {
+      "start": 2.2,
+      "end": 3.26,
+      "text": "マリオならね",
+      "language": "ja"
+    },
+    {
+      "start": 3.26,
+      "end": 4.7,
+      "text": "さあここで",
+      "language": "ja"
+    },
+    {
+      "start": 4.7,
+      "end": 7.5,
+      "text": "今のは降りていたので",
+      "language": "ja"
+    },
+    {
+      "start": 7.5,
+      "end": 9.56,
+      "text": "攻撃判定が強力ではなく",
+      "language": "ja"
+    },
+    {
+      "start": 9.56,
+      "end": 10.52,
+      "text": "なんとか返ってこれた",
+      "language": "ja"
+    },
+    {
+      "start": 10.52,
+      "end": 12.58,
+      "text": "上にか",
+      "language": "ja"
+    }
+  ],
+  "full_text": "だけどね何の話だというところではありますが マリオならね さあここで 今のは降りていたので 攻撃判定が強力ではなく なんとか返ってこれた 上にか",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 4,
+      "original": "小木判定",
+      "corrected": "攻撃判定",
+      "rule": "smash term (攻撃判定)"
+    }
+  ]
+}

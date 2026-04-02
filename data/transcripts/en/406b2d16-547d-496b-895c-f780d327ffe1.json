@@ -1,0 +1,49 @@
+{
+  "id": "406b2d16-547d-496b-895c-f780d327ffe1",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.32,
+      "text": "Up there's dangerous too",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "上も怖いところ"
+    },
+    {
+      "start": 1.32,
+      "end": 4.0,
+      "text": "can escape from it",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "逃げることができる"
+    },
+    {
+      "start": 4.0,
+      "end": 5.06,
+      "text": "movement speed",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "歩行速度が"
+    },
+    {
+      "start": 5.06,
+      "end": 6.3,
+      "text": "is really fast",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "速いわけで"
+    },
+    {
+      "start": 6.3,
+      "end": 7.26,
+      "text": "Wait, that's completely",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "おっとこれは完全に"
+    }
+  ],
+  "full_text": "Up there's dangerous too can escape from it movement speed is really fast Wait, that's completely",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

@@ -1,0 +1,74 @@
+{
+  "id": "84ae05d5-e60c-4e75-97e6-8c25b8dc59c7",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.58,
+      "text": "お互いに見ている",
+      "language": "ja"
+    },
+    {
+      "start": 2.58,
+      "end": 5.58,
+      "text": "うますぎる",
+      "language": "ja"
+    },
+    {
+      "start": 5.58,
+      "end": 6.92,
+      "text": "しかし青か",
+      "language": "ja"
+    },
+    {
+      "start": 6.92,
+      "end": 8.86,
+      "text": "おー気合",
+      "language": "ja"
+    },
+    {
+      "start": 8.86,
+      "end": 11.8,
+      "text": "そうですねもうスマッシュ当たれば",
+      "language": "ja"
+    },
+    {
+      "start": 11.8,
+      "end": 12.68,
+      "text": "確かにもうオリマンも",
+      "language": "ja"
+    },
+    {
+      "start": 12.68,
+      "end": 13.14,
+      "text": "オリマンじゃない",
+      "language": "ja"
+    },
+    {
+      "start": 13.14,
+      "end": 14.88,
+      "text": "DD側も撃墜するか",
+      "language": "ja"
+    },
+    {
+      "start": 14.88,
+      "end": 15.98,
+      "text": "おー",
+      "language": "ja"
+    },
+    {
+      "start": 15.98,
+      "end": 17.6,
+      "text": "2スロー",
+      "language": "ja"
+    },
+    {
+      "start": 17.6,
+      "end": 17.82,
+      "text": "うますぎる",
+      "language": "ja"
+    }
+  ],
+  "full_text": "お互いに見ている うますぎる しかし青か おー気合 そうですねもうスマッシュ当たれば 確かにもうオリマンも オリマンじゃない DD側も撃墜するか おー 2スロー うますぎる",
+  "detected_language": "ja",
+  "corrections": []
+}

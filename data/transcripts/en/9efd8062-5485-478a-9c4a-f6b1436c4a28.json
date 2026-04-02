@@ -1,0 +1,70 @@
+{
+  "id": "9efd8062-5485-478a-9c4a-f6b1436c4a28",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.76,
+      "text": "Punished that Luigi Cyclone mash with a clean smash attack!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "初めて見せたルイージサイクロン暴れをしっかりとスマッシュで咎めてみせたらる"
+    },
+    {
+      "start": 5.76,
+      "end": 7.22,
+      "text": "Shielded straight through it!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ガードしきりましたね"
+    },
+    {
+      "start": 7.22,
+      "end": 10.0,
+      "text": "And here we go!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここから始まるか"
+    },
+    {
+      "start": 10.0,
+      "end": 10.68,
+      "text": "This is it!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これは"
+    },
+    {
+      "start": 10.68,
+      "end": 12.16,
+      "text": "One massive comeback strike!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "大逆転の一撃を"
+    },
+    {
+      "start": 12.16,
+      "end": 13.64,
+      "text": "He's gotta seize it!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "つかむ"
+    }
+  ],
+  "full_text": "Punished that Luigi Cyclone mash with a clean smash attack! Shielded straight through it! And here we go! This is it! One massive comeback strike! He's gotta seize it!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "アーバレ",
+      "corrected": "暴れ",
+      "rule": "smash terminology"
+    },
+    {
+      "segment_idx": 0,
+      "original": "ラス",
+      "corrected": "らる",
+      "rule": "player name"
+    }
+  ]
+}

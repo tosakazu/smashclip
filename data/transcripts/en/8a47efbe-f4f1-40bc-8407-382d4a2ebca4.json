@@ -1,0 +1,29 @@
+{
+  "id": "8a47efbe-f4f1-40bc-8407-382d4a2ebca4",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 8.68,
+      "text": "Whoa! Bad spot in an instant! Takes the parry here and reads it, pulling back into the grab for forward throw!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "おーら一瞬で不利状況 ここで一旦ジャストシールドから様子見、引きつかみ通して前投げ"
+    },
+    {
+      "start": 8.68,
+      "end": 14.52,
+      "text": "The projectile got shut down! Like he's saying, 'You're not getting that out!'",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ドローを出せられてしまった まるでそこで止まるんだよという"
+    }
+  ],
+  "full_text": "Whoa! Bad spot in an instant! Takes the parry here and reads it, pulling back into the grab for forward throw! The projectile got shut down! Like he's saying, 'You're not getting that out!'",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    "振り状況→不利状況 (disadvantage state, kanji homophone)",
+    "様子見え→様子見 (observation, extra え removed)",
+    "前だけ→前投げ (forward throw)"
+  ]
+}

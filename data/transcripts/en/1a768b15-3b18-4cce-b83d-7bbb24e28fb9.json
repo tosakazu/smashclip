@@ -1,0 +1,32 @@
+{
+  "id": "1a768b15-3b18-4cce-b83d-7bbb24e28fb9",
+  "segments": [
+    {
+      "start": 0.88,
+      "end": 3.22,
+      "text": "Back throw off the dash!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これだとダッシュを通して後ろに投げる"
+    },
+    {
+      "start": 3.22,
+      "end": 7.06,
+      "text": "And there's a bair right as they go for the punish!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあ追撃していこうとするところに空中後ろ"
+    }
+  ],
+  "full_text": "Back throw off the dash! And there's a bair right as they go for the punish!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "これだと脱紙を通して後ろに投げる",
+      "corrected": "これだとダッシュを通して後ろに投げる",
+      "rule": "Whisper mishearing: 脱紙→ダッシュ"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "1b156f06-a1f9-4380-8583-bd74c378d809",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Caught by the Nair Loops.",
+      "language": "en"
+    },
+    {
+      "start": 2.0,
+      "end": 6.76,
+      "text": "Ooh, just outspacing the counter.",
+      "language": "en"
+    }
+  ],
+  "full_text": "Caught by the Nair Loops. Ooh, just outspacing the counter.",
+  "detected_language": "en",
+  "corrections": []
+}

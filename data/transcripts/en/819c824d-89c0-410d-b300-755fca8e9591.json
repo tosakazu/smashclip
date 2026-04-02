@@ -1,0 +1,62 @@
+{
+  "id": "819c824d-89c0-410d-b300-755fca8e9591",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.24,
+      "text": "That up B connected at the perfect timing!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "上Bのタイミングでちょうどガンが当たったことによって"
+    },
+    {
+      "start": 3.24,
+      "end": 4.22,
+      "text": "The frame timing was a bit off there",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ちょっとフレームずれましたね"
+    },
+    {
+      "start": 4.22,
+      "end": 4.58,
+      "text": "I see",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "なるほど"
+    },
+    {
+      "start": 4.58,
+      "end": 8.66,
+      "text": "And Arsène's out!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そしてアルセーヌも出てきた"
+    },
+    {
+      "start": 8.66,
+      "end": 11.0,
+      "text": "Up throw KO!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "上投げで撃墜するんだ"
+    }
+  ],
+  "full_text": "That up B connected at the perfect timing! The frame timing was a bit off there I see And Arsène's out! Up throw KO!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 3,
+      "original": "そしてアルセールも出てきた",
+      "corrected": "そしてアルセーヌも出てきた",
+      "rule": "character name"
+    },
+    {
+      "segment_idx": 4,
+      "original": "上だけを撃沈するんだ",
+      "corrected": "上投げで撃墜するんだ",
+      "rule": "kanji homophone"
+    }
+  ]
+}

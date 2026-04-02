@@ -1,0 +1,32 @@
+{
+  "id": "91da9024-6611-43c5-afad-fed1ce52952c",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.0,
+      "text": "Alright!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあ"
+    },
+    {
+      "start": 4.0,
+      "end": 7.9,
+      "text": "Yeah, they had that stock lead, but...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "はいこのストックリードではありましたが"
+    }
+  ],
+  "full_text": "Alright! Yeah, they had that stock lead, but...",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "ストップリーダー",
+      "corrected": "ストックリード",
+      "rule": "misheard word"
+    }
+  ]
+}

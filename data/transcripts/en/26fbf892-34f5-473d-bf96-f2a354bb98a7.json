@@ -1,0 +1,33 @@
+{
+  "id": "26fbf892-34f5-473d-bf96-f2a354bb98a7",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.8,
+      "text": "Insane ledge situation! This is insane! Whoa!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "です 崖展開 きっつい これ きっつい あっ!"
+    },
+    {
+      "start": 4.8,
+      "end": 11.18,
+      "text": "Got caught without shield! Oh!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "打ち取った ガードなしで えっ"
+    },
+    {
+      "start": 11.18,
+      "end": 13.94,
+      "text": "And the final—",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "最後は"
+    }
+  ],
+  "full_text": "Insane ledge situation! This is insane! Whoa! Got caught without shield! Oh! And the final—",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

@@ -1,0 +1,81 @@
+{
+  "id": "104fb047-bdad-4824-8d0f-90dcad39e141",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.5,
+      "text": "ディディーコングを最強状態に仕立て上げていくのがTweekだ",
+      "language": "ja"
+    },
+    {
+      "start": 3.5,
+      "end": 5.4,
+      "text": "空前",
+      "language": "ja"
+    },
+    {
+      "start": 5.4,
+      "end": 6.9,
+      "text": "これがかなり刺さっている",
+      "language": "ja"
+    },
+    {
+      "start": 6.9,
+      "end": 8.06,
+      "text": "駆け離しで戻ってくる",
+      "language": "ja"
+    },
+    {
+      "start": 8.06,
+      "end": 9.5,
+      "text": "これを直接叩くのは難しい",
+      "language": "ja"
+    },
+    {
+      "start": 9.5,
+      "end": 12.02,
+      "text": "その場上がりをなぜか確認できていて",
+      "language": "ja"
+    },
+    {
+      "start": 12.02,
+      "end": 12.72,
+      "text": "ぶち刺し",
+      "language": "ja"
+    },
+    {
+      "start": 12.72,
+      "end": 13.92,
+      "text": "打ちました",
+      "language": "ja"
+    },
+    {
+      "start": 13.92,
+      "end": 15.0,
+      "text": "これか",
+      "language": "ja"
+    }
+  ],
+  "full_text": "ディディーコングを最強状態に仕立て上げていくのがTweekだ 空前 これがかなり刺さっている 駆け離しで戻ってくる これを直接叩くのは難しい その場上がりをなぜか確認できていて ぶち刺し 打ちました これか",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "ヘディコングを最強状態に仕立て上げていくのがツイクだ",
+      "corrected": "ディディーコングを最強状態に仕立て上げていくのがTweekだ",
+      "rule": "Character/Player name: ヘディコング→ディディーコング, ツイク→Tweek"
+    },
+    {
+      "segment_idx": 1,
+      "original": "打ち前",
+      "corrected": "空前",
+      "rule": "Move abbreviation: 打ち前→空前 (forward air)"
+    },
+    {
+      "segment_idx": 6,
+      "original": "浮き刺し",
+      "corrected": "ぶち刺し",
+      "rule": "Whisper mishearing: 浮き刺し→ぶち刺し"
+    }
+  ]
+}

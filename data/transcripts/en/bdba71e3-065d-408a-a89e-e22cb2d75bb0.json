@@ -1,0 +1,46 @@
+{
+  "id": "bdba71e3-065d-408a-a89e-e22cb2d75bb0",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.06,
+      "text": "A risky spot without the bomb!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "爆弾がないちょっと怖いところ"
+    },
+    {
+      "start": 4.06,
+      "end": 6.1,
+      "text": "Up tilt saves the stock!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "上強だったので撃墜は免れた"
+    },
+    {
+      "start": 6.1,
+      "end": 8.08,
+      "text": "Juggle",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "着地狩り"
+    }
+  ],
+  "full_text": "A risky spot without the bomb! Up tilt saves the stock! Juggle",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "撃墜を招かれた",
+      "corrected": "撃墜は免れた",
+      "rule": "misheard phrase"
+    },
+    {
+      "segment_idx": 2,
+      "original": "直地ゴリ",
+      "corrected": "着地狩り",
+      "rule": "smash term"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "id": "2cb8a802-4619-4fc4-b862-b3cc47276d30",
+  "segments": [
+    {
+      "start": 0.32,
+      "end": 2.0,
+      "text": "切り込んできたとこにトロッコ",
+      "language": "ja"
+    },
+    {
+      "start": 2.0,
+      "end": 4.32,
+      "text": "バウンド分あって",
+      "language": "ja"
+    },
+    {
+      "start": 4.32,
+      "end": 5.66,
+      "text": "まだ撃墜しなかったから",
+      "language": "ja"
+    },
+    {
+      "start": 5.66,
+      "end": 7.58,
+      "text": "ダイヤ補給",
+      "language": "ja"
+    },
+    {
+      "start": 7.58,
+      "end": 9.62,
+      "text": "ダッシュ攻撃",
+      "language": "ja"
+    },
+    {
+      "start": 9.62,
+      "end": 11.98,
+      "text": "ブロックにアプローチ仕掛けてくるのであれば",
+      "language": "ja"
+    }
+  ],
+  "full_text": "切り込んできたとこにトロッコ バウンド分あって まだ撃墜しなかったから ダイヤ補給 ダッシュ攻撃 ブロックにアプローチ仕掛けてくるのであれば",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "まだ月夜しなかったから",
+      "corrected": "まだ撃墜しなかったから",
+      "rule": "misheard: 月夜→撃墜"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": "6e9cbaaf-4c47-48a2-b3da-8cbaf6fa5684",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.72,
+      "text": "Again? This time there's no shield coming!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "もう一回?今度はもうブロックはないぞ"
+    },
+    {
+      "start": 1.72,
+      "end": 4.86,
+      "text": "Evaded the quick pop gun too!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "高速ポップガンもかわした"
+    },
+    {
+      "start": 4.86,
+      "end": 7.62,
+      "text": "Kuji!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "くじー"
+    },
+    {
+      "start": 7.62,
+      "end": 9.08,
+      "text": "Forward smash",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "横スマッシュ"
+    }
+  ],
+  "full_text": "Again? This time there's no shield coming! Evaded the quick pop gun too! Kuji! Forward smash",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_index": 3,
+      "original": "よこつばし",
+      "corrected": "横スマッシュ"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "476b8ad0-070c-4116-a98c-0c2e29b9a7a0",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "I see another one, no promise to go back on stage.",
+      "language": "en"
+    },
+    {
+      "start": 2.34,
+      "end": 3.94,
+      "text": "A little bit of a mistake by Raru it looked like.",
+      "language": "en"
+    },
+    {
+      "start": 4.12,
+      "end": 6.6,
+      "text": "Yeah, I feel like he could have gone at least to try the down air there,",
+      "language": "en"
+    },
+    {
+      "start": 6.66,
+      "end": 10.4,
+      "text": "because you know the timing, and he has been very consistent at punishing it,",
+      "language": "en"
+    },
+    {
+      "start": 10.44,
+      "end": 11.56,
+      "text": "as he does get a kind of a...",
+      "language": "en"
+    }
+  ],
+  "full_text": "I see another one, no promise to go back on stage. A little bit of a mistake by Raru it looked like. Yeah, I feel like he could have gone at least to try the down air there, because you know the timing, and he has been very consistent at punishing it, as he does get a kind of a...",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "Rara",
+      "corrected": "Raru",
+      "rule": "player name"
+    }
+  ]
+}

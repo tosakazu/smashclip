@@ -1,0 +1,44 @@
+{
+  "id": "fb69af26-7f79-4617-ac0c-909a961b8193",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.54,
+      "text": "Oh, okay, good pick up right there on the up air.",
+      "language": "en"
+    },
+    {
+      "start": 2.68,
+      "end": 5.08,
+      "text": "Spargo still looking for a couple more.",
+      "language": "en"
+    },
+    {
+      "start": 5.3,
+      "end": 6.36,
+      "text": "Oh, can't get the up air himself.",
+      "language": "en"
+    },
+    {
+      "start": 6.4,
+      "end": 6.96,
+      "text": "Crap it.",
+      "language": "en"
+    },
+    {
+      "start": 7.4,
+      "end": 7.92,
+      "text": "Crap it.",
+      "language": "en"
+    },
+    {
+      "start": 7.94,
+      "end": 8.64,
+      "text": "Crap it, bro.",
+      "language": "en"
+    }
+  ],
+  "full_text": "Oh, okay, good pick up right there on the up air. Spargo still looking for a couple more. Oh, can't get the up air himself. Crap it. Crap it. Crap it, bro.",
+  "detected_language": "en",
+  "corrections": []
+}

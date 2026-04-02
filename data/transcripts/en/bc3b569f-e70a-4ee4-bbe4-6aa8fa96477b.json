@@ -1,0 +1,56 @@
+{
+  "id": "bc3b569f-e70a-4ee4-bbe4-6aa8fa96477b",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.46,
+      "text": "These mystery structures everywhere",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "謎の建造物が乱立している"
+    },
+    {
+      "start": 2.46,
+      "end": 4.8,
+      "text": "Getting in the way of Monkey Flip",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "モンキーフリップの邪魔だ"
+    },
+    {
+      "start": 4.8,
+      "end": 9.66,
+      "text": "In the air you can shut down those mine cart spawns, but...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空中上でなるほどトロッコの発生を潰しますが"
+    },
+    {
+      "start": 9.66,
+      "end": 13.26,
+      "text": "A golden mine cart can even beat out the banana",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "金トロッコならばバナナにも打ち勝つことができる"
+    },
+    {
+      "start": 13.26,
+      "end": 13.68,
+      "text": "And the KO...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "撃墜と"
+    }
+  ],
+  "full_text": "These mystery structures everywhere Getting in the way of Monkey Flip In the air you can shut down those mine cart spawns, but... A golden mine cart can even beat out the banana And the KO...",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 4,
+      "original": "ガケツと",
+      "corrected": "撃墜と",
+      "rule": "kanji homophone"
+    }
+  ]
+}

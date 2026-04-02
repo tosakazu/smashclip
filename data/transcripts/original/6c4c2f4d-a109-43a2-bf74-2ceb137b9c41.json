@@ -1,0 +1,50 @@
+{
+  "id": "6c4c2f4d-a109-43a2-bf74-2ceb137b9c41",
+  "segments": [
+    {
+      "start": 0.86,
+      "end": 1.82,
+      "text": "動きを失している人",
+      "language": "ja"
+    },
+    {
+      "start": 1.82,
+      "end": 4.32,
+      "text": "生還することができたが",
+      "language": "ja"
+    },
+    {
+      "start": 4.32,
+      "end": 5.86,
+      "text": "ここだけ",
+      "language": "ja"
+    },
+    {
+      "start": 5.86,
+      "end": 7.6,
+      "text": "上だけ",
+      "language": "ja"
+    },
+    {
+      "start": 7.6,
+      "end": 9.48,
+      "text": "展開とって直接NB",
+      "language": "ja"
+    },
+    {
+      "start": 9.48,
+      "end": 10.46,
+      "text": "接続しに来る",
+      "language": "ja"
+    },
+    {
+      "start": 10.46,
+      "end": 14.54,
+      "text": "NBに対して冷静なガード解除した今日",
+      "language": "ja"
+    }
+  ],
+  "full_text": "動きを失している人 生還することができたが ここだけ 上だけ 展開とって直接NB 接続しに来る NBに対して冷静なガード解除した今日",
+  "detected_language": "ja",
+  "corrections": []
+}

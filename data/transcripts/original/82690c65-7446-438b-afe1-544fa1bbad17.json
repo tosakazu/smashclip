@@ -1,0 +1,57 @@
+{
+  "id": "82690c65-7446-438b-afe1-544fa1bbad17",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.66,
+      "text": "なんとか高度を稼いでる裏戦術",
+      "language": "ja"
+    },
+    {
+      "start": 2.66,
+      "end": 4.88,
+      "text": "下げ空N",
+      "language": "ja"
+    },
+    {
+      "start": 4.88,
+      "end": 6.06,
+      "text": "メラ散らしミス",
+      "language": "ja"
+    },
+    {
+      "start": 6.06,
+      "end": 9.0,
+      "text": "台上を渡るのも非常に怖い",
+      "language": "ja"
+    },
+    {
+      "start": 9.62,
+      "end": 12.12,
+      "text": "空下からそのまま横スマッシュで繋いできる",
+      "language": "ja"
+    }
+  ],
+  "full_text": "なんとか高度を稼いでる裏戦術 下げ空N メラ散らしミス 台上を渡るのも非常に怖い 空下からそのまま横スマッシュで繋いできる",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "下げクエヌ",
+      "corrected": "下げ空N",
+      "rule": "move abbreviation"
+    },
+    {
+      "segment_idx": 2,
+      "original": "メラチラミス",
+      "corrected": "メラ散らしミス",
+      "rule": "Whisper mishearing"
+    },
+    {
+      "segment_idx": 4,
+      "original": "クエしたからそのまま横スマッシュで繋いできる",
+      "corrected": "空下からそのまま横スマッシュで繋いできる",
+      "rule": "move abbreviation"
+    }
+  ]
+}

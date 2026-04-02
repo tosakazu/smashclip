@@ -1,0 +1,26 @@
+{
+  "id": "0e76e71a-b127-4a56-930d-2861d8411609",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.54,
+      "text": "本体はジャンプ上がりしてるのに相方は攻撃上がりしてたぞ",
+      "language": "ja"
+    },
+    {
+      "start": 3.54,
+      "end": 4.0,
+      "text": "ずるっ",
+      "language": "ja"
+    },
+    {
+      "start": 5.36,
+      "end": 8.0,
+      "text": "さあ3",
+      "language": "ja"
+    }
+  ],
+  "full_text": "本体はジャンプ上がりしてるのに相方は攻撃上がりしてたぞ ずるっ さあ3",
+  "detected_language": "ja",
+  "corrections": []
+}

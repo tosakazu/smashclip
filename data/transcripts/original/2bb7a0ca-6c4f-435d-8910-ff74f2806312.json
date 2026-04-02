@@ -1,0 +1,51 @@
+{
+  "id": "2bb7a0ca-6c4f-435d-8910-ff74f2806312",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.64,
+      "text": "ブロックが砕けるのを待ってから攻め込む",
+      "language": "ja"
+    },
+    {
+      "start": 3.64,
+      "end": 7.26,
+      "text": "バナナを当てて回避して",
+      "language": "ja"
+    },
+    {
+      "start": 7.26,
+      "end": 8.66,
+      "text": "トロッコに当たることはない",
+      "language": "ja"
+    },
+    {
+      "start": 8.66,
+      "end": 9.8,
+      "text": "しかしダイヤの空後",
+      "language": "ja"
+    },
+    {
+      "start": 9.8,
+      "end": 12.36,
+      "text": "ダイヤ採掘の後隙を下強でとがめた",
+      "language": "ja"
+    }
+  ],
+  "full_text": "ブロックが砕けるのを待ってから攻め込む バナナを当てて回避して トロッコに当たることはない しかしダイヤの空後 ダイヤ採掘の後隙を下強でとがめた",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 3,
+      "original": "しかしダイヤの空豪",
+      "corrected": "しかしダイヤの空後",
+      "rule": "kanji: 空豪→空後"
+    },
+    {
+      "segment_idx": 4,
+      "original": "ダイヤチャージの後付けを下強でとがめた",
+      "corrected": "ダイヤ採掘の後隙を下強でとがめた",
+      "rule": "misheard: チャージの後付け→採掘の後隙"
+    }
+  ]
+}

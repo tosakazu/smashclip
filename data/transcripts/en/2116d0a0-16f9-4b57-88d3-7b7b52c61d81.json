@@ -1,0 +1,73 @@
+{
+  "id": "2116d0a0-16f9-4b57-88d3-7b7b52c61d81",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.72,
+      "text": "Not engaging again!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "また付き合わない"
+    },
+    {
+      "start": 0.72,
+      "end": 2.4,
+      "text": "That's beautiful!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これはお見事ですね"
+    },
+    {
+      "start": 2.4,
+      "end": 4.92,
+      "text": "Evading the edgeguard with the turnaround!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "反転で復帰阻止を拒否していく"
+    },
+    {
+      "start": 4.92,
+      "end": 7.4,
+      "text": "Fair into bair attempt, but...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空前一段から空後を狙っていくが"
+    },
+    {
+      "start": 7.4,
+      "end": 8.74,
+      "text": "DI in!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ベクトル変更内側"
+    },
+    {
+      "start": 8.74,
+      "end": 10.76,
+      "text": "Up throw!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これは上投げ"
+    },
+    {
+      "start": 10.76,
+      "end": 12.22,
+      "text": "Barely a stock at this percent!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "このパーセントでギリギリ撃墜"
+    },
+    {
+      "start": 12.22,
+      "end": 13.24,
+      "text": "So close!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ギリギリですね"
+    }
+  ],
+  "full_text": "Not engaging again! That's beautiful! Evading the edgeguard with the turnaround! Fair into bair attempt, but... DI in! Up throw! Barely a stock at this percent! So close!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

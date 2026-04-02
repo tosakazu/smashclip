@@ -1,0 +1,27 @@
+{
+  "id": "efcc905d-de65-4bf0-a6e9-0fb2ead036bc",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 9.46,
+      "text": "TG's barely been grabbing as well, which I think he needs to be careful of, but the forward air is going to clutch it out, and TG advances, preventing the reverse 3-0, that was...",
+      "language": "en"
+    }
+  ],
+  "full_text": "TG's barely been grabbing as well, which I think he needs to be careful of, but the forward air is going to clutch it out, and TG advances, preventing the reverse 3-0, that was...",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "Torigiri's",
+      "corrected": "TG's",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 0,
+      "original": "Torigiri advances, preventing the reverse trio",
+      "corrected": "TG advances, preventing the reverse 3-0",
+      "rule": "player name + smash term: trio→3-0"
+    }
+  ]
+}

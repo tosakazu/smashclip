@@ -1,0 +1,72 @@
+{
+  "id": "f67c4bef-2c04-480c-9030-297bd0187638",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.12,
+      "text": "But Samus can make it back",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "だがサムスならば帰ってこれる"
+    },
+    {
+      "start": 2.12,
+      "end": 3.92,
+      "text": "Back throw doesn't KO",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "後ろに投げてまだ撃墜はしません"
+    },
+    {
+      "start": 3.92,
+      "end": 5.64,
+      "text": "Here comes the PK Flash",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあPKフラッシュ"
+    },
+    {
+      "start": 5.64,
+      "end": 7.06,
+      "text": "Doesn't land, but...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さすがに当たりませんが"
+    },
+    {
+      "start": 7.06,
+      "end": 8.82,
+      "text": "PK Fire controlling space",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "道を塞ぐことができるPKファイヤー"
+    },
+    {
+      "start": 8.82,
+      "end": 10.12,
+      "text": "Up smash punishes!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "引っ掛けて上スマッシュ"
+    },
+    {
+      "start": 10.12,
+      "end": 11.28,
+      "text": "Perfect response!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "完璧な対応"
+    }
+  ],
+  "full_text": "But Samus can make it back Back throw doesn't KO Here comes the PK Flash Doesn't land, but... PK Fire controlling space Up smash punishes! Perfect response!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 4,
+      "original": "PKファイル",
+      "corrected": "PKファイヤー",
+      "rule": "move name: PKファイル→PKファイヤー"
+    }
+  ]
+}

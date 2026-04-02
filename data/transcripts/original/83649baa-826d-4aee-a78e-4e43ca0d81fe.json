@@ -1,0 +1,63 @@
+{
+  "id": "83649baa-826d-4aee-a78e-4e43ca0d81fe",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.8,
+      "text": "ここはシールド張って対応していきます",
+      "language": "ja"
+    },
+    {
+      "start": 2.8,
+      "end": 4.34,
+      "text": "しかしこのシールドに対しても",
+      "language": "ja"
+    },
+    {
+      "start": 4.34,
+      "end": 6.06,
+      "text": "攻撃を仕掛けることもできる",
+      "language": "ja"
+    },
+    {
+      "start": 6.06,
+      "end": 7.84,
+      "text": "ディディコングモンキーフリップの技ですね",
+      "language": "ja"
+    },
+    {
+      "start": 7.84,
+      "end": 9.88,
+      "text": "ガード不可の技となっております",
+      "language": "ja"
+    },
+    {
+      "start": 9.88,
+      "end": 11.74,
+      "text": "横強行の",
+      "language": "ja"
+    },
+    {
+      "start": 11.74,
+      "end": 13.8,
+      "text": "回避に対しては空中後ろ",
+      "language": "ja"
+    },
+    {
+      "start": 13.8,
+      "end": 15.62,
+      "text": "ようやく当たりましたね",
+      "language": "ja"
+    }
+  ],
+  "full_text": "ここはシールド張って対応していきます しかしこのシールドに対しても 攻撃を仕掛けることもできる ディディコングモンキーフリップの技ですね ガード不可の技となっております 横強行の 回避に対しては空中後ろ ようやく当たりましたね",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 6,
+      "original": "ガイヒに対しては空中しろ",
+      "corrected": "回避に対しては空中後ろ",
+      "rule": "Whisper mishearing"
+    }
+  ]
+}

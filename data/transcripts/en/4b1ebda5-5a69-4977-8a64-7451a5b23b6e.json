@@ -1,0 +1,25 @@
+{
+  "id": "4b1ebda5-5a69-4977-8a64-7451a5b23b6e",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.5,
+      "text": "Whether this is really proving quite effective...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "どうもかなり有効に効いてくるかどうかというところ"
+    },
+    {
+      "start": 3.5,
+      "end": 4.56,
+      "text": "But this...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "しかしこれはく"
+    }
+  ],
+  "full_text": "Whether this is really proving quite effective... But this...",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

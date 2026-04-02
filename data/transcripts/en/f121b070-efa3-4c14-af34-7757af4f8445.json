@@ -1,0 +1,54 @@
+{
+  "id": "f121b070-efa3-4c14-af34-7757af4f8445",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.08,
+      "text": "Nice parry!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "うまいいなし方だ"
+    },
+    {
+      "start": 1.08,
+      "end": 3.08,
+      "text": "Blizzard though!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ブリザーはね"
+    },
+    {
+      "start": 3.08,
+      "end": 4.28,
+      "text": "KO out of nowhere!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "まさか撃墜"
+    },
+    {
+      "start": 4.28,
+      "end": 5.76,
+      "text": "Perfect!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあ完璧"
+    }
+  ],
+  "full_text": "Nice parry! Blizzard though! KO out of nowhere! Perfect!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "言いなし方",
+      "corrected": "いなし方",
+      "rule": "typo"
+    },
+    {
+      "segment_idx": 2,
+      "original": "激戦",
+      "corrected": "撃墜",
+      "rule": "kanji homophone: 激戦→撃墜"
+    }
+  ]
+}

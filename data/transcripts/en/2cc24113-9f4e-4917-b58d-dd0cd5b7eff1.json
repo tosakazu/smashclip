@@ -1,0 +1,25 @@
+{
+  "id": "2cc24113-9f4e-4917-b58d-dd0cd5b7eff1",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.0,
+      "text": "Characteristically, I think it's similar to something like Mario's forward smash",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "性質としてはマリオの横スマッシュとかに似てると思うんですけど"
+    },
+    {
+      "start": 5.0,
+      "end": 6.3,
+      "text": "Yeah!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "おいえー"
+    }
+  ],
+  "full_text": "Characteristically, I think it's similar to something like Mario's forward smash Yeah!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

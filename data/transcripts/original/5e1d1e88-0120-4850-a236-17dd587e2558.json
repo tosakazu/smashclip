@@ -1,0 +1,26 @@
+{
+  "id": "5e1d1e88-0120-4850-a236-17dd587e2558",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "text": "Segundos otra vez, eh.",
+      "language": "es"
+    },
+    {
+      "start": 1.64,
+      "end": 3.12,
+      "text": "Rápido, qué rápido, eh.",
+      "language": "es"
+    },
+    {
+      "start": 3.86,
+      "end": 5.34,
+      "text": "Esa bola… ¡Oy!",
+      "language": "es"
+    }
+  ],
+  "full_text": "Segundos otra vez, eh. Rápido, qué rápido, eh. Esa bola… ¡Oy!",
+  "detected_language": "es",
+  "corrections": []
+}

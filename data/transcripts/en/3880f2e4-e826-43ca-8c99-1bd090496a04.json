@@ -1,0 +1,44 @@
+{
+  "id": "3880f2e4-e826-43ca-8c99-1bd090496a04",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.4,
+      "text": "Both players at last hit.",
+      "language": "en"
+    },
+    {
+      "start": 1.4,
+      "end": 2.62,
+      "text": "Break this barrage right now.",
+      "language": "en"
+    },
+    {
+      "start": 2.62,
+      "end": 3.46,
+      "text": "Oh!",
+      "language": "en"
+    },
+    {
+      "start": 3.46,
+      "end": 4.7,
+      "text": "This first game beats everything in the forward air.",
+      "language": "en"
+    },
+    {
+      "start": 4.7,
+      "end": 5.54,
+      "text": "Surely that's gonna do it.",
+      "language": "en"
+    },
+    {
+      "start": 5.54,
+      "end": 6.38,
+      "text": "Sorry, Gary.",
+      "language": "en"
+    }
+  ],
+  "full_text": "Both players at last hit. Break this barrage right now. Oh! This first game beats everything in the forward air. Surely that's gonna do it. Sorry, Gary.",
+  "detected_language": "en",
+  "corrections": []
+}

@@ -1,0 +1,63 @@
+{
+  "id": "6933407c-df59-4898-85e2-6269184329a3",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.84,
+      "text": "スマッシュホールド当たれば撃墜はしない気もしますが",
+      "language": "ja"
+    },
+    {
+      "start": 3.84,
+      "end": 5.78,
+      "text": "強気な択を見せていったナオチャ",
+      "language": "ja"
+    },
+    {
+      "start": 5.78,
+      "end": 8.22,
+      "text": "空前がトロッコ相打ちになって",
+      "language": "ja"
+    },
+    {
+      "start": 8.22,
+      "end": 13.58,
+      "text": "上強攻撃が拾っていくそして深めの空前がトロッコ相打ちになって",
+      "language": "ja"
+    }
+  ],
+  "full_text": "スマッシュホールド当たれば撃墜はしない気もしますが 強気な択を見せていったナオチャ 空前がトロッコ相打ちになって 上強攻撃が拾っていくそして深めの空前がトロッコ相打ちになって",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "タコ",
+      "corrected": "択",
+      "rule": "Whisper mishearing"
+    },
+    {
+      "segment_idx": 2,
+      "original": "空中前",
+      "corrected": "空前",
+      "rule": "move abbreviation"
+    },
+    {
+      "segment_idx": 2,
+      "original": "対打ち",
+      "corrected": "相打ち",
+      "rule": "kanji homophone"
+    },
+    {
+      "segment_idx": 3,
+      "original": "空中前",
+      "corrected": "空前",
+      "rule": "move abbreviation"
+    },
+    {
+      "segment_idx": 3,
+      "original": "対打ち",
+      "corrected": "相打ち",
+      "rule": "kanji homophone"
+    }
+  ]
+}

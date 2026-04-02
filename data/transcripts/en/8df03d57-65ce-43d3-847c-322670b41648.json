@@ -1,0 +1,62 @@
+{
+  "id": "8df03d57-65ce-43d3-847c-322670b41648",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.06,
+      "text": "Got disrupted by the bananas but still landed it!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "バナナで邪魔をされていきましたが、もう一発通した"
+    },
+    {
+      "start": 2.06,
+      "end": 3.44,
+      "text": "How about that? Fully charged forward smash!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "どうだ?ホールド横スマッシュ"
+    },
+    {
+      "start": 3.44,
+      "end": 5.94,
+      "text": "Took the inside and caught them on the jump!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "内側取って、ジャンプしたところに"
+    },
+    {
+      "start": 5.94,
+      "end": 6.84,
+      "text": "Got pulled!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "トロッコで引かれる"
+    },
+    {
+      "start": 6.84,
+      "end": 11.06,
+      "text": "Forward smash through the shield!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "横スマッシュブロック越し"
+    }
+  ],
+  "full_text": "Got disrupted by the bananas but still landed it! How about that? Fully charged forward smash! Took the inside and caught them on the jump! Got pulled! Forward smash through the shield!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "横すまして",
+      "corrected": "横スマッシュ",
+      "rule": "kanji homophone"
+    },
+    {
+      "segment_idx": 4,
+      "original": "横すましてブロック越し",
+      "corrected": "横スマッシュブロック越し",
+      "rule": "kanji homophone"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "0843fd6a-4d79-4e75-806a-5ca78c4c59b6",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.32,
+      "text": "and gets the nair hold up if luis is able to secure this stock",
+      "language": "en"
+    },
+    {
+      "start": 4.32,
+      "end": 8.08,
+      "text": "oh that was dirty from Lammers i love that trucking with the up tilt",
+      "language": "en"
+    }
+  ],
+  "full_text": "and gets the nair hold up if luis is able to secure this stock oh that was dirty from Lammers i love that trucking with the up tilt",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "oh that was dirty from lambers i love that trucking with the up here",
+      "corrected": "oh that was dirty from Lammers i love that trucking with the up tilt",
+      "rule": "Player name and move correction (lambers → Lammers, up here → up tilt)"
+    }
+  ]
+}

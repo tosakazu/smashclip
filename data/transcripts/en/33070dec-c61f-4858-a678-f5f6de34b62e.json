@@ -1,0 +1,41 @@
+{
+  "id": "33070dec-c61f-4858-a678-f5f6de34b62e",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Can he do it?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いけるのか?"
+    },
+    {
+      "start": 5.0,
+      "end": 6.0,
+      "text": "He's holding on!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いや耐えてる"
+    },
+    {
+      "start": 6.0,
+      "end": 7.0,
+      "text": "He's hanging tough!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "耐えている!"
+    },
+    {
+      "start": 7.0,
+      "end": 8.0,
+      "text": "He sealed it!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "今度は決めきった!"
+    }
+  ],
+  "full_text": "Can he do it? He's holding on! He's hanging tough! He sealed it!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

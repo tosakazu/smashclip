@@ -1,0 +1,20 @@
+{
+  "id": "50824c12-39f8-43ce-a809-0072c3f80ca9",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.62,
+      "text": "バナナをうまく使って",
+      "language": "ja"
+    },
+    {
+      "start": 1.62,
+      "end": 4.2,
+      "text": "さあやはりゴリラならばバナナを使うのもお手の物",
+      "language": "ja"
+    }
+  ],
+  "full_text": "バナナをうまく使って さあやはりゴリラならばバナナを使うのもお手の物",
+  "detected_language": "ja",
+  "corrections": []
+}

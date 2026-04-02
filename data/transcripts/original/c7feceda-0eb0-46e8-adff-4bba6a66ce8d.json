@@ -1,0 +1,39 @@
+{
+  "id": "c7feceda-0eb0-46e8-adff-4bba6a66ce8d",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.34,
+      "text": "もうスピードに変えていく",
+      "language": "ja"
+    },
+    {
+      "start": 2.34,
+      "end": 3.6,
+      "text": "前から",
+      "language": "ja"
+    },
+    {
+      "start": 3.6,
+      "end": 7.38,
+      "text": "いやでもこれ",
+      "language": "ja"
+    },
+    {
+      "start": 7.38,
+      "end": 9.88,
+      "text": "まあまあそうですね撃墜と",
+      "language": "ja"
+    }
+  ],
+  "full_text": "もうスピードに変えていく 前から いやでもこれ まあまあそうですね撃墜と",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 3,
+      "original": "激推と",
+      "corrected": "撃墜と",
+      "rule": "smash term (撃墜)"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "98975253-dfb1-402c-89a1-ff2583ae5876",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.94,
+      "text": "それによってヒットストップ生まれて着地狩りの展開が作られる",
+      "language": "ja"
+    },
+    {
+      "start": 3.94,
+      "end": 5.3,
+      "text": "移動回避まで見て",
+      "language": "ja"
+    },
+    {
+      "start": 5.3,
+      "end": 8.96,
+      "text": "ストックリードのメンタルを強く持っているが",
+      "language": "ja"
+    },
+    {
+      "start": 8.96,
+      "end": 10.52,
+      "text": "崖が走ってきた",
+      "language": "ja"
+    }
+  ],
+  "full_text": "それによってヒットストップ生まれて着地狩りの展開が作られる 移動回避まで見て ストックリードのメンタルを強く持っているが 崖が走ってきた",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "凝視",
+      "corrected": "見て",
+      "rule": "kanji homophone"
+    }
+  ]
+}

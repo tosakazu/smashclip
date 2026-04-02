@@ -1,0 +1,39 @@
+{
+  "id": "2ef2d9f8-85be-490a-9648-a834dcf090b3",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.02,
+      "text": "さあマイルドなH.O何を見せてくれるんだ",
+      "language": "ja"
+    },
+    {
+      "start": 3.02,
+      "end": 6.18,
+      "text": "上に投げて空上で着地狩りだが",
+      "language": "ja"
+    },
+    {
+      "start": 6.18,
+      "end": 8.7,
+      "text": "ここは空Nから下必殺技撃墜",
+      "language": "ja"
+    }
+  ],
+  "full_text": "さあマイルドなH.O何を見せてくれるんだ 上に投げて空上で着地狩りだが ここは空Nから下必殺技撃墜",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "マイルナHO",
+      "corrected": "マイルドなH.O",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 2,
+      "original": "空中ニュートラル",
+      "corrected": "空N",
+      "rule": "move name normalization"
+    }
+  ]
+}

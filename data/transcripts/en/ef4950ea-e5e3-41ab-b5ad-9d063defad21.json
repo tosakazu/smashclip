@@ -1,0 +1,39 @@
+{
+  "id": "ef4950ea-e5e3-41ab-b5ad-9d063defad21",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.04,
+      "text": "that bear in order to keep that momentum gone going yeah and Lui$ Lui$ was like",
+      "language": "en"
+    },
+    {
+      "start": 5.04,
+      "end": 8.24,
+      "text": "close enough like he saw the bears like let me just do the jab and it was just",
+      "language": "en"
+    },
+    {
+      "start": 8.24,
+      "end": 12.84,
+      "text": "pixel off got hit with the back air for that one and this game is decided by pixels excellent",
+      "language": "en"
+    }
+  ],
+  "full_text": "that bear in order to keep that momentum gone going yeah and Lui$ Lui$ was like close enough like he saw the bears like let me just do the jab and it was just pixel off got hit with the back air for that one and this game is decided by pixels excellent",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "louis louis",
+      "corrected": "Lui$ Lui$",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 2,
+      "original": "back hair",
+      "corrected": "back air",
+      "rule": "smash term"
+    }
+  ]
+}

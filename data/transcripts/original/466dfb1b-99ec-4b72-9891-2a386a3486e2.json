@@ -1,0 +1,39 @@
+{
+  "id": "466dfb1b-99ec-4b72-9891-2a386a3486e2",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.76,
+      "text": "なってくるとどこかでねこうやった密着の読みを使わなきゃ取り替えなきゃいけなくなってしまうのでそういうかかなり今難しくなってますよ",
+      "language": "ja"
+    },
+    {
+      "start": 6.76,
+      "end": 9.64,
+      "text": "ただその読み合いかなり制してますよね黒のレース",
+      "language": "ja"
+    },
+    {
+      "start": 9.64,
+      "end": 11.02,
+      "text": "おーマジ",
+      "language": "ja"
+    },
+    {
+      "start": 11.02,
+      "end": 12.2,
+      "text": "ベクトル変更じゃない",
+      "language": "ja"
+    }
+  ],
+  "full_text": "なってくるとどこかでねこうやった密着の読みを使わなきゃ取り替えなきゃいけなくなってしまうのでそういうかかなり今難しくなってますよ ただその読み合いかなり制してますよね黒のレース おーマジ ベクトル変更じゃない",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "余命",
+      "corrected": "読み",
+      "rule": "kanji homophone (fighting game term)"
+    }
+  ]
+}

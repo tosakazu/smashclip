@@ -1,0 +1,33 @@
+{
+  "id": "d5ec575b-51c0-478d-8375-b803a6af4728",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 8.92,
+      "text": "Only 29% so far, the Limit, and he says thanks for that, fair, as well, but we don't need it, the aggressive option, and that's, like I said, Spargo able to take that stock.",
+      "language": "en"
+    }
+  ],
+  "full_text": "Only 29% so far, the Limit, and he says thanks for that, fair, as well, but we don't need it, the aggressive option, and that's, like I said, Spargo able to take that stock.",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "Jair",
+      "corrected": "fair",
+      "rule": "smash term (forward air)"
+    },
+    {
+      "segment_idx": 0,
+      "original": "Lasparguiña",
+      "corrected": "Spargo",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 0,
+      "original": "that stop",
+      "corrected": "that stock",
+      "rule": "smash term (stop→stock)"
+    }
+  ]
+}

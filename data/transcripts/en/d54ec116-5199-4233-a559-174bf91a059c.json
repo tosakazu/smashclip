@@ -1,0 +1,39 @@
+{
+  "id": "d54ec116-5199-4233-a559-174bf91a059c",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.46,
+      "text": "very well so since he has opted to go low now we're gonna see if Neo is gonna be able to adapt",
+      "language": "en"
+    },
+    {
+      "start": 4.46,
+      "end": 8.56,
+      "text": "but spending a little bit too much time on the ledge invincibility gone axe kick is here and",
+      "language": "en"
+    },
+    {
+      "start": 8.56,
+      "end": 10.34,
+      "text": "about a pin to answer back out of",
+      "language": "en"
+    }
+  ],
+  "full_text": "very well so since he has opted to go low now we're gonna see if Neo is gonna be able to adapt but spending a little bit too much time on the ledge invincibility gone axe kick is here and about a pin to answer back out of",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "nail",
+      "corrected": "Neo",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 1,
+      "original": "sending",
+      "corrected": "spending",
+      "rule": "mishearing"
+    }
+  ]
+}

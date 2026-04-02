@@ -1,0 +1,57 @@
+{
+  "id": "a3b693c4-6aeb-4617-b33b-06a73209d2f2",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.8,
+      "text": "The pressure is really mounting",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "実に重くのしかかっています"
+    },
+    {
+      "start": 1.8,
+      "end": 4.28,
+      "text": "So Wrath also had to mash out",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そこでWrath選手も暴発するしかないというか"
+    },
+    {
+      "start": 4.28,
+      "end": 6.6,
+      "text": "Game & Watch also has trouble securing KOs, so",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ゲームウォッチでもやっぱり撃墜が難しいので"
+    },
+    {
+      "start": 6.6,
+      "end": 9.54,
+      "text": "and that's when the opening just came around",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "チャンスがちょっと巡ったところだったので"
+    }
+  ],
+  "full_text": "The pressure is really mounting. So Wrath also had to mash out. Game & Watch also has trouble securing KOs, so and that's when the opening just came around.",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "original": "ラース選手",
+      "corrected": "Wrath選手",
+      "reason": "プレイヤー名Wrath"
+    },
+    {
+      "original": "破壊する",
+      "corrected": "暴発する",
+      "reason": "文脈上、暴発（暴れて攻撃）の意味"
+    },
+    {
+      "original": "ゲームを終えても",
+      "corrected": "ゲームウォッチでも",
+      "reason": "Mr. Game & Watchのキャラ名"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": "705651ef-764e-4f29-b0e1-1ae7ce3f364e",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Keep your distance against Rage",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "レイジに対しては十分に距離を取る"
+    },
+    {
+      "start": 2.0,
+      "end": 4.28,
+      "text": "Fair",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空中前"
+    },
+    {
+      "start": 4.28,
+      "end": 6.34,
+      "text": "Cut off the airdodge",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "外に出す回避は切った"
+    },
+    {
+      "start": 6.34,
+      "end": 8.84,
+      "text": "Dair right there",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そこで空下"
+    }
+  ],
+  "full_text": "Keep your distance against Rage Fair Cut off the airdodge Dair right there",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_index": 3,
+      "original": "そこで空中した",
+      "corrected": "そこで空下"
+    }
+  ]
+}

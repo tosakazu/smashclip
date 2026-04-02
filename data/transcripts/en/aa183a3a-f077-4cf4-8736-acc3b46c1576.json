@@ -1,0 +1,70 @@
+{
+  "id": "aa183a3a-f077-4cf4-8736-acc3b46c1576",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.58,
+      "text": "The car passes through!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "車が通って"
+    },
+    {
+      "start": 0.58,
+      "end": 4.54,
+      "text": "side B to switch position, but",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "横Bで位置を入れ替えますが"
+    },
+    {
+      "start": 4.54,
+      "end": 7.9,
+      "text": "from a jump",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ジャンプから"
+    },
+    {
+      "start": 7.9,
+      "end": 9.9,
+      "text": "throws 'em",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "紫を投げて"
+    },
+    {
+      "start": 9.9,
+      "end": 12.3,
+      "text": "getting through with that full hop was the key!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "大ジャンプで通したのがキモです"
+    },
+    {
+      "start": 12.3,
+      "end": 15.62,
+      "text": "platform short hop up smash!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "台上 スジャンプから上スマー"
+    }
+  ],
+  "full_text": "The car passes through! side B to switch position, but from a jump throws 'em getting through with that full hop was the key! platform short hop up smash!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "横橋で位置を入れ替えますが",
+      "corrected": "横Bで位置を入れ替えますが",
+      "rule": "Move: 横橋→横B"
+    },
+    {
+      "segment_idx": 5,
+      "original": "第4回スジャースが上すまー",
+      "corrected": "台上 スジャンプから上スマー",
+      "rule": "Smash term: 第4回スジャース→台上スジャンプから; move: 上すま→上スマ"
+    }
+  ]
+}

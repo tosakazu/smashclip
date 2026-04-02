@@ -1,0 +1,93 @@
+{
+  "id": "58381134-10da-46bb-be2e-f672093f7165",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.06,
+      "text": "ダッシュ攻撃",
+      "language": "ja"
+    },
+    {
+      "start": 1.06,
+      "end": 1.76,
+      "text": "それでも強気に",
+      "language": "ja"
+    },
+    {
+      "start": 1.76,
+      "end": 2.98,
+      "text": "下強がギリギリ拾えている",
+      "language": "ja"
+    },
+    {
+      "start": 2.98,
+      "end": 4.66,
+      "text": "ダッシュ攻撃",
+      "language": "ja"
+    },
+    {
+      "start": 4.66,
+      "end": 5.9,
+      "text": "ダウン起き上がり",
+      "language": "ja"
+    },
+    {
+      "start": 5.9,
+      "end": 7.14,
+      "text": "下強で固めていましたが",
+      "language": "ja"
+    },
+    {
+      "start": 7.14,
+      "end": 8.3,
+      "text": "いやー飛ばないのや",
+      "language": "ja"
+    },
+    {
+      "start": 8.3,
+      "end": 10.74,
+      "text": "さあそして空中攻撃を置いて",
+      "language": "ja"
+    },
+    {
+      "start": 10.74,
+      "end": 11.12,
+      "text": "撃墜",
+      "language": "ja"
+    },
+    {
+      "start": 11.12,
+      "end": 13.0,
+      "text": "拳が当たっているのはアシモ選手側",
+      "language": "ja"
+    },
+    {
+      "start": 13.0,
+      "end": 16.16,
+      "text": "さあこれもタイミングを少し見ながらの",
+      "language": "ja"
+    }
+  ],
+  "full_text": "ダッシュ攻撃 それでも強気に 下強がギリギリ拾えている ダッシュ攻撃 ダウン起き上がり 下強で固めていましたが いやー飛ばないのや さあそして空中攻撃を置いて 撃墜 拳が当たっているのはアシモ選手側 さあこれもタイミングを少し見ながらの",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 4,
+      "original": "ダウンオーカー",
+      "corrected": "ダウン起き上がり",
+      "rule": "misheard word"
+    },
+    {
+      "segment_idx": 8,
+      "original": "総裁",
+      "corrected": "撃墜",
+      "rule": "kanji homophone"
+    },
+    {
+      "segment_idx": 9,
+      "original": "足森雄川",
+      "corrected": "アシモ選手側",
+      "rule": "player name"
+    }
+  ]
+}

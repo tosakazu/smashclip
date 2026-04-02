@@ -1,0 +1,26 @@
+{
+  "id": "b6a36c1a-a185-4a0c-9750-9f2682748cf8",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.8,
+      "text": "stick to the ground",
+      "language": "en"
+    },
+    {
+      "start": 0.8,
+      "end": 4.76,
+      "text": "and avoids out the grenade but not the second one",
+      "language": "en"
+    },
+    {
+      "start": 4.76,
+      "end": 7.38,
+      "text": "lots of thumping and the up tilt catches the",
+      "language": "en"
+    }
+  ],
+  "full_text": "stick to the ground and avoids out the grenade but not the second one lots of thumping and the up tilt catches the",
+  "detected_language": "en",
+  "corrections": []
+}

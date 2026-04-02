@@ -1,0 +1,40 @@
+{
+  "id": "89e7564c-3daa-443f-a3dc-7f29b3b6b931",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Deliberate in their movements.",
+      "language": "en"
+    },
+    {
+      "start": 2.0,
+      "end": 5.5,
+      "text": "Oh my gosh! How did you know it was your hydrant?",
+      "language": "en"
+    },
+    {
+      "start": 5.5,
+      "end": 7.5,
+      "text": "To just run in confidently.",
+      "language": "en"
+    },
+    {
+      "start": 7.5,
+      "end": 8.5,
+      "text": "My goodness.",
+      "language": "en"
+    },
+    {
+      "start": 8.5,
+      "end": 14.0,
+      "text": "It goes for the backwards power pellet as well, but still overpowered by the Game & Watch back air, which will take...",
+      "language": "en"
+    }
+  ],
+  "full_text": "Deliberate in their movements. Oh my gosh! How did you know it was your hydrant? To just run in confidently. My goodness. It goes for the backwards power pellet as well, but still overpowered by the Game & Watch back air, which will take...",
+  "detected_language": "en",
+  "corrections": [
+    "Gamer Watch→Game & Watch (character name)"
+  ]
+}

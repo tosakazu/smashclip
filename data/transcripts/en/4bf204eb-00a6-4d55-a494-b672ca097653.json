@@ -1,0 +1,27 @@
+{
+  "id": "4bf204eb-00a6-4d55-a494-b672ca097653",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.1,
+      "text": "bomb in fact and that's gonna kill Miya yeah I mean that's one of the the things",
+      "language": "en"
+    },
+    {
+      "start": 5.1,
+      "end": 8.5,
+      "text": "we haven't seen that much from",
+      "language": "en"
+    }
+  ],
+  "full_text": "bomb in fact and that's gonna kill Miya yeah I mean that's one of the the things we haven't seen that much from",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "kill Mia",
+      "corrected": "kill Miya",
+      "rule": "player name"
+    }
+  ]
+}

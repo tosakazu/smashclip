@@ -1,0 +1,38 @@
+{
+  "id": "cc6bfbf5-94be-444f-aa5f-2e6b5c05b8bf",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.44,
+      "text": "コイドの使い方がお見事なんですよね",
+      "language": "ja"
+    },
+    {
+      "start": 1.44,
+      "end": 1.88,
+      "text": "うまいですね",
+      "language": "ja"
+    },
+    {
+      "start": 1.88,
+      "end": 4.18,
+      "text": "キャプテンファルコンもね",
+      "language": "ja"
+    },
+    {
+      "start": 4.18,
+      "end": 6.4,
+      "text": "相当空中を泳いでくるファイターだと思うんですけれども",
+      "language": "ja"
+    },
+    {
+      "start": 6.4,
+      "end": 7.68,
+      "text": "ワリオもまた泳いでくる",
+      "language": "ja"
+    }
+  ],
+  "full_text": "コイドの使い方がお見事なんですよね うまいですね キャプテンファルコンもね 相当空中を泳いでくるファイターだと思うんですけれども ワリオもまた泳いでくる",
+  "detected_language": "ja",
+  "corrections": []
+}

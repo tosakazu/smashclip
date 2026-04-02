@@ -1,0 +1,38 @@
+{
+  "id": "ce26fbbb-9ba7-4c21-8dd1-65625e1ed27b",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.04,
+      "text": "空中前通る",
+      "language": "ja"
+    },
+    {
+      "start": 3.04,
+      "end": 4.82,
+      "text": "崖",
+      "language": "ja"
+    },
+    {
+      "start": 4.82,
+      "end": 6.14,
+      "text": "上Bから",
+      "language": "ja"
+    },
+    {
+      "start": 6.14,
+      "end": 8.14,
+      "text": "空中後ろまで",
+      "language": "ja"
+    },
+    {
+      "start": 8.14,
+      "end": 9.94,
+      "text": "これやばくない",
+      "language": "ja"
+    }
+  ],
+  "full_text": "空中前通る 崖 上Bから 空中後ろまで これやばくない",
+  "detected_language": "ja",
+  "corrections": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "a1a04367-0984-4636-b20d-1a084fd9b681",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.08,
+      "text": "gonna have to come up big and just be very smart with your recoveries stuffing",
+      "language": "en"
+    },
+    {
+      "start": 4.08,
+      "end": 7.92,
+      "text": "out the approach right there from BetaMan LittN looking really good",
+      "language": "en"
+    },
+    {
+      "start": 7.92,
+      "end": 13.92,
+      "text": "holding center stage getting the kill right there no sparks and just like",
+      "language": "en"
+    }
+  ],
+  "full_text": "gonna have to come up big and just be very smart with your recoveries stuffing out the approach right there from BetaMan LittN looking really good holding center stage getting the kill right there no sparks and just like",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "beta man Lydon",
+      "corrected": "BetaMan LittN",
+      "rule": "player names"
+    }
+  ]
+}

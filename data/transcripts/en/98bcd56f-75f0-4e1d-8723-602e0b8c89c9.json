@@ -1,0 +1,52 @@
+{
+  "id": "98bcd56f-75f0-4e1d-8723-602e0b8c89c9",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "text": "Got in!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "バッと入れた!"
+    },
+    {
+      "start": 1.0,
+      "end": 3.0,
+      "text": "Commits!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そのなかに踏み切った!"
+    },
+    {
+      "start": 3.0,
+      "end": 7.0,
+      "text": "Every option's reaching Tweek, but...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ことごとくの選択肢が全てTweekに届いているが"
+    }
+  ],
+  "full_text": "Got in! Commits! Every option's reaching Tweek, but...",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "バッターレイド",
+      "corrected": "バッと入れた",
+      "rule": "Whisper misheard"
+    },
+    {
+      "segment_idx": 1,
+      "original": "飛び切った",
+      "corrected": "踏み切った",
+      "rule": "Whisper misheard"
+    },
+    {
+      "segment_idx": 2,
+      "original": "スイッチ",
+      "corrected": "Tweek",
+      "rule": "player name"
+    }
+  ]
+}

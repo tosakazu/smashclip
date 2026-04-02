@@ -1,0 +1,118 @@
+{
+  "id": "d058b56a-9c17-4d52-87b6-3fed1253311a",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.72,
+      "text": "And here we go with the first Top 8 match!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここで始まりますトップ8最初の試合"
+    },
+    {
+      "start": 3.72,
+      "end": 7.04,
+      "text": "Dro-right versus Gluttony",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ドラ右対グラトニー"
+    },
+    {
+      "start": 7.04,
+      "end": 10.64,
+      "text": "Starting us off with Battlefield",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "開幕は戦場から見ていきます"
+    },
+    {
+      "start": 10.64,
+      "end": 11.14,
+      "text": "I see",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "なるほど"
+    },
+    {
+      "start": 11.14,
+      "end": 14.44,
+      "text": "Gluttony probably picked this one",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これ選んだのはおそらくグラトニー側でしょうかね"
+    },
+    {
+      "start": 14.44,
+      "end": 18.86,
+      "text": "I figured a stage with platforms where you could reset pressure from the top would be ideal",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "なるべく台があって上から上で一息つけるようなステージがいいかなと思って"
+    },
+    {
+      "start": 18.86,
+      "end": 20.02,
+      "text": "Wait, the top?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "え?上だから?"
+    },
+    {
+      "start": 20.42,
+      "end": 23.0,
+      "text": "Brings it down to two right there—",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ホットリングで下まで2回で"
+    },
+    {
+      "start": 23.0,
+      "end": 27.26,
+      "text": "Right, that's exactly what I'm saying—they need to properly shut down that low recovery",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いやこれですよまさに言ってたその下からの復帰をちゃんと潰すっていう"
+    },
+    {
+      "start": 27.26,
+      "end": 30.8,
+      "text": "Despite going all-in diving inside and going for the tech",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "わざわざ内側に潜り込んでバイクを出したにも関わらず"
+    },
+    {
+      "start": 30.8,
+      "end": 33.34,
+      "text": "Even though they pulled it out again here",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "バイクをここでも出したにも関わらず"
+    },
+    {
+      "start": 33.34,
+      "end": 34.32,
+      "text": "Let me say something",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "喋らせてほしい"
+    }
+  ],
+  "full_text": "And here we go with the first Top 8 match! Dro-right versus Gluttony. Starting us off with Battlefield. I see. Gluttony probably picked this one. I figured a stage with platforms where you could reset pressure from the top would be ideal. Wait, the top? Brings it down to two right there— Right, that's exactly what I'm saying—they need to properly shut down that low recovery. Despite going all-in diving inside and going for the tech. Even though they pulled it out again here. Let me say something.",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "ドラミキ",
+      "corrected": "ドラ右",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 5,
+      "original": "ダイガーで",
+      "corrected": "台があって",
+      "rule": "mishearing (台がある)"
+    }
+  ]
+}

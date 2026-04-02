@@ -1,0 +1,26 @@
+{
+  "id": "9d68839e-eb80-42c9-927b-d64b9ed8ad35",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.44,
+      "text": "よし、当たる",
+      "language": "ja"
+    },
+    {
+      "start": 0.44,
+      "end": 3.22,
+      "text": "空中入力だから",
+      "language": "ja"
+    },
+    {
+      "start": 3.22,
+      "end": 5.0,
+      "text": "ここはスタート",
+      "language": "ja"
+    }
+  ],
+  "full_text": "よし、当たる 空中入力だから ここはスタート",
+  "detected_language": "ja",
+  "corrections": []
+}

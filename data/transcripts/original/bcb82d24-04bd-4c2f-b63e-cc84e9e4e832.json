@@ -1,0 +1,57 @@
+{
+  "id": "bcb82d24-04bd-4c2f-b63e-cc84e9e4e832",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.58,
+      "text": "タイミングもかなり素晴らしい",
+      "language": "ja"
+    },
+    {
+      "start": 1.58,
+      "end": 2.44,
+      "text": "うまい",
+      "language": "ja"
+    },
+    {
+      "start": 2.44,
+      "end": 5.98,
+      "text": "これがあるかな",
+      "language": "ja"
+    },
+    {
+      "start": 5.98,
+      "end": 8.7,
+      "text": "しっかりと我慢しました",
+      "language": "ja"
+    },
+    {
+      "start": 8.7,
+      "end": 9.78,
+      "text": "我慢しましたね今",
+      "language": "ja"
+    },
+    {
+      "start": 9.78,
+      "end": 11.3,
+      "text": "うまい",
+      "language": "ja"
+    },
+    {
+      "start": 11.3,
+      "end": 11.62,
+      "text": "うまい",
+      "language": "ja"
+    }
+  ],
+  "full_text": "タイミングもかなり素晴らしい うまい これがあるかな しっかりと我慢しました 我慢しましたね今 うまい うまい",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "テイミングもかなり素晴らしい",
+      "corrected": "タイミングもかなり素晴らしい",
+      "rule": "kanji homophone"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "id": "0ae5b3d5-93fd-4ef6-8190-c6736b043c03",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.9,
+      "text": "Using this percent",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "このパーセンテージ活かして"
+    },
+    {
+      "start": 1.9,
+      "end": 4.32,
+      "text": "next stock",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "次のストック"
+    },
+    {
+      "start": 4.32,
+      "end": 7.2,
+      "text": "whether they can extend into the dash attack",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ダッシュに繋げていくことができるかどうかというところ"
+    },
+    {
+      "start": 7.2,
+      "end": 8.14,
+      "text": "off the dash attack",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "DAを通して"
+    },
+    {
+      "start": 8.14,
+      "end": 10.82,
+      "text": "up air for the KO!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空中上を当てていく撃墜"
+    }
+  ],
+  "full_text": "Using this percent next stock whether they can extend into the dash attack off the dash attack up air for the KO!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

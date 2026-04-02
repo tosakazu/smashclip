@@ -1,0 +1,20 @@
+{
+  "id": "61e08f37-abbb-401a-b0e6-9140bbc40a5c",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.66,
+      "text": "ちょっとねドンキーコング縦方向への復帰は乏しいので",
+      "language": "ja"
+    },
+    {
+      "start": 2.66,
+      "end": 5.14,
+      "text": "ステージ上には戻ってこれなかった",
+      "language": "ja"
+    }
+  ],
+  "full_text": "ちょっとねドンキーコング縦方向への復帰は乏しいので ステージ上には戻ってこれなかった",
+  "detected_language": "ja",
+  "corrections": []
+}

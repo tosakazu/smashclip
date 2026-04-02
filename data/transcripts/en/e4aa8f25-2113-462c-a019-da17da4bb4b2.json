@@ -1,0 +1,62 @@
+{
+  "id": "e4aa8f25-2113-462c-a019-da17da4bb4b2",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.54,
+      "text": "How to break his spacing",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "この男の間合いをどのように崩すか"
+    },
+    {
+      "start": 2.54,
+      "end": 7.22,
+      "text": "Forward smash",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "横スマッシュ"
+    },
+    {
+      "start": 7.22,
+      "end": 8.7,
+      "text": "Way too aggressive",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "あまりにも強気たく"
+    },
+    {
+      "start": 8.7,
+      "end": 9.34,
+      "text": "But",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "だが"
+    },
+    {
+      "start": 9.34,
+      "end": 11.14,
+      "text": "For DenKOTA",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "DenKOTAにとっては"
+    }
+  ],
+  "full_text": "How to break his spacing Forward smash Way too aggressive But For DenKOTA",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "この男の間違いをどのように崩すか",
+      "corrected": "この男の間合いをどのように崩すか",
+      "rule": "misheard: 間合い(spacing)"
+    },
+    {
+      "segment_idx": 4,
+      "original": "デンコタにとっては",
+      "corrected": "DenKOTAにとっては",
+      "rule": "player name"
+    }
+  ]
+}

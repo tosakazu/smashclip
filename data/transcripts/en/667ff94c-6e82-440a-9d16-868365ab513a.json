@@ -1,0 +1,33 @@
+{
+  "id": "667ff94c-6e82-440a-9d16-868365ab513a",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.26,
+      "text": "At that aggressive stage, you want to really extend that advantage",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "攻めさせる段階でそのリードを広げていきたいでしょうから"
+    },
+    {
+      "start": 4.26,
+      "end": 6.74,
+      "text": "First, they need to secure a stock",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "まずは1ストック欲しいところ"
+    },
+    {
+      "start": 6.74,
+      "end": 9.7,
+      "text": "But that just got spent",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ただこれは使われてしまって"
+    }
+  ],
+  "full_text": "At that aggressive stage, you want to really extend that advantage First, they need to secure a stock But that just got spent",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

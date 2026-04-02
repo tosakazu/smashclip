@@ -1,0 +1,32 @@
+{
+  "id": "33070dec-c61f-4858-a678-f5f6de34b62e",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "いけるのか?",
+      "language": "ja"
+    },
+    {
+      "start": 5.0,
+      "end": 6.0,
+      "text": "いや耐えてる",
+      "language": "ja"
+    },
+    {
+      "start": 6.0,
+      "end": 7.0,
+      "text": "耐えている!",
+      "language": "ja"
+    },
+    {
+      "start": 7.0,
+      "end": 8.0,
+      "text": "今度は決めきった!",
+      "language": "ja"
+    }
+  ],
+  "full_text": "いけるのか? いや耐えてる 耐えている! 今度は決めきった!",
+  "detected_language": "ja",
+  "corrections": []
+}

@@ -1,0 +1,32 @@
+{
+  "id": "0a5ac2a1-68a1-47cd-b5ec-d65a368c7997",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.46,
+      "text": "And this is why you're not going to see as many turnips from Samsora, right?",
+      "language": "en"
+    },
+    {
+      "start": 3.52,
+      "end": 6.0,
+      "text": "Because Rosalina has that ability to be able to suck in those turnips",
+      "language": "en"
+    },
+    {
+      "start": 6.0,
+      "end": 8.94,
+      "text": "and bring it into Dabuz's own hands.",
+      "language": "en"
+    },
+    {
+      "start": 9.28,
+      "end": 10.18,
+      "text": "Or you could just have Luma.",
+      "language": "en"
+    }
+  ],
+  "full_text": "And this is why you're not going to see as many turnips from Samsora, right? Because Rosalina has that ability to be able to suck in those turnips and bring it into Dabuz's own hands. Or you could just have Luma.",
+  "detected_language": "en",
+  "corrections": []
+}

@@ -1,0 +1,26 @@
+{
+  "id": "91deb409-b7b5-427b-a3e5-61960afde9c8",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "帰ってきて",
+      "language": "ja"
+    },
+    {
+      "start": 2.0,
+      "end": 3.98,
+      "text": "なお空中後ろを当てていくコリンク",
+      "language": "ja"
+    },
+    {
+      "start": 3.98,
+      "end": 5.02,
+      "text": "そして横強い",
+      "language": "ja"
+    }
+  ],
+  "full_text": "帰ってきて なお空中後ろを当てていくコリンク そして横強い",
+  "detected_language": "ja",
+  "corrections": []
+}

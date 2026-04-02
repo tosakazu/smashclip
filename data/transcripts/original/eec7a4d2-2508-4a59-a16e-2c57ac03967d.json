@@ -1,0 +1,38 @@
+{
+  "id": "eec7a4d2-2508-4a59-a16e-2c57ac03967d",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.26,
+      "text": "投げを通す",
+      "language": "ja"
+    },
+    {
+      "start": 1.26,
+      "end": 3.66,
+      "text": "突かして投げさすがに必殺",
+      "language": "ja"
+    },
+    {
+      "start": 3.66,
+      "end": 6.32,
+      "text": "必殺技",
+      "language": "ja"
+    },
+    {
+      "start": 6.32,
+      "end": 9.28,
+      "text": "パーシューで撃っていきますよ",
+      "language": "ja"
+    },
+    {
+      "start": 9.28,
+      "end": 11.34,
+      "text": "うまい",
+      "language": "ja"
+    }
+  ],
+  "full_text": "投げを通す 突かして投げさすがに必殺 必殺技 パーシューで撃っていきますよ うまい",
+  "detected_language": "ja",
+  "corrections": []
+}

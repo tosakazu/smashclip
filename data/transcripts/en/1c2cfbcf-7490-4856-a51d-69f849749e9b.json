@@ -1,0 +1,48 @@
+{
+  "id": "1c2cfbcf-7490-4856-a51d-69f849749e9b",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.56,
+      "text": "Going in with the attack!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "攻撃狙いに来る"
+    },
+    {
+      "start": 1.56,
+      "end": 3.92,
+      "text": "85% is overkill!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "85%は十分すぎる"
+    },
+    {
+      "start": 3.92,
+      "end": 4.28,
+      "text": "Percent!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "パーセント"
+    },
+    {
+      "start": 4.28,
+      "end": 8.58,
+      "text": "Incredible side B!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "横B素晴らしい"
+    }
+  ],
+  "full_text": "Going in with the attack! 85% is overkill! Percent! Incredible side B!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 3,
+      "original": "横尾素晴らしい",
+      "corrected": "横B素晴らしい",
+      "rule": "Whisper mishearing: 横尾→横B (Corrin side-B)"
+    }
+  ]
+}

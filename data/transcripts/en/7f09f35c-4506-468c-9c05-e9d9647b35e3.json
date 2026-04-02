@@ -1,0 +1,56 @@
+{
+  "id": "7f09f35c-4506-468c-9c05-e9d9647b35e3",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.46,
+      "text": "Going for it, but...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "行くが、さすがにね"
+    },
+    {
+      "start": 1.46,
+      "end": 2.32,
+      "text": "Spring",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "スプリング"
+    },
+    {
+      "start": 2.32,
+      "end": 5.14,
+      "text": "Takes the hit, reads the getup, immediate fair!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "攻撃を受け上がりを見て、すかさず空中前"
+    },
+    {
+      "start": 5.14,
+      "end": 7.64,
+      "text": "Reads that reaction too, straight to bair!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "らるの反応も、ふかりなし、空中後ろ"
+    },
+    {
+      "start": 7.64,
+      "end": 8.3,
+      "text": "That connects!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "よく通しました"
+    }
+  ],
+  "full_text": "Going for it, but... Spring Takes the hit, reads the getup, immediate fair! Reads that reaction too, straight to bair! That connects!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 3,
+      "original": "ラルの反応も、ふかりなし、空中後ろ",
+      "corrected": "らるの反応も、ふかりなし、空中後ろ",
+      "rule": "player name"
+    }
+  ]
+}

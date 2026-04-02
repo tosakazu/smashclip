@@ -1,0 +1,33 @@
+{
+  "id": "888928d6-3ea0-479d-9811-c36e91d0b183",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 7.72,
+      "text": "Just needs a couple more openings, but AyaLin finding another one, off-stage miss, ooh, okay,",
+      "language": "en"
+    },
+    {
+      "start": 8.04,
+      "end": 12.8,
+      "text": "nearly a very, very hard read from AyaLin, with a thunder, unfortunately.",
+      "language": "en"
+    }
+  ],
+  "full_text": "Just needs a couple more openings, but AyaLin finding another one, off-stage miss, ooh, okay, nearly a very, very hard read from AyaLin, with a thunder, unfortunately.",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "Ireland",
+      "corrected": "AyaLin",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 1,
+      "original": "Ireland",
+      "corrected": "AyaLin",
+      "rule": "player name"
+    }
+  ]
+}

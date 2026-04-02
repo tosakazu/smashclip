@@ -1,0 +1,57 @@
+{
+  "id": "8f36c5fe-6274-4e6e-8609-a5e42f77bf49",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.22,
+      "text": "空後もスカしで",
+      "language": "ja"
+    },
+    {
+      "start": 2.22,
+      "end": 4.14,
+      "text": "いやーそのばっかり待ってましたね",
+      "language": "ja"
+    },
+    {
+      "start": 4.14,
+      "end": 6.3,
+      "text": "かなりせんらのスカし投げって",
+      "language": "ja"
+    },
+    {
+      "start": 6.3,
+      "end": 8.72,
+      "text": "特徴的なんで誘ってましたね",
+      "language": "ja"
+    },
+    {
+      "start": 8.72,
+      "end": 10.98,
+      "text": "グッチー",
+      "language": "ja"
+    }
+  ],
+  "full_text": "空後もスカしで いやーそのばっかり待ってましたね かなりせんらのスカし投げって 特徴的なんで誘ってましたね グッチー",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "口もスカッシで",
+      "corrected": "空後もスカしで",
+      "rule": "move abbreviation + misheard word"
+    },
+    {
+      "segment_idx": 2,
+      "original": "センラのスカッシ投げ",
+      "corrected": "せんらのスカし投げ",
+      "rule": "player name + misheard word"
+    },
+    {
+      "segment_idx": 4,
+      "original": "ぐーち",
+      "corrected": "グッチー",
+      "rule": "misheard word"
+    }
+  ]
+}

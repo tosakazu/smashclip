@@ -1,0 +1,33 @@
+{
+  "id": "0e286fd8-30e8-4341-a002-dc9f1c91619f",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.6,
+      "text": "上から返ってくるがトロッコのつかみが拾う",
+      "language": "ja"
+    },
+    {
+      "start": 2.6,
+      "end": 5.26,
+      "text": "横スマがニュートラル回避の後隙を拾う",
+      "language": "ja"
+    },
+    {
+      "start": 5.26,
+      "end": 10.06,
+      "text": "空後がKENのライン回復を止めようというところだったんですが",
+      "language": "ja"
+    }
+  ],
+  "full_text": "上から返ってくるがトロッコのつかみが拾う 横スマがニュートラル回避の後隙を拾う 空後がKENのライン回復を止めようというところだったんですが",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "空中後ろが剣のライン回復を止めようというところだったんですが",
+      "corrected": "空後がKENのライン回復を止めようというところだったんですが",
+      "rule": "Move abbreviation: 空中後ろ→空後; Player name: 剣→KEN"
+    }
+  ]
+}

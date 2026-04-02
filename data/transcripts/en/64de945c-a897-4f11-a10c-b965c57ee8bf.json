@@ -1,0 +1,96 @@
+{
+  "id": "64de945c-a897-4f11-a10c-b965c57ee8bf",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.78,
+      "text": "One B-kick!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "Bキック一発"
+    },
+    {
+      "start": 0.78,
+      "end": 2.82,
+      "text": "Insane!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "やばい"
+    },
+    {
+      "start": 2.82,
+      "end": 4.28,
+      "text": "Pikmin",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ピクミン"
+    },
+    {
+      "start": 4.28,
+      "end": 6.48,
+      "text": "Nice mash out!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いい暴れだ"
+    },
+    {
+      "start": 6.48,
+      "end": 8.42,
+      "text": "But they're chasing!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "しかし追いかけてくる"
+    },
+    {
+      "start": 8.42,
+      "end": 9.6,
+      "text": "Pikmin's coming back!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ピクミン帰ってきて"
+    },
+    {
+      "start": 9.6,
+      "end": 10.32,
+      "text": "Do we have purple?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "紫いるか"
+    },
+    {
+      "start": 10.32,
+      "end": 10.8,
+      "text": "Purple!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "紫"
+    },
+    {
+      "start": 10.8,
+      "end": 13.22,
+      "text": "Insaaane!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "やばーい"
+    },
+    {
+      "start": 13.22,
+      "end": 14.6,
+      "text": "Touching that spot too!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここも触ると"
+    }
+  ],
+  "full_text": "One B-kick! Insane! Pikmin Nice mash out! But they're chasing! Pikmin's coming back! Do we have purple? Purple! Insaaane! Touching that spot too!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "ブキック",
+      "corrected": "Bキック",
+      "rule": "move abbreviation"
+    }
+  ]
+}

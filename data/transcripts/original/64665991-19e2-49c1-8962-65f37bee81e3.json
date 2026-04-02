@@ -1,0 +1,87 @@
+{
+  "id": "64665991-19e2-49c1-8962-65f37bee81e3",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.82,
+      "text": "通しているダッシュガーディア",
+      "language": "ja"
+    },
+    {
+      "start": 2.82,
+      "end": 4.02,
+      "text": "ありがとうガーディア",
+      "language": "ja"
+    },
+    {
+      "start": 4.02,
+      "end": 5.96,
+      "text": "空中前へ",
+      "language": "ja"
+    },
+    {
+      "start": 5.96,
+      "end": 7.42,
+      "text": "さあ空Nも拾っていました",
+      "language": "ja"
+    },
+    {
+      "start": 7.42,
+      "end": 9.3,
+      "text": "回避見て空中下",
+      "language": "ja"
+    },
+    {
+      "start": 9.3,
+      "end": 11.68,
+      "text": "この崖どうなる",
+      "language": "ja"
+    },
+    {
+      "start": 11.68,
+      "end": 12.88,
+      "text": "空後空後空後",
+      "language": "ja"
+    },
+    {
+      "start": 12.88,
+      "end": 14.76,
+      "text": "ジャンプ",
+      "language": "ja"
+    },
+    {
+      "start": 14.76,
+      "end": 15.72,
+      "text": "まだ続いている",
+      "language": "ja"
+    },
+    {
+      "start": 15.72,
+      "end": 17.14,
+      "text": "空前ギリギリ",
+      "language": "ja"
+    },
+    {
+      "start": 17.14,
+      "end": 18.6,
+      "text": "深めに行った",
+      "language": "ja"
+    }
+  ],
+  "full_text": "通しているダッシュガーディア ありがとうガーディア 空中前へ さあ空Nも拾っていました 回避見て空中下 この崖どうなる 空後空後空後 ジャンプ まだ続いている 空前ギリギリ 深めに行った",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "スタミンS",
+      "corrected": "ダッシュ",
+      "rule": "misheard word"
+    },
+    {
+      "segment_idx": 3,
+      "original": "空中シロも",
+      "corrected": "空Nも",
+      "rule": "move abbreviation"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "id": "03d90a37-4063-4d6c-899d-368778f4d6ae",
+  "segments": [
+    {
+      "start": 0.98,
+      "end": 3.34,
+      "text": "Aggressive down smash pressure at the ledge!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "下スマ強気に暴れて崖上に展開"
+    },
+    {
+      "start": 3.34,
+      "end": 5.4,
+      "text": "Up B reverses the position!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "上Bで展開を入れ替えて"
+    },
+    {
+      "start": 5.4,
+      "end": 8.02,
+      "text": "Roll getup up tilt!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "この崖 回避上がり 上強"
+    }
+  ],
+  "full_text": "Aggressive down smash pressure at the ledge! Up B reverses the position! Roll getup up tilt!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "下スマッシュ強気に暴れて崖上に展開",
+      "corrected": "下スマ強気に暴れて崖上に展開",
+      "rule": "auto-rule"
+    },
+    {
+      "segment_idx": 1,
+      "original": "上ビーで展開を入れ替えて",
+      "corrected": "上Bで展開を入れ替えて",
+      "rule": "auto-rule"
+    },
+    {
+      "segment_idx": 2,
+      "original": "上コープ",
+      "corrected": "上強",
+      "rule": "misheard move"
+    }
+  ]
+}

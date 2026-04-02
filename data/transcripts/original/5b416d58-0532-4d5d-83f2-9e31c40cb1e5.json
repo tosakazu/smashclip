@@ -1,0 +1,69 @@
+{
+  "id": "5b416d58-0532-4d5d-83f2-9e31c40cb1e5",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.78,
+      "text": "ダメージが伸びるぞ",
+      "language": "ja"
+    },
+    {
+      "start": 0.78,
+      "end": 3.02,
+      "text": "横スマッシュに横スマッシュのお仕置き",
+      "language": "ja"
+    },
+    {
+      "start": 3.02,
+      "end": 4.72,
+      "text": "ヤマナクション選手ここはマジレス",
+      "language": "ja"
+    },
+    {
+      "start": 4.72,
+      "end": 7.84,
+      "text": "お互い110%ほど",
+      "language": "ja"
+    },
+    {
+      "start": 7.84,
+      "end": 9.44,
+      "text": "ヤマナクション選手",
+      "language": "ja"
+    },
+    {
+      "start": 9.44,
+      "end": 10.98,
+      "text": "資材は潤沢にある",
+      "language": "ja"
+    },
+    {
+      "start": 10.98,
+      "end": 12.96,
+      "text": "次のストックのダイヤの準備もできている",
+      "language": "ja"
+    },
+    {
+      "start": 12.96,
+      "end": 14.6,
+      "text": "ここは空中後ろで",
+      "language": "ja"
+    }
+  ],
+  "full_text": "ダメージが伸びるぞ 横スマッシュに横スマッシュのお仕置き ヤマナクション選手ここはマジレス お互い110%ほど ヤマナクション選手 資材は潤沢にある 次のストックのダイヤの準備もできている ここは空中後ろで",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "山中翔選手",
+      "corrected": "ヤマナクション選手",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 4,
+      "original": "山中翔選手",
+      "corrected": "ヤマナクション選手",
+      "rule": "player name"
+    }
+  ]
+}

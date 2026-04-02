@@ -1,0 +1,33 @@
+{
+  "id": "876e26c0-3898-46c5-a131-0c84e6f35410",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Waiting right there...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "地面でじーっと待って"
+    },
+    {
+      "start": 2.0,
+      "end": 3.0,
+      "text": "On the recovery...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "復帰際"
+    },
+    {
+      "start": 3.0,
+      "end": 5.14,
+      "text": "Finally landed the dair meteor!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "とうとう通りました空下のメテオ"
+    }
+  ],
+  "full_text": "Waiting right there... On the recovery... Finally landed the dair meteor!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

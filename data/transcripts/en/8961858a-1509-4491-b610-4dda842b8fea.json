@@ -1,0 +1,38 @@
+{
+  "id": "8961858a-1509-4491-b610-4dda842b8fea",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.36,
+      "text": "And going deep, like you said.",
+      "language": "en"
+    },
+    {
+      "start": 1.88,
+      "end": 3.7,
+      "text": "This is actually a very good start for Guto.",
+      "language": "en"
+    },
+    {
+      "start": 3.92,
+      "end": 7.98,
+      "text": "So far, besides game one, he's been fighting an uphill battle every single game.",
+      "language": "en"
+    },
+    {
+      "start": 8.7,
+      "end": 10.12,
+      "text": "So this must feel good for Guto.",
+      "language": "en"
+    },
+    {
+      "start": 10.52,
+      "end": 12.24,
+      "text": "To start off with a soldier.",
+      "language": "en"
+    }
+  ],
+  "full_text": "And going deep, like you said. This is actually a very good start for Guto. So far, besides game one, he's been fighting an uphill battle every single game. So this must feel good for Guto. To start off with a soldier.",
+  "detected_language": "en",
+  "corrections": []
+}

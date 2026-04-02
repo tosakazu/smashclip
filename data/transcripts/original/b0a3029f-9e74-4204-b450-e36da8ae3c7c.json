@@ -1,0 +1,33 @@
+{
+  "id": "b0a3029f-9e74-4204-b450-e36da8ae3c7c",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.94,
+      "text": "7% now for Yamanaction, how's he going to get off this ledge?",
+      "language": "en"
+    },
+    {
+      "start": 3.88,
+      "end": 7.92,
+      "text": "Oh no, neutral B catches him out, coming high with the up smash!",
+      "language": "en"
+    },
+    {
+      "start": 8.88,
+      "end": 9.12,
+      "text": "Okay.",
+      "language": "en"
+    }
+  ],
+  "full_text": "7% now for Yamanaction, how's he going to get off this ledge? Oh no, neutral B catches him out, coming high with the up smash! Okay.",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "NeutralBeeper catches him out",
+      "corrected": "neutral B catches him out",
+      "rule": "smash term (neutral B)"
+    }
+  ]
+}

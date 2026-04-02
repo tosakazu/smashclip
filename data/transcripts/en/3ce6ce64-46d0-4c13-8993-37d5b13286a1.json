@@ -1,0 +1,46 @@
+{
+  "id": "3ce6ce64-46d0-4c13-8993-37d5b13286a1",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.72,
+      "text": "Kuwain",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "クアワイン"
+    },
+    {
+      "start": 0.72,
+      "end": 2.68,
+      "text": "catches the roll getup",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "転がり上がりを狩って"
+    },
+    {
+      "start": 2.68,
+      "end": 6.38,
+      "text": "Din's Fire",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ディンの炎"
+    }
+  ],
+  "full_text": "Kuwain catches the roll getup Din's Fire",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "勝って",
+      "corrected": "狩って",
+      "rule": "kanji homophone: 勝って→狩って (崖の転がり上がりを狩る)"
+    },
+    {
+      "segment_idx": 2,
+      "original": "ピンの炎",
+      "corrected": "ディンの炎",
+      "rule": "Zelda move name: Din's Fire = ディンの炎"
+    }
+  ]
+}

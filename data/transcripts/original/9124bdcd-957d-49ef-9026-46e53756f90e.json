@@ -1,0 +1,57 @@
+{
+  "id": "9124bdcd-957d-49ef-9026-46e53756f90e",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.56,
+      "text": "選出されるのが一番良くない展開なんで",
+      "language": "ja"
+    },
+    {
+      "start": 3.56,
+      "end": 5.2,
+      "text": "そこを入れ替えに行った",
+      "language": "ja"
+    },
+    {
+      "start": 5.2,
+      "end": 9.92,
+      "text": "ネオの深めのフィットシェイ",
+      "language": "ja"
+    },
+    {
+      "start": 9.92,
+      "end": 11.02,
+      "text": "空前バギー",
+      "language": "ja"
+    },
+    {
+      "start": 11.02,
+      "end": 12.32,
+      "text": "そのまま空下",
+      "language": "ja"
+    },
+    {
+      "start": 12.32,
+      "end": 13.24,
+      "text": "おいおいおいおい",
+      "language": "ja"
+    }
+  ],
+  "full_text": "選出されるのが一番良くない展開なんで そこを入れ替えに行った ネオの深めのフィットシェイ 空前バギー そのまま空下 おいおいおいおい",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 3,
+      "original": "空中前バギー",
+      "corrected": "空前バギー",
+      "rule": "move abbreviation"
+    },
+    {
+      "segment_idx": 4,
+      "original": "空中した",
+      "corrected": "空下",
+      "rule": "move abbreviation"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "71ffcd4d-d32d-42e8-b96d-74c9c8835384",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.64,
+      "text": "自分の家を作ります",
+      "language": "ja"
+    },
+    {
+      "start": 1.64,
+      "end": 2.96,
+      "text": "上にずらしている",
+      "language": "ja"
+    },
+    {
+      "start": 2.96,
+      "end": 5.18,
+      "text": "追いかける昇竜拳",
+      "language": "ja"
+    },
+    {
+      "start": 5.18,
+      "end": 6.34,
+      "text": "ストック",
+      "language": "ja"
+    }
+  ],
+  "full_text": "自分の家を作ります 上にずらしている 追いかける昇竜拳 ストック",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "上尺ずらしている",
+      "corrected": "上にずらしている",
+      "rule": "Whisper kanji error"
+    }
+  ]
+}

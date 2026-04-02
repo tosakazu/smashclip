@@ -1,0 +1,26 @@
+{
+  "id": "9cbac216-1305-41a4-8abc-7a938007d19a",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.88,
+      "text": "青ピクミンとかHPが多いピクミンであっても",
+      "language": "ja"
+    },
+    {
+      "start": 2.88,
+      "end": 6.06,
+      "text": "一発当てた後に体力がなくなっても",
+      "language": "ja"
+    },
+    {
+      "start": 6.06,
+      "end": 6.24,
+      "text": "ついに",
+      "language": "ja"
+    }
+  ],
+  "full_text": "青ピクミンとかHPが多いピクミンであっても 一発当てた後に体力がなくなっても ついに",
+  "detected_language": "ja",
+  "corrections": []
+}

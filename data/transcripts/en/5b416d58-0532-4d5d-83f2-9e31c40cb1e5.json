@@ -1,0 +1,86 @@
+{
+  "id": "5b416d58-0532-4d5d-83f2-9e31c40cb1e5",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.78,
+      "text": "Damage is racking up!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ダメージが伸びるぞ"
+    },
+    {
+      "start": 0.78,
+      "end": 3.02,
+      "text": "Forward smash with forward smash punish!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "横スマッシュに横スマッシュのお仕置き"
+    },
+    {
+      "start": 3.02,
+      "end": 4.72,
+      "text": "Yamanakushion going for the real option!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ヤマナクション選手ここはマジレス"
+    },
+    {
+      "start": 4.72,
+      "end": 7.84,
+      "text": "Both around 110 percent",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "お互い110%ほど"
+    },
+    {
+      "start": 7.84,
+      "end": 9.44,
+      "text": "Yamanakushion",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ヤマナクション選手"
+    },
+    {
+      "start": 9.44,
+      "end": 10.98,
+      "text": "Stocks are plentiful",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "資材は潤沢にある"
+    },
+    {
+      "start": 10.98,
+      "end": 12.96,
+      "text": "Also ready for the next stock",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "次のストックのダイヤの準備もできている"
+    },
+    {
+      "start": 12.96,
+      "end": 14.6,
+      "text": "Back air!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここは空中後ろで"
+    }
+  ],
+  "full_text": "Damage is racking up! Forward smash with forward smash punish! Yamanakushion going for the real option! Both around 110 percent Yamanakushion Stocks are plentiful Also ready for the next stock Back air!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "山中翔選手",
+      "corrected": "ヤマナクション選手",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 4,
+      "original": "山中翔選手",
+      "corrected": "ヤマナクション選手",
+      "rule": "player name"
+    }
+  ]
+}

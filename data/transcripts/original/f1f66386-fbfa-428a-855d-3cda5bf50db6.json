@@ -1,0 +1,69 @@
+{
+  "id": "f1f66386-fbfa-428a-855d-3cda5bf50db6",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.64,
+      "text": "掴みの領域ここは投げで取れ",
+      "language": "ja"
+    },
+    {
+      "start": 2.64,
+      "end": 4.86,
+      "text": "無理やりリドルズ側崖上がっているのに",
+      "language": "ja"
+    },
+    {
+      "start": 4.86,
+      "end": 6.4,
+      "text": "めちゃめちゃ上手く上がっているの",
+      "language": "ja"
+    },
+    {
+      "start": 6.4,
+      "end": 8.16,
+      "text": "結構ね",
+      "language": "ja"
+    },
+    {
+      "start": 8.16,
+      "end": 11.24,
+      "text": "崖を返さずに",
+      "language": "ja"
+    },
+    {
+      "start": 11.24,
+      "end": 11.88,
+      "text": "行っているから",
+      "language": "ja"
+    },
+    {
+      "start": 11.88,
+      "end": 13.94,
+      "text": "狩られそうと思いながら全部狩られていない",
+      "language": "ja"
+    },
+    {
+      "start": 13.94,
+      "end": 15.76,
+      "text": "来たー",
+      "language": "ja"
+    }
+  ],
+  "full_text": "掴みの領域ここは投げで取れ 無理やりリドルズ側崖上がっているのに めちゃめちゃ上手く上がっているの 結構ね 崖を返さずに 行っているから 狩られそうと思いながら全部狩られていない 来たー",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "組合の領域",
+      "corrected": "掴みの領域",
+      "rule": "misheard: 組合→掴み"
+    },
+    {
+      "segment_idx": 6,
+      "original": "かられそう",
+      "corrected": "狩られそう",
+      "rule": "kanji"
+    }
+  ]
+}

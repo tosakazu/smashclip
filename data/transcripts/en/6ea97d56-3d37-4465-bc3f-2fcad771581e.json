@@ -1,0 +1,39 @@
+{
+  "id": "6ea97d56-3d37-4465-bc3f-2fcad771581e",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.8,
+      "text": "He's going airborne!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあ 飛ぶんだろうなぁ"
+    },
+    {
+      "start": 3.8,
+      "end": 6.78,
+      "text": "Up air catches the sweet spot, but no KO.",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあ空中上はスイートスポットに当たりますが まだ撃破しない"
+    },
+    {
+      "start": 6.78,
+      "end": 8.74,
+      "text": "Oh! Fair stops the jump!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "あっ 空前の持続当てジャンプを潰して"
+    }
+  ],
+  "full_text": "He's going airborne! Up air catches the sweet spot, but no KO. Oh! Fair stops the jump!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_index": 1,
+      "original": "さあ空中城はスイートスポットに当たりますが まだ撃破しない",
+      "corrected": "さあ空中上はスイートスポットに当たりますが まだ撃破しない"
+    }
+  ]
+}

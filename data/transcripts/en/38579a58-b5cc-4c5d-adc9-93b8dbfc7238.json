@@ -1,0 +1,56 @@
+{
+  "id": "38579a58-b5cc-4c5d-adc9-93b8dbfc7238",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.94,
+      "text": "Backing off, backing off—continues the momentum!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "下がって下がってターン継続を選択"
+    },
+    {
+      "start": 1.94,
+      "end": 6.4,
+      "text": "Tweety ramps up the pressure with the sweep into shield, but...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "回し蹴りからガードへの圧を高めていく鳥ちゃんだが"
+    },
+    {
+      "start": 6.4,
+      "end": 8.84,
+      "text": "Nice bair pushes them back!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空後うまく追い払う"
+    },
+    {
+      "start": 8.84,
+      "end": 10.56,
+      "text": "Connects—Shoryuken?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "効いて昇竜拳?"
+    },
+    {
+      "start": 11.38,
+      "end": 13.04,
+      "text": "Reads the jump!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "相手がジャンプしたところを見逃さない"
+    }
+  ],
+  "full_text": "Backing off, backing off—continues the momentum! Tweety ramps up the pressure with the sweep into shield, but... Nice bair pushes them back! Connects—Shoryuken? Reads the jump!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "空中後ろうまく",
+      "corrected": "空後うまく",
+      "rule": "空中後ろ→空後"
+    }
+  ]
+}

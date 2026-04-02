@@ -1,0 +1,26 @@
+{
+  "id": "338c1d5a-f5a4-4137-995a-b83abfd82964",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.46,
+      "text": "コンボにはならない",
+      "language": "ja"
+    },
+    {
+      "start": 3.46,
+      "end": 5.7,
+      "text": "スピンも",
+      "language": "ja"
+    },
+    {
+      "start": 5.7,
+      "end": 9.46,
+      "text": "ここはいい判断だ",
+      "language": "ja"
+    }
+  ],
+  "full_text": "コンボにはならない スピンも ここはいい判断だ",
+  "detected_language": "ja",
+  "corrections": []
+}

@@ -1,0 +1,68 @@
+{
+  "id": "7d1f0087-2a28-40f7-9666-ff0aba7546e5",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.5,
+      "text": "Connects with fair",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空前で触って"
+    },
+    {
+      "start": 1.5,
+      "end": 4.2,
+      "text": "Right there above the ledge",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "崖の上ここどうだ"
+    },
+    {
+      "start": 4.2,
+      "end": 6.52,
+      "text": "Parries the dair but",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空下にジャストシールドしかし"
+    },
+    {
+      "start": 6.52,
+      "end": 9.42,
+      "text": "Recovery is looking clean",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "復帰がお上手"
+    },
+    {
+      "start": 9.42,
+      "end": 10.64,
+      "text": "Doesn't quite work out",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "しかしせんら"
+    }
+  ],
+  "full_text": "Connects with fair Right there above the ledge Parries the dair but Recovery is looking clean Doesn't quite work out",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "空中城で触って",
+      "corrected": "空前で触って",
+      "rule": "misheard: 空中城→空前 (くうぜん)"
+    },
+    {
+      "segment_idx": 2,
+      "original": "空中下にジャストシールドしかめ",
+      "corrected": "空下にジャストシールドしかし",
+      "rule": "misheard: 空中下→空下, しかめ→しかし"
+    },
+    {
+      "segment_idx": 4,
+      "original": "戦乱",
+      "corrected": "せんら",
+      "rule": "player name: 戦乱→せんら"
+    }
+  ]
+}

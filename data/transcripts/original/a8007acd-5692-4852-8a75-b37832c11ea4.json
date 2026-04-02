@@ -1,0 +1,26 @@
+{
+  "id": "a8007acd-5692-4852-8a75-b37832c11ea4",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 7.12,
+      "text": "overcome but put that down smash gonna spice things up this is still very close i mean the",
+      "language": "en"
+    },
+    {
+      "start": 7.12,
+      "end": 12.08,
+      "text": "percents are almost even but when it comes to Game and Watch being as light as he is oh my god",
+      "language": "en"
+    }
+  ],
+  "full_text": "overcome but put that down smash gonna spice things up this is still very close i mean the percents are almost even but when it comes to Game and Watch being as light as he is oh my god",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "original": "game and watch",
+      "corrected": "Game and Watch",
+      "reason": "キャラクター名の表記統一"
+    }
+  ]
+}

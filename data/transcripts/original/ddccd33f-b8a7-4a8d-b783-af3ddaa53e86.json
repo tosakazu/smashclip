@@ -1,0 +1,51 @@
+{
+  "id": "ddccd33f-b8a7-4a8d-b783-af3ddaa53e86",
+  "segments": [
+    {
+      "start": 0.36,
+      "end": 2.88,
+      "text": "ここは後ろ回避がトロッコ当たってしまう",
+      "language": "ja"
+    },
+    {
+      "start": 2.88,
+      "end": 7.0,
+      "text": "横から上から安全に返ってくる",
+      "language": "ja"
+    },
+    {
+      "start": 7.0,
+      "end": 9.76,
+      "text": "素材使い果たした",
+      "language": "ja"
+    },
+    {
+      "start": 9.76,
+      "end": 12.28,
+      "text": "しかし下強からの上スマッシュ",
+      "language": "ja"
+    },
+    {
+      "start": 12.28,
+      "end": 12.62,
+      "text": "なるほど",
+      "language": "ja"
+    }
+  ],
+  "full_text": "ここは後ろ回避がトロッコ当たってしまう 横から上から安全に返ってくる 素材使い果たした しかし下強からの上スマッシュ なるほど",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "と使い果たした",
+      "corrected": "素材使い果たした",
+      "rule": "misheard word (Steve's materials)"
+    },
+    {
+      "segment_idx": 3,
+      "original": "下強化の上スマッシュ",
+      "corrected": "下強からの上スマッシュ",
+      "rule": "misheard word"
+    }
+  ]
+}

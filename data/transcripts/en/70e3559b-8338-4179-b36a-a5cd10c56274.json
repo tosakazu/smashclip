@@ -1,0 +1,47 @@
+{
+  "id": "70e3559b-8338-4179-b36a-a5cd10c56274",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.92,
+      "text": "Chain the nair into the down smash escape and we're gonna react from there",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空Nを繋いで下スマッシュ抜けたところを見てからでんこた反応していきます"
+    },
+    {
+      "start": 5.92,
+      "end": 9.3,
+      "text": "Alright, canceling from that position",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあ冬へキャンセルから"
+    },
+    {
+      "start": 9.3,
+      "end": 11.2,
+      "text": "Jump read",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ジャンプ読み"
+    },
+    {
+      "start": 11.2,
+      "end": 13.88,
+      "text": "String",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ひも"
+    }
+  ],
+  "full_text": "Chain the nair into the down smash escape and we're gonna react from there Alright, canceling from that position Jump read String",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_index": 0,
+      "original": "空を繋いで下スマッシュ抜けたところを見てから電光と反応していきます",
+      "corrected": "空Nを繋いで下スマッシュ抜けたところを見てからでんこた反応していきます"
+    }
+  ]
+}

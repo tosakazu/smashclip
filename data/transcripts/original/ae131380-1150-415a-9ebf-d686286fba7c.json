@@ -1,0 +1,57 @@
+{
+  "id": "ae131380-1150-415a-9ebf-d686286fba7c",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.5,
+      "text": "あの、崖上がりがやっぱめっちゃきついです",
+      "language": "ja"
+    },
+    {
+      "start": 2.5,
+      "end": 4.0,
+      "text": "崖上がりがやっぱり弱いっていうのも",
+      "language": "ja"
+    },
+    {
+      "start": 4.0,
+      "end": 5.0,
+      "text": "このキャラクターとしても",
+      "language": "ja"
+    },
+    {
+      "start": 5.0,
+      "end": 9.46,
+      "text": "なんか全部もう全体的にかなりケアされてるというか",
+      "language": "ja"
+    },
+    {
+      "start": 9.46,
+      "end": 10.8,
+      "text": "そうなんですよ",
+      "language": "ja"
+    }
+  ],
+  "full_text": "あの、崖上がりがやっぱめっちゃきついです 崖上がりがやっぱり弱いっていうのも このキャラクターとしても なんか全部もう全体的にかなりケアされてるというか そうなんですよ",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "崖上あたり",
+      "corrected": "崖上がり",
+      "rule": "smash term (崖上がり=ledge getup)"
+    },
+    {
+      "segment_idx": 1,
+      "original": "崖上が",
+      "corrected": "崖上がりが",
+      "rule": "smash term"
+    },
+    {
+      "segment_idx": 3,
+      "original": "ブレイブもトレも絶対的にかなり冷空されてる",
+      "corrected": "全部もう全体的にかなりケアされてる",
+      "rule": "mishearing (ケア=covered/accounted for)"
+    }
+  ]
+}

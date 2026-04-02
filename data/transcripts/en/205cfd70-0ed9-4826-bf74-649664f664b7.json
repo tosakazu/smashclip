@@ -1,0 +1,65 @@
+{
+  "id": "205cfd70-0ed9-4826-bf74-649664f664b7",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.12,
+      "text": "Backs up to reset spacing and fires the down smash!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "落ち込むがラインを入れ替えて下スマッシュ"
+    },
+    {
+      "start": 3.12,
+      "end": 3.78,
+      "text": "Just barely whiffs it!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ギリギリ当たらない"
+    },
+    {
+      "start": 3.78,
+      "end": 5.24,
+      "text": "Miya's hunting for the KO!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ミヤは撃墜を狙っている"
+    },
+    {
+      "start": 5.24,
+      "end": 8.14,
+      "text": "Even at only 68%!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "わずか68%であっても"
+    },
+    {
+      "start": 8.14,
+      "end": 11.06,
+      "text": "Tweek's looking desperate now",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "息苦しそうにしているのはツイークだろうと"
+    },
+    {
+      "start": 11.06,
+      "end": 13.72,
+      "text": "The goal's the guaranteed punish",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ゴールは確定反撃"
+    },
+    {
+      "start": 13.72,
+      "end": 17.36,
+      "text": "Forward tilt gets beat by the shield grab into banana!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "横強攻撃に対してバナナ持ちシールドで確定"
+    }
+  ],
+  "full_text": "Backs up to reset spacing and fires the down smash! Just barely whiffs it! Miya's hunting for the KO! Even at only 68%! Tweek's looking desperate now The goal's the guaranteed punish Forward tilt gets beat by the shield grab into banana!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

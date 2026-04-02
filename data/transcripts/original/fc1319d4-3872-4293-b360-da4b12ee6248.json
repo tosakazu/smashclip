@@ -1,0 +1,33 @@
+{
+  "id": "fc1319d4-3872-4293-b360-da4b12ee6248",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.84,
+      "text": "とりぃベレトは1ターン",
+      "language": "ja"
+    },
+    {
+      "start": 0.84,
+      "end": 8.12,
+      "text": "リードはとりぃベレトという場面で",
+      "language": "ja"
+    }
+  ],
+  "full_text": "とりぃベレトは1ターン リードはとりぃベレトという場面で",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "トリーベルト",
+      "corrected": "とりぃベレト",
+      "rule": "player name + character: とりぃ(Byleth=ベレト)"
+    },
+    {
+      "segment_idx": 1,
+      "original": "トリーベルト",
+      "corrected": "とりぃベレト",
+      "rule": "player name + character"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "id": "dd2552b6-5a97-4bb0-b9f2-6574be646336",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.78,
+      "text": "You have to respect Zelda's options",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ゼルダの技と向き合わなければならない"
+    },
+    {
+      "start": 1.78,
+      "end": 2.78,
+      "text": "But the lightning connects!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "しかし雷を当てた"
+    },
+    {
+      "start": 2.78,
+      "end": 3.52,
+      "text": "Gets through clean!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "よく通しました"
+    },
+    {
+      "start": 3.52,
+      "end": 4.54,
+      "text": "Lands it beautifully!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "綺麗に決めました"
+    },
+    {
+      "start": 4.54,
+      "end": 5.96,
+      "text": "Wow!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "うわー"
+    }
+  ],
+  "full_text": "You have to respect Zelda's options But the lightning connects! Gets through clean! Lands it beautifully! Wow!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "わざと",
+      "corrected": "技と",
+      "rule": "misheard word"
+    },
+    {
+      "segment_idx": 3,
+      "original": "こんなに決めました",
+      "corrected": "綺麗に決めました",
+      "rule": "misheard word"
+    }
+  ]
+}

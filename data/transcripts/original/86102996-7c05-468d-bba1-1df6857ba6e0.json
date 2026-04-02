@@ -1,0 +1,33 @@
+{
+  "id": "86102996-7c05-468d-bba1-1df6857ba6e0",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.76,
+      "text": "やっとした一面",
+      "language": "ja"
+    },
+    {
+      "start": 0.76,
+      "end": 3.6,
+      "text": "横Bで見せていって",
+      "language": "ja"
+    },
+    {
+      "start": 3.6,
+      "end": 7.16,
+      "text": "空後がきつい",
+      "language": "ja"
+    }
+  ],
+  "full_text": "やっとした一面 横Bで見せていって 空後がきつい",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "空中ショレがきつい",
+      "corrected": "空後がきつい",
+      "rule": "move name (空中ショレ→空後)"
+    }
+  ]
+}

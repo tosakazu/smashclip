@@ -1,0 +1,39 @@
+{
+  "id": "1baf19d6-ba08-4a97-9389-cb00832e2a15",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.06,
+      "text": "ここ一番で回避を通す",
+      "language": "ja"
+    },
+    {
+      "start": 3.06,
+      "end": 5.48,
+      "text": "読み合いの魔術師",
+      "language": "ja"
+    },
+    {
+      "start": 5.48,
+      "end": 11.3,
+      "text": "タメルが装填されました",
+      "language": "ja"
+    },
+    {
+      "start": 11.3,
+      "end": 12.2,
+      "text": "後ろ投げで撃墜",
+      "language": "ja"
+    }
+  ],
+  "full_text": "ここ一番で回避を通す 読み合いの魔術師 タメルが装填されました 後ろ投げで撃墜",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 3,
+      "original": "後ろ投げで撃つ",
+      "corrected": "後ろ投げで撃墜",
+      "rule": "Whisper truncation: 撃つ→撃墜"
+    }
+  ]
+}

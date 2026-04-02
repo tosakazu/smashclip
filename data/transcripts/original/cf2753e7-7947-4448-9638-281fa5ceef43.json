@@ -1,0 +1,45 @@
+{
+  "id": "cf2753e7-7947-4448-9638-281fa5ceef43",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.16,
+      "text": "後ろつなぎ切った",
+      "language": "ja"
+    },
+    {
+      "start": 1.16,
+      "end": 3.28,
+      "text": "ポンポンからこいつだって最大限",
+      "language": "ja"
+    },
+    {
+      "start": 3.28,
+      "end": 5.58,
+      "text": "着地がリリースしたスマッシュ",
+      "language": "ja"
+    },
+    {
+      "start": 5.58,
+      "end": 6.66,
+      "text": "発生保証がある",
+      "language": "ja"
+    },
+    {
+      "start": 6.66,
+      "end": 8.38,
+      "text": "無敵を貫通していきました",
+      "language": "ja"
+    }
+  ],
+  "full_text": "後ろつなぎ切った ポンポンからこいつだって最大限 着地がリリースしたスマッシュ 発生保証がある 無敵を貫通していきました",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 3,
+      "original": "発射保証",
+      "corrected": "発生保証",
+      "rule": "smash term (発生=startup frames)"
+    }
+  ]
+}

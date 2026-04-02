@@ -1,0 +1,41 @@
+{
+  "id": "144769aa-3bb2-4a3f-9b8e-e19270c75356",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.4,
+      "text": "Tree's solid!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "木を生やして大丈夫"
+    },
+    {
+      "start": 2.4,
+      "end": 4.5,
+      "text": "Whoa! Axe is locked!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "おーっと待ち構えるわ斧"
+    },
+    {
+      "start": 4.5,
+      "end": 6.12,
+      "text": "Let's go!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いきます"
+    },
+    {
+      "start": 6.12,
+      "end": 7.1,
+      "text": "Whoa!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "おーっと"
+    }
+  ],
+  "full_text": "Tree's solid! Whoa! Axe is locked! Let's go! Whoa!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

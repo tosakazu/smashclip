@@ -1,0 +1,24 @@
+{
+  "id": "4a952e1e-5733-459c-b3ee-fadef66ff70a",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 12.24,
+      "text": "Reading the escape! Finishing with the fair!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "この逃げ先を読んでいる決め空前"
+    }
+  ],
+  "full_text": "Reading the escape! Finishing with the fair!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "ケシマエ",
+      "corrected": "決め空前",
+      "rule": "move abbreviation"
+    }
+  ]
+}

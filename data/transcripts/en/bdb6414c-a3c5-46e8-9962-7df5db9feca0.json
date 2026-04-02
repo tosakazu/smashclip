@@ -1,0 +1,48 @@
+{
+  "id": "bdb6414c-a3c5-46e8-9962-7df5db9feca0",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.18,
+      "text": "Forward tilt just barely whiffs!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "とって横強ギリギリ届かず"
+    },
+    {
+      "start": 2.18,
+      "end": 4.6,
+      "text": "Doctor lands the punch!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ドクターグーパンチ"
+    },
+    {
+      "start": 4.6,
+      "end": 7.26,
+      "text": "One-reads are right up their alley!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "1点読みならお手の物が"
+    },
+    {
+      "start": 7.26,
+      "end": 9.5,
+      "text": "Moving in on the ledge trap setup!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "崖狩り狙っているところに行く"
+    }
+  ],
+  "full_text": "Forward tilt just barely whiffs! Doctor lands the punch! One-reads are right up their alley! Moving in on the ledge trap setup!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 3,
+      "original": "がけがり",
+      "corrected": "崖狩り",
+      "rule": "smash term"
+    }
+  ]
+}

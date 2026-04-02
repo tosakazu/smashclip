@@ -1,0 +1,33 @@
+{
+  "id": "6ef75b5d-47d0-4c20-aee9-653a3e43b689",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.02,
+      "text": "Yeah, even mid-combo somehow their stock can still get taken!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いやコンボ中でもなぜか自分の命が刈り取られる可能性があるっていうね"
+    },
+    {
+      "start": 5.02,
+      "end": 7.64,
+      "text": "Yeah, we've been seeing that all match",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さっきからそれがね見受けられるんで"
+    },
+    {
+      "start": 7.64,
+      "end": 8.5,
+      "text": "There it is!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "今度は出たー"
+    }
+  ],
+  "full_text": "Yeah, even mid-combo somehow their stock can still get taken! Yeah, we've been seeing that all match There it is!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

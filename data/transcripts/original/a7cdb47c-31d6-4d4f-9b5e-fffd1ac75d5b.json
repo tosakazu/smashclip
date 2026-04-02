@@ -1,0 +1,26 @@
+{
+  "id": "a7cdb47c-31d6-4d4f-9b5e-fffd1ac75d5b",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.66,
+      "text": "空中後ろを見せる",
+      "language": "ja"
+    },
+    {
+      "start": 1.66,
+      "end": 2.44,
+      "text": "避けたね",
+      "language": "ja"
+    },
+    {
+      "start": 2.44,
+      "end": 4.04,
+      "text": "ただここは少し",
+      "language": "ja"
+    }
+  ],
+  "full_text": "空中後ろを見せる 避けたね ただここは少し",
+  "detected_language": "ja",
+  "corrections": []
+}

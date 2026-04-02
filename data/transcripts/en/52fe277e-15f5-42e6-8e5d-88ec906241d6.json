@@ -1,0 +1,26 @@
+{
+  "id": "52fe277e-15f5-42e6-8e5d-88ec906241d6",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.62,
+      "text": "Oh my god, I'm gonna kill!",
+      "language": "en"
+    },
+    {
+      "start": 2.04,
+      "end": 2.98,
+      "text": "Oh, that was close.",
+      "language": "en"
+    },
+    {
+      "start": 3.68,
+      "end": 4.78,
+      "text": "Oh, that's it though!",
+      "language": "en"
+    }
+  ],
+  "full_text": "Oh my god, I'm gonna kill! Oh, that was close. Oh, that's it though!",
+  "detected_language": "en",
+  "corrections": []
+}

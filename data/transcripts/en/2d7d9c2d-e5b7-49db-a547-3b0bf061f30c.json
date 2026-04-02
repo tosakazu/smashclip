@@ -1,0 +1,40 @@
+{
+  "id": "2d7d9c2d-e5b7-49db-a547-3b0bf061f30c",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.7,
+      "text": "Wolf's mashing, caught by Giga Fire!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "暴れウルフレ、ギガファイア引っかかって"
+    },
+    {
+      "start": 1.7,
+      "end": 3.64,
+      "text": "Resiarch didn't land!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "リザイアは当たりませんでしたが"
+    },
+    {
+      "start": 3.64,
+      "end": 5.68,
+      "text": "Forward tilt, that's Kazuhito's line!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここは横強攻撃、カズヒト選手ライン"
+    }
+  ],
+  "full_text": "Wolf's mashing, caught by Giga Fire! Resiarch didn't land! Forward tilt, that's Kazuhito's line!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "カザヒト",
+      "corrected": "カズヒト",
+      "rule": "player name"
+    }
+  ]
+}

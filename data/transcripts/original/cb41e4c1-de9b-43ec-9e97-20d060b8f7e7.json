@@ -1,0 +1,26 @@
+{
+  "id": "cb41e4c1-de9b-43ec-9e97-20d060b8f7e7",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.06,
+      "text": "これもちょっと鬱陶しい",
+      "language": "ja"
+    },
+    {
+      "start": 2.06,
+      "end": 3.84,
+      "text": "さあ紫ピクミン",
+      "language": "ja"
+    },
+    {
+      "start": 3.84,
+      "end": 5.12,
+      "text": "空中後ろ",
+      "language": "ja"
+    }
+  ],
+  "full_text": "これもちょっと鬱陶しい さあ紫ピクミン 空中後ろ",
+  "detected_language": "ja",
+  "corrections": []
+}

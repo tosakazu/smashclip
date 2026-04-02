@@ -1,0 +1,114 @@
+{
+  "id": "2d8722ca-f262-4cc4-a42c-d5d9a2604efa",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.54,
+      "text": "Trying to wrap this up right here!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "なんとかここですとこいつでしまいたい"
+    },
+    {
+      "start": 1.54,
+      "end": 2.12,
+      "text": "bair",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空後"
+    },
+    {
+      "start": 2.12,
+      "end": 3.9,
+      "text": "Boss's",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ボスの"
+    },
+    {
+      "start": 3.9,
+      "end": 6.46,
+      "text": "He had fast projectiles, but...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "射撃が早いボスだったが"
+    },
+    {
+      "start": 6.46,
+      "end": 7.74,
+      "text": "Kawasan Purin",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "かわさんプリン"
+    },
+    {
+      "start": 7.74,
+      "end": 8.6,
+      "text": "Reading it!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "察知していました"
+    },
+    {
+      "start": 8.6,
+      "end": 11.5,
+      "text": "Bounced him!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "浮きを弾いて"
+    },
+    {
+      "start": 11.5,
+      "end": 12.28,
+      "text": "Kawasan, so good!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "かわさん上手い"
+    },
+    {
+      "start": 12.28,
+      "end": 12.72,
+      "text": "Snake",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "スネーク"
+    },
+    {
+      "start": 12.72,
+      "end": 14.46,
+      "text": "That's a trick shot!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "まさにトリックショット"
+    }
+  ],
+  "full_text": "Trying to wrap this up right here! bair Boss's He had fast projectiles, but... Kawasan Purin Reading it! Bounced him! Kawasan, so good! Snake That's a trick shot!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "空中しろ",
+      "corrected": "空後",
+      "rule": "move name normalization"
+    },
+    {
+      "segment_idx": 4,
+      "original": "カンサフリン",
+      "corrected": "かわさんプリン",
+      "rule": "Whisper misrecognition"
+    },
+    {
+      "segment_idx": 6,
+      "original": "上気を弾いて",
+      "corrected": "浮きを弾いて",
+      "rule": "Whisper misrecognition"
+    },
+    {
+      "segment_idx": 7,
+      "original": "カン上手い",
+      "corrected": "かわさん上手い",
+      "rule": "Whisper misrecognition"
+    }
+  ]
+}

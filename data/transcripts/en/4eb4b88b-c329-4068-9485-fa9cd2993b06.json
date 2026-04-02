@@ -1,0 +1,33 @@
+{
+  "id": "4eb4b88b-c329-4068-9485-fa9cd2993b06",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.54,
+      "text": "I wonder if Light was maybe a nice little stall there, over-respecting Raru a bit,",
+      "language": "en"
+    },
+    {
+      "start": 4.6,
+      "end": 9.76,
+      "text": "because he almost always goes for the jab reset on default, and then reacts to tech options.",
+      "language": "en"
+    },
+    {
+      "start": 10.22,
+      "end": 13.0,
+      "text": "Yeah, a little surprising, but still though, just...",
+      "language": "en"
+    }
+  ],
+  "full_text": "I wonder if Light was maybe a nice little stall there, over-respecting Raru a bit, because he almost always goes for the jab reset on default, and then reacts to tech options. Yeah, a little surprising, but still though, just...",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "Rauru",
+      "corrected": "Raru",
+      "rule": "player name"
+    }
+  ]
+}

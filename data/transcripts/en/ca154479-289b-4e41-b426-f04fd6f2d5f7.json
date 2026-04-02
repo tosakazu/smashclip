@@ -1,0 +1,39 @@
+{
+  "id": "ca154479-289b-4e41-b426-f04fd6f2d5f7",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.54,
+      "text": "Back down still though Gachipi now at 121 percent here 131",
+      "language": "en"
+    },
+    {
+      "start": 4.12,
+      "end": 7.56,
+      "text": "Nice angle though, but gonna get punished by MKLeo with a back throw",
+      "language": "en"
+    },
+    {
+      "start": 7.9,
+      "end": 14.22,
+      "text": "Yeah, and I can always hold on to these stocks so well Gachipi's survivability is so good, but that back air",
+      "language": "en"
+    }
+  ],
+  "full_text": "Back down still though Gachipi now at 121 percent here 131 Nice angle though, but gonna get punished by MKLeo with a back throw Yeah, and I can always hold on to these stocks so well Gachipi's survivability is so good, but that back air",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "got to be",
+      "corrected": "Gachipi",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 2,
+      "original": "got you be his",
+      "corrected": "Gachipi's",
+      "rule": "player name"
+    }
+  ]
+}

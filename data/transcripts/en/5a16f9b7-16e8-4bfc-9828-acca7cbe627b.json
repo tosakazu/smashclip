@@ -1,0 +1,73 @@
+{
+  "id": "5a16f9b7-16e8-4bfc-9828-acca7cbe627b",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.8,
+      "text": "That smash is so clean!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "スマッシュが丁寧です"
+    },
+    {
+      "start": 0.8,
+      "end": 1.86,
+      "text": "Forward smash",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "横スマッシュ"
+    },
+    {
+      "start": 1.86,
+      "end": 4.2,
+      "text": "Wants to risk it here, but...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これにはリスクをつけたいが"
+    },
+    {
+      "start": 4.2,
+      "end": 5.44,
+      "text": "After confirming...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "確認をして"
+    },
+    {
+      "start": 5.44,
+      "end": 7.22,
+      "text": "because spacing is everything",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "避けることが大事だからこそ"
+    },
+    {
+      "start": 7.22,
+      "end": 8.54,
+      "text": "it's tough to react",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "反応するのは少し難しい"
+    },
+    {
+      "start": 8.54,
+      "end": 10.18,
+      "text": "Dodged that beautifully!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "今度もうまく避けた"
+    },
+    {
+      "start": 10.18,
+      "end": 11.52,
+      "text": "Go for it!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "飛び込んでけ"
+    }
+  ],
+  "full_text": "That smash is so clean! Forward smash Wants to risk it here, but... After confirming... because spacing is everything it's tough to react Dodged that beautifully! Go for it!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

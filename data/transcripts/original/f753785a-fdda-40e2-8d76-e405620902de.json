@@ -1,0 +1,69 @@
+{
+  "id": "f753785a-fdda-40e2-8d76-e405620902de",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.36,
+      "text": "どう戻る? 空後?",
+      "language": "ja"
+    },
+    {
+      "start": 1.6,
+      "end": 3.6,
+      "text": "今度は台上受け身の形ですが",
+      "language": "ja"
+    },
+    {
+      "start": 3.6,
+      "end": 5.48,
+      "text": "撃墜力で上回ったトロッコ",
+      "language": "ja"
+    },
+    {
+      "start": 5.48,
+      "end": 7.48,
+      "text": "あcolaの一撃がらるのストックを落とした",
+      "language": "ja"
+    },
+    {
+      "start": 7.48,
+      "end": 8.44,
+      "text": "早すぎるだろ!",
+      "language": "ja"
+    },
+    {
+      "start": 8.56,
+      "end": 8.92,
+      "text": "スマッシュ!",
+      "language": "ja"
+    },
+    {
+      "start": 9.1,
+      "end": 9.52,
+      "text": "アッパ!",
+      "language": "ja"
+    }
+  ],
+  "full_text": "どう戻る? 空後? 今度は台上受け身の形ですが 撃墜力で上回ったトロッコ あcolaの一撃がらるのストックを落とした 早すぎるだろ! スマッシュ! アッパ!",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "空中しろ",
+      "corrected": "空後",
+      "rule": "misheard: 空中しろ→空後"
+    },
+    {
+      "segment_idx": 1,
+      "original": "見た見分けの形",
+      "corrected": "台上受け身の形",
+      "rule": "misheard"
+    },
+    {
+      "segment_idx": 3,
+      "original": "アコーラの一撃がラルノッコを落とした",
+      "corrected": "あcolaの一撃がらるのストックを落とした",
+      "rule": "player name: アコーラ→あcola, ラルノッコ→らるのストック"
+    }
+  ]
+}

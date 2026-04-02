@@ -1,0 +1,57 @@
+{
+  "id": "191bdd95-c113-4c84-ba96-b692408646ed",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.72,
+      "text": "で、旋風の嵐",
+      "language": "ja"
+    },
+    {
+      "start": 1.72,
+      "end": 8.56,
+      "text": "閃光烈拳でなんとか崖外に追い出しますが",
+      "language": "ja"
+    },
+    {
+      "start": 8.56,
+      "end": 9.58,
+      "text": "まだ撃墜には至らない",
+      "language": "ja"
+    },
+    {
+      "start": 9.58,
+      "end": 11.68,
+      "text": "上必殺技、果敢なデビルウィンクですが",
+      "language": "ja"
+    },
+    {
+      "start": 11.68,
+      "end": 12.34,
+      "text": "これもかわされて",
+      "language": "ja"
+    }
+  ],
+  "full_text": "で、旋風の嵐 閃光烈拳でなんとか崖外に追い出しますが まだ撃墜には至らない 上必殺技、果敢なデビルウィンクですが これもかわされて",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "で、神戦風の嵐",
+      "corrected": "で、旋風の嵐",
+      "rule": "Kanji homophone: 神戦風→旋風"
+    },
+    {
+      "segment_idx": 1,
+      "original": "駆け外に追い出しますが",
+      "corrected": "崖外に追い出しますが",
+      "rule": "Kanji homophone: 駆け外→崖外"
+    },
+    {
+      "segment_idx": 2,
+      "original": "まだ激戦には至らない",
+      "corrected": "まだ撃墜には至らない",
+      "rule": "Kanji homophone: 激戦→撃墜"
+    }
+  ]
+}

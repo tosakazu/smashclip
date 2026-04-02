@@ -1,0 +1,62 @@
+{
+  "id": "b14115c6-5731-46b3-b112-6840e78c9296",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.22,
+      "text": "Now the gap is too great!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあ、遠く及ばない状況"
+    },
+    {
+      "start": 2.22,
+      "end": 4.1,
+      "text": "The damage difference keeps widening!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "火力差が開く開く"
+    },
+    {
+      "start": 4.1,
+      "end": 5.64,
+      "text": "105%",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "105%"
+    },
+    {
+      "start": 5.64,
+      "end": 7.72,
+      "text": "KOs are starting to look scary!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そろそろ、撃墜が怖くなる"
+    },
+    {
+      "start": 7.72,
+      "end": 8.98,
+      "text": "up smash",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "上スマ"
+    }
+  ],
+  "full_text": "Now the gap is too great! The damage difference keeps widening! 105% KOs are starting to look scary! up smash",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "火力が、開く開く",
+      "corrected": "火力差が開く開く",
+      "rule": "missing word"
+    },
+    {
+      "segment_idx": 4,
+      "original": "クエスマ",
+      "corrected": "上スマ",
+      "rule": "move name (上スマ)"
+    }
+  ]
+}

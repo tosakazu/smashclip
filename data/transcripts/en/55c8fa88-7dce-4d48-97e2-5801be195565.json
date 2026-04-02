@@ -1,0 +1,48 @@
+{
+  "id": "55c8fa88-7dce-4d48-97e2-5801be195565",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.12,
+      "text": "For JINJIN, they wanted to eat that wind at full percent...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "JINJIN選手としてはこのままで風を100%食べて"
+    },
+    {
+      "start": 3.12,
+      "end": 6.66,
+      "text": "The ideal plan was reaching the KO with wings still up, but...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "羽がある状態で撃墜までねっていうところが理想のプランであったんですが"
+    },
+    {
+      "start": 6.66,
+      "end": 8.76,
+      "text": "Now here they're without the wings...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあここね羽なしで"
+    },
+    {
+      "start": 8.76,
+      "end": 10.74,
+      "text": "And they got KO'd.",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "撃墜しちゃった"
+    }
+  ],
+  "full_text": "For JINJIN, they wanted to eat that wind at full percent... The ideal plan was reaching the KO with wings still up, but... Now here they're without the wings... And they got KO'd.",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "新人選手としては",
+      "corrected": "JINJIN選手としては",
+      "rule": "player name (じんじん→新人 Whisper error)"
+    }
+  ]
+}

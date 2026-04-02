@@ -1,0 +1,21 @@
+{
+  "id": "08f7be13-994d-46bf-95c1-3c094ec062f9",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.84,
+      "text": "空Nさあ155%モナドスマッシュに変えて空前の…いやーキルです",
+      "language": "ja"
+    }
+  ],
+  "full_text": "空Nさあ155%モナドスマッシュに変えて空前の…いやーキルです",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "空中ニュートラルさあ155%モーナードスマッシュに変えて空中前のイヤーキルデキス",
+      "corrected": "空Nさあ155%モナドスマッシュに変えて空前の…いやーキルです",
+      "rule": "Move/terminology correction (空中ニュートラル→空N, モーナード→モナド, 空中前→空前, イヤーキルデキス→いやーキルです)"
+    }
+  ]
+}

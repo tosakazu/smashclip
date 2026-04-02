@@ -1,0 +1,45 @@
+{
+  "id": "5c91bd9d-3df2-4be8-a6d7-d4dd407d7090",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.06,
+      "text": "でも非常に優秀な空Nですが",
+      "language": "ja"
+    },
+    {
+      "start": 3.06,
+      "end": 3.52,
+      "text": "ザ・シュトラ",
+      "language": "ja"
+    },
+    {
+      "start": 3.52,
+      "end": 4.46,
+      "text": "反転!",
+      "language": "ja"
+    },
+    {
+      "start": 4.46,
+      "end": 5.24,
+      "text": "カミナリ!",
+      "language": "ja"
+    }
+  ],
+  "full_text": "でも非常に優秀な空Nですが ザ・シュトラ 反転! カミナリ!",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "空襲メダルですが",
+      "corrected": "空Nですが",
+      "rule": "move abbreviation"
+    },
+    {
+      "segment_idx": 3,
+      "original": "カミノリ",
+      "corrected": "カミナリ",
+      "rule": "misheard word"
+    }
+  ]
+}

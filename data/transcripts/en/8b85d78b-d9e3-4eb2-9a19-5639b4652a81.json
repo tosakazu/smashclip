@@ -1,0 +1,68 @@
+{
+  "id": "8b85d78b-d9e3-4eb2-9a19-5639b4652a81",
+  "segments": [
+    {
+      "start": 0.16,
+      "end": 1.88,
+      "text": "Building damage on Steve, though",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "スティーブのダメージを稼いでいくんですが"
+    },
+    {
+      "start": 1.88,
+      "end": 3.58,
+      "text": "The minecart pushes through here",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここはトロッコが通ってしまう"
+    },
+    {
+      "start": 3.58,
+      "end": 5.44,
+      "text": "With only one iron",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "1個しかない鉄だからこその"
+    },
+    {
+      "start": 5.44,
+      "end": 7.24,
+      "text": "Landing a strike outside range",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "射程の外側を突いた一撃"
+    },
+    {
+      "start": 7.24,
+      "end": 12.86,
+      "text": "Yamanaction's wall-less approach",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあヤマナクション選手壁を立てない立ち回りで"
+    },
+    {
+      "start": 12.86,
+      "end": 13.7,
+      "text": "Overpowering, but",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "圧倒してみせるが"
+    },
+    {
+      "start": 13.7,
+      "end": 14.78,
+      "text": "Up B!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここは上必殺技"
+    }
+  ],
+  "full_text": "Building damage on Steve, though The minecart pushes through here With only one iron Landing a strike outside range Yamanaction's wall-less approach Overpowering, but Up B!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    "真理→射程 (range, kanji homophone しんり→しゃてい... actually 射程 is shatei. Context correction for Smash meaning)",
+    "山中翔→ヤマナクション (player name from metadata)"
+  ]
+}

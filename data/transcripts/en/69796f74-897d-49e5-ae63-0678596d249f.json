@@ -1,0 +1,63 @@
+{
+  "id": "69796f74-897d-49e5-ae63-0678596d249f",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.16,
+      "text": "to the ledge while having that hitbox combo from the leg as well.",
+      "language": "en"
+    },
+    {
+      "start": 5.18,
+      "end": 6.0,
+      "text": "Okay, beautiful bair.",
+      "language": "en"
+    },
+    {
+      "start": 7.24,
+      "end": 8.18,
+      "text": "The weight to go down.",
+      "language": "en"
+    },
+    {
+      "start": 8.68,
+      "end": 9.5,
+      "text": "The recovery.",
+      "language": "en"
+    },
+    {
+      "start": 10.04,
+      "end": 11.34,
+      "text": "Ooh, the counter as well.",
+      "language": "en"
+    },
+    {
+      "start": 11.46,
+      "end": 13.28,
+      "text": "That should be it.",
+      "language": "en"
+    },
+    {
+      "start": 13.96,
+      "end": 15.5,
+      "text": "Leo not going to be able to make it back.",
+      "language": "en"
+    }
+  ],
+  "full_text": "to the ledge while having that hitbox combo from the leg as well. Okay, beautiful bair. The weight to go down. The recovery. Ooh, the counter as well. That should be it. Leo not going to be able to make it back.",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "hip-box",
+      "corrected": "hitbox",
+      "rule": "Whisper mishearing"
+    },
+    {
+      "segment_idx": 1,
+      "original": "bear",
+      "corrected": "bair",
+      "rule": "Smash term (back air)"
+    }
+  ]
+}

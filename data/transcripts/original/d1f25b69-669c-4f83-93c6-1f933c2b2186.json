@@ -1,0 +1,45 @@
+{
+  "id": "d1f25b69-669c-4f83-93c6-1f933c2b2186",
+  "segments": [
+    {
+      "start": 0.98,
+      "end": 2.58,
+      "text": "崖に捕まったドクターマリオ",
+      "language": "ja"
+    },
+    {
+      "start": 2.58,
+      "end": 4.16,
+      "text": "潰すと深くまで来るが",
+      "language": "ja"
+    },
+    {
+      "start": 4.16,
+      "end": 6.16,
+      "text": "お互い崖掴んだって",
+      "language": "ja"
+    },
+    {
+      "start": 6.16,
+      "end": 7.64,
+      "text": "これはさすがにそうですね",
+      "language": "ja"
+    },
+    {
+      "start": 7.64,
+      "end": 10.68,
+      "text": "攻撃起き上がり見て冷静に",
+      "language": "ja"
+    }
+  ],
+  "full_text": "崖に捕まったドクターマリオ 潰すと深くまで来るが お互い崖掴んだって これはさすがにそうですね 攻撃起き上がり見て冷静に",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 4,
+      "original": "攻撃気分かり見て",
+      "corrected": "攻撃起き上がり見て",
+      "rule": "smash term (気分かり→起き上がり, ledge getup attack)"
+    }
+  ]
+}

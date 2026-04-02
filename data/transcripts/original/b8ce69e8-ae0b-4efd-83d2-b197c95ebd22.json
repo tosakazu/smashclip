@@ -1,0 +1,63 @@
+{
+  "id": "b8ce69e8-ae0b-4efd-83d2-b197c95ebd22",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.86,
+      "text": "持ってるから一旦わからなくなるラインが入れ替わって",
+      "language": "ja"
+    },
+    {
+      "start": 3.86,
+      "end": 5.3,
+      "text": "危ないー!",
+      "language": "ja"
+    },
+    {
+      "start": 5.3,
+      "end": 7.82,
+      "text": "持ったけどさすがに大丈夫だったが次はない",
+      "language": "ja"
+    },
+    {
+      "start": 7.82,
+      "end": 8.84,
+      "text": "次はないぞこれ",
+      "language": "ja"
+    },
+    {
+      "start": 8.84,
+      "end": 10.22,
+      "text": "ピチューの復帰力であれば",
+      "language": "ja"
+    },
+    {
+      "start": 10.22,
+      "end": 12.9,
+      "text": "おー!うますぎる",
+      "language": "ja"
+    },
+    {
+      "start": 12.9,
+      "end": 14.06,
+      "text": "顔色一つ",
+      "language": "ja"
+    },
+    {
+      "start": 14.06,
+      "end": 14.4,
+      "text": "すげー",
+      "language": "ja"
+    }
+  ],
+  "full_text": "持ってるから一旦わからなくなるラインが入れ替わって 危ないー! 持ったけどさすがに大丈夫だったが次はない 次はないぞこれ ピチューの復帰力であれば おー!うますぎる 顔色一つ すげー",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 4,
+      "original": "ピッチの復帰力",
+      "corrected": "ピチューの復帰力",
+      "rule": "kanji homophone"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "8553887b-f1c2-42ef-9b24-9a0fc3a07217",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 8.16,
+      "text": "79%84%刻一刻とパーセントは溜まっていきますがこの下スマッシュまだ耐える",
+      "language": "ja"
+    },
+    {
+      "start": 8.16,
+      "end": 12.2,
+      "text": "108.0%プリンにとってはもうデッドゾーンでしょう",
+      "language": "ja"
+    },
+    {
+      "start": 12.2,
+      "end": 22.56,
+      "text": "ライン回復を許さない122.6%125.7%パーセントが溜まるジャンプ",
+      "language": "ja"
+    }
+  ],
+  "full_text": "79%84%刻一刻とパーセントは溜まっていきますがこの下スマッシュまだ耐える 108.0%プリンにとってはもうデッドゾーンでしょう ライン回復を許さない122.6%125.7%パーセントが溜まるジャンプ",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "速1179%84%コク1コクと",
+      "corrected": "79%84%刻一刻と",
+      "rule": "misheard word (コク1コク→刻一刻)"
+    },
+    {
+      "segment_idx": 1,
+      "original": "ブリン",
+      "corrected": "プリン",
+      "rule": "character name (ブリン→プリン/Jigglypuff)"
+    }
+  ]
+}

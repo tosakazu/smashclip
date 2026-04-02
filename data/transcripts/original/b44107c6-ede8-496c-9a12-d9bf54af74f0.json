@@ -1,0 +1,51 @@
+{
+  "id": "b44107c6-ede8-496c-9a12-d9bf54af74f0",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.4,
+      "text": "強気のダッシュ掴みををシールドでいなしてから冷静に反撃",
+      "language": "ja"
+    },
+    {
+      "start": 3.4,
+      "end": 6.86,
+      "text": "ジャック一段から止めて回避を呼んでいるが",
+      "language": "ja"
+    },
+    {
+      "start": 6.86,
+      "end": 9.06,
+      "text": "引き間合いで付き合わない",
+      "language": "ja"
+    },
+    {
+      "start": 9.06,
+      "end": 10.82,
+      "text": "おっと",
+      "language": "ja"
+    },
+    {
+      "start": 10.82,
+      "end": 11.36,
+      "text": "くー",
+      "language": "ja"
+    }
+  ],
+  "full_text": "強気のダッシュ掴みををシールドでいなしてから冷静に反撃 ジャック一段から止めて回避を呼んでいるが 引き間合いで付き合わない おっと くー",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "チャンピオンのタクモ",
+      "corrected": "ダッシュ掴みを",
+      "rule": "misheard word"
+    },
+    {
+      "segment_idx": 2,
+      "original": "映画音で付き合わない",
+      "corrected": "引き間合いで付き合わない",
+      "rule": "misheard word"
+    }
+  ]
+}

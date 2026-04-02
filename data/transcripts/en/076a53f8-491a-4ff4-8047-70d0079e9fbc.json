@@ -1,0 +1,27 @@
+{
+  "id": "076a53f8-491a-4ff4-8047-70d0079e9fbc",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.0,
+      "text": "If they try to interact with you early on, that up smash has so much priority, right?",
+      "language": "en"
+    },
+    {
+      "start": 4.02,
+      "end": 9.16,
+      "text": "It's so much range, so it's a great tool to shoot out there, and honestly, it's everything but them.",
+      "language": "en"
+    }
+  ],
+  "full_text": "If they try to interact with you early on, that up smash has so much priority, right? It's so much range, so it's a great tool to shoot out there, and honestly, it's everything but them.",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "If they try to interact with you early on, that upstairs has so much priority, right?",
+      "corrected": "If they try to interact with you early on, that up smash has so much priority, right?",
+      "rule": "Move name correction (upstairs → up smash)"
+    }
+  ]
+}

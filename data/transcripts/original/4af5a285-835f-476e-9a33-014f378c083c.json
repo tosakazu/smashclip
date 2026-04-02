@@ -1,0 +1,39 @@
+{
+  "id": "4af5a285-835f-476e-9a33-014f378c083c",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.62,
+      "text": "ダイヤにね到達したいところではあるんですけれども",
+      "language": "ja"
+    },
+    {
+      "start": 3.62,
+      "end": 8.06,
+      "text": "このね少しでも隙を見せるとマイルドなH.Oに",
+      "language": "ja"
+    },
+    {
+      "start": 8.06,
+      "end": 9.66,
+      "text": "やられてしまうので",
+      "language": "ja"
+    },
+    {
+      "start": 9.66,
+      "end": 10.9,
+      "text": "気を",
+      "language": "ja"
+    }
+  ],
+  "full_text": "ダイヤにね到達したいところではあるんですけれども このね少しでも隙を見せるとマイルドなH.Oに やられてしまうので 気を",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "マイルドなHO",
+      "corrected": "マイルドなH.O",
+      "rule": "player name"
+    }
+  ]
+}

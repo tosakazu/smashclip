@@ -1,0 +1,38 @@
+{
+  "id": "1e418b02-f1b2-4ec8-bd1f-d4a0ab590b05",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.54,
+      "text": "is available for Riddles.",
+      "language": "en"
+    },
+    {
+      "start": 2.24,
+      "end": 4.3,
+      "text": "You're definitely living that one, but if you were a little",
+      "language": "en"
+    },
+    {
+      "start": 4.3,
+      "end": 6.28,
+      "text": "closer to the corner, it might have been curtains, Light.",
+      "language": "en"
+    },
+    {
+      "start": 6.4,
+      "end": 8.32,
+      "text": "Lucky to get away with his life for that one,",
+      "language": "en"
+    },
+    {
+      "start": 8.36,
+      "end": 9.62,
+      "text": "or maybe not lucky, but happy.",
+      "language": "en"
+    }
+  ],
+  "full_text": "is available for Riddles. You're definitely living that one, but if you were a little closer to the corner, it might have been curtains, Light. Lucky to get away with his life for that one, or maybe not lucky, but happy.",
+  "detected_language": "en",
+  "corrections": []
+}

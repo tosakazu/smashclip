@@ -1,0 +1,38 @@
+{
+  "id": "c040bc54-d73e-4a83-8773-b621979b024f",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.32,
+      "text": "気軽に見ておくなんてこともできますから",
+      "language": "ja"
+    },
+    {
+      "start": 1.32,
+      "end": 3.18,
+      "text": "横強差し返した",
+      "language": "ja"
+    },
+    {
+      "start": 3.18,
+      "end": 5.74,
+      "text": "横強に対しては横強で差し返し",
+      "language": "ja"
+    },
+    {
+      "start": 5.74,
+      "end": 8.76,
+      "text": "バイクをうまく使う",
+      "language": "ja"
+    },
+    {
+      "start": 8.76,
+      "end": 11.32,
+      "text": "対空の意識強いですね",
+      "language": "ja"
+    }
+  ],
+  "full_text": "気軽に見ておくなんてこともできますから 横強差し返した 横強に対しては横強で差し返し バイクをうまく使う 対空の意識強いですね",
+  "detected_language": "ja",
+  "corrections": []
+}

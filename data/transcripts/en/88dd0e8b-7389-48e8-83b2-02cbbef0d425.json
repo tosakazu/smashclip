@@ -1,0 +1,25 @@
+{
+  "id": "88dd0e8b-7389-48e8-83b2-02cbbef0d425",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.6,
+      "text": "Barely hanging on and landing the counter!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "していきますなんとか耐えて カウンター"
+    },
+    {
+      "start": 4.6,
+      "end": 9.08,
+      "text": "Recovers back with the up throw!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "無理矢理ステージの上に戻ってきますが上投げ これは"
+    }
+  ],
+  "full_text": "Barely hanging on and landing the counter! Recovers back with the up throw!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

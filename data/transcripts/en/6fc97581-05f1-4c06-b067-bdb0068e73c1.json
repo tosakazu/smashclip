@@ -1,0 +1,39 @@
+{
+  "id": "6fc97581-05f1-4c06-b067-bdb0068e73c1",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.8,
+      "text": "Up throw!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあこれは上に投げて"
+    },
+    {
+      "start": 4.8,
+      "end": 8.26,
+      "text": "Applying the pressure...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "フェイスタスの圧をかけていくんですが"
+    },
+    {
+      "start": 8.26,
+      "end": 9.96,
+      "text": "And he initiates!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあ仕掛けた"
+    }
+  ],
+  "full_text": "Up throw! Applying the pressure... And he initiates!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_index": 2,
+      "original": "さあしがえだ",
+      "corrected": "さあ仕掛けた"
+    }
+  ]
+}

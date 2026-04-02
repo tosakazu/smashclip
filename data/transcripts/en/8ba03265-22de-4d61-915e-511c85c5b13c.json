@@ -1,0 +1,32 @@
+{
+  "id": "8ba03265-22de-4d61-915e-511c85c5b13c",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Hyaa!",
+      "language": "en"
+    },
+    {
+      "start": 2.0,
+      "end": 4.0,
+      "text": "Hyaa!",
+      "language": "en"
+    },
+    {
+      "start": 4.0,
+      "end": 6.0,
+      "text": "Hyaa!",
+      "language": "en"
+    },
+    {
+      "start": 6.0,
+      "end": 8.0,
+      "text": "Hyaa!",
+      "language": "en"
+    }
+  ],
+  "full_text": "Hyaa! Hyaa! Hyaa! Hyaa!",
+  "detected_language": "en",
+  "corrections": []
+}

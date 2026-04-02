@@ -1,0 +1,33 @@
+{
+  "id": "d4819376-a017-44e1-8984-f6db6e9c3314",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.12,
+      "text": "できればコリンクが一安心 安心できる時間は確保できるんですが",
+      "language": "ja"
+    },
+    {
+      "start": 5.12,
+      "end": 10.0,
+      "text": "逆にそれができなかったら 油断ならない",
+      "language": "ja"
+    },
+    {
+      "start": 10.0,
+      "end": 12.8,
+      "text": "これは悠々とそうですね左から",
+      "language": "ja"
+    }
+  ],
+  "full_text": "できればコリンクが一安心 安心できる時間は確保できるんですが 逆にそれができなかったら 油断ならない これは悠々とそうですね左から",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "コニックが",
+      "corrected": "コリンクが",
+      "rule": "player name (コニック→コリンク1219)"
+    }
+  ]
+}

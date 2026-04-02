@@ -1,0 +1,64 @@
+{
+  "id": "c0ba3875-0d58-4f34-b43c-7ae939601244",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.24,
+      "text": "Late there!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "こんなとこが後出し"
+    },
+    {
+      "start": 2.24,
+      "end": 4.74,
+      "text": "From dair to nair",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空中下から空中ニュートラル"
+    },
+    {
+      "start": 4.74,
+      "end": 6.78,
+      "text": "On the platform here",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "台の上面ここで"
+    },
+    {
+      "start": 6.78,
+      "end": 7.72,
+      "text": "Nice!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "うまいよ"
+    },
+    {
+      "start": 7.72,
+      "end": 9.08,
+      "text": "Dodges it perfectly!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ビタで避ける"
+    },
+    {
+      "start": 9.08,
+      "end": 10.54,
+      "text": "Smash!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "スマッシュ"
+    }
+  ],
+  "full_text": "Late there! From dair to nair On the platform here Nice! Dodges it perfectly! Smash!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "2人の面",
+      "corrected": "台の上面",
+      "rule": "misheard phrase"
+    }
+  ]
+}

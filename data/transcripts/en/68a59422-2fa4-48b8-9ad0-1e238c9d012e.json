@@ -1,0 +1,24 @@
+{
+  "id": "68a59422-2fa4-48b8-9ad0-1e238c9d012e",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.04,
+      "text": "Smash doesn't connect!",
+      "language": "en",
+      "original_language": "ko",
+      "original_text": "スマッシュはやはり間に合わないか"
+    }
+  ],
+  "full_text": "Smash doesn't connect!",
+  "detected_language": "ja",
+  "original_language": "ko",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "少り",
+      "corrected": "やはり",
+      "rule": "Whisper mishearing"
+    }
+  ]
+}

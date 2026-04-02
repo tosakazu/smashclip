@@ -1,0 +1,50 @@
+{
+  "id": "79075e1c-57ee-4260-a302-b0c69ca1c87a",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.76,
+      "text": "下の持続が当たっていた",
+      "language": "ja"
+    },
+    {
+      "start": 1.76,
+      "end": 3.36,
+      "text": "シールド怖いぞ",
+      "language": "ja"
+    },
+    {
+      "start": 3.36,
+      "end": 5.88,
+      "text": "なるほど",
+      "language": "ja"
+    },
+    {
+      "start": 5.88,
+      "end": 8.9,
+      "text": "上Bに合わせるようにこちらも上Bを打ってますか",
+      "language": "ja"
+    },
+    {
+      "start": 8.9,
+      "end": 9.98,
+      "text": "これね",
+      "language": "ja"
+    },
+    {
+      "start": 9.98,
+      "end": 11.68,
+      "text": "これほんとにまずい",
+      "language": "ja"
+    },
+    {
+      "start": 11.68,
+      "end": 13.96,
+      "text": "つま先いってギリギリ届かない",
+      "language": "ja"
+    }
+  ],
+  "full_text": "下の持続が当たっていた シールド怖いぞ なるほど 上Bに合わせるようにこちらも上Bを打ってますか これね これほんとにまずい つま先いってギリギリ届かない",
+  "detected_language": "ja",
+  "corrections": []
+}

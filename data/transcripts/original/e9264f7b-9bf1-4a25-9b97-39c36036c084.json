@@ -1,0 +1,63 @@
+{
+  "id": "e9264f7b-9bf1-4a25-9b97-39c36036c084",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.44,
+      "text": "作って強化状態",
+      "language": "ja"
+    },
+    {
+      "start": 1.44,
+      "end": 3.72,
+      "text": "スティーブが強力な状態になりました",
+      "language": "ja"
+    },
+    {
+      "start": 3.72,
+      "end": 6.16,
+      "text": "トロッコを送り込みながら",
+      "language": "ja"
+    },
+    {
+      "start": 6.16,
+      "end": 7.7,
+      "text": "ブロックを挟みますが",
+      "language": "ja"
+    },
+    {
+      "start": 7.7,
+      "end": 9.2,
+      "text": "そのブロックにやはりリスクがつく",
+      "language": "ja"
+    },
+    {
+      "start": 9.2,
+      "end": 10.32,
+      "text": "スタブが超えるぞ",
+      "language": "ja"
+    },
+    {
+      "start": 10.32,
+      "end": 11.0,
+      "text": "なんだこれ",
+      "language": "ja"
+    },
+    {
+      "start": 11.0,
+      "end": 13.18,
+      "text": "その間強力な下スマだ",
+      "language": "ja"
+    }
+  ],
+  "full_text": "作って強化状態 スティーブが強力な状態になりました トロッコを送り込みながら ブロックを挟みますが そのブロックにやはりリスクがつく スタブが超えるぞ なんだこれ その間強力な下スマだ",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 7,
+      "original": "その魔界強力なシネオスだ",
+      "corrected": "その間強力な下スマだ",
+      "rule": "misheard: シネオス→下スマ"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "da01e9ac-7f55-4436-82c5-e33c34b07220",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.48,
+      "text": "Mid attack!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "中攻撃"
+    },
+    {
+      "start": 0.48,
+      "end": 5.62,
+      "text": "Backwards!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "逆"
+    },
+    {
+      "start": 5.62,
+      "end": 7.44,
+      "text": "Risky!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "危なっす"
+    },
+    {
+      "start": 7.44,
+      "end": 10.28,
+      "text": "Whoa! Up air waiting!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "うおー逃げた先に空上置いている"
+    }
+  ],
+  "full_text": "Mid attack! Backwards! Risky! Whoa! Up air waiting!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 3,
+      "original": "うおー逃げた先に空中へ置いている",
+      "corrected": "うおー逃げた先に空上置いている",
+      "rule": "smash notation (空中へ→空上)"
+    }
+  ]
+}

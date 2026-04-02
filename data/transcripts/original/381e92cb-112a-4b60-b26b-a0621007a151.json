@@ -1,0 +1,105 @@
+{
+  "id": "381e92cb-112a-4b60-b26b-a0621007a151",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.8,
+      "text": "獲得できるぞ",
+      "language": "ja"
+    },
+    {
+      "start": 0.8,
+      "end": 2.46,
+      "text": "当てとした今日",
+      "language": "ja"
+    },
+    {
+      "start": 2.46,
+      "end": 3.42,
+      "text": "掴み直し",
+      "language": "ja"
+    },
+    {
+      "start": 3.42,
+      "end": 4.6,
+      "text": "とはいえあcolaも",
+      "language": "ja"
+    },
+    {
+      "start": 4.6,
+      "end": 5.88,
+      "text": "2回目の手伝いをしなかった",
+      "language": "ja"
+    },
+    {
+      "start": 5.88,
+      "end": 8.74,
+      "text": "空前まだ撃墜はしない",
+      "language": "ja"
+    },
+    {
+      "start": 8.74,
+      "end": 10.68,
+      "text": "降り空後",
+      "language": "ja"
+    },
+    {
+      "start": 10.68,
+      "end": 11.64,
+      "text": "トロッコに対して追撃",
+      "language": "ja"
+    },
+    {
+      "start": 11.64,
+      "end": 13.12,
+      "text": "トロッコが目の前",
+      "language": "ja"
+    },
+    {
+      "start": 13.12,
+      "end": 13.68,
+      "text": "スレスレ",
+      "language": "ja"
+    },
+    {
+      "start": 13.68,
+      "end": 14.88,
+      "text": "連れ去られた",
+      "language": "ja"
+    },
+    {
+      "start": 14.88,
+      "end": 16.48,
+      "text": "空前",
+      "language": "ja"
+    }
+  ],
+  "full_text": "獲得できるぞ 当てとした今日 掴み直し とはいえあcolaも 2回目の手伝いをしなかった 空前まだ撃墜はしない 降り空後 トロッコに対して追撃 トロッコが目の前 スレスレ 連れ去られた 空前",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 3,
+      "original": "アコーラ",
+      "corrected": "あcola",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 5,
+      "original": "くじゅうまい",
+      "corrected": "空前",
+      "rule": "misheard: くじゅうまい→空前"
+    },
+    {
+      "segment_idx": 6,
+      "original": "おりくじゅうしろ",
+      "corrected": "降り空後",
+      "rule": "misheard: おりくじゅうしろ→降り空後"
+    },
+    {
+      "segment_idx": 11,
+      "original": "くじゅうまい",
+      "corrected": "空前",
+      "rule": "misheard: くじゅうまい→空前"
+    }
+  ]
+}

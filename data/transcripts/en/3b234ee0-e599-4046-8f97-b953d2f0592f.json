@@ -1,0 +1,68 @@
+{
+  "id": "3b234ee0-e599-4046-8f97-b953d2f0592f",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.16,
+      "text": "Ferzanai-Chou with the advantage",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "フェルザナイチョウの有利展開"
+    },
+    {
+      "start": 1.16,
+      "end": 4.26,
+      "text": "Landing nair, flashing neutral B",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "降り空N空NBチラ見せ"
+    },
+    {
+      "start": 4.26,
+      "end": 7.84,
+      "text": "At 99%, ready to KO with neutral B",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "99%でもう撃墜するかNB"
+    },
+    {
+      "start": 7.84,
+      "end": 11.08,
+      "text": "Up smash",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "上スマッシュ"
+    },
+    {
+      "start": 11.08,
+      "end": 13.96,
+      "text": "Mashed it out but no good — gets KO'd",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "暴れ切って無理ー撃墜してんだけど"
+    }
+  ],
+  "full_text": "Ferzanai-Chou with the advantage Landing nair, flashing neutral B At 99%, ready to KO with neutral B Up smash Mashed it out but no good — gets KO'd",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "おりくえくえNBちらみせ",
+      "corrected": "降り空N空NBチラ見せ",
+      "rule": "misheard: おりくえくえ→降り空N空N"
+    },
+    {
+      "segment_idx": 2,
+      "original": "激戦するか",
+      "corrected": "撃墜するか",
+      "rule": "激戦→撃墜"
+    },
+    {
+      "segment_idx": 4,
+      "original": "激戦してんだけど",
+      "corrected": "撃墜してんだけど",
+      "rule": "激戦→撃墜"
+    }
+  ]
+}

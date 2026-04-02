@@ -1,0 +1,56 @@
+{
+  "id": "3690378d-6923-4083-8efd-bd59b9c4bff4",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.18,
+      "text": "大技を避けあって",
+      "language": "ja"
+    },
+    {
+      "start": 1.18,
+      "end": 3.18,
+      "text": "こうはいっ",
+      "language": "ja"
+    },
+    {
+      "start": 3.18,
+      "end": 4.38,
+      "text": "透かしあって",
+      "language": "ja"
+    },
+    {
+      "start": 4.38,
+      "end": 5.94,
+      "text": "撃墜はしないが",
+      "language": "ja"
+    },
+    {
+      "start": 5.94,
+      "end": 7.08,
+      "text": "しないが",
+      "language": "ja"
+    },
+    {
+      "start": 7.08,
+      "end": 7.76,
+      "text": "下が",
+      "language": "ja"
+    },
+    {
+      "start": 7.76,
+      "end": 8.82,
+      "text": "ないじゃーん",
+      "language": "ja"
+    },
+    {
+      "start": 8.82,
+      "end": 9.0,
+      "text": "下",
+      "language": "ja"
+    }
+  ],
+  "full_text": "大技を避けあって こうはいっ 透かしあって 撃墜はしないが しないが 下が ないじゃーん 下",
+  "detected_language": "ja",
+  "corrections": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "178d3219-d84b-4b8b-b7eb-b8a730bf358b",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.12,
+      "text": "Dr. Mario's capsule is incredibly strong though",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ドクターマリオのカプセル非常に優秀なんですが"
+    },
+    {
+      "start": 2.12,
+      "end": 3.44,
+      "text": "Ouch, that's unfortunate",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "おっとこれは悲しいところ"
+    }
+  ],
+  "full_text": "Dr. Mario's capsule is incredibly strong though Ouch, that's unfortunate",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

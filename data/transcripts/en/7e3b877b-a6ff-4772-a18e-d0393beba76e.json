@@ -1,0 +1,39 @@
+{
+  "id": "7e3b877b-a6ff-4772-a18e-d0393beba76e",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.64,
+      "text": "Having such strong kill power, that's one of the best ways for Sisqui to get edgeguard situation.",
+      "language": "en"
+    },
+    {
+      "start": 5.04,
+      "end": 10.22,
+      "text": "And the thing is that Hurt had been trying to avoid the ledge situation entirely by just going high.",
+      "language": "en"
+    },
+    {
+      "start": 10.48,
+      "end": 12.0,
+      "text": "But Sisqui has an option for that, although...",
+      "language": "en"
+    }
+  ],
+  "full_text": "Having such strong kill power, that's one of the best ways for Sisqui to get edgeguard situation. And the thing is that Hurt had been trying to avoid the ledge situation entirely by just going high. But Sisqui has an option for that, although...",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "Siski to get Esghar's situation",
+      "corrected": "Sisqui to get edgeguard situation",
+      "rule": "player name + smash term: Siski→Sisqui, Esghar's→edgeguard"
+    },
+    {
+      "segment_idx": 2,
+      "original": "Siski",
+      "corrected": "Sisqui",
+      "rule": "player name: Siski→Sisqui"
+    }
+  ]
+}

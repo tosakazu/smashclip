@@ -1,0 +1,20 @@
+{
+  "id": "8e9a1e21-29aa-40ed-bd61-ca74805d5cb0",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.38,
+      "text": "ポッポと横スマ構えていく",
+      "language": "ja"
+    },
+    {
+      "start": 2.38,
+      "end": 4.58,
+      "text": "復帰阻止は",
+      "language": "ja"
+    }
+  ],
+  "full_text": "ポッポと横スマ構えていく 復帰阻止は",
+  "detected_language": "ja",
+  "corrections": []
+}

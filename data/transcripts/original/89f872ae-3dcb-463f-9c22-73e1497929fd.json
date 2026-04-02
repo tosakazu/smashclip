@@ -1,0 +1,28 @@
+{
+  "id": "89f872ae-3dcb-463f-9c22-73e1497929fd",
+  "segments": [
+    {
+      "start": 0.34,
+      "end": 2.06,
+      "text": "打ったところまた通した",
+      "language": "ja"
+    },
+    {
+      "start": 2.06,
+      "end": 6.36,
+      "text": "そして受け身を取っている",
+      "language": "ja"
+    },
+    {
+      "start": 6.36,
+      "end": 8.7,
+      "text": "これ左向きで上Bを出すことによって",
+      "language": "ja"
+    }
+  ],
+  "full_text": "打ったところまた通した そして受け身を取っている これ左向きで上Bを出すことによって",
+  "detected_language": "ja",
+  "corrections": [
+    "上火→上B (upper special move, 火→B misheard)"
+  ]
+}

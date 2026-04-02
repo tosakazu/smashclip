@@ -1,0 +1,69 @@
+{
+  "id": "573dc6bf-5d33-4ad6-a930-5d09a76a09d1",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.58,
+      "text": "回避を見てジャンプもないぞ",
+      "language": "ja"
+    },
+    {
+      "start": 1.58,
+      "end": 3.42,
+      "text": "いやー一閃",
+      "language": "ja"
+    },
+    {
+      "start": 3.42,
+      "end": 6.28,
+      "text": "ちょっと取り切りたかったんですが",
+      "language": "ja"
+    },
+    {
+      "start": 6.28,
+      "end": 7.98,
+      "text": "うまくね正解の選択肢が",
+      "language": "ja"
+    },
+    {
+      "start": 7.98,
+      "end": 9.56,
+      "text": "急には出てこなかった",
+      "language": "ja"
+    },
+    {
+      "start": 9.56,
+      "end": 11.88,
+      "text": "まーべのコミュニケーション",
+      "language": "ja"
+    },
+    {
+      "start": 11.88,
+      "end": 12.54,
+      "text": "4弾?えー",
+      "language": "ja"
+    },
+    {
+      "start": 12.54,
+      "end": 14.12,
+      "text": "うますぎて",
+      "language": "ja"
+    }
+  ],
+  "full_text": "回避を見てジャンプもないぞ いやー一閃 ちょっと取り切りたかったんですが うまくね正解の選択肢が 急には出てこなかった まーべのコミュニケーション 4弾?えー うますぎて",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "いやー一戦",
+      "corrected": "いやー一閃",
+      "rule": "kanji homophone (戦→閃)"
+    },
+    {
+      "segment_idx": 7,
+      "original": "まーすぎて",
+      "corrected": "うますぎて",
+      "rule": "misheard word"
+    }
+  ]
+}

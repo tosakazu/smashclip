@@ -1,0 +1,17 @@
+{
+  "id": "661a26fc-cae1-452d-84d3-f387ad0c236f",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.66,
+      "text": "Game Set!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ゲームセット"
+    }
+  ],
+  "full_text": "Game Set!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

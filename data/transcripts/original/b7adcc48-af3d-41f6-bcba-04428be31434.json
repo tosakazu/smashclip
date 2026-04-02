@@ -1,0 +1,63 @@
+{
+  "id": "b7adcc48-af3d-41f6-bcba-04428be31434",
+  "segments": [
+    {
+      "start": 1.0,
+      "end": 2.06,
+      "text": "ストック先行ヨシドラ",
+      "language": "ja"
+    },
+    {
+      "start": 2.06,
+      "end": 3.6,
+      "text": "あと1ストックになったヤウラは",
+      "language": "ja"
+    },
+    {
+      "start": 3.6,
+      "end": 4.84,
+      "text": "この1本どう返していくか",
+      "language": "ja"
+    },
+    {
+      "start": 4.84,
+      "end": 7.26,
+      "text": "空中ニュートラル",
+      "language": "ja"
+    },
+    {
+      "start": 7.26,
+      "end": 7.98,
+      "text": "ソバットが当たって",
+      "language": "ja"
+    },
+    {
+      "start": 7.98,
+      "end": 9.7,
+      "text": "チャージショット",
+      "language": "ja"
+    },
+    {
+      "start": 9.7,
+      "end": 10.64,
+      "text": "うーんこれですね",
+      "language": "ja"
+    },
+    {
+      "start": 10.64,
+      "end": 11.36,
+      "text": "ダイヌ",
+      "language": "ja"
+    }
+  ],
+  "full_text": "ストック先行ヨシドラ あと1ストックになったヤウラは この1本どう返していくか 空中ニュートラル ソバットが当たって チャージショット うーんこれですね ダイヌ",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "ヨシトラ",
+      "corrected": "ヨシドラ",
+      "rule": "player name"
+    }
+  ]
+}

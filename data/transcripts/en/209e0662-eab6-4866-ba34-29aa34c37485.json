@@ -1,0 +1,73 @@
+{
+  "id": "209e0662-eab6-4866-ba34-29aa34c37485",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.08,
+      "text": "Broke out with the nair rush!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空Nに突入で抜けましたね"
+    },
+    {
+      "start": 1.08,
+      "end": 1.34,
+      "text": "Yeah!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そうですね"
+    },
+    {
+      "start": 1.34,
+      "end": 4.44,
+      "text": "The follow-up was a marvelous combination!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "その後の技選択もマーベロスコンビネーション"
+    },
+    {
+      "start": 4.44,
+      "end": 5.8,
+      "text": "The move choice shuts down the neutral getup!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "その場回避を許さない技選択"
+    },
+    {
+      "start": 5.8,
+      "end": 7.8,
+      "text": "Gotta chase them down from there!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "その場外に対して追いかけましょう"
+    },
+    {
+      "start": 7.8,
+      "end": 9.12,
+      "text": "Kept attacking but barely held on!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "打っていったがなんとか"
+    },
+    {
+      "start": 9.12,
+      "end": 11.38,
+      "text": "The shield came up just in time!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "シールドは間に合ってはいた"
+    },
+    {
+      "start": 11.38,
+      "end": 13.56,
+      "text": "Trapped between the nair and bair!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空Nに空後の壁"
+    }
+  ],
+  "full_text": "Broke out with the nair rush! Yeah! The follow-up was a marvelous combination! The move choice shuts down the neutral getup! Gotta chase them down from there! Kept attacking but barely held on! The shield came up just in time! Trapped between the nair and bair!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

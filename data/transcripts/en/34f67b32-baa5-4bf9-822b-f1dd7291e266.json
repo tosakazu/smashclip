@@ -1,0 +1,54 @@
+{
+  "id": "34f67b32-baa5-4bf9-822b-f1dd7291e266",
+  "segments": [
+    {
+      "start": 0.76,
+      "end": 2.8,
+      "text": "Yeah, this is totally viable!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いやーこれ全然ありますね正直"
+    },
+    {
+      "start": 2.8,
+      "end": 6.48,
+      "text": "Down throw connects!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあ下投げ通って"
+    },
+    {
+      "start": 6.48,
+      "end": 8.1,
+      "text": "Up air with the switch, so",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空上でコスチェンジなんで"
+    },
+    {
+      "start": 8.1,
+      "end": 8.7,
+      "text": "That's the stock!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "撃墜について"
+    }
+  ],
+  "full_text": "Yeah, this is totally viable! Down throw connects! Up air with the switch, so that's the stock!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "空中へでコスト変更なんで",
+      "corrected": "空上でコスチェンジなんで",
+      "rule": "misheard: 空上, コスチェンジ(Pokémon Trainer costume change)"
+    },
+    {
+      "segment_idx": 3,
+      "original": "撮影について",
+      "corrected": "撃墜について",
+      "rule": "kanji homophone: 撮影→撃墜"
+    }
+  ]
+}

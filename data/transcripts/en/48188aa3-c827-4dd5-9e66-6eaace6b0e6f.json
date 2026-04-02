@@ -1,0 +1,24 @@
+{
+  "id": "48188aa3-c827-4dd5-9e66-6eaace6b0e6f",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 9.5,
+      "text": "Up B into up air for the KO!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "上B出したそこから空上を当てての撃墜"
+    }
+  ],
+  "full_text": "Up B into up air for the KO!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "ウィシッドサザエゴレを空中へ当てての撃墜",
+      "corrected": "上B出したそこから空上を当てての撃墜",
+      "rule": "garbled Whisper output / move abbreviation"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": "ac446edc-1dd9-4a43-9f60-fe987c9fa18c",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.14,
+      "text": "あ、チビシンじゃないか?",
+      "language": "ja"
+    },
+    {
+      "start": 1.72,
+      "end": 3.88,
+      "text": "上スマッシュが当たって浮かせていった展開",
+      "language": "ja"
+    },
+    {
+      "start": 3.88,
+      "end": 5.1,
+      "text": "オートキャンセルお見事",
+      "language": "ja"
+    },
+    {
+      "start": 5.1,
+      "end": 6.2,
+      "text": "なんとか地面は踏んだが",
+      "language": "ja"
+    },
+    {
+      "start": 6.2,
+      "end": 9.24,
+      "text": "それでも終わらないこの崖の外",
+      "language": "ja"
+    },
+    {
+      "start": 9.24,
+      "end": 10.26,
+      "text": "最後はジャンプ",
+      "language": "ja"
+    }
+  ],
+  "full_text": "あ、チビシンじゃないか? 上スマッシュが当たって浮かせていった展開 オートキャンセルお見事 なんとか地面は踏んだが それでも終わらないこの崖の外 最後はジャンプ",
+  "detected_language": "ja",
+  "corrections": []
+}

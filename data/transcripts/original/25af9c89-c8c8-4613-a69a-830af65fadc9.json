@@ -1,0 +1,20 @@
+{
+  "id": "25af9c89-c8c8-4613-a69a-830af65fadc9",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.5,
+      "text": "もあります ダッシュ攻撃でさばくためには薄い後ろに",
+      "language": "ja"
+    },
+    {
+      "start": 4.5,
+      "end": 8.16,
+      "text": "下がる引き行動が必要なんですけど",
+      "language": "ja"
+    }
+  ],
+  "full_text": "もあります ダッシュ攻撃でさばくためには薄い後ろに 下がる引き行動が必要なんですけど",
+  "detected_language": "ja",
+  "corrections": []
+}

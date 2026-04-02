@@ -1,0 +1,40 @@
+{
+  "id": "f5596553-27dd-4666-b332-3e1cc06c6348",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.34,
+      "text": "From this nimble momentum!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "この俊敏なコメシュルクから"
+    },
+    {
+      "start": 2.34,
+      "end": 4.98,
+      "text": "Not about to let that happen!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そうはさせまいという感じですよね"
+    },
+    {
+      "start": 4.98,
+      "end": 7.92,
+      "text": "Fair KO!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空中前倒せ"
+    }
+  ],
+  "full_text": "From this nimble momentum! Not about to let that happen! Fair KO!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "米シルク",
+      "corrected": "コメシュルク",
+      "rule": "player name: 米→コメ (Kome), シルク→シュルク (Shulk)"
+    }
+  ]
+}

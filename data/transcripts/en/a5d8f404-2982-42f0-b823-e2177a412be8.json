@@ -1,0 +1,31 @@
+{
+  "id": "a5d8f404-2982-42f0-b823-e2177a412be8",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.8,
+      "text": "Forward throw off the grab!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "掴みを通して前投げる"
+    },
+    {
+      "start": 1.8,
+      "end": 5.92,
+      "text": "Fair!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空中前"
+    }
+  ],
+  "full_text": "Forward throw off the grab! Fair!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "original": "神を通して",
+      "corrected": "掴みを通して",
+      "reason": "掴み（grab）を通す"
+    }
+  ]
+}

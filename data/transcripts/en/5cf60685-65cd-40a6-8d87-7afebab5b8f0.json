@@ -1,0 +1,49 @@
+{
+  "id": "5cf60685-65cd-40a6-8d87-7afebab5b8f0",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.98,
+      "text": "Right when he throws it out, he punishes with a nair!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "コマを出した瞬間に空中ニュートラルで差し返します"
+    },
+    {
+      "start": 2.98,
+      "end": 5.36,
+      "text": "That whiff punish is incredibly well executed!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "このね差し返しが非常に上手いですね"
+    },
+    {
+      "start": 5.36,
+      "end": 8.36,
+      "text": "And this move heading upward...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そしてリンゴ上に飛ぶこの技ですが"
+    },
+    {
+      "start": 8.36,
+      "end": 9.5,
+      "text": "He barely pulls it off but...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ギリギリでステアしなかった"
+    },
+    {
+      "start": 9.5,
+      "end": 10.58,
+      "text": "The spacing is insanely tight!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "しかし密着ギリギリ"
+    }
+  ],
+  "full_text": "Right when he throws it out, he punishes with a nair! That whiff punish is incredibly well executed! And this move heading upward... He barely pulls it off but... The spacing is insanely tight!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

@@ -1,0 +1,66 @@
+{
+  "id": "72efd8e4-a944-4760-b70f-a07d9c55343d",
+  "segments": [
+    {
+      "start": 0.84,
+      "end": 5.44,
+      "text": "Neo kept winning neutral and was pulling off lots of different moves, but...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ステージを獲得し続けたネオがかなりのみのみと技振りを増やすことができましたが"
+    },
+    {
+      "start": 5.44,
+      "end": 7.82,
+      "text": "Game 3, the stage opens up - Town & City",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "3戦目一気にステージ広くなる村と町"
+    },
+    {
+      "start": 7.82,
+      "end": 13.82,
+      "text": "0% close range rally into forward smash, connects perfectly, straight into a 0% KO!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "0%密着ラリーホーから横スマして会心に出てそのまま0%撃墜"
+    },
+    {
+      "start": 13.82,
+      "end": 14.26,
+      "text": "Ooh!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "うぅ"
+    }
+  ],
+  "full_text": "Neo kept winning neutral and was pulling off lots of different moves, but... Game 3, the stage opens up - Town & City. 0% close range rally into forward smash, connects perfectly, straight into a 0% KO! Ooh!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "村戸町",
+      "corrected": "村と町",
+      "rule": "stage name"
+    },
+    {
+      "segment_idx": 2,
+      "original": "ラリー砲",
+      "corrected": "ラリーホー",
+      "rule": "Hero spell name"
+    },
+    {
+      "segment_idx": 2,
+      "original": "横すばして",
+      "corrected": "横スマして",
+      "rule": "move abbreviation"
+    },
+    {
+      "segment_idx": 2,
+      "original": "開始に出て",
+      "corrected": "会心に出て",
+      "rule": "kanji homophone: 開始→会心 (critical hit)"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": "bd08193f-9b48-4be1-8edb-ed7ec9cdc03b",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.88,
+      "text": "10%!",
+      "language": "ja"
+    },
+    {
+      "start": 0.88,
+      "end": 1.78,
+      "text": "うわぁぁぁぁぁぁぁぁぁぁぁぁぁぁぁ!",
+      "language": "ja"
+    },
+    {
+      "start": 4.28,
+      "end": 4.84,
+      "text": "これは!",
+      "language": "ja"
+    },
+    {
+      "start": 4.84,
+      "end": 6.1,
+      "text": "うますぎる!",
+      "language": "ja"
+    },
+    {
+      "start": 6.1,
+      "end": 7.54,
+      "text": "えぇ!まさかのぉ!",
+      "language": "ja"
+    }
+  ],
+  "full_text": "10%! うわぁぁぁぁぁぁぁぁぁぁぁぁぁぁぁ! これは! うますぎる! えぇ!まさかのぉ!",
+  "detected_language": "ja",
+  "corrections": []
+}

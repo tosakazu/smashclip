@@ -1,0 +1,84 @@
+{
+  "id": "5485ac3d-3b3a-4e35-94af-d2d0bac3a512",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.64,
+      "text": "Pressuring",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "踏んで"
+    },
+    {
+      "start": 0.64,
+      "end": 2.7,
+      "text": "Parry",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ジャストシールド"
+    },
+    {
+      "start": 2.7,
+      "end": 6.92,
+      "text": "When both shields are locked",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "お互いがガードで密着した瞬間は"
+    },
+    {
+      "start": 6.92,
+      "end": 8.26,
+      "text": "There's a slight edge in the neutral there",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "少し噛み合いに分がありそうですね"
+    },
+    {
+      "start": 8.26,
+      "end": 10.78,
+      "text": "Neo's really",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "結構ネオ選手"
+    },
+    {
+      "start": 10.78,
+      "end": 12.5,
+      "text": "Not hesitating to drop that stage control",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "遠慮なくライン下げてきますね"
+    },
+    {
+      "start": 12.5,
+      "end": 13.02,
+      "text": "Yeah",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そうですね"
+    }
+  ],
+  "full_text": "Pressuring Parry When both shields are locked There's a slight edge in the neutral there Neo's really Not hesitating to drop that stage control Yeah",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "ジャスト進路",
+      "corrected": "ジャストシールド",
+      "rule": "misheard word"
+    },
+    {
+      "segment_idx": 3,
+      "original": "少しカブリにブガーありそうですね",
+      "corrected": "少し噛み合いに分がありそうですね",
+      "rule": "misheard word"
+    },
+    {
+      "segment_idx": 4,
+      "original": "ネオン選手",
+      "corrected": "ネオ選手",
+      "rule": "player name"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "8afaae28-1698-4d96-99a2-3bb087507dd0",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.6,
+      "text": "Nice! The aerial attack—that nair from the Haniwa!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "やりました。さあ空中攻撃、このハニワを操作しながらの空中ニュートラル"
+    },
+    {
+      "start": 3.6,
+      "end": 5.72,
+      "text": "That's supposed to be harder than it looks!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "見た目より難しいはずなんですけどね"
+    },
+    {
+      "start": 5.72,
+      "end": 7.06,
+      "text": "Oh, took damage!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "おっとこれ、被ダメージ"
+    }
+  ],
+  "full_text": "Nice! The aerial attack—that nair from the Haniwa! That's supposed to be harder than it looks! Oh, took damage!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    "ハニマ→ハニワ (Lloid/haniwa, Villager's side B)",
+    "空中ユダル→空中ニュートラル (aerial neutral)",
+    "非ダメージ→被ダメージ (damage received, kanji homophone)"
+  ]
+}

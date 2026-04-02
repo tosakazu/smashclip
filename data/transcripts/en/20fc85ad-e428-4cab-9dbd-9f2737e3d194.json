@@ -1,0 +1,57 @@
+{
+  "id": "20fc85ad-e428-4cab-9dbd-9f2737e3d194",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.98,
+      "text": "Bold Devil Wing on the special, but...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "必殺技は果敢にデビルウィングですが"
+    },
+    {
+      "start": 1.98,
+      "end": 3.48,
+      "text": "Gets dodged again, but somehow...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これもかわされてしかしなんとか"
+    },
+    {
+      "start": 3.48,
+      "end": 6.34,
+      "text": "Djiro nails the perfect getup situation!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "起き上がり展開完成しきったDjiro"
+    },
+    {
+      "start": 6.34,
+      "end": 7.96,
+      "text": "Nair!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空中ニュートラル"
+    },
+    {
+      "start": 7.96,
+      "end": 10.36,
+      "text": "Into the side B – no way!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "コマから横必殺まさか"
+    },
+    {
+      "start": 10.36,
+      "end": 11.2,
+      "text": "KO!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "撃墜"
+    }
+  ],
+  "full_text": "Bold Devil Wing on the special, but... Gets dodged again, but somehow... Djiro nails the perfect getup situation! Nair! Into the side B – no way! KO!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

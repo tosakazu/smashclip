@@ -1,0 +1,40 @@
+{
+  "id": "477b2637-059e-4278-88f3-91cc2ef9d61c",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.84,
+      "text": "Against the second ledge grab",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "2回目の崖捕まりに対して"
+    },
+    {
+      "start": 4.84,
+      "end": 7.4,
+      "text": "You can go in with a dash attack pretty well",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "結構ダッシュ攻撃しに行けるんですけど"
+    },
+    {
+      "start": 7.4,
+      "end": 9.22,
+      "text": "Risky as it is, they're still going!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "怖すぎるけどね行くのね"
+    }
+  ],
+  "full_text": "Against the second ledge grab You can go in with a dash attack pretty well Risky as it is, they're still going!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "ガキ捕まり",
+      "corrected": "崖捕まり",
+      "rule": "kanji homophone"
+    }
+  ]
+}

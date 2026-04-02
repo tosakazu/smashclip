@@ -1,0 +1,26 @@
+{
+  "id": "9c975ed9-41bd-4467-830c-6c2f7856aff2",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 7.14,
+      "text": "スタビが間に合いました",
+      "language": "ja"
+    },
+    {
+      "start": 7.14,
+      "end": 9.18,
+      "text": "サイクロン暴れをここぞで切っていく",
+      "language": "ja"
+    },
+    {
+      "start": 9.18,
+      "end": 10.92,
+      "text": "うますげー",
+      "language": "ja"
+    }
+  ],
+  "full_text": "スタビが間に合いました サイクロン暴れをここぞで切っていく うますげー",
+  "detected_language": "ja",
+  "corrections": []
+}

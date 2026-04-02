@@ -1,0 +1,40 @@
+{
+  "id": "aee538aa-90d8-4840-90e3-841d12d4ca8d",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.4,
+      "text": "Robot's attack versatility is definitely one of its biggest charms as a fighter",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "攻撃が非常に多彩なのもこのロボットというファイターの魅力の一つ"
+    },
+    {
+      "start": 3.4,
+      "end": 7.66,
+      "text": "Down tilt to pressure, hydrant out, sourspot bair!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "下強で固めて消火栓出したところに空中後ろ根当たり"
+    },
+    {
+      "start": 7.66,
+      "end": 11.74,
+      "text": "This move can secure a KO even from center stage on Pokemon Stadium 2!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ステージ中央からポケモンスタジアム2でも撃墜が可能なこの技"
+    }
+  ],
+  "full_text": "Robot's attack versatility is definitely one of its biggest charms as a fighter Down tilt to pressure, hydrant out, sourspot bair! This move can secure a KO even from center stage on Pokemon Stadium 2!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "空中後ろ本あたり",
+      "corrected": "空中後ろ根当たり",
+      "rule": "smash term (根当たり=sweet spot)"
+    }
+  ]
+}

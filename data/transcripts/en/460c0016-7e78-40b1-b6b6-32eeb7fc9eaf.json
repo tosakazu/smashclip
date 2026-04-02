@@ -1,0 +1,33 @@
+{
+  "id": "460c0016-7e78-40b1-b6b6-32eeb7fc9eaf",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.88,
+      "text": "yeah so far mia has struggled a little bit but matters now because as soon as those platforms",
+      "language": "en"
+    },
+    {
+      "start": 4.88,
+      "end": 11.56,
+      "text": "allow him to take him into the sky Raru will suffer every single time he gets sent up it's",
+      "language": "en"
+    },
+    {
+      "start": 11.56,
+      "end": 14.08,
+      "text": "a danger no way bit of an",
+      "language": "en"
+    }
+  ],
+  "full_text": "yeah so far mia has struggled a little bit but matters now because as soon as those platforms allow him to take him into the sky Raru will suffer every single time he gets sent up it's a danger no way bit of an",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "radu",
+      "corrected": "Raru",
+      "rule": "player name"
+    }
+  ]
+}

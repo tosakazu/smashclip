@@ -1,0 +1,113 @@
+{
+  "id": "2727f440-6cb3-4852-854f-cb9ddf091b7a",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.56,
+      "text": "That was absolutely inescapable without tech!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さばきしなければ絶対かわせなかった"
+    },
+    {
+      "start": 1.56,
+      "end": 2.76,
+      "text": "Gets back!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "なんとかライン回復"
+    },
+    {
+      "start": 2.76,
+      "end": 4.1,
+      "text": "Mashing in neutral!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ニュートラルで暴れて"
+    },
+    {
+      "start": 4.1,
+      "end": 6.44,
+      "text": "Even with Teshi's Samus flipping the ledge advantage,",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "崖展開を入れ替えるテシのサムスだが"
+    },
+    {
+      "start": 6.44,
+      "end": 8.62,
+      "text": "Back to neutral!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ニュートラル再び"
+    },
+    {
+      "start": 8.62,
+      "end": 11.2,
+      "text": "Takes a deep recovery so the bomb doesn't hit!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ボムからの攻撃は当たらないよう深めの復帰"
+    },
+    {
+      "start": 11.2,
+      "end": 15.56,
+      "text": "But bomb into charge shot and dash attack!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "だがボムからチャージショット ダッシュアタック"
+    },
+    {
+      "start": 15.56,
+      "end": 17.7,
+      "text": "Up B gets caught!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "上必殺技巻き込んでいく"
+    },
+    {
+      "start": 17.7,
+      "end": 19.94,
+      "text": "Recovers the situation!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "なんとか展開回復"
+    },
+    {
+      "start": 19.94,
+      "end": 22.38,
+      "text": "If that was a fair, that could be stock!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "あーこれ空前だったら撃墜するかもしれません"
+    },
+    {
+      "start": 22.38,
+      "end": 23.94,
+      "text": "Good percentage!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いいパーセントだぞ"
+    },
+    {
+      "start": 23.94,
+      "end": 25.42,
+      "text": "Orange is the one in trouble?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "オレンジ色は逆に危険か"
+    },
+    {
+      "start": 25.42,
+      "end": 28.42,
+      "text": "Charge shot to forward tilt connects!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "だがここはチャージショットから横強決まる"
+    }
+  ],
+  "full_text": "That was absolutely inescapable without tech! Gets back! Mashing in neutral! Even with Teshi's Samus flipping the ledge advantage, Back to neutral! Takes a deep recovery so the bomb doesn't hit! But bomb into charge shot and dash attack! Up B gets caught! Recovers the situation! If that was a fair, that could be stock! Good percentage! Orange is the one in trouble? Charge shot to forward tilt connects!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

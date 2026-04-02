@@ -1,0 +1,75 @@
+{
+  "id": "df0b1067-17d4-42bf-9752-b4c388b4a1fc",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "暴れがまだやまず配がない",
+      "language": "ja"
+    },
+    {
+      "start": 2.0,
+      "end": 3.38,
+      "text": "ジャストシールドから下強で",
+      "language": "ja"
+    },
+    {
+      "start": 3.38,
+      "end": 5.62,
+      "text": "止まんなすぎる",
+      "language": "ja"
+    },
+    {
+      "start": 5.62,
+      "end": 7.46,
+      "text": "空中前暴れをうまく通したダークサムス",
+      "language": "ja"
+    },
+    {
+      "start": 7.46,
+      "end": 9.34,
+      "text": "空N後の",
+      "language": "ja"
+    },
+    {
+      "start": 9.34,
+      "end": 12.12,
+      "text": "後ろ側にチャージショットが当たりますが",
+      "language": "ja"
+    },
+    {
+      "start": 12.12,
+      "end": 13.0,
+      "text": "ここは上必殺",
+      "language": "ja"
+    }
+  ],
+  "full_text": "暴れがまだやまず配がない ジャストシールドから下強で 止まんなすぎる 空中前暴れをうまく通したダークサムス 空N後の 後ろ側にチャージショットが当たりますが ここは上必殺",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "暴行がまだ山受け配がない",
+      "corrected": "暴れがまだやまず配がない",
+      "rule": "misheard word"
+    },
+    {
+      "segment_idx": 3,
+      "original": "ティスタムス",
+      "corrected": "ダークサムス",
+      "rule": "misheard word (Dark Samus)"
+    },
+    {
+      "segment_idx": 4,
+      "original": "空打の",
+      "corrected": "空N後の",
+      "rule": "smash term"
+    },
+    {
+      "segment_idx": 6,
+      "original": "上必要",
+      "corrected": "上必殺",
+      "rule": "misheard word"
+    }
+  ]
+}

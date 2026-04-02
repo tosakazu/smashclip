@@ -1,0 +1,33 @@
+{
+  "id": "9e221a96-dc35-4563-9a4b-e0bab54ec6ed",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.64,
+      "text": "Now as we slowly see the KO threshold...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあじわりじわりと撃墜ラインが"
+    },
+    {
+      "start": 3.64,
+      "end": 8.86,
+      "text": "...the line to KO is becoming clearer and clearer",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "撃墜までのラインがどんどん見えていくというところ"
+    },
+    {
+      "start": 8.86,
+      "end": 10.36,
+      "text": "Up B!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これは上必殺技"
+    }
+  ],
+  "full_text": "Now as we slowly see the KO threshold... ...the line to KO is becoming clearer and clearer Up B!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

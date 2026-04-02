@@ -1,0 +1,51 @@
+{
+  "id": "8e808035-4fc8-4864-a115-55838372633c",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.16,
+      "text": "really easily but he is having some landing able to do it finally and let's see if he can get",
+      "language": "en"
+    },
+    {
+      "start": 5.16,
+      "end": 10.04,
+      "text": "something started right now not getting the chase and now he said no the stage i think yes that is",
+      "language": "en"
+    },
+    {
+      "start": 10.04,
+      "end": 16.42,
+      "text": "going to be enough and you can see the pop-off from ShinyMark he wanted it this is the kind of action",
+      "language": "en"
+    },
+    {
+      "start": 16.42,
+      "end": 23.46,
+      "text": "that we're having at smash factor 12 and again showing up after a very difficult set you know",
+      "language": "en"
+    },
+    {
+      "start": 23.46,
+      "end": 29.34,
+      "text": "i'm sure that that pop-off was a long time coming because he needs to shake it off now cool off a",
+      "language": "en"
+    },
+    {
+      "start": 29.34,
+      "end": 31.02,
+      "text": "little bit because that was a",
+      "language": "en"
+    }
+  ],
+  "full_text": "really easily but he is having some landing able to do it finally and let's see if he can get something started right now not getting the chase and now he said no the stage i think yes that is going to be enough and you can see the pop-off from ShinyMark he wanted it this is the kind of action that we're having at smash factor 12 and again showing up after a very difficult set you know i'm sure that that pop-off was a long time coming because he needs to shake it off now cool off a little bit because that was a",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "pop-up from shiny mark",
+      "corrected": "pop-off from ShinyMark",
+      "rule": "player name + misheard word"
+    }
+  ]
+}

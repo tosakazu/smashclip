@@ -1,0 +1,81 @@
+{
+  "id": "71ac7410-c1ec-4842-a0f0-bf79f89cfcc5",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.32,
+      "text": "Whoa, he got out!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "うわー出たー"
+    },
+    {
+      "start": 1.32,
+      "end": 3.24,
+      "text": "And he's knocked down",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そしてダウンしてしまったので"
+    },
+    {
+      "start": 3.24,
+      "end": 4.96,
+      "text": "But at least he got out cheap",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "だがまあ安く済んだほうでしょ"
+    },
+    {
+      "start": 4.96,
+      "end": 6.5,
+      "text": "The throws aren't really insane or anything",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "投げがそうそうやばいっすけど"
+    },
+    {
+      "start": 6.5,
+      "end": 8.02,
+      "text": "Though they ARE insane...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "やばいですけど"
+    },
+    {
+      "start": 8.02,
+      "end": 10.32,
+      "text": "His spacing got a bit sloppy maybe",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ほかほかがちょっと悪さしたか"
+    },
+    {
+      "start": 10.32,
+      "end": 13.08,
+      "text": "That was definitely a tricky percent",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "難しそうなパーセントではあったかも"
+    },
+    {
+      "start": 13.08,
+      "end": 14.22,
+      "text": "Now at the ledge",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあこの崖"
+    },
+    {
+      "start": 14.22,
+      "end": 15.72,
+      "text": "Way too close!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ギリギリすぎる"
+    }
+  ],
+  "full_text": "Whoa, he got out! And he's knocked down But at least he got out cheap The throws aren't really insane or anything Though they ARE insane... His spacing got a bit sloppy maybe That was definitely a tricky percent Now at the ledge Way too close!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

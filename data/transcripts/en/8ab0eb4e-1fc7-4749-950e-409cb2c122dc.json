@@ -1,0 +1,84 @@
+{
+  "id": "8ab0eb4e-1fc7-4749-950e-409cb2c122dc",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.32,
+      "text": "Against Yoshi coming in while landing",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "地上に着地しながら差し込んでくるヨシドラに対して"
+    },
+    {
+      "start": 2.32,
+      "end": 3.72,
+      "text": "Yayuura with the punish!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "矢浦が取ってみせる"
+    },
+    {
+      "start": 3.72,
+      "end": 4.96,
+      "text": "Forward smash",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "横スマッシュ"
+    },
+    {
+      "start": 4.96,
+      "end": 6.64,
+      "text": "Hmm, not quite enough for the KO",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "んー今のでも撃墜まで"
+    },
+    {
+      "start": 6.64,
+      "end": 7.96,
+      "text": "Hmm, not what he was looking for",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "なんだろ持ってきたかったか"
+    },
+    {
+      "start": 7.96,
+      "end": 8.94,
+      "text": "Charge shot's risky too",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "チャージショットも危ないぞ"
+    },
+    {
+      "start": 8.94,
+      "end": 10.08,
+      "text": "Dash attack",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ダッシュ攻撃"
+    },
+    {
+      "start": 10.08,
+      "end": 11.24,
+      "text": "And that's the KO!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これは撃墜に至る"
+    },
+    {
+      "start": 11.24,
+      "end": 11.64,
+      "text": "150",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "150"
+    }
+  ],
+  "full_text": "Against Yoshi coming in while landing Yayuura with the punish! Forward smash Hmm, not quite enough for the KO Hmm, not what he was looking for Charge shot's risky too Dash attack And that's the KO! 150",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    "チャーシュート→チャージショット (Charge Shot, Samus's NB)",
+    "出し攻撃→ダッシュ攻撃 (dash attack, confirmed by metadata as DA)"
+  ]
+}

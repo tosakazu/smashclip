@@ -1,0 +1,183 @@
+{
+  "id": "571225d2-7d42-4a59-9113-11b5d61b9d5e",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.76,
+      "text": "Reverse angst. They just hit different. I don't know what it is about the way TG's got that timing down,",
+      "language": "en"
+    },
+    {
+      "start": 5.76,
+      "end": 11.16,
+      "text": "but it is catching Lui$ off guard. Tries to get the combo into the bomb there, not able to find it.",
+      "language": "en"
+    },
+    {
+      "start": 11.88,
+      "end": 13.88,
+      "text": "Lui$ with the opening. Okay.",
+      "language": "en"
+    },
+    {
+      "start": 14.04,
+      "end": 16.52,
+      "text": "Lui$ rolling in on him right there, trying to get another New Slayer involved.",
+      "language": "en"
+    },
+    {
+      "start": 16.62,
+      "end": 21.56,
+      "text": "Okay, gonna go up the stage. I actually like the way that he did that New Slayer, not putting himself in a position to get punished too hard.",
+      "language": "en"
+    },
+    {
+      "start": 24.08,
+      "end": 28.3,
+      "text": "Nice airdodge from TG, and now setting up those grenades. He's got a couple of them in tow.",
+      "language": "en"
+    },
+    {
+      "start": 28.3,
+      "end": 34.8,
+      "text": "Keeping Lui honest on the approaches, saying if you're gonna run in, you're gonna get chipped out 66%. He's starting to add up.",
+      "language": "en"
+    },
+    {
+      "start": 35.9,
+      "end": 40.04,
+      "text": "Okay, rapid jab right there. Gonna get a little extra damage since he was at the edge.",
+      "language": "en"
+    },
+    {
+      "start": 40.38,
+      "end": 45.68,
+      "text": "Get pushed a little further back, trying to get some more of that damage off that. Turiguri though, playing from these corners quite well.",
+      "language": "en"
+    },
+    {
+      "start": 45.68,
+      "end": 50.74,
+      "text": "Wait a minute. Oh, yeah, nice. Good standard get up instead of rolling in. TG trying to blow that up too.",
+      "language": "en"
+    },
+    {
+      "start": 54.92,
+      "end": 57.98,
+      "text": "Lui$ a little bit more patient that time, starting to adapt to the way",
+      "language": "en"
+    },
+    {
+      "start": 57.98,
+      "end": 58.28,
+      "text": "he's used to it.",
+      "language": "en"
+    },
+    {
+      "start": 58.28,
+      "end": 62.72,
+      "text": "Using that move, and getting so much more mileage off of clipping with these nairs.",
+      "language": "en"
+    },
+    {
+      "start": 62.72,
+      "end": 65.84,
+      "text": "I think the problem has just been the finishers, like you talked about.",
+      "language": "en"
+    },
+    {
+      "start": 65.84,
+      "end": 68.9,
+      "text": "There's only so much you can get out of that nair, and it's not a kill.",
+      "language": "en"
+    },
+    {
+      "start": 70.66,
+      "end": 72.46,
+      "text": "Okay, dash attack for dash attack.",
+      "language": "en"
+    },
+    {
+      "start": 72.46,
+      "end": 76.0,
+      "text": "Back air right there, push him off the side. Unfortunately, oh! Watch out.",
+      "language": "en"
+    },
+    {
+      "start": 76.0,
+      "end": 80.16,
+      "text": "I think he did use his jump luckily, recognizing that, not taking on accident, or airdodging on accident.",
+      "language": "en"
+    },
+    {
+      "start": 83.88,
+      "end": 87.96,
+      "text": "Good. Okay, he's got it figured out. I don't think that mix-up's gonna work anymore, Turiguri.",
+      "language": "en"
+    },
+    {
+      "start": 87.96,
+      "end": 91.44,
+      "text": "Yeah, I think it's... Oh, but the one-up up tilt's still working though.",
+      "language": "en"
+    }
+  ],
+  "full_text": "Reverse angst. They just hit different. I don't know what it is about the way TG's got that timing down, but it is catching Lui$ off guard. Tries to get the combo into the bomb there, not able to find it. Lui$ with the opening. Okay. Lui$ rolling in on him right there, trying to get another New Slayer involved. Okay, gonna go up the stage. I actually like the way that he did that New Slayer, not putting himself in a position to get punished too hard. Nice airdodge from TG, and now setting up those grenades. He's got a couple of them in tow. Keeping Lui honest on the approaches, saying if you're gonna run in, you're gonna get chipped out 66%. He's starting to add up. Okay, rapid jab right there. Gonna get a little extra damage since he was at the edge. Get pushed a little further back, trying to get some more of that damage off that. TG though, playing from these corners quite well. Wait a minute. Oh, yeah, nice. Good standard get up instead of rolling in. TG trying to blow that up too. Lui$ a little bit more patient that time, starting to adapt to the way he's used to it. Using that move, and getting so much more mileage off of clipping with these nairs. I think the problem has just been the finishers, like you talked about. There's only so much you can get out of that nair, and it's not a kill. Okay, dash attack for dash attack. Back air right there, push him off the side. Unfortunately, oh! Watch out. I think he did use his jump luckily, recognizing that, not taking on accident, or airdodging on accident. Good. Okay, he's got it figured out. I don't think that mix-up's gonna work anymore, TG. Yeah, I think it's... Oh, but the one-up up tilt's still working though.",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "Turiguri's",
+      "corrected": "TG's",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 1,
+      "original": "Lui Muni",
+      "corrected": "Lui$",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 2,
+      "original": "Lui with",
+      "corrected": "Lui$ with",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 3,
+      "original": "Lui rolling",
+      "corrected": "Lui$ rolling",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 5,
+      "original": "Turiguri",
+      "corrected": "TG",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 9,
+      "original": "Turiguri",
+      "corrected": "TG",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 10,
+      "original": "Lui a little",
+      "corrected": "Lui$ a little",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 15,
+      "original": "Turiguri",
+      "corrected": "TG",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 16,
+      "original": "Turiguri",
+      "corrected": "TG",
+      "rule": "player name"
+    }
+  ]
+}

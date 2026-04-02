@@ -1,0 +1,57 @@
+{
+  "id": "edb6954b-51cc-41b0-b183-43737da16861",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.46,
+      "text": "その後動きとかはうまかったですね",
+      "language": "ja"
+    },
+    {
+      "start": 2.46,
+      "end": 2.66,
+      "text": "はい",
+      "language": "ja"
+    },
+    {
+      "start": 2.66,
+      "end": 5.3,
+      "text": "そうしかし123%",
+      "language": "ja"
+    },
+    {
+      "start": 5.3,
+      "end": 6.82,
+      "text": "132%になって",
+      "language": "ja"
+    },
+    {
+      "start": 6.82,
+      "end": 7.6,
+      "text": "おっとこれは",
+      "language": "ja"
+    },
+    {
+      "start": 7.6,
+      "end": 8.86,
+      "text": "まあアイクやんないかも",
+      "language": "ja"
+    }
+  ],
+  "full_text": "その後動きとかはうまかったですね はい そうしかし123% 132%になって おっとこれは まあアイクやんないかも",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "跡形とか",
+      "corrected": "後動きとか",
+      "rule": "misheard"
+    },
+    {
+      "segment_idx": 5,
+      "original": "アイカンディーかも",
+      "corrected": "アイクやんないかも",
+      "rule": "misheard"
+    }
+  ]
+}

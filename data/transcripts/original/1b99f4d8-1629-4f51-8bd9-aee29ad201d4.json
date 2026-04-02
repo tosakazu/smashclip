@@ -1,0 +1,26 @@
+{
+  "id": "1b99f4d8-1629-4f51-8bd9-aee29ad201d4",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.44,
+      "text": "For a while here, he finds an opportunity, but it all depends on whether the opportunity rises or not.",
+      "language": "en"
+    },
+    {
+      "start": 5.64,
+      "end": 8.66,
+      "text": "It's a big if right now, at 77% on this last stock.",
+      "language": "en"
+    },
+    {
+      "start": 8.92,
+      "end": 13.3,
+      "text": "As you mentioned though, that's the win condition, and that's the lose condition getting clipped.",
+      "language": "en"
+    }
+  ],
+  "full_text": "For a while here, he finds an opportunity, but it all depends on whether the opportunity rises or not. It's a big if right now, at 77% on this last stock. As you mentioned though, that's the win condition, and that's the lose condition getting clipped.",
+  "detected_language": "en",
+  "corrections": []
+}

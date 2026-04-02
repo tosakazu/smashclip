@@ -1,0 +1,69 @@
+{
+  "id": "657ab5f8-891a-452a-8e5f-0c10224ad070",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.58,
+      "text": "黄色のリーチの長さが悪さをする",
+      "language": "ja"
+    },
+    {
+      "start": 2.58,
+      "end": 4.24,
+      "text": "空中消化をした",
+      "language": "ja"
+    },
+    {
+      "start": 4.24,
+      "end": 4.84,
+      "text": "下スマッシュ",
+      "language": "ja"
+    },
+    {
+      "start": 4.84,
+      "end": 5.36,
+      "text": "もう一発",
+      "language": "ja"
+    },
+    {
+      "start": 5.36,
+      "end": 7.04,
+      "text": "空Nから弱についですが",
+      "language": "ja"
+    },
+    {
+      "start": 7.04,
+      "end": 7.9,
+      "text": "こちらも即座に弱",
+      "language": "ja"
+    },
+    {
+      "start": 7.9,
+      "end": 10.38,
+      "text": "投げの空振りに黄色の空中",
+      "language": "ja"
+    },
+    {
+      "start": 10.38,
+      "end": 10.88,
+      "text": "撃墜ゲージ",
+      "language": "ja"
+    }
+  ],
+  "full_text": "黄色のリーチの長さが悪さをする 空中消化をした 下スマッシュ もう一発 空Nから弱についですが こちらも即座に弱 投げの空振りに黄色の空中 撃墜ゲージ",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 4,
+      "original": "クエネから弱位置ですが",
+      "corrected": "空Nから弱についですが",
+      "rule": "move abbreviation (空N)"
+    },
+    {
+      "segment_idx": 7,
+      "original": "白ゲージ",
+      "corrected": "撃墜ゲージ",
+      "rule": "misheard word"
+    }
+  ]
+}

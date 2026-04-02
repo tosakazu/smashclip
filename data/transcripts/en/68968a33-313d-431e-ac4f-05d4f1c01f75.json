@@ -1,0 +1,48 @@
+{
+  "id": "68968a33-313d-431e-ac4f-05d4f1c01f75",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.16,
+      "text": "Mega Volt pierces straight into the ledge getup!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "スイレーメガボルトそのまま起き上がりに突き刺さる"
+    },
+    {
+      "start": 4.16,
+      "end": 7.52,
+      "text": "There've been a lot of early Mega Volts coming out up until now, but—",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さっきからね先出しメガボルトが多かったですけど"
+    },
+    {
+      "start": 7.52,
+      "end": 9.98,
+      "text": "And now he's approaching with Mega Volt from the right side!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここに来てドラ右先に来てメガボルトっていうね"
+    },
+    {
+      "start": 9.98,
+      "end": 10.7,
+      "text": "And that's—",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "それが"
+    }
+  ],
+  "full_text": "Mega Volt pierces straight into the ledge getup! There've been a lot of early Mega Volts coming out up until now, but— And now he's approaching with Mega Volt from the right side! And that's—",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "ドラゴン",
+      "corrected": "ドラ右",
+      "rule": "player name"
+    }
+  ]
+}

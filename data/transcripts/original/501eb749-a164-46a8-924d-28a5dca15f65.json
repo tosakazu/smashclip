@@ -1,0 +1,27 @@
+{
+  "id": "501eb749-a164-46a8-924d-28a5dca15f65",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.26,
+      "text": "the side oh no ball okay oh my god that's dangerous that's dangerous",
+      "language": "en"
+    },
+    {
+      "start": 4.26,
+      "end": 12.1,
+      "text": "that's a stock never",
+      "language": "en"
+    }
+  ],
+  "full_text": "the side oh no ball okay oh my god that's dangerous that's dangerous that's a stock never",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "a stop",
+      "corrected": "a stock",
+      "rule": "smash terminology: stop→stock"
+    }
+  ]
+}

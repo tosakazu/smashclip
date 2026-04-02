@@ -1,0 +1,57 @@
+{
+  "id": "7234f764-62ea-4d2c-a551-1eb6d1113390",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Three minutes of Mario straight!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "3分間マリオが来た"
+    },
+    {
+      "start": 2.0,
+      "end": 4.0,
+      "text": "Link it from behind!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "後ろでつなげて"
+    },
+    {
+      "start": 4.0,
+      "end": 6.0,
+      "text": "And",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そして"
+    },
+    {
+      "start": 6.0,
+      "end": 8.0,
+      "text": "The jump—",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これは"
+    },
+    {
+      "start": 8.0,
+      "end": 10.0,
+      "text": "The jump got shut down",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ジャンプが潰れてしまったので"
+    },
+    {
+      "start": 10.0,
+      "end": 12.06,
+      "text": "Doesn't reach",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "届きません"
+    }
+  ],
+  "full_text": "Three minutes of Mario straight! Link it from behind! And the jump— the jump got shut down, doesn't reach",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

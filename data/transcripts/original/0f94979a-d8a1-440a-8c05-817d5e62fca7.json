@@ -1,0 +1,33 @@
+{
+  "id": "0f94979a-d8a1-440a-8c05-817d5e62fca7",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.52,
+      "text": "He's not just getting hit, he realized that Raflow was just running away, and now he's punishing his movement options",
+      "language": "en"
+    },
+    {
+      "start": 7.14,
+      "end": 11.2,
+      "text": "There we go, gets off killed, and that's about to kill, yes indeed, we got it!",
+      "language": "en"
+    }
+  ],
+  "full_text": "He's not just getting hit, he realized that Raflow was just running away, and now he's punishing his movement options There we go, gets off killed, and that's about to kill, yes indeed, we got it!",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "He's not just getting hit, he realized that Roflo was just running away, and now he's punishing his movement options",
+      "corrected": "He's not just getting hit, he realized that Raflow was just running away, and now he's punishing his movement options",
+      "rule": "Player name: Roflo→Raflow (metadata)"
+    },
+    {
+      "segment_idx": 1,
+      "original": "There we go, Gestalt killed, and that's about to kill, yes indeed, we got it!",
+      "corrected": "There we go, gets off killed, and that's about to kill, yes indeed, we got it!",
+      "rule": "Whisper mishearing: Gestalt killed→gets off killed"
+    }
+  ]
+}

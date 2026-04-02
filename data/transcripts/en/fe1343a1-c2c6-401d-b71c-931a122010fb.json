@@ -1,0 +1,56 @@
+{
+  "id": "fe1343a1-c2c6-401d-b71c-931a122010fb",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.62,
+      "text": "That's explosive, but he's adding even more risk",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "爆弾ですが、そこにこうしてリスクをつけて"
+    },
+    {
+      "start": 2.62,
+      "end": 6.92,
+      "text": "Burst even",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "バーストイーブンです"
+    },
+    {
+      "start": 6.92,
+      "end": 11.04,
+      "text": "81.8!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "81.8%"
+    },
+    {
+      "start": 11.04,
+      "end": 12.7,
+      "text": "Huge deficit though",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ビハインドは大きいですが"
+    },
+    {
+      "start": 12.7,
+      "end": 15.62,
+      "text": "But he showed earlier he could reverse from a spot like this",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "先ほどもこういう状況からまくってみせた"
+    }
+  ],
+  "full_text": "That's explosive, but he's adding even more risk Burst even 81.8! Huge deficit though But he showed earlier he could reverse from a spot like this",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "バーストスクイーブン",
+      "corrected": "バーストイーブン",
+      "rule": "misheard: スクイーブン→イーブン"
+    }
+  ]
+}

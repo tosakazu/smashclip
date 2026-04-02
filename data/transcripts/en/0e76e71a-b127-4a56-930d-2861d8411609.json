@@ -1,0 +1,33 @@
+{
+  "id": "0e76e71a-b127-4a56-930d-2861d8411609",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.54,
+      "text": "Jump getup on one, getup attack on the other!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "本体はジャンプ上がりしてるのに相方は攻撃上がりしてたぞ"
+    },
+    {
+      "start": 3.54,
+      "end": 4.0,
+      "text": "Slick!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ずるっ"
+    },
+    {
+      "start": 5.36,
+      "end": 8.0,
+      "text": "Game 3!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあ3"
+    }
+  ],
+  "full_text": "Jump getup on one, getup attack on the other! Slick! Game 3!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

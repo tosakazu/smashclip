@@ -1,0 +1,49 @@
+{
+  "id": "2a0fe548-f267-4ed6-81b4-0f95f182023c",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.5,
+      "text": "If they're exposed",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "あってくれって"
+    },
+    {
+      "start": 0.5,
+      "end": 3.24,
+      "text": "From there~",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そこからねー"
+    },
+    {
+      "start": 3.24,
+      "end": 4.4,
+      "text": "While getting hit~",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "攻撃食らってる間ねー"
+    },
+    {
+      "start": 4.4,
+      "end": 6.0,
+      "text": "No time to act~",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "暇じゃないんだよねー"
+    },
+    {
+      "start": 6.0,
+      "end": 7.56,
+      "text": "vs Kazuya",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "カズヤ戦"
+    }
+  ],
+  "full_text": "If they're exposed From there~ While getting hit~ No time to act~ vs Kazuya",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

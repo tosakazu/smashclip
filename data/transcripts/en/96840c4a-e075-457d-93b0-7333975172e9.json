@@ -1,0 +1,21 @@
+{
+  "id": "96840c4a-e075-457d-93b0-7333975172e9",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 7.76,
+      "text": "Bomb, but amazing spacing coming out from SuperDog's bar right there to recover once again to the state of 111%, and Miya is not...",
+      "language": "en"
+    }
+  ],
+  "full_text": "Bomb, but amazing spacing coming out from SuperDog's bar right there to recover once again to the state of 111%, and Miya is not...",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "Milla",
+      "corrected": "Miya",
+      "rule": "player name"
+    }
+  ]
+}

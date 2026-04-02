@@ -1,0 +1,65 @@
+{
+  "id": "4ad483f6-7fd9-4223-b9d0-4bbf61d19674",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.36,
+      "text": "He's gone!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "行きました"
+    },
+    {
+      "start": 0.36,
+      "end": 1.64,
+      "text": "That's Gash, I think",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ガッシュですかね"
+    },
+    {
+      "start": 1.64,
+      "end": 4.02,
+      "text": "Right here",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここを"
+    },
+    {
+      "start": 4.02,
+      "end": 4.52,
+      "text": "I see!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "なるほど"
+    },
+    {
+      "start": 4.52,
+      "end": 5.42,
+      "text": "What incredible play!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ビホールド素晴らしい"
+    },
+    {
+      "start": 5.42,
+      "end": 6.04,
+      "text": "That's the KO!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "撃墜するよね"
+    },
+    {
+      "start": 6.04,
+      "end": 8.9,
+      "text": "Gets him with the reverse on the approach for the KO!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "向かってくるところを逆にやるような形で撃墜"
+    }
+  ],
+  "full_text": "He's gone! That's Gash, I think right here I see! What incredible play! That's the KO! Gets him with the reverse on the approach for the KO!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

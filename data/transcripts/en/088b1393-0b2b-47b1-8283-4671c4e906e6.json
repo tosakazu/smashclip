@@ -1,0 +1,32 @@
+{
+  "id": "088b1393-0b2b-47b1-8283-4671c4e906e6",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.36,
+      "text": "Going with",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "出していく"
+    },
+    {
+      "start": 0.36,
+      "end": 3.76,
+      "text": "up air",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空上"
+    }
+  ],
+  "full_text": "Going with up air",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "空中へ",
+      "corrected": "空上",
+      "rule": "Move abbreviation correction (空中へ → 空上)"
+    }
+  ]
+}

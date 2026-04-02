@@ -1,0 +1,69 @@
+{
+  "id": "5fb485b0-3de4-4ca0-9d61-992c8ba71dde",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.14,
+      "text": "テシ選手冷静な台上ガードでしたが",
+      "language": "ja"
+    },
+    {
+      "start": 2.14,
+      "end": 3.54,
+      "text": "テシ選手の空中前",
+      "language": "ja"
+    },
+    {
+      "start": 3.54,
+      "end": 6.78,
+      "text": "もうチャージショットくらえないぞ",
+      "language": "ja"
+    },
+    {
+      "start": 6.78,
+      "end": 8.88,
+      "text": "大ジャンプで上から安全に返ってくる",
+      "language": "ja"
+    },
+    {
+      "start": 8.88,
+      "end": 10.96,
+      "text": "空中前を上スマの後隙",
+      "language": "ja"
+    },
+    {
+      "start": 10.96,
+      "end": 12.36,
+      "text": "当てなかったがここはなんとか",
+      "language": "ja"
+    }
+  ],
+  "full_text": "テシ選手冷静な台上ガードでしたが テシ選手の空中前 もうチャージショットくらえないぞ 大ジャンプで上から安全に返ってくる 空中前を上スマの後隙 当てなかったがここはなんとか",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "チェス選手冷静な対上ガード",
+      "corrected": "テシ選手冷静な台上ガード",
+      "rule": "player name + kanji homophone (台上)"
+    },
+    {
+      "segment_idx": 1,
+      "original": "チェス選手",
+      "corrected": "テシ選手",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 3,
+      "original": "安定に返ってくる",
+      "corrected": "安全に返ってくる",
+      "rule": "misheard word"
+    },
+    {
+      "segment_idx": 4,
+      "original": "上相馬の後付き",
+      "corrected": "上スマの後隙",
+      "rule": "smash term (上スマ + 後隙)"
+    }
+  ]
+}

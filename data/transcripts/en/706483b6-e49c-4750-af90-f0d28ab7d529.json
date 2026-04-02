@@ -1,0 +1,113 @@
+{
+  "id": "706483b6-e49c-4750-af90-f0d28ab7d529",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Both players",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "お互い"
+    },
+    {
+      "start": 2.0,
+      "end": 5.0,
+      "text": "Final Destination's so cramped, side B gets the KO!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "終点は狭いぞ横Bでも撃墜する"
+    },
+    {
+      "start": 5.0,
+      "end": 8.0,
+      "text": "Just barely hanging on... barely not there!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ギリギリ足りる足りない"
+    },
+    {
+      "start": 8.0,
+      "end": 10.0,
+      "text": "Still hanging in there, still in this!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "耐えているまだ耐えている"
+    },
+    {
+      "start": 12.0,
+      "end": 14.0,
+      "text": "Up tilt lands! Up tilt!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "上強勝った上強"
+    },
+    {
+      "start": 14.0,
+      "end": 18.0,
+      "text": "Launch into space—that's the KO!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "宇宙へ確定している撃墜している"
+    },
+    {
+      "start": 18.0,
+      "end": 22.0,
+      "text": "Up tilt from Zackray!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "上強攻撃ザクレイ"
+    },
+    {
+      "start": 22.0,
+      "end": 24.0,
+      "text": "Takes the stock!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "拾いきったー"
+    },
+    {
+      "start": 24.0,
+      "end": 28.0,
+      "text": "That nail-biter exchange goes his way!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "戦闘技はギリギリのやりとりを制して"
+    },
+    {
+      "start": 28.0,
+      "end": 32.0,
+      "text": "Zackray advances to Winners Finals!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ザクレイウィナーズファイナル進出です"
+    },
+    {
+      "start": 35.0,
+      "end": 38.0,
+      "text": "What an incredible match!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これは素晴らしい試合内容でした"
+    }
+  ],
+  "full_text": "Both players Final Destination's so cramped, side B gets the KO! Just barely hanging on... barely not there! Still hanging in there, still in this! Up tilt lands! Up tilt! Launch into space—that's the KO! Up tilt from Zackray! Takes the stock! That nail-biter exchange goes his way! Zackray advances to Winners Finals! What an incredible match!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_index": 1,
+      "original": "終点は狭いぞ横ビーでも撃墜する",
+      "corrected": "終点は狭いぞ横Bでも撃墜する"
+    },
+    {
+      "segment_index": 4,
+      "original": "上京勝った上京",
+      "corrected": "上強勝った上強"
+    },
+    {
+      "segment_index": 6,
+      "original": "上京攻撃ザクレイ",
+      "corrected": "上強攻撃ザクレイ"
+    }
+  ]
+}

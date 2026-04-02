@@ -1,0 +1,63 @@
+{
+  "id": "d086044b-1d4b-40eb-8b06-b22ae66df90e",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.88,
+      "text": "本当に早いですね",
+      "language": "ja"
+    },
+    {
+      "start": 0.88,
+      "end": 4.84,
+      "text": "そのまま指から上に投げて展開を作る",
+      "language": "ja"
+    },
+    {
+      "start": 4.84,
+      "end": 6.46,
+      "text": "反撃の空前",
+      "language": "ja"
+    },
+    {
+      "start": 6.46,
+      "end": 7.7,
+      "text": "崖展開とする",
+      "language": "ja"
+    },
+    {
+      "start": 7.7,
+      "end": 10.78,
+      "text": "これ崖離しと打ち前などを狙って",
+      "language": "ja"
+    },
+    {
+      "start": 10.78,
+      "end": 12.8,
+      "text": "もう一段階膨らんでいた",
+      "language": "ja"
+    },
+    {
+      "start": 12.8,
+      "end": 14.04,
+      "text": "えぇおぉ",
+      "language": "ja"
+    },
+    {
+      "start": 14.04,
+      "end": 15.64,
+      "text": "ディレイもかけて",
+      "language": "ja"
+    }
+  ],
+  "full_text": "本当に早いですね そのまま指から上に投げて展開を作る 反撃の空前 崖展開とする これ崖離しと打ち前などを狙って もう一段階膨らんでいた えぇおぉ ディレイもかけて",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "反撃の打ち前",
+      "corrected": "反撃の空前",
+      "rule": "smash term (空前=forward air)"
+    }
+  ]
+}

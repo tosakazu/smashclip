@@ -1,0 +1,51 @@
+{
+  "id": "f60ea2e7-5740-4403-9de7-2eee97ffae96",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.0,
+      "text": "That was brave, but it paid off for Eiku.",
+      "language": "en"
+    },
+    {
+      "start": 4.0,
+      "end": 8.0,
+      "text": "70%, 80% on TG at the moment.",
+      "language": "en"
+    },
+    {
+      "start": 8.0,
+      "end": 12.0,
+      "text": "Eiku, still not dying. It's kind of a reverse situation of what we saw in game 2.",
+      "language": "en"
+    },
+    {
+      "start": 12.0,
+      "end": 14.0,
+      "text": "Oh my god. Jesus Christ.",
+      "language": "en"
+    }
+  ],
+  "full_text": "That was brave, but it paid off for Eiku. 70%, 80% on TG at the moment. Eiku, still not dying. It's kind of a reverse situation of what we saw in game 2. Oh my god. Jesus Christ.",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "Ake",
+      "corrected": "Eiku",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 1,
+      "original": "Torigiri",
+      "corrected": "TG",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 2,
+      "original": "Ake",
+      "corrected": "Eiku",
+      "rule": "player name"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "id": "a0678a91-3691-4341-9789-dd07cfd36ecd",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.16,
+      "text": "It looked like a recovery mixup situation, but...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "見えたリフコンの展開だったんですが"
+    },
+    {
+      "start": 3.16,
+      "end": 5.38,
+      "text": "naochan grabbed with Diddy Kong",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "掴んだなおちゃディディー"
+    },
+    {
+      "start": 5.38,
+      "end": 6.36,
+      "text": "extending the combo",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "コンボを伸ばして"
+    },
+    {
+      "start": 6.36,
+      "end": 8.78,
+      "text": "with bair off the wall during the recovery",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "リフティング空中後ろの壁で"
+    },
+    {
+      "start": 8.78,
+      "end": 10.44,
+      "text": "getting back somehow, but...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "なんとか後助けを借りますが"
+    },
+    {
+      "start": 10.44,
+      "end": 14.64,
+      "text": "No, when trying to cover the vertical angle...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いや縦軸が合わせようとすると"
+    },
+    {
+      "start": 14.64,
+      "end": 15.64,
+      "text": "flipping away horizontally to escape",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "横にフリップで逃げて"
+    },
+    {
+      "start": 15.64,
+      "end": 17.06,
+      "text": "and when trying to cover the horizontal...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "横軸合わせようとすると"
+    }
+  ],
+  "full_text": "It looked like a recovery mixup situation, but... naochan grabbed with Diddy Kong extending the combo with bair off the wall during the recovery getting back somehow, but... No, when trying to cover the vertical angle... flipping away horizontally to escape and when trying to cover the horizontal...",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "ナオチャディリー",
+      "corrected": "なおちゃディディー",
+      "rule": "player name + character name"
+    }
+  ]
+}

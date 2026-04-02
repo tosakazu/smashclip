@@ -1,0 +1,38 @@
+{
+  "id": "2a317272-7857-4edc-a035-1d48bfda6ee0",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.56,
+      "text": "Fair combos!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空前 コンボ"
+    },
+    {
+      "start": 5.56,
+      "end": 6.52,
+      "text": "Good aggression!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いい攻めは"
+    }
+  ],
+  "full_text": "Fair combos! Good aggression!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "クマコロナ",
+      "corrected": "空前 コンボ",
+      "rule": "garbled: クマコロナ→空前 コンボ"
+    },
+    {
+      "segment_idx": 1,
+      "original": "いい高齢は",
+      "corrected": "いい攻めは",
+      "rule": "misheard: 高齢→攻め"
+    }
+  ]
+}

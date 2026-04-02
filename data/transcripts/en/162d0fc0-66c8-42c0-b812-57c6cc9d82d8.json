@@ -1,0 +1,64 @@
+{
+  "id": "162d0fc0-66c8-42c0-b812-57c6cc9d82d8",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.36,
+      "text": "That's looking good!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いいと思います"
+    },
+    {
+      "start": 0.36,
+      "end": 1.56,
+      "text": "Yeah, probably",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "分かる多分"
+    },
+    {
+      "start": 1.56,
+      "end": 4.74,
+      "text": "Oh! They even went for side B!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "おっと横Bすら抜いてきましたね"
+    },
+    {
+      "start": 4.74,
+      "end": 6.32,
+      "text": "They added a little delay there",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "今ちょっとディレイかけましたかね"
+    },
+    {
+      "start": 6.32,
+      "end": 6.76,
+      "text": "Delay",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ディレイ"
+    },
+    {
+      "start": 6.76,
+      "end": 7.5,
+      "text": "Whoa!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "うおー"
+    }
+  ],
+  "full_text": "That's looking good! Yeah, probably Oh! They even went for side B! They added a little delay there Delay Whoa!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "おっと横帯すら抜いてきましたね",
+      "corrected": "おっと横Bすら抜いてきましたね",
+      "rule": "Move name: 横帯→横B"
+    }
+  ]
+}

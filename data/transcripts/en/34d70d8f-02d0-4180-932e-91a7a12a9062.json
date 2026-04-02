@@ -1,0 +1,38 @@
+{
+  "id": "34d70d8f-02d0-4180-932e-91a7a12a9062",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.74,
+      "text": "A cheeky little setup, like you said, it looks like you're strolling, but there is an intent behind the madness here.",
+      "language": "en"
+    },
+    {
+      "start": 5.96,
+      "end": 8.1,
+      "text": "Oh yeah, I mean it's been like that since the Brawl days.",
+      "language": "en"
+    },
+    {
+      "start": 8.56,
+      "end": 11.78,
+      "text": "Like sometimes Gluto just plays in a way that nobody else does.",
+      "language": "en"
+    },
+    {
+      "start": 11.88,
+      "end": 12.16,
+      "text": "Oh!",
+      "language": "en"
+    },
+    {
+      "start": 12.4,
+      "end": 14.3,
+      "text": "Oh, okay, well we've seen that one.",
+      "language": "en"
+    }
+  ],
+  "full_text": "A cheeky little setup, like you said, it looks like you're strolling, but there is an intent behind the madness here. Oh yeah, I mean it's been like that since the Brawl days. Like sometimes Gluto just plays in a way that nobody else does. Oh! Oh, okay, well we've seen that one.",
+  "detected_language": "en",
+  "corrections": []
+}

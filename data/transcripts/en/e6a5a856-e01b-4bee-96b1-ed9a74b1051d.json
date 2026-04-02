@@ -1,0 +1,76 @@
+{
+  "id": "e6a5a856-e01b-4bee-96b1-ed9a74b1051d",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.18,
+      "text": "What's the answer?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "どのような対策持ってきたでしょう"
+    },
+    {
+      "start": 1.18,
+      "end": 3.2,
+      "text": "Recovery fake into the KO!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "それから復帰と見せかけてが撃墜"
+    },
+    {
+      "start": 3.2,
+      "end": 7.28,
+      "text": "They're not letting them back!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いやしかしやはり素通りはさせてもらえないのか"
+    },
+    {
+      "start": 7.28,
+      "end": 8.22,
+      "text": "That's right!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いやそうですよね"
+    },
+    {
+      "start": 8.22,
+      "end": 9.2,
+      "text": "Right at the edge!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "この右側の崖だ"
+    },
+    {
+      "start": 9.2,
+      "end": 10.82,
+      "text": "Beautiful juggle!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "着地狩りうまえ"
+    }
+  ],
+  "full_text": "What's the answer? Recovery fake into the KO! They're not letting them back! That's right! Right at the edge! Beautiful juggle!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "復帰と見せかけてが激闘",
+      "corrected": "復帰と見せかけてが撃墜",
+      "rule": "kanji homophone: 撃墜"
+    },
+    {
+      "segment_idx": 4,
+      "original": "この右側のガキだ",
+      "corrected": "この右側の崖だ",
+      "rule": "misheard: 崖"
+    },
+    {
+      "segment_idx": 5,
+      "original": "着地できるまえ",
+      "corrected": "着地狩りうまえ",
+      "rule": "misheard: 着地狩り"
+    }
+  ]
+}

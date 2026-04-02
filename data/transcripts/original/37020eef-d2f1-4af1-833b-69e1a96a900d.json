@@ -1,0 +1,21 @@
+{
+  "id": "37020eef-d2f1-4af1-833b-69e1a96a900d",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.22,
+      "text": "スネーク戦本当に分かってないと結構難しいところが多いので",
+      "language": "ja"
+    }
+  ],
+  "full_text": "スネーク戦本当に分かってないと結構難しいところが多いので",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "ステーク戦",
+      "corrected": "スネーク戦",
+      "rule": "character name: Snake=スネーク"
+    }
+  ]
+}

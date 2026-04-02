@@ -1,0 +1,26 @@
+{
+  "id": "0551285e-784b-496f-be21-ca555a4bf872",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.72,
+      "text": "ベル12リンク",
+      "language": "ja"
+    },
+    {
+      "start": 0.72,
+      "end": 7.36,
+      "text": "これは掴んでしかし上投げで撃墜",
+      "language": "ja"
+    },
+    {
+      "start": 7.36,
+      "end": 9.48,
+      "text": "さすがにパーセンテージ170",
+      "language": "ja"
+    }
+  ],
+  "full_text": "ベル12リンク これは掴んでしかし上投げで撃墜 さすがにパーセンテージ170",
+  "detected_language": "ja",
+  "corrections": []
+}

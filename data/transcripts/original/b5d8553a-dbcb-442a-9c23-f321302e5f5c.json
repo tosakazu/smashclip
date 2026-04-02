@@ -1,0 +1,50 @@
+{
+  "id": "b5d8553a-dbcb-442a-9c23-f321302e5f5c",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "text": "シラブホーロー",
+      "language": "ja"
+    },
+    {
+      "start": 1.0,
+      "end": 2.74,
+      "text": "忍耐力があります",
+      "language": "ja"
+    },
+    {
+      "start": 2.74,
+      "end": 3.84,
+      "text": "しかしそれは",
+      "language": "ja"
+    },
+    {
+      "start": 3.84,
+      "end": 6.02,
+      "text": "ゼルダ使いも同じところ",
+      "language": "ja"
+    },
+    {
+      "start": 6.02,
+      "end": 7.3,
+      "text": "強豪ゼルダ使い",
+      "language": "ja"
+    },
+    {
+      "start": 7.3,
+      "end": 8.4,
+      "text": "おっとこれは高速量",
+      "language": "ja"
+    },
+    {
+      "start": 8.4,
+      "end": 10.16,
+      "text": "2段出てたら届いてる?",
+      "language": "ja"
+    }
+  ],
+  "full_text": "シラブホーロー 忍耐力があります しかしそれは ゼルダ使いも同じところ 強豪ゼルダ使い おっとこれは高速量 2段出てたら届いてる?",
+  "detected_language": "ja",
+  "corrections": []
+}

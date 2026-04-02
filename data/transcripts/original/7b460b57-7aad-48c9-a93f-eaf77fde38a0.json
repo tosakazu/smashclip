@@ -1,0 +1,45 @@
+{
+  "id": "7b460b57-7aad-48c9-a93f-eaf77fde38a0",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "久しぶりに撃墜したー!",
+      "language": "ja"
+    },
+    {
+      "start": 2.0,
+      "end": 4.62,
+      "text": "これかなりタイミングシビアなんですけれどもね",
+      "language": "ja"
+    },
+    {
+      "start": 4.62,
+      "end": 5.18,
+      "text": "当てすぎる",
+      "language": "ja"
+    },
+    {
+      "start": 5.18,
+      "end": 5.56,
+      "text": "うまいぞ!",
+      "language": "ja"
+    },
+    {
+      "start": 5.92,
+      "end": 7.84,
+      "text": "ゴールドしてるから撃墜する!",
+      "language": "ja"
+    }
+  ],
+  "full_text": "久しぶりに撃墜したー! これかなりタイミングシビアなんですけれどもね 当てすぎる うまいぞ! ゴールドしてるから撃墜する!",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "撃沈",
+      "corrected": "撃墜",
+      "rule": "kanji homophone: 撃沈→撃墜 (smash term)"
+    }
+  ]
+}

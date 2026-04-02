@@ -1,0 +1,39 @@
+{
+  "id": "03eebd24-8f68-48ac-969a-4c77885f36a9",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.2,
+      "text": "Send it, send it.",
+      "language": "en"
+    },
+    {
+      "start": 1.2,
+      "end": 6.32,
+      "text": "Yeah, once every now and then, and that's why I suppose TG is so scary because he's like",
+      "language": "en"
+    },
+    {
+      "start": 6.32,
+      "end": 11.12,
+      "text": "the most patient, reserved player until he just randomly throws a Wonderwing at you like that. And",
+      "language": "en"
+    }
+  ],
+  "full_text": "Send it, send it. Yeah, once every now and then, and that's why I suppose TG is so scary because he's like the most patient, reserved player until he just randomly throws a Wonderwing at you like that. And",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "StoryGuru",
+      "corrected": "TG",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 2,
+      "original": "Wonder Wig",
+      "corrected": "Wonderwing",
+      "rule": "move name"
+    }
+  ]
+}

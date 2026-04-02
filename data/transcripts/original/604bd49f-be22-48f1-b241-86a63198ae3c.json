@@ -1,0 +1,33 @@
+{
+  "id": "604bd49f-be22-48f1-b241-86a63198ae3c",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.18,
+      "text": "Get there in time, but that's okay, you might get another chance soon.",
+      "language": "en"
+    },
+    {
+      "start": 2.6,
+      "end": 5.44,
+      "text": "And Lammers' with the stage! Lammers' with the ledge.",
+      "language": "en"
+    },
+    {
+      "start": 6.56,
+      "end": 7.64,
+      "text": "Can't escape the ledge trap.",
+      "language": "en"
+    }
+  ],
+  "full_text": "Get there in time, but that's okay, you might get another chance soon. And Lammers' with the stage! Lammers' with the ledge. Can't escape the ledge trap.",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "Lamer's",
+      "corrected": "Lammers'",
+      "rule": "player name"
+    }
+  ]
+}

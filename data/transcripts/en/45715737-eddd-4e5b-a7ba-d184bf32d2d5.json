@@ -1,0 +1,27 @@
+{
+  "id": "45715737-eddd-4e5b-a7ba-d184bf32d2d5",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.22,
+      "text": "controlling the stage position let's see what the option is just get back on",
+      "language": "en"
+    },
+    {
+      "start": 4.22,
+      "end": 8.54,
+      "text": "shield no problem here from Sisqui but the pin will finally find",
+      "language": "en"
+    }
+  ],
+  "full_text": "controlling the stage position let's see what the option is just get back on shield no problem here from Sisqui but the pin will finally find",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "siski",
+      "corrected": "Sisqui",
+      "rule": "player name"
+    }
+  ]
+}

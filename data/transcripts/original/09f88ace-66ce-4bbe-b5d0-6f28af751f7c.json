@@ -1,0 +1,20 @@
+{
+  "id": "09f88ace-66ce-4bbe-b5d0-6f28af751f7c",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.32,
+      "text": "12位というね素晴らしい成績を収めたばかり",
+      "language": "ja"
+    },
+    {
+      "start": 3.32,
+      "end": 8.32,
+      "text": "久々のこの大対戦会というところですがまたは",
+      "language": "ja"
+    }
+  ],
+  "full_text": "12位というね素晴らしい成績を収めたばかり 久々のこの大対戦会というところですがまたは",
+  "detected_language": "ja",
+  "corrections": []
+}

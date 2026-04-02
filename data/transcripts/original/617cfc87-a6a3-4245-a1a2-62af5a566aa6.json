@@ -1,0 +1,87 @@
+{
+  "id": "617cfc87-a6a3-4245-a1a2-62af5a566aa6",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.5,
+      "text": "雰囲気として展開",
+      "language": "ja"
+    },
+    {
+      "start": 1.5,
+      "end": 2.0,
+      "text": "これは!",
+      "language": "ja"
+    },
+    {
+      "start": 2.0,
+      "end": 3.0,
+      "text": "返れるぅ!",
+      "language": "ja"
+    },
+    {
+      "start": 6.0,
+      "end": 7.0,
+      "text": "これ外れてきます",
+      "language": "ja"
+    },
+    {
+      "start": 7.0,
+      "end": 8.5,
+      "text": "空前から反撃",
+      "language": "ja"
+    },
+    {
+      "start": 8.5,
+      "end": 9.5,
+      "text": "ガンダッシュで詰め寄るが",
+      "language": "ja"
+    },
+    {
+      "start": 9.5,
+      "end": 11.0,
+      "text": "下り空中時のジャストシールド",
+      "language": "ja"
+    },
+    {
+      "start": 11.0,
+      "end": 12.0,
+      "text": "これは姿勢よけになりましたね",
+      "language": "ja"
+    },
+    {
+      "start": 12.0,
+      "end": 14.0,
+      "text": "ニューリフレームを獲得して",
+      "language": "ja"
+    },
+    {
+      "start": 14.0,
+      "end": 15.0,
+      "text": "上へ飛ばして",
+      "language": "ja"
+    },
+    {
+      "start": 15.0,
+      "end": 16.16,
+      "text": "後ろ側よくない?",
+      "language": "ja"
+    }
+  ],
+  "full_text": "雰囲気として展開 これは! 返れるぅ! これ外れてきます 空前から反撃 ガンダッシュで詰め寄るが 下り空中時のジャストシールド これは姿勢よけになりましたね ニューリフレームを獲得して 上へ飛ばして 後ろ側よくない?",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 4,
+      "original": "空拳",
+      "corrected": "空前",
+      "rule": "smash term"
+    },
+    {
+      "segment_idx": 6,
+      "original": "チャットシールド",
+      "corrected": "ジャストシールド",
+      "rule": "smash term"
+    }
+  ]
+}

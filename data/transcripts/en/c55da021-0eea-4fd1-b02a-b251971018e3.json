@@ -1,0 +1,48 @@
+{
+  "id": "c55da021-0eea-4fd1-b02a-b251971018e3",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.14,
+      "text": "Each other's moves",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "お互いの技"
+    },
+    {
+      "start": 2.14,
+      "end": 3.6,
+      "text": "Especially Coutney",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "特にクーティニー"
+    },
+    {
+      "start": 3.6,
+      "end": 6.3,
+      "text": "Going that hard with it",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここまで執拗に振っているということは"
+    },
+    {
+      "start": 6.3,
+      "end": 7.0,
+      "text": "That's gotta be it",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そういうことでしょう"
+    }
+  ],
+  "full_text": "Each other's moves Especially Coutney Going that hard with it That's gotta be it",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "必要に",
+      "corrected": "執拗に",
+      "rule": "misheard word"
+    }
+  ]
+}

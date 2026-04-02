@@ -1,0 +1,82 @@
+{
+  "id": "68b9d296-fb12-49d4-b619-4d1dd207ba2e",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.86,
+      "text": "Escaping",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "逃げながら"
+    },
+    {
+      "start": 0.86,
+      "end": 3.68,
+      "text": "How about this? Bold grab from Yoshi!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これどうだ?強気な掴みを通してヨシドラ"
+    },
+    {
+      "start": 3.68,
+      "end": 7.0,
+      "text": "Neutral",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "差し合い"
+    },
+    {
+      "start": 8.02,
+      "end": 9.32,
+      "text": "Through wraparound dodge",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "回り込み回避を通して"
+    },
+    {
+      "start": 9.32,
+      "end": 11.08,
+      "text": "There it is! He gets it!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これは!拾ったので"
+    },
+    {
+      "start": 11.08,
+      "end": 12.04,
+      "text": "Up tilt to up air!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "上強空上"
+    }
+  ],
+  "full_text": "Escaping How about this? Bold grab from Yoshi! Neutral Through wraparound dodge There it is! He gets it! Up tilt to up air!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "吉寺",
+      "corrected": "ヨシドラ",
+      "rule": "player name (kanji homophone)"
+    },
+    {
+      "segment_idx": 2,
+      "original": "左に見合い",
+      "corrected": "差し合い",
+      "rule": "Whisper mishearing"
+    },
+    {
+      "segment_idx": 3,
+      "original": "周りと未回避",
+      "corrected": "回り込み回避",
+      "rule": "Whisper mishearing"
+    },
+    {
+      "segment_idx": 5,
+      "original": "空中",
+      "corrected": "空上",
+      "rule": "move abbreviation"
+    }
+  ]
+}

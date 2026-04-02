@@ -1,0 +1,17 @@
+{
+  "id": "b48be41d-4a68-45c2-be71-d8763bc00b9f",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.06,
+      "text": "This video's captions were created by viewers.",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "この動画の字幕は視聴者によって作成されました。"
+    }
+  ],
+  "full_text": "This video's captions were created by viewers.",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

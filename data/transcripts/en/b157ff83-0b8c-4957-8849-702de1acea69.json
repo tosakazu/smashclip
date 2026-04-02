@@ -1,0 +1,72 @@
+{
+  "id": "b157ff83-0b8c-4957-8849-702de1acea69",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.52,
+      "text": "Can generate tons of stage gimmicks",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ステージで多くのギミックを生成することができる"
+    },
+    {
+      "start": 2.52,
+      "end": 4.46,
+      "text": "The block throw positioning stuff...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "やっぱりブロックでの投げかけっていうところを"
+    },
+    {
+      "start": 4.46,
+      "end": 5.32,
+      "text": "They really seem to be weighting that heavily",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "重く見てそうですよね"
+    },
+    {
+      "start": 5.32,
+      "end": 7.38,
+      "text": "Block",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ブロック"
+    },
+    {
+      "start": 7.38,
+      "end": 9.94,
+      "text": "Making full use of anti-juggle tech",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "着地狩り拒否を存分に活用して"
+    },
+    {
+      "start": 9.94,
+      "end": 12.24,
+      "text": "Against Luigi's burst shot, how do they want to fight?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "らるルイージのバーストショットに戦っていきたいか"
+    },
+    {
+      "start": 12.24,
+      "end": 13.44,
+      "text": "Nice work early!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "お見事早めに"
+    }
+  ],
+  "full_text": "Can generate tons of stage gimmicks The block throw positioning stuff... They really seem to be weighting that heavily Block Making full use of anti-juggle tech Against Luigi's burst shot, how do they want to fight? Nice work early!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 5,
+      "original": "ラルヌイジのパーティーショットと戦っていきたいか",
+      "corrected": "らるルイージのバーストショットに戦っていきたいか",
+      "rule": "player name (らる) + character (Luigi)"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "0e286fd8-30e8-4341-a002-dc9f1c91619f",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.6,
+      "text": "Coming back from above, but Toon Link's grab catches it!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "上から返ってくるがトロッコのつかみが拾う"
+    },
+    {
+      "start": 2.6,
+      "end": 5.26,
+      "text": "Forward smash punishes the ending lag off the spot dodge!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "横スマがニュートラル回避の後隙を拾う"
+    },
+    {
+      "start": 5.26,
+      "end": 10.06,
+      "text": "The bair was going for the edgeguard on KEN's recovery!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空後がKENのライン回復を止めようというところだったんですが"
+    }
+  ],
+  "full_text": "Coming back from above, but Toon Link's grab catches it! Forward smash punishes the ending lag off the spot dodge! The bair was going for the edgeguard on KEN's recovery!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "空中後ろが剣のライン回復を止めようというところだったんですが",
+      "corrected": "空後がKENのライン回復を止めようというところだったんですが",
+      "rule": "Move abbreviation: 空中後ろ→空後; Player name: 剣→KEN"
+    }
+  ]
+}

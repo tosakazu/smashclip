@@ -1,0 +1,38 @@
+{
+  "id": "c0bf5f19-80aa-4b09-bbdc-2764e4698a95",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.38,
+      "text": "3 turnips for the reverse KO!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "3カブ 出て反転撃墜"
+    },
+    {
+      "start": 2.38,
+      "end": 8.92,
+      "text": "Alright, Kept has opened up quite a lead at 3-1 in stocks, but...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあここではケプト側がストック3-1というところでかなり差をつけましたが"
+    }
+  ],
+  "full_text": "3 turnips for the reverse KO! Alright, Kept has opened up quite a lead at 3-1 in stocks, but...",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "出てファンデ撃墜",
+      "corrected": "出て反転撃墜",
+      "rule": "misheard word"
+    },
+    {
+      "segment_idx": 1,
+      "original": "ケプトガオが",
+      "corrected": "ケプト側が",
+      "rule": "misheard word"
+    }
+  ]
+}

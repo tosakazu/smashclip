@@ -1,0 +1,45 @@
+{
+  "id": "7bde5f86-b329-4eee-b842-f4c9155bf47c",
+  "segments": [
+    {
+      "start": 0.78,
+      "end": 2.7,
+      "text": "ダイヤモンドと下スマッシュで固めて",
+      "language": "ja"
+    },
+    {
+      "start": 2.7,
+      "end": 4.04,
+      "text": "ベクトルがえぐいが",
+      "language": "ja"
+    },
+    {
+      "start": 4.04,
+      "end": 5.52,
+      "text": "これはソニックなら",
+      "language": "ja"
+    },
+    {
+      "start": 5.52,
+      "end": 7.16,
+      "text": "帰ってこれはするんですが",
+      "language": "ja"
+    }
+  ],
+  "full_text": "ダイヤモンドと下スマッシュで固めて ベクトルがえぐいが これはソニックなら 帰ってこれはするんですが",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "ダイレクト下と下スマッシュ",
+      "corrected": "ダイヤモンドと下スマッシュ",
+      "rule": "misheard: ダイレクト下→ダイヤモンド (Steve's diamond equipment)"
+    },
+    {
+      "segment_idx": 3,
+      "original": "かえってこれはするんですが",
+      "corrected": "帰ってこれはするんですが",
+      "rule": "kanji clarification"
+    }
+  ]
+}

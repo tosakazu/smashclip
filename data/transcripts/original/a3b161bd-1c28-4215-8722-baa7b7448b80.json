@@ -1,0 +1,37 @@
+{
+  "id": "a3b161bd-1c28-4215-8722-baa7b7448b80",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.94,
+      "text": "Every single one of those nairs in Raru's face.",
+      "language": "en"
+    },
+    {
+      "start": 3.36,
+      "end": 6.12,
+      "text": "Was that a jump? If I recall correctly, he does not have a jump.",
+      "language": "en"
+    },
+    {
+      "start": 6.32,
+      "end": 8.86,
+      "text": "Doesn't seem like he has it anymore. Yup, he was able to catch it.",
+      "language": "en"
+    }
+  ],
+  "full_text": "Every single one of those nairs in Raru's face. Was that a jump? If I recall correctly, he does not have a jump. Doesn't seem like he has it anymore. Yup, he was able to catch it.",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "original": "nears",
+      "corrected": "nairs",
+      "reason": "nair = neutral air (空N)"
+    },
+    {
+      "original": "Roderick's",
+      "corrected": "Raru's",
+      "reason": "プレイヤー名はRaru"
+    }
+  ]
+}

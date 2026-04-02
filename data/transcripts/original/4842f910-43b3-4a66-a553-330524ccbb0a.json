@@ -1,0 +1,33 @@
+{
+  "id": "4842f910-43b3-4a66-a553-330524ccbb0a",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.48,
+      "text": "there pop pop original air dodge leo gonna get the punish maybe a bit of a panic option here",
+      "language": "en"
+    },
+    {
+      "start": 6.48,
+      "end": 13.4,
+      "text": "from atreus oh my goodness full drag down yeah what a catch you will be right here that teleport",
+      "language": "en"
+    },
+    {
+      "start": 13.4,
+      "end": 14.58,
+      "text": "canceled to the lead",
+      "language": "en"
+    }
+  ],
+  "full_text": "there pop pop original air dodge leo gonna get the punish maybe a bit of a panic option here from atreus oh my goodness full drag down yeah what a catch you will be right here that teleport canceled to the lead",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "pull drag down",
+      "corrected": "full drag down",
+      "rule": "misheard word"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "b05f68a8-16c7-4215-b0f0-af9aee3a4843",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.22,
+      "text": "We explained the change.",
+      "language": "en",
+      "original_language": "tr",
+      "original_text": "Değişikliği anlattık."
+    },
+    {
+      "start": 1.22,
+      "end": 2.36,
+      "text": "Thank you for watching.",
+      "language": "en",
+      "original_language": "tr",
+      "original_text": "İzlediğiniz için teşekkürler."
+    },
+    {
+      "start": 3.36,
+      "end": 5.3,
+      "text": "Thank you for watching.",
+      "language": "en",
+      "original_language": "tr",
+      "original_text": "İzlediğiniz için teşekkürler."
+    }
+  ],
+  "full_text": "We explained the change. Thank you for watching. Thank you for watching.",
+  "detected_language": "ja",
+  "original_language": "tr",
+  "corrections": []
+}

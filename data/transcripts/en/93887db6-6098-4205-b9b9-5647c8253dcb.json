@@ -1,0 +1,184 @@
+{
+  "id": "93887db6-6098-4205-b9b9-5647c8253dcb",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.88,
+      "text": "All right, but Tweek still has the lead",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあしかしまだリードは十分にTweek"
+    },
+    {
+      "start": 4.88,
+      "end": 6.04,
+      "text": "What's he doing from the knockdown?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ダウンからこれどうする"
+    },
+    {
+      "start": 6.04,
+      "end": 7.08,
+      "text": "Earlier's pick",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "先ほど選択"
+    },
+    {
+      "start": 7.08,
+      "end": 8.14,
+      "text": "Going for damage",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ダメージ重視"
+    },
+    {
+      "start": 8.14,
+      "end": 11.16,
+      "text": "And going again here, but...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そして再びかけですが"
+    },
+    {
+      "start": 11.16,
+      "end": 12.62,
+      "text": "Got the position!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "前を取れた"
+    },
+    {
+      "start": 12.62,
+      "end": 14.5,
+      "text": "But Tweek mashed out",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "しかし暴れたTweek"
+    },
+    {
+      "start": 14.5,
+      "end": 16.9,
+      "text": "Hits with the aerial first",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "先に空中攻撃を当ててから"
+    },
+    {
+      "start": 16.9,
+      "end": 17.8,
+      "text": "Knockdown",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ダウン"
+    },
+    {
+      "start": 17.8,
+      "end": 18.42,
+      "text": "What's next?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "今度はどうする"
+    },
+    {
+      "start": 18.42,
+      "end": 20.24,
+      "text": "Reading the dodge, looking for the double-up but...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "回避を見てダブルアップ狙っているが"
+    },
+    {
+      "start": 20.24,
+      "end": 20.92,
+      "text": "Got the tech solidified",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "下起きを固めて"
+    },
+    {
+      "start": 20.92,
+      "end": 23.84,
+      "text": "He can't take many more hits now",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあもう何度も食らえなくなってきた"
+    },
+    {
+      "start": 23.84,
+      "end": 26.28,
+      "text": "Anything will KO him at this point",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "もう何でも死にますよこうなると"
+    },
+    {
+      "start": 26.28,
+      "end": 27.12,
+      "text": "Overwhelming advantage",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "圧倒的なアドバンスレッジ"
+    },
+    {
+      "start": 27.12,
+      "end": 28.56,
+      "text": "Goes for forward smash",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "アナラを当ててフェスマッシュ"
+    },
+    {
+      "start": 28.56,
+      "end": 29.94,
+      "text": "Came in straight",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ストレートで来ましたね"
+    },
+    {
+      "start": 29.94,
+      "end": 30.32,
+      "text": "Yeah",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "はい"
+    }
+  ],
+  "full_text": "All right, but Tweek still has the lead What's he doing from the knockdown? Earlier's pick Going for damage And going again here, but... Got the position! But Tweek mashed out Hits with the aerial first Knockdown What's next? Reading the dodge, looking for the double-up but... Got the tech solidified He can't take many more hits now Anything will KO him at this point Overwhelming advantage Goes for forward smash Came in straight Yeah",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "ツイク",
+      "corrected": "Tweek",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 6,
+      "original": "暴れたツイク",
+      "corrected": "暴れたTweek",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 11,
+      "original": "下気を固めて",
+      "corrected": "下起きを固めて",
+      "rule": "misheard word (下気→下起き)"
+    },
+    {
+      "segment_idx": 13,
+      "original": "圧倒的なアドバンスレッジ",
+      "corrected": "圧倒的なアドバンテージ",
+      "rule": "misheard word"
+    },
+    {
+      "segment_idx": 14,
+      "original": "アナラを当ててフェスマッシュ",
+      "corrected": "バナナを当てて上スマッシュ",
+      "rule": "misheard word + move name"
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "id": "4df50cf6-c509-4483-a49f-a04524c5f2e8",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.4,
+      "text": "Can they recover?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "上がることができるか"
+    },
+    {
+      "start": 1.4,
+      "end": 2.58,
+      "text": "No recovery!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "上がれない"
+    },
+    {
+      "start": 2.58,
+      "end": 4.0,
+      "text": "But it's not the KO yet!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "しかしまだ撃墜はしない"
+    },
+    {
+      "start": 4.0,
+      "end": 5.16,
+      "text": "Perfect KO!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "撃墜が完璧だ"
+    },
+    {
+      "start": 5.16,
+      "end": 7.62,
+      "text": "Fair off-stage!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空前で崖外に"
+    },
+    {
+      "start": 7.62,
+      "end": 9.02,
+      "text": "Beats the airdodge too!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "回避も切って"
+    },
+    {
+      "start": 9.02,
+      "end": 10.88,
+      "text": "But side B brings them back",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "しかし横必殺で帰ってくる"
+    },
+    {
+      "start": 10.88,
+      "end": 12.52,
+      "text": "Pac-Man...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "パックマンはね"
+    },
+    {
+      "start": 12.52,
+      "end": 14.04,
+      "text": "Because that KO setup is so unique",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "あの撃墜技が特殊なので"
+    },
+    {
+      "start": 14.04,
+      "end": 14.96,
+      "text": "That...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "あの"
+    }
+  ],
+  "full_text": "Can they recover? No recovery! But it's not the KO yet! Perfect KO! Fair off-stage! Beats the airdodge too! But side B brings them back Pac-Man... Because that KO setup is so unique That...",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 4,
+      "original": "空中前で",
+      "corrected": "空前で",
+      "rule": "move abbreviation"
+    },
+    {
+      "segment_idx": 7,
+      "original": "パクマン",
+      "corrected": "パックマン",
+      "rule": "character name"
+    }
+  ]
+}

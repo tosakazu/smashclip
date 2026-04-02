@@ -1,0 +1,135 @@
+{
+  "id": "c5794ff2-b459-42be-a258-5cfe6459aae2",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.14,
+      "text": "空中へ空中へ",
+      "language": "ja"
+    },
+    {
+      "start": 1.14,
+      "end": 3.7,
+      "text": "ブロックを立てるためにはある程度",
+      "language": "ja"
+    },
+    {
+      "start": 3.7,
+      "end": 5.86,
+      "text": "ステージで床に近づかなければならない",
+      "language": "ja"
+    },
+    {
+      "start": 5.86,
+      "end": 7.44,
+      "text": "ちょっとシールド上見え",
+      "language": "ja"
+    },
+    {
+      "start": 7.44,
+      "end": 9.76,
+      "text": "その暴れはさっき見たよと",
+      "language": "ja"
+    },
+    {
+      "start": 9.76,
+      "end": 12.2,
+      "text": "見合いに同じでは何度も何度も",
+      "language": "ja"
+    },
+    {
+      "start": 12.2,
+      "end": 13.48,
+      "text": "通用しない",
+      "language": "ja"
+    },
+    {
+      "start": 13.48,
+      "end": 16.42,
+      "text": "投げも通して",
+      "language": "ja"
+    },
+    {
+      "start": 16.42,
+      "end": 19.16,
+      "text": "空Nで突っ張る気ですが",
+      "language": "ja"
+    },
+    {
+      "start": 19.16,
+      "end": 20.72,
+      "text": "それをカバーする空中へ",
+      "language": "ja"
+    },
+    {
+      "start": 20.72,
+      "end": 23.48,
+      "text": "空中だろう受け身を取っていくものを",
+      "language": "ja"
+    },
+    {
+      "start": 23.48,
+      "end": 24.78,
+      "text": "そこすらもカバーしよう",
+      "language": "ja"
+    },
+    {
+      "start": 24.78,
+      "end": 28.1,
+      "text": "なんて先まで見えている",
+      "language": "ja"
+    },
+    {
+      "start": 28.1,
+      "end": 29.04,
+      "text": "空中後ろ",
+      "language": "ja"
+    },
+    {
+      "start": 29.04,
+      "end": 30.58,
+      "text": "カメラ止めて",
+      "language": "ja"
+    },
+    {
+      "start": 30.58,
+      "end": 31.06,
+      "text": "カメラ止めて",
+      "language": "ja"
+    },
+    {
+      "start": 31.06,
+      "end": 32.2,
+      "text": "カメラ止めて",
+      "language": "ja"
+    },
+    {
+      "start": 32.2,
+      "end": 33.66,
+      "text": "カメラ止めて",
+      "language": "ja"
+    }
+  ],
+  "full_text": "空中へ空中へ ブロックを立てるためにはある程度 ステージで床に近づかなければならない ちょっとシールド上見え その暴れはさっき見たよと 見合いに同じでは何度も何度も 通用しない 投げも通して 空Nで突っ張る気ですが それをカバーする空中へ 空中だろう受け身を取っていくものを そこすらもカバーしよう なんて先まで見えている 空中後ろ カメラ止めて カメラ止めて カメラ止めて カメラ止めて",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 8,
+      "original": "空中ショース",
+      "corrected": "空Nで",
+      "rule": "misheard move name"
+    },
+    {
+      "segment_idx": 10,
+      "original": "空中太郎",
+      "corrected": "空中だろう",
+      "rule": "misheard word"
+    },
+    {
+      "segment_idx": 13,
+      "original": "空中しろ",
+      "corrected": "空中後ろ",
+      "rule": "misheard move name"
+    }
+  ]
+}

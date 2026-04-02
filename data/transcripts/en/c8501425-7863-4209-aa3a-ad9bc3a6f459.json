@@ -1,0 +1,27 @@
+{
+  "id": "c8501425-7863-4209-aa3a-ad9bc3a6f459",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.48,
+      "text": "very even like you said that first stock was so instrumental but light was able to bring it all the way back",
+      "language": "en"
+    },
+    {
+      "start": 4.48,
+      "end": 5.76,
+      "text": "what a big scenario",
+      "language": "en"
+    }
+  ],
+  "full_text": "very even like you said that first stock was so instrumental but light was able to bring it all the way back what a big scenario",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "first knock",
+      "corrected": "first stock",
+      "rule": "smash term (stock)"
+    }
+  ]
+}

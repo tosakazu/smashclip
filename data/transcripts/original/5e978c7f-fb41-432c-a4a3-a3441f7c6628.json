@@ -1,0 +1,26 @@
+{
+  "id": "5e978c7f-fb41-432c-a4a3-a3441f7c6628",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.16,
+      "text": "Bumble time, but oh, he doesn't come off the sour, but big up there.",
+      "language": "en"
+    },
+    {
+      "start": 3.8,
+      "end": 7.1,
+      "text": "Then he's using his double jump, but straight to the ground with the neutral air dodge.",
+      "language": "en"
+    },
+    {
+      "start": 7.26,
+      "end": 8.56,
+      "text": "Ooh, that was nice.",
+      "language": "en"
+    }
+  ],
+  "full_text": "Bumble time, but oh, he doesn't come off the sour, but big up there. Then he's using his double jump, but straight to the ground with the neutral air dodge. Ooh, that was nice.",
+  "detected_language": "en",
+  "corrections": []
+}

@@ -1,0 +1,57 @@
+{
+  "id": "549a54a5-7b9e-40a4-a4e8-7295f263c58b",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.24,
+      "text": "Elterra",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "エルトラ"
+    },
+    {
+      "start": 1.24,
+      "end": 3.78,
+      "text": "I see",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "なるほどな"
+    },
+    {
+      "start": 3.78,
+      "end": 6.22,
+      "text": "Man",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いやー"
+    },
+    {
+      "start": 6.22,
+      "end": 8.44,
+      "text": "just how he lands up smash",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "本当に上スマッシュの通し方"
+    },
+    {
+      "start": 8.44,
+      "end": 9.44,
+      "text": "even just one thing",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ひとつとっても"
+    },
+    {
+      "start": 9.44,
+      "end": 10.56,
+      "text": "this is",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これは"
+    }
+  ],
+  "full_text": "Elterra I see Man just how he lands up smash even just one thing this is",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

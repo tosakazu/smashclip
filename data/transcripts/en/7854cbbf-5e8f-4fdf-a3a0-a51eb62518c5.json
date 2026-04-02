@@ -1,0 +1,49 @@
+{
+  "id": "7854cbbf-5e8f-4fdf-a3a0-a51eb62518c5",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.52,
+      "text": "Coming up forward",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "普通前で上がる"
+    },
+    {
+      "start": 2.52,
+      "end": 4.22,
+      "text": "Can't quite string together clean follow-ups",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "なかなかまとまったリターンが"
+    },
+    {
+      "start": 4.22,
+      "end": 6.3,
+      "text": "Even if they manage to trap them on the ledge",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "崖に追い詰めることができても"
+    },
+    {
+      "start": 6.3,
+      "end": 7.94,
+      "text": "They can't convert to a KO from there",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そこから撃墜がつながりません"
+    },
+    {
+      "start": 7.94,
+      "end": 9.98,
+      "text": "So frustrating",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "もどかしい"
+    }
+  ],
+  "full_text": "Coming up forward can't quite string together clean follow-ups even if they manage to trap them on the ledge they can't convert to a KO from there so frustrating",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

@@ -1,0 +1,26 @@
+{
+  "id": "d715a01c-b8a0-4cac-a3c6-bdb6f742d47f",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "He's struggling to get out of his advantage here.",
+      "language": "en"
+    },
+    {
+      "start": 3.44,
+      "end": 5.94,
+      "text": "I mean, not being able to narrow the gap, though.",
+      "language": "en"
+    },
+    {
+      "start": 6.14,
+      "end": 7.3,
+      "text": "Up there, we're going to see a Booyah.",
+      "language": "en"
+    }
+  ],
+  "full_text": "He's struggling to get out of his advantage here. I mean, not being able to narrow the gap, though. Up there, we're going to see a Booyah.",
+  "detected_language": "en",
+  "corrections": []
+}

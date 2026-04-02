@@ -1,0 +1,45 @@
+{
+  "id": "728135ef-be48-45ec-aedd-4ab90ea24f3e",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.5,
+      "text": "ました危なかったです アーバイト受け身をミスっちゃった難しいところでしたが",
+      "language": "ja"
+    },
+    {
+      "start": 5.5,
+      "end": 9.08,
+      "text": "すかさず取り返したに見えたがギリギリきた",
+      "language": "ja"
+    },
+    {
+      "start": 9.08,
+      "end": 16.54,
+      "text": "空中前取れる144、1.8%まだ食らってないようなものをここも避けますSonix",
+      "language": "ja"
+    },
+    {
+      "start": 16.54,
+      "end": 17.68,
+      "text": "あとスピンで",
+      "language": "ja"
+    }
+  ],
+  "full_text": "ました危なかったです アーバイト受け身をミスっちゃった難しいところでしたが すかさず取り返したに見えたがギリギリきた 空中前取れる144、1.8%まだ食らってないようなものをここも避けますSonix あとスピンで",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "空中に取れる",
+      "corrected": "空中前取れる",
+      "rule": "move abbreviation: 空中前→空前"
+    },
+    {
+      "segment_idx": 2,
+      "original": "ソニックス",
+      "corrected": "Sonix",
+      "rule": "player name"
+    }
+  ]
+}

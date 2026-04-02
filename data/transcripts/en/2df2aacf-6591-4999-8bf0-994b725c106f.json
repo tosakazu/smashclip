@@ -1,0 +1,46 @@
+{
+  "id": "2df2aacf-6591-4999-8bf0-994b725c106f",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.72,
+      "text": "Spacing can shut down Ridley, but",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ラインを使ってライデインを拒否していきますが"
+    },
+    {
+      "start": 2.72,
+      "end": 4.92,
+      "text": "They're reading the zoning with him, so",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ライデインで牽制を見てくるので"
+    },
+    {
+      "start": 4.92,
+      "end": 6.14,
+      "text": "One approach gets tough",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "一つは難しい"
+    }
+  ],
+  "full_text": "Spacing can shut down Ridley, but they're reading the zoning with him, so one approach gets tough",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "ライディング",
+      "corrected": "ライデイン",
+      "rule": "move name: ライディング→ライデイン"
+    },
+    {
+      "segment_idx": 1,
+      "original": "ライディングでゲスティンを見てくるので",
+      "corrected": "ライデインで牽制を見てくるので",
+      "rule": "move name: ライディング→ライデイン"
+    }
+  ]
+}

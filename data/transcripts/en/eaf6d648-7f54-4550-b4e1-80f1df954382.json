@@ -1,0 +1,73 @@
+{
+  "id": "eaf6d648-7f54-4550-b4e1-80f1df954382",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.54,
+      "text": "Nice, very good, very good",
+      "language": "en",
+      "original_language": "es",
+      "original_text": "Bien, muy buena, muy buena"
+    },
+    {
+      "start": 2.54,
+      "end": 3.7,
+      "text": "recovery there, uh, I mean",
+      "language": "en",
+      "original_language": "es",
+      "original_text": "recovery ahí, eh, decir"
+    },
+    {
+      "start": 3.7,
+      "end": 6.14,
+      "text": "Wow, what's he doing, leaves him",
+      "language": "en",
+      "original_language": "es",
+      "original_text": "Guau, qué hace, le deja"
+    },
+    {
+      "start": 6.14,
+      "end": 8.48,
+      "text": "space, well, leaves him",
+      "language": "en",
+      "original_language": "es",
+      "original_text": "terreno, bueno, le deja"
+    },
+    {
+      "start": 8.48,
+      "end": 10.52,
+      "text": "space, but Spargo doesn't want",
+      "language": "en",
+      "original_language": "es",
+      "original_text": "espacio, pero Spargo no quiere"
+    },
+    {
+      "start": 10.52,
+      "end": 12.34,
+      "text": "doesn't want to risk his stock, uh",
+      "language": "en",
+      "original_language": "es",
+      "original_text": "no quiere cambiar sobre vida, eh"
+    },
+    {
+      "start": 12.34,
+      "end": 14.42,
+      "text": "No, because he was trying",
+      "language": "en",
+      "original_language": "es",
+      "original_text": "No, porque estaba intentando"
+    },
+    {
+      "start": 14.42,
+      "end": 14.86,
+      "text": "to airdodge",
+      "language": "en",
+      "original_language": "es",
+      "original_text": "esquivarse"
+    }
+  ],
+  "full_text": "Nice, very good, very good recovery there, uh, I mean Wow, what's he doing, leaves him space, well, leaves him space, but Spargo doesn't want doesn't want to risk his stock, uh No, because he was trying to airdodge",
+  "detected_language": "en",
+  "original_language": "es",
+  "corrections": []
+}

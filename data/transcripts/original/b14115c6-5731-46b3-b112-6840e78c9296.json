@@ -1,0 +1,51 @@
+{
+  "id": "b14115c6-5731-46b3-b112-6840e78c9296",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.22,
+      "text": "さあ、遠く及ばない状況",
+      "language": "ja"
+    },
+    {
+      "start": 2.22,
+      "end": 4.1,
+      "text": "火力差が開く開く",
+      "language": "ja"
+    },
+    {
+      "start": 4.1,
+      "end": 5.64,
+      "text": "105%",
+      "language": "ja"
+    },
+    {
+      "start": 5.64,
+      "end": 7.72,
+      "text": "そろそろ、撃墜が怖くなる",
+      "language": "ja"
+    },
+    {
+      "start": 7.72,
+      "end": 8.98,
+      "text": "上スマ",
+      "language": "ja"
+    }
+  ],
+  "full_text": "さあ、遠く及ばない状況 火力差が開く開く 105% そろそろ、撃墜が怖くなる 上スマ",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "火力が、開く開く",
+      "corrected": "火力差が開く開く",
+      "rule": "missing word"
+    },
+    {
+      "segment_idx": 4,
+      "original": "クエスマ",
+      "corrected": "上スマ",
+      "rule": "move name (上スマ)"
+    }
+  ]
+}

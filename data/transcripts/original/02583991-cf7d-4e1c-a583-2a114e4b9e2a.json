@@ -1,0 +1,33 @@
+{
+  "id": "02583991-cf7d-4e1c-a583-2a114e4b9e2a",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.76,
+      "text": "ブロック発生 ここが間に合います どうする",
+      "language": "ja"
+    },
+    {
+      "start": 5.76,
+      "end": 12.54,
+      "text": "空N ショート トロッコー 空前 フェイド着地をとっていきます",
+      "language": "ja"
+    }
+  ],
+  "full_text": "ブロック発生 ここが間に合います どうする 空N ショート トロッコー 空前 フェイド着地をとっていきます",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "ブーブー発生この子が間に合います",
+      "corrected": "ブロック発生 ここが間に合います",
+      "rule": "misheard term"
+    },
+    {
+      "segment_idx": 1,
+      "original": "空中ショートロッコークジュネー フェイド技術にとっていきます",
+      "corrected": "空N ショート トロッコー 空前 フェイド着地をとっていきます",
+      "rule": "misheard term"
+    }
+  ]
+}

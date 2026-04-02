@@ -1,0 +1,48 @@
+{
+  "id": "ec8c6b29-d995-4660-a3c5-d781855d93ba",
+  "segments": [
+    {
+      "start": 0.64,
+      "end": 2.32,
+      "text": "Both over 100%",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "お互いに100%を超えているところ"
+    },
+    {
+      "start": 2.32,
+      "end": 3.7,
+      "text": "Back air here!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここで空後"
+    },
+    {
+      "start": 3.7,
+      "end": 4.96,
+      "text": "Had shield for safety",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ブロック保険に入っている"
+    },
+    {
+      "start": 4.96,
+      "end": 6.34,
+      "text": "Seemed okay, but...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "問題ないかというところでしたが"
+    }
+  ],
+  "full_text": "Both over 100% Back air here! Had shield for safety Seemed okay, but...",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "空中しろ",
+      "corrected": "空後",
+      "rule": "misheard: 空中しろ→空後"
+    }
+  ]
+}

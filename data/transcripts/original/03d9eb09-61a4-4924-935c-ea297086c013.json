@@ -1,0 +1,27 @@
+{
+  "id": "03d9eb09-61a4-4924-935c-ea297086c013",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 9.44,
+      "text": "スマッシュからぶって",
+      "language": "ja"
+    },
+    {
+      "start": 9.44,
+      "end": 11.52,
+      "text": "あそこはスカしにしたけど",
+      "language": "ja"
+    }
+  ],
+  "full_text": "スマッシュからぶって あそこはスカしにしたけど",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "あそこは助けにしたけど",
+      "corrected": "あそこはスカしにしたけど",
+      "rule": "misheard term"
+    }
+  ]
+}

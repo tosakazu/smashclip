@@ -1,0 +1,60 @@
+{
+  "id": "59b4d9f4-2714-48d8-803d-2bd0a6a441b2",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.02,
+      "text": "He shields but escapes with up B right away",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ブロック出すが上B即座に離脱"
+    },
+    {
+      "start": 2.02,
+      "end": 3.88,
+      "text": "No endlag advantage there for Carmelo",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "硬直差ないんでねカルメロは"
+    },
+    {
+      "start": 3.88,
+      "end": 5.84,
+      "text": "From the chef",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "シェフから"
+    },
+    {
+      "start": 5.84,
+      "end": 7.52,
+      "text": "Down smash to forward tilt",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "下スマッシュ横強"
+    }
+  ],
+  "full_text": "He shields but escapes with up B right away No endlag advantage there for Carmelo From the chef Down smash to forward tilt",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "ブーシュタイスが",
+      "corrected": "ブロック出すが",
+      "rule": "misheard word"
+    },
+    {
+      "segment_idx": 1,
+      "original": "硬直さないんでねクエルは",
+      "corrected": "硬直差ないんでねカルメロは",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 2,
+      "original": "シェフカー",
+      "corrected": "シェフから",
+      "rule": "misheard word"
+    }
+  ]
+}

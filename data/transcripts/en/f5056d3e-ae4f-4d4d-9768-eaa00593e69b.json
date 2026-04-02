@@ -1,0 +1,105 @@
+{
+  "id": "f5056d3e-ae4f-4d4d-9768-eaa00593e69b",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.0,
+      "text": "Okay, okay, nice. Nice. Glutonny got very greedy with that waft.",
+      "language": "en"
+    },
+    {
+      "start": 5.0,
+      "end": 9.0,
+      "text": "Yeah, fortunately for Kaninabe, it was still a half waft. I think the full waft would've comboed.",
+      "language": "en"
+    },
+    {
+      "start": 9.0,
+      "end": 11.0,
+      "text": "Yes, for sure.",
+      "language": "en"
+    },
+    {
+      "start": 11.0,
+      "end": 14.0,
+      "text": "Okay, this is huge. Huge on Ike with the reverse up tilt.",
+      "language": "en"
+    },
+    {
+      "start": 14.0,
+      "end": 16.0,
+      "text": "Nice. Big damage.",
+      "language": "en"
+    },
+    {
+      "start": 18.0,
+      "end": 19.0,
+      "text": "Okay, this is exactly what you want.",
+      "language": "en"
+    },
+    {
+      "start": 19.0,
+      "end": 21.0,
+      "text": "50 high gain from Glutonny.",
+      "language": "en"
+    },
+    {
+      "start": 21.0,
+      "end": 23.0,
+      "text": "And he got the retreat in there, but Kaninabe is not slowing down.",
+      "language": "en"
+    },
+    {
+      "start": 23.0,
+      "end": 24.0,
+      "text": "Oh, that was...",
+      "language": "en"
+    },
+    {
+      "start": 25.0,
+      "end": 26.0,
+      "text": "Uh...",
+      "language": "en"
+    },
+    {
+      "start": 27.0,
+      "end": 28.0,
+      "text": "Oh, no.",
+      "language": "en"
+    },
+    {
+      "start": 28.0,
+      "end": 29.0,
+      "text": "Good!",
+      "language": "en"
+    }
+  ],
+  "full_text": "Okay, okay, nice. Nice. Glutonny got very greedy with that waft. Yeah, fortunately for Kaninabe, it was still a half waft. I think the full waft would've comboed. Yes, for sure. Okay, this is huge. Huge on Ike with the reverse up tilt. Nice. Big damage. Okay, this is exactly what you want. 50 high gain from Glutonny. And he got the retreat in there, but Kaninabe is not slowing down. Oh, that was... Uh... Oh, no. Good!",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "Glinty",
+      "corrected": "Glutonny",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 1,
+      "original": "Kaniyia",
+      "corrected": "Kaninabe",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 6,
+      "original": "Glinty",
+      "corrected": "Glutonny",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 7,
+      "original": "Kaniyia",
+      "corrected": "Kaninabe",
+      "rule": "player name"
+    }
+  ]
+}

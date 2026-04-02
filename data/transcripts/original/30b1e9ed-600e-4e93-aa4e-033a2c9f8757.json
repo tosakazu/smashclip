@@ -1,0 +1,27 @@
+{
+  "id": "30b1e9ed-600e-4e93-aa4e-033a2c9f8757",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.56,
+      "text": "Even Gachipi has showcased his strength of holding on to his stocks, maximizing the potential",
+      "language": "en"
+    },
+    {
+      "start": 5.56,
+      "end": 10.92,
+      "text": "of his aura to the fullest of extent, but it looks like Ball could be-",
+      "language": "en"
+    }
+  ],
+  "full_text": "Even Gachipi has showcased his strength of holding on to his stocks, maximizing the potential of his aura to the fullest of extent, but it looks like Ball could be-",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "Gatsby",
+      "corrected": "Gachipi",
+      "rule": "player name"
+    }
+  ]
+}

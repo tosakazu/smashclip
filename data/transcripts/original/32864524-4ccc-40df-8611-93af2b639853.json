@@ -1,0 +1,33 @@
+{
+  "id": "32864524-4ccc-40df-8611-93af2b639853",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.8,
+      "text": "この状況さあなおちゃ選手安易に攻めることはない",
+      "language": "ja"
+    },
+    {
+      "start": 3.8,
+      "end": 9.96,
+      "text": "バナナをしっかり持ってコンボを伸ばしたい",
+      "language": "ja"
+    },
+    {
+      "start": 9.96,
+      "end": 12.52,
+      "text": "崖外に出したトロッコがないのでここ",
+      "language": "ja"
+    }
+  ],
+  "full_text": "この状況さあなおちゃ選手安易に攻めることはない バナナをしっかり持ってコンボを伸ばしたい 崖外に出したトロッコがないのでここ",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "直茶選手",
+      "corrected": "なおちゃ選手",
+      "rule": "player name"
+    }
+  ]
+}

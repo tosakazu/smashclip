@@ -1,0 +1,27 @@
+{
+  "id": "17705956-2338-4910-8b0a-1c2934a0eecd",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.8,
+      "text": "ヤマナクション鉄がない状況だが石は潤沢にある壁は張り放題だ",
+      "language": "ja"
+    },
+    {
+      "start": 5.8,
+      "end": 11.1,
+      "text": "弱攻撃をジャストシールドつかみでの読み合い",
+      "language": "ja"
+    }
+  ],
+  "full_text": "ヤマナクション鉄がない状況だが石は潤沢にある壁は張り放題だ 弱攻撃をジャストシールドつかみでの読み合い",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "アクション鉄がない状況だが",
+      "corrected": "ヤマナクション鉄がない状況だが",
+      "rule": "Player name: アクション→ヤマナクション (Steve player)"
+    }
+  ]
+}

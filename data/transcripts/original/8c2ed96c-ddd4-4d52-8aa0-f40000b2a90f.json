@@ -1,0 +1,59 @@
+{
+  "id": "8c2ed96c-ddd4-4d52-8aa0-f40000b2a90f",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.22,
+      "text": "横強の差し返しが届かない位置に着地していて",
+      "language": "ja"
+    },
+    {
+      "start": 2.22,
+      "end": 6.4,
+      "text": "本当になんか当たりませんね攻撃に",
+      "language": "ja"
+    },
+    {
+      "start": 6.4,
+      "end": 8.64,
+      "text": "絶対に当たらない位置から攻めを続ける",
+      "language": "ja"
+    },
+    {
+      "start": 8.64,
+      "end": 9.56,
+      "text": "テシサムス",
+      "language": "ja"
+    },
+    {
+      "start": 9.56,
+      "end": 11.32,
+      "text": "そしてボムから空中前",
+      "language": "ja"
+    },
+    {
+      "start": 11.32,
+      "end": 13.22,
+      "text": "ドンキーの体重ならまだ撃墜はしませんが",
+      "language": "ja"
+    },
+    {
+      "start": 13.22,
+      "end": 14.78,
+      "text": "これはもう2回目",
+      "language": "ja"
+    },
+    {
+      "start": 14.78,
+      "end": 15.84,
+      "text": "耐えるはず",
+      "language": "ja"
+    }
+  ],
+  "full_text": "横強の差し返しが届かない位置に着地していて 本当になんか当たりませんね攻撃に 絶対に当たらない位置から攻めを続ける テシサムス そしてボムから空中前 ドンキーの体重ならまだ撃墜はしませんが これはもう2回目 耐えるはず",
+  "detected_language": "ja",
+  "corrections": [
+    "横鏡→横強 (forward tilt, kanji homophone きょう→きょう)",
+    "テジ→テシ (Te-sHi player name)"
+  ]
+}

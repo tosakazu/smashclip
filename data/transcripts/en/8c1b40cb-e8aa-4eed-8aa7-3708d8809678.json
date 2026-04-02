@@ -1,0 +1,73 @@
+{
+  "id": "8c1b40cb-e8aa-4eed-8aa7-3708d8809678",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.44,
+      "text": "This is dead even.",
+      "language": "en"
+    },
+    {
+      "start": 1.44,
+      "end": 3.32,
+      "text": "Dead even, and now Raflow breaks the tie.",
+      "language": "en"
+    },
+    {
+      "start": 3.32,
+      "end": 4.06,
+      "text": "We have the down throw.",
+      "language": "en"
+    },
+    {
+      "start": 4.06,
+      "end": 5.42,
+      "text": "We're not going to get the back air, maybe.",
+      "language": "en"
+    },
+    {
+      "start": 5.42,
+      "end": 6.34,
+      "text": "I like the wait.",
+      "language": "en"
+    },
+    {
+      "start": 6.34,
+      "end": 7.32,
+      "text": "I like the patience.",
+      "language": "en"
+    },
+    {
+      "start": 7.32,
+      "end": 8.6,
+      "text": "So he doesn't get the hit though.",
+      "language": "en"
+    },
+    {
+      "start": 8.6,
+      "end": 9.1,
+      "text": "There we go.",
+      "language": "en"
+    },
+    {
+      "start": 9.1,
+      "end": 9.6,
+      "text": "Woo!",
+      "language": "en"
+    },
+    {
+      "start": 9.6,
+      "end": 10.44,
+      "text": "Oh, and now.",
+      "language": "en"
+    }
+  ],
+  "full_text": "This is dead even. Dead even, and now Raflow breaks the tie. We have the down throw. We're not going to get the back air, maybe. I like the wait. I like the patience. So he doesn't get the hit though. There we go. Woo! Oh, and now.",
+  "detected_language": "en",
+  "corrections": [
+    "dead event→dead even (tied/even score)",
+    "Raflo→Raflow (player name from metadata)",
+    "backer→back air (空後, Smash move)",
+    "weight→wait (patience, contextually matches next line about patience)"
+  ]
+}

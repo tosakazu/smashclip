@@ -1,0 +1,66 @@
+{
+  "id": "92dda298-a605-4e3a-b2f1-468476f92c38",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.46,
+      "text": "It was a mild H.O though...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "マイルドなH.Oだったんですけれども"
+    },
+    {
+      "start": 1.46,
+      "end": 3.22,
+      "text": "That's where Naoch lands the punish!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここはなおちゃからのお仕置きがありました"
+    },
+    {
+      "start": 3.22,
+      "end": 4.66,
+      "text": "Up tilt",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "上強"
+    },
+    {
+      "start": 4.66,
+      "end": 7.66,
+      "text": "Into up air and then chains into up B!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空上へそして上B繋げていった"
+    }
+  ],
+  "full_text": "It was a mild H.O though... That's where Naoch lands the punish! Up tilt Into up air and then chains into up B!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "マイルドな延長",
+      "corrected": "マイルドなH.O",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 1,
+      "original": "直茶からの押し置き",
+      "corrected": "なおちゃからのお仕置き",
+      "rule": "player name + misheard word"
+    },
+    {
+      "segment_idx": 2,
+      "original": "上京",
+      "corrected": "上強",
+      "rule": "kanji homophone (上京→上強)"
+    },
+    {
+      "segment_idx": 3,
+      "original": "空中へそして",
+      "corrected": "空上へそして",
+      "rule": "move abbreviation (空中→空上)"
+    }
+  ]
+}

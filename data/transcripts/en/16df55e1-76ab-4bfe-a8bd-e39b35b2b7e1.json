@@ -1,0 +1,33 @@
+{
+  "id": "16df55e1-76ab-4bfe-a8bd-e39b35b2b7e1",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.08,
+      "text": "At 166% damage and still building the advantage!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "パーセンテージも166%という状況をさらに掴んでいく"
+    },
+    {
+      "start": 5.08,
+      "end": 8.48,
+      "text": "Let's keep stacking up that damage percentage!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあまだまだパーセンテージを取っていきます"
+    },
+    {
+      "start": 8.48,
+      "end": 12.06,
+      "text": "Keep this pressure on!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これは貫いていく"
+    }
+  ],
+  "full_text": "At 166% damage and still building the advantage! Let's keep stacking up that damage percentage! Keep this pressure on!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

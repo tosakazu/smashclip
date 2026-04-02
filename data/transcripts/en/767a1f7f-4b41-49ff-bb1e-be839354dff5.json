@@ -1,0 +1,56 @@
+{
+  "id": "767a1f7f-4b41-49ff-bb1e-be839354dff5",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.98,
+      "text": "With Dragon buffed, that's a bit...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ドラゴンが強化されてるとちょっと"
+    },
+    {
+      "start": 2.98,
+      "end": 4.1,
+      "text": "Whoa!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いやー"
+    },
+    {
+      "start": 4.1,
+      "end": 5.76,
+      "text": "Wait, hold on—",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "あ、おっとこれは"
+    },
+    {
+      "start": 5.76,
+      "end": 7.4,
+      "text": "Dragon's forward attack closes it out!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ドラ右が攻めきりました"
+    },
+    {
+      "start": 7.4,
+      "end": 7.92,
+      "text": "That's perfect!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "完璧ですね"
+    }
+  ],
+  "full_text": "With Dragon buffed, that's a bit... Whoa! Wait, hold on— Dragon's forward attack closes it out! That's perfect!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 3,
+      "original": "ドラビギ",
+      "corrected": "ドラ右",
+      "rule": "player name"
+    }
+  ]
+}

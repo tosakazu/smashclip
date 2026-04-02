@@ -1,0 +1,81 @@
+{
+  "id": "1cd5530c-4a1f-446a-81e1-d2025d5a07aa",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.44,
+      "text": "いってきます",
+      "language": "ja"
+    },
+    {
+      "start": 0.44,
+      "end": 2.72,
+      "text": "スケール",
+      "language": "ja"
+    },
+    {
+      "start": 2.72,
+      "end": 6.78,
+      "text": "さあプレイですが一旦台に着地",
+      "language": "ja"
+    },
+    {
+      "start": 6.78,
+      "end": 9.16,
+      "text": "全力を使ってきましたね",
+      "language": "ja"
+    },
+    {
+      "start": 9.16,
+      "end": 12.84,
+      "text": "バネが苦しいか",
+      "language": "ja"
+    },
+    {
+      "start": 12.84,
+      "end": 15.1,
+      "text": "この展開もう燃料がない",
+      "language": "ja"
+    },
+    {
+      "start": 15.1,
+      "end": 16.2,
+      "text": "力尽きたしゅーとん",
+      "language": "ja"
+    },
+    {
+      "start": 16.2,
+      "end": 19.82,
+      "text": "オリマーは崖上がり本当に強くないんで",
+      "language": "ja"
+    },
+    {
+      "start": 19.82,
+      "end": 20.02,
+      "text": "はい",
+      "language": "ja"
+    }
+  ],
+  "full_text": "いってきます スケール さあプレイですが一旦台に着地 全力を使ってきましたね バネが苦しいか この展開もう燃料がない 力尽きたしゅーとん オリマーは崖上がり本当に強くないんで はい",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "さあプレイですが一旦倍に着地",
+      "corrected": "さあプレイですが一旦台に着地",
+      "rule": "Whisper kanji homophone: 倍→台"
+    },
+    {
+      "segment_idx": 6,
+      "original": "力尽きたシュート",
+      "corrected": "力尽きたしゅーとん",
+      "rule": "Player name correction: シュート→しゅーとん (Shuton)"
+    },
+    {
+      "segment_idx": 7,
+      "original": "俺は崖上がり本当に強くないんで",
+      "corrected": "オリマーは崖上がり本当に強くないんで",
+      "rule": "Whisper mishearing: 俺は→オリマーは (character name)"
+    }
+  ]
+}

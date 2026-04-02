@@ -1,0 +1,57 @@
+{
+  "id": "6852a10f-a304-48ab-9ae0-06a449c0445c",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.7,
+      "text": "空中ニュートラルから空前撃墜",
+      "language": "ja"
+    },
+    {
+      "start": 2.7,
+      "end": 3.84,
+      "text": "ストック3-2",
+      "language": "ja"
+    },
+    {
+      "start": 3.84,
+      "end": 5.4,
+      "text": "どうだ?",
+      "language": "ja"
+    },
+    {
+      "start": 5.52,
+      "end": 6.28,
+      "text": "飛び出してきた",
+      "language": "ja"
+    },
+    {
+      "start": 6.28,
+      "end": 6.94,
+      "text": "そうですね",
+      "language": "ja"
+    },
+    {
+      "start": 6.94,
+      "end": 7.62,
+      "text": "即交代",
+      "language": "ja"
+    }
+  ],
+  "full_text": "空中ニュートラルから空前撃墜 ストック3-2 どうだ? 飛び出してきた そうですね 即交代",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "空中白ネギ撃墜",
+      "corrected": "空前撃墜",
+      "rule": "move name (空前)"
+    },
+    {
+      "segment_idx": 5,
+      "original": "足交換",
+      "corrected": "即交代",
+      "rule": "misheard word"
+    }
+  ]
+}

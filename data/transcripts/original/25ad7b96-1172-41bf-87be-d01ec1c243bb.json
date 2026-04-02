@@ -1,0 +1,56 @@
+{
+  "id": "25ad7b96-1172-41bf-87be-d01ec1c243bb",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.7,
+      "text": "前出しですかね",
+      "language": "ja"
+    },
+    {
+      "start": 0.7,
+      "end": 3.18,
+      "text": "こうなってくるとMPが満タンで",
+      "language": "ja"
+    },
+    {
+      "start": 3.18,
+      "end": 5.28,
+      "text": "コマンドが",
+      "language": "ja"
+    },
+    {
+      "start": 5.28,
+      "end": 6.62,
+      "text": "メラゾーマもあるし",
+      "language": "ja"
+    },
+    {
+      "start": 6.62,
+      "end": 7.7,
+      "text": "来ましたよ",
+      "language": "ja"
+    },
+    {
+      "start": 7.7,
+      "end": 9.16,
+      "text": "このストックでできれば仕留めたい",
+      "language": "ja"
+    },
+    {
+      "start": 9.16,
+      "end": 10.54,
+      "text": "強気な上スマッシュですが",
+      "language": "ja"
+    },
+    {
+      "start": 10.54,
+      "end": 12.4,
+      "text": "使ったところに横スマッシュ",
+      "language": "ja"
+    }
+  ],
+  "full_text": "前出しですかね こうなってくるとMPが満タンで コマンドが メラゾーマもあるし 来ましたよ このストックでできれば仕留めたい 強気な上スマッシュですが 使ったところに横スマッシュ",
+  "detected_language": "ja",
+  "corrections": []
+}

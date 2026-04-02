@@ -1,0 +1,20 @@
+{
+  "id": "daa90e81-7703-4305-ab49-976b06c8c162",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.56,
+      "text": "一旦行く",
+      "language": "ja"
+    },
+    {
+      "start": 0.56,
+      "end": 2.08,
+      "text": "しかしここは空中後ろ",
+      "language": "ja"
+    }
+  ],
+  "full_text": "一旦行く しかしここは空中後ろ",
+  "detected_language": "ja",
+  "corrections": []
+}

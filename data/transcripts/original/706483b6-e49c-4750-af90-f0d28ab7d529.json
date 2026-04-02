@@ -1,0 +1,90 @@
+{
+  "id": "706483b6-e49c-4750-af90-f0d28ab7d529",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "お互い",
+      "language": "ja"
+    },
+    {
+      "start": 2.0,
+      "end": 5.0,
+      "text": "終点は狭いぞ横Bでも撃墜する",
+      "language": "ja"
+    },
+    {
+      "start": 5.0,
+      "end": 8.0,
+      "text": "ギリギリ足りる足りない",
+      "language": "ja"
+    },
+    {
+      "start": 8.0,
+      "end": 10.0,
+      "text": "耐えているまだ耐えている",
+      "language": "ja"
+    },
+    {
+      "start": 12.0,
+      "end": 14.0,
+      "text": "上強勝った上強",
+      "language": "ja"
+    },
+    {
+      "start": 14.0,
+      "end": 18.0,
+      "text": "宇宙へ確定している撃墜している",
+      "language": "ja"
+    },
+    {
+      "start": 18.0,
+      "end": 22.0,
+      "text": "上強攻撃ザクレイ",
+      "language": "ja"
+    },
+    {
+      "start": 22.0,
+      "end": 24.0,
+      "text": "拾いきったー",
+      "language": "ja"
+    },
+    {
+      "start": 24.0,
+      "end": 28.0,
+      "text": "戦闘技はギリギリのやりとりを制して",
+      "language": "ja"
+    },
+    {
+      "start": 28.0,
+      "end": 32.0,
+      "text": "ザクレイウィナーズファイナル進出です",
+      "language": "ja"
+    },
+    {
+      "start": 35.0,
+      "end": 38.0,
+      "text": "これは素晴らしい試合内容でした",
+      "language": "ja"
+    }
+  ],
+  "full_text": "お互い 終点は狭いぞ横Bでも撃墜する ギリギリ足りる足りない 耐えているまだ耐えている 上強勝った上強 宇宙へ確定している撃墜している 上強攻撃ザクレイ 拾いきったー 戦闘技はギリギリのやりとりを制して ザクレイウィナーズファイナル進出です これは素晴らしい試合内容でした",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_index": 1,
+      "original": "終点は狭いぞ横ビーでも撃墜する",
+      "corrected": "終点は狭いぞ横Bでも撃墜する"
+    },
+    {
+      "segment_index": 4,
+      "original": "上京勝った上京",
+      "corrected": "上強勝った上強"
+    },
+    {
+      "segment_index": 6,
+      "original": "上京攻撃ザクレイ",
+      "corrected": "上強攻撃ザクレイ"
+    }
+  ]
+}

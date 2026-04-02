@@ -1,0 +1,56 @@
+{
+  "id": "7b460b57-7aad-48c9-a93f-eaf77fde38a0",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Finally got that KO!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "久しぶりに撃墜したー!"
+    },
+    {
+      "start": 2.0,
+      "end": 4.62,
+      "text": "The timing on this is incredibly tight though",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これかなりタイミングシビアなんですけれどもね"
+    },
+    {
+      "start": 4.62,
+      "end": 5.18,
+      "text": "He's landing everything!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "当てすぎる"
+    },
+    {
+      "start": 5.18,
+      "end": 5.56,
+      "text": "Nice!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "うまいぞ!"
+    },
+    {
+      "start": 5.92,
+      "end": 7.84,
+      "text": "He's going all in for the KO!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ゴールドしてるから撃墜する!"
+    }
+  ],
+  "full_text": "Finally got that KO! The timing on this is incredibly tight though He's landing everything! Nice! He's going all in for the KO!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "撃沈",
+      "corrected": "撃墜",
+      "rule": "kanji homophone: 撃沈→撃墜 (smash term)"
+    }
+  ]
+}

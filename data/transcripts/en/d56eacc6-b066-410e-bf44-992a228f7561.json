@@ -1,0 +1,33 @@
+{
+  "id": "d56eacc6-b066-410e-bf44-992a228f7561",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.32,
+      "text": "Whenever I'm backing up that hard just for Jigglypuff's jump...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これまでプリンのジャンプのために大きくガバッと後ろに下がったら"
+    },
+    {
+      "start": 3.32,
+      "end": 6.4,
+      "text": "...Jigglypuff often doesn't even come in - happens all the time...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "なんかプリンが飛び込んできませんでしたみたいな状況がめっちゃあるんでね"
+    },
+    {
+      "start": 6.4,
+      "end": 10.34,
+      "text": "...but that situation from before where it still has jump, nair beats it out",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さっき言ってた状況はジャンプ残ってそうだが空中ニュートラルで潰していく"
+    }
+  ],
+  "full_text": "Whenever I'm backing up that hard just for Jigglypuff's jump... ...Jigglypuff often doesn't even come in - happens all the time... ...but that situation from before where it still has jump, nair beats it out",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

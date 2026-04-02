@@ -1,0 +1,33 @@
+{
+  "id": "681bd140-50f6-4192-aee2-dd34c70e17e0",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.02,
+      "text": "Bounced off the shield—that doesn't combo",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ブロックに跳ねてここは逆にコンボになりませんでした"
+    },
+    {
+      "start": 3.02,
+      "end": 6.08,
+      "text": "But the damage is solid",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ですが火力は十分ですよ"
+    },
+    {
+      "start": 6.08,
+      "end": 8.44,
+      "text": "Up to 100% in a flash, then the bair!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "あっという間に100%そして空中後ろ"
+    }
+  ],
+  "full_text": "Bounced off the shield—that doesn't combo But the damage is solid Up to 100% in a flash, then the bair!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

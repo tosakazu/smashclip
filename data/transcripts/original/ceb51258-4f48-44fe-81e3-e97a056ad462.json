@@ -1,0 +1,26 @@
+{
+  "id": "ceb51258-4f48-44fe-81e3-e97a056ad462",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.32,
+      "text": "ありますかねこれは",
+      "language": "ja"
+    },
+    {
+      "start": 2.32,
+      "end": 4.02,
+      "text": "これは上スマッシュ",
+      "language": "ja"
+    },
+    {
+      "start": 4.02,
+      "end": 4.82,
+      "text": "出て",
+      "language": "ja"
+    }
+  ],
+  "full_text": "ありますかねこれは これは上スマッシュ 出て",
+  "detected_language": "ja",
+  "corrections": []
+}

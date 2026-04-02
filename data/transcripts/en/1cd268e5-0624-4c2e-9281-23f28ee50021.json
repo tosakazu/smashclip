@@ -1,0 +1,33 @@
+{
+  "id": "1cd268e5-0624-4c2e-9281-23f28ee50021",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.36,
+      "text": "minutes on the clock Raflow trying to slowly but surely get this game oh",
+      "language": "en"
+    },
+    {
+      "start": 7.36,
+      "end": 9.84,
+      "text": "this is a game of wit and rage and finally get",
+      "language": "en"
+    }
+  ],
+  "full_text": "minutes on the clock Raflow trying to slowly but surely get this game oh this is a game of wit and rage and finally get",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "minutes on the clock the flow trying to surely but surely get this game oh",
+      "corrected": "minutes on the clock Raflow trying to slowly but surely get this game oh",
+      "rule": "Player name correction: the flow→Raflow; Whisper mishearing: surely→slowly"
+    },
+    {
+      "segment_idx": 1,
+      "original": "this is a game of which we rage and finally get",
+      "corrected": "this is a game of wit and rage and finally get",
+      "rule": "Whisper mishearing: of which we rage→of wit and rage"
+    }
+  ]
+}

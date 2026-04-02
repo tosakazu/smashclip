@@ -1,0 +1,25 @@
+{
+  "id": "7fbd27f1-65a7-4a66-b806-2811cd1b21cf",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.64,
+      "text": "Reverse fair through at ledge!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "逆前通したぞ 崖展開"
+    },
+    {
+      "start": 2.64,
+      "end": 6.32,
+      "text": "Whoa, reading it!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いやー 合わせてくる"
+    }
+  ],
+  "full_text": "Reverse fair through at ledge! Whoa, reading it!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

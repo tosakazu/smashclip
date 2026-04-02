@@ -1,0 +1,68 @@
+{
+  "id": "05fd7995-54f6-41fe-919c-cc266c233bd7",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.44,
+      "text": "Low-percent shield mixup",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "80%弱位置のシールドの読み合い"
+    },
+    {
+      "start": 3.44,
+      "end": 4.74,
+      "text": "Gets the grab!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "掴みを通した テシ サムス"
+    },
+    {
+      "start": 4.74,
+      "end": 6.3,
+      "text": "Fair's final hit lands, and—",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空前最終段当たってこれは"
+    },
+    {
+      "start": 6.3,
+      "end": 8.36,
+      "text": "Barely pulls off a mild HO—",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "なんとかマイルドなHOを"
+    },
+    {
+      "start": 8.36,
+      "end": 10.66,
+      "text": "Thought they were coming back, but—",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "帰ってきたと思ったんですが"
+    }
+  ],
+  "full_text": "Low-percent shield mixup Gets the grab! Fair's final hit lands, and— Barely pulls off a mild HO— Thought they were coming back, but—",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "掴みを通したテスタムス",
+      "corrected": "掴みを通した テシ サムス",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 2,
+      "original": "空中前最終段当たってこれは",
+      "corrected": "空前最終段当たってこれは",
+      "rule": "auto-rule"
+    },
+    {
+      "segment_idx": 3,
+      "original": "なんとかマイルナイチを",
+      "corrected": "なんとかマイルドなHOを",
+      "rule": "player name"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "id": "37902200-2939-4545-8587-b8b3ca360434",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.58,
+      "text": "ここからですね",
+      "language": "ja"
+    },
+    {
+      "start": 1.58,
+      "end": 3.06,
+      "text": "あくまで勝ちに行くSJ",
+      "language": "ja"
+    },
+    {
+      "start": 3.06,
+      "end": 4.2,
+      "text": "上強から空後",
+      "language": "ja"
+    },
+    {
+      "start": 4.2,
+      "end": 5.14,
+      "text": "ジャンプ読み",
+      "language": "ja"
+    },
+    {
+      "start": 5.14,
+      "end": 5.9,
+      "text": "横スマッシュ",
+      "language": "ja"
+    },
+    {
+      "start": 5.9,
+      "end": 7.06,
+      "text": "うそー",
+      "language": "ja"
+    },
+    {
+      "start": 7.06,
+      "end": 9.46,
+      "text": "あそこから逆転していきますか",
+      "language": "ja"
+    }
+  ],
+  "full_text": "ここからですね あくまで勝ちに行くSJ 上強から空後 ジャンプ読み 横スマッシュ うそー あそこから逆転していきますか",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "上京から空豪",
+      "corrected": "上強から空後",
+      "rule": "上京→上強, 空豪→空後"
+    },
+    {
+      "segment_idx": 3,
+      "original": "ジャンプ内容",
+      "corrected": "ジャンプ読み",
+      "rule": "misheard word"
+    },
+    {
+      "segment_idx": 4,
+      "original": "よこそーし",
+      "corrected": "横スマッシュ",
+      "rule": "misheard word (横スマ = move)"
+    }
+  ]
+}

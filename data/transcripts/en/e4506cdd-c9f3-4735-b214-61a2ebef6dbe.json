@@ -1,0 +1,26 @@
+{
+  "id": "e4506cdd-c9f3-4735-b214-61a2ebef6dbe",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.92,
+      "text": "Overanalyzing this, a little more than I can take.",
+      "language": "en"
+    },
+    {
+      "start": 2.86,
+      "end": 8.5,
+      "text": "Neutral, slip, click, oh, missed.",
+      "language": "en"
+    },
+    {
+      "start": 9.24,
+      "end": 12.26,
+      "text": "And the bomb is gonna do it, can't revenge that.",
+      "language": "en"
+    }
+  ],
+  "full_text": "Overanalyzing this, a little more than I can take. Neutral, slip, click, oh, missed. And the bomb is gonna do it, can't revenge that.",
+  "detected_language": "en",
+  "corrections": []
+}

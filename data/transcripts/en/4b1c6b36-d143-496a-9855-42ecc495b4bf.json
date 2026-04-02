@@ -1,0 +1,74 @@
+{
+  "id": "4b1c6b36-d143-496a-9855-42ecc495b4bf",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.84,
+      "text": "Down tilt, but Pichu's too light, nothing combos from there",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "下強からもうこれはピチューは体重軽すぎて何も繋がらない"
+    },
+    {
+      "start": 2.84,
+      "end": 4.62,
+      "text": "The back air connects and it's a ledge situation",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空中後ろが通って崖展開になる"
+    },
+    {
+      "start": 4.62,
+      "end": 5.96,
+      "text": "Going for it, YonePI!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "狙っていくヨネピ"
+    },
+    {
+      "start": 5.96,
+      "end": 8.02,
+      "text": "But from neutral getup, calmly grabbed",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "しかしその場上がりから冷静に掴んで"
+    },
+    {
+      "start": 8.02,
+      "end": 8.44,
+      "text": "Whoa!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "えっ"
+    }
+  ],
+  "full_text": "Down tilt, but Pichu's too light, nothing combos from there The back air connects and it's a ledge situation Going for it, YonePI! But from neutral getup, calmly grabbed Whoa!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "ピッチは",
+      "corrected": "ピチューは",
+      "rule": "character name"
+    },
+    {
+      "segment_idx": 2,
+      "original": "ネピ",
+      "corrected": "ヨネピ",
+      "rule": "player name (Yone_pi)"
+    },
+    {
+      "segment_idx": 3,
+      "original": "そのまま上がり",
+      "corrected": "その場上がり",
+      "rule": "Smash terminology (崖上がりオプション)"
+    },
+    {
+      "segment_idx": 3,
+      "original": "冷静で掴んで",
+      "corrected": "冷静に掴んで",
+      "rule": "misheard particle"
+    }
+  ]
+}

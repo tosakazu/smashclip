@@ -1,0 +1,33 @@
+{
+  "id": "2e4f1fed-993f-433a-9177-a7eb5065fb94",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.96,
+      "text": "Looking to finish with the next hit",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "一気に次の一発で撃墜を持っていきたいという"
+    },
+    {
+      "start": 4.96,
+      "end": 6.34,
+      "text": "You can see that intent",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そんな意思が見られますが"
+    },
+    {
+      "start": 6.34,
+      "end": 7.68,
+      "text": "Is this a grab?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これはつかみかな"
+    }
+  ],
+  "full_text": "Looking to finish with the next hit. You can see that intent. Is this a grab?",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

@@ -1,0 +1,27 @@
+{
+  "id": "69d22a87-a581-4b4a-bd5f-3213f0d4c233",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.32,
+      "text": "trying to bring this back complete to Sisqui he's gonna deliver the punish back throw up throw",
+      "language": "en"
+    },
+    {
+      "start": 4.32,
+      "end": 10.46,
+      "text": "no no what the mega what he's gonna just press the buttons oh my god",
+      "language": "en"
+    }
+  ],
+  "full_text": "trying to bring this back complete to Sisqui he's gonna deliver the punish back throw up throw no no what the mega what he's gonna just press the buttons oh my god",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "sitzky",
+      "corrected": "Sisqui",
+      "rule": "player name"
+    }
+  ]
+}

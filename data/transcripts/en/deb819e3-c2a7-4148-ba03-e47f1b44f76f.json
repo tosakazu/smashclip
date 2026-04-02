@@ -1,0 +1,114 @@
+{
+  "id": "deb819e3-c2a7-4148-ba03-e47f1b44f76f",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.16,
+      "text": "Keep 'em floating and save the stocks",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "浮かせてストックを残したい"
+    },
+    {
+      "start": 2.16,
+      "end": 3.44,
+      "text": "Went for parry but it didn't come out in time",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ジャスガ押したが間に合わなかった"
+    },
+    {
+      "start": 3.44,
+      "end": 5.24,
+      "text": "Neutral B doesn't connect here",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "NBはこれ当たらないですね"
+    },
+    {
+      "start": 5.24,
+      "end": 7.84,
+      "text": "Went for neutral B twice but...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "2回NB狙っていきましたが"
+    },
+    {
+      "start": 7.84,
+      "end": 9.68,
+      "text": "Positioning's a bit tough there",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ちょっと位置関係の矯正が難しかった"
+    },
+    {
+      "start": 9.68,
+      "end": 11.82,
+      "text": "Burning time makes recovery harder",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "時間を使うと上Bを待つ時間が長くなる"
+    },
+    {
+      "start": 11.82,
+      "end": 12.96,
+      "text": "So what now?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあどうする"
+    },
+    {
+      "start": 12.96,
+      "end": 13.66,
+      "text": "Second up B",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "2度目の上B"
+    },
+    {
+      "start": 13.66,
+      "end": 16.12,
+      "text": "Third up B",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "3度目の上B"
+    },
+    {
+      "start": 16.12,
+      "end": 19.36,
+      "text": "Fourth up B",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "4度目の上B"
+    }
+  ],
+  "full_text": "Keep 'em floating and save the stocks Went for parry but it didn't come out in time Neutral B doesn't connect here Went for neutral B twice but... Positioning's a bit tough there Burning time makes recovery harder So what now? Second up B Third up B Fourth up B",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "軽くを残したい",
+      "corrected": "ストックを残したい",
+      "rule": "misheard word"
+    },
+    {
+      "segment_idx": 1,
+      "original": "ジャスが押した",
+      "corrected": "ジャスガ押した",
+      "rule": "smash term (just guard)"
+    },
+    {
+      "segment_idx": 3,
+      "original": "2枚NB",
+      "corrected": "2回NB",
+      "rule": "misheard word"
+    },
+    {
+      "segment_idx": 4,
+      "original": "強制が難しかった",
+      "corrected": "矯正が難しかった",
+      "rule": "misheard word"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": "0933a962-94ef-48b7-8eac-159e3dd3ad1f",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.74,
+      "text": "空前を先端をチラ見せしつつ投げを通す",
+      "language": "ja"
+    },
+    {
+      "start": 5.74,
+      "end": 8.72,
+      "text": "2回目の空前を狙いに行きますが上から着地",
+      "language": "ja"
+    },
+    {
+      "start": 8.72,
+      "end": 12.28,
+      "text": "ダッシュ掴み",
+      "language": "ja"
+    },
+    {
+      "start": 12.28,
+      "end": 17.12,
+      "text": "横B先端とはならないもう1回横Bですが空前上がり",
+      "language": "ja"
+    }
+  ],
+  "full_text": "空前を先端をチラ見せしつつ投げを通す 2回目の空前を狙いに行きますが上から着地 ダッシュ掴み 横B先端とはならないもう1回横Bですが空前上がり",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "空中手を先端をチラ見せしつつ投げを通す",
+      "corrected": "空前を先端をチラ見せしつつ投げを通す",
+      "rule": "Move abbreviation correction (空中手 → 空前)"
+    },
+    {
+      "segment_idx": 1,
+      "original": "2回目の空中手を狙いに行きますが上から着地",
+      "corrected": "2回目の空前を狙いに行きますが上から着地",
+      "rule": "Move abbreviation correction (空中手 → 空前)"
+    },
+    {
+      "segment_idx": 2,
+      "original": "出しつかみ",
+      "corrected": "ダッシュ掴み",
+      "rule": "Move name correction (出しつかみ → ダッシュ掴み)"
+    },
+    {
+      "segment_idx": 3,
+      "original": "横見先端とはならないもう1回横見ですが空中前上がり",
+      "corrected": "横B先端とはならないもう1回横Bですが空前上がり",
+      "rule": "Move abbreviation correction (横見 → 横B, 空中前 → 空前)"
+    }
+  ]
+}

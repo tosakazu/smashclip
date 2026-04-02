@@ -1,0 +1,33 @@
+{
+  "id": "5056eb2c-4482-498c-b73d-7d03589aa910",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.48,
+      "text": "非常に難しいところですが",
+      "language": "ja"
+    },
+    {
+      "start": 3.48,
+      "end": 5.32,
+      "text": "ここは空Nの駆使",
+      "language": "ja"
+    },
+    {
+      "start": 5.32,
+      "end": 6.76,
+      "text": "撃墜",
+      "language": "ja"
+    }
+  ],
+  "full_text": "非常に難しいところですが ここは空Nの駆使 撃墜",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "空中ニューダルの駆使",
+      "corrected": "空Nの駆使",
+      "rule": "move abbreviation: 空中ニューダル→空N"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "a95e685f-e4d5-4a7f-872e-53deb74cfcad",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.76,
+      "text": "When they're trying to land their attacks, they gotta approach Zelda",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "どうしても自分の技を当てに行くときにゼルダに近づいて"
+    },
+    {
+      "start": 3.76,
+      "end": 5.96,
+      "text": "and have to deal with her moves",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ゼルダの技と向き合わなければならない"
+    },
+    {
+      "start": 5.96,
+      "end": 6.78,
+      "text": "But she lands the thunder!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "しかし雷を当てて"
+    }
+  ],
+  "full_text": "When they're trying to land their attacks, they gotta approach Zelda and have to deal with her moves But she lands the thunder!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

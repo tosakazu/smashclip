@@ -1,0 +1,21 @@
+{
+  "id": "186644b6-9d5a-44fa-bb43-5cb34f55a085",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 8.08,
+      "text": "He goes back into the pokeball like he's not even being threatened by these aerials and he gets finally a grab is punished by the up smash",
+      "language": "en"
+    }
+  ],
+  "full_text": "He goes back into the pokeball like he's not even being threatened by these aerials and he gets finally a grab is punished by the up smash",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "these areas and he gets finally a grab his punish by the up smash",
+      "corrected": "these aerials and he gets finally a grab is punished by the up smash",
+      "rule": "Smash term: areas→aerials; garbled: his punish→is punished"
+    }
+  ]
+}

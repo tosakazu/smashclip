@@ -1,0 +1,39 @@
+{
+  "id": "1a2f626c-5677-45d4-bd61-9771090e3ce2",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.28,
+      "text": "恐ろしいのなんのって",
+      "language": "ja"
+    },
+    {
+      "start": 3.28,
+      "end": 4.44,
+      "text": "しかしシャアは動じない",
+      "language": "ja"
+    },
+    {
+      "start": 4.44,
+      "end": 10.08,
+      "text": "展開をうまく維持できているシャア選手",
+      "language": "ja"
+    },
+    {
+      "start": 10.08,
+      "end": 11.4,
+      "text": "拾った上強",
+      "language": "ja"
+    }
+  ],
+  "full_text": "恐ろしいのなんのって しかしシャアは動じない 展開をうまく維持できているシャア選手 拾った上強",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 3,
+      "original": "拾った上京",
+      "corrected": "拾った上強",
+      "rule": "Whisper kanji homophone: 上京→上強"
+    }
+  ]
+}

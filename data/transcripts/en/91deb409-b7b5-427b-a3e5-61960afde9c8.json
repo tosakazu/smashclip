@@ -1,0 +1,33 @@
+{
+  "id": "91deb409-b7b5-427b-a3e5-61960afde9c8",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "He's back!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "帰ってきて"
+    },
+    {
+      "start": 2.0,
+      "end": 3.98,
+      "text": "And Corrin keeps landing back airs!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "なお空中後ろを当てていくコリンク"
+    },
+    {
+      "start": 3.98,
+      "end": 5.02,
+      "text": "And forward tilt!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そして横強い"
+    }
+  ],
+  "full_text": "He's back! And Corrin keeps landing back airs! And forward tilt!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

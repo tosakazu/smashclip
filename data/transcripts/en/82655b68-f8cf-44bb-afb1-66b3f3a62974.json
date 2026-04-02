@@ -1,0 +1,90 @@
+{
+  "id": "82655b68-f8cf-44bb-afb1-66b3f3a62974",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.4,
+      "text": "DI in sends them flying!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "内側変更は高く飛ぶか"
+    },
+    {
+      "start": 2.4,
+      "end": 3.96,
+      "text": "Dair into bair!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空下から空後"
+    },
+    {
+      "start": 3.96,
+      "end": 5.76,
+      "text": "Lands with nair!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空Nで着地"
+    },
+    {
+      "start": 5.76,
+      "end": 7.52,
+      "text": "That's a HUGE hitbox!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "この判定のデカいですね"
+    },
+    {
+      "start": 7.52,
+      "end": 9.54,
+      "text": "Dash grab into nair!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ガンダッシュ掴みから空N"
+    },
+    {
+      "start": 9.54,
+      "end": 11.62,
+      "text": "First time showing it!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "初めて見せただけでしたね"
+    },
+    {
+      "start": 11.62,
+      "end": 12.2,
+      "text": "Deep!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "深くま"
+    }
+  ],
+  "full_text": "DI in sends them flying! Dair into bair! Lands with nair! That's a HUGE hitbox! Dash grab into nair! First time showing it! Deep!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "空下から空号",
+      "corrected": "空下から空後",
+      "rule": "kanji homophone"
+    },
+    {
+      "segment_idx": 2,
+      "original": "QNで着地",
+      "corrected": "空Nで着地",
+      "rule": "move abbreviation"
+    },
+    {
+      "segment_idx": 3,
+      "original": "この幅で当初のデカいですね",
+      "corrected": "この判定のデカいですね",
+      "rule": "Whisper mishearing"
+    },
+    {
+      "segment_idx": 4,
+      "original": "ガンダッシュ掴みからQN",
+      "corrected": "ガンダッシュ掴みから空N",
+      "rule": "move abbreviation"
+    }
+  ]
+}

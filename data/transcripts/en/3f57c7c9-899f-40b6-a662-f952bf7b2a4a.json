@@ -1,0 +1,62 @@
+{
+  "id": "3f57c7c9-899f-40b6-a662-f952bf7b2a4a",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.36,
+      "text": "I know right, it really changes how easy it is",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "分かる分かる、やりやすさが違ってきますからね"
+    },
+    {
+      "start": 3.36,
+      "end": 4.72,
+      "text": "Up tilt combo connects!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "上強始めのコンボが入って"
+    },
+    {
+      "start": 4.72,
+      "end": 6.72,
+      "text": "From that landing spot, they're setting up",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "着位置でおうかがいを立てて"
+    },
+    {
+      "start": 7.08,
+      "end": 7.58,
+      "text": "Let's go!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いきますか!"
+    },
+    {
+      "start": 7.58,
+      "end": 9.54,
+      "text": "Up B landing trap connects!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "上B着地狩りヒット!"
+    }
+  ],
+  "full_text": "I know right, it really changes how easy it is Up tilt combo connects! From that landing spot, they're setting up Let's go! Up B landing trap connects!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "上ツマシルめのコンボ",
+      "corrected": "上強始めのコンボ",
+      "rule": "Smash term: 上強 (up tilt) + 始め (starting with)"
+    },
+    {
+      "segment_idx": 4,
+      "original": "上キロ",
+      "corrected": "上B",
+      "rule": "Smash move: Luigi's 上B (up special)"
+    }
+  ]
+}

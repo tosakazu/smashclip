@@ -1,0 +1,26 @@
+{
+  "id": "991fd216-22cd-4c97-8ccc-fdc30fc810fa",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.12,
+      "text": "ジャストシールドから横必殺技",
+      "language": "ja"
+    },
+    {
+      "start": 3.12,
+      "end": 7.06,
+      "text": "ルナマドのボディープレスが刺さる刺さる",
+      "language": "ja"
+    },
+    {
+      "start": 7.06,
+      "end": 8.48,
+      "text": "そしてその上がりに",
+      "language": "ja"
+    }
+  ],
+  "full_text": "ジャストシールドから横必殺技 ルナマドのボディープレスが刺さる刺さる そしてその上がりに",
+  "detected_language": "ja",
+  "corrections": []
+}

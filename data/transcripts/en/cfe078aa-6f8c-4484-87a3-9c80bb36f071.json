@@ -1,0 +1,544 @@
+{
+  "id": "cfe078aa-6f8c-4484-87a3-9c80bb36f071",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.84,
+      "text": "Neo's playstyle, no question about it",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ネオ選手のお箱といっても構わないでしょう"
+    },
+    {
+      "start": 1.84,
+      "end": 5.02,
+      "text": "Right, Corrin's neutral B is pretty tough to execute",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そうですね、カムイNBあれ相当むずいんですけどね"
+    },
+    {
+      "start": 5.02,
+      "end": 8.5,
+      "text": "Corrin's fair doesn't have particularly long hitstun",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "カムイの空中前って別にヒットストップ長いわけじゃないので"
+    },
+    {
+      "start": 8.5,
+      "end": 10.64,
+      "text": "The confirm is really difficult",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "確認本当に難しいと思うんですけど"
+    },
+    {
+      "start": 10.64,
+      "end": 12.52,
+      "text": "Neo rarely misses it",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ネオ選手はなかなか外さない"
+    },
+    {
+      "start": 12.52,
+      "end": 15.84,
+      "text": "Right, if the neutral B doesn't charge perfectly",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "確かね、NBもちょうどよくホールドしないと"
+    },
+    {
+      "start": 15.84,
+      "end": 17.44,
+      "text": "The bite won't connect from the projectile",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "噛みつきが繋がらないはずで弾から"
+    },
+    {
+      "start": 17.44,
+      "end": 22.18,
+      "text": "I've heard it's an insanely tight combo",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "相当シビアなコンボだっていうことは伺ったことがあるんです"
+    },
+    {
+      "start": 22.18,
+      "end": 25.58,
+      "text": "Yeah, the opponent who got KO'd was Shuuton",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "はい、倒した相手はシュートン"
+    },
+    {
+      "start": 25.58,
+      "end": 28.76,
+      "text": "At game count 1-1, he hits it with that momentum",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ゲームカウント1対1というこの状況で決めてくる弾力"
+    },
+    {
+      "start": 28.76,
+      "end": 31.64,
+      "text": "And the execution precision",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そして操作精度"
+    },
+    {
+      "start": 31.64,
+      "end": 39.58,
+      "text": "Corrin denying the approach",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "カムイ 密着を拒否しつつ"
+    },
+    {
+      "start": 39.58,
+      "end": 43.38,
+      "text": "Got through the punish",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "対処なり通りました"
+    },
+    {
+      "start": 43.38,
+      "end": 47.58,
+      "text": "The playstyle's becoming more aggressive now",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "攻撃的な色になってきましたね"
+    },
+    {
+      "start": 47.58,
+      "end": 51.54,
+      "text": "Purple, purple, yellow - that's the pattern",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "紫紫黄色という隊列です"
+    },
+    {
+      "start": 51.54,
+      "end": 54.94,
+      "text": "Man, getting hit by this throw here is rough",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いやーここの紫投擲が食らうのはちょっときついか"
+    },
+    {
+      "start": 55.96,
+      "end": 57.74,
+      "text": "The knockback is key",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "唯一ね、あのノックバックがある"
+    },
+    {
+      "start": 57.74,
+      "end": 59.7,
+      "text": "It is a throw though",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "紫投げではあるんですが"
+    },
+    {
+      "start": 59.7,
+      "end": 61.74,
+      "text": "Into the air",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空中へ"
+    },
+    {
+      "start": 61.74,
+      "end": 64.56,
+      "text": "Continuing the pressure now",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあ展開を続けようというところ"
+    },
+    {
+      "start": 64.56,
+      "end": 65.56,
+      "text": "Because of the situation",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "クエの内だから"
+    },
+    {
+      "start": 65.56,
+      "end": 68.6,
+      "text": "Mashing out",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "暴れて"
+    },
+    {
+      "start": 68.6,
+      "end": 73.08,
+      "text": "Hard to drop platform here but",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここは台から降りにくい状況だが"
+    },
+    {
+      "start": 73.08,
+      "end": 74.5,
+      "text": "Creates the gap nicely",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "うまく隙を作りました"
+    },
+    {
+      "start": 74.5,
+      "end": 77.98,
+      "text": "Still it's tough",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあそれでも苦しい"
+    },
+    {
+      "start": 77.98,
+      "end": 79.62,
+      "text": "Shuuton closed the line but",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ラインは詰めたのがシュートなんだが"
+    },
+    {
+      "start": 79.62,
+      "end": 81.22,
+      "text": "Turned it right back around",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここでうまく折り返していきました"
+    },
+    {
+      "start": 81.22,
+      "end": 84.16,
+      "text": "That throw is doing work",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "紫投げがいい仕事をしている"
+    },
+    {
+      "start": 84.16,
+      "end": 85.02,
+      "text": "Recovery...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "復帰は"
+    },
+    {
+      "start": 85.02,
+      "end": 86.34,
+      "text": "Not getting through",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "通さない"
+    },
+    {
+      "start": 86.34,
+      "end": 87.72,
+      "text": "Even without a meteor",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "メテオじゃなくても結構"
+    },
+    {
+      "start": 87.74,
+      "end": 88.82,
+      "text": "Working out well",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "うまくいけばいいのか"
+    },
+    {
+      "start": 88.82,
+      "end": 89.84,
+      "text": "Is that so?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そうなのかな"
+    },
+    {
+      "start": 89.84,
+      "end": 90.86,
+      "text": "",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "λ"
+    },
+    {
+      "start": 90.86,
+      "end": 91.86,
+      "text": "",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "一瞬が"
+    },
+    {
+      "start": 91.86,
+      "end": 92.86,
+      "text": "",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "シュート"
+    },
+    {
+      "start": 92.86,
+      "end": 93.82,
+      "text": "",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そこは"
+    },
+    {
+      "start": 93.82,
+      "end": 94.82,
+      "text": "",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "もう"
+    },
+    {
+      "start": 94.82,
+      "end": 95.82,
+      "text": "",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これ"
+    },
+    {
+      "start": 95.82,
+      "end": 96.84,
+      "text": "",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "今まで"
+    },
+    {
+      "start": 96.84,
+      "end": 97.82,
+      "text": "",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "おこねが"
+    },
+    {
+      "start": 97.82,
+      "end": 98.82,
+      "text": "",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空かず"
+    },
+    {
+      "start": 98.82,
+      "end": 99.82,
+      "text": "",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここは"
+    },
+    {
+      "start": 99.82,
+      "end": 100.82,
+      "text": "",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "なんか"
+    },
+    {
+      "start": 100.82,
+      "end": 101.8,
+      "text": "",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "むhr"
+    },
+    {
+      "start": 101.8,
+      "end": 102.8,
+      "text": "",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "壁"
+    },
+    {
+      "start": 102.8,
+      "end": 103.8,
+      "text": "",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "みたいな"
+    },
+    {
+      "start": 103.8,
+      "end": 104.8,
+      "text": "",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "なんか"
+    },
+    {
+      "start": 104.8,
+      "end": 105.8,
+      "text": "",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "こういう"
+    },
+    {
+      "start": 105.8,
+      "end": 106.8,
+      "text": "",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ね"
+    },
+    {
+      "start": 106.8,
+      "end": 107.8,
+      "text": "",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これ"
+    },
+    {
+      "start": 107.8,
+      "end": 108.8,
+      "text": "",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "紫投げ"
+    },
+    {
+      "start": 108.8,
+      "end": 109.76,
+      "text": "A lot of players go with this option",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "students"
+    },
+    {
+      "start": 109.76,
+      "end": 110.74,
+      "text": "踏み出して",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "踏み出して"
+    },
+    {
+      "start": 110.74,
+      "end": 111.58,
+      "text": "うまく",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "うまく"
+    },
+    {
+      "start": 111.58,
+      "end": 112.56,
+      "text": "合図",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "合図"
+    },
+    {
+      "start": 112.56,
+      "end": 113.02,
+      "text": "うまく",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "うまく"
+    },
+    {
+      "start": 113.02,
+      "end": 113.6,
+      "text": "打つ",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "打つ"
+    },
+    {
+      "start": 113.6,
+      "end": 114.5,
+      "text": "いずれ",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いずれ"
+    },
+    {
+      "start": 114.5,
+      "end": 115.4,
+      "text": "しばらく",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "しばらく"
+    },
+    {
+      "start": 115.4,
+      "end": 116.46,
+      "text": "上手い",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "上手い"
+    },
+    {
+      "start": 116.46,
+      "end": 116.86,
+      "text": "に",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "に"
+    },
+    {
+      "start": 116.86,
+      "end": 117.46,
+      "text": "選択やる人が多いけれども",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "選択やる人が多いけれども"
+    }
+  ],
+  "full_text": "Neo's playstyle, no question about it Right, Corrin's neutral B is pretty tough to execute Corrin's fair doesn't have particularly long hitstun The confirm is really difficult Neo rarely misses it Right, if the neutral B doesn't charge perfectly The bite won't connect from the projectile I've heard it's an insanely tight combo Yeah, the opponent who got KO'd was Shuuton At game count 1-1, he hits it with that momentum And the execution precision Corrin denying the approach Got through the punish The playstyle's becoming more aggressive now Purple, purple, yellow - that's the pattern Man, getting hit by this throw here is rough The knockback is key It is a throw though Into the air Continuing the pressure now Because of the situation Mashing out Hard to drop platform here but Creates the gap nicely Still it's tough Shuuton closed the line but Turned it right back around That throw is doing work Recovery... Not getting through Even without a meteor Working out well Is that so? A lot of players go with this option",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "クーマンNB",
+      "corrected": "カムイNB",
+      "rule": "character name (Corrin=カムイ)"
+    },
+    {
+      "segment_idx": 2,
+      "original": "カブリの空中前",
+      "corrected": "カムイの空中前",
+      "rule": "character name (Corrin=カムイ)"
+    },
+    {
+      "segment_idx": 8,
+      "original": "死んだ相手はシュート",
+      "corrected": "倒した相手はシュートン",
+      "rule": "player name (Shuton)"
+    },
+    {
+      "segment_idx": 11,
+      "original": "クーエネ密着",
+      "corrected": "カムイ 密着",
+      "rule": "character name (Corrin=カムイ)"
+    },
+    {
+      "segment_idx": 14,
+      "original": "対立です",
+      "corrected": "隊列です",
+      "rule": "Olimar term (隊列=pikmin lineup)"
+    }
+  ]
+}

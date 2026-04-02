@@ -1,0 +1,57 @@
+{
+  "id": "94d092fd-9e1d-4bcd-9f47-b3490b66fe7c",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.78,
+      "text": "空下暴れがうまくラインを入れ替えてくれる",
+      "language": "ja"
+    },
+    {
+      "start": 2.78,
+      "end": 5.32,
+      "text": "空中下を匂わせる展開ですが",
+      "language": "ja"
+    },
+    {
+      "start": 5.32,
+      "end": 6.36,
+      "text": "マイルドなH.O動じない",
+      "language": "ja"
+    },
+    {
+      "start": 6.36,
+      "end": 8.28,
+      "text": "これは撃墜か",
+      "language": "ja"
+    },
+    {
+      "start": 8.28,
+      "end": 9.6,
+      "text": "撃墜だ",
+      "language": "ja"
+    },
+    {
+      "start": 9.6,
+      "end": 11.42,
+      "text": "上必殺技を",
+      "language": "ja"
+    }
+  ],
+  "full_text": "空下暴れがうまくラインを入れ替えてくれる 空中下を匂わせる展開ですが マイルドなH.O動じない これは撃墜か 撃墜だ 上必殺技を",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "空中下アワレが",
+      "corrected": "空下暴れが",
+      "rule": "move abbreviation + kanji"
+    },
+    {
+      "segment_idx": 2,
+      "original": "マイルドな影響をどうしない",
+      "corrected": "マイルドなH.O動じない",
+      "rule": "player name + misheard word"
+    }
+  ]
+}

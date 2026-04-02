@@ -1,0 +1,39 @@
+{
+  "id": "0845ba77-9956-46a8-bb18-b9ef276eac5f",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "選択がうまく光っている",
+      "language": "ja"
+    },
+    {
+      "start": 2.0,
+      "end": 7.32,
+      "text": "さあ200%215%のヤマナクションスティーブ",
+      "language": "ja"
+    },
+    {
+      "start": 7.32,
+      "end": 9.86,
+      "text": "3ストック残っていて",
+      "language": "ja"
+    },
+    {
+      "start": 9.86,
+      "end": 11.38,
+      "text": "ケン選手としては攻め上がれる",
+      "language": "ja"
+    }
+  ],
+  "full_text": "選択がうまく光っている さあ200%215%のヤマナクションスティーブ 3ストック残っていて ケン選手としては攻め上がれる",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "さあ200%215%の山中ションスティーブ",
+      "corrected": "さあ200%215%のヤマナクションスティーブ",
+      "rule": "Player name correction (山中ション → ヤマナクション)"
+    }
+  ]
+}

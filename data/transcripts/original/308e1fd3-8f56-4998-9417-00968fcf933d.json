@@ -1,0 +1,63 @@
+{
+  "id": "308e1fd3-8f56-4998-9417-00968fcf933d",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.96,
+      "text": "I've been dating my whole life.",
+      "language": "en"
+    },
+    {
+      "start": 2.88,
+      "end": 4.16,
+      "text": "I'm just going to start reading.",
+      "language": "en"
+    },
+    {
+      "start": 5.48,
+      "end": 6.68,
+      "text": "But Chad's helping me out.",
+      "language": "en"
+    },
+    {
+      "start": 6.76,
+      "end": 7.54,
+      "text": "You guys are there for me.",
+      "language": "en"
+    },
+    {
+      "start": 9.48,
+      "end": 10.5,
+      "text": "Miiya is Miiya.",
+      "language": "en"
+    },
+    {
+      "start": 10.7,
+      "end": 12.54,
+      "text": "No, don't say that.",
+      "language": "en"
+    },
+    {
+      "start": 13.72,
+      "end": 14.98,
+      "text": "Please don't say Miiya.",
+      "language": "en"
+    }
+  ],
+  "full_text": "I've been dating my whole life. I'm just going to start reading. But Chad's helping me out. You guys are there for me. Miiya is Miiya. No, don't say that. Please don't say Miiya.",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 4,
+      "original": "Mia is Mia",
+      "corrected": "Miiya is Miiya",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 6,
+      "original": "Mia",
+      "corrected": "Miiya",
+      "rule": "player name"
+    }
+  ]
+}

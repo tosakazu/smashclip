@@ -1,0 +1,57 @@
+{
+  "id": "d4d35bde-ddc0-4d2c-8bd7-43815d63f365",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "スティーブに対する対処法って",
+      "language": "ja"
+    },
+    {
+      "start": 2.0,
+      "end": 5.68,
+      "text": "相手が掘ることをいったん許容して待つであったりとか",
+      "language": "ja"
+    },
+    {
+      "start": 5.68,
+      "end": 7.48,
+      "text": "相手に掘らせないように",
+      "language": "ja"
+    },
+    {
+      "start": 7.48,
+      "end": 11.28,
+      "text": "どんどんどんどん攻撃を仕掛けていくであったりとか",
+      "language": "ja"
+    },
+    {
+      "start": 11.28,
+      "end": 12.56,
+      "text": "いろいろあるんですけれども",
+      "language": "ja"
+    },
+    {
+      "start": 12.56,
+      "end": 14.26,
+      "text": "マイルドは何を選択し",
+      "language": "ja"
+    }
+  ],
+  "full_text": "スティーブに対する対処法って 相手が掘ることをいったん許容して待つであったりとか 相手に掘らせないように どんどんどんどん攻撃を仕掛けていくであったりとか いろいろあるんですけれども マイルドは何を選択し",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "掘ることを言って許容して",
+      "corrected": "掘ることをいったん許容して",
+      "rule": "mishearing (を言って→をいったん)"
+    },
+    {
+      "segment_idx": 5,
+      "original": "マイファーは",
+      "corrected": "マイルドは",
+      "rule": "player name (マイファー→マイルド = マイルドなH.O)"
+    }
+  ]
+}

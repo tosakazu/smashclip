@@ -1,0 +1,33 @@
+{
+  "id": "bab1e614-b704-4c5f-bc89-8a746955a8ba",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.7,
+      "text": "grab that they get definitely definitely right here we're seeing the conference all the time",
+      "language": "en"
+    },
+    {
+      "start": 3.7,
+      "end": 7.14,
+      "text": "they're going for the pivot grab it's not going to work however Raru is going to be",
+      "language": "en"
+    },
+    {
+      "start": 7.14,
+      "end": 9.78,
+      "text": "sent off stage con el remo line oh when he catches",
+      "language": "en"
+    }
+  ],
+  "full_text": "grab that they get definitely definitely right here we're seeing the conference all the time they're going for the pivot grab it's not going to work however Raru is going to be sent off stage con el remo line oh when he catches",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "laru is",
+      "corrected": "Raru is",
+      "rule": "player name"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "id": "52009d08-575d-4ba4-a1cb-208b7c10c19a",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.64,
+      "text": "Back throw!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "逆に投げを食らって後ろ投げ"
+    },
+    {
+      "start": 1.64,
+      "end": 3.1,
+      "text": "Going deep!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあ深くに行きます"
+    },
+    {
+      "start": 3.1,
+      "end": 6.22,
+      "text": "Throws Pikmin, left exposed!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ピクミン投げて丸腰の状態で"
+    },
+    {
+      "start": 6.22,
+      "end": 7.0,
+      "text": "Can they make it back?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "どう帰るか"
+    },
+    {
+      "start": 7.0,
+      "end": 7.86,
+      "text": "This is rough!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "苦しい状況"
+    },
+    {
+      "start": 7.86,
+      "end": 13.2,
+      "text": "At 159 percent!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "159まで溜めた"
+    },
+    {
+      "start": 13.2,
+      "end": 13.88,
+      "text": "What a play!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "うまいですね"
+    }
+  ],
+  "full_text": "Back throw! Going deep! Throws Pikmin, left exposed! Can they make it back? This is rough! At 159 percent! What a play!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "敵に投げて",
+      "corrected": "ピクミン投げて",
+      "rule": "context: Olimar uses Pikmin"
+    },
+    {
+      "segment_idx": 3,
+      "original": "どう分かるか",
+      "corrected": "どう帰るか",
+      "rule": "misheard: 分かる→帰る (recovery context)"
+    }
+  ]
+}

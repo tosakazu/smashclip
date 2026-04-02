@@ -1,0 +1,39 @@
+{
+  "id": "3421c11e-8399-4a53-b956-ef2f387e597b",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.7,
+      "text": "とがめていきます",
+      "language": "ja"
+    },
+    {
+      "start": 0.7,
+      "end": 3.5,
+      "text": "カートでとがめつつ",
+      "language": "ja"
+    },
+    {
+      "start": 3.5,
+      "end": 6.38,
+      "text": "下強からの空上へ",
+      "language": "ja"
+    },
+    {
+      "start": 6.38,
+      "end": 8.18,
+      "text": "これは当たってのゲーム",
+      "language": "ja"
+    }
+  ],
+  "full_text": "とがめていきます カートでとがめつつ 下強からの空上へ これは当たってのゲーム",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "下京からの空中へ",
+      "corrected": "下強からの空上へ",
+      "rule": "kanji homophone: 下京→下強, 空中→空上"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "61e08f37-abbb-401a-b0e6-9140bbc40a5c",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.66,
+      "text": "Well, Donkey Kong's vertical recovery is pretty limited, so...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ちょっとねドンキーコング縦方向への復帰は乏しいので"
+    },
+    {
+      "start": 2.66,
+      "end": 5.14,
+      "text": "he couldn't make it back to the stage!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ステージ上には戻ってこれなかった"
+    }
+  ],
+  "full_text": "Well, Donkey Kong's vertical recovery is pretty limited, so... he couldn't make it back to the stage!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

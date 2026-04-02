@@ -1,0 +1,63 @@
+{
+  "id": "f0a919ae-776f-4ac5-90cf-fede1b74ba3f",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.7,
+      "text": "okay the time is not Glutonny 122 percent but Kameme he wants to keep that lead he wants to",
+      "language": "en"
+    },
+    {
+      "start": 5.7,
+      "end": 9.54,
+      "text": "continue to maintain the dominance that he has here on the battlefield these players they're",
+      "language": "en"
+    },
+    {
+      "start": 9.54,
+      "end": 14.02,
+      "text": "dealing with a whole different Mega Man he's playing so solidly and he goes so low having",
+      "language": "en"
+    },
+    {
+      "start": 14.02,
+      "end": 19.0,
+      "text": "to burn the waft honestly that was a game over either way rather if that even if that up smash",
+      "language": "en"
+    },
+    {
+      "start": 19.0,
+      "end": 19.52,
+      "text": "didn't connect",
+      "language": "en"
+    }
+  ],
+  "full_text": "okay the time is not Glutonny 122 percent but Kameme he wants to keep that lead he wants to continue to maintain the dominance that he has here on the battlefield these players they're dealing with a whole different Mega Man he's playing so solidly and he goes so low having to burn the waft honestly that was a game over either way rather if that even if that up smash didn't connect",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "gluttony",
+      "corrected": "Glutonny",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 0,
+      "original": "kabime",
+      "corrected": "Kameme",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 3,
+      "original": "burn the walk",
+      "corrected": "burn the waft",
+      "rule": "smash term: walk→waft"
+    },
+    {
+      "segment_idx": 3,
+      "original": "up snatch",
+      "corrected": "up smash",
+      "rule": "smash term"
+    }
+  ]
+}

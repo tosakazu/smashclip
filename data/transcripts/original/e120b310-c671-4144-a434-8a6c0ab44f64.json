@@ -1,0 +1,33 @@
+{
+  "id": "e120b310-c671-4144-a434-8a6c0ab44f64",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.16,
+      "text": "パラソルの判定が出る前にというところでしょう",
+      "language": "ja"
+    },
+    {
+      "start": 3.16,
+      "end": 4.48,
+      "text": "早めに空前がそうそうした",
+      "language": "ja"
+    }
+  ],
+  "full_text": "パラソルの判定が出る前にというところでしょう 早めに空前がそうそうした",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "パーソルの判定",
+      "corrected": "パラソルの判定",
+      "rule": "smash term (Daisy parasol)"
+    },
+    {
+      "segment_idx": 1,
+      "original": "空白がそうそうした",
+      "corrected": "空前がそうそうした",
+      "rule": "smash term (forward air)"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "d6341906-bf0c-436c-b348-3bd23c56f108",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.82,
+      "text": "Great timer on that back air, for real, and thank goodness for Lammers, he actually did",
+      "language": "en"
+    },
+    {
+      "start": 6.82,
+      "end": 10.56,
+      "text": "that input because his back was facing the wall against their great drag down D-",
+      "language": "en"
+    }
+  ],
+  "full_text": "Great timer on that back air, for real, and thank goodness for Lammers, he actually did that input because his back was facing the wall against their great drag down D-",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "Lamers",
+      "corrected": "Lammers",
+      "rule": "player name (Lammers44)"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "id": "bcb82d24-04bd-4c2f-b63e-cc84e9e4e832",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.58,
+      "text": "That timing is incredible!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "タイミングもかなり素晴らしい"
+    },
+    {
+      "start": 1.58,
+      "end": 2.44,
+      "text": "Nice!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "うまい"
+    },
+    {
+      "start": 2.44,
+      "end": 5.98,
+      "text": "Will this land?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これがあるかな"
+    },
+    {
+      "start": 5.98,
+      "end": 8.7,
+      "text": "Great patience!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "しっかりと我慢しました"
+    },
+    {
+      "start": 8.7,
+      "end": 9.78,
+      "text": "He held his composure right there!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "我慢しましたね今"
+    },
+    {
+      "start": 9.78,
+      "end": 11.3,
+      "text": "Nice!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "うまい"
+    },
+    {
+      "start": 11.3,
+      "end": 11.62,
+      "text": "Nice!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "うまい"
+    }
+  ],
+  "full_text": "That timing is incredible! Nice! Will this land? Great patience! He held his composure right there! Nice! Nice!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "テイミングもかなり素晴らしい",
+      "corrected": "タイミングもかなり素晴らしい",
+      "rule": "kanji homophone"
+    }
+  ]
+}

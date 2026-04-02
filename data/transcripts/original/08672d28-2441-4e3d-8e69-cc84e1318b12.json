@@ -1,0 +1,20 @@
+{
+  "id": "08672d28-2441-4e3d-8e69-cc84e1318b12",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.9,
+      "text": "空中にいたれ",
+      "language": "ja"
+    },
+    {
+      "start": 0.9,
+      "end": 1.68,
+      "text": "おっとこれは",
+      "language": "ja"
+    }
+  ],
+  "full_text": "空中にいたれ おっとこれは",
+  "detected_language": "ja",
+  "corrections": []
+}

@@ -1,0 +1,32 @@
+{
+  "id": "f77b13ef-4043-43bf-86a7-56d5a440c7c6",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.2,
+      "text": "スティーブ、第2ゲームではちょっと変わって",
+      "language": "ja"
+    },
+    {
+      "start": 2.2,
+      "end": 4.1,
+      "text": "壁も立てているようにも見えますが",
+      "language": "ja"
+    },
+    {
+      "start": 4.1,
+      "end": 5.88,
+      "text": "ここはトロッコ通って、メテオから",
+      "language": "ja"
+    },
+    {
+      "start": 5.88,
+      "end": 7.02,
+      "text": "おー、メテオです",
+      "language": "ja"
+    }
+  ],
+  "full_text": "スティーブ、第2ゲームではちょっと変わって 壁も立てているようにも見えますが ここはトロッコ通って、メテオから おー、メテオです",
+  "detected_language": "ja",
+  "corrections": []
+}

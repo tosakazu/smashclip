@@ -1,0 +1,27 @@
+{
+  "id": "85aceb60-8741-40f1-b825-b224c4599a1a",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.5,
+      "text": "後ろ投げ",
+      "language": "ja"
+    },
+    {
+      "start": 0.5,
+      "end": 7.08,
+      "text": "これは横Bいった",
+      "language": "ja"
+    }
+  ],
+  "full_text": "後ろ投げ これは横Bいった",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "これは横引いた",
+      "corrected": "これは横Bいった",
+      "rule": "move name (横引いた→横Bいった)"
+    }
+  ]
+}

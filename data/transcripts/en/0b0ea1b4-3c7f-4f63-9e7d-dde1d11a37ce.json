@@ -1,0 +1,49 @@
+{
+  "id": "0b0ea1b4-3c7f-4f63-9e7d-dde1d11a37ce",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.3,
+      "text": "Is this a combo?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "求められるのはあcolaか"
+    },
+    {
+      "start": 1.3,
+      "end": 3.54,
+      "text": "Meteor?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "メテオになるか"
+    },
+    {
+      "start": 3.54,
+      "end": 6.08,
+      "text": "Back air!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これは空後"
+    },
+    {
+      "start": 6.08,
+      "end": 8.2,
+      "text": "Loses the juggle here!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここに来て相手の足場をとらえず"
+    },
+    {
+      "start": 8.2,
+      "end": 10.0,
+      "text": "Clean meteor!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "メテオにガッツリ"
+    }
+  ],
+  "full_text": "Is this a combo? Meteor? Back air! Loses the juggle here! Clean meteor!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

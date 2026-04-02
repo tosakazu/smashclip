@@ -1,0 +1,57 @@
+{
+  "id": "2a4ec4fb-f83f-4f0c-ba48-3f23b247727f",
+  "segments": [
+    {
+      "start": 0.8,
+      "end": 1.92,
+      "text": "またもや踏み",
+      "language": "ja"
+    },
+    {
+      "start": 1.92,
+      "end": 4.72,
+      "text": "下り空N引いて",
+      "language": "ja"
+    },
+    {
+      "start": 4.72,
+      "end": 5.58,
+      "text": "その",
+      "language": "ja"
+    },
+    {
+      "start": 5.58,
+      "end": 7.76,
+      "text": "下強 空N普通にめちゃくちゃ強いので",
+      "language": "ja"
+    },
+    {
+      "start": 7.76,
+      "end": 9.26,
+      "text": "撃墜しないというところがあります",
+      "language": "ja"
+    }
+  ],
+  "full_text": "またもや踏み 下り空N引いて その 下強 空N普通にめちゃくちゃ強いので 撃墜しないというところがあります",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "またもやフミー",
+      "corrected": "またもや踏み",
+      "rule": "misheard: フミー→踏み"
+    },
+    {
+      "segment_idx": 1,
+      "original": "下り引いて",
+      "corrected": "下り空N引いて",
+      "rule": "missing move"
+    },
+    {
+      "segment_idx": 3,
+      "original": "ガーケンウェビー",
+      "corrected": "下強 空N",
+      "rule": "garbled: ガーケンウェビー→下強 空N"
+    }
+  ]
+}

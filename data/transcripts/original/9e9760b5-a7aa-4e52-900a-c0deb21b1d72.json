@@ -1,0 +1,81 @@
+{
+  "id": "9e9760b5-a7aa-4e52-900a-c0deb21b1d72",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.86,
+      "text": "上投げ確認",
+      "language": "ja"
+    },
+    {
+      "start": 1.86,
+      "end": 4.1,
+      "text": "仕込みながらの大寄り",
+      "language": "ja"
+    },
+    {
+      "start": 4.1,
+      "end": 5.4,
+      "text": "なんでどっちも撃墜帯なんだよ",
+      "language": "ja"
+    },
+    {
+      "start": 5.4,
+      "end": 7.98,
+      "text": "なんでなんでしょうね",
+      "language": "ja"
+    },
+    {
+      "start": 7.98,
+      "end": 9.24,
+      "text": "さあとてつもない撃墜帯",
+      "language": "ja"
+    },
+    {
+      "start": 9.24,
+      "end": 11.3,
+      "text": "いやー素晴らしい偉いですね",
+      "language": "ja"
+    },
+    {
+      "start": 11.3,
+      "end": 12.64,
+      "text": "ちゃんと上スマでかかんっていうのは",
+      "language": "ja"
+    },
+    {
+      "start": 12.64,
+      "end": 13.4,
+      "text": "なんか後ろ投げた",
+      "language": "ja"
+    }
+  ],
+  "full_text": "上投げ確認 仕込みながらの大寄り なんでどっちも撃墜帯なんだよ なんでなんでしょうね さあとてつもない撃墜帯 いやー素晴らしい偉いですね ちゃんと上スマでかかんっていうのは なんか後ろ投げた",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "上乗り確認",
+      "corrected": "上投げ確認",
+      "rule": "move name"
+    },
+    {
+      "segment_idx": 2,
+      "original": "撃墜体",
+      "corrected": "撃墜帯",
+      "rule": "kanji homophone (kill percent range)"
+    },
+    {
+      "segment_idx": 4,
+      "original": "撃墜体",
+      "corrected": "撃墜帯",
+      "rule": "kanji homophone (kill percent range)"
+    },
+    {
+      "segment_idx": 6,
+      "original": "上さま",
+      "corrected": "上スマ",
+      "rule": "move abbreviation (up smash)"
+    }
+  ]
+}

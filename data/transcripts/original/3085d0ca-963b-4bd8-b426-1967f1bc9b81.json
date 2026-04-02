@@ -1,0 +1,87 @@
+{
+  "id": "3085d0ca-963b-4bd8-b426-1967f1bc9b81",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "text": "君キレるか?",
+      "language": "ja"
+    },
+    {
+      "start": 1.0,
+      "end": 2.0,
+      "text": "クシャン取らず",
+      "language": "ja"
+    },
+    {
+      "start": 2.0,
+      "end": 3.0,
+      "text": "クゴン",
+      "language": "ja"
+    },
+    {
+      "start": 3.0,
+      "end": 5.0,
+      "text": "いや、ジャンプ空振り",
+      "language": "ja"
+    },
+    {
+      "start": 5.0,
+      "end": 6.0,
+      "text": "どうする?",
+      "language": "ja"
+    },
+    {
+      "start": 6.0,
+      "end": 7.0,
+      "text": "いや、これは",
+      "language": "ja"
+    },
+    {
+      "start": 7.0,
+      "end": 8.0,
+      "text": "まずは犬が",
+      "language": "ja"
+    },
+    {
+      "start": 8.0,
+      "end": 9.0,
+      "text": "いやー",
+      "language": "ja"
+    },
+    {
+      "start": 9.0,
+      "end": 10.0,
+      "text": "空振りで",
+      "language": "ja"
+    },
+    {
+      "start": 10.0,
+      "end": 11.0,
+      "text": "いやー",
+      "language": "ja"
+    },
+    {
+      "start": 11.0,
+      "end": 12.0,
+      "text": "コーカーホーカー",
+      "language": "ja"
+    }
+  ],
+  "full_text": "君キレるか? クシャン取らず クゴン いや、ジャンプ空振り どうする? いや、これは まずは犬が いやー 空振りで いやー コーカーホーカー",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 3,
+      "original": "ジャンプキューバイ",
+      "corrected": "ジャンプ空振り",
+      "rule": "Whisper misrecognition"
+    },
+    {
+      "segment_idx": 8,
+      "original": "キューバイで",
+      "corrected": "空振りで",
+      "rule": "Whisper misrecognition"
+    }
+  ]
+}

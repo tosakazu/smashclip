@@ -1,0 +1,72 @@
+{
+  "id": "b7ecd645-4194-4dc8-ba27-19675325d964",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.66,
+      "text": "If that lands, it's a KO!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "当たるものが当たれば撃墜するそんな状況"
+    },
+    {
+      "start": 2.66,
+      "end": 4.5,
+      "text": "Good forward tilt!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "横強うまく暴れて"
+    },
+    {
+      "start": 4.5,
+      "end": 7.24,
+      "text": "No, no, no, no, no!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "あ、全然全然全然全然全然"
+    },
+    {
+      "start": 7.24,
+      "end": 9.4,
+      "text": "The perfect they wanted!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "欲しいパーフェクトが"
+    },
+    {
+      "start": 9.4,
+      "end": 10.08,
+      "text": "They're reading it!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "あー見てるんだ"
+    },
+    {
+      "start": 10.08,
+      "end": 10.62,
+      "text": "They see it",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "見てる"
+    },
+    {
+      "start": 10.62,
+      "end": 12.56,
+      "text": "Finally",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "最後に"
+    }
+  ],
+  "full_text": "If that lands, it's a KO! Good forward tilt! No, no, no, no, no! The perfect they wanted! They're reading it! They see it Finally",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "横京",
+      "corrected": "横強",
+      "rule": "move name"
+    }
+  ]
+}

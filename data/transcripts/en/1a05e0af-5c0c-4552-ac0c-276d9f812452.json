@@ -1,0 +1,88 @@
+{
+  "id": "1a05e0af-5c0c-4552-ac0c-276d9f812452",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.36,
+      "text": "was trying to set that up",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "せようというところだったんですけれども"
+    },
+    {
+      "start": 1.36,
+      "end": 3.62,
+      "text": "they cleaned it up in the follow-up",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これはその後の展開で取り切っていきました"
+    },
+    {
+      "start": 3.62,
+      "end": 10.02,
+      "text": "Spin to nair",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "スピンから空中ニュートラル"
+    },
+    {
+      "start": 10.02,
+      "end": 15.44,
+      "text": "Saying 'no down B approach against spin'",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "スピンに対して下Bで近づいてくるなよと"
+    },
+    {
+      "start": 15.44,
+      "end": 17.6,
+      "text": "showing that read, but",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "言った意思表示をしますが"
+    },
+    {
+      "start": 17.6,
+      "end": 20.76,
+      "text": "Against down B, capping from above",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "下Bに対して上からかぶせていきましたね"
+    },
+    {
+      "start": 20.76,
+      "end": 24.72,
+      "text": "Ledge situation",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "崖展開"
+    },
+    {
+      "start": 24.72,
+      "end": 30.6,
+      "text": "Diving in from above against down B",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここも下Bに対して上から潜り込んでいく"
+    },
+    {
+      "start": 30.6,
+      "end": 34.34,
+      "text": "KO off the bair!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そして最後は空後で撃墜取っていきました"
+    }
+  ],
+  "full_text": "was trying to set that up they cleaned it up in the follow-up Spin to nair Saying 'no down B approach against spin' showing that read, but Against down B, capping from above Ledge situation Diving in from above against down B KO off the bair!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 8,
+      "original": "そして最後は空中白で撃墜取っていきました",
+      "corrected": "そして最後は空後で撃墜取っていきました",
+      "rule": "Whisper kanji homophone: 空中白→空後"
+    }
+  ]
+}

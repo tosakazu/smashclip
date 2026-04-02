@@ -1,0 +1,81 @@
+{
+  "id": "e323870e-7cdd-41dc-b679-f3ace32dc312",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.24,
+      "text": "落ちているのでまだ撃墜 昇竜に当たらない",
+      "language": "ja"
+    },
+    {
+      "start": 2.24,
+      "end": 5.72,
+      "text": "怖い怖いどちらが",
+      "language": "ja"
+    },
+    {
+      "start": 5.72,
+      "end": 8.84,
+      "text": "空下来た タイミングずらす 背びれ耐えて",
+      "language": "ja"
+    },
+    {
+      "start": 8.84,
+      "end": 10.46,
+      "text": "ホムラ",
+      "language": "ja"
+    },
+    {
+      "start": 10.46,
+      "end": 14.7,
+      "text": "あっとここで撃墜を決めたのはシュートンだ",
+      "language": "ja"
+    },
+    {
+      "start": 14.7,
+      "end": 18.04,
+      "text": "ここかー",
+      "language": "ja"
+    },
+    {
+      "start": 18.04,
+      "end": 20.88,
+      "text": "粘って粘ってパワーを押し付けた",
+      "language": "ja"
+    },
+    {
+      "start": 20.88,
+      "end": 23.22,
+      "text": "制したのはシュートンです",
+      "language": "ja"
+    }
+  ],
+  "full_text": "落ちているのでまだ撃墜 昇竜に当たらない 怖い怖いどちらが 空下来た タイミングずらす 背びれ耐えて ホムラ あっとここで撃墜を決めたのはシュートンだ ここかー 粘って粘ってパワーを押し付けた 制したのはシュートンです",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "通撃 省力に当たらない",
+      "corrected": "撃墜 昇竜に当たらない",
+      "rule": "kanji homophone: 撃墜, 昇竜"
+    },
+    {
+      "segment_idx": 2,
+      "original": "クジコギタイミングずらす 背びれ耐えて",
+      "corrected": "空下来た タイミングずらす 背びれ耐えて",
+      "rule": "misheard: 空下"
+    },
+    {
+      "segment_idx": 4,
+      "original": "拳銃手を決めたのはシュートンだ",
+      "corrected": "撃墜を決めたのはシュートンだ",
+      "rule": "kanji homophone: 撃墜"
+    },
+    {
+      "segment_idx": 7,
+      "original": "接戦したのはシュートンです",
+      "corrected": "制したのはシュートンです",
+      "rule": "misheard: 制した"
+    }
+  ]
+}

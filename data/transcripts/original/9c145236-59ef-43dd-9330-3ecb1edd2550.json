@@ -1,0 +1,75 @@
+{
+  "id": "9c145236-59ef-43dd-9330-3ecb1edd2550",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.7,
+      "text": "食いながらダッシュ攻撃",
+      "language": "ja"
+    },
+    {
+      "start": 1.7,
+      "end": 4.2,
+      "text": "降り空中攻撃からのもう一発",
+      "language": "ja"
+    },
+    {
+      "start": 4.2,
+      "end": 5.78,
+      "text": "ダッシュ攻撃に降り固めですが",
+      "language": "ja"
+    },
+    {
+      "start": 5.78,
+      "end": 7.56,
+      "text": "反対側の崖",
+      "language": "ja"
+    },
+    {
+      "start": 7.56,
+      "end": 9.08,
+      "text": "90%",
+      "language": "ja"
+    },
+    {
+      "start": 9.08,
+      "end": 10.76,
+      "text": "ここでピクミンを引っこ抜く時間",
+      "language": "ja"
+    }
+  ],
+  "full_text": "食いながらダッシュ攻撃 降り空中攻撃からのもう一発 ダッシュ攻撃に降り固めですが 反対側の崖 90% ここでピクミンを引っこ抜く時間",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "出し攻撃",
+      "corrected": "ダッシュ攻撃",
+      "rule": "Whisper misheard"
+    },
+    {
+      "segment_idx": 1,
+      "original": "球中攻撃",
+      "corrected": "空中攻撃",
+      "rule": "kanji homophone"
+    },
+    {
+      "segment_idx": 2,
+      "original": "出し攻撃に降る固め",
+      "corrected": "ダッシュ攻撃に降り固め",
+      "rule": "Whisper misheard"
+    },
+    {
+      "segment_idx": 4,
+      "original": "90勝",
+      "corrected": "90%",
+      "rule": "Whisper misheard"
+    },
+    {
+      "segment_idx": 5,
+      "original": "ピックウェイに引っこ抜く",
+      "corrected": "ピクミンを引っこ抜く",
+      "rule": "character name (Olimar's Pikmin)"
+    }
+  ]
+}

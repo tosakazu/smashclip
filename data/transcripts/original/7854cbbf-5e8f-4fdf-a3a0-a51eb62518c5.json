@@ -1,0 +1,38 @@
+{
+  "id": "7854cbbf-5e8f-4fdf-a3a0-a51eb62518c5",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.52,
+      "text": "普通前で上がる",
+      "language": "ja"
+    },
+    {
+      "start": 2.52,
+      "end": 4.22,
+      "text": "なかなかまとまったリターンが",
+      "language": "ja"
+    },
+    {
+      "start": 4.22,
+      "end": 6.3,
+      "text": "崖に追い詰めることができても",
+      "language": "ja"
+    },
+    {
+      "start": 6.3,
+      "end": 7.94,
+      "text": "そこから撃墜がつながりません",
+      "language": "ja"
+    },
+    {
+      "start": 7.94,
+      "end": 9.98,
+      "text": "もどかしい",
+      "language": "ja"
+    }
+  ],
+  "full_text": "普通前で上がる なかなかまとまったリターンが 崖に追い詰めることができても そこから撃墜がつながりません もどかしい",
+  "detected_language": "ja",
+  "corrections": []
+}

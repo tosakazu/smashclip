@@ -1,0 +1,69 @@
+{
+  "id": "132f627e-e7b3-43cc-87d6-3dea1a44fa1c",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.4,
+      "text": "選手の撃墜択を通させてくれない空下暴れ",
+      "language": "ja"
+    },
+    {
+      "start": 2.4,
+      "end": 3.78,
+      "text": "空後暴れ",
+      "language": "ja"
+    },
+    {
+      "start": 3.78,
+      "end": 4.82,
+      "text": "強気な択",
+      "language": "ja"
+    },
+    {
+      "start": 4.82,
+      "end": 7.6,
+      "text": "さあやはり空N",
+      "language": "ja"
+    },
+    {
+      "start": 7.6,
+      "end": 9.32,
+      "text": "2段目も当たればかなりおいしい",
+      "language": "ja"
+    },
+    {
+      "start": 9.32,
+      "end": 11.1,
+      "text": "ここは上投げで撃墜ですね",
+      "language": "ja"
+    }
+  ],
+  "full_text": "選手の撃墜択を通させてくれない空下暴れ 空後暴れ 強気な択 さあやはり空N 2段目も当たればかなりおいしい ここは上投げで撃墜ですね",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "選手の撃墜タクを通させてくれない空中下暴れ",
+      "corrected": "選手の撃墜択を通させてくれない空下暴れ",
+      "rule": "Kanji/abbreviation: タク→択, 空中下→空下"
+    },
+    {
+      "segment_idx": 1,
+      "original": "空中後ろ暴れ",
+      "corrected": "空後暴れ",
+      "rule": "Move abbreviation: 空中後ろ→空後"
+    },
+    {
+      "segment_idx": 2,
+      "original": "強気なタク",
+      "corrected": "強気な択",
+      "rule": "Kanji: タク→択"
+    },
+    {
+      "segment_idx": 3,
+      "original": "さあやはり空中ニュートラル",
+      "corrected": "さあやはり空N",
+      "rule": "Move abbreviation: 空中ニュートラル→空N"
+    }
+  ]
+}

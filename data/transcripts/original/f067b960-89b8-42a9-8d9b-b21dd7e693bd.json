@@ -1,0 +1,45 @@
+{
+  "id": "f067b960-89b8-42a9-8d9b-b21dd7e693bd",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.0,
+      "text": "ドンキー側でもそれをやってくる",
+      "language": "ja"
+    },
+    {
+      "start": 3.0,
+      "end": 5.72,
+      "text": "崖の展開回避上がりを通した",
+      "language": "ja"
+    },
+    {
+      "start": 5.72,
+      "end": 9.86,
+      "text": "ここでNBを狙ってきた",
+      "language": "ja"
+    },
+    {
+      "start": 9.86,
+      "end": 10.76,
+      "text": "うん",
+      "language": "ja"
+    },
+    {
+      "start": 10.76,
+      "end": 12.18,
+      "text": "弱から",
+      "language": "ja"
+    }
+  ],
+  "full_text": "ドンキー側でもそれをやってくる 崖の展開回避上がりを通した ここでNBを狙ってきた うん 弱から",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 4,
+      "original": "弱化",
+      "corrected": "弱から",
+      "rule": "misheard"
+    }
+  ]
+}

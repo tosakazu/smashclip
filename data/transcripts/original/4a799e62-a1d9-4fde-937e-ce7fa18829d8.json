@@ -1,0 +1,26 @@
+{
+  "id": "4a799e62-a1d9-4fde-937e-ce7fa18829d8",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.8,
+      "text": "痛いところ掴んでいる",
+      "language": "ja"
+    },
+    {
+      "start": 1.8,
+      "end": 2.38,
+      "text": "前台から",
+      "language": "ja"
+    },
+    {
+      "start": 2.38,
+      "end": 5.5,
+      "text": "うまっ",
+      "language": "ja"
+    }
+  ],
+  "full_text": "痛いところ掴んでいる 前台から うまっ",
+  "detected_language": "ja",
+  "corrections": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "c20efa52-abdd-4cad-9444-c793f04d75e8",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.48,
+      "text": "as we see that time to time against the Raru it really is a battle nowhere no matter where he",
+      "language": "en"
+    },
+    {
+      "start": 4.48,
+      "end": 8.62,
+      "text": "goes but he did demonstrate on that first stock he is capable of definitely even in a deficit",
+      "language": "en"
+    },
+    {
+      "start": 8.62,
+      "end": 12.2,
+      "text": "bringing it all the way back or in that case gentlemen take the lead right from",
+      "language": "en"
+    }
+  ],
+  "full_text": "as we see that time to time against the Raru it really is a battle nowhere no matter where he goes but he did demonstrate on that first stock he is capable of definitely even in a deficit bringing it all the way back or in that case gentlemen take the lead right from",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "the ferraro",
+      "corrected": "the Raru",
+      "rule": "player name"
+    }
+  ]
+}

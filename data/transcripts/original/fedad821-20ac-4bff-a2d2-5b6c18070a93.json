@@ -1,0 +1,57 @@
+{
+  "id": "fedad821-20ac-4bff-a2d2-5b6c18070a93",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.92,
+      "text": "しかしギリギリ距離が足らずで",
+      "language": "ja"
+    },
+    {
+      "start": 1.92,
+      "end": 3.74,
+      "text": "バナナで圧をかける",
+      "language": "ja"
+    },
+    {
+      "start": 3.74,
+      "end": 4.38,
+      "text": "この崖",
+      "language": "ja"
+    },
+    {
+      "start": 4.38,
+      "end": 6.52,
+      "text": "どう上がる",
+      "language": "ja"
+    },
+    {
+      "start": 6.52,
+      "end": 9.54,
+      "text": "台上の着地に",
+      "language": "ja"
+    },
+    {
+      "start": 9.54,
+      "end": 10.16,
+      "text": "上だ",
+      "language": "ja"
+    }
+  ],
+  "full_text": "しかしギリギリ距離が足らずで バナナで圧をかける この崖 どう上がる 台上の着地に 上だ",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "この賭け",
+      "corrected": "この崖",
+      "rule": "misheard: 賭け→崖"
+    },
+    {
+      "segment_idx": 4,
+      "original": "大上の着地に",
+      "corrected": "台上の着地に",
+      "rule": "kanji homophone: 大上→台上"
+    }
+  ]
+}

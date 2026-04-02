@@ -1,0 +1,57 @@
+{
+  "id": "fae56055-6606-4364-863c-0511caa73cd1",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.54,
+      "text": "しっかりととがめて回避上がりをとがめる後ろ",
+      "language": "ja"
+    },
+    {
+      "start": 2.54,
+      "end": 4.2,
+      "text": "振り向きつかみ",
+      "language": "ja"
+    },
+    {
+      "start": 4.2,
+      "end": 5.8,
+      "text": "そして後ろ投げ",
+      "language": "ja"
+    },
+    {
+      "start": 5.8,
+      "end": 7.92,
+      "text": "地面上マント当たらない空中後ろで",
+      "language": "ja"
+    },
+    {
+      "start": 7.92,
+      "end": 9.24,
+      "text": "反対側の崖に追い払って",
+      "language": "ja"
+    },
+    {
+      "start": 9.24,
+      "end": 11.32,
+      "text": "空中上で落として下スマ",
+      "language": "ja"
+    },
+    {
+      "start": 11.32,
+      "end": 12.0,
+      "text": "行け行け",
+      "language": "ja"
+    }
+  ],
+  "full_text": "しっかりととがめて回避上がりをとがめる後ろ 振り向きつかみ そして後ろ投げ 地面上マント当たらない空中後ろで 反対側の崖に追い払って 空中上で落として下スマ 行け行け",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 5,
+      "original": "下つま",
+      "corrected": "下スマ",
+      "rule": "misheard: 下つま→下スマ"
+    }
+  ]
+}

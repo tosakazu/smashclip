@@ -1,0 +1,80 @@
+{
+  "id": "0cf94d8f-75fd-4cba-af5f-2ceb167f83d2",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "次",
+      "language": "ja"
+    },
+    {
+      "start": 2.0,
+      "end": 3.0,
+      "text": "危ないが",
+      "language": "ja"
+    },
+    {
+      "start": 3.0,
+      "end": 4.0,
+      "text": "なんとか",
+      "language": "ja"
+    },
+    {
+      "start": 4.0,
+      "end": 5.0,
+      "text": "戻った",
+      "language": "ja"
+    },
+    {
+      "start": 5.0,
+      "end": 6.0,
+      "text": "戻った",
+      "language": "ja"
+    },
+    {
+      "start": 6.0,
+      "end": 7.0,
+      "text": "空N取らず",
+      "language": "ja"
+    },
+    {
+      "start": 7.0,
+      "end": 8.0,
+      "text": "空後",
+      "language": "ja"
+    },
+    {
+      "start": 8.0,
+      "end": 9.0,
+      "text": "取らず",
+      "language": "ja"
+    },
+    {
+      "start": 9.0,
+      "end": 10.0,
+      "text": "空後",
+      "language": "ja"
+    },
+    {
+      "start": 10.0,
+      "end": 11.0,
+      "text": "グラフィティー",
+      "language": "ja"
+    },
+    {
+      "start": 11.0,
+      "end": 12.0,
+      "text": "2人空後が同時に",
+      "language": "ja"
+    },
+    {
+      "start": 12.0,
+      "end": 13.0,
+      "text": "撃墜",
+      "language": "ja"
+    }
+  ],
+  "full_text": "次 危ないが なんとか 戻った 戻った 空N取らず 空後 取らず 空後 グラフィティー 2人空後が同時に 撃墜",
+  "detected_language": "ja",
+  "corrections": []
+}

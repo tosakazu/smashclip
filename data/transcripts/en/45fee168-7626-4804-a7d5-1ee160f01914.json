@@ -1,0 +1,64 @@
+{
+  "id": "45fee168-7626-4804-a7d5-1ee160f01914",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.6,
+      "text": "Acola Steve",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "アコーラスティーブ"
+    },
+    {
+      "start": 0.6,
+      "end": 2.54,
+      "text": "B hold locked in",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "Bホールドきっちり"
+    },
+    {
+      "start": 2.54,
+      "end": 3.46,
+      "text": "Up smash, though...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "上スマッシュですと"
+    },
+    {
+      "start": 3.46,
+      "end": 9.72,
+      "text": "Even if Ashimo Ryu's prepped...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "アシモリュウが対策を積んでいるにしても"
+    },
+    {
+      "start": 9.72,
+      "end": 12.9,
+      "text": "But Acola's got Ryu prep too",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "じゃあアコーラスティーブがリュウ対策を積んでないかと言われると"
+    },
+    {
+      "start": 12.9,
+      "end": 13.16,
+      "text": "Yeah",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そう"
+    }
+  ],
+  "full_text": "Acola Steve B hold locked in Up smash, though... Even if Ashimo Ryu's prepped... But Acola's got Ryu prep too Yeah",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "ビホールド",
+      "corrected": "Bホールド",
+      "rule": "misheard game term (B button hold)"
+    }
+  ]
+}

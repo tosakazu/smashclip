@@ -1,0 +1,44 @@
+{
+  "id": "26ede1c3-dbad-49a7-b8c4-6f5c4e688087",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.12,
+      "text": "やっていくしかないです",
+      "language": "ja"
+    },
+    {
+      "start": 2.12,
+      "end": 3.3,
+      "text": "たくさんチャレンジをして",
+      "language": "ja"
+    },
+    {
+      "start": 3.3,
+      "end": 5.18,
+      "text": "何かが通るところを待つしかない",
+      "language": "ja"
+    },
+    {
+      "start": 5.18,
+      "end": 7.98,
+      "text": "耐えて耐えていればいつかいいことがあります",
+      "language": "ja"
+    },
+    {
+      "start": 7.98,
+      "end": 9.16,
+      "text": "ぶっ刺さる!",
+      "language": "ja"
+    },
+    {
+      "start": 9.16,
+      "end": 10.04,
+      "text": "上スマッシュ",
+      "language": "ja"
+    }
+  ],
+  "full_text": "やっていくしかないです たくさんチャレンジをして 何かが通るところを待つしかない 耐えて耐えていればいつかいいことがあります ぶっ刺さる! 上スマッシュ",
+  "detected_language": "ja",
+  "corrections": []
+}

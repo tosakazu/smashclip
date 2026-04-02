@@ -1,0 +1,32 @@
+{
+  "id": "7abbde43-998f-4534-b882-5a1d46fdc69b",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.84,
+      "text": "The timing on this is insane!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "このタイミングがお見事してきます"
+    },
+    {
+      "start": 3.84,
+      "end": 10.3,
+      "text": "Side B to keep the pressure on!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "このプレッシャーかけて横B"
+    }
+  ],
+  "full_text": "The timing on this is insane! Side B to keep the pressure on!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "させて横引き",
+      "corrected": "かけて横B",
+      "rule": "move name + whisper misrecognition"
+    }
+  ]
+}

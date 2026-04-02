@@ -1,0 +1,48 @@
+{
+  "id": "c57c228d-c1a7-4dbf-9cda-bce46207b71e",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.04,
+      "text": "That speed, you know...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "速い動きってね"
+    },
+    {
+      "start": 1.04,
+      "end": 3.6,
+      "text": "Makes you wonder if it's even Link...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これほんまにリンクかって思うようなね"
+    },
+    {
+      "start": 3.6,
+      "end": 5.2,
+      "text": "Really catches you off guard, but...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "面食らったことになったりするんですけど"
+    },
+    {
+      "start": 5.2,
+      "end": 6.78,
+      "text": "Down tilt to up air KO!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここで下強から空上で撃墜"
+    }
+  ],
+  "full_text": "That speed, you know... Makes you wonder if it's even Link... Really catches you off guard, but... Down tilt to up air KO!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 3,
+      "original": "ここでした今日から空中で覚醒で激戦",
+      "corrected": "ここで下強から空上で撃墜",
+      "rule": "misheard combo description"
+    }
+  ]
+}

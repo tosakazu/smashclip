@@ -1,0 +1,21 @@
+{
+  "id": "f362687c-c457-4533-8617-75c253bb8107",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.5,
+      "text": "with a falling up air as well. So many options to keep in mind from the ledge and just",
+      "language": "en"
+    }
+  ],
+  "full_text": "with a falling up air as well. So many options to keep in mind from the ledge and just",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "from the leg",
+      "corrected": "from the ledge",
+      "rule": "misheard: leg→ledge"
+    }
+  ]
+}

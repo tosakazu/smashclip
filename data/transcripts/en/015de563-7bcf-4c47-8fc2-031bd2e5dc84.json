@@ -1,0 +1,21 @@
+{
+  "id": "015de563-7bcf-4c47-8fc2-031bd2e5dc84",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 8.0,
+      "text": "He got to go to the ledge, that's the best option, fight is forced now, to constantly look for back air, and get the stock.",
+      "language": "en"
+    }
+  ],
+  "full_text": "He got to go to the ledge, that's the best option, fight is forced now, to constantly look for back air, and get the stock.",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "He got to go to the ledge, that's the best option, fight is forced now, to constantly look for back air, and get the sock.",
+      "corrected": "He got to go to the ledge, that's the best option, fight is forced now, to constantly look for back air, and get the stock.",
+      "rule": "auto-rule"
+    }
+  ]
+}

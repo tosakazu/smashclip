@@ -1,0 +1,39 @@
+{
+  "id": "93d70727-35ef-4135-bd15-4d39fb69cccd",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.86,
+      "text": "さあイングリッツいきなり目の前に前を詰めてきた",
+      "language": "ja"
+    },
+    {
+      "start": 2.86,
+      "end": 3.82,
+      "text": "まっすぐやろ",
+      "language": "ja"
+    },
+    {
+      "start": 3.82,
+      "end": 8.42,
+      "text": "捨て身で耐えて上スマッシュで拳突き上げ",
+      "language": "ja"
+    },
+    {
+      "start": 8.42,
+      "end": 10.08,
+      "text": "撃墜を通す",
+      "language": "ja"
+    }
+  ],
+  "full_text": "さあイングリッツいきなり目の前に前を詰めてきた まっすぐやろ 捨て身で耐えて上スマッシュで拳突き上げ 撃墜を通す",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "ステビンが耐えて上スマッシュでへっこぶし突き上げ",
+      "corrected": "捨て身で耐えて上スマッシュで拳突き上げ",
+      "rule": "misheard word"
+    }
+  ]
+}

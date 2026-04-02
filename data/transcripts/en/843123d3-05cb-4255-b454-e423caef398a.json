@@ -1,0 +1,48 @@
+{
+  "id": "843123d3-05cb-4255-b454-e423caef398a",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.38,
+      "text": "100% damage but resources are holding strong!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "100%のヤマナクション 鉄も潤沢にあるぞ"
+    },
+    {
+      "start": 3.38,
+      "end": 8.34,
+      "text": "Gets through one neutral interaction, but",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "1回トロッコでニュートラルゲームやり過ごして"
+    },
+    {
+      "start": 8.34,
+      "end": 11.26,
+      "text": "Nao-chan with flip shuts that down",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "しかしなおちゃ フリップでそれを許さない"
+    },
+    {
+      "start": 11.26,
+      "end": 13.76,
+      "text": "Banana shuts it down, up smash!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "バナナで許さない バナナから上スマッシュ"
+    }
+  ],
+  "full_text": "100% damage but resources are holding strong! Gets through one neutral interaction, but Nao-chan with flip shuts that down. Banana shuts it down, up smash!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "しかし直茶 フリップでそれを許さない",
+      "corrected": "しかしなおちゃ フリップでそれを許さない",
+      "rule": "player name (直茶→なおちゃ)"
+    }
+  ]
+}

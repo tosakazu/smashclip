@@ -1,0 +1,27 @@
+{
+  "id": "91da9024-6611-43c5-afad-fed1ce52952c",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.0,
+      "text": "さあ",
+      "language": "ja"
+    },
+    {
+      "start": 4.0,
+      "end": 7.9,
+      "text": "はいこのストックリードではありましたが",
+      "language": "ja"
+    }
+  ],
+  "full_text": "さあ はいこのストックリードではありましたが",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "ストップリーダー",
+      "corrected": "ストックリード",
+      "rule": "misheard word"
+    }
+  ]
+}

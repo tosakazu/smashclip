@@ -1,0 +1,26 @@
+{
+  "id": "31bde8ee-b837-4bbe-992c-7198bd898cc0",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.88,
+      "text": "You don't see him with the up and out of shield ever.",
+      "language": "en"
+    },
+    {
+      "start": 2.22,
+      "end": 5.22,
+      "text": "He knows exactly when you're supposed to go for it and when it's not a punish.",
+      "language": "en"
+    },
+    {
+      "start": 5.92,
+      "end": 6.28,
+      "text": "Oh!",
+      "language": "en"
+    }
+  ],
+  "full_text": "You don't see him with the up and out of shield ever. He knows exactly when you're supposed to go for it and when it's not a punish. Oh!",
+  "detected_language": "en",
+  "corrections": []
+}

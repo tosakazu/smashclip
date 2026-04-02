@@ -1,0 +1,57 @@
+{
+  "id": "15182809-7c35-462a-8a92-a52b6ef1a6eb",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.6,
+      "text": "固いプロミネンスリボルトを使って",
+      "language": "ja"
+    },
+    {
+      "start": 2.6,
+      "end": 4.92,
+      "text": "リスクをつけるのはやはり難しいですね",
+      "language": "ja"
+    },
+    {
+      "start": 4.92,
+      "end": 6.86,
+      "text": "あくまで崖を上がる瞬間",
+      "language": "ja"
+    },
+    {
+      "start": 6.86,
+      "end": 7.64,
+      "text": "しかし空下",
+      "language": "ja"
+    },
+    {
+      "start": 7.64,
+      "end": 10.38,
+      "text": "崖外に逃げて",
+      "language": "ja"
+    },
+    {
+      "start": 10.38,
+      "end": 13.28,
+      "text": "どうだ弱で固めてそのまま押し切った",
+      "language": "ja"
+    }
+  ],
+  "full_text": "固いプロミネンスリボルトを使って リスクをつけるのはやはり難しいですね あくまで崖を上がる瞬間 しかし空下 崖外に逃げて どうだ弱で固めてそのまま押し切った",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "固いプロミネーションボルトを使って",
+      "corrected": "固いプロミネンスリボルトを使って",
+      "rule": "Move name: プロミネーションボルト→プロミネンスリボルト (Pyra/Mythra up-B)"
+    },
+    {
+      "segment_idx": 3,
+      "original": "しかし空中した",
+      "corrected": "しかし空下",
+      "rule": "Move abbreviation: 空中した→空下"
+    }
+  ]
+}

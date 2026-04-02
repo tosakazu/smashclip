@@ -1,0 +1,57 @@
+{
+  "id": "a2736320-a291-4fa8-8369-2416ae0fa8e6",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.48,
+      "text": "Neo's been keeping up without taking much punishment on returns the whole time",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "先ほどからねネオがあまりリターン取られずに追いつくなんてことも続いていますから"
+    },
+    {
+      "start": 4.48,
+      "end": 5.84,
+      "text": "But this one...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ただこれは"
+    },
+    {
+      "start": 5.84,
+      "end": 7.02,
+      "text": "That's gonna connect!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "当たりそうだね"
+    },
+    {
+      "start": 7.02,
+      "end": 7.72,
+      "text": "Yeah yeah yeah",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "うんうんうん"
+    },
+    {
+      "start": 7.72,
+      "end": 8.76,
+      "text": "He's out!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "撃沈した"
+    },
+    {
+      "start": 8.76,
+      "end": 9.18,
+      "text": "There we go!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これ"
+    }
+  ],
+  "full_text": "Neo's been keeping up without taking much punishment on returns the whole time But this one... That's gonna connect! Yeah yeah yeah He's out! There we go!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

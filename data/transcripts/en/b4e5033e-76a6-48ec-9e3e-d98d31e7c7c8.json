@@ -1,0 +1,17 @@
+{
+  "id": "b4e5033e-76a6-48ec-9e3e-d98d31e7c7c8",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.54,
+      "text": "That was close!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "今のも危なかったですね"
+    }
+  ],
+  "full_text": "That was close!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

@@ -1,0 +1,51 @@
+{
+  "id": "5bece891-680f-4ee3-a4f4-94a33ad63ada",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.48,
+      "text": "このところは防御面が弱くなるので着地だったり崖上がり弱くなるんですよね",
+      "language": "ja"
+    },
+    {
+      "start": 3.48,
+      "end": 6.58,
+      "text": "そこをうまく突いて崖決めきりましたねWrath選手",
+      "language": "ja"
+    },
+    {
+      "start": 6.58,
+      "end": 9.86,
+      "text": "さあしかしどうだ今度は崖で攻めきったのはらる",
+      "language": "ja"
+    },
+    {
+      "start": 9.86,
+      "end": 10.58,
+      "text": "らる選手も",
+      "language": "ja"
+    }
+  ],
+  "full_text": "このところは防御面が弱くなるので着地だったり崖上がり弱くなるんですよね そこをうまく突いて崖決めきりましたねWrath選手 さあしかしどうだ今度は崖で攻めきったのはらる らる選手も",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "ラース選手",
+      "corrected": "Wrath選手",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 2,
+      "original": "ラルー",
+      "corrected": "らる",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 3,
+      "original": "ラルー選手",
+      "corrected": "らる選手",
+      "rule": "player name"
+    }
+  ]
+}

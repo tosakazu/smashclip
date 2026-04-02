@@ -1,0 +1,39 @@
+{
+  "id": "805e27ef-98b4-4a06-88fc-a02a826bf3fa",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.52,
+      "text": "海平選手、海平はまあ確かにやるなっていう",
+      "language": "ja"
+    },
+    {
+      "start": 2.52,
+      "end": 3.92,
+      "text": "こう読んでるクエロキ",
+      "language": "ja"
+    },
+    {
+      "start": 3.92,
+      "end": 6.92,
+      "text": "いやーそして空中前も噛み合って空中後ろ",
+      "language": "ja"
+    },
+    {
+      "start": 6.92,
+      "end": 7.84,
+      "text": "ストリング",
+      "language": "ja"
+    }
+  ],
+  "full_text": "海平選手、海平はまあ確かにやるなっていう こう読んでるクエロキ いやーそして空中前も噛み合って空中後ろ ストリング",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 3,
+      "original": "スクリング",
+      "corrected": "ストリング",
+      "rule": "Whisper mishearing"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": "7ea72662-51e9-4ed5-9de9-586ed298bb13",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.42,
+      "text": "パチンコと何度も何度もリスク付け横スマッシュ",
+      "language": "ja"
+    },
+    {
+      "start": 3.42,
+      "end": 4.24,
+      "text": "わずかに間に合わない",
+      "language": "ja"
+    },
+    {
+      "start": 4.24,
+      "end": 4.88,
+      "text": "ジャスシールド",
+      "language": "ja"
+    },
+    {
+      "start": 4.88,
+      "end": 5.54,
+      "text": "上強",
+      "language": "ja"
+    },
+    {
+      "start": 5.54,
+      "end": 7.44,
+      "text": "眠るが当たらない",
+      "language": "ja"
+    },
+    {
+      "start": 7.44,
+      "end": 9.48,
+      "text": "上スマッシュで撃墜",
+      "language": "ja"
+    }
+  ],
+  "full_text": "パチンコと何度も何度もリスク付け横スマッシュ わずかに間に合わない ジャスシールド 上強 眠るが当たらない 上スマッシュで撃墜",
+  "detected_language": "ja",
+  "corrections": []
+}

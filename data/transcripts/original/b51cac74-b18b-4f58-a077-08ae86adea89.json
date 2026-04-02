@@ -1,0 +1,27 @@
+{
+  "id": "b51cac74-b18b-4f58-a077-08ae86adea89",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.76,
+      "text": "あって撃墜 これは腹式呼吸ためれるんじゃないかなという判断だったんですが",
+      "language": "ja"
+    },
+    {
+      "start": 6.76,
+      "end": 10.72,
+      "text": "そこに輪の炎をね 置けていたYンの判断が良かったですね",
+      "language": "ja"
+    }
+  ],
+  "full_text": "あって撃墜 これは腹式呼吸ためれるんじゃないかなという判断だったんですが そこに輪の炎をね 置けていたYンの判断が良かったですね",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "ワインの判断",
+      "corrected": "Yンの判断",
+      "rule": "player name"
+    }
+  ]
+}

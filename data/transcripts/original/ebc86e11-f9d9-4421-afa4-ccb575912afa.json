@@ -1,0 +1,81 @@
+{
+  "id": "ebc86e11-f9d9-4421-afa4-ccb575912afa",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.56,
+      "text": "といえばこの空中横機動力",
+      "language": "ja"
+    },
+    {
+      "start": 1.56,
+      "end": 2.0,
+      "text": "はい",
+      "language": "ja"
+    },
+    {
+      "start": 2.0,
+      "end": 4.76,
+      "text": "後ろの空N3回",
+      "language": "ja"
+    },
+    {
+      "start": 4.76,
+      "end": 8.18,
+      "text": "2回目の空Nを一段目だけ当てることによって",
+      "language": "ja"
+    },
+    {
+      "start": 8.18,
+      "end": 10.0,
+      "text": "外に運ぶ展開を作り上げる",
+      "language": "ja"
+    },
+    {
+      "start": 10.76,
+      "end": 13.94,
+      "text": "崖つかまり一本に空N直接こずけに",
+      "language": "ja"
+    },
+    {
+      "start": 13.94,
+      "end": 14.94,
+      "text": "たが空下",
+      "language": "ja"
+    },
+    {
+      "start": 14.94,
+      "end": 17.5,
+      "text": "いやーこれよく見かける",
+      "language": "ja"
+    }
+  ],
+  "full_text": "といえばこの空中横機動力 はい 後ろの空N3回 2回目の空Nを一段目だけ当てることによって 外に運ぶ展開を作り上げる 崖つかまり一本に空N直接こずけに たが空下 いやーこれよく見かける",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "横機能力",
+      "corrected": "横機動力",
+      "rule": "misheard"
+    },
+    {
+      "segment_idx": 2,
+      "original": "白のクエヌ3回",
+      "corrected": "後ろの空N3回",
+      "rule": "misheard: クエヌ→空N"
+    },
+    {
+      "segment_idx": 3,
+      "original": "クエヌを一段ともに取れる",
+      "corrected": "空Nを一段目だけ当てる",
+      "rule": "misheard: クエヌ→空N"
+    },
+    {
+      "segment_idx": 5,
+      "original": "捕まり一本にクエヌ直接",
+      "corrected": "崖つかまり一本に空N直接",
+      "rule": "misheard: クエヌ→空N"
+    }
+  ]
+}

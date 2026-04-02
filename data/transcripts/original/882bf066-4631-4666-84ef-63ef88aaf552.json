@@ -1,0 +1,32 @@
+{
+  "id": "882bf066-4631-4666-84ef-63ef88aaf552",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.72,
+      "text": "さあ投げから空中前",
+      "language": "ja"
+    },
+    {
+      "start": 3.72,
+      "end": 6.3,
+      "text": "点灯",
+      "language": "ja"
+    },
+    {
+      "start": 6.3,
+      "end": 10.68,
+      "text": "表裏がね少し分かりづらくなったところで",
+      "language": "ja"
+    },
+    {
+      "start": 10.68,
+      "end": 11.82,
+      "text": "マイルドが",
+      "language": "ja"
+    }
+  ],
+  "full_text": "さあ投げから空中前 点灯 表裏がね少し分かりづらくなったところで マイルドが",
+  "detected_language": "ja",
+  "corrections": []
+}

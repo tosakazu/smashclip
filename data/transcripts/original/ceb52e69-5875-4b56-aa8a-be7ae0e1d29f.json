@@ -1,0 +1,51 @@
+{
+  "id": "ceb52e69-5875-4b56-aa8a-be7ae0e1d29f",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.54,
+      "text": "ワイヤーをね下から復帰で切られてしまったので今度は横から帰ります",
+      "language": "ja"
+    },
+    {
+      "start": 4.54,
+      "end": 7.88,
+      "text": "横スマッシュのホールドにひるまずダッシュアタックで差し込む",
+      "language": "ja"
+    },
+    {
+      "start": 7.88,
+      "end": 9.86,
+      "text": "空Nをかぶせて",
+      "language": "ja"
+    },
+    {
+      "start": 9.86,
+      "end": 12.54,
+      "text": "下投げ空中後ろまで",
+      "language": "ja"
+    },
+    {
+      "start": 12.54,
+      "end": 14.12,
+      "text": "しかしここはディメンジョンマント",
+      "language": "ja"
+    }
+  ],
+  "full_text": "ワイヤーをね下から復帰で切られてしまったので今度は横から帰ります 横スマッシュのホールドにひるまずダッシュアタックで差し込む 空Nをかぶせて 下投げ空中後ろまで しかしここはディメンジョンマント",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "空中に座をかぶせて",
+      "corrected": "空Nをかぶせて",
+      "rule": "smash term (空N=neutral air)"
+    },
+    {
+      "segment_idx": 4,
+      "original": "ディメンジョンマン",
+      "corrected": "ディメンジョンマント",
+      "rule": "move name (Dimensional Cape)"
+    }
+  ]
+}

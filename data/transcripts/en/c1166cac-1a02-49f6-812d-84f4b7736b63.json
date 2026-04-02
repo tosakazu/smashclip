@@ -1,0 +1,56 @@
+{
+  "id": "c1166cac-1a02-49f6-812d-84f4b7736b63",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.12,
+      "text": "Yoshidora just keeps dominating like this",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "このままぼったくりに行くのはヨシドラ"
+    },
+    {
+      "start": 2.12,
+      "end": 3.74,
+      "text": "Fair hits and the stock's done no matter what",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空中前が当たればストック関係なく"
+    },
+    {
+      "start": 3.74,
+      "end": 6.5,
+      "text": "But there's that spacing, so 200%",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "しかしちょっとラインがあったので200%"
+    },
+    {
+      "start": 6.5,
+      "end": 7.8,
+      "text": "The long-lived dinosaur",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "長寿の恐竜"
+    },
+    {
+      "start": 7.8,
+      "end": 10.4,
+      "text": "Up air takes it!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これをヤウラ空中上取れた"
+    }
+  ],
+  "full_text": "Yoshidora just keeps dominating like this Fair hits and the stock's done no matter what But there's that spacing, so 200% The long-lived dinosaur Up air takes it!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 4,
+      "original": "柔らか空中ウェルトがめた",
+      "corrected": "ヤウラ空中上取れた",
+      "rule": "player name + smash term"
+    }
+  ]
+}

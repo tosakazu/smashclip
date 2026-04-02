@@ -1,0 +1,73 @@
+{
+  "id": "3ecf89d3-57f7-4ea1-b290-b996144fdbfe",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.4,
+      "text": "We're heading to Town and City, also risky for Spargo,",
+      "language": "en",
+      "original_language": "es",
+      "original_text": "Vamos a ir a Town and City, también arriesgado para Spargo,"
+    },
+    {
+      "start": 3.5,
+      "end": 7.88,
+      "text": "because this map, Cazuya, can throw you off, right?",
+      "language": "en",
+      "original_language": "es",
+      "original_text": "porque este mapa, Cazuya, puede hacerte travesuras, ¿eh?"
+    },
+    {
+      "start": 8.5,
+      "end": 10.62,
+      "text": "Here, 68%.",
+      "language": "en",
+      "original_language": "es",
+      "original_text": "Aquí, 68 %."
+    },
+    {
+      "start": 11.32,
+      "end": 13.6,
+      "text": "Still Spargo's advantage.",
+      "language": "en",
+      "original_language": "es",
+      "original_text": "Todavía del lado de Spargo."
+    },
+    {
+      "start": 15.94,
+      "end": 17.58,
+      "text": "There we go, nice jab!",
+      "language": "en",
+      "original_language": "es",
+      "original_text": "Vamos allá, el jab que es bueno."
+    },
+    {
+      "start": 17.68,
+      "end": 20.06,
+      "text": "Spargo's not giving the Frenchman any breathing room.",
+      "language": "en",
+      "original_language": "es",
+      "original_text": "Spargo no le está dejando respirar al francés."
+    },
+    {
+      "start": 20.16,
+      "end": 22.64,
+      "text": "There, he grabs, gonna throw and...",
+      "language": "en",
+      "original_language": "es",
+      "original_text": "Vamos allá, le coge, le va a sacar y…"
+    },
+    {
+      "start": 22.76,
+      "end": 25.6,
+      "text": "Watch out for the spike or the forward smash!",
+      "language": "en",
+      "original_language": "es",
+      "original_text": "Aquí, eso… ¡Cuidado con el spike o el forwarder!"
+    }
+  ],
+  "full_text": "We're heading to Town and City, also risky for Spargo, because this map, Cazuya, can throw you off, right? Here, 68%. Still Spargo's advantage. There we go, nice jab! Spargo's not giving the Frenchman any breathing room. There, he grabs, gonna throw and... Watch out for the spike or the forward smash!",
+  "detected_language": "en",
+  "original_language": "es",
+  "corrections": []
+}

@@ -1,0 +1,92 @@
+{
+  "id": "55d429d2-d02d-4d2e-b1d0-5cfe6ddba643",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.16,
+      "text": "That's settling for it?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "内に妥協した形か"
+    },
+    {
+      "start": 1.16,
+      "end": 3.24,
+      "text": "Terry's ledge game is so strong",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "テリーの崖狩り強いんですよね"
+    },
+    {
+      "start": 3.24,
+      "end": 5.9,
+      "text": "Because Queasy's spacing is just way too good",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "クエの置きがあまりにも強すぎるせいで"
+    },
+    {
+      "start": 5.9,
+      "end": 7.58,
+      "text": "Once he gets forced on the ledge",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "どうしても崖に行くと"
+    },
+    {
+      "start": 7.58,
+      "end": 9.82,
+      "text": "Sonic is just... done",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ソニックがもうもうもう"
+    },
+    {
+      "start": 9.82,
+      "end": 11.34,
+      "text": "Oh no, that's weak",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "まずいかー弱弱"
+    },
+    {
+      "start": 11.34,
+      "end": 12.2,
+      "text": "KO!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "撃墜"
+    },
+    {
+      "start": 12.2,
+      "end": 14.0,
+      "text": "Bursted!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "バーストで撃墜"
+    }
+  ],
+  "full_text": "That's settling for it? Terry's ledge game is so strong Because Queasy's spacing is just way too good Once he gets forced on the ledge Sonic is just... done Oh no, that's weak KO! Bursted!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 5,
+      "original": "まずいかージャクジャク",
+      "corrected": "まずいかー弱弱",
+      "rule": "misheard word (ジャク→弱)"
+    },
+    {
+      "segment_idx": 6,
+      "original": "ゲックス",
+      "corrected": "撃墜",
+      "rule": "kanji homophone (ゲックス→撃墜)"
+    },
+    {
+      "segment_idx": 7,
+      "original": "バックでゲックス",
+      "corrected": "バーストで撃墜",
+      "rule": "kanji homophone"
+    }
+  ]
+}

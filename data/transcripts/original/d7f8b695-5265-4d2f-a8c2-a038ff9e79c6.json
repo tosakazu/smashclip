@@ -1,0 +1,32 @@
+{
+  "id": "d7f8b695-5265-4d2f-a8c2-a038ff9e79c6",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.96,
+      "text": "ピチューはいつも泣いてますけどね",
+      "language": "ja"
+    },
+    {
+      "start": 1.96,
+      "end": 4.68,
+      "text": "間違いなく稲妻キックではバーストするパーセントでございます",
+      "language": "ja"
+    },
+    {
+      "start": 4.68,
+      "end": 5.3,
+      "text": "もうね",
+      "language": "ja"
+    },
+    {
+      "start": 5.3,
+      "end": 7.2,
+      "text": "このように",
+      "language": "ja"
+    }
+  ],
+  "full_text": "ピチューはいつも泣いてますけどね 間違いなく稲妻キックではバーストするパーセントでございます もうね このように",
+  "detected_language": "ja",
+  "corrections": []
+}

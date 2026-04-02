@@ -1,0 +1,21 @@
+{
+  "id": "bd04e22a-7206-4ecc-a891-a23a70352db0",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.92,
+      "text": "over commit there wow Mata almost getting that stock very unfortunate that it didn't work no",
+      "language": "en"
+    }
+  ],
+  "full_text": "over commit there wow Mata almost getting that stock very unfortunate that it didn't work no",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "mata almost",
+      "corrected": "Mata almost",
+      "rule": "player name"
+    }
+  ]
+}

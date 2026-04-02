@@ -1,0 +1,33 @@
+{
+  "id": "fc84be9f-f202-4088-b5d2-f239d94523f0",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.32,
+      "text": "Picking up Banana with the dash attack!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ダッシュアタックでバナナを回収"
+    },
+    {
+      "start": 3.32,
+      "end": 6.4,
+      "text": "Looking to land one KO first",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "まずは一つ撃墜を通したいところではある"
+    },
+    {
+      "start": 6.4,
+      "end": 10.88,
+      "text": "Wait, really here?!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いやーここでまさか"
+    }
+  ],
+  "full_text": "Picking up Banana with the dash attack! Looking to land one KO first Wait, really here?!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

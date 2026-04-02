@@ -1,0 +1,49 @@
+{
+  "id": "36440884-a0d4-497f-9bfb-3c0a5e48f2c8",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.12,
+      "text": "Mute Ace completely dodged that!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "避け切ったのはミュートエース"
+    },
+    {
+      "start": 3.12,
+      "end": 3.78,
+      "text": "But here",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "しかしここ"
+    },
+    {
+      "start": 3.78,
+      "end": 9.34,
+      "text": "just walking applies the pressure",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "歩くだけでプレッシャーをかけている"
+    },
+    {
+      "start": 9.34,
+      "end": 10.42,
+      "text": "that's the impression",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そのような印象"
+    },
+    {
+      "start": 10.42,
+      "end": 11.54,
+      "text": "Down",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "下"
+    }
+  ],
+  "full_text": "Mute Ace completely dodged that! But here just walking applies the pressure that's the impression Down",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

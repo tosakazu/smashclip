@@ -1,0 +1,49 @@
+{
+  "id": "26fe5f1e-ed2e-4276-b489-cd71715337ad",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.96,
+      "text": "That looks tough though",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "難しそうですけどね"
+    },
+    {
+      "start": 0.96,
+      "end": 2.88,
+      "text": "Dair into bair!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空下から空後"
+    },
+    {
+      "start": 2.88,
+      "end": 7.04,
+      "text": "Teshi's forward smash, but—",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあテシの横スマッシュだが"
+    },
+    {
+      "start": 7.04,
+      "end": 7.66,
+      "text": "Here—",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここは"
+    },
+    {
+      "start": 7.66,
+      "end": 10.58,
+      "text": "Bair!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空後"
+    }
+  ],
+  "full_text": "That looks tough though. Dair into bair! Teshi's forward smash, but— Here— Bair!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

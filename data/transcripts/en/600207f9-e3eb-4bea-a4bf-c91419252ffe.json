@@ -1,0 +1,72 @@
+{
+  "id": "600207f9-e3eb-4bea-a4bf-c91419252ffe",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.64,
+      "text": "That's different—and there's a KO off Ray Wing!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "違うのは、おっとここはレイビルウィング撃墜が入りました"
+    },
+    {
+      "start": 3.64,
+      "end": 7.34,
+      "text": "The difference is that it has that terrifying level of danger to it",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "違うのは地獄の怖さがあるというところですかね"
+    },
+    {
+      "start": 7.34,
+      "end": 8.72,
+      "text": "Yeah, exactly, like this",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そうなんですよね、こんな感じで"
+    },
+    {
+      "start": 8.72,
+      "end": 11.32,
+      "text": "With Cloud, recovery options really get limited",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "クラウドだと本当に復帰ルートが少なくなるので"
+    },
+    {
+      "start": 11.32,
+      "end": 13.62,
+      "text": "It was risky, but they managed to pull it off",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "危なかったんですけれども、なんとかですね"
+    },
+    {
+      "start": 13.62,
+      "end": 14.02,
+      "text": "Yeah, that's right",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そうですね"
+    },
+    {
+      "start": 14.02,
+      "end": 15.94,
+      "text": "This is heading to the outside",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これは外側に"
+    }
+  ],
+  "full_text": "That's different—and there's a KO off Ray Wing! The difference is that it has that terrifying level of danger to it Yeah, exactly, like this With Cloud, recovery options really get limited It was risky, but they managed to pull it off Yeah, that's right This is heading to the outside",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 3,
+      "original": "復帰率が少なくなる",
+      "corrected": "復帰ルートが少なくなる",
+      "rule": "misheard word"
+    }
+  ]
+}

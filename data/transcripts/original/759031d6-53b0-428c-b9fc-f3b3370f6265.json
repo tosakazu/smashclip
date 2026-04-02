@@ -1,0 +1,27 @@
+{
+  "id": "759031d6-53b0-428c-b9fc-f3b3370f6265",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.88,
+      "text": "晴れ残る限りね 陣地はね 最強ですよ",
+      "language": "ja"
+    },
+    {
+      "start": 2.88,
+      "end": 5.46,
+      "text": "さあ おっとここは 読み勝ち",
+      "language": "ja"
+    }
+  ],
+  "full_text": "晴れ残る限りね 陣地はね 最強ですよ さあ おっとここは 読み勝ち",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "オッドここは 読み勝手",
+      "corrected": "おっとここは 読み勝ち",
+      "rule": "Whisper mishearing"
+    }
+  ]
+}

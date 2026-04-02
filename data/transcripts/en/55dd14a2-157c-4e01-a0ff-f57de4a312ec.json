@@ -1,0 +1,41 @@
+{
+  "id": "55dd14a2-157c-4e01-a0ff-f57de4a312ec",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.52,
+      "text": "Incredible!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "すいませんか"
+    },
+    {
+      "start": 0.52,
+      "end": 2.0,
+      "text": "Dying in the air!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "が空中しろ"
+    },
+    {
+      "start": 2.0,
+      "end": 4.58,
+      "text": "Makes no sense!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "完全にわからない展開"
+    },
+    {
+      "start": 4.58,
+      "end": 7.38,
+      "text": "Pursuing off-stage!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "外まで追いついて"
+    }
+  ],
+  "full_text": "Incredible! Dying in the air! Makes no sense! Pursuing off-stage!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

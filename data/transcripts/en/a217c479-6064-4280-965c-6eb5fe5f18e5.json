@@ -1,0 +1,64 @@
+{
+  "id": "a217c479-6064-4280-965c-6eb5fe5f18e5",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.66,
+      "text": "Ledge trap situation",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "崖狩りの展開"
+    },
+    {
+      "start": 0.66,
+      "end": 3.08,
+      "text": "Oh, the turnaround grab's reach is insane!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "おっと振り向きつかみが長い長い"
+    },
+    {
+      "start": 3.08,
+      "end": 4.46,
+      "text": "Pushing them off stage",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そのまま外に追い出して"
+    },
+    {
+      "start": 4.46,
+      "end": 5.5,
+      "text": "Forcing them to the ledge",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "崖に追い出して"
+    },
+    {
+      "start": 5.5,
+      "end": 7.68,
+      "text": "Can they punish the ledge getup?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "崖上がりをとがめられるか"
+    },
+    {
+      "start": 7.68,
+      "end": 12.36,
+      "text": "Up tilt—with a deep dodge they're back in!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "上強はなるほど深めの回避で戻ってくると"
+    }
+  ],
+  "full_text": "Ledge trap situation Oh, the turnaround grab's reach is insane! Pushing them off stage Forcing them to the ledge Can they punish the ledge getup? Up tilt—with a deep dodge they're back in!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "口がり",
+      "corrected": "崖狩り",
+      "rule": "smash terminology"
+    }
+  ]
+}

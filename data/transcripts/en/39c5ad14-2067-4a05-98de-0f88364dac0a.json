@@ -1,0 +1,27 @@
+{
+  "id": "39c5ad14-2067-4a05-98de-0f88364dac0a",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.84,
+      "text": "that there but has Lammers trapped in this corner rose at a projectile and the perfect coverage",
+      "language": "en"
+    },
+    {
+      "start": 4.84,
+      "end": 11.18,
+      "text": "making sure to pilot directly into it for safety yeah once again the patience is almost coming in",
+      "language": "en"
+    }
+  ],
+  "full_text": "that there but has Lammers trapped in this corner rose at a projectile and the perfect coverage making sure to pilot directly into it for safety yeah once again the patience is almost coming in",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "lamerz",
+      "corrected": "Lammers",
+      "rule": "player name"
+    }
+  ]
+}

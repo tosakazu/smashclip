@@ -1,0 +1,25 @@
+{
+  "id": "f8bbe6a8-b848-4893-ba4c-a59b8ae51005",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 7.72,
+      "text": "He pushed in, but 105% is already on the board. For a comeback from here, we gotta focus on building damage first.",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "押し込んでいきましたがすでに105%のダメージが入っているのでここからの逆転まずはダメージを稼ぐところからスタートしていきたいと思います"
+    },
+    {
+      "start": 7.72,
+      "end": 11.56,
+      "text": "That was so clean, so clean, so clean, but...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "うまいうまいうまかったのに"
+    }
+  ],
+  "full_text": "He pushed in, but 105% is already on the board. For a comeback from here, we gotta focus on building damage first. That was so clean, so clean, so clean, but...",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

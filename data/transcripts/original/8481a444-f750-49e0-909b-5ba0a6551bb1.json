@@ -1,0 +1,57 @@
+{
+  "id": "8481a444-f750-49e0-909b-5ba0a6551bb1",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.5,
+      "text": "It's like when, um, it's like when Olimars use their up-B to like just get that one extra up-air.",
+      "language": "en"
+    },
+    {
+      "start": 4.64,
+      "end": 5.96,
+      "text": "Oh, whoa, whoa.",
+      "language": "en"
+    },
+    {
+      "start": 6.06,
+      "end": 6.38,
+      "text": "Oh my.",
+      "language": "en"
+    },
+    {
+      "start": 6.68,
+      "end": 7.88,
+      "text": "Going for a down smash there.",
+      "language": "en"
+    },
+    {
+      "start": 8.24,
+      "end": 10.12,
+      "text": "And, uh, regardless, Eiku just got a little too...",
+      "language": "en"
+    }
+  ],
+  "full_text": "It's like when, um, it's like when Olimars use their up-B to like just get that one extra up-air. Oh, whoa, whoa. Oh my. Going for a down smash there. And, uh, regardless, Eiku just got a little too...",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "Alomars",
+      "corrected": "Olimars",
+      "rule": "character name"
+    },
+    {
+      "segment_idx": 0,
+      "original": "up-e",
+      "corrected": "up-B",
+      "rule": "move name"
+    },
+    {
+      "segment_idx": 4,
+      "original": "Ake",
+      "corrected": "Eiku",
+      "rule": "player name"
+    }
+  ]
+}

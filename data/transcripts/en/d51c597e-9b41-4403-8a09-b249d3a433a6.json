@@ -1,0 +1,40 @@
+{
+  "id": "d51c597e-9b41-4403-8a09-b249d3a433a6",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.82,
+      "text": "Inside the Buster!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "バスターの内"
+    },
+    {
+      "start": 2.82,
+      "end": 4.84,
+      "text": "Whoa, he read the dodge!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "おっと回避まで読んでの"
+    },
+    {
+      "start": 4.84,
+      "end": 5.12,
+      "text": "Yeah",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "まあ"
+    }
+  ],
+  "full_text": "Inside the Buster! Whoa, he read the dodge! Yeah",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "バスターのうち",
+      "corrected": "バスターの内",
+      "rule": "kanji clarification (うち→内, during Buster Monado Art)"
+    }
+  ]
+}

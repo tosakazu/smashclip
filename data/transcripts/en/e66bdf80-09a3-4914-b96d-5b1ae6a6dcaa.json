@@ -1,0 +1,68 @@
+{
+  "id": "e66bdf80-09a3-4914-b96d-5b1ae6a6dcaa",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.78,
+      "text": "It wasn't the tipper, so",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "先端ではなかったので"
+    },
+    {
+      "start": 1.78,
+      "end": 3.08,
+      "text": "Kyonlink escapes the KO!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "逆に撃墜免れたキョンリンク"
+    },
+    {
+      "start": 3.08,
+      "end": 6.2,
+      "text": "But then Beres is pressured at the ledge",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "しかしその後プレッシャーのかかるベレスの崖"
+    },
+    {
+      "start": 6.2,
+      "end": 8.24,
+      "text": "Up smash!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "上スマッシュで"
+    },
+    {
+      "start": 8.24,
+      "end": 8.62,
+      "text": "Tairiku!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ターイク"
+    }
+  ],
+  "full_text": "It wasn't the tipper, so Kyonlink escapes the KO! But then Beres is pressured at the ledge Up smash! Tairiku!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "逆スイマン逃れたキョンリンク",
+      "corrected": "逆に撃墜免れたキョンリンク",
+      "rule": "misheard: 撃墜免れた"
+    },
+    {
+      "segment_idx": 2,
+      "original": "ベルスの崖",
+      "corrected": "ベレスの崖",
+      "rule": "character name: Byleth=ベレス"
+    },
+    {
+      "segment_idx": 4,
+      "original": "ターイク",
+      "corrected": "Taikei",
+      "rule": "no - this is an exclamation, leave as-is"
+    }
+  ]
+}

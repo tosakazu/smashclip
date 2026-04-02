@@ -1,0 +1,84 @@
+{
+  "id": "e270bf6d-cb7c-479d-bbd9-9efc2d991cc4",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.5,
+      "text": "They didn't KO with L Passion, but...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "その前にLパッションで撃墜しなかったんですけど"
+    },
+    {
+      "start": 2.5,
+      "end": 4.1,
+      "text": "Can up air get the KO?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空上り撃墜できるか"
+    },
+    {
+      "start": 4.1,
+      "end": 5.76,
+      "text": "Up air gets it!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "あれできるんですね空上"
+    },
+    {
+      "start": 5.76,
+      "end": 9.32,
+      "text": "At that percent, you can still KO",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "あんまりあのパーセントでもね撃墜できるんですよ"
+    },
+    {
+      "start": 9.32,
+      "end": 10.32,
+      "text": "Yeah, exactly",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いやそうですねなんか"
+    },
+    {
+      "start": 10.32,
+      "end": 10.8,
+      "text": "Oh, nice!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "あ、うまい"
+    },
+    {
+      "start": 10.8,
+      "end": 15.2,
+      "text": "Full charge forward smash!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "あ、待っていってフルホールド横スマッシュ!"
+    }
+  ],
+  "full_text": "They didn't KO with L Passion, but... Can up air get the KO? Up air gets it! At that percent, you can still KO Yeah, exactly Oh, nice! Full charge forward smash!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "宇宙より",
+      "corrected": "空上り",
+      "rule": "misheard: 宇宙→空上"
+    },
+    {
+      "segment_idx": 2,
+      "original": "あれできるんですね宇宙",
+      "corrected": "あれできるんですね空上",
+      "rule": "misheard: 宇宙→空上"
+    },
+    {
+      "segment_idx": 6,
+      "original": "フルホールド役バッシュ!",
+      "corrected": "フルホールド横スマッシュ!",
+      "rule": "move name: 横スマッシュ"
+    }
+  ]
+}

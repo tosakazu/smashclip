@@ -1,0 +1,81 @@
+{
+  "id": "270fc594-2a09-4778-bc0e-74ea9be14bf3",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.5,
+      "text": "Nair again! Another nair!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空Nもう一回空N"
+    },
+    {
+      "start": 1.5,
+      "end": 3.98,
+      "text": "Into the falling nair",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "降り空Nへ"
+    },
+    {
+      "start": 3.98,
+      "end": 5.2,
+      "text": "We've seen this setup before",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "先ほども見たこの展開"
+    },
+    {
+      "start": 5.2,
+      "end": 6.16,
+      "text": "Gets caught by nair",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空Nに打たれ"
+    },
+    {
+      "start": 6.16,
+      "end": 9.24,
+      "text": "Even in game 3, Carmelo's all-in",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "カルメロ信じ切った3戦目でも"
+    },
+    {
+      "start": 9.24,
+      "end": 10.66,
+      "text": "The Final Destination neutral",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "終点の立ち回り"
+    },
+    {
+      "start": 10.66,
+      "end": 12.7,
+      "text": "This pattern just won't change",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "やはり変わらないのかこの展開"
+    },
+    {
+      "start": 12.7,
+      "end": 13.8,
+      "text": "High nair",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "高めの空N"
+    },
+    {
+      "start": 13.8,
+      "end": 15.16,
+      "text": "Using shield spacing",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ブロックを使った"
+    }
+  ],
+  "full_text": "Nair again! Another nair! Into the falling nair We've seen this setup before Gets caught by nair Even in game 3, Carmelo's all-in The Final Destination neutral This pattern just won't change High nair Using shield spacing",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

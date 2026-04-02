@@ -1,0 +1,41 @@
+{
+  "id": "a6a73b76-8e1f-49d4-a8c2-105cd1a2511b",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.78,
+      "text": "Charring Sonic twice",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "2度焦がすかソニックの体を"
+    },
+    {
+      "start": 2.78,
+      "end": 4.9,
+      "text": "Up air into fair",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空中上から空中前"
+    },
+    {
+      "start": 4.9,
+      "end": 5.82,
+      "text": "Following with spring momentum",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "バネで追いかける"
+    },
+    {
+      "start": 5.82,
+      "end": 8.72,
+      "text": "Into a bair",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空中後ろジャンプ"
+    }
+  ],
+  "full_text": "Charring Sonic twice up air into fair following with spring momentum into a bair",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

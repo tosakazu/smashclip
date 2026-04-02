@@ -1,0 +1,73 @@
+{
+  "id": "91f63c64-6fb3-4385-a385-6eb3cf111562",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.06,
+      "text": "Chaining into the air with this juggle!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空中へ繋いでいってこの着地狩り"
+    },
+    {
+      "start": 2.06,
+      "end": 4.24,
+      "text": "Opponent's still mashing out!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "バギーまで暴れる"
+    },
+    {
+      "start": 4.24,
+      "end": 6.3,
+      "text": "Pulled them right to the limit!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "限界まで引き付けましたね"
+    },
+    {
+      "start": 6.3,
+      "end": 7.76,
+      "text": "Mid-range spacing—",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ベギラマー中距離"
+    },
+    {
+      "start": 7.76,
+      "end": 9.1,
+      "text": "And then charging!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そして溜める"
+    },
+    {
+      "start": 9.1,
+      "end": 10.24,
+      "text": "Unleashes it, but—",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "メラゾーマ撃っていきますが"
+    },
+    {
+      "start": 10.24,
+      "end": 11.76,
+      "text": "Gets shielded calmly!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここは冷静にシールドが"
+    },
+    {
+      "start": 11.76,
+      "end": 12.64,
+      "text": "Dash attack!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ダッシュ攻撃"
+    }
+  ],
+  "full_text": "Chaining into the air with this juggle! Opponent's still mashing out! Pulled them right to the limit! Mid-range spacing— And then charging! Unleashes it, but— Gets shielded calmly! Dash attack!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

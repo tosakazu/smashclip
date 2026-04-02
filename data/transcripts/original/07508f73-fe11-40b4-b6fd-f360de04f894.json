@@ -1,0 +1,50 @@
+{
+  "id": "07508f73-fe11-40b4-b6fd-f360de04f894",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "text": "今回でも死にますねこれは",
+      "language": "ja"
+    },
+    {
+      "start": 1.0,
+      "end": 2.34,
+      "text": "さあどうだ",
+      "language": "ja"
+    },
+    {
+      "start": 2.34,
+      "end": 6.32,
+      "text": "さあここからお互い拒否の勝負です",
+      "language": "ja"
+    },
+    {
+      "start": 6.32,
+      "end": 9.08,
+      "text": "さあ距離が詰まるかそれとも",
+      "language": "ja"
+    },
+    {
+      "start": 9.08,
+      "end": 10.78,
+      "text": "ソニックがコントロールする",
+      "language": "ja"
+    },
+    {
+      "start": 10.78,
+      "end": 11.76,
+      "text": "こっち上",
+      "language": "ja"
+    },
+    {
+      "start": 11.76,
+      "end": 13.54,
+      "text": "ねじ込んでみせた",
+      "language": "ja"
+    }
+  ],
+  "full_text": "今回でも死にますねこれは さあどうだ さあここからお互い拒否の勝負です さあ距離が詰まるかそれとも ソニックがコントロールする こっち上 ねじ込んでみせた",
+  "detected_language": "ja",
+  "corrections": []
+}

@@ -1,0 +1,39 @@
+{
+  "id": "df3d8176-4b00-4b4e-989d-849df3d2f000",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.78,
+      "text": "おこうかなという思惑に対して",
+      "language": "ja"
+    },
+    {
+      "start": 1.78,
+      "end": 3.64,
+      "text": "くろー選手がうまく",
+      "language": "ja"
+    },
+    {
+      "start": 3.64,
+      "end": 5.42,
+      "text": "おっとこれもいい位置だ",
+      "language": "ja"
+    },
+    {
+      "start": 5.42,
+      "end": 7.38,
+      "text": "いやうーわ今のうまく",
+      "language": "ja"
+    }
+  ],
+  "full_text": "おこうかなという思惑に対して くろー選手がうまく おっとこれもいい位置だ いやうーわ今のうまく",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "黒選手",
+      "corrected": "くろー選手",
+      "rule": "player name"
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "id": "ba24fb67-412d-4005-81f3-2cb950a90a3d",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.48,
+      "text": "気に入った紫はきっちり倒すことができた",
+      "language": "ja"
+    },
+    {
+      "start": 2.48,
+      "end": 5.88,
+      "text": "ピクミン&オリマー対策",
+      "language": "ja"
+    },
+    {
+      "start": 5.88,
+      "end": 8.08,
+      "text": "地味ながらもかなり重要な要素",
+      "language": "ja"
+    },
+    {
+      "start": 8.08,
+      "end": 10.26,
+      "text": "凍られた紫はちゃんと仕留めると",
+      "language": "ja"
+    },
+    {
+      "start": 10.26,
+      "end": 12.18,
+      "text": "空前",
+      "language": "ja"
+    },
+    {
+      "start": 12.18,
+      "end": 14.52,
+      "text": "最終弾がオリマーの",
+      "language": "ja"
+    },
+    {
+      "start": 14.52,
+      "end": 15.98,
+      "text": "でけえ頭に当たって",
+      "language": "ja"
+    },
+    {
+      "start": 15.98,
+      "end": 19.68,
+      "text": "攻撃上がりボム設置に対して",
+      "language": "ja"
+    },
+    {
+      "start": 19.68,
+      "end": 22.06,
+      "text": "合わせにくる",
+      "language": "ja"
+    },
+    {
+      "start": 22.06,
+      "end": 23.08,
+      "text": "ダッシュ攻撃",
+      "language": "ja"
+    },
+    {
+      "start": 23.08,
+      "end": 24.58,
+      "text": "上Bの機動力に",
+      "language": "ja"
+    }
+  ],
+  "full_text": "気に入った紫はきっちり倒すことができた ピクミン&オリマー対策 地味ながらもかなり重要な要素 凍られた紫はちゃんと仕留めると 空前 最終弾がオリマーの でけえ頭に当たって 攻撃上がりボム設置に対して 合わせにくる ダッシュ攻撃 上Bの機動力に",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "キクミン&オリマー対策",
+      "corrected": "ピクミン&オリマー対策",
+      "rule": "kanji homophone"
+    },
+    {
+      "segment_idx": 4,
+      "original": "口前",
+      "corrected": "空前",
+      "rule": "kanji homophone"
+    },
+    {
+      "segment_idx": 9,
+      "original": "出し攻撃",
+      "corrected": "ダッシュ攻撃",
+      "rule": "Whisper error"
+    }
+  ]
+}

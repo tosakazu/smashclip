@@ -1,0 +1,39 @@
+{
+  "id": "961cd72d-b900-43f7-b0d0-b10ec969bfdf",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.74,
+      "text": "爆弾からの",
+      "language": "ja"
+    },
+    {
+      "start": 0.74,
+      "end": 3.68,
+      "text": "いいぞもう一回狙う",
+      "language": "ja"
+    },
+    {
+      "start": 3.68,
+      "end": 4.5,
+      "text": "もう一回",
+      "language": "ja"
+    },
+    {
+      "start": 4.5,
+      "end": 7.22,
+      "text": "やはりこれです",
+      "language": "ja"
+    }
+  ],
+  "full_text": "爆弾からの いいぞもう一回狙う もう一回 やはりこれです",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "いいえ一回狙う",
+      "corrected": "いいぞもう一回狙う",
+      "rule": "misheard word"
+    }
+  ]
+}

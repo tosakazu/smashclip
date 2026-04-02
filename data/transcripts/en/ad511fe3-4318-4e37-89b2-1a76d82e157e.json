@@ -1,0 +1,64 @@
+{
+  "id": "ad511fe3-4318-4e37-89b2-1a76d82e157e",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.22,
+      "text": "Ridley's in trouble now",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "リドリー側苦しくなります"
+    },
+    {
+      "start": 1.22,
+      "end": 3.48,
+      "text": "Nah, that up air's nasty",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いや空中上がクセ者だ"
+    },
+    {
+      "start": 3.48,
+      "end": 4.42,
+      "text": "Forward smash waiting!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "横スマッシュ待ててきた"
+    },
+    {
+      "start": 4.42,
+      "end": 7.22,
+      "text": "The spacing's so awkward",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "位置が気まずすぎ"
+    },
+    {
+      "start": 7.22,
+      "end": 8.02,
+      "text": "Sourspot!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "根元当たりで"
+    },
+    {
+      "start": 8.02,
+      "end": 8.28,
+      "text": "Oh!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ナー"
+    }
+  ],
+  "full_text": "Ridley's in trouble now Nah, that up air's nasty Forward smash waiting! The spacing's so awkward Sourspot! Oh!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 4,
+      "original": "コード当たりで",
+      "corrected": "根元当たりで",
+      "rule": "Smash term: コード→根元"
+    }
+  ]
+}

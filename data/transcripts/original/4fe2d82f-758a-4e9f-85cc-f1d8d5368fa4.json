@@ -1,0 +1,33 @@
+{
+  "id": "4fe2d82f-758a-4e9f-85cc-f1d8d5368fa4",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.98,
+      "text": "ここは食らってギリOK",
+      "language": "ja"
+    },
+    {
+      "start": 0.98,
+      "end": 2.0,
+      "text": "しかしここは",
+      "language": "ja"
+    },
+    {
+      "start": 2.0,
+      "end": 5.02,
+      "text": "差し込みからのちょび打ちからのダッシュアタック",
+      "language": "ja"
+    }
+  ],
+  "full_text": "ここは食らってギリOK しかしここは 差し込みからのちょび打ちからのダッシュアタック",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "最初と",
+      "corrected": "差し込みからの",
+      "rule": "misheard: 最初と→差し込みからの"
+    }
+  ]
+}

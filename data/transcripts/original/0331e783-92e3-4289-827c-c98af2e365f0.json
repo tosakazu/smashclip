@@ -1,0 +1,50 @@
+{
+  "id": "0331e783-92e3-4289-827c-c98af2e365f0",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.08,
+      "text": "ほとんど当たってないんじゃないですかこの試合",
+      "language": "ja"
+    },
+    {
+      "start": 2.08,
+      "end": 2.62,
+      "text": "当たってない",
+      "language": "ja"
+    },
+    {
+      "start": 2.62,
+      "end": 4.42,
+      "text": "全部ちゃんと引いてますね",
+      "language": "ja"
+    },
+    {
+      "start": 4.42,
+      "end": 6.08,
+      "text": "飛び込んだここで",
+      "language": "ja"
+    },
+    {
+      "start": 6.08,
+      "end": 8.02,
+      "text": "おー",
+      "language": "ja"
+    },
+    {
+      "start": 8.02,
+      "end": 9.98,
+      "text": "うわー",
+      "language": "ja"
+    },
+    {
+      "start": 9.98,
+      "end": 11.48,
+      "text": "むずい",
+      "language": "ja"
+    }
+  ],
+  "full_text": "ほとんど当たってないんじゃないですかこの試合 当たってない 全部ちゃんと引いてますね 飛び込んだここで おー うわー むずい",
+  "detected_language": "ja",
+  "corrections": []
+}

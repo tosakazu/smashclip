@@ -1,0 +1,102 @@
+{
+  "id": "b4aadefa-3ecd-48d7-bad6-68fa8986e897",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.68,
+      "text": "Up air to respond!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "後ろが空中上で反応している"
+    },
+    {
+      "start": 2.68,
+      "end": 4.86,
+      "text": "Another up air!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここも空中上"
+    },
+    {
+      "start": 4.86,
+      "end": 5.5,
+      "text": "Tweek",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "Tweek選手"
+    },
+    {
+      "start": 5.5,
+      "end": 8.32,
+      "text": "They'd love to finish this, but...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "できればこの下り決めきりたいところですが"
+    },
+    {
+      "start": 8.32,
+      "end": 9.4,
+      "text": "Down tilt into...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "下強から"
+    },
+    {
+      "start": 9.4,
+      "end": 10.8,
+      "text": "Dash up smash!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ダッシュ上スマッシュ"
+    },
+    {
+      "start": 10.8,
+      "end": 11.46,
+      "text": "That's clean!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ナイスクリーン"
+    }
+  ],
+  "full_text": "Up air to respond! Another up air! Tweek They'd love to finish this, but... Down tilt into... Dash up smash! That's clean!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "空中城",
+      "corrected": "空中上",
+      "rule": "move name"
+    },
+    {
+      "segment_idx": 1,
+      "original": "空中城",
+      "corrected": "空中上",
+      "rule": "move name"
+    },
+    {
+      "segment_idx": 2,
+      "original": "ツイックス選手",
+      "corrected": "Tweek選手",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 3,
+      "original": "この限り",
+      "corrected": "この下り",
+      "rule": "misheard word"
+    },
+    {
+      "segment_idx": 4,
+      "original": "スタキオから",
+      "corrected": "下強から",
+      "rule": "move name"
+    },
+    {
+      "segment_idx": 6,
+      "original": "スタッシュクリーニング",
+      "corrected": "ナイスクリーン",
+      "rule": "misheard word"
+    }
+  ]
+}

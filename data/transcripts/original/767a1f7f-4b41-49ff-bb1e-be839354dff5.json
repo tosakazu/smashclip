@@ -1,0 +1,45 @@
+{
+  "id": "767a1f7f-4b41-49ff-bb1e-be839354dff5",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.98,
+      "text": "ドラゴンが強化されてるとちょっと",
+      "language": "ja"
+    },
+    {
+      "start": 2.98,
+      "end": 4.1,
+      "text": "いやー",
+      "language": "ja"
+    },
+    {
+      "start": 4.1,
+      "end": 5.76,
+      "text": "あ、おっとこれは",
+      "language": "ja"
+    },
+    {
+      "start": 5.76,
+      "end": 7.4,
+      "text": "ドラ右が攻めきりました",
+      "language": "ja"
+    },
+    {
+      "start": 7.4,
+      "end": 7.92,
+      "text": "完璧ですね",
+      "language": "ja"
+    }
+  ],
+  "full_text": "ドラゴンが強化されてるとちょっと いやー あ、おっとこれは ドラ右が攻めきりました 完璧ですね",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 3,
+      "original": "ドラビギ",
+      "corrected": "ドラ右",
+      "rule": "player name"
+    }
+  ]
+}

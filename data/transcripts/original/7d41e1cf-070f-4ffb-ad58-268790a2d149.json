@@ -1,0 +1,51 @@
+{
+  "id": "7d41e1cf-070f-4ffb-ad58-268790a2d149",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.7,
+      "text": "伸びるゲインの一つである空上に繋がる技がかなり多いので",
+      "language": "ja"
+    },
+    {
+      "start": 4.7,
+      "end": 7.78,
+      "text": "そういうところで知らない間にパーセントが溜まっているというのは結構あります",
+      "language": "ja"
+    },
+    {
+      "start": 7.78,
+      "end": 11.04,
+      "text": "一発当たったらその後もう2個くらい技ついてきます",
+      "language": "ja"
+    },
+    {
+      "start": 11.04,
+      "end": 14.02,
+      "text": "おーっと投げバが",
+      "language": "ja"
+    }
+  ],
+  "full_text": "伸びるゲインの一つである空上に繋がる技がかなり多いので そういうところで知らない間にパーセントが溜まっているというのは結構あります 一発当たったらその後もう2個くらい技ついてきます おーっと投げバが",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "空中上",
+      "corrected": "空上",
+      "rule": "abbreviation: 空中上→空上"
+    },
+    {
+      "segment_idx": 1,
+      "original": "パーセル",
+      "corrected": "パーセント",
+      "rule": "misheard: パーセル→パーセント"
+    },
+    {
+      "segment_idx": 3,
+      "original": "投げ場が",
+      "corrected": "投げバが",
+      "rule": "misheard: 投げ場→投げバ (投げバースト)"
+    }
+  ]
+}

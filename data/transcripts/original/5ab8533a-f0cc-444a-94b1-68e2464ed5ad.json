@@ -1,0 +1,57 @@
+{
+  "id": "5ab8533a-f0cc-444a-94b1-68e2464ed5ad",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.06,
+      "text": "空中前バナナの顔をまるで持っていないかのような",
+      "language": "ja"
+    },
+    {
+      "start": 4.06,
+      "end": 5.98,
+      "text": "怒涛の空中攻撃の連続",
+      "language": "ja"
+    },
+    {
+      "start": 5.98,
+      "end": 7.46,
+      "text": "嵐の爆発物",
+      "language": "ja"
+    },
+    {
+      "start": 7.46,
+      "end": 8.8,
+      "text": "なんとか掻い潜った",
+      "language": "ja"
+    },
+    {
+      "start": 8.8,
+      "end": 10.58,
+      "text": "空中にドロークランク",
+      "language": "ja"
+    },
+    {
+      "start": 10.58,
+      "end": 10.9,
+      "text": "死ぬ",
+      "language": "ja"
+    },
+    {
+      "start": 10.9,
+      "end": 11.74,
+      "text": "まるで飛ばす",
+      "language": "ja"
+    }
+  ],
+  "full_text": "空中前バナナの顔をまるで持っていないかのような 怒涛の空中攻撃の連続 嵐の爆発物 なんとか掻い潜った 空中にドロークランク 死ぬ まるで飛ばす",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 3,
+      "original": "飼い潜った",
+      "corrected": "掻い潜った",
+      "rule": "kanji homophone"
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "id": "9281d85e-da49-44a2-823e-c8d9d57a2d80",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.58,
+      "text": "He'll keep up!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "対応していきます"
+    },
+    {
+      "start": 0.58,
+      "end": 4.3,
+      "text": "Neo's been aggressive early, so",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあ自分からまずは振っていく展開が多かったNeo選手ですが"
+    },
+    {
+      "start": 4.3,
+      "end": 6.64,
+      "text": "can he also get KOs from defense?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "反撃の形からも撃墜を出していくことができるか"
+    },
+    {
+      "start": 6.64,
+      "end": 8.44,
+      "text": "And out!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "あっとお外に"
+    },
+    {
+      "start": 8.44,
+      "end": 9.52,
+      "text": "flying",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "飛んで"
+    },
+    {
+      "start": 9.52,
+      "end": 11.44,
+      "text": "nair",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "今度はN"
+    },
+    {
+      "start": 11.44,
+      "end": 14.88,
+      "text": "damage first",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ダメージ優先という形で"
+    },
+    {
+      "start": 14.88,
+      "end": 16.12,
+      "text": "YES!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "クエルクーゴ"
+    },
+    {
+      "start": 16.12,
+      "end": 18.5,
+      "text": "With Ike!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "アイクヤン"
+    },
+    {
+      "start": 18.5,
+      "end": 19.08,
+      "text": "and then",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "からの"
+    },
+    {
+      "start": 19.08,
+      "end": 23.08,
+      "text": "the guy who NEVER whiffs a 2-frame!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "2フレーム絶対逃さないマンがここにいます"
+    }
+  ],
+  "full_text": "He'll keep up! Neo's been aggressive early, so can he also get KOs from defense? And out! flying nair damage first YES! With Ike! and then the guy who NEVER whiffs a 2-frame!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "多かったの選手",
+      "corrected": "多かったNeo選手",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 2,
+      "original": "軽くを出していく",
+      "corrected": "撃墜を出していく",
+      "rule": "kanji homophone (軽く→撃墜)"
+    }
+  ]
+}

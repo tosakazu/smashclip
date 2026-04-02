@@ -1,0 +1,20 @@
+{
+  "id": "8aa38c45-ea77-4246-8209-68ebfddad0af",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.88,
+      "text": "Bueno, tiene que ser el mejor que puedas porque con caso ya en realidad, quieras o no, el regreso lo vas a batallar demasiado.",
+      "language": "es"
+    },
+    {
+      "start": 6.04,
+      "end": 10.08,
+      "text": "Aquí una buena situación la cual Spargo se puede alcanzar a plantar y es que...",
+      "language": "es"
+    }
+  ],
+  "full_text": "Bueno, tiene que ser el mejor que puedas porque con caso ya en realidad, quieras o no, el regreso lo vas a batallar demasiado. Aquí una buena situación la cual Spargo se puede alcanzar a plantar y es que...",
+  "detected_language": "es",
+  "corrections": []
+}

@@ -1,0 +1,64 @@
+{
+  "id": "ba01cb85-45c9-4f67-be99-2662ce4641f7",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.72,
+      "text": "Didn't send them far!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "飛ばなくてね"
+    },
+    {
+      "start": 0.72,
+      "end": 1.02,
+      "text": "Yeah!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そうですね"
+    },
+    {
+      "start": 1.02,
+      "end": 1.72,
+      "text": "Got the hit!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ヒット確認"
+    },
+    {
+      "start": 1.72,
+      "end": 4.86,
+      "text": "The first dash attack wasn't connecting, but...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "最初は当たっていない状況でのダッシュ攻撃入力だったので"
+    },
+    {
+      "start": 4.86,
+      "end": 6.56,
+      "text": "Right on the hit - gets the catch!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ヒットしたところにベルキャッチ"
+    },
+    {
+      "start": 6.56,
+      "end": 8.08,
+      "text": "Fair to KO!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空前で撃墜!"
+    }
+  ],
+  "full_text": "Didn't send them far! Yeah! Got the hit! The first dash attack wasn't connecting, but... Right on the hit - gets the catch! Fair to KO!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 5,
+      "original": "宇宙前で撃墜!",
+      "corrected": "空前で撃墜!",
+      "rule": "kanji homophone"
+    }
+  ]
+}

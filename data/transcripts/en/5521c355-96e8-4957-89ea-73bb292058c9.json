@@ -1,0 +1,64 @@
+{
+  "id": "5521c355-96e8-4957-89ea-73bb292058c9",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.34,
+      "text": "So",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "なんか"
+    },
+    {
+      "start": 1.34,
+      "end": 3.5,
+      "text": "came back grabbing the turnip",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "カブを拾いながら帰ってきたが"
+    },
+    {
+      "start": 3.5,
+      "end": 4.72,
+      "text": "forward throw's still not available",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "前投げはまだでしょう"
+    },
+    {
+      "start": 4.72,
+      "end": 6.78,
+      "text": "alright, using this turnip",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあこのカブを使って"
+    },
+    {
+      "start": 6.78,
+      "end": 8.02,
+      "text": "trying to make ledge",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ライン回復したいだろう"
+    },
+    {
+      "start": 8.02,
+      "end": 8.76,
+      "text": "Oh! The turnip!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "あ、痛いなカブ"
+    }
+  ],
+  "full_text": "So came back grabbing the turnip forward throw's still not available alright, using this turnip trying to make ledge Oh! The turnip!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 4,
+      "original": "ライン回復サイダー",
+      "corrected": "ライン回復したいだろう",
+      "rule": "misheard word"
+    }
+  ]
+}

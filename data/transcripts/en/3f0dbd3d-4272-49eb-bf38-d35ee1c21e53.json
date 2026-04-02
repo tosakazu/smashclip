@@ -1,0 +1,64 @@
+{
+  "id": "3f0dbd3d-4272-49eb-bf38-d35ee1c21e53",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.3,
+      "text": "75%",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "75%"
+    },
+    {
+      "start": 1.3,
+      "end": 3.28,
+      "text": "up 80%",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "イナ80%リードしているのは"
+    },
+    {
+      "start": 3.28,
+      "end": 4.0,
+      "text": "on Jeneeve's side",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ジュネーヴ側"
+    },
+    {
+      "start": 4.0,
+      "end": 5.6,
+      "text": "at 95%",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ゾマ95%"
+    },
+    {
+      "start": 5.6,
+      "end": 8.46,
+      "text": "But you never know what's coming",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "しかし何が起こるか分からなかったが"
+    },
+    {
+      "start": 8.46,
+      "end": 9.46,
+      "text": "Caught by Gigafire!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ギガファイヤー引っかかって"
+    }
+  ],
+  "full_text": "75% up 80% on Jeneeve's side at 95% But you never know what's coming Caught by Gigafire!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "ジュネーブ",
+      "corrected": "ジュネーヴ",
+      "rule": "player name: ジュネーヴ"
+    }
+  ]
+}

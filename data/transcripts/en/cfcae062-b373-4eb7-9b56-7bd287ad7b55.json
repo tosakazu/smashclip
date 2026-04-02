@@ -1,0 +1,39 @@
+{
+  "id": "cfcae062-b373-4eb7-9b56-7bd287ad7b55",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.44,
+      "text": "a character like Wario that you can combo very easily after like down tilt or up tilt stuff like",
+      "language": "en"
+    },
+    {
+      "start": 5.44,
+      "end": 9.78,
+      "text": "that man great call out from Guilheww there as well recognizing that Gluto was going to go for the",
+      "language": "en"
+    },
+    {
+      "start": 9.78,
+      "end": 11.08,
+      "text": "bike it worked so well",
+      "language": "en"
+    }
+  ],
+  "full_text": "a character like Wario that you can combo very easily after like down tilt or up tilt stuff like that man great call out from Guilheww there as well recognizing that Gluto was going to go for the bike it worked so well",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "downturl",
+      "corrected": "down tilt",
+      "rule": "smash term"
+    },
+    {
+      "segment_idx": 1,
+      "original": "Gilhi",
+      "corrected": "Guilheww",
+      "rule": "player name"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "b2f5656d-7f03-4021-a467-e036269a5745",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.68,
+      "text": "But the first option, the dash attack coming here through, coming here through, here for Leo.",
+      "language": "en"
+    },
+    {
+      "start": 4.64,
+      "end": 6.58,
+      "text": "Down throw still not enough at 183%.",
+      "language": "en"
+    },
+    {
+      "start": 6.58,
+      "end": 7.98,
+      "text": "Does get the air dodge, another one.",
+      "language": "en"
+    },
+    {
+      "start": 8.04,
+      "end": 8.32,
+      "text": "Another one.",
+      "language": "en"
+    }
+  ],
+  "full_text": "But the first option, the dash attack coming here through, coming here through, here for Leo. Down throw still not enough at 183%. Does get the air dodge, another one. Another one.",
+  "detected_language": "en",
+  "corrections": []
+}

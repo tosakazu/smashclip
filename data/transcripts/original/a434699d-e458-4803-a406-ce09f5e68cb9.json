@@ -1,0 +1,26 @@
+{
+  "id": "a434699d-e458-4803-a406-ce09f5e68cb9",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.82,
+      "text": "He's like kind of floaty as well. Yeah, super floaty. I feel like it's really hard to find these consistent confirms",
+      "language": "en"
+    },
+    {
+      "start": 4.82,
+      "end": 8.98,
+      "text": "But because he's so light you're gonna find a forward smash right here. That'll kill",
+      "language": "en"
+    }
+  ],
+  "full_text": "He's like kind of floaty as well. Yeah, super floaty. I feel like it's really hard to find these consistent confirms But because he's so light you're gonna find a forward smash right here. That'll kill",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "original": "a forward air",
+      "corrected": "a forward smash",
+      "reason": "move=横スマ、forward smash"
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "id": "b48f0117-40b5-4b88-8b1c-26de0fcb0414",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.06,
+      "text": "Backing Naochan to the ledge—the edgeguard continues",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "崖を背負わせるなおちゃの崖が続く"
+    },
+    {
+      "start": 2.06,
+      "end": 3.92,
+      "text": "Banana's placed—and they auto-tumble",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "バナナも置いてあって自動でこける"
+    },
+    {
+      "start": 3.92,
+      "end": 5.82,
+      "text": "Down throw again",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "再び下に投げて"
+    },
+    {
+      "start": 5.82,
+      "end": 7.24,
+      "text": "Back air barely whiffs",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空中後ろギリ当たらない"
+    },
+    {
+      "start": 7.24,
+      "end": 10.24,
+      "text": "I see—H.O playing it safe with back air",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "なるほどマイルドなH.O選手の空中後ろ暴れが"
+    },
+    {
+      "start": 10.24,
+      "end": 11.04,
+      "text": "That connects!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "うまく通った形"
+    },
+    {
+      "start": 11.04,
+      "end": 14.1,
+      "text": "Up tilt catches them—the ledge trap continues",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "上強で拾い上げるまだ崖上展開が続く"
+    },
+    {
+      "start": 14.1,
+      "end": 15.66,
+      "text": "What is this? What? What??",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これは?え?え?"
+    },
+    {
+      "start": 16.12,
+      "end": 16.38,
+      "text": "Huh?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "はい?"
+    },
+    {
+      "start": 17.6,
+      "end": 18.48,
+      "text": "With down B",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "下必殺技で"
+    }
+  ],
+  "full_text": "Backing Naochan to the ledge—the edgeguard continues Banana's placed—and they auto-tumble Down throw again Back air barely whiffs I see—H.O playing it safe with back air That connects! Up tilt catches them—the ledge trap continues What is this? What? What?? Huh? With down B",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "ナオチョの崖",
+      "corrected": "なおちゃの崖",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 4,
+      "original": "マイルドのエイチョウ選手",
+      "corrected": "マイルドなH.O選手",
+      "rule": "player name"
+    }
+  ]
+}

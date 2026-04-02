@@ -1,0 +1,81 @@
+{
+  "id": "92c01fee-8ed3-4e1a-a5b1-8cfcd15e899f",
+  "segments": [
+    {
+      "start": 0.16,
+      "end": 2.0,
+      "text": "Miyaが空中下のヒット率も上げてきた",
+      "language": "ja"
+    },
+    {
+      "start": 2.0,
+      "end": 4.0,
+      "text": "怖いぞ",
+      "language": "ja"
+    },
+    {
+      "start": 4.0,
+      "end": 6.38,
+      "text": "結構まだ死なないところで",
+      "language": "ja"
+    },
+    {
+      "start": 6.38,
+      "end": 7.42,
+      "text": "横Bを止められたが",
+      "language": "ja"
+    },
+    {
+      "start": 7.42,
+      "end": 9.16,
+      "text": "横B出し切る",
+      "language": "ja"
+    },
+    {
+      "start": 9.16,
+      "end": 11.1,
+      "text": "スマッシュの読み合いが怖い",
+      "language": "ja"
+    },
+    {
+      "start": 11.1,
+      "end": 12.74,
+      "text": "いやしかし後ろ",
+      "language": "ja"
+    }
+  ],
+  "full_text": "Miyaが空中下のヒット率も上げてきた 怖いぞ 結構まだ死なないところで 横Bを止められたが 横B出し切る スマッシュの読み合いが怖い いやしかし後ろ",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "ミニアが",
+      "corrected": "Miyaが",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 0,
+      "original": "人率",
+      "corrected": "ヒット率",
+      "rule": "kanji homophone"
+    },
+    {
+      "segment_idx": 2,
+      "original": "知らないところで",
+      "corrected": "死なないところで",
+      "rule": "kanji homophone (知らない→死なない)"
+    },
+    {
+      "segment_idx": 3,
+      "original": "横行きを止められたが",
+      "corrected": "横Bを止められたが",
+      "rule": "move name (横行き→横B)"
+    },
+    {
+      "segment_idx": 4,
+      "original": "横行き出し見る",
+      "corrected": "横B出し切る",
+      "rule": "move name (横行き→横B, 見る→切る)"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "c6880770-8a67-4ac1-8b65-2fa5f4ef84fa",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.16,
+      "text": "into the stage and parrying that bike yo he said that's my bike dog he took that bike",
+      "language": "en"
+    },
+    {
+      "start": 5.16,
+      "end": 9.84,
+      "text": "oh with that Waft so we DI'd those though living to nearly 200 percent",
+      "language": "en"
+    }
+  ],
+  "full_text": "into the stage and parrying that bike yo he said that's my bike dog he took that bike oh with that Waft so we DI'd those though living to nearly 200 percent",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "week",
+      "corrected": "Waft",
+      "rule": "misheard character move (Wario Waft)"
+    },
+    {
+      "segment_idx": 1,
+      "original": "we di'd",
+      "corrected": "we DI'd",
+      "rule": "smash term (directional influence)"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": "a652b9bf-39e1-433d-b8c4-45c15e88ee08",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.58,
+      "text": "Down throw to nair!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "下投げから空中N"
+    },
+    {
+      "start": 2.58,
+      "end": 3.64,
+      "text": "Already down!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "もう寝ているぞ"
+    },
+    {
+      "start": 3.64,
+      "end": 6.2,
+      "text": "And juggled the jump!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そしてジャンプを狩り込んだ"
+    }
+  ],
+  "full_text": "Down throw to nair! Already down! And juggled the jump!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "original": "下の木から",
+      "corrected": "下投げから",
+      "reason": "下投げ（down throw）"
+    },
+    {
+      "original": "吸い込んだ",
+      "corrected": "狩り込んだ",
+      "reason": "ジャンプを狩る（着地狩り）"
+    }
+  ]
+}

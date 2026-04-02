@@ -1,0 +1,56 @@
+{
+  "id": "44658061-aada-49ba-bd1a-40de8204a6b0",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.24,
+      "text": "Merazoma - definitely going aggressive there",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "メラゾーマはやはり貪欲に狙いますね"
+    },
+    {
+      "start": 4.24,
+      "end": 7.88,
+      "text": "Using all that MP is definitely the play",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "やっぱりMPはあれだけ使った方が得ですからね"
+    },
+    {
+      "start": 7.88,
+      "end": 9.58,
+      "text": "Better than capping resources",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "溢れさせるよりは"
+    },
+    {
+      "start": 9.58,
+      "end": 10.64,
+      "text": "Better than wasting it",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "余りよりかは"
+    },
+    {
+      "start": 10.64,
+      "end": 11.88,
+      "text": "Just keep it rolling",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "どんどんどんどん"
+    }
+  ],
+  "full_text": "Merazoma - definitely going aggressive there Using all that MP is definitely the play Better than capping resources Better than wasting it Just keep it rolling",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "シーメラゾー",
+      "corrected": "メラゾーマ",
+      "rule": "misheard Hero spell name"
+    }
+  ]
+}

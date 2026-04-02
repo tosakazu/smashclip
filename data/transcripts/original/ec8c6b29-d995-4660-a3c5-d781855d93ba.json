@@ -1,0 +1,39 @@
+{
+  "id": "ec8c6b29-d995-4660-a3c5-d781855d93ba",
+  "segments": [
+    {
+      "start": 0.64,
+      "end": 2.32,
+      "text": "お互いに100%を超えているところ",
+      "language": "ja"
+    },
+    {
+      "start": 2.32,
+      "end": 3.7,
+      "text": "ここで空後",
+      "language": "ja"
+    },
+    {
+      "start": 3.7,
+      "end": 4.96,
+      "text": "ブロック保険に入っている",
+      "language": "ja"
+    },
+    {
+      "start": 4.96,
+      "end": 6.34,
+      "text": "問題ないかというところでしたが",
+      "language": "ja"
+    }
+  ],
+  "full_text": "お互いに100%を超えているところ ここで空後 ブロック保険に入っている 問題ないかというところでしたが",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "空中しろ",
+      "corrected": "空後",
+      "rule": "misheard: 空中しろ→空後"
+    }
+  ]
+}

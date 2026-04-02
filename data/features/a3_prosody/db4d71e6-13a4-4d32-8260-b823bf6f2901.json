@@ -1,0 +1,51 @@
+{
+  "id": "db4d71e6-13a4-4d32-8260-b823bf6f2901",
+  "duration": 2.645,
+  "pitch": {
+    "mean": 156.47,
+    "max": 752.12,
+    "std": 130.86,
+    "max_mean_ratio": 4.81
+  },
+  "energy": {
+    "mean": 0.042254,
+    "max": 0.083178,
+    "std": 0.022539,
+    "rate_of_change": 0.027165
+  },
+  "speech_rate": {
+    "chars_per_sec": 13.64,
+    "words_per_sec": 2.27,
+    "segment_count": 1
+  },
+  "spectral_centroid": {
+    "mean": 1765.14
+  },
+  "timeseries": {
+    "frame_sec": 0.5,
+    "pitch": [
+      147.42,
+      130.7,
+      125.74,
+      207.55,
+      120.37,
+      166.58
+    ],
+    "energy": [
+      0.038369,
+      0.062957,
+      0.060168,
+      0.02434,
+      0.022695,
+      0.017166
+    ],
+    "spectral_centroid": [
+      1587.04,
+      1663.06,
+      1486.38,
+      1764.6,
+      2205.38,
+      2216.61
+    ]
+  }
+}

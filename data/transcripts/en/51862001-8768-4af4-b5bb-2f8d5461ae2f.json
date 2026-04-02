@@ -1,0 +1,80 @@
+{
+  "id": "51862001-8768-4af4-b5bb-2f8d5461ae2f",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "This player's put in serious work",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "この人はね、相当な数やってきてるでしょうから"
+    },
+    {
+      "start": 2.0,
+      "end": 4.52,
+      "text": "That forward smash—they've eaten that so many times",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "あの横スマッシュもね、何度食らったことだって感じですよね"
+    },
+    {
+      "start": 4.52,
+      "end": 7.94,
+      "text": "Wow, that's strong play from Muramachi!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "あ、これ強いなぁ村町、なるほどね"
+    },
+    {
+      "start": 7.94,
+      "end": 10.22,
+      "text": "Ledge drop bair lands perfectly!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "崖離し空後でちょうど乗るんですね"
+    },
+    {
+      "start": 10.22,
+      "end": 14.02,
+      "text": "Now they're mixing neutral B into their game",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さぁNBを読み合いに組み込んできましたね"
+    },
+    {
+      "start": 14.02,
+      "end": 15.72,
+      "text": "That's creating a lot of noise",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "あれが結構ノイズになっていて"
+    },
+    {
+      "start": 15.72,
+      "end": 16.92,
+      "text": "Yeah yeah yeah",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "はいはいはいはい"
+    },
+    {
+      "start": 16.92,
+      "end": 17.7,
+      "text": "From that spin onwards",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "あのスピンから先"
+    }
+  ],
+  "full_text": "This player's put in serious work That forward smash—they've eaten that so many times Wow, that's strong play from Muramachi! Ledge drop bair lands perfectly! Now they're mixing neutral B into their game That's creating a lot of noise Yeah yeah yeah From that spin onwards",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 3,
+      "original": "ムービー",
+      "corrected": "空後",
+      "rule": "move abbreviation: ムービー→空後"
+    }
+  ]
+}

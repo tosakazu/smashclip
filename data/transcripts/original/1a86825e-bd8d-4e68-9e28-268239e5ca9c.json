@@ -1,0 +1,32 @@
+{
+  "id": "1a86825e-bd8d-4e68-9e28-268239e5ca9c",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.66,
+      "text": "今の展開で",
+      "language": "ja"
+    },
+    {
+      "start": 2.66,
+      "end": 4.64,
+      "text": "NBの",
+      "language": "ja"
+    },
+    {
+      "start": 4.64,
+      "end": 6.84,
+      "text": "フェイントからの移動回避",
+      "language": "ja"
+    },
+    {
+      "start": 6.84,
+      "end": 7.4,
+      "text": "そして",
+      "language": "ja"
+    }
+  ],
+  "full_text": "今の展開で NBの フェイントからの移動回避 そして",
+  "detected_language": "ja",
+  "corrections": []
+}

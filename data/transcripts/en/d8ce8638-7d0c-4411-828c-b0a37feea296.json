@@ -1,0 +1,70 @@
+{
+  "id": "d8ce8638-7d0c-4411-828c-b0a37feea296",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.24,
+      "text": "Down throw into nair",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "下投げから空中N攻撃"
+    },
+    {
+      "start": 2.24,
+      "end": 3.88,
+      "text": "If they finish the KO from here it'll be even, but",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "このまま撃墜しきればイーブになるが"
+    },
+    {
+      "start": 3.88,
+      "end": 5.66,
+      "text": "Hello player's recovery route is nice",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "へろー選手の復帰ルートうまい"
+    },
+    {
+      "start": 5.66,
+      "end": 7.94,
+      "text": "Could be read as either inside or off-stage",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "内側とも崖外とも取れないような"
+    },
+    {
+      "start": 7.94,
+      "end": 9.02,
+      "text": "That kind of recovery route",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そんな復帰ルート"
+    },
+    {
+      "start": 9.02,
+      "end": 10.98,
+      "text": "Hard to punish",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ためにくく"
+    }
+  ],
+  "full_text": "Down throw into nair If they finish the KO from here it'll be even, but Hello player's recovery route is nice Could be read as either inside or off-stage That kind of recovery route Hard to punish",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "下投げから空中白攻撃",
+      "corrected": "下投げから空中N攻撃",
+      "rule": "whisper_misrecognition"
+    },
+    {
+      "segment_idx": 2,
+      "original": "ヘロー選手の復帰ルートうまい",
+      "corrected": "へろー選手の復帰ルートうまい",
+      "rule": "player name"
+    }
+  ]
+}

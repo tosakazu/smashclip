@@ -1,0 +1,41 @@
+{
+  "id": "ff7ae30a-42fb-4210-8cc4-24cf8f793cfd",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.64,
+      "text": "Sonic's got that parabolic recovery arc going",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "放物線を描くかのような挙動をソニックがするんですけど"
+    },
+    {
+      "start": 2.64,
+      "end": 5.6,
+      "text": "They're catching him really solidly in the air",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "それを空中上でねしっかりとがめていますね"
+    },
+    {
+      "start": 5.6,
+      "end": 5.84,
+      "text": "Like...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "なんか"
+    },
+    {
+      "start": 5.84,
+      "end": 7.78,
+      "text": "Olimar's...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "オリマーの"
+    }
+  ],
+  "full_text": "Sonic's got that parabolic recovery arc going They're catching him really solidly in the air Like... Olimar's...",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

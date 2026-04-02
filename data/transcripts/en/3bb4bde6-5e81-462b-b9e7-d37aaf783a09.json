@@ -1,0 +1,56 @@
+{
+  "id": "3bb4bde6-5e81-462b-b9e7-d37aaf783a09",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.6,
+      "text": "Long reach! Picks up the banana!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "おー手が長いですねバナナ拾って"
+    },
+    {
+      "start": 3.6,
+      "end": 5.56,
+      "text": "If they shield, flip's available.",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあガードで固まるんだったらフリップがある"
+    },
+    {
+      "start": 5.56,
+      "end": 7.92,
+      "text": "Banana trip into the forward smash!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そしてバナナで転倒して横スマッシュ"
+    },
+    {
+      "start": 7.92,
+      "end": 10.34,
+      "text": "Donkey Kong's too heavy, no KO, but...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ドンキー重いのでまだ撃墜しなかったんですが"
+    },
+    {
+      "start": 10.34,
+      "end": 10.82,
+      "text": "Off the banana...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "バナナから"
+    }
+  ],
+  "full_text": "Long reach! Picks up the banana! If they shield, flip's available. Banana trip into the forward smash! Donkey Kong's too heavy, no KO, but... Off the banana...",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "降下して",
+      "corrected": "転倒して",
+      "rule": "misheard: 降下→転倒 (banana causes trip)"
+    }
+  ]
+}

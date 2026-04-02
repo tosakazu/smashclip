@@ -1,0 +1,20 @@
+{
+  "id": "4b1ebda5-5a69-4977-8a64-7451a5b23b6e",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.5,
+      "text": "どうもかなり有効に効いてくるかどうかというところ",
+      "language": "ja"
+    },
+    {
+      "start": 3.5,
+      "end": 4.56,
+      "text": "しかしこれはく",
+      "language": "ja"
+    }
+  ],
+  "full_text": "どうもかなり有効に効いてくるかどうかというところ しかしこれはく",
+  "detected_language": "ja",
+  "corrections": []
+}

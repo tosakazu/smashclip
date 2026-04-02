@@ -1,0 +1,51 @@
+{
+  "id": "8a575134-90b8-4e1d-9267-3e03cc61938b",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.86,
+      "text": "We have to face Miya after all",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "やはりMiyaと向き合わなければならない"
+    },
+    {
+      "start": 2.86,
+      "end": 4.86,
+      "text": "There's no escaping it",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "拒否しきるのも無理ですからね"
+    },
+    {
+      "start": 4.86,
+      "end": 5.22,
+      "text": "Oh!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "おっと"
+    },
+    {
+      "start": 5.22,
+      "end": 9.1,
+      "text": "The feared moment is here",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "恐れていたことが起きましたね"
+    },
+    {
+      "start": 9.1,
+      "end": 10.56,
+      "text": "Wow, this is...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いやーこれは"
+    }
+  ],
+  "full_text": "We have to face Miya after all There's no escaping it Oh! The feared moment is here Wow, this is...",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    "ミーヤー→Miya (player name from metadata)"
+  ]
+}

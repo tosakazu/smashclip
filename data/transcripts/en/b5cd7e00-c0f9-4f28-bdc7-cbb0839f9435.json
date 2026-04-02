@@ -1,0 +1,57 @@
+{
+  "id": "b5cd7e00-c0f9-4f28-bdc7-cbb0839f9435",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.92,
+      "text": "Even with that positioning though...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "あれでもねあの位置関係でね"
+    },
+    {
+      "start": 2.92,
+      "end": 5.18,
+      "text": "You can still secure the KO from there, right?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ちゃんとウエストまで撃墜できるんですよね"
+    },
+    {
+      "start": 5.18,
+      "end": 6.68,
+      "text": "Even if you land Witch Time...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ウィッチタイム取れても"
+    },
+    {
+      "start": 6.68,
+      "end": 8.76,
+      "text": "Getting a follow-up off it seems really tough though",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "リターン出すの難しそうだなと思ったんですけど"
+    },
+    {
+      "start": 8.76,
+      "end": 9.4,
+      "text": "Yeah, that's true",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そうですよね"
+    },
+    {
+      "start": 9.4,
+      "end": 11.84,
+      "text": "Oh, actually in the upper area...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "あっちょこれは上側が人とか"
+    }
+  ],
+  "full_text": "Even with that positioning though... You can still secure the KO from there, right? Even if you land Witch Time... Getting a follow-up off it seems really tough though Yeah, that's true Oh, actually in the upper area...",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

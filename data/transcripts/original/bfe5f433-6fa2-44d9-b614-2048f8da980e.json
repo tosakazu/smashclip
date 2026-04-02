@@ -1,0 +1,57 @@
+{
+  "id": "bfe5f433-6fa2-44d9-b614-2048f8da980e",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.32,
+      "text": "アシモに対して",
+      "language": "ja"
+    },
+    {
+      "start": 1.32,
+      "end": 3.24,
+      "text": "動じないアコーラ",
+      "language": "ja"
+    },
+    {
+      "start": 3.24,
+      "end": 5.08,
+      "text": "これで動じないの素晴らしいですけどね",
+      "language": "ja"
+    },
+    {
+      "start": 5.08,
+      "end": 7.64,
+      "text": "利用格差で空中後ろ",
+      "language": "ja"
+    }
+  ],
+  "full_text": "アシモに対して 動じないアコーラ これで動じないの素晴らしいですけどね 利用格差で空中後ろ",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "ヤシモ",
+      "corrected": "アシモ",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 1,
+      "original": "どうじない",
+      "corrected": "動じない",
+      "rule": "misheard word"
+    },
+    {
+      "segment_idx": 2,
+      "original": "どうじないの",
+      "corrected": "動じないの",
+      "rule": "misheard word"
+    },
+    {
+      "segment_idx": 3,
+      "original": "旅行課税で空中しろ",
+      "corrected": "利用格差で空中後ろ",
+      "rule": "smash term + misheard"
+    }
+  ]
+}

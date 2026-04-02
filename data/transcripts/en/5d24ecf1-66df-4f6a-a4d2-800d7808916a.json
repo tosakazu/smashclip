@@ -1,0 +1,64 @@
+{
+  "id": "5d24ecf1-66df-4f6a-a4d2-800d7808916a",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.98,
+      "text": "Oh I see!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "あっなるほどね"
+    },
+    {
+      "start": 1.98,
+      "end": 4.12,
+      "text": "Meteor from the ledge!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "崖からのメテオですね"
+    },
+    {
+      "start": 4.12,
+      "end": 5.58,
+      "text": "Insane!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "面白い"
+    },
+    {
+      "start": 5.58,
+      "end": 8.68,
+      "text": "109%",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "109%"
+    },
+    {
+      "start": 8.68,
+      "end": 11.54,
+      "text": "Surely...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これはさすがに"
+    },
+    {
+      "start": 11.54,
+      "end": 12.42,
+      "text": "Out!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "眠る"
+    }
+  ],
+  "full_text": "Oh I see! Meteor from the ledge! Insane! 109% Surely... Out!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "クレイからの",
+      "corrected": "崖からの",
+      "rule": "misheard word"
+    }
+  ]
+}

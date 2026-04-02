@@ -1,0 +1,45 @@
+{
+  "id": "7f259ba0-8692-455e-8b3e-57398eed93a1",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.84,
+      "text": "なかなか攻防にもひと悩まされるとこのことか",
+      "language": "ja"
+    },
+    {
+      "start": 3.84,
+      "end": 8.74,
+      "text": "ブロックでの受け身が取れなかった 初めてリードを奪った形になったでしょうか",
+      "language": "ja"
+    },
+    {
+      "start": 8.74,
+      "end": 11.7,
+      "text": "いやそれを許さない",
+      "language": "ja"
+    },
+    {
+      "start": 11.7,
+      "end": 13.96,
+      "text": "リムに対する反撃すごいですね",
+      "language": "ja"
+    }
+  ],
+  "full_text": "なかなか攻防にもひと悩まされるとこのことか ブロックでの受け身が取れなかった 初めてリードを奪った形になったでしょうか いやそれを許さない リムに対する反撃すごいですね",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "中野 攻防にも筆悩まれとこのことか",
+      "corrected": "なかなか攻防にもひと悩まされるとこのことか",
+      "rule": "Whisper mishearing"
+    },
+    {
+      "segment_idx": 3,
+      "original": "立馬に対する反撃すごいですね",
+      "corrected": "リムに対する反撃すごいですね",
+      "rule": "player name"
+    }
+  ]
+}

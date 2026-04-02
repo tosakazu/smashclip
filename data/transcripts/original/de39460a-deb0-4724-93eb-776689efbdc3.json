@@ -1,0 +1,56 @@
+{
+  "id": "de39460a-deb0-4724-93eb-776689efbdc3",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.2,
+      "text": "ジャストシールドしてるんですが",
+      "language": "ja"
+    },
+    {
+      "start": 2.2,
+      "end": 3.32,
+      "text": "裏側が当たってしまう",
+      "language": "ja"
+    },
+    {
+      "start": 3.32,
+      "end": 5.14,
+      "text": "これはロボットの体が大きい案件なのか",
+      "language": "ja"
+    },
+    {
+      "start": 5.14,
+      "end": 6.86,
+      "text": "それともそもそも空中ニュートラルが",
+      "language": "ja"
+    },
+    {
+      "start": 6.86,
+      "end": 8.58,
+      "text": "意外と密度が高いのか",
+      "language": "ja"
+    },
+    {
+      "start": 8.58,
+      "end": 10.28,
+      "text": "ダッシュアタック",
+      "language": "ja"
+    },
+    {
+      "start": 10.28,
+      "end": 11.04,
+      "text": "これは",
+      "language": "ja"
+    },
+    {
+      "start": 11.04,
+      "end": 13.66,
+      "text": "撃墜と",
+      "language": "ja"
+    }
+  ],
+  "full_text": "ジャストシールドしてるんですが 裏側が当たってしまう これはロボットの体が大きい案件なのか それともそもそも空中ニュートラルが 意外と密度が高いのか ダッシュアタック これは 撃墜と",
+  "detected_language": "ja",
+  "corrections": []
+}

@@ -1,0 +1,144 @@
+{
+  "id": "04a284b8-903f-44da-a557-f87f03d379c4",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.5,
+      "text": "But the damage adds up...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "しかしダメージは"
+    },
+    {
+      "start": 1.5,
+      "end": 2.16,
+      "text": "I see",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "なるほど"
+    },
+    {
+      "start": 2.16,
+      "end": 4.42,
+      "text": "While dealing damage",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ダメージを与えながら"
+    },
+    {
+      "start": 4.42,
+      "end": 6.58,
+      "text": "Perfectly controlling them with dash attack",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "DAでうまく相手を動かして"
+    },
+    {
+      "start": 6.58,
+      "end": 8.72,
+      "text": "Juggling them, they're struggling in the air!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さらに着地狩り空中で苦しいか"
+    },
+    {
+      "start": 8.72,
+      "end": 11.0,
+      "text": "Launching them further out with fair",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空前でさらに外に飛び出させる戦法"
+    },
+    {
+      "start": 11.0,
+      "end": 13.5,
+      "text": "They make it back, but...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "掻い潜って帰ってきますが"
+    },
+    {
+      "start": 13.5,
+      "end": 15.04,
+      "text": "Fair is right there to meet them",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空前がその先を捉えている"
+    },
+    {
+      "start": 15.04,
+      "end": 16.76,
+      "text": "A rough spot",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "苦しい展開だ"
+    },
+    {
+      "start": 16.76,
+      "end": 18.8,
+      "text": "They tech out, but...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "受け身を取っているが"
+    },
+    {
+      "start": 18.8,
+      "end": 21.16,
+      "text": "Zelgre punch connects!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ゼルグレパンチ一撃"
+    },
+    {
+      "start": 21.16,
+      "end": 24.46,
+      "text": "Today's Black Ship...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "今日の黒船は"
+    },
+    {
+      "start": 24.46,
+      "end": 24.66,
+      "text": "North",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "北"
+    }
+  ],
+  "full_text": "But the damage adds up... I see While dealing damage Perfectly controlling them with dash attack Juggling them, they're struggling in the air! Launching them further out with fair They make it back, but... Fair is right there to meet them A rough spot They tech out, but... Zelgre punch connects! Today's Black Ship... North",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 3,
+      "original": "ダッシュ攻撃でうまく相手を動かして",
+      "corrected": "DAでうまく相手を動かして",
+      "rule": "auto-rule"
+    },
+    {
+      "segment_idx": 4,
+      "original": "さらに着手狩り空中で苦しいか",
+      "corrected": "さらに着地狩り空中で苦しいか",
+      "rule": "auto-rule"
+    },
+    {
+      "segment_idx": 6,
+      "original": "我は飼いくぐって帰ってきますが",
+      "corrected": "掻い潜って帰ってきますが",
+      "rule": "misheard word"
+    },
+    {
+      "segment_idx": 7,
+      "original": "空中前がその先を捉えている",
+      "corrected": "空前がその先を捉えている",
+      "rule": "auto-rule"
+    },
+    {
+      "segment_idx": 11,
+      "original": "今日の来る船は",
+      "corrected": "今日の黒船は",
+      "rule": "player name"
+    }
+  ]
+}

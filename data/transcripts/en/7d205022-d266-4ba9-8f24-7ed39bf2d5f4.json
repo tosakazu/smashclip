@@ -1,0 +1,70 @@
+{
+  "id": "7d205022-d266-4ba9-8f24-7ed39bf2d5f4",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.72,
+      "text": "Sora up smash",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "大空の上スマッシュ"
+    },
+    {
+      "start": 1.72,
+      "end": 4.36,
+      "text": "Stock 2-3",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ストック2-3"
+    },
+    {
+      "start": 4.36,
+      "end": 5.72,
+      "text": "Sora_J's got the lead",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "リードはSora_J"
+    },
+    {
+      "start": 5.72,
+      "end": 9.32,
+      "text": "That's turned into an insanely strong hadoken-shoryuken type combo!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "めちゃくちゃ強い波動昇竜みたいな感じになりましたね"
+    },
+    {
+      "start": 9.32,
+      "end": 10.68,
+      "text": "But slightly...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "だが少し"
+    },
+    {
+      "start": 10.68,
+      "end": 11.62,
+      "text": "electric sphere",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "でんこた玉"
+    }
+  ],
+  "full_text": "Sora up smash Stock 2-3 Sora_J's got the lead That's turned into an insanely strong hadoken-shoryuken type combo! But slightly... electric sphere",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "ソロジェ",
+      "corrected": "Sora_J",
+      "rule": "player name: ソロジェ→Sora_J"
+    },
+    {
+      "segment_idx": 5,
+      "original": "電化玉玉",
+      "corrected": "でんこた玉",
+      "rule": "player name: 電化→でんこた (Lucas player), 玉玉→玉"
+    }
+  ]
+}

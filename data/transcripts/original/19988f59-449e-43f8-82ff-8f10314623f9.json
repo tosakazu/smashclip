@@ -1,0 +1,33 @@
+{
+  "id": "19988f59-449e-43f8-82ff-8f10314623f9",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.88,
+      "text": "gonna take that just for the damage i like that though give yourself the more",
+      "language": "en"
+    },
+    {
+      "start": 2.88,
+      "end": 5.92,
+      "text": "of a fighting chance but it's just interesting that Light is still so",
+      "language": "en"
+    },
+    {
+      "start": 5.92,
+      "end": 10.48,
+      "text": "willing to go for these up smash these raw ones despite oh the parry into the",
+      "language": "en"
+    }
+  ],
+  "full_text": "gonna take that just for the damage i like that though give yourself the more of a fighting chance but it's just interesting that Light is still so willing to go for these up smash these raw ones despite oh the parry into the",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "that light is still so",
+      "corrected": "that Light is still so",
+      "rule": "Player name capitalization: light→Light"
+    }
+  ]
+}

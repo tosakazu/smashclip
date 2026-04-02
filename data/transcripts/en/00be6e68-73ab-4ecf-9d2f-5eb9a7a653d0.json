@@ -1,0 +1,57 @@
+{
+  "id": "00be6e68-73ab-4ecf-9d2f-5eb9a7a653d0",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.38,
+      "text": "Both of them are going to be incredibly comfortable in this matchup, right?",
+      "language": "en"
+    },
+    {
+      "start": 2.42,
+      "end": 4.78,
+      "text": "It's really just going to come down to who is playing the best.",
+      "language": "en"
+    },
+    {
+      "start": 4.82,
+      "end": 6.62,
+      "text": "Who is the better man on this day?",
+      "language": "en"
+    },
+    {
+      "start": 6.96,
+      "end": 8.78,
+      "text": "Right now, Miya, what a good catch on that back air.",
+      "language": "en"
+    },
+    {
+      "start": 8.9,
+      "end": 9.64,
+      "text": "Probably going to push this.",
+      "language": "en"
+    },
+    {
+      "start": 9.86,
+      "end": 13.48,
+      "text": "I think that's the second misfire, but it's not even going to matter.",
+      "language": "en"
+    },
+    {
+      "start": 13.58,
+      "end": 14.24,
+      "text": "You're going to get sent straight.",
+      "language": "en"
+    }
+  ],
+  "full_text": "Both of them are going to be incredibly comfortable in this matchup, right? It's really just going to come down to who is playing the best. Who is the better man on this day? Right now, Miya, what a good catch on that back air. Probably going to push this. I think that's the second misfire, but it's not even going to matter. You're going to get sent straight.",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 3,
+      "original": "Mia,",
+      "corrected": "Miya,",
+      "rule": "player name"
+    }
+  ]
+}

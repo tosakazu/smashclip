@@ -1,0 +1,72 @@
+{
+  "id": "fae56055-6606-4364-863c-0511caa73cd1",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.54,
+      "text": "Punished the roll getup!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "しっかりととがめて回避上がりをとがめる後ろ"
+    },
+    {
+      "start": 2.54,
+      "end": 4.2,
+      "text": "Turnaround grab!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "振り向きつかみ"
+    },
+    {
+      "start": 4.2,
+      "end": 5.8,
+      "text": "Back throw!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そして後ろ投げ"
+    },
+    {
+      "start": 5.8,
+      "end": 7.92,
+      "text": "Cape won't connect, back air!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "地面上マント当たらない空中後ろで"
+    },
+    {
+      "start": 7.92,
+      "end": 9.24,
+      "text": "Chases them to the far ledge!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "反対側の崖に追い払って"
+    },
+    {
+      "start": 9.24,
+      "end": 11.32,
+      "text": "Up air into down smash!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空中上で落として下スマ"
+    },
+    {
+      "start": 11.32,
+      "end": 12.0,
+      "text": "Let's go!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "行け行け"
+    }
+  ],
+  "full_text": "Punished the roll getup! Turnaround grab! Back throw! Cape won't connect, back air! Chases them to the far ledge! Up air into down smash! Let's go!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 5,
+      "original": "下つま",
+      "corrected": "下スマ",
+      "rule": "misheard: 下つま→下スマ"
+    }
+  ]
+}

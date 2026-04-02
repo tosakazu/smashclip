@@ -1,0 +1,68 @@
+{
+  "id": "d8c3ca58-e15f-494d-a976-8b2409b27fdb",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.12,
+      "text": "Ah, confirming out of shield up air!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "あ、こちらも確認してるガーキャン空上で"
+    },
+    {
+      "start": 4.12,
+      "end": 6.06,
+      "text": "Forward airdodge, immediately repositioned!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "前回避、即座にラインを入れ替えて"
+    },
+    {
+      "start": 6.06,
+      "end": 8.1,
+      "text": "Dain insane!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "デインやばい"
+    },
+    {
+      "start": 8.1,
+      "end": 11.5,
+      "text": "Fully charged, but the throw got dodged!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ため装填、投げはかわした"
+    },
+    {
+      "start": 11.5,
+      "end": 12.76,
+      "text": "Fair - playing with desperation!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空中前、焦がす精神を"
+    }
+  ],
+  "full_text": "Ah, confirming out of shield up air! Forward airdodge, immediately repositioned! Dain insane! Fully charged, but the throw got dodged! Fair - playing with desperation!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "あ、こちらも確認してるガーキャンク上で",
+      "corrected": "あ、こちらも確認してるガーキャン空上で",
+      "rule": "smash notation (ガーキャンク→ガーキャン)"
+    },
+    {
+      "segment_idx": 2,
+      "original": "ディーンやばれ",
+      "corrected": "デインやばい",
+      "rule": "Hero spell name (デイン)"
+    },
+    {
+      "segment_idx": 3,
+      "original": "亀戸装填、投げはかわした",
+      "corrected": "ため装填、投げはかわした",
+      "rule": "whisper_misrecognition"
+    }
+  ]
+}

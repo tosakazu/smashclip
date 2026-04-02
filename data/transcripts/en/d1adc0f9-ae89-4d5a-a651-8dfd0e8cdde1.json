@@ -1,0 +1,76 @@
+{
+  "id": "d1adc0f9-ae89-4d5a-a651-8dfd0e8cdde1",
+  "segments": [
+    {
+      "start": 0.76,
+      "end": 3.92,
+      "text": "Managed to scoop up that grounded bike with the dash attack!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "地上バイクを投げるダッシュアタックでなんとか拾い"
+    },
+    {
+      "start": 3.92,
+      "end": 6.38,
+      "text": "Falcon Kick!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ファルコンキック"
+    },
+    {
+      "start": 6.38,
+      "end": 11.44,
+      "text": "Applied the Waft once the bike had built up the percent!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "バイクで%が伸びたところに対してオナラを当てていきました"
+    },
+    {
+      "start": 11.44,
+      "end": 14.56,
+      "text": "You could argue they forced out the Waft here, but",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここでオナラを吐かせたとも取れるが"
+    },
+    {
+      "start": 14.56,
+      "end": 14.94,
+      "text": "No combo route",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ルートない"
+    },
+    {
+      "start": 14.94,
+      "end": 17.64,
+      "text": "Couldn't work in the combo",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ルート混ぜれなかった"
+    }
+  ],
+  "full_text": "Managed to scoop up that grounded bike with the dash attack! Falcon Kick! Applied the Waft once the bike had built up the percent! You could argue they forced out the Waft here, but No combo route Couldn't work in the combo",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "なんとか高い",
+      "corrected": "なんとか拾い",
+      "rule": "mishearing (高い→拾い)"
+    },
+    {
+      "segment_idx": 2,
+      "original": "時速が伸びた",
+      "corrected": "%が伸びた",
+      "rule": "smash term (時速→%, damage percent)"
+    },
+    {
+      "segment_idx": 3,
+      "original": "吐かせたとも一つ見れるが",
+      "corrected": "吐かせたとも取れるが",
+      "rule": "mishearing (一つ見れる→取れる)"
+    }
+  ]
+}

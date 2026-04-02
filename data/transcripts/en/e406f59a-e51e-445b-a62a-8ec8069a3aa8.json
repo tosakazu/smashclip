@@ -1,0 +1,60 @@
+{
+  "id": "e406f59a-e51e-445b-a62a-8ec8069a3aa8",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.06,
+      "text": "Gluttony's executing the mixups so calmly is incredible",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "読み合い冷静にやるグルトニーもすごいですね"
+    },
+    {
+      "start": 2.06,
+      "end": 5.62,
+      "text": "Still reading the opponent's shield and making the right call",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "それでも相手のガードをまだ見れる判断ができる"
+    },
+    {
+      "start": 5.62,
+      "end": 7.62,
+      "text": "Up smash whiffed the confirmed punish",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "上スマッシュ 反確を落とした"
+    },
+    {
+      "start": 7.62,
+      "end": 9.56,
+      "text": "Raw hit into the KO!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "生当てで撃墜 追い打ち"
+    }
+  ],
+  "full_text": "Gluttony's executing the mixups so calmly is incredible Still reading the opponent's shield and making the right call Up smash whiffed the confirmed punish Raw hit into the KO!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "グラフ",
+      "corrected": "グルトニー",
+      "rule": "player name: Glutonny"
+    },
+    {
+      "segment_idx": 2,
+      "original": "上スマッシュ反撃を落とした",
+      "corrected": "上スマッシュ 反確を落とした",
+      "rule": "term: 反確(confirmed punish)"
+    },
+    {
+      "segment_idx": 3,
+      "original": "生当てで劣劇追打",
+      "corrected": "生当てで撃墜 追い打ち",
+      "rule": "kanji homophone: 撃墜"
+    }
+  ]
+}

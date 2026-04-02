@@ -1,0 +1,87 @@
+{
+  "id": "5dd51164-cdff-4ffd-b7b9-727eef6e1fe4",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.84,
+      "text": "あ、内転筋",
+      "language": "ja"
+    },
+    {
+      "start": 0.84,
+      "end": 3.06,
+      "text": "深めて崩して",
+      "language": "ja"
+    },
+    {
+      "start": 3.06,
+      "end": 4.3,
+      "text": "前に投げる",
+      "language": "ja"
+    },
+    {
+      "start": 4.3,
+      "end": 7.46,
+      "text": "やってきたがジャンプを安全して戻ってきました",
+      "language": "ja"
+    },
+    {
+      "start": 7.46,
+      "end": 8.8,
+      "text": "勝負の回避上がり",
+      "language": "ja"
+    },
+    {
+      "start": 8.8,
+      "end": 10.4,
+      "text": "通していきますが",
+      "language": "ja"
+    },
+    {
+      "start": 10.4,
+      "end": 13.18,
+      "text": "依然Miyaが先の展開を読んでいる",
+      "language": "ja"
+    },
+    {
+      "start": 13.18,
+      "end": 14.48,
+      "text": "モンキーフリップ先に行けた",
+      "language": "ja"
+    },
+    {
+      "start": 14.48,
+      "end": 16.1,
+      "text": "上Bも復帰に",
+      "language": "ja"
+    }
+  ],
+  "full_text": "あ、内転筋 深めて崩して 前に投げる やってきたがジャンプを安全して戻ってきました 勝負の回避上がり 通していきますが 依然Miyaが先の展開を読んでいる モンキーフリップ先に行けた 上Bも復帰に",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 4,
+      "original": "回避明かり",
+      "corrected": "回避上がり",
+      "rule": "smash term (崖上がり)"
+    },
+    {
+      "segment_idx": 6,
+      "original": "以前ミイヤー",
+      "corrected": "依然Miya",
+      "rule": "player name + kanji homophone"
+    },
+    {
+      "segment_idx": 7,
+      "original": "本気フリップ戦に行けた",
+      "corrected": "モンキーフリップ先に行けた",
+      "rule": "move name (Diddy Kong side-B)"
+    },
+    {
+      "segment_idx": 8,
+      "original": "上小も",
+      "corrected": "上Bも",
+      "rule": "move abbreviation"
+    }
+  ]
+}

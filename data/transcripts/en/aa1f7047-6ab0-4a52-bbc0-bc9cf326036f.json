@@ -1,0 +1,72 @@
+{
+  "id": "aa1f7047-6ab0-4a52-bbc0-bc9cf326036f",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.12,
+      "text": "Back air!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空中後ろ"
+    },
+    {
+      "start": 1.12,
+      "end": 2.62,
+      "text": "Ledgeless recovery!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあラインがない復帰は"
+    },
+    {
+      "start": 2.62,
+      "end": 3.4,
+      "text": "Bouncing around!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "パチンコ"
+    },
+    {
+      "start": 3.4,
+      "end": 4.42,
+      "text": "What happens?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "どうなん"
+    },
+    {
+      "start": 4.42,
+      "end": 5.22,
+      "text": "Oh!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "あっと"
+    },
+    {
+      "start": 5.22,
+      "end": 7.6,
+      "text": "Gets turned around!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここで反転してしまう"
+    },
+    {
+      "start": 7.6,
+      "end": 9.6,
+      "text": "Game!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ゲーム"
+    }
+  ],
+  "full_text": "Back air! Ledgeless recovery! Bouncing around! What happens? Oh! Gets turned around! Game!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "空中しろ",
+      "corrected": "空中後ろ",
+      "rule": "Move: 空中しろ→空中後ろ(空後)"
+    }
+  ]
+}

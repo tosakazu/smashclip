@@ -1,0 +1,68 @@
+{
+  "id": "6cba09ad-b576-4572-b6d6-c454b5755ff2",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.32,
+      "text": "The heat is on!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "火がかかっていく"
+    },
+    {
+      "start": 3.32,
+      "end": 7.1,
+      "text": "That's a nair,",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空Nですから"
+    },
+    {
+      "start": 7.1,
+      "end": 9.92,
+      "text": "Keep fishing, keep fishing... this is getting risky!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "拾って拾って怪しくなってくるか"
+    },
+    {
+      "start": 9.92,
+      "end": 10.86,
+      "text": "What's this?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "どうなんだこれは"
+    },
+    {
+      "start": 10.86,
+      "end": 12.3,
+      "text": "This looks bad!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "まずいのではないか"
+    },
+    {
+      "start": 12.3,
+      "end": 14.82,
+      "text": "Yeah...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いやー"
+    }
+  ],
+  "full_text": "The heat is on! That's a nair, Keep fishing, keep fishing... this is getting risky! What's this? This looks bad! Yeah...",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_index": 0,
+      "original": "水がかかっていく",
+      "corrected": "火がかかっていく"
+    },
+    {
+      "segment_index": 1,
+      "original": "空中ですから",
+      "corrected": "空Nですから"
+    }
+  ]
+}

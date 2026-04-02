@@ -1,0 +1,68 @@
+{
+  "id": "af237497-f147-4ec1-9059-e5b9a11dab6f",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.18,
+      "text": "Following up nair with nair to build damage!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "使って空Nからここの空Nでダメージを取っていきたい"
+    },
+    {
+      "start": 4.18,
+      "end": 7.46,
+      "text": "Bair connects for massive damage at crazy high percents!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空中後ろが繋がる非常に大きなパーセント非常に大きなダメージ"
+    },
+    {
+      "start": 7.46,
+      "end": 10.94,
+      "text": "Yeah, that falling nair return is insane!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "やっぱ下り空Nのリターン非常に"
+    },
+    {
+      "start": 10.94,
+      "end": 11.96,
+      "text": "OH!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ああああああ"
+    },
+    {
+      "start": 11.96,
+      "end": 14.6,
+      "text": "Marvelous Combination into the mixup!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "マーベラスコンビネーションからの読み合い"
+    }
+  ],
+  "full_text": "Following up nair with nair to build damage! Bair connects for massive damage at crazy high percents! Yeah, that falling nair return is insane! OH! Marvelous Combination into the mixup!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "空中L",
+      "corrected": "空N",
+      "rule": "move abbreviation (空N=neutral air)"
+    },
+    {
+      "segment_idx": 1,
+      "original": "空中白が繋がる非常に大きなフックマシン",
+      "corrected": "空中後ろが繋がる非常に大きなパーセント",
+      "rule": "move name + mishearing"
+    },
+    {
+      "segment_idx": 2,
+      "original": "空L",
+      "corrected": "空N",
+      "rule": "move abbreviation (空N)"
+    }
+  ]
+}

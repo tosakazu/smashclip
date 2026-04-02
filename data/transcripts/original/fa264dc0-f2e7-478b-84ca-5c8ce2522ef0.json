@@ -1,0 +1,51 @@
+{
+  "id": "fa264dc0-f2e7-478b-84ca-5c8ce2522ef0",
+  "segments": [
+    {
+      "start": 0.66,
+      "end": 1.6,
+      "text": "よっとここで",
+      "language": "ja"
+    },
+    {
+      "start": 1.6,
+      "end": 4.72,
+      "text": "浮かされとりましたがまだ大丈夫",
+      "language": "ja"
+    },
+    {
+      "start": 4.72,
+      "end": 6.52,
+      "text": "カプセルがありがたい",
+      "language": "ja"
+    },
+    {
+      "start": 6.52,
+      "end": 7.26,
+      "text": "空下",
+      "language": "ja"
+    }
+  ],
+  "full_text": "よっとここで 浮かされとりましたがまだ大丈夫 カプセルがありがたい 空下",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "予告させとりましたが",
+      "corrected": "浮かされとりましたが",
+      "rule": "misheard"
+    },
+    {
+      "segment_idx": 2,
+      "original": "キャプセル",
+      "corrected": "カプセル",
+      "rule": "misheard"
+    },
+    {
+      "segment_idx": 3,
+      "original": "空中した",
+      "corrected": "空下",
+      "rule": "misheard: 空中した→空下"
+    }
+  ]
+}

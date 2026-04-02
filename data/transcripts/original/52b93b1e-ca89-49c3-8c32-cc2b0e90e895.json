@@ -1,0 +1,39 @@
+{
+  "id": "52b93b1e-ca89-49c3-8c32-cc2b0e90e895",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.46,
+      "text": "コマ始動でうまく30%稼いでみてた",
+      "language": "ja"
+    },
+    {
+      "start": 3.46,
+      "end": 6.34,
+      "text": "転がり回避で",
+      "language": "ja"
+    },
+    {
+      "start": 6.34,
+      "end": 8.18,
+      "text": "内回避で",
+      "language": "ja"
+    },
+    {
+      "start": 8.18,
+      "end": 10.16,
+      "text": "ディスクを",
+      "language": "ja"
+    }
+  ],
+  "full_text": "コマ始動でうまく30%稼いでみてた 転がり回避で 内回避で ディスクを",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "コマ指導",
+      "corrected": "コマ始動",
+      "rule": "kanji homophone: 指導→始動"
+    }
+  ]
+}

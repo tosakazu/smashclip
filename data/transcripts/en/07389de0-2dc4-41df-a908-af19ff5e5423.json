@@ -1,0 +1,86 @@
+{
+  "id": "07389de0-2dc4-41df-a908-af19ff5e5423",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.98,
+      "text": "There's considerable startup, so you'd have to release shield to parry",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "結構遅れてねジャスガーするためにはガード解除しなきゃいけないので"
+    },
+    {
+      "start": 2.98,
+      "end": 5.16,
+      "text": "Against that, they're coming in with spaced side B",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "それに対してスカシ横Bで刺していきましたね"
+    },
+    {
+      "start": 5.16,
+      "end": 7.14,
+      "text": "Corrin's side B is a really interesting tool though, right?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "カムイ横Bは面白いパーツですよね"
+    },
+    {
+      "start": 7.14,
+      "end": 9.32,
+      "text": "Yeah, it definitely works as a spacing option too",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そうですねやはりスカシの選択肢にもなりますし"
+    },
+    {
+      "start": 9.32,
+      "end": 10.64,
+      "text": "And as an approach option",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "刺し込みの選択肢にもなるといった"
+    },
+    {
+      "start": 10.64,
+      "end": 12.92,
+      "text": "There are tons of practical situations",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "使いやすい展開が多い"
+    },
+    {
+      "start": 12.92,
+      "end": 14.4,
+      "text": "And then this one...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "あとこれは"
+    },
+    {
+      "start": 14.4,
+      "end": 15.02,
+      "text": "Well...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "一応"
+    }
+  ],
+  "full_text": "There's considerable startup, so you'd have to release shield to parry Against that, they're coming in with spaced side B Corrin's side B is a really interesting tool though, right? Yeah, it definitely works as a spacing option too And as an approach option There are tons of practical situations And then this one... Well...",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "それに対してスカシヨコビーで刺していきましたね",
+      "corrected": "それに対してスカシ横Bで刺していきましたね",
+      "rule": "Move abbreviation correction (ヨコビー → 横B)"
+    },
+    {
+      "segment_idx": 2,
+      "original": "カムイヨコビーは面白いパーツですよね",
+      "corrected": "カムイ横Bは面白いパーツですよね",
+      "rule": "Move abbreviation correction (ヨコビー → 横B)"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "52f9620d-8c36-4b91-b468-cc6848667683",
+  "segments": [
+    {
+      "start": 0.16,
+      "end": 2.86,
+      "text": "Last stock for Sisqui, he has to survive.",
+      "language": "en"
+    },
+    {
+      "start": 3.38,
+      "end": 7.64,
+      "text": "And Sisqui is gonna have to go for it, of course, the matchup is not easy.",
+      "language": "en"
+    }
+  ],
+  "full_text": "Last stock for Sisqui, he has to survive. And Sisqui is gonna have to go for it, of course, the matchup is not easy.",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "talk",
+      "corrected": "stock",
+      "rule": "smash terminology: talk→stock"
+    },
+    {
+      "segment_idx": 0,
+      "original": "Siski",
+      "corrected": "Sisqui",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 1,
+      "original": "Siski",
+      "corrected": "Sisqui",
+      "rule": "player name"
+    }
+  ]
+}

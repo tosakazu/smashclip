@@ -1,0 +1,81 @@
+{
+  "id": "09b215cd-ef15-4fe2-97bd-f5572dc168cc",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.92,
+      "text": "Got caught!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "めくってしまったか"
+    },
+    {
+      "start": 0.92,
+      "end": 2.88,
+      "text": "bair",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空後"
+    },
+    {
+      "start": 2.88,
+      "end": 5.8,
+      "text": "Buried into forward tilt!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "埋め潰して横強"
+    },
+    {
+      "start": 5.8,
+      "end": 8.42,
+      "text": "on the platform",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "台の上で"
+    },
+    {
+      "start": 8.42,
+      "end": 9.34,
+      "text": "Steadily",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "安定に"
+    },
+    {
+      "start": 9.34,
+      "end": 12.0,
+      "text": "Pressuring with grabs",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "投げの確定しない技で固めを狙っていく"
+    },
+    {
+      "start": 12.0,
+      "end": 14.16,
+      "text": "Applying pressure!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "なんか押してる"
+    },
+    {
+      "start": 14.16,
+      "end": 15.76,
+      "text": "So clean!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "うまーい"
+    },
+    {
+      "start": 15.76,
+      "end": 17.26,
+      "text": "Incredible!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "うまー"
+    }
+  ],
+  "full_text": "Got caught! bair Buried into forward tilt! on the platform Steadily Pressuring with grabs Applying pressure! So clean! Incredible!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

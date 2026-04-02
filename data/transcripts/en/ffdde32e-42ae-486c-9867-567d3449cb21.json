@@ -1,0 +1,70 @@
+{
+  "id": "ffdde32e-42ae-486c-9867-567d3449cb21",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.6,
+      "text": "Vus avoids the hadoken",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "バスがヒカリチェンジで波動拳を避けながら"
+    },
+    {
+      "start": 3.6,
+      "end": 4.74,
+      "text": "down air",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空中下"
+    },
+    {
+      "start": 4.74,
+      "end": 6.26,
+      "text": "throws it out",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "拳を突き出した"
+    },
+    {
+      "start": 6.26,
+      "end": 8.8,
+      "text": "caught them!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここで捕らえたぞ"
+    },
+    {
+      "start": 8.8,
+      "end": 9.92,
+      "text": "but just barely",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "しかしギリギリ"
+    },
+    {
+      "start": 9.92,
+      "end": 11.68,
+      "text": "wasn't in up air kill range",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空上の圏内ではありませんでした"
+    }
+  ],
+  "full_text": "Vus avoids the hadoken down air throws it out caught them! but just barely wasn't in up air kill range",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "光チェンジ",
+      "corrected": "ヒカリチェンジ",
+      "rule": "character name: 光→ヒカリ (Mythra)"
+    },
+    {
+      "segment_idx": 5,
+      "original": "空中上の前ではありませんでした",
+      "corrected": "空上の圏内ではありませんでした",
+      "rule": "misheard: 前→圏内"
+    }
+  ]
+}

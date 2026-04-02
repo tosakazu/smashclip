@@ -1,0 +1,84 @@
+{
+  "id": "824be952-18f1-4a7e-bb1a-81de41208020",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "text": "Out of shield",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "カキャンリー"
+    },
+    {
+      "start": 1.0,
+      "end": 3.62,
+      "text": "The nair won't land",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空Nビームは当たらない"
+    },
+    {
+      "start": 3.62,
+      "end": 5.5,
+      "text": "Can't approach at all",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "だいぶ近づくことができません"
+    },
+    {
+      "start": 5.5,
+      "end": 7.74,
+      "text": "Down tilt against the shield break",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ガード漏れに対して下シフト"
+    },
+    {
+      "start": 7.74,
+      "end": 10.24,
+      "text": "Yes!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "やったー"
+    },
+    {
+      "start": 10.24,
+      "end": 12.26,
+      "text": "Pushed through!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "押し切ったー"
+    },
+    {
+      "start": 12.26,
+      "end": 15.06,
+      "text": "Lost the first stock in that sequence",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "1ストック目流れで取られたもの"
+    }
+  ],
+  "full_text": "Out of shield The nair won't land Can't approach at all Down tilt against the shield break Yes! Pushed through! Lost the first stock in that sequence",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "クエノビーは当たらない",
+      "corrected": "空Nビームは当たらない",
+      "rule": "move abbreviation"
+    },
+    {
+      "segment_idx": 3,
+      "original": "カード漏れに対して下シェフト",
+      "corrected": "ガード漏れに対して下シフト",
+      "rule": "Whisper mishearing"
+    },
+    {
+      "segment_idx": 6,
+      "original": "1フット目流れで取られたもの",
+      "corrected": "1ストック目流れで取られたもの",
+      "rule": "game term"
+    }
+  ]
+}

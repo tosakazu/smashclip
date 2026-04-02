@@ -1,0 +1,26 @@
+{
+  "id": "f789da4d-1246-47c1-b4b6-60a038d7524e",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.12,
+      "text": "you're sitting there you're like I'm looking for a spin dash fair no this",
+      "language": "en"
+    },
+    {
+      "start": 3.12,
+      "end": 7.36,
+      "text": "guy's head is half his body and completely invincible so you got to be",
+      "language": "en"
+    },
+    {
+      "start": 7.36,
+      "end": 12.28,
+      "text": "very very careful about the way you approach playing it",
+      "language": "en"
+    }
+  ],
+  "full_text": "you're sitting there you're like I'm looking for a spin dash fair no this guy's head is half his body and completely invincible so you got to be very very careful about the way you approach playing it",
+  "detected_language": "en",
+  "corrections": []
+}

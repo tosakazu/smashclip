@@ -1,0 +1,94 @@
+{
+  "id": "06f6162f-e4ff-4470-951b-46f2708df5c2",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.86,
+      "text": "Out of the inside airdodge",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "内側回避から"
+    },
+    {
+      "start": 0.86,
+      "end": 2.68,
+      "text": "But you know what",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "しかしあれですね"
+    },
+    {
+      "start": 2.68,
+      "end": 3.56,
+      "text": "Character switch",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "キャラが変わって"
+    },
+    {
+      "start": 3.56,
+      "end": 5.38,
+      "text": "To Joker, who can access the long-range game too",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "遠距離戦も選べるジョーカーということで"
+    },
+    {
+      "start": 5.38,
+      "end": 7.2,
+      "text": "With spells like Begirama and Ionazun",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ベギラマとかイオナズンみたいな"
+    },
+    {
+      "start": 7.2,
+      "end": 9.3,
+      "text": "Really committing to those projectiles",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "遠距離呪文をしっかり選ぶ"
+    },
+    {
+      "start": 9.3,
+      "end": 11.0,
+      "text": "And mixing up the pace as well",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "速度も変えてきてるんですけど"
+    },
+    {
+      "start": 11.0,
+      "end": 11.72,
+      "text": "Yeah",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "うわーはい"
+    },
+    {
+      "start": 11.72,
+      "end": 12.34,
+      "text": "Right",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "はい"
+    }
+  ],
+  "full_text": "Out of the inside airdodge But you know what Character switch To Joker, who can access the long-range game too With spells like Begirama and Ionazun Really committing to those projectiles And mixing up the pace as well Yeah Right",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 4,
+      "original": "ベギラーマとかヨナズみたいな",
+      "corrected": "ベギラマとかイオナズンみたいな",
+      "rule": "Character move name correction (Hero spells)"
+    },
+    {
+      "segment_idx": 5,
+      "original": "遠距離指紋をしっかり選ぶ",
+      "corrected": "遠距離呪文をしっかり選ぶ",
+      "rule": "Kanji homophone correction (指紋 → 呪文)"
+    }
+  ]
+}

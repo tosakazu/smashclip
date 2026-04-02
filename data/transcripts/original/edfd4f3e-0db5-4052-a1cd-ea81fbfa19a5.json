@@ -1,0 +1,51 @@
+{
+  "id": "edfd4f3e-0db5-4052-a1cd-ea81fbfa19a5",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.8,
+      "text": "掘れているので",
+      "language": "ja"
+    },
+    {
+      "start": 0.8,
+      "end": 3.5,
+      "text": "ダイヤ武器もう一回ね",
+      "language": "ja"
+    },
+    {
+      "start": 3.5,
+      "end": 6.2,
+      "text": "最終ストックで現れることもおかしくはないですね",
+      "language": "ja"
+    },
+    {
+      "start": 6.2,
+      "end": 8.22,
+      "text": "ダイヤの破壊力に惑わされず",
+      "language": "ja"
+    },
+    {
+      "start": 8.22,
+      "end": 8.68,
+      "text": "直ちに",
+      "language": "ja"
+    },
+    {
+      "start": 8.68,
+      "end": 9.8,
+      "text": "ここ",
+      "language": "ja"
+    }
+  ],
+  "full_text": "掘れているので ダイヤ武器もう一回ね 最終ストックで現れることもおかしくはないですね ダイヤの破壊力に惑わされず 直ちに ここ",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "惚れているので",
+      "corrected": "掘れているので",
+      "rule": "kanji homophone: 惚れ→掘れ (mining context)"
+    }
+  ]
+}

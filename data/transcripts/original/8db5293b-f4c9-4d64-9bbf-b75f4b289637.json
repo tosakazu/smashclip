@@ -1,0 +1,62 @@
+{
+  "id": "8db5293b-f4c9-4d64-9bbf-b75f4b289637",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "何とか逃げ切ったが",
+      "language": "ja"
+    },
+    {
+      "start": 2.0,
+      "end": 4.0,
+      "text": "撃墜だけは",
+      "language": "ja"
+    },
+    {
+      "start": 4.0,
+      "end": 6.0,
+      "text": "暴れて",
+      "language": "ja"
+    },
+    {
+      "start": 6.0,
+      "end": 8.0,
+      "text": "ラインの上あくまでも",
+      "language": "ja"
+    },
+    {
+      "start": 8.0,
+      "end": 10.0,
+      "text": "じっとしていきたい",
+      "language": "ja"
+    },
+    {
+      "start": 10.0,
+      "end": 12.0,
+      "text": "ステップ潰して",
+      "language": "ja"
+    },
+    {
+      "start": 12.0,
+      "end": 14.0,
+      "text": "飛びすぎ",
+      "language": "ja"
+    },
+    {
+      "start": 14.0,
+      "end": 16.0,
+      "text": "撃墜",
+      "language": "ja"
+    },
+    {
+      "start": 16.0,
+      "end": 18.0,
+      "text": "飛びすぎ笑った",
+      "language": "ja"
+    }
+  ],
+  "full_text": "何とか逃げ切ったが 撃墜だけは 暴れて ラインの上あくまでも じっとしていきたい ステップ潰して 飛びすぎ 撃墜 飛びすぎ笑った",
+  "detected_language": "ja",
+  "corrections": []
+}

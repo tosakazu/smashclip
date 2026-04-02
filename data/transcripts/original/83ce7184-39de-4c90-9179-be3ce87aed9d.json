@@ -1,0 +1,57 @@
+{
+  "id": "83ce7184-39de-4c90-9179-be3ce87aed9d",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.06,
+      "text": "踏ん張りを切っていきます",
+      "language": "ja"
+    },
+    {
+      "start": 1.06,
+      "end": 1.96,
+      "text": "上強を",
+      "language": "ja"
+    },
+    {
+      "start": 1.96,
+      "end": 3.5,
+      "text": "ボムに対して",
+      "language": "ja"
+    },
+    {
+      "start": 3.5,
+      "end": 7.76,
+      "text": "ボムを打った後の後隙に対して空中ニュートラルで相打ちを取る形で",
+      "language": "ja"
+    },
+    {
+      "start": 7.76,
+      "end": 9.6,
+      "text": "崖から登って",
+      "language": "ja"
+    },
+    {
+      "start": 9.6,
+      "end": 10.68,
+      "text": "そのまま空後",
+      "language": "ja"
+    },
+    {
+      "start": 10.68,
+      "end": 11.14,
+      "text": "撃墜",
+      "language": "ja"
+    }
+  ],
+  "full_text": "踏ん張りを切っていきます 上強を ボムに対して ボムを打った後の後隙に対して空中ニュートラルで相打ちを取る形で 崖から登って そのまま空後 撃墜",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 5,
+      "original": "そのまま空中しろ",
+      "corrected": "そのまま空後",
+      "rule": "move name (空中しろ→空後)"
+    }
+  ]
+}

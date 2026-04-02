@@ -1,0 +1,96 @@
+{
+  "id": "92c01fee-8ed3-4e1a-a5b1-8cfcd15e899f",
+  "segments": [
+    {
+      "start": 0.16,
+      "end": 2.0,
+      "text": "Miya's stepping up his dair consistency too",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "Miyaが空中下のヒット率も上げてきた"
+    },
+    {
+      "start": 2.0,
+      "end": 4.0,
+      "text": "That's scary",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "怖いぞ"
+    },
+    {
+      "start": 4.0,
+      "end": 6.38,
+      "text": "Still surviving from decent percent",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "結構まだ死なないところで"
+    },
+    {
+      "start": 6.38,
+      "end": 7.42,
+      "text": "Side B got shut down, but",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "横Bを止められたが"
+    },
+    {
+      "start": 7.42,
+      "end": 9.16,
+      "text": "Full commit on side B",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "横B出し切る"
+    },
+    {
+      "start": 9.16,
+      "end": 11.1,
+      "text": "The smash game is insane",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "スマッシュの読み合いが怖い"
+    },
+    {
+      "start": 11.1,
+      "end": 12.74,
+      "text": "Wait actually, but the back...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いやしかし後ろ"
+    }
+  ],
+  "full_text": "Miya's stepping up his dair consistency too. That's scary. Still surviving from decent percent. Side B got shut down, but full commit on side B. The smash game is insane. Wait actually, but the back...",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "ミニアが",
+      "corrected": "Miyaが",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 0,
+      "original": "人率",
+      "corrected": "ヒット率",
+      "rule": "kanji homophone"
+    },
+    {
+      "segment_idx": 2,
+      "original": "知らないところで",
+      "corrected": "死なないところで",
+      "rule": "kanji homophone (知らない→死なない)"
+    },
+    {
+      "segment_idx": 3,
+      "original": "横行きを止められたが",
+      "corrected": "横Bを止められたが",
+      "rule": "move name (横行き→横B)"
+    },
+    {
+      "segment_idx": 4,
+      "original": "横行き出し見る",
+      "corrected": "横B出し切る",
+      "rule": "move name (横行き→横B, 見る→切る)"
+    }
+  ]
+}

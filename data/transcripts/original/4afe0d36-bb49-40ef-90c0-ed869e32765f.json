@@ -1,0 +1,50 @@
+{
+  "id": "4afe0d36-bb49-40ef-90c0-ed869e32765f",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.0,
+      "text": "先制的にはちょっと打ちにくい",
+      "language": "ja"
+    },
+    {
+      "start": 3.0,
+      "end": 4.46,
+      "text": "ストックもダウンしてますしね",
+      "language": "ja"
+    },
+    {
+      "start": 4.46,
+      "end": 5.42,
+      "text": "いやー",
+      "language": "ja"
+    },
+    {
+      "start": 5.42,
+      "end": 6.72,
+      "text": "がけ固めこれが強い",
+      "language": "ja"
+    },
+    {
+      "start": 6.72,
+      "end": 8.08,
+      "text": "さあ復帰させ",
+      "language": "ja"
+    },
+    {
+      "start": 8.08,
+      "end": 9.42,
+      "text": "見てるー",
+      "language": "ja"
+    },
+    {
+      "start": 9.42,
+      "end": 10.94,
+      "text": "決めきります",
+      "language": "ja"
+    }
+  ],
+  "full_text": "先制的にはちょっと打ちにくい ストックもダウンしてますしね いやー がけ固めこれが強い さあ復帰させ 見てるー 決めきります",
+  "detected_language": "ja",
+  "corrections": []
+}

@@ -1,0 +1,32 @@
+{
+  "id": "179fa479-e895-4df3-aa47-257954ed2f95",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.46,
+      "text": "Solid neutral play right there",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "しっかりと立ち回っていきたいところ"
+    },
+    {
+      "start": 2.46,
+      "end": 5.42,
+      "text": "There's the marvelous combo!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "まあマーベラスコンビネーションか"
+    }
+  ],
+  "full_text": "Solid neutral play right there There's the marvelous combo!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "まあベラスコンビネーションか",
+      "corrected": "まあマーベラスコンビネーションか",
+      "rule": "Move name: ベラスコンビネーション→マーベラスコンビネーション (Marth side-B)"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "id": "2b3b95a4-b589-45e7-8854-f31140c4b580",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.28,
+      "text": "上強 空上",
+      "language": "ja"
+    },
+    {
+      "start": 1.28,
+      "end": 3.82,
+      "text": "IDJ空上で繋げなかった両者が",
+      "language": "ja"
+    },
+    {
+      "start": 3.82,
+      "end": 6.94,
+      "text": "即座に展開入れ替えてくるMiya",
+      "language": "ja"
+    },
+    {
+      "start": 6.94,
+      "end": 8.86,
+      "text": "空後",
+      "language": "ja"
+    },
+    {
+      "start": 8.86,
+      "end": 9.86,
+      "text": "内変更で上",
+      "language": "ja"
+    }
+  ],
+  "full_text": "上強 空上 IDJ空上で繋げなかった両者が 即座に展開入れ替えてくるMiya 空後 内変更で上",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "上京空中上",
+      "corrected": "上強 空上",
+      "rule": "kanji homophone: 上京→上強"
+    },
+    {
+      "segment_idx": 1,
+      "original": "ロースが",
+      "corrected": "両者が",
+      "rule": "misheard: ロース→両者"
+    },
+    {
+      "segment_idx": 2,
+      "original": "ミニア",
+      "corrected": "Miya",
+      "rule": "player name: ミニア→Miya"
+    },
+    {
+      "segment_idx": 3,
+      "original": "空中後ろ",
+      "corrected": "空後",
+      "rule": "move abbrev"
+    },
+    {
+      "segment_idx": 4,
+      "original": "内偏向で上",
+      "corrected": "内変更で上",
+      "rule": "misheard: 偏向→変更 (ベク変)"
+    }
+  ]
+}

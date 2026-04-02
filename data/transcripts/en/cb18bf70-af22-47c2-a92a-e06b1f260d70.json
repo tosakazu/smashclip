@@ -1,0 +1,25 @@
+{
+  "id": "cb18bf70-af22-47c2-a92a-e06b1f260d70",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.94,
+      "text": "But what's their gameplan here?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ではありますが 何を狙っていくか"
+    },
+    {
+      "start": 2.94,
+      "end": 8.36,
+      "text": "Their strategy is definitely locked in on this close-range approach",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "カードとしてはなぁどうしてもこの近距離1本でいくカード"
+    }
+  ],
+  "full_text": "But what's their gameplan here? Their strategy is definitely locked in on this close-range approach",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

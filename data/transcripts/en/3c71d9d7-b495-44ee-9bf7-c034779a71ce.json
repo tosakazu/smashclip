@@ -1,0 +1,38 @@
+{
+  "id": "3c71d9d7-b495-44ee-9bf7-c034779a71ce",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 8.48,
+      "text": "Mild rushes in for the grab!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここで一気に走っていって掴んだのマイルドは"
+    },
+    {
+      "start": 8.48,
+      "end": 10.64,
+      "text": "Forward tilt at the ledge!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そうして崖に対しては横強して"
+    }
+  ],
+  "full_text": "Mild rushes in for the grab! Forward tilt at the ledge!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "マイホガは",
+      "corrected": "マイルドは",
+      "rule": "player name: マイルドなH.O"
+    },
+    {
+      "segment_idx": 1,
+      "original": "ウェビーに対しては",
+      "corrected": "崖に対しては",
+      "rule": "misheard: ウェビー→崖"
+    }
+  ]
+}

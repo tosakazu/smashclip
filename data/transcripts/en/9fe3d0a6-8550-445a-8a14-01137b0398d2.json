@@ -1,0 +1,64 @@
+{
+  "id": "9fe3d0a6-8550-445a-8a14-01137b0398d2",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.14,
+      "text": "Sheik launches a fireball",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そうシーツで火球一発"
+    },
+    {
+      "start": 2.14,
+      "end": 6.7,
+      "text": "The Capsule cancels it, but the remaining fireball gets reflected",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "カプセルで相殺された後に残った火球が反射されて"
+    },
+    {
+      "start": 6.7,
+      "end": 9.8,
+      "text": "Dr. Mario comes out unharmed",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ドクターマリオは無傷というような動きでしたかね"
+    },
+    {
+      "start": 9.8,
+      "end": 11.56,
+      "text": "Surprisingly with the fireball—",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "意外と火球で"
+    },
+    {
+      "start": 11.56,
+      "end": 13.14,
+      "text": "Oh, that's a forward smash!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "おっとこれは横スマッシュ"
+    },
+    {
+      "start": 13.14,
+      "end": 13.34,
+      "text": "Wait",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いや"
+    }
+  ],
+  "full_text": "Sheik launches a fireball The Capsule cancels it, but the remaining fireball gets reflected Dr. Mario comes out unharmed Surprisingly with the fireball— Oh, that's a forward smash! Wait",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 4,
+      "original": "ヨーズマッシュ",
+      "corrected": "横スマッシュ",
+      "rule": "move name (side smash)"
+    }
+  ]
+}

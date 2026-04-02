@@ -1,0 +1,54 @@
+{
+  "id": "5636f14c-4ce1-483c-8f87-12f9a1b0ffb5",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.5,
+      "text": "Will the tracking connect?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これあれですならホーミングが通るか"
+    },
+    {
+      "start": 2.5,
+      "end": 6.4,
+      "text": "Exactly - Sonic's early KO game, for better or worse, really is just",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "あれですよねソニックってよくも悪くも早期撃墜択が"
+    },
+    {
+      "start": 6.4,
+      "end": 7.82,
+      "text": "edgeguards",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "復帰阻止しかないから"
+    },
+    {
+      "start": 7.82,
+      "end": 11.54,
+      "text": "so you gotta build percent properly to seal it out",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "パーセントちゃんと貯めて撃墜するじゃないですか"
+    }
+  ],
+  "full_text": "Will the tracking connect? Exactly - Sonic's early KO game, for better or worse, really is just edgeguards so you gotta build percent properly to seal it out",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "ホーミンが通るか",
+      "corrected": "ホーミングが通るか",
+      "rule": "abbreviation expansion"
+    },
+    {
+      "segment_idx": 1,
+      "original": "撃墜タクが",
+      "corrected": "撃墜択が",
+      "rule": "abbreviation (タク→択)"
+    }
+  ]
+}

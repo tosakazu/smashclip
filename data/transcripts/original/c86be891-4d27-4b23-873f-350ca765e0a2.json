@@ -1,0 +1,26 @@
+{
+  "id": "c86be891-4d27-4b23-873f-350ca765e0a2",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.28,
+      "text": "I think that this is the best challenge for SuperDog",
+      "language": "en"
+    },
+    {
+      "start": 3.28,
+      "end": 8.18,
+      "text": "Playing difficult, right Amiya?",
+      "language": "en"
+    },
+    {
+      "start": 8.32,
+      "end": 10.14,
+      "text": "That is playing so aggressive, great!",
+      "language": "en"
+    }
+  ],
+  "full_text": "I think that this is the best challenge for SuperDog Playing difficult, right Amiya? That is playing so aggressive, great!",
+  "detected_language": "en",
+  "corrections": []
+}

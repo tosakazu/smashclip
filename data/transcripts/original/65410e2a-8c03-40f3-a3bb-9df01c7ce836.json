@@ -1,0 +1,45 @@
+{
+  "id": "65410e2a-8c03-40f3-a3bb-9df01c7ce836",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.86,
+      "text": "タイミングをコントロールしながらジャンプ上がり",
+      "language": "ja"
+    },
+    {
+      "start": 3.86,
+      "end": 8.24,
+      "text": "我慢をしてただバナナをもう一度リロードすることができた",
+      "language": "ja"
+    },
+    {
+      "start": 8.24,
+      "end": 9.54,
+      "text": "上スマッシュ届いてる",
+      "language": "ja"
+    },
+    {
+      "start": 9.54,
+      "end": 10.3,
+      "text": "これは撃墜",
+      "language": "ja"
+    }
+  ],
+  "full_text": "タイミングをコントロールしながらジャンプ上がり 我慢をしてただバナナをもう一度リロードすることができた 上スマッシュ届いてる これは撃墜",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "ウィズマッシュ",
+      "corrected": "上スマッシュ",
+      "rule": "move name (上スマ)"
+    },
+    {
+      "segment_idx": 3,
+      "original": "激戦",
+      "corrected": "撃墜",
+      "rule": "kanji homophone (げきせん→げきつい)"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "9483172e-4a3d-4233-96a6-1adc49f06d02",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.2,
+      "text": "当たらない",
+      "language": "ja"
+    },
+    {
+      "start": 1.2,
+      "end": 5.76,
+      "text": "さあちょっと怖いですね",
+      "language": "ja"
+    },
+    {
+      "start": 5.76,
+      "end": 7.84,
+      "text": "上スマッシュこれはしっかり",
+      "language": "ja"
+    }
+  ],
+  "full_text": "当たらない さあちょっと怖いですね 上スマッシュこれはしっかり",
+  "detected_language": "ja",
+  "corrections": []
+}

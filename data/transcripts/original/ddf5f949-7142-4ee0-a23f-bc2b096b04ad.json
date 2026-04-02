@@ -1,0 +1,39 @@
+{
+  "id": "ddf5f949-7142-4ee0-a23f-bc2b096b04ad",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.04,
+      "text": "Now with Limit almost back online, the spin to win, not quite connecting, but Sparg0 is going to be lurking there.",
+      "language": "en"
+    },
+    {
+      "start": 5.1,
+      "end": 9.56,
+      "text": "And you said when you're on the ledge against the Cloud with Limit, you really have to fear for your life.",
+      "language": "en"
+    },
+    {
+      "start": 9.68,
+      "end": 11.84,
+      "text": "You do, man. It's scary. Look, there you go.",
+      "language": "en"
+    }
+  ],
+  "full_text": "Now with Limit almost back online, the spin to win, not quite connecting, but Sparg0 is going to be lurking there. And you said when you're on the ledge against the Cloud with Limit, you really have to fear for your life. You do, man. It's scary. Look, there you go.",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "on the line",
+      "corrected": "online",
+      "rule": "misheard word"
+    },
+    {
+      "segment_idx": 0,
+      "original": "Zbargos",
+      "corrected": "Sparg0",
+      "rule": "player name"
+    }
+  ]
+}

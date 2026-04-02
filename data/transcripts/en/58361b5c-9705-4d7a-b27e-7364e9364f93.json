@@ -1,0 +1,40 @@
+{
+  "id": "58361b5c-9705-4d7a-b27e-7364e9364f93",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.3,
+      "text": "Link's spin attack covers all directions better",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "リンクの回転斬りの方が全方向対応で"
+    },
+    {
+      "start": 3.3,
+      "end": 4.06,
+      "text": "Wait?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "あれ?"
+    },
+    {
+      "start": 5.02,
+      "end": 5.7,
+      "text": "Uh...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "あ、な"
+    }
+  ],
+  "full_text": "Link's spin attack covers all directions better Wait? Uh...",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "グリンク",
+      "corrected": "リンク",
+      "rule": "character name"
+    }
+  ]
+}

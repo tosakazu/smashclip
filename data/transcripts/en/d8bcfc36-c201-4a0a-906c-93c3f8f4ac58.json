@@ -1,0 +1,24 @@
+{
+  "id": "d8bcfc36-c201-4a0a-906c-93c3f8f4ac58",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 9.52,
+      "text": "Fair on jump getup, extending with dash attack! Gradually building the advantage, and there's the KO off down tilt to up air!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "白これを選択します空中前をさらにジャンプ上がりに当ててDAを通していく じわりじわり追い込まれている状況下強からの空中上で撃墜"
+    }
+  ],
+  "full_text": "Fair on jump getup, extending with dash attack! Gradually building the advantage, and there's the KO off down tilt to up air!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "白これを選択します空中前をさらにジャンパーがに当てて da を通していく じわりじわり追い込まれている状況した今日からの空中上で激戦",
+      "corrected": "白これを選択します空中前をさらにジャンプ上がりに当ててDAを通していく じわりじわり追い込まれている状況下強からの空中上で撃墜",
+      "rule": "kanji homophone (下強)"
+    }
+  ]
+}

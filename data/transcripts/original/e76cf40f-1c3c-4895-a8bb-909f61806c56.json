@@ -1,0 +1,27 @@
+{
+  "id": "e76cf40f-1c3c-4895-a8bb-909f61806c56",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.8,
+      "text": "ジャンプがない!ジャンプがなければ空後攻撃が確定する!",
+      "language": "ja"
+    },
+    {
+      "start": 3.96,
+      "end": 4.92,
+      "text": "ようやく当たりましたね!",
+      "language": "ja"
+    }
+  ],
+  "full_text": "ジャンプがない!ジャンプがなければ空後攻撃が確定する! ようやく当たりましたね!",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "空中射攻撃が確定する",
+      "corrected": "空後攻撃が確定する",
+      "rule": "move abbreviation: 空後"
+    }
+  ]
+}

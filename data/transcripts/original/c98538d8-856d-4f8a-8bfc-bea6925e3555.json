@@ -1,0 +1,63 @@
+{
+  "id": "c98538d8-856d-4f8a-8bfc-bea6925e3555",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.1,
+      "text": "上手にしっかり空振りの後隙を狩った",
+      "language": "ja"
+    },
+    {
+      "start": 2.1,
+      "end": 4.8,
+      "text": "そのまま紫の空中前崖外に追いやって",
+      "language": "ja"
+    },
+    {
+      "start": 4.8,
+      "end": 5.74,
+      "text": "おっとこれは",
+      "language": "ja"
+    },
+    {
+      "start": 5.74,
+      "end": 8.3,
+      "text": "崖受け身が取れなかった後の展開",
+      "language": "ja"
+    },
+    {
+      "start": 8.3,
+      "end": 10.18,
+      "text": "メテオはかます",
+      "language": "ja"
+    },
+    {
+      "start": 10.18,
+      "end": 11.1,
+      "text": "出た",
+      "language": "ja"
+    },
+    {
+      "start": 11.1,
+      "end": 11.76,
+      "text": "よ",
+      "language": "ja"
+    }
+  ],
+  "full_text": "上手にしっかり空振りの後隙を狩った そのまま紫の空中前崖外に追いやって おっとこれは 崖受け身が取れなかった後の展開 メテオはかます 出た よ",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "宇宙舎でしっかり空振りのアトスケを買った",
+      "corrected": "上手にしっかり空振りの後隙を狩った",
+      "rule": "mishearing (後隙を狩った)"
+    },
+    {
+      "segment_idx": 5,
+      "original": "デート",
+      "corrected": "出た",
+      "rule": "mishearing"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "6c09ff52-3852-42e7-8ed1-6d5647709920",
+  "segments": [
+    {
+      "start": 1.0,
+      "end": 3.16,
+      "text": "アコーラがもう素材が心もとない",
+      "language": "ja"
+    },
+    {
+      "start": 3.16,
+      "end": 6.92,
+      "text": "この投げもちろんガードでやり過ごせ",
+      "language": "ja"
+    },
+    {
+      "start": 6.92,
+      "end": 9.32,
+      "text": "ダイヤに到達したが",
+      "language": "ja"
+    },
+    {
+      "start": 9.32,
+      "end": 13.0,
+      "text": "ポップガンから台上転倒上スマッシュ",
+      "language": "ja"
+    }
+  ],
+  "full_text": "アコーラがもう素材が心もとない この投げもちろんガードでやり過ごせ ダイヤに到達したが ポップガンから台上転倒上スマッシュ",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 3,
+      "original": "ホップガン",
+      "corrected": "ポップガン",
+      "rule": "character move name"
+    },
+    {
+      "segment_idx": 3,
+      "original": "大上",
+      "corrected": "台上",
+      "rule": "kanji homophone (だいじょう→だいじょう)"
+    }
+  ]
+}

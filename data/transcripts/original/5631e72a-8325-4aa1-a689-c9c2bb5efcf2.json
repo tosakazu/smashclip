@@ -1,0 +1,27 @@
+{
+  "id": "5631e72a-8325-4aa1-a689-c9c2bb5efcf2",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.84,
+      "text": "it's just that that steve and especially steve with the caliber of Onin and they are just going",
+      "language": "en"
+    },
+    {
+      "start": 4.84,
+      "end": 9.06,
+      "text": "to be ready for your pressure they are still going to be able to capitalize even if you have all that",
+      "language": "en"
+    }
+  ],
+  "full_text": "it's just that that steve and especially steve with the caliber of Onin and they are just going to be ready for your pressure they are still going to be able to capitalize even if you have all that",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "phone",
+      "corrected": "Onin",
+      "rule": "player name"
+    }
+  ]
+}

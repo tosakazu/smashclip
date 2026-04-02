@@ -1,0 +1,39 @@
+{
+  "id": "c4027606-8306-42b0-a385-2483d9523efc",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.52,
+      "text": "For Sin's gimmicks is up tilt comes out and 130% side B mixes up the landing, but still alive and",
+      "language": "en"
+    },
+    {
+      "start": 7.16,
+      "end": 9.16,
+      "text": "AyaLin right now doing a great job and not",
+      "language": "en"
+    }
+  ],
+  "full_text": "For Sin's gimmicks is up tilt comes out and 130% side B mixes up the landing, but still alive and AyaLin right now doing a great job and not",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "sins",
+      "corrected": "Sin's",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 0,
+      "original": "up till",
+      "corrected": "up tilt",
+      "rule": "smash term"
+    },
+    {
+      "segment_idx": 1,
+      "original": "Island",
+      "corrected": "AyaLin",
+      "rule": "player name"
+    }
+  ]
+}

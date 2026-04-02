@@ -1,0 +1,41 @@
+{
+  "id": "69d6e317-a8fc-48e2-858b-7f6bd80e736d",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.98,
+      "text": "Anti-air coverage is getting really tight!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "対空が非常にきつくなってきてる"
+    },
+    {
+      "start": 2.98,
+      "end": 3.92,
+      "text": "This angle",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "この銀の向きを"
+    },
+    {
+      "start": 3.92,
+      "end": 19.88,
+      "text": "Nice! Just barely made it!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "うまい ギリギリ届いた"
+    },
+    {
+      "start": 19.88,
+      "end": 22.18,
+      "text": "The hitbox is extending!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "判定が達していきます"
+    }
+  ],
+  "full_text": "Anti-air coverage is getting really tight! This angle Nice! Just barely made it! The hitbox is extending!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

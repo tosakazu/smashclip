@@ -1,0 +1,61 @@
+{
+  "id": "a5b65b83-2c28-4bb2-b220-eb1d4088d7f5",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.5,
+      "text": "Oh, okay.",
+      "language": "en"
+    },
+    {
+      "start": 1.5,
+      "end": 3.5,
+      "text": "Yep, nice. Good commentary, guys.",
+      "language": "en"
+    },
+    {
+      "start": 3.5,
+      "end": 5.5,
+      "text": "Yep, yep. Great.",
+      "language": "en"
+    },
+    {
+      "start": 5.5,
+      "end": 7.5,
+      "text": "Sin though, definitely hot on AyaLin's heels.",
+      "language": "en"
+    },
+    {
+      "start": 7.5,
+      "end": 9.5,
+      "text": "Just might, just to find out.",
+      "language": "en"
+    },
+    {
+      "start": 9.5,
+      "end": 10.5,
+      "text": "Won't confirm.",
+      "language": "en"
+    },
+    {
+      "start": 10.5,
+      "end": 12.5,
+      "text": "Nice! Oh! Damn!",
+      "language": "en"
+    }
+  ],
+  "full_text": "Oh, okay. Yep, nice. Good commentary, guys. Yep, yep. Great. Sin though, definitely hot on AyaLin's heels. Just might, just to find out. Won't confirm. Nice! Oh! Damn!",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "original": "Sendoh",
+      "corrected": "Sin though",
+      "reason": "プレイヤー名Sin"
+    },
+    {
+      "original": "Ireland's",
+      "corrected": "AyaLin's",
+      "reason": "プレイヤー名AyaLin"
+    }
+  ]
+}

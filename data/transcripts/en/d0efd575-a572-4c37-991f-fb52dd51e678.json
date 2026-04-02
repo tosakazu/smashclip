@@ -1,0 +1,25 @@
+{
+  "id": "d0efd575-a572-4c37-991f-fb52dd51e678",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.48,
+      "text": "That's Shuton's shine!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "くらいつかしもしかし触れたのは シュートンの光"
+    },
+    {
+      "start": 4.48,
+      "end": 6.42,
+      "text": "Victory!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "勝利権"
+    }
+  ],
+  "full_text": "That's Shuton's shine! Victory!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

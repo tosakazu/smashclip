@@ -1,0 +1,129 @@
+{
+  "id": "ef0648f3-feba-4da4-a8ff-139aa18fa5bf",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.7,
+      "text": "おー",
+      "language": "ja"
+    },
+    {
+      "start": 2.7,
+      "end": 5.26,
+      "text": "相打ちでも追いかけてくる",
+      "language": "ja"
+    },
+    {
+      "start": 5.26,
+      "end": 5.8,
+      "text": "ルイージ",
+      "language": "ja"
+    },
+    {
+      "start": 5.8,
+      "end": 8.36,
+      "text": "103",
+      "language": "ja"
+    },
+    {
+      "start": 8.36,
+      "end": 10.72,
+      "text": "おー",
+      "language": "ja"
+    },
+    {
+      "start": 10.72,
+      "end": 11.82,
+      "text": "ギリギリの間合い",
+      "language": "ja"
+    },
+    {
+      "start": 11.82,
+      "end": 14.82,
+      "text": "やはり相手の間合いのギリギリを行けるのは",
+      "language": "ja"
+    },
+    {
+      "start": 14.82,
+      "end": 16.44,
+      "text": "グラトニーの専売特許",
+      "language": "ja"
+    },
+    {
+      "start": 16.44,
+      "end": 18.96,
+      "text": "相当怖かったがここはリンク",
+      "language": "ja"
+    },
+    {
+      "start": 18.96,
+      "end": 20.74,
+      "text": "英雄の力を見せたか",
+      "language": "ja"
+    },
+    {
+      "start": 20.74,
+      "end": 22.8,
+      "text": "空中Nを撃ちながら",
+      "language": "ja"
+    },
+    {
+      "start": 22.8,
+      "end": 23.96,
+      "text": "距離を離し",
+      "language": "ja"
+    },
+    {
+      "start": 23.96,
+      "end": 26.96,
+      "text": "見てるー投げているのはらるー",
+      "language": "ja"
+    },
+    {
+      "start": 26.96,
+      "end": 27.94,
+      "text": "これは撃墜",
+      "language": "ja"
+    },
+    {
+      "start": 27.94,
+      "end": 29.98,
+      "text": "届いているー",
+      "language": "ja"
+    },
+    {
+      "start": 29.98,
+      "end": 30.4,
+      "text": "おー",
+      "language": "ja"
+    }
+  ],
+  "full_text": "おー 相打ちでも追いかけてくる ルイージ 103 おー ギリギリの間合い やはり相手の間合いのギリギリを行けるのは グラトニーの専売特許 相当怖かったがここはリンク 英雄の力を見せたか 空中Nを撃ちながら 距離を離し 見てるー投げているのはらるー これは撃墜 届いているー おー",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 7,
+      "original": "ウラトリーの先輩特許",
+      "corrected": "グラトニーの専売特許",
+      "rule": "player name + misheard: ウラトリー→グラトニー, 先輩特許→専売特許"
+    },
+    {
+      "segment_idx": 10,
+      "original": "空中に撃たながら",
+      "corrected": "空中Nを撃ちながら",
+      "rule": "misheard: 空中に→空中N"
+    },
+    {
+      "segment_idx": 11,
+      "original": "距離を剥がし",
+      "corrected": "距離を離し",
+      "rule": "misheard"
+    },
+    {
+      "segment_idx": 12,
+      "original": "ラルー",
+      "corrected": "らるー",
+      "rule": "player name"
+    }
+  ]
+}

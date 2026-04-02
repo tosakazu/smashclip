@@ -1,0 +1,33 @@
+{
+  "id": "171e6944-74b2-45c0-a52e-807c16da383b",
+  "segments": [
+    {
+      "start": 0.84,
+      "end": 6.1,
+      "text": "さあ即リードして羽も消えてしまったがこのままリード伸ばすことができるかKENセフィロス",
+      "language": "ja"
+    },
+    {
+      "start": 6.1,
+      "end": 8.92,
+      "text": "紫投げはしっかりシールド",
+      "language": "ja"
+    },
+    {
+      "start": 8.92,
+      "end": 10.6,
+      "text": "すかしつかみ",
+      "language": "ja"
+    }
+  ],
+  "full_text": "さあ即リードして羽も消えてしまったがこのままリード伸ばすことができるかKENセフィロス 紫投げはしっかりシールド すかしつかみ",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "ケンセヒロス",
+      "corrected": "KENセフィロス",
+      "rule": "Player/character name: ケンセヒロス→KENセフィロス"
+    }
+  ]
+}

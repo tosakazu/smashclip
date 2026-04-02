@@ -1,0 +1,41 @@
+{
+  "id": "ea0392de-b973-4708-8e35-03f5fc793d69",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.52,
+      "text": "Their edgeguard defense was so solid",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "撃墜拒否が上手かったんで"
+    },
+    {
+      "start": 3.52,
+      "end": 6.6,
+      "text": "they were even landing throws at around 200%,",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "結構200%とかで投げを通しているシーンもあったんですけれども"
+    },
+    {
+      "start": 6.6,
+      "end": 8.68,
+      "text": "and here the bair connects!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここはジャックから空中後ろを決めていきました"
+    },
+    {
+      "start": 8.68,
+      "end": 10.8,
+      "text": "This is the match they want to take",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "この試合は物にしたいところなんですが"
+    }
+  ],
+  "full_text": "Their edgeguard defense was so solid they were even landing throws at around 200%, and here the bair connects! This is the match they want to take",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

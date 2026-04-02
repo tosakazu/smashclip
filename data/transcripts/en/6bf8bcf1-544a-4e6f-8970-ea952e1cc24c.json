@@ -1,0 +1,32 @@
+{
+  "id": "6bf8bcf1-544a-4e6f-8970-ea952e1cc24c",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.06,
+      "text": "Incredible dodge! Fortunate that Doctor's attack didn't connect!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "回避をドクターグーパン自分に当たらなくてよかったというべきか"
+    },
+    {
+      "start": 5.06,
+      "end": 5.92,
+      "text": "What a read!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "判断"
+    }
+  ],
+  "full_text": "Incredible dodge! Fortunate that Doctor's attack didn't connect! What a read!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "当てにならなくて",
+      "corrected": "に当たらなくて",
+      "rule": "Whisper mishearing"
+    }
+  ]
+}

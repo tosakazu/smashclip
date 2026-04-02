@@ -1,0 +1,33 @@
+{
+  "id": "37a49f04-9440-4662-9a43-25cba7158ce3",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.4,
+      "text": "retreating the ledge way more he figured that out after the second stock in game number two",
+      "language": "en"
+    },
+    {
+      "start": 4.4,
+      "end": 9.12,
+      "text": "so i feel like now he's starting to really figure out how to play defense against the",
+      "language": "en"
+    },
+    {
+      "start": 9.12,
+      "end": 12.08,
+      "text": "unstoppable force yeah because oh he's not going to escape from",
+      "language": "en"
+    }
+  ],
+  "full_text": "retreating the ledge way more he figured that out after the second stock in game number two so i feel like now he's starting to really figure out how to play defense against the unstoppable force yeah because oh he's not going to escape from",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "slot",
+      "corrected": "stock",
+      "rule": "Smash term"
+    }
+  ]
+}

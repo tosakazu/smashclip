@@ -1,0 +1,56 @@
+{
+  "id": "fe1dd4f1-b293-4bef-b111-45fa433bab55",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.6,
+      "text": "If they can secure the KO here at the ledge, that's massive",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "この崖で仕留めきれればかなり大きいというところで"
+    },
+    {
+      "start": 2.6,
+      "end": 4.16,
+      "text": "Going aggressive with Dolphin Slash",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "強気にドルフィンスラッシュを打っていく"
+    },
+    {
+      "start": 4.16,
+      "end": 6.46,
+      "text": "Airdodges through and back throw!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "回避も通して後ろ投げ"
+    },
+    {
+      "start": 6.46,
+      "end": 9.82,
+      "text": "Up B once on the opposite side",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "反対側に1回上Bを出して"
+    },
+    {
+      "start": 9.82,
+      "end": 12.02,
+      "text": "First up B is kinda...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "上B1回目はちょっと"
+    }
+  ],
+  "full_text": "If they can secure the KO here at the ledge, that's massive Going aggressive with Dolphin Slash Airdodges through and back throw! Up B once on the opposite side First up B is kinda...",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "ドロフィンスラッシュ",
+      "corrected": "ドルフィンスラッシュ",
+      "rule": "move name typo"
+    }
+  ]
+}

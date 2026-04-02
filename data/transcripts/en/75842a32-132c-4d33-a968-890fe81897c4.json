@@ -1,0 +1,136 @@
+{
+  "id": "75842a32-132c-4d33-a968-890fe81897c4",
+  "segments": [
+    {
+      "start": 0.88,
+      "end": 1.8,
+      "text": "off the fair",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空中前で"
+    },
+    {
+      "start": 1.8,
+      "end": 3.76,
+      "text": "finishes the combo",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "コンボを締めます"
+    },
+    {
+      "start": 3.76,
+      "end": 6.08,
+      "text": "The percent difference here",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここのパーセントリード差"
+    },
+    {
+      "start": 6.08,
+      "end": 7.5,
+      "text": "gets really important",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "結構大事になってくるぞ"
+    },
+    {
+      "start": 7.5,
+      "end": 10.22,
+      "text": "The lead is at 16 percent",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "現在リードは16%"
+    },
+    {
+      "start": 10.22,
+      "end": 12.22,
+      "text": "One hit for about 20 percent",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "一発当たって20%程度の"
+    },
+    {
+      "start": 12.22,
+      "end": 13.02,
+      "text": "Kuroshio",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "この黒船選手"
+    },
+    {
+      "start": 13.02,
+      "end": 14.84,
+      "text": "Forward smash!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "横スマッシュ!"
+    },
+    {
+      "start": 15.38,
+      "end": 17.14,
+      "text": "Gets it!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "撃ち抜いたー!"
+    },
+    {
+      "start": 23.36,
+      "end": 25.16,
+      "text": "And you can see it on camera",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあそしてカメラにも映ってると思いますが"
+    },
+    {
+      "start": 25.16,
+      "end": 27.8,
+      "text": "Kuroshio's signature is all this crazy pop-off movement",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "黒船選手の名物はこのめちゃくちゃ歩くポップオフです"
+    },
+    {
+      "start": 30.0,
+      "end": 31.3,
+      "text": "covers so much ground",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "走行距離が長い"
+    },
+    {
+      "start": 31.3,
+      "end": 37.5,
+      "text": "Yeah, Kuroshio's footwork in that final exchange",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いやー黒船選手最後のステップ回りで"
+    },
+    {
+      "start": 37.5,
+      "end": 39.34,
+      "text": "was really mixing up Amame",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "かなり雨飴選手を揺さぶっていたので"
+    },
+    {
+      "start": 39.34,
+      "end": 42.36,
+      "text": "thought a forward smash was coming",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "横スマが来るのかなと思っていたのですが"
+    }
+  ],
+  "full_text": "off the fair finishes the combo The percent difference here gets really important The lead is at 16 percent One hit for about 20 percent Kuroshio Forward smash! Gets it! And you can see it on camera Kuroshio's signature is all this crazy pop-off movement covers so much ground Yeah, Kuroshio's footwork in that final exchange was really mixing up Amame thought a forward smash was coming",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 13,
+      "original": "上目選手",
+      "corrected": "雨飴選手",
+      "rule": "player name"
+    }
+  ]
+}

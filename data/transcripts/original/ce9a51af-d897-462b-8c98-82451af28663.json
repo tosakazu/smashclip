@@ -1,0 +1,39 @@
+{
+  "id": "ce9a51af-d897-462b-8c98-82451af28663",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.78,
+      "text": "なんとか着地できた",
+      "language": "ja"
+    },
+    {
+      "start": 1.78,
+      "end": 3.38,
+      "text": "掴みは通れ",
+      "language": "ja"
+    },
+    {
+      "start": 3.38,
+      "end": 6.84,
+      "text": "リードを取ったスティーブの掴みはもはや必中だ",
+      "language": "ja"
+    },
+    {
+      "start": 6.84,
+      "end": 8.18,
+      "text": "金床の地上判定",
+      "language": "ja"
+    }
+  ],
+  "full_text": "なんとか着地できた 掴みは通れ リードを取ったスティーブの掴みはもはや必中だ 金床の地上判定",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 3,
+      "original": "金子の地上反転",
+      "corrected": "金床の地上判定",
+      "rule": "smash term (金床=anvil, 判定=hitbox)"
+    }
+  ]
+}

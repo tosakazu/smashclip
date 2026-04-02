@@ -1,0 +1,39 @@
+{
+  "id": "0900687a-eeb4-49bc-b056-e7634d21d39d",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.06,
+      "text": "Oh my goodness, if you got the spike, you would have got the stock there.",
+      "language": "en"
+    },
+    {
+      "start": 3.96,
+      "end": 7.84,
+      "text": "Atreus going to get a second chance here on this first stock because that down air is sending outwards.",
+      "language": "en"
+    },
+    {
+      "start": 9.98,
+      "end": 13.46,
+      "text": "Juggle situation, the up air, and Atreus, this time game number two.",
+      "language": "en"
+    }
+  ],
+  "full_text": "Oh my goodness, if you got the spike, you would have got the stock there. Atreus going to get a second chance here on this first stock because that down air is sending outwards. Juggle situation, the up air, and Atreus, this time game number two.",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "Oh my goodness, if you got the spike, you would have got the stalk there.",
+      "corrected": "Oh my goodness, if you got the spike, you would have got the stock there.",
+      "rule": "Smash terminology correction (stalk → stock)"
+    },
+    {
+      "segment_idx": 1,
+      "original": "Atreus going to get a second chance here on this first stalk because that downer is sending outwards.",
+      "corrected": "Atreus going to get a second chance here on this first stock because that down air is sending outwards.",
+      "rule": "Smash terminology correction (stalk → stock, downer → down air)"
+    }
+  ]
+}

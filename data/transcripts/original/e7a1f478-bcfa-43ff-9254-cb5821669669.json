@@ -1,0 +1,87 @@
+{
+  "id": "e7a1f478-bcfa-43ff-9254-cb5821669669",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.32,
+      "text": "それでも掴む",
+      "language": "ja"
+    },
+    {
+      "start": 1.32,
+      "end": 4.78,
+      "text": "より近距離を制していくのは",
+      "language": "ja"
+    },
+    {
+      "start": 4.78,
+      "end": 5.42,
+      "text": "Miya側",
+      "language": "ja"
+    },
+    {
+      "start": 5.42,
+      "end": 6.5,
+      "text": "攻撃上がりを",
+      "language": "ja"
+    },
+    {
+      "start": 6.5,
+      "end": 8.04,
+      "text": "引きで透かして",
+      "language": "ja"
+    },
+    {
+      "start": 8.04,
+      "end": 9.82,
+      "text": "位置調整が素晴らしい",
+      "language": "ja"
+    },
+    {
+      "start": 9.82,
+      "end": 10.94,
+      "text": "完全に誘ってましたね",
+      "language": "ja"
+    },
+    {
+      "start": 10.94,
+      "end": 12.42,
+      "text": "思わせぶりな",
+      "language": "ja"
+    },
+    {
+      "start": 12.42,
+      "end": 14.9,
+      "text": "引き出しですが後ろ投げ",
+      "language": "ja"
+    },
+    {
+      "start": 14.9,
+      "end": 16.76,
+      "text": "まだ展開いるからなりそう",
+      "language": "ja"
+    },
+    {
+      "start": 16.76,
+      "end": 17.86,
+      "text": "空中後ろ",
+      "language": "ja"
+    }
+  ],
+  "full_text": "それでも掴む より近距離を制していくのは Miya側 攻撃上がりを 引きで透かして 位置調整が素晴らしい 完全に誘ってましたね 思わせぶりな 引き出しですが後ろ投げ まだ展開いるからなりそう 空中後ろ",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "宮川",
+      "corrected": "Miya側",
+      "rule": "player name: Miya"
+    },
+    {
+      "segment_idx": 4,
+      "original": "ビリーで透かして",
+      "corrected": "引きで透かして",
+      "rule": "misheard: 引き"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "fcd364ed-6a2e-41ea-929a-b4338c23d30a",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.18,
+      "text": "think Talon would have been fine but the fact that Hurt is for lack of a better term just",
+      "language": "en"
+    },
+    {
+      "start": 3.18,
+      "end": 7.48,
+      "text": "running at Sisqui consistently I feel like Samus is just getting a little bit too overwhelmed",
+      "language": "en"
+    },
+    {
+      "start": 7.48,
+      "end": 11.8,
+      "text": "that's good out of shield options but the projectiles aren't really fast enough we do",
+      "language": "en"
+    }
+  ],
+  "full_text": "think Talon would have been fine but the fact that Hurt is for lack of a better term just running at Sisqui consistently I feel like Samus is just getting a little bit too overwhelmed that's good out of shield options but the projectiles aren't really fast enough we do",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "Siskiy",
+      "corrected": "Sisqui",
+      "rule": "player name"
+    }
+  ]
+}

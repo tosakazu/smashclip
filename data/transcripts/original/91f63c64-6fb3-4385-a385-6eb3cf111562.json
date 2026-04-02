@@ -1,0 +1,56 @@
+{
+  "id": "91f63c64-6fb3-4385-a385-6eb3cf111562",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.06,
+      "text": "空中へ繋いでいってこの着地狩り",
+      "language": "ja"
+    },
+    {
+      "start": 2.06,
+      "end": 4.24,
+      "text": "バギーまで暴れる",
+      "language": "ja"
+    },
+    {
+      "start": 4.24,
+      "end": 6.3,
+      "text": "限界まで引き付けましたね",
+      "language": "ja"
+    },
+    {
+      "start": 6.3,
+      "end": 7.76,
+      "text": "ベギラマー中距離",
+      "language": "ja"
+    },
+    {
+      "start": 7.76,
+      "end": 9.1,
+      "text": "そして溜める",
+      "language": "ja"
+    },
+    {
+      "start": 9.1,
+      "end": 10.24,
+      "text": "メラゾーマ撃っていきますが",
+      "language": "ja"
+    },
+    {
+      "start": 10.24,
+      "end": 11.76,
+      "text": "ここは冷静にシールドが",
+      "language": "ja"
+    },
+    {
+      "start": 11.76,
+      "end": 12.64,
+      "text": "ダッシュ攻撃",
+      "language": "ja"
+    }
+  ],
+  "full_text": "空中へ繋いでいってこの着地狩り バギーまで暴れる 限界まで引き付けましたね ベギラマー中距離 そして溜める メラゾーマ撃っていきますが ここは冷静にシールドが ダッシュ攻撃",
+  "detected_language": "ja",
+  "corrections": []
+}

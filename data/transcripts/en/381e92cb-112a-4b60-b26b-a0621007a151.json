@@ -1,0 +1,130 @@
+{
+  "id": "381e92cb-112a-4b60-b26b-a0621007a151",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.8,
+      "text": "He can grab it!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "獲得できるぞ"
+    },
+    {
+      "start": 0.8,
+      "end": 2.46,
+      "text": "There it is!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "当てとした今日"
+    },
+    {
+      "start": 2.46,
+      "end": 3.42,
+      "text": "Regrab!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "掴み直し"
+    },
+    {
+      "start": 3.42,
+      "end": 4.6,
+      "text": "Even so, Cola...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "とはいえあcolaも"
+    },
+    {
+      "start": 4.6,
+      "end": 5.88,
+      "text": "Didn't follow up!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "2回目の手伝いをしなかった"
+    },
+    {
+      "start": 5.88,
+      "end": 8.74,
+      "text": "Fair doesn't KO yet",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空前まだ撃墜はしない"
+    },
+    {
+      "start": 8.74,
+      "end": 10.68,
+      "text": "Falling bair",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "降り空後"
+    },
+    {
+      "start": 10.68,
+      "end": 11.64,
+      "text": "Following up!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "トロッコに対して追撃"
+    },
+    {
+      "start": 11.64,
+      "end": 13.12,
+      "text": "Right there!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "トロッコが目の前"
+    },
+    {
+      "start": 13.12,
+      "end": 13.68,
+      "text": "Just barely!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "スレスレ"
+    },
+    {
+      "start": 13.68,
+      "end": 14.88,
+      "text": "Off the stage!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "連れ去られた"
+    },
+    {
+      "start": 14.88,
+      "end": 16.48,
+      "text": "Fair",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空前"
+    }
+  ],
+  "full_text": "He can grab it! There it is! Regrab! Even so, Cola... Didn't follow up! Fair doesn't KO yet Falling bair Following up! Right there! Just barely! Off the stage! Fair",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 3,
+      "original": "アコーラ",
+      "corrected": "あcola",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 5,
+      "original": "くじゅうまい",
+      "corrected": "空前",
+      "rule": "misheard: くじゅうまい→空前"
+    },
+    {
+      "segment_idx": 6,
+      "original": "おりくじゅうしろ",
+      "corrected": "降り空後",
+      "rule": "misheard: おりくじゅうしろ→降り空後"
+    },
+    {
+      "segment_idx": 11,
+      "original": "くじゅうまい",
+      "corrected": "空前",
+      "rule": "misheard: くじゅうまい→空前"
+    }
+  ]
+}

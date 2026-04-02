@@ -1,0 +1,57 @@
+{
+  "id": "eb003c94-a8c5-490f-bbdd-cdf32ba7dbd6",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.3,
+      "text": "Trying to go for that up air that he needs, like, right now.",
+      "language": "en"
+    },
+    {
+      "start": 2.6,
+      "end": 5.26,
+      "text": "Trying to catch a jump as there into the up smash.",
+      "language": "en"
+    },
+    {
+      "start": 5.38,
+      "end": 6.72,
+      "text": "Had to show it's not going to work out.",
+      "language": "en"
+    },
+    {
+      "start": 7.34,
+      "end": 8.92,
+      "text": "Lui$ on the chase, on the prowl.",
+      "language": "en"
+    },
+    {
+      "start": 8.98,
+      "end": 9.7,
+      "text": "Down tilt doesn't connect.",
+      "language": "en"
+    },
+    {
+      "start": 9.78,
+      "end": 10.88,
+      "text": "Trying to catch a jump as well.",
+      "language": "en"
+    },
+    {
+      "start": 10.92,
+      "end": 12.42,
+      "text": "But finally, the second one does.",
+      "language": "en"
+    }
+  ],
+  "full_text": "Trying to go for that up air that he needs, like, right now. Trying to catch a jump as there into the up smash. Had to show it's not going to work out. Lui$ on the chase, on the prowl. Down tilt doesn't connect. Trying to catch a jump as well. But finally, the second one does.",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 3,
+      "original": "Luis",
+      "corrected": "Lui$",
+      "rule": "player name"
+    }
+  ]
+}

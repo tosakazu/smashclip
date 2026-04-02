@@ -1,0 +1,121 @@
+{
+  "id": "a40614b8-cc01-4bc9-9d0d-4899332f1f04",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.72,
+      "text": "この攻撃は許さない 変更を見て空中前",
+      "language": "ja"
+    },
+    {
+      "start": 3.86,
+      "end": 6.28,
+      "text": "空中グラブ 空中グラブ",
+      "language": "ja"
+    },
+    {
+      "start": 6.28,
+      "end": 7.36,
+      "text": "やばずい!",
+      "language": "ja"
+    },
+    {
+      "start": 7.36,
+      "end": 9.58,
+      "text": "投げているのはらる 後ろ投げ",
+      "language": "ja"
+    },
+    {
+      "start": 9.58,
+      "end": 13.58,
+      "text": "爆弾を手早く除去して 崖の上",
+      "language": "ja"
+    },
+    {
+      "start": 13.58,
+      "end": 15.58,
+      "text": "142 約15.7",
+      "language": "ja"
+    },
+    {
+      "start": 15.58,
+      "end": 18.76,
+      "text": "満身創痍のグルトニー",
+      "language": "ja"
+    },
+    {
+      "start": 18.76,
+      "end": 20.82,
+      "text": "回避を切らされた",
+      "language": "ja"
+    },
+    {
+      "start": 20.82,
+      "end": 22.86,
+      "text": "早めの回転切り 返ってくる",
+      "language": "ja"
+    },
+    {
+      "start": 22.86,
+      "end": 24.86,
+      "text": "そっちで帰るんだ 復帰かと思ったけど",
+      "language": "ja"
+    },
+    {
+      "start": 24.86,
+      "end": 27.86,
+      "text": "ガード固めて 上スマ",
+      "language": "ja"
+    },
+    {
+      "start": 27.86,
+      "end": 30.18,
+      "text": "なるほどめくるかめくらないかわかんないときは確かに上",
+      "language": "ja"
+    }
+  ],
+  "full_text": "この攻撃は許さない 変更を見て空中前 空中グラブ 空中グラブ やばずい! 投げているのはらる 後ろ投げ 爆弾を手早く除去して 崖の上 142 約15.7 満身創痍のグルトニー 回避を切らされた 早めの回転切り 返ってくる そっちで帰るんだ 復帰かと思ったけど ガード固めて 上スマ なるほどめくるかめくらないかわかんないときは確かに上",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "original": "空中グラップ",
+      "corrected": "空中グラブ",
+      "reason": "aerial grab（空中つかみ）"
+    },
+    {
+      "original": "きばずい",
+      "corrected": "やばずい",
+      "reason": "やばい＋まずいの俗語"
+    },
+    {
+      "original": "ラル",
+      "corrected": "らる",
+      "reason": "プレイヤー名らる"
+    },
+    {
+      "original": "ヤクジュウゴウテン7",
+      "corrected": "約15.7",
+      "reason": "パーセンテージ表記"
+    },
+    {
+      "original": "ピラトニー",
+      "corrected": "グルトニー",
+      "reason": "プレイヤー名Glutonny"
+    },
+    {
+      "original": "本吹かと思ったけど",
+      "corrected": "復帰かと思ったけど",
+      "reason": "復帰（ステージに戻る）"
+    },
+    {
+      "original": "ゴースト固めて",
+      "corrected": "ガード固めて",
+      "reason": "ガード（シールド）を固める"
+    },
+    {
+      "original": "上すまん",
+      "corrected": "上スマ",
+      "reason": "上スマッシュの略称"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": "2f020d6e-b803-4ba8-9b67-3701c9ec628f",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.3,
+      "text": "少しタイミングをずらした中足でありましたが",
+      "language": "ja"
+    },
+    {
+      "start": 3.3,
+      "end": 3.72,
+      "text": "灼熱",
+      "language": "ja"
+    },
+    {
+      "start": 3.72,
+      "end": 6.2,
+      "text": "追い込んでいくが空中攻撃",
+      "language": "ja"
+    },
+    {
+      "start": 6.2,
+      "end": 7.44,
+      "text": "置き方がうまい",
+      "language": "ja"
+    },
+    {
+      "start": 7.44,
+      "end": 8.16,
+      "text": "うまいな",
+      "language": "ja"
+    }
+  ],
+  "full_text": "少しタイミングをずらした中足でありましたが 灼熱 追い込んでいくが空中攻撃 置き方がうまい うまいな",
+  "detected_language": "ja",
+  "corrections": []
+}

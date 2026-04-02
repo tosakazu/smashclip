@@ -1,0 +1,33 @@
+{
+  "id": "27b7a2ca-207b-4f28-9ef2-c3faffdac103",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.76,
+      "text": "Going in with the nair!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "でいきます空Nを通す"
+    },
+    {
+      "start": 1.76,
+      "end": 5.76,
+      "text": "Coming back with up B!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "上必殺技で戻ってきつつ"
+    },
+    {
+      "start": 5.76,
+      "end": 8.52,
+      "text": "And that side B is rough!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そしてこれは横必殺技つらー"
+    }
+  ],
+  "full_text": "Going in with the nair! Coming back with up B! And that side B is rough!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

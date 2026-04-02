@@ -1,0 +1,45 @@
+{
+  "id": "0798eea7-7e0d-4d2e-a26a-41e114de3184",
+  "segments": [
+    {
+      "start": 0.8,
+      "end": 2.28,
+      "text": "さあ上で叩く空上",
+      "language": "ja"
+    },
+    {
+      "start": 2.28,
+      "end": 4.08,
+      "text": "火力が稼がれた79%",
+      "language": "ja"
+    },
+    {
+      "start": 4.08,
+      "end": 5.16,
+      "text": "ピンチの状況が続きます",
+      "language": "ja"
+    },
+    {
+      "start": 5.16,
+      "end": 7.68,
+      "text": "いや苦しい展開だ",
+      "language": "ja"
+    },
+    {
+      "start": 7.68,
+      "end": 10.18,
+      "text": "復帰阻止に関しては正直",
+      "language": "ja"
+    }
+  ],
+  "full_text": "さあ上で叩く空上 火力が稼がれた79% ピンチの状況が続きます いや苦しい展開だ 復帰阻止に関しては正直",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "さあ上で叩く宇宙へ",
+      "corrected": "さあ上で叩く空上",
+      "rule": "Move abbreviation correction (宇宙へ → 空上)"
+    }
+  ]
+}

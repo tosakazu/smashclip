@@ -1,0 +1,48 @@
+{
+  "id": "91c23c87-afea-435e-a187-53990057e4ce",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.22,
+      "text": "Dodge!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "避ける!"
+    },
+    {
+      "start": 1.54,
+      "end": 2.58,
+      "text": "Hitbox is out!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "攻撃判定出ている!"
+    },
+    {
+      "start": 2.78,
+      "end": 5.48,
+      "text": "Hitting the tree gives invincibility frames!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これも木に当てているので無敵状態です"
+    },
+    {
+      "start": 5.48,
+      "end": 9.56,
+      "text": "Brawler is invincible while using Flash Mach Punch!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "閃光マッハパンチを撃っている状態の格闘Miiは無敵状態なので"
+    }
+  ],
+  "full_text": "Dodge! Hitbox is out! Hitting the tree gives invincibility frames! Brawler is invincible while using Flash Mach Punch!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 3,
+      "original": "格闘兵",
+      "corrected": "格闘Mii",
+      "rule": "character name"
+    }
+  ]
+}

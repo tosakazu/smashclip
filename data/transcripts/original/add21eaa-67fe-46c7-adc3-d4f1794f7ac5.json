@@ -1,0 +1,32 @@
+{
+  "id": "add21eaa-67fe-46c7-adc3-d4f1794f7ac5",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.96,
+      "text": "そういった展開から自分のターンを作る",
+      "language": "ja"
+    },
+    {
+      "start": 2.96,
+      "end": 4.92,
+      "text": "そういったのができるようになってきているのかな",
+      "language": "ja"
+    },
+    {
+      "start": 4.92,
+      "end": 5.4,
+      "text": "そうですね",
+      "language": "ja"
+    },
+    {
+      "start": 5.4,
+      "end": 6.56,
+      "text": "上スマッシュ",
+      "language": "ja"
+    }
+  ],
+  "full_text": "そういった展開から自分のターンを作る そういったのができるようになってきているのかな そうですね 上スマッシュ",
+  "detected_language": "ja",
+  "corrections": []
+}

@@ -1,0 +1,65 @@
+{
+  "id": "fc831e65-bc2b-4cce-9a44-7f61eadfb225",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.82,
+      "text": "That won't hit",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これは当たらない"
+    },
+    {
+      "start": 0.82,
+      "end": 2.86,
+      "text": "Sonic, yeah",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ソニックね"
+    },
+    {
+      "start": 2.86,
+      "end": 5.0,
+      "text": "One Sonic counter",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ソニック対策として一つ"
+    },
+    {
+      "start": 5.0,
+      "end": 8.08,
+      "text": "Punishing that Spin is really the key",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "やっぱりスピンの狩り方というのが大事になってきますが"
+    },
+    {
+      "start": 8.08,
+      "end": 8.82,
+      "text": "Maiho...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "マイホがね"
+    },
+    {
+      "start": 8.82,
+      "end": 11.98,
+      "text": "How they approach this from here is interesting",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そこをどういう風に持ってくるか気になるところではあります"
+    },
+    {
+      "start": 11.98,
+      "end": 12.5,
+      "text": "Here we go",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあ"
+    }
+  ],
+  "full_text": "That won't hit. Sonic, yeah. One Sonic counter. Punishing that Spin is really the key. Maiho... How they approach this from here is interesting. Here we go.",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

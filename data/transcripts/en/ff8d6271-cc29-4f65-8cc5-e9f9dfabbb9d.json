@@ -1,0 +1,84 @@
+{
+  "id": "ff8d6271-cc29-4f65-8cc5-e9f9dfabbb9d",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.26,
+      "text": "On this inside landing, Yaura...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "この内側への着地もやはりYauraは"
+    },
+    {
+      "start": 2.26,
+      "end": 4.22,
+      "text": "cleanly edgeguards!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "しっかりと狩り取ってみせる"
+    },
+    {
+      "start": 4.22,
+      "end": 6.04,
+      "text": "Now, a calm grab",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあ焦らない掴み"
+    },
+    {
+      "start": 6.04,
+      "end": 8.18,
+      "text": "Places a nair at the ledge, but...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "崖展開空Nを置きますが"
+    },
+    {
+      "start": 8.18,
+      "end": 10.08,
+      "text": "Wants the bair",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "取りたい空後"
+    },
+    {
+      "start": 10.08,
+      "end": 12.12,
+      "text": "Up tilt—wait, it's up air!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "上強いや違う空上だ"
+    },
+    {
+      "start": 12.12,
+      "end": 12.94,
+      "text": "Locks it down!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "固めて"
+    }
+  ],
+  "full_text": "On this inside landing, Yaura... cleanly edgeguards! Now, a calm grab Places a nair at the ledge, but... Wants the bair Up tilt—wait, it's up air! Locks it down!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "矢浦",
+      "corrected": "Yaura",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 3,
+      "original": "学電界空中ザラを置きますが",
+      "corrected": "崖展開空Nを置きますが",
+      "rule": "misheard"
+    },
+    {
+      "segment_idx": 4,
+      "original": "空中しろ",
+      "corrected": "空後",
+      "rule": "misheard: 空中しろ→空後"
+    }
+  ]
+}

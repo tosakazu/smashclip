@@ -1,0 +1,54 @@
+{
+  "id": "c3a3ca92-6501-4ed7-a9a3-23313c9c2fc7",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.34,
+      "text": "No!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ちゃうんで"
+    },
+    {
+      "start": 3.34,
+      "end": 7.74,
+      "text": "Breaking through with range!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "リーチで打開していって"
+    },
+    {
+      "start": 7.74,
+      "end": 10.84,
+      "text": "That recovery off the hit is clean!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあこの飛ばした復帰がうまい"
+    },
+    {
+      "start": 10.84,
+      "end": 12.04,
+      "text": "Back air—",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空中後ろその"
+    }
+  ],
+  "full_text": "No! Breaking through with range! That recovery off the hit is clean! Back air—",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "リエ",
+      "corrected": "リーチ",
+      "rule": "misheard word"
+    },
+    {
+      "segment_idx": 3,
+      "original": "空中しろ",
+      "corrected": "空中後ろ",
+      "rule": "misheard move name"
+    }
+  ]
+}

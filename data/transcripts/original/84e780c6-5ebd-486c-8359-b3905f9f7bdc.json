@@ -1,0 +1,63 @@
+{
+  "id": "84e780c6-5ebd-486c-8359-b3905f9f7bdc",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.98,
+      "text": "ピオリム状態",
+      "language": "ja"
+    },
+    {
+      "start": 3.98,
+      "end": 5.36,
+      "text": "体重も軽くなるんでね",
+      "language": "ja"
+    },
+    {
+      "start": 5.36,
+      "end": 8.92,
+      "text": "若干撃墜怖いところですが",
+      "language": "ja"
+    },
+    {
+      "start": 8.92,
+      "end": 10.94,
+      "text": "今の横スマホールド時間中にピオリムがなくなる",
+      "language": "ja"
+    },
+    {
+      "start": 10.94,
+      "end": 11.96,
+      "text": "それでも撃墜",
+      "language": "ja"
+    }
+  ],
+  "full_text": "ピオリム状態 体重も軽くなるんでね 若干撃墜怖いところですが 今の横スマホールド時間中にピオリムがなくなる それでも撃墜",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "ピューリム",
+      "corrected": "ピオリム",
+      "rule": "spell name (ピューリム→ピオリム)"
+    },
+    {
+      "segment_idx": 2,
+      "original": "激戦",
+      "corrected": "撃墜",
+      "rule": "kanji homophone (激戦→撃墜)"
+    },
+    {
+      "segment_idx": 3,
+      "original": "ピューリム",
+      "corrected": "ピオリム",
+      "rule": "spell name"
+    },
+    {
+      "segment_idx": 4,
+      "original": "超相撲つ",
+      "corrected": "撃墜",
+      "rule": "misheard word"
+    }
+  ]
+}

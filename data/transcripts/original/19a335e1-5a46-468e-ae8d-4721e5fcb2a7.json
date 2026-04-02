@@ -1,0 +1,39 @@
+{
+  "id": "19a335e1-5a46-468e-ae8d-4721e5fcb2a7",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.38,
+      "text": "ここからのプレッシャーっていうのはねすごいものがありますよと乗り越えられるかYン選手",
+      "language": "ja"
+    },
+    {
+      "start": 6.38,
+      "end": 8.36,
+      "text": "ステップに合わせていきます",
+      "language": "ja"
+    },
+    {
+      "start": 8.36,
+      "end": 11.5,
+      "text": "ここの復帰が難しいですね",
+      "language": "ja"
+    }
+  ],
+  "full_text": "ここからのプレッシャーっていうのはねすごいものがありますよと乗り越えられるかYン選手 ステップに合わせていきます ここの復帰が難しいですね",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "ワイン選手",
+      "corrected": "Yン選手",
+      "rule": "Player name: ワイン→Yン"
+    },
+    {
+      "segment_idx": 2,
+      "original": "ここの吹っ切ると難しいですね",
+      "corrected": "ここの復帰が難しいですね",
+      "rule": "Garbled transcription: 吹っ切ると→復帰が (Little Mac recovery is weak)"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "id": "f68562da-7710-4bad-8a03-370a8b00de83",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.36,
+      "text": "あcolaが命を取りに来る",
+      "language": "ja"
+    },
+    {
+      "start": 1.36,
+      "end": 3.4,
+      "text": "空前から空後",
+      "language": "ja"
+    },
+    {
+      "start": 3.4,
+      "end": 5.86,
+      "text": "復帰展開どうだ",
+      "language": "ja"
+    },
+    {
+      "start": 5.86,
+      "end": 7.18,
+      "text": "かなり地獄だぞ",
+      "language": "ja"
+    },
+    {
+      "start": 7.18,
+      "end": 8.42,
+      "text": "これは地獄",
+      "language": "ja"
+    }
+  ],
+  "full_text": "あcolaが命を取りに来る 空前から空後 復帰展開どうだ かなり地獄だぞ これは地獄",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "アコーラ",
+      "corrected": "あcola",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 1,
+      "original": "空中から空中しろ",
+      "corrected": "空前から空後",
+      "rule": "misheard: 空中しろ→空後"
+    }
+  ]
+}

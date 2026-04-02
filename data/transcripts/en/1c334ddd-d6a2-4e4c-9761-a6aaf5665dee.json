@@ -1,0 +1,72 @@
+{
+  "id": "1c334ddd-d6a2-4e4c-9761-a6aaf5665dee",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Against that Sonic—",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "あのソニックに対して"
+    },
+    {
+      "start": 2.0,
+      "end": 4.0,
+      "text": "That clean hit, or",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ベル、素当てというか"
+    },
+    {
+      "start": 4.0,
+      "end": 6.0,
+      "text": "Rather than a confirmed punish, catching them with a throw",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "反確とかではなく投げで当てるのって"
+    },
+    {
+      "start": 6.0,
+      "end": 8.0,
+      "text": "is pretty tough",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "かなり難しいと思うんで"
+    },
+    {
+      "start": 8.0,
+      "end": 10.0,
+      "text": "How would you even—",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これどうやって"
+    },
+    {
+      "start": 10.0,
+      "end": 12.0,
+      "text": "Whoa! They're pressing in!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "おーっと詰めてきたー"
+    },
+    {
+      "start": 12.0,
+      "end": 14.0,
+      "text": "How do you even use that?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "どうやって使うんですか?"
+    }
+  ],
+  "full_text": "Against that Sonic— That clean hit, or Rather than a confirmed punish, catching them with a throw is pretty tough How would you even— Whoa! They're pressing in! How do you even use that?",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "反角とかではなく投げで当てるのって",
+      "corrected": "反確とかではなく投げで当てるのって",
+      "rule": "Whisper kanji homophone: 反角→反確 (確定反撃)"
+    }
+  ]
+}

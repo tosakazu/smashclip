@@ -1,0 +1,81 @@
+{
+  "id": "c3898f5f-49eb-41e2-b96e-9c1deb37766e",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.7,
+      "text": "Yeah",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そうです"
+    },
+    {
+      "start": 0.7,
+      "end": 2.0,
+      "text": "Once you're sent to the other side...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "反対側行かれるとね"
+    },
+    {
+      "start": 2.0,
+      "end": 3.24,
+      "text": "...you just can't get back...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "どうしても追えないので"
+    },
+    {
+      "start": 3.24,
+      "end": 4.82,
+      "text": "...and those ledge traps keep repeating...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "崖展開繰り返されて"
+    },
+    {
+      "start": 4.82,
+      "end": 7.78,
+      "text": "...you're at KO percent just like that!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "あっという間に撃墜%に至ってしまうというような"
+    },
+    {
+      "start": 7.78,
+      "end": 9.28,
+      "text": "That's how much damage they have",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そのぐらいの火力は秘めている"
+    },
+    {
+      "start": 9.28,
+      "end": 10.22,
+      "text": "And the ledge—",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そもそも崖"
+    },
+    {
+      "start": 10.22,
+      "end": 11.76,
+      "text": "Whoa, nice read!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "うわぁいい判断"
+    },
+    {
+      "start": 11.76,
+      "end": 12.84,
+      "text": "Go!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ゴー"
+    }
+  ],
+  "full_text": "Yeah Once you're sent to the other side... ...you just can't get back... ...and those ledge traps keep repeating... ...you're at KO percent just like that! That's how much damage they have And the ledge— Whoa, nice read! Go!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

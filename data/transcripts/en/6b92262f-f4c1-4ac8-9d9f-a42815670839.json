@@ -1,0 +1,58 @@
+{
+  "id": "6b92262f-f4c1-4ac8-9d9f-a42815670839",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.04,
+      "text": "Yaura's reading that DI really well though.",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "Yaura選手もね、ベク変とかしっかり見てるんですけどね。"
+    },
+    {
+      "start": 5.36,
+      "end": 8.28,
+      "text": "Here Ryuk manages to push the line up,",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここはラインをリュークが押し上げることに成功して、"
+    },
+    {
+      "start": 8.8,
+      "end": 11.26,
+      "text": "charges in, clips the platform, and loses all the momentum,",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "駆け上がり、コマに当たってしまい、ジャンプが潰れて、"
+    }
+  ],
+  "full_text": "Yaura's reading that DI really well though. Here Ryuk manages to push the line up, charges in, clips the platform, and loses all the momentum,",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "矢浦",
+      "corrected": "Yaura",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 0,
+      "original": "別件",
+      "corrected": "ベク変",
+      "rule": "Smash term (vector change)"
+    },
+    {
+      "segment_idx": 1,
+      "original": "ユク",
+      "corrected": "リューク",
+      "rule": "player name (Ryuk)"
+    },
+    {
+      "segment_idx": 2,
+      "original": "チャンプ",
+      "corrected": "ジャンプ",
+      "rule": "Whisper mishearing"
+    }
+  ]
+}

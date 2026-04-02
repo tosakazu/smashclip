@@ -1,0 +1,33 @@
+{
+  "id": "4206bb6c-9d66-4a00-9c67-c8f08ce11e3c",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.5,
+      "text": "At that damage, a grab spells the end!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "掴まれたら終わりそうなそんなパーセントには見えますが"
+    },
+    {
+      "start": 4.5,
+      "end": 7.56,
+      "text": "Nice!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "うまい"
+    },
+    {
+      "start": 7.56,
+      "end": 10.0,
+      "text": "Off the down special!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "下火から"
+    }
+  ],
+  "full_text": "At that damage, a grab spells the end! Nice! Off the down special!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

@@ -1,0 +1,65 @@
+{
+  "id": "85ae4bdc-b8d3-4e17-b185-78ce0e260b0d",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.18,
+      "text": "We're at 3:30 now",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "3分半経ってますね"
+    },
+    {
+      "start": 1.18,
+      "end": 5.64,
+      "text": "This is a situation where they need to keep that aggressive pressure going",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ガンガン前へと詰めていかなければいけないという展開にはなるでしょう"
+    },
+    {
+      "start": 5.64,
+      "end": 9.66,
+      "text": "But they're still staying calm, managing it well",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "しかしそれでも冷静にさばいてくる"
+    },
+    {
+      "start": 9.66,
+      "end": 10.5,
+      "text": "Nakashiro",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "中城"
+    },
+    {
+      "start": 10.5,
+      "end": 16.48,
+      "text": "Here, responding to the hydrant with the apple",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここで消火栓に対してリンゴで対応していこうという"
+    },
+    {
+      "start": 16.48,
+      "end": 18.18,
+      "text": "Dropping apple",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "落としリンゴ"
+    },
+    {
+      "start": 18.18,
+      "end": 18.74,
+      "text": "I see",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "なるほど"
+    }
+  ],
+  "full_text": "We're at 3:30 now. This is a situation where they need to keep that aggressive pressure going. But they're still staying calm, managing it well. Nakashiro. Here, responding to the hydrant with the apple. Dropping apple. I see.",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

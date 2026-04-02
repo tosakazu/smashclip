@@ -1,0 +1,62 @@
+{
+  "id": "ceb52e69-5875-4b56-aa8a-be7ae0e1d29f",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.54,
+      "text": "Wire cut from below—recovering from the side!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ワイヤーをね下から復帰で切られてしまったので今度は横から帰ります"
+    },
+    {
+      "start": 4.54,
+      "end": 7.88,
+      "text": "Pushes through the forward smash charge with dash attack!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "横スマッシュのホールドにひるまずダッシュアタックで差し込む"
+    },
+    {
+      "start": 7.88,
+      "end": 9.86,
+      "text": "Covers with nair!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空Nをかぶせて"
+    },
+    {
+      "start": 9.86,
+      "end": 12.54,
+      "text": "Down throw to bair!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "下投げ空中後ろまで"
+    },
+    {
+      "start": 12.54,
+      "end": 14.12,
+      "text": "But out comes Dimension Cape!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "しかしここはディメンジョンマント"
+    }
+  ],
+  "full_text": "Wire cut from below—recovering from the side! Pushes through the forward smash charge with dash attack! Covers with nair! Down throw to bair! But out comes Dimension Cape!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "空中に座をかぶせて",
+      "corrected": "空Nをかぶせて",
+      "rule": "smash term (空N=neutral air)"
+    },
+    {
+      "segment_idx": 4,
+      "original": "ディメンジョンマン",
+      "corrected": "ディメンジョンマント",
+      "rule": "move name (Dimensional Cape)"
+    }
+  ]
+}

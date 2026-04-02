@@ -1,0 +1,40 @@
+{
+  "id": "08d933dd-45f9-4008-8ae5-966071cbf3d9",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.88,
+      "text": "Steve's got more presence than meets the eye, you know?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "よりもなんか見た目以上の重さを持っているのがこのスティーブというファイター"
+    },
+    {
+      "start": 2.88,
+      "end": 10.06,
+      "text": "Down smash catches the roll getup, maintains that advantage...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあ下スマッシュで回避上がりを拾う回避上がりを拾いますが展開維持にはなりますが"
+    },
+    {
+      "start": 10.06,
+      "end": 11.06,
+      "text": "...but doesn't get the KO",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "撃墜には至らない"
+    }
+  ],
+  "full_text": "Steve's got more presence than meets the eye, you know? Down smash catches the roll getup, maintains that advantage... ...but doesn't get the KO",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "必要は至らない",
+      "corrected": "撃墜には至らない",
+      "rule": "Kanji homophone correction (必要は至らない → 撃墜には至らない)"
+    }
+  ]
+}

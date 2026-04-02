@@ -1,0 +1,44 @@
+{
+  "id": "6e348b6c-bc3e-4240-b4e1-8c6ad8739a0c",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.26,
+      "text": "ジャンプとか",
+      "language": "ja"
+    },
+    {
+      "start": 1.26,
+      "end": 2.66,
+      "text": "おっと危ないぞ",
+      "language": "ja"
+    },
+    {
+      "start": 2.66,
+      "end": 4.76,
+      "text": "回避読みとかで",
+      "language": "ja"
+    },
+    {
+      "start": 4.76,
+      "end": 6.54,
+      "text": "一つもう一つ繋いでしまえばね",
+      "language": "ja"
+    },
+    {
+      "start": 6.54,
+      "end": 7.08,
+      "text": "あったかも",
+      "language": "ja"
+    },
+    {
+      "start": 7.08,
+      "end": 8.06,
+      "text": "えーそれ届くの",
+      "language": "ja"
+    }
+  ],
+  "full_text": "ジャンプとか おっと危ないぞ 回避読みとかで 一つもう一つ繋いでしまえばね あったかも えーそれ届くの",
+  "detected_language": "ja",
+  "corrections": []
+}

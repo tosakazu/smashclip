@@ -1,0 +1,32 @@
+{
+  "id": "aa15854e-8589-4e46-ae3e-23fd3e91e942",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.48,
+      "text": "狙っていく",
+      "language": "ja"
+    },
+    {
+      "start": 1.48,
+      "end": 2.14,
+      "text": "ドクター",
+      "language": "ja"
+    },
+    {
+      "start": 2.14,
+      "end": 2.78,
+      "text": "トルネード",
+      "language": "ja"
+    },
+    {
+      "start": 2.78,
+      "end": 3.7,
+      "text": "横スマ",
+      "language": "ja"
+    }
+  ],
+  "full_text": "狙っていく ドクター トルネード 横スマ",
+  "detected_language": "ja",
+  "corrections": []
+}

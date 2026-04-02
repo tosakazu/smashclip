@@ -1,0 +1,56 @@
+{
+  "id": "c4d7b0f2-6a7a-4ce5-b27e-71a156b38ef5",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.12,
+      "text": "Clinging to life!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "もはや虫の息"
+    },
+    {
+      "start": 1.12,
+      "end": 4.66,
+      "text": "But if this ledge trap keeps up...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "しかしこの崖攻めが続くのならば"
+    },
+    {
+      "start": 4.66,
+      "end": 7.32,
+      "text": "That shield's gonna recover before they even know it!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "シールドの残り寿命など気づけば回復していることでしょう"
+    },
+    {
+      "start": 7.32,
+      "end": 9.26,
+      "text": "Naocha's not letting up!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "なおちゃ選手の攻めが止まらない"
+    },
+    {
+      "start": 9.26,
+      "end": 12.64,
+      "text": "That answered the ledge situation, but...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "崖上に対しての回答だったがここは"
+    }
+  ],
+  "full_text": "Clinging to life! But if this ledge trap keeps up... That shield's gonna recover before they even know it! Naocha's not letting up! That answered the ledge situation, but...",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 3,
+      "original": "ナオチャ",
+      "corrected": "なおちゃ",
+      "rule": "player name"
+    }
+  ]
+}

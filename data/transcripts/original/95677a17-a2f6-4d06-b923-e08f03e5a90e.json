@@ -1,0 +1,44 @@
+{
+  "id": "95677a17-a2f6-4d06-b923-e08f03e5a90e",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.84,
+      "text": "Bye.",
+      "language": "en"
+    },
+    {
+      "start": 2.16,
+      "end": 3.0,
+      "text": "That's it.",
+      "language": "en"
+    },
+    {
+      "start": 7.26,
+      "end": 8.1,
+      "text": "Ooh.",
+      "language": "en"
+    },
+    {
+      "start": 9.34,
+      "end": 10.18,
+      "text": "Ooh.",
+      "language": "en"
+    },
+    {
+      "start": 11.46,
+      "end": 12.6,
+      "text": "Get him out of here.",
+      "language": "en"
+    },
+    {
+      "start": 12.6,
+      "end": 13.8,
+      "text": "Put him in a body bag.",
+      "language": "en"
+    }
+  ],
+  "full_text": "Bye. That's it. Ooh. Ooh. Get him out of here. Put him in a body bag.",
+  "detected_language": "en",
+  "corrections": []
+}

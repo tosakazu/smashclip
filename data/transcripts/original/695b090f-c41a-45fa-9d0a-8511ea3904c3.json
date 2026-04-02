@@ -1,0 +1,63 @@
+{
+  "id": "695b090f-c41a-45fa-9d0a-8511ea3904c3",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.68,
+      "text": "というか",
+      "language": "ja"
+    },
+    {
+      "start": 1.68,
+      "end": 4.98,
+      "text": "確定しないので",
+      "language": "ja"
+    },
+    {
+      "start": 4.98,
+      "end": 5.9,
+      "text": "一回様子を見たか",
+      "language": "ja"
+    },
+    {
+      "start": 5.9,
+      "end": 9.0,
+      "text": "さあメタナイトの",
+      "language": "ja"
+    },
+    {
+      "start": 9.0,
+      "end": 10.04,
+      "text": "魅力の一つともいえる",
+      "language": "ja"
+    },
+    {
+      "start": 10.04,
+      "end": 12.44,
+      "text": "その即死コンボその辺りが見えたが",
+      "language": "ja"
+    },
+    {
+      "start": 12.44,
+      "end": 13.88,
+      "text": "うっちー選手ここは冷静",
+      "language": "ja"
+    }
+  ],
+  "full_text": "というか 確定しないので 一回様子を見たか さあメタナイトの 魅力の一つともいえる その即死コンボその辺りが見えたが うっちー選手ここは冷静",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 3,
+      "original": "メタラメタナイト",
+      "corrected": "メタナイト",
+      "rule": "Whisper duplication error"
+    },
+    {
+      "segment_idx": 6,
+      "original": "うっちぃ",
+      "corrected": "うっちー",
+      "rule": "player name"
+    }
+  ]
+}

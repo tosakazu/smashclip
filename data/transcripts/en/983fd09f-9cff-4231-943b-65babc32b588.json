@@ -1,0 +1,33 @@
+{
+  "id": "983fd09f-9cff-4231-943b-65babc32b588",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.38,
+      "text": "They're down 130 percent",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあ130%のビハインドがあるが"
+    },
+    {
+      "start": 4.38,
+      "end": 6.48,
+      "text": "And they're taking damage here",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここのパーセント落とされる"
+    },
+    {
+      "start": 6.48,
+      "end": 7.38,
+      "text": "Knockdown after knockdown!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "落とすとこ落とすとこ"
+    }
+  ],
+  "full_text": "They're down 130 percent and they're taking damage here Knockdown after knockdown!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

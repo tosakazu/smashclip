@@ -1,0 +1,32 @@
+{
+  "id": "926f2132-dc24-4abe-ae7b-bdec68bc3805",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.94,
+      "text": "リスが出てしまいましたが ストック2に並んでいきます",
+      "language": "ja"
+    },
+    {
+      "start": 2.94,
+      "end": 5.44,
+      "text": "118%のビハインド",
+      "language": "ja"
+    },
+    {
+      "start": 5.44,
+      "end": 9.42,
+      "text": "トロッコで撃墜 ステージ中央でも悠々と",
+      "language": "ja"
+    },
+    {
+      "start": 9.42,
+      "end": 10.42,
+      "text": "届いた",
+      "language": "ja"
+    }
+  ],
+  "full_text": "リスが出てしまいましたが ストック2に並んでいきます 118%のビハインド トロッコで撃墜 ステージ中央でも悠々と 届いた",
+  "detected_language": "ja",
+  "corrections": []
+}

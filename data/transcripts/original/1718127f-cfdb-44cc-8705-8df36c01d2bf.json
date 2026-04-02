@@ -1,0 +1,45 @@
+{
+  "id": "1718127f-cfdb-44cc-8705-8df36c01d2bf",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.86,
+      "text": "楽しい",
+      "language": "ja"
+    },
+    {
+      "start": 0.86,
+      "end": 2.0,
+      "text": "空Nに取る",
+      "language": "ja"
+    },
+    {
+      "start": 2.0,
+      "end": 3.14,
+      "text": "いいディスタンスが",
+      "language": "ja"
+    },
+    {
+      "start": 3.14,
+      "end": 4.7,
+      "text": "うまーい",
+      "language": "ja"
+    }
+  ],
+  "full_text": "楽しい 空Nに取る いいディスタンスが うまーい",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "空中に取る",
+      "corrected": "空Nに取る",
+      "rule": "Move abbreviation: 空中→空N (neutral air)"
+    },
+    {
+      "segment_idx": 2,
+      "original": "いいデストリナが",
+      "corrected": "いいディスタンスが",
+      "rule": "Garbled transcription: デストリナ→ディスタンス (distance)"
+    }
+  ]
+}

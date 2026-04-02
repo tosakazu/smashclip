@@ -1,0 +1,86 @@
+{
+  "id": "2ac234f5-1d91-4a20-be49-0714a9a7d945",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.54,
+      "text": "Oh, from here?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "あ、これから?"
+    },
+    {
+      "start": 0.8,
+      "end": 1.2,
+      "text": "Insane",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "やばい"
+    },
+    {
+      "start": 1.2,
+      "end": 4.7,
+      "text": "Like, if he gets caught by banana or down B...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "なんかマジでバナナとか下Bを食らうと"
+    },
+    {
+      "start": 4.7,
+      "end": 5.96,
+      "text": "The situation turns really bad",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "本当に展開最悪になる"
+    },
+    {
+      "start": 5.96,
+      "end": 8.78,
+      "text": "Alright, worst case",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあ、最悪な状況"
+    },
+    {
+      "start": 8.78,
+      "end": 11.98,
+      "text": "Of course, Tweek's in the best position",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "当然Tweekは最高の状況になる"
+    },
+    {
+      "start": 11.98,
+      "end": 13.7,
+      "text": "Where's he targeting?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "どこを狙うかー"
+    },
+    {
+      "start": 13.7,
+      "end": 14.56,
+      "text": "Right here",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここで"
+    }
+  ],
+  "full_text": "Oh, from here? Insane Like, if he gets caught by banana or down B... The situation turns really bad Alright, worst case Of course, Tweek's in the best position Where's he targeting? Right here",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "バナナとか下記を食らうと",
+      "corrected": "バナナとか下Bを食らうと",
+      "rule": "misheard: 下記→下B"
+    },
+    {
+      "segment_idx": 5,
+      "original": "ツイーク",
+      "corrected": "Tweek",
+      "rule": "player name: ツイーク→Tweek"
+    }
+  ]
+}

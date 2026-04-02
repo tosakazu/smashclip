@@ -1,0 +1,39 @@
+{
+  "id": "2c7e240b-3dca-4e2c-9cfe-af10e500bb38",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.06,
+      "text": "これしかも鉄だらけなんで",
+      "language": "ja"
+    },
+    {
+      "start": 2.06,
+      "end": 3.76,
+      "text": "いやーどう動くこれ",
+      "language": "ja"
+    },
+    {
+      "start": 3.76,
+      "end": 6.1,
+      "text": "から",
+      "language": "ja"
+    },
+    {
+      "start": 6.1,
+      "end": 9.14,
+      "text": "空後しろー",
+      "language": "ja"
+    }
+  ],
+  "full_text": "これしかも鉄だらけなんで いやーどう動くこれ から 空後しろー",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 3,
+      "original": "グッチしろー",
+      "corrected": "空後しろー",
+      "rule": "garbled: グッチ→空後"
+    }
+  ]
+}

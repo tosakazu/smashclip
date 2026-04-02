@@ -1,0 +1,57 @@
+{
+  "id": "ae58e57e-ae03-418f-a06d-9821e6923578",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.4,
+      "text": "今Tea選手側が見せていきます",
+      "language": "ja"
+    },
+    {
+      "start": 1.4,
+      "end": 5.72,
+      "text": "空中上消火栓をやはりこういう風に打つことによって",
+      "language": "ja"
+    },
+    {
+      "start": 5.72,
+      "end": 7.6,
+      "text": "フルーツ溜めの時間ができますが",
+      "language": "ja"
+    },
+    {
+      "start": 7.6,
+      "end": 9.58,
+      "text": "消火栓ベル投げ",
+      "language": "ja"
+    }
+  ],
+  "full_text": "今Tea選手側が見せていきます 空中上消火栓をやはりこういう風に打つことによって フルーツ溜めの時間ができますが 消火栓ベル投げ",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "今日T選手",
+      "corrected": "今Tea選手",
+      "rule": "player name (Tea)"
+    },
+    {
+      "segment_idx": 1,
+      "original": "空中上昇華線",
+      "corrected": "空中上消火栓",
+      "rule": "move name (消火栓=fire hydrant)"
+    },
+    {
+      "segment_idx": 2,
+      "original": "フルターゲットの時間",
+      "corrected": "フルーツ溜めの時間",
+      "rule": "Pac-Man move (フルーツ)"
+    },
+    {
+      "segment_idx": 3,
+      "original": "昇華線ペル投げ",
+      "corrected": "消火栓ベル投げ",
+      "rule": "move name (消火栓 + ベル)"
+    }
+  ]
+}

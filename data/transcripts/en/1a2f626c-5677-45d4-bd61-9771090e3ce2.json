@@ -1,0 +1,48 @@
+{
+  "id": "1a2f626c-5677-45d4-bd61-9771090e3ce2",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.28,
+      "text": "That's insane!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "恐ろしいのなんのって"
+    },
+    {
+      "start": 3.28,
+      "end": 4.44,
+      "text": "But Sha'a stays composed",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "しかしシャアは動じない"
+    },
+    {
+      "start": 4.44,
+      "end": 10.08,
+      "text": "Sha'a is maintaining excellent control of the situation",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "展開をうまく維持できているシャア選手"
+    },
+    {
+      "start": 10.08,
+      "end": 11.4,
+      "text": "Lands the up tilt!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "拾った上強"
+    }
+  ],
+  "full_text": "That's insane! But Sha'a stays composed Sha'a is maintaining excellent control of the situation Lands the up tilt!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 3,
+      "original": "拾った上京",
+      "corrected": "拾った上強",
+      "rule": "Whisper kanji homophone: 上京→上強"
+    }
+  ]
+}

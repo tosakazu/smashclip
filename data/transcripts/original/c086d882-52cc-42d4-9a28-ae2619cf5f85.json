@@ -1,0 +1,51 @@
+{
+  "id": "c086d882-52cc-42d4-9a28-ae2619cf5f85",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.96,
+      "text": "一瞬のチャンスを逃しませんね",
+      "language": "ja"
+    },
+    {
+      "start": 2.96,
+      "end": 6.4,
+      "text": "ああいう場面って自分の防御ターンに",
+      "language": "ja"
+    },
+    {
+      "start": 6.4,
+      "end": 8.46,
+      "text": "ちょっと反撃しなきゃいけない",
+      "language": "ja"
+    },
+    {
+      "start": 8.46,
+      "end": 11.6,
+      "text": "空中後ろ!着地ができる!空中後ろ!",
+      "language": "ja"
+    },
+    {
+      "start": 14.0,
+      "end": 15.76,
+      "text": "かなりプレッシャーはかかっていましたが",
+      "language": "ja"
+    }
+  ],
+  "full_text": "一瞬のチャンスを逃しませんね ああいう場面って自分の防御ターンに ちょっと反撃しなきゃいけない 空中後ろ!着地ができる!空中後ろ! かなりプレッシャーはかかっていましたが",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "はしゃぐしなきゃいけない",
+      "corrected": "反撃しなきゃいけない",
+      "rule": "misheard word"
+    },
+    {
+      "segment_idx": 3,
+      "original": "空中しろ",
+      "corrected": "空中後ろ",
+      "rule": "smash term"
+    }
+  ]
+}

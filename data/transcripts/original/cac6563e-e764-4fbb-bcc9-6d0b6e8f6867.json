@@ -1,0 +1,56 @@
+{
+  "id": "cac6563e-e764-4fbb-bcc9-6d0b6e8f6867",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.4,
+      "text": "さあ台の下",
+      "language": "ja"
+    },
+    {
+      "start": 2.4,
+      "end": 5.3,
+      "text": "陣取ってくるこのラルという男に",
+      "language": "ja"
+    },
+    {
+      "start": 5.3,
+      "end": 7.3,
+      "text": "グラトにどう着地を通す",
+      "language": "ja"
+    },
+    {
+      "start": 7.3,
+      "end": 10.42,
+      "text": "入れ替えるが",
+      "language": "ja"
+    },
+    {
+      "start": 10.42,
+      "end": 11.48,
+      "text": "ダッシュの時が届く",
+      "language": "ja"
+    },
+    {
+      "start": 11.48,
+      "end": 12.3,
+      "text": "ケンジしろ",
+      "language": "ja"
+    },
+    {
+      "start": 12.3,
+      "end": 13.08,
+      "text": "ケンジ",
+      "language": "ja"
+    },
+    {
+      "start": 13.08,
+      "end": 15.22,
+      "text": "飛ぶね",
+      "language": "ja"
+    }
+  ],
+  "full_text": "さあ台の下 陣取ってくるこのラルという男に グラトにどう着地を通す 入れ替えるが ダッシュの時が届く ケンジしろ ケンジ 飛ぶね",
+  "detected_language": "ja",
+  "corrections": []
+}

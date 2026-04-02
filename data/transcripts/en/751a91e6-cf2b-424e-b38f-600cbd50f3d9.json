@@ -1,0 +1,56 @@
+{
+  "id": "751a91e6-cf2b-424e-b38f-600cbd50f3d9",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.6,
+      "text": "Can they keep up?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあこれ追いつけるのか?"
+    },
+    {
+      "start": 4.24,
+      "end": 6.94,
+      "text": "This is exactly what Trick wants against Steve!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "トリック側が対スティーブでやりたい展開になってますからね"
+    },
+    {
+      "start": 6.94,
+      "end": 8.84,
+      "text": "colas connects!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さああcola選手当てられます"
+    },
+    {
+      "start": 8.84,
+      "end": 9.84,
+      "text": "Whoa!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "わあああああああ"
+    },
+    {
+      "start": 9.84,
+      "end": 10.4,
+      "text": "Dark get!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ダーゲット"
+    }
+  ],
+  "full_text": "Can they keep up? This is exactly what Trick wants against Steve! colas connects! Whoa! Dark get!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "コーラス選手",
+      "corrected": "あcola選手",
+      "rule": "player name"
+    }
+  ]
+}

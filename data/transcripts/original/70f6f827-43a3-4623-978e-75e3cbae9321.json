@@ -1,0 +1,50 @@
+{
+  "id": "70f6f827-43a3-4623-978e-75e3cbae9321",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.18,
+      "text": "スマッシュ見せたみーや",
+      "language": "ja"
+    },
+    {
+      "start": 1.18,
+      "end": 2.48,
+      "text": "さあミュートエース",
+      "language": "ja"
+    },
+    {
+      "start": 2.48,
+      "end": 5.52,
+      "text": "もう引っかからんぞと",
+      "language": "ja"
+    },
+    {
+      "start": 5.52,
+      "end": 8.22,
+      "text": "つかみにいってプレッシャーをかけ続けて",
+      "language": "ja"
+    },
+    {
+      "start": 8.22,
+      "end": 9.66,
+      "text": "うそ越えたのか",
+      "language": "ja"
+    },
+    {
+      "start": 9.66,
+      "end": 12.54,
+      "text": "いやそこでもう一回復帰阻止",
+      "language": "ja"
+    }
+  ],
+  "full_text": "スマッシュ見せたみーや さあミュートエース もう引っかからんぞと つかみにいってプレッシャーをかけ続けて うそ越えたのか いやそこでもう一回復帰阻止",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_index": 4,
+      "original": "うそ超えずのか",
+      "corrected": "うそ越えたのか"
+    }
+  ]
+}

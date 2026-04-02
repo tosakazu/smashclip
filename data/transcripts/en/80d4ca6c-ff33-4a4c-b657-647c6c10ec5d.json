@@ -1,0 +1,32 @@
+{
+  "id": "80d4ca6c-ff33-4a4c-b657-647c6c10ec5d",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.74,
+      "text": "Whiff punishing with fair, but then comes that mixup full hop to read the landing!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "てます 空中前差し返しているしかし着地に対して中間択のような大ジャンプきましたね"
+    },
+    {
+      "start": 6.74,
+      "end": 12.36,
+      "text": "Zacharay's reads are incredible! Yeah, finishing it with that fair!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ザクレイの読み勝ち力すごいですはい 空前で終わりだから"
+    }
+  ],
+  "full_text": "Whiff punishing with fair, but then comes that mixup full hop to read the landing! Zacharay's reads are incredible! Yeah, finishing it with that fair!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "だけ上の読みがち力すごいですはい 前で終わりだから",
+      "corrected": "ザクレイの読み勝ち力すごいですはい 空前で終わりだから",
+      "rule": "player name + move abbreviation"
+    }
+  ]
+}

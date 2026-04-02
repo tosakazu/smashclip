@@ -1,0 +1,44 @@
+{
+  "id": "fb8d44f0-4c60-4be7-b63f-f8d6f2f09855",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 8.68,
+      "text": "Nair into bair! Donkey Kong's so heavy, heavy... racking up damage with the pressure there, but here...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "はしません降り空Nからの空中後ろですがドンキー今後重い重い あっちさあプレスで火力を稼ぎますがここはね"
+    },
+    {
+      "start": 8.68,
+      "end": 13.6,
+      "text": "There's also a confirmed punish - up tilt pickup into up air!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "確定反撃もありますと上強で拾って空上"
+    }
+  ],
+  "full_text": "Nair into bair! Donkey Kong's so heavy, heavy... racking up damage with the pressure there, but here... There's also a confirmed punish - up tilt pickup into up air!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "おりクエヌからの",
+      "corrected": "降り空Nからの",
+      "rule": "misheard: クエヌ→空N"
+    },
+    {
+      "segment_idx": 0,
+      "original": "思い思い あっちさあプレスので",
+      "corrected": "重い重い あっちさあプレスで",
+      "rule": "misheard"
+    },
+    {
+      "segment_idx": 1,
+      "original": "上京で拾って空中へ",
+      "corrected": "上強で拾って空上",
+      "rule": "kanji homophone: 上京→上強, 空中へ→空上"
+    }
+  ]
+}

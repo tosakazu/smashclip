@@ -1,0 +1,45 @@
+{
+  "id": "5636f14c-4ce1-483c-8f87-12f9a1b0ffb5",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.5,
+      "text": "これあれですならホーミングが通るか",
+      "language": "ja"
+    },
+    {
+      "start": 2.5,
+      "end": 6.4,
+      "text": "あれですよねソニックってよくも悪くも早期撃墜択が",
+      "language": "ja"
+    },
+    {
+      "start": 6.4,
+      "end": 7.82,
+      "text": "復帰阻止しかないから",
+      "language": "ja"
+    },
+    {
+      "start": 7.82,
+      "end": 11.54,
+      "text": "パーセントちゃんと貯めて撃墜するじゃないですか",
+      "language": "ja"
+    }
+  ],
+  "full_text": "これあれですならホーミングが通るか あれですよねソニックってよくも悪くも早期撃墜択が 復帰阻止しかないから パーセントちゃんと貯めて撃墜するじゃないですか",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "ホーミンが通るか",
+      "corrected": "ホーミングが通るか",
+      "rule": "abbreviation expansion"
+    },
+    {
+      "segment_idx": 1,
+      "original": "撃墜タクが",
+      "corrected": "撃墜択が",
+      "rule": "abbreviation (タク→択)"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "4e1a2187-f5c4-4085-853b-5a734122b748",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.94,
+      "text": "今回あんまないんですよね",
+      "language": "ja"
+    },
+    {
+      "start": 0.94,
+      "end": 2.86,
+      "text": "そうしたところも",
+      "language": "ja"
+    },
+    {
+      "start": 2.86,
+      "end": 3.58,
+      "text": "当ての空上",
+      "language": "ja"
+    },
+    {
+      "start": 3.58,
+      "end": 3.98,
+      "text": "うおー",
+      "language": "ja"
+    },
+    {
+      "start": 3.98,
+      "end": 4.2,
+      "text": "あー",
+      "language": "ja"
+    }
+  ],
+  "full_text": "今回あんまないんですよね そうしたところも 当ての空上 うおー あー",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "あつてのグッチ",
+      "corrected": "当ての空上",
+      "rule": "misheard: あつてのグッチ→当ての空上"
+    }
+  ]
+}

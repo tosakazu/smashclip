@@ -1,0 +1,38 @@
+{
+  "id": "e613bec6-2a40-4c20-8f7d-759a5c432061",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.6,
+      "text": "That fair is insanely good! Today's roller game is incredible!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ますよなぁ空前が上手すぎるしたら今日ローラー 素晴らしい"
+    },
+    {
+      "start": 4.6,
+      "end": 10.0,
+      "text": "Perfect setup! Got through clean! Down tilt sealed it!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "完璧な展開 通りきりました ダウンティルト・オーバー・エスカース"
+    }
+  ],
+  "full_text": "That fair is insanely good! Today's roller game is incredible! Perfect setup! Got through clean! Down tilt sealed it!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "グラブ前が上手すぎるした今日ローラー",
+      "corrected": "グラブ前が上手すぎるしたら今日ローラー",
+      "rule": "no meaningful change - garbled audio"
+    },
+    {
+      "segment_idx": 1,
+      "original": "完璧な展開へ通り切りますられ ダウンディオーバーエスカース",
+      "corrected": "完璧な展開 通りきりました ダウンティルト・オーバー・エスカース",
+      "rule": "misheard EN commentary mixed"
+    }
+  ]
+}

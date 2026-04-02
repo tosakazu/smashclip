@@ -1,0 +1,162 @@
+{
+  "id": "f15d156f-d5ba-4cdd-a094-8c92ef83cb2f",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.9,
+      "text": "Getup attack",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "攻撃上がり"
+    },
+    {
+      "start": 1.9,
+      "end": 2.96,
+      "text": "Into the juggle",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "浮かせた展開"
+    },
+    {
+      "start": 2.96,
+      "end": 3.62,
+      "text": "On the platform",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "台上"
+    },
+    {
+      "start": 3.62,
+      "end": 4.82,
+      "text": "Rough spot",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "少し嫌な感じ"
+    },
+    {
+      "start": 4.82,
+      "end": 5.62,
+      "text": "Against the up air",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空上に対して"
+    },
+    {
+      "start": 5.62,
+      "end": 6.28,
+      "text": "Parry",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ジャスシールド"
+    },
+    {
+      "start": 6.28,
+      "end": 7.26,
+      "text": "Lands it",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "降りれた"
+    },
+    {
+      "start": 7.26,
+      "end": 10.46,
+      "text": "Still though",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ただまだまだ"
+    },
+    {
+      "start": 10.46,
+      "end": 11.62,
+      "text": "Cloud's side",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "クラウド側が"
+    },
+    {
+      "start": 11.62,
+      "end": 12.3,
+      "text": "Pressing the range",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "リーチを押し付ける"
+    },
+    {
+      "start": 12.3,
+      "end": 12.94,
+      "text": "In the situation",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "展開か"
+    },
+    {
+      "start": 12.94,
+      "end": 14.18,
+      "text": "Limit Finishing Touch",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "リミット凶斬り"
+    },
+    {
+      "start": 14.18,
+      "end": 15.18,
+      "text": "Great duration",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "かなり持続が長い"
+    },
+    {
+      "start": 15.18,
+      "end": 15.88,
+      "text": "For a move",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "技であるんですけれども"
+    },
+    {
+      "start": 15.88,
+      "end": 16.7,
+      "text": "Exploited the tight spacing",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ギリギリを攻めた"
+    },
+    {
+      "start": 16.7,
+      "end": 18.2,
+      "text": "And finishes with Raging Blaze",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そして最後はレイジドライブ"
+    }
+  ],
+  "full_text": "Getup attack Into the juggle On the platform Rough spot Against the up air Parry Lands it Still though Cloud's side Pressing the range In the situation Limit Finishing Touch Great duration For a move Exploited the tight spacing And finishes with Raging Blaze",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "ダイウェイ",
+      "corrected": "台上",
+      "rule": "misheard: ダイウェイ→台上"
+    },
+    {
+      "segment_idx": 4,
+      "original": "空中ウェイ",
+      "corrected": "空上",
+      "rule": "misheard"
+    },
+    {
+      "segment_idx": 11,
+      "original": "リミット距離",
+      "corrected": "リミット凶斬り",
+      "rule": "misheard: 距離→凶斬り (Cloud's limit move)"
+    },
+    {
+      "segment_idx": 12,
+      "original": "時速が長い",
+      "corrected": "持続が長い",
+      "rule": "misheard: 時速→持続"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "3448ebf8-f86e-4283-aac1-e665d2603e7f",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.54,
+      "text": "確かにここで反転ガードをうまく通せれば",
+      "language": "ja"
+    },
+    {
+      "start": 2.54,
+      "end": 5.04,
+      "text": "この後の撃墜パーセント",
+      "language": "ja"
+    }
+  ],
+  "full_text": "確かにここで反転ガードをうまく通せれば この後の撃墜パーセント",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "反逆ガード",
+      "corrected": "反転ガード",
+      "rule": "misheard: 反転ガード"
+    }
+  ]
+}

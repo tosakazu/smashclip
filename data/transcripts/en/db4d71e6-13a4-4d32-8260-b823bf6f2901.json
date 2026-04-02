@@ -1,0 +1,17 @@
+{
+  "id": "db4d71e6-13a4-4d32-8260-b823bf6f2901",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.64,
+      "text": "It's looking hopeless right now, but",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "絶望的な試合展開ですが"
+    }
+  ],
+  "full_text": "It's looking hopeless right now, but",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

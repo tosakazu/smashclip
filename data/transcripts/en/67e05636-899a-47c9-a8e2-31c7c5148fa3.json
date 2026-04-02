@@ -1,0 +1,25 @@
+{
+  "id": "67e05636-899a-47c9-a8e2-31c7c5148fa3",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.66,
+      "text": "Relentless offense, down smash pressure!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ブレない 攻めてくる下スマッシュリスク"
+    },
+    {
+      "start": 5.66,
+      "end": 11.38,
+      "text": "Forward throw with the pressure! Whoa, bounced out!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "がついた前に投げてこのプレッシャー おっと跳ねのけた"
+    }
+  ],
+  "full_text": "Relentless offense, down smash pressure! Forward throw with the pressure! Whoa, bounced out!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

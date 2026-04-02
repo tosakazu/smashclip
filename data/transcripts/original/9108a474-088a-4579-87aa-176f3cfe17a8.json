@@ -1,0 +1,33 @@
+{
+  "id": "9108a474-088a-4579-87aa-176f3cfe17a8",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.04,
+      "text": "way to kick things off. Game number five and Luigi is back going to the tried and true",
+      "language": "en"
+    },
+    {
+      "start": 6.04,
+      "end": 11.88,
+      "text": "to see Raru if he can steal it away. I think the main man was finally put back into the",
+      "language": "en"
+    },
+    {
+      "start": 11.88,
+      "end": 14.96,
+      "text": "pocket but that doesn't mean that this is not going to be it.",
+      "language": "en"
+    }
+  ],
+  "full_text": "way to kick things off. Game number five and Luigi is back going to the tried and true to see Raru if he can steal it away. I think the main man was finally put back into the pocket but that doesn't mean that this is not going to be it.",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "Raro",
+      "corrected": "Raru",
+      "rule": "player name"
+    }
+  ]
+}

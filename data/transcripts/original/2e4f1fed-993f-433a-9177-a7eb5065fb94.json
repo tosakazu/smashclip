@@ -1,0 +1,26 @@
+{
+  "id": "2e4f1fed-993f-433a-9177-a7eb5065fb94",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.96,
+      "text": "一気に次の一発で撃墜を持っていきたいという",
+      "language": "ja"
+    },
+    {
+      "start": 4.96,
+      "end": 6.34,
+      "text": "そんな意思が見られますが",
+      "language": "ja"
+    },
+    {
+      "start": 6.34,
+      "end": 7.68,
+      "text": "これはつかみかな",
+      "language": "ja"
+    }
+  ],
+  "full_text": "一気に次の一発で撃墜を持っていきたいという そんな意思が見られますが これはつかみかな",
+  "detected_language": "ja",
+  "corrections": []
+}

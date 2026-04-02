@@ -1,0 +1,43 @@
+{
+  "id": "a3d2da2e-1c71-4816-88a5-fdc37ca53414",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.96,
+      "text": "see it too much from Fox unless they're really starting to call out your behaviors but that is",
+      "language": "en"
+    },
+    {
+      "start": 4.96,
+      "end": 10.74,
+      "text": "what's happening here in a full length rapid jab there too and this is very very similar to how",
+      "language": "en"
+    },
+    {
+      "start": 10.74,
+      "end": 15.68,
+      "text": "game one started with the early kill with the f smash trying to go for it again I guess again",
+      "language": "en"
+    },
+    {
+      "start": 15.68,
+      "end": 17.06,
+      "text": "I don't know",
+      "language": "en"
+    }
+  ],
+  "full_text": "see it too much from Fox unless they're really starting to call out your behaviors but that is what's happening here in a full length rapid jab there too and this is very very similar to how game one started with the early kill with the f smash trying to go for it again I guess again I don't know",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "original": "fox",
+      "corrected": "Fox",
+      "reason": "キャラクター名Fox"
+    },
+    {
+      "original": "f snatch",
+      "corrected": "f smash",
+      "reason": "forward smash = 横スマッシュ"
+    }
+  ]
+}

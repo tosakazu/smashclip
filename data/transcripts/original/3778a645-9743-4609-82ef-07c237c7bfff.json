@@ -1,0 +1,33 @@
+{
+  "id": "3778a645-9743-4609-82ef-07c237c7bfff",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.36,
+      "text": "over you have one of the hardest hitters in the game and you cannot get that",
+      "language": "en"
+    },
+    {
+      "start": 3.36,
+      "end": 7.52,
+      "text": "stock this is looking terrible for you i mean i i don't want to be a pessimist 200",
+      "language": "en"
+    },
+    {
+      "start": 7.52,
+      "end": 11.92,
+      "text": "you're not out syrup what is in your pants you are so heavy but finally",
+      "language": "en"
+    }
+  ],
+  "full_text": "over you have one of the hardest hitters in the game and you cannot get that stock this is looking terrible for you i mean i i don't want to be a pessimist 200 you're not out syrup what is in your pants you are so heavy but finally",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "stuck",
+      "corrected": "stock",
+      "rule": "EN Whisper error: stuck→stock"
+    }
+  ]
+}

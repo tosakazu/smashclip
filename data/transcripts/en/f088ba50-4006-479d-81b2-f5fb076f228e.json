@@ -1,0 +1,38 @@
+{
+  "id": "f088ba50-4006-479d-81b2-f5fb076f228e",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.12,
+      "text": "You just got zombied, man.",
+      "language": "en"
+    },
+    {
+      "start": 1.24,
+      "end": 1.48,
+      "text": "Yeah.",
+      "language": "en"
+    },
+    {
+      "start": 1.8,
+      "end": 1.94,
+      "text": "Yeah.",
+      "language": "en"
+    },
+    {
+      "start": 2.2,
+      "end": 3.14,
+      "text": "Oh, oh my god!",
+      "language": "en"
+    },
+    {
+      "start": 3.16,
+      "end": 6.58,
+      "text": "You guys should be finding a crazy string right now in that 63%.",
+      "language": "en"
+    }
+  ],
+  "full_text": "You just got zombied, man. Yeah. Yeah. Oh, oh my god! You guys should be finding a crazy string right now in that 63%.",
+  "detected_language": "en",
+  "corrections": []
+}

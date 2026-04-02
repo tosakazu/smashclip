@@ -1,0 +1,27 @@
+{
+  "id": "b3bdbc55-b085-414d-9271-b63cceaf85c1",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.5,
+      "text": "やはり足が速いからこその低リスクなこのダッシュ置き",
+      "language": "ja"
+    },
+    {
+      "start": 6.5,
+      "end": 9.26,
+      "text": "ジャンプ読んで先制していった",
+      "language": "ja"
+    }
+  ],
+  "full_text": "やはり足が速いからこその低リスクなこのダッシュ置き ジャンプ読んで先制していった",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "ジャック置き",
+      "corrected": "ダッシュ置き",
+      "rule": "misheard word"
+    }
+  ]
+}

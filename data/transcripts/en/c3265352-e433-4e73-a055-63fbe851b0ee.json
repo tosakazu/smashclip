@@ -1,0 +1,32 @@
+{
+  "id": "c3265352-e433-4e73-a055-63fbe851b0ee",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.4,
+      "text": "Villager's recovery is also incredibly clean. So many different routes!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "きくざかり村人の復帰もとても綺麗 本当にルート様々"
+    },
+    {
+      "start": 6.4,
+      "end": 10.76,
+      "text": "With Villager, and oh wait—here comes the aerial!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "村人と、おっとここは空中レトロが"
+    }
+  ],
+  "full_text": "Villager's recovery is also incredibly clean. So many different routes! With Villager, and oh wait—here comes the aerial!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "キクザカリ",
+      "corrected": "きくざかり",
+      "rule": "player name"
+    }
+  ]
+}

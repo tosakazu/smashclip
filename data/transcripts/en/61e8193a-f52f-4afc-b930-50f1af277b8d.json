@@ -1,0 +1,72 @@
+{
+  "id": "61e8193a-f52f-4afc-b930-50f1af277b8d",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.38,
+      "text": "The party game element comes out!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "このゲームの愉快なパーティーゲーム要素が出てしまいました"
+    },
+    {
+      "start": 3.38,
+      "end": 5.4,
+      "text": "Pretty low probability on that though!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "かなり確率は少ないですけれどもね"
+    },
+    {
+      "start": 5.4,
+      "end": 6.72,
+      "text": "bair",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空後"
+    },
+    {
+      "start": 6.72,
+      "end": 8.66,
+      "text": "Shield hitbox involved there",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ブロック判定も挟んで"
+    },
+    {
+      "start": 8.66,
+      "end": 9.56,
+      "text": "Solid combo damage!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "コンボ火力は十分"
+    },
+    {
+      "start": 9.56,
+      "end": 11.44,
+      "text": "Even from that spacing, the jump connects!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これだけ離してジャンプで当たった"
+    },
+    {
+      "start": 11.44,
+      "end": 13.16,
+      "text": "That goes right through!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "一撃通していった"
+    }
+  ],
+  "full_text": "The party game element comes out! Pretty low probability on that though! bair Shield hitbox involved there Solid combo damage! Even from that spacing, the jump connects! That goes right through!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "空中しろ",
+      "corrected": "空後",
+      "rule": "smash term (空中後ろ)"
+    }
+  ]
+}

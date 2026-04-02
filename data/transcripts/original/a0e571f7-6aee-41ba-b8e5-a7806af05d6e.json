@@ -1,0 +1,38 @@
+{
+  "id": "a0e571f7-6aee-41ba-b8e5-a7806af05d6e",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "まだ耐える!",
+      "language": "ja"
+    },
+    {
+      "start": 2.0,
+      "end": 3.0,
+      "text": "なるほど",
+      "language": "ja"
+    },
+    {
+      "start": 3.0,
+      "end": 5.0,
+      "text": "足りないと判断してるのだったんですか",
+      "language": "ja"
+    },
+    {
+      "start": 5.0,
+      "end": 7.0,
+      "text": "ダメージとしても十分ですからね",
+      "language": "ja"
+    },
+    {
+      "start": 7.0,
+      "end": 9.0,
+      "text": "さあお互い100%",
+      "language": "ja"
+    }
+  ],
+  "full_text": "まだ耐える! なるほど 足りないと判断してるのだったんですか ダメージとしても十分ですからね さあお互い100%",
+  "detected_language": "ja",
+  "corrections": []
+}

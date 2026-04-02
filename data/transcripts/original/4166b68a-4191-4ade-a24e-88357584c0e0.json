@@ -1,0 +1,57 @@
+{
+  "id": "4166b68a-4191-4ade-a24e-88357584c0e0",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.28,
+      "text": "刺さっていたらえらいことになっていた",
+      "language": "ja"
+    },
+    {
+      "start": 1.28,
+      "end": 2.12,
+      "text": "空中後ろ",
+      "language": "ja"
+    },
+    {
+      "start": 2.12,
+      "end": 5.66,
+      "text": "これはまずいか",
+      "language": "ja"
+    },
+    {
+      "start": 5.66,
+      "end": 7.56,
+      "text": "来ましたから",
+      "language": "ja"
+    },
+    {
+      "start": 7.56,
+      "end": 8.24,
+      "text": "帰ります",
+      "language": "ja"
+    },
+    {
+      "start": 8.24,
+      "end": 10.28,
+      "text": "上がらせない空中後ろ",
+      "language": "ja"
+    }
+  ],
+  "full_text": "刺さっていたらえらいことになっていた 空中後ろ これはまずいか 来ましたから 帰ります 上がらせない空中後ろ",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "空中しろ",
+      "corrected": "空中後ろ",
+      "rule": "Smash term: 空中後ろ (back air), しろ→後ろ"
+    },
+    {
+      "segment_idx": 5,
+      "original": "空中しろ",
+      "corrected": "空中後ろ",
+      "rule": "Smash term: 空中後ろ (back air), しろ→後ろ"
+    }
+  ]
+}

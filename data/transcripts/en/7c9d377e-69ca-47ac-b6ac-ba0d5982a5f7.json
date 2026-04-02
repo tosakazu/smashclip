@@ -1,0 +1,48 @@
+{
+  "id": "7c9d377e-69ca-47ac-b6ac-ba0d5982a5f7",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.5,
+      "text": "Matching your DI perfectly to that route",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "かかるルートにリンゴのベクトルを完璧に合わせる"
+    },
+    {
+      "start": 3.5,
+      "end": 8.32,
+      "text": "Yeah, Sonic really does have to be aggressive in this situation",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "やっぱりね結構本当にソニックが攻めなきゃいけないような展開になってて"
+    },
+    {
+      "start": 8.32,
+      "end": 13.16,
+      "text": "And Tea's adapting to it",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "それにTeaが対応してるって感じです"
+    },
+    {
+      "start": 13.16,
+      "end": 14.98,
+      "text": "Looking to rush in here",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここに飛び出したくて"
+    }
+  ],
+  "full_text": "Matching your DI perfectly to that route Yeah, Sonic really does have to be aggressive in this situation And Tea's adapting to it Looking to rush in here",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "T",
+      "corrected": "Tea",
+      "rule": "player name: T→Tea"
+    }
+  ]
+}

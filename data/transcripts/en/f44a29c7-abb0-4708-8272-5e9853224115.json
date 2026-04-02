@@ -1,0 +1,64 @@
+{
+  "id": "f44a29c7-abb0-4708-8272-5e9853224115",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.84,
+      "text": "Forward's startup is clean, maybe",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "フォアで発生を根本かなしかも"
+    },
+    {
+      "start": 1.84,
+      "end": 5.62,
+      "text": "Fox is a character with very fast fall speed, so...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "フォックスは落下が非常に早いファイターですので"
+    },
+    {
+      "start": 5.62,
+      "end": 7.84,
+      "text": "This kind of falling shield play",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "こういった落下してシールドみたいな"
+    },
+    {
+      "start": 7.84,
+      "end": 9.32,
+      "text": "It's a strong option, though",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "強い択なんですけどね"
+    },
+    {
+      "start": 9.32,
+      "end": 10.0,
+      "text": "Made the call",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "呼びかけました"
+    },
+    {
+      "start": 10.0,
+      "end": 10.78,
+      "text": "Well then, and...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあそして"
+    }
+  ],
+  "full_text": "Forward's startup is clean, maybe Fox is a character with very fast fall speed, so... This kind of falling shield play It's a strong option, though Made the call Well then, and...",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 3,
+      "original": "強いタク",
+      "corrected": "強い択",
+      "rule": "katakana→kanji: タク→択"
+    }
+  ]
+}

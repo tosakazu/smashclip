@@ -1,0 +1,56 @@
+{
+  "id": "664ceb6f-5948-4e2f-9eee-e62c7a5d07a3",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.8,
+      "text": "Kikuzakari's Villager",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "きくざかり、むらびと"
+    },
+    {
+      "start": 0.8,
+      "end": 4.46,
+      "text": "Now Luceus is standing ready",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあしかし待ち構えるリゼアス"
+    },
+    {
+      "start": 4.46,
+      "end": 5.08,
+      "text": "Marth",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "マルス"
+    },
+    {
+      "start": 5.08,
+      "end": 7.54,
+      "text": "Boldly goes for the fair!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "あえてくっそーっと空中前攻撃"
+    },
+    {
+      "start": 7.54,
+      "end": 9.68,
+      "text": "Positioning before the top platform",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "あえて木の上の前に"
+    }
+  ],
+  "full_text": "Kikuzakari's Villager Now Luceus is standing ready Marth Boldly goes for the fair! Positioning before the top platform",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "キクザカリマラビト",
+      "corrected": "きくざかり、むらびと",
+      "rule": "player name + character name"
+    }
+  ]
+}

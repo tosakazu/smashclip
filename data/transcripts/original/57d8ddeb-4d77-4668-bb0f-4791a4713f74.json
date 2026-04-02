@@ -1,0 +1,26 @@
+{
+  "id": "57d8ddeb-4d77-4668-bb0f-4791a4713f74",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.72,
+      "text": "結構絶妙なところではありますが戻ってくる掴んでいる",
+      "language": "ja"
+    },
+    {
+      "start": 4.72,
+      "end": 6.3,
+      "text": "後ろ投げ",
+      "language": "ja"
+    },
+    {
+      "start": 6.3,
+      "end": 11.06,
+      "text": "これは",
+      "language": "ja"
+    }
+  ],
+  "full_text": "結構絶妙なところではありますが戻ってくる掴んでいる 後ろ投げ これは",
+  "detected_language": "ja",
+  "corrections": []
+}

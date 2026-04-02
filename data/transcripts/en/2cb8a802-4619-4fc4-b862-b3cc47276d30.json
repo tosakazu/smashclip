@@ -1,0 +1,64 @@
+{
+  "id": "2cb8a802-4619-4fc4-b862-b3cc47276d30",
+  "segments": [
+    {
+      "start": 0.32,
+      "end": 2.0,
+      "text": "Trolley catches them on the rush-in!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "切り込んできたとこにトロッコ"
+    },
+    {
+      "start": 2.0,
+      "end": 4.32,
+      "text": "There's bounce on it",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "バウンド分あって"
+    },
+    {
+      "start": 4.32,
+      "end": 5.66,
+      "text": "Didn't get the KO",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "まだ撃墜しなかったから"
+    },
+    {
+      "start": 5.66,
+      "end": 7.58,
+      "text": "Resetting",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ダイヤ補給"
+    },
+    {
+      "start": 7.58,
+      "end": 9.62,
+      "text": "Dash attack",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ダッシュ攻撃"
+    },
+    {
+      "start": 9.62,
+      "end": 11.98,
+      "text": "If they go for the platforms...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ブロックにアプローチ仕掛けてくるのであれば"
+    }
+  ],
+  "full_text": "Trolley catches them on the rush-in! There's bounce on it Didn't get the KO Resetting Dash attack If they go for the platforms...",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "まだ月夜しなかったから",
+      "corrected": "まだ撃墜しなかったから",
+      "rule": "misheard: 月夜→撃墜"
+    }
+  ]
+}

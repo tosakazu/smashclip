@@ -1,0 +1,153 @@
+{
+  "id": "029723ec-5000-453c-a098-842800e31297",
+  "segments": [
+    {
+      "start": 0.8,
+      "end": 3.6,
+      "text": "後ろ側に当たったか前側に当たったか判断も",
+      "language": "ja"
+    },
+    {
+      "start": 3.6,
+      "end": 5.84,
+      "text": "より迅速なものが求められたか",
+      "language": "ja"
+    },
+    {
+      "start": 5.84,
+      "end": 8.12,
+      "text": "投げからの追い 空N",
+      "language": "ja"
+    },
+    {
+      "start": 8.12,
+      "end": 11.42,
+      "text": "弱 下スマが通った",
+      "language": "ja"
+    },
+    {
+      "start": 11.42,
+      "end": 14.62,
+      "text": "もうでも崖上がり空N",
+      "language": "ja"
+    },
+    {
+      "start": 14.62,
+      "end": 16.24,
+      "text": "もう一回空N",
+      "language": "ja"
+    },
+    {
+      "start": 16.24,
+      "end": 19.78,
+      "text": "台復帰も見ている空N",
+      "language": "ja"
+    },
+    {
+      "start": 19.78,
+      "end": 22.68,
+      "text": "もう一回空Nからここも飛び越えて",
+      "language": "ja"
+    },
+    {
+      "start": 22.68,
+      "end": 25.36,
+      "text": "上Bで弾いて下スマも通った",
+      "language": "ja"
+    },
+    {
+      "start": 25.36,
+      "end": 26.38,
+      "text": "ナイス 下スマ",
+      "language": "ja"
+    },
+    {
+      "start": 26.38,
+      "end": 28.36,
+      "text": "横スマでシールドブレイク",
+      "language": "ja"
+    },
+    {
+      "start": 28.36,
+      "end": 31.6,
+      "text": "上スマで撃墜だ",
+      "language": "ja"
+    }
+  ],
+  "full_text": "後ろ側に当たったか前側に当たったか判断も より迅速なものが求められたか 投げからの追い 空N 弱 下スマが通った もうでも崖上がり空N もう一回空N 台復帰も見ている空N もう一回空Nからここも飛び越えて 上Bで弾いて下スマも通った ナイス 下スマ 横スマでシールドブレイク 上スマで撃墜だ",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "投げ方を追った空中A",
+      "corrected": "投げからの追い 空N",
+      "rule": "misheard term"
+    },
+    {
+      "segment_idx": 3,
+      "original": "弱?スカッシャクシが通った",
+      "corrected": "弱 下スマが通った",
+      "rule": "misheard term"
+    },
+    {
+      "segment_idx": 4,
+      "original": "もうでもガキ上がりQN",
+      "corrected": "もうでも崖上がりQN",
+      "rule": "auto-rule"
+    },
+    {
+      "segment_idx": 5,
+      "original": "もう一回空中A",
+      "corrected": "もう一回空N",
+      "rule": "move abbreviation"
+    },
+    {
+      "segment_idx": 6,
+      "original": "大補給も見ている空中A",
+      "corrected": "台復帰も見ている空N",
+      "rule": "kanji homophone + abbreviation"
+    },
+    {
+      "segment_idx": 7,
+      "original": "もう一回QNからここも飛び越えて",
+      "corrected": "もう一回空Nからここも飛び越えて",
+      "rule": "abbreviation"
+    },
+    {
+      "segment_idx": 8,
+      "original": "上Bで弾いてスカッシャクシも通った",
+      "corrected": "上Bで弾いて下スマも通った",
+      "rule": "misheard term"
+    },
+    {
+      "segment_idx": 9,
+      "original": "ナイスタースマッシュ",
+      "corrected": "ナイス 下スマ",
+      "rule": "misheard term"
+    },
+    {
+      "segment_idx": 10,
+      "original": "横スマッシュでシードブレイク",
+      "corrected": "横スマでシードブレイク",
+      "rule": "auto-rule"
+    },
+    {
+      "segment_idx": 10,
+      "original": "シードブレイク",
+      "corrected": "シールドブレイク",
+      "rule": "misheard term"
+    },
+    {
+      "segment_idx": 11,
+      "original": "上スマッシュで撃墜だ",
+      "corrected": "上スマで撃墜だ",
+      "rule": "auto-rule"
+    },
+    {
+      "segment_idx": 4,
+      "original": "QN",
+      "corrected": "空N",
+      "rule": "abbreviation"
+    }
+  ]
+}

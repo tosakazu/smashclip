@@ -1,0 +1,33 @@
+{
+  "id": "63a2e629-1c77-4198-90a4-453fdc7d5ea5",
+  "segments": [
+    {
+      "start": 0.64,
+      "end": 6.32,
+      "text": "high key be making it look like it's impossible to get edge guarded with regular up B yeah which",
+      "language": "en"
+    },
+    {
+      "start": 6.32,
+      "end": 15.92,
+      "text": "is crazy with Limit it's like yeah no I might even reversal you here but the up tilt though",
+      "language": "en"
+    }
+  ],
+  "full_text": "high key be making it look like it's impossible to get edge guarded with regular up B yeah which is crazy with Limit it's like yeah no I might even reversal you here but the up tilt though",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "upbeat",
+      "corrected": "up B",
+      "rule": "move name"
+    },
+    {
+      "segment_idx": 1,
+      "original": "limit",
+      "corrected": "Limit",
+      "rule": "capitalization (Cloud mechanic)"
+    }
+  ]
+}

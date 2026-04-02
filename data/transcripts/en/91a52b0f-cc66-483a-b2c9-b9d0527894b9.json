@@ -1,0 +1,40 @@
+{
+  "id": "91a52b0f-cc66-483a-b2c9-b9d0527894b9",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.36,
+      "text": "No, two purples—the tipper got it to the side!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いや、紫2つ、先端で当たった横に"
+    },
+    {
+      "start": 4.36,
+      "end": 10.26,
+      "text": "Yeah, this Pikmin throw is really solid for line recovery",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いやー、このピクミン投げですとね、ライン回復としてはかなり優秀で"
+    },
+    {
+      "start": 10.26,
+      "end": 13.44,
+      "text": "and it's definitely an option the Pikmin player wants to land",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ピクミン側としてもかなり通したい択ではあるので"
+    }
+  ],
+  "full_text": "No, two purples—the tipper got it to the side! Yeah, this Pikmin throw is really solid for line recovery and it's definitely an option the Pikmin player wants to land",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "卓",
+      "corrected": "択",
+      "rule": "kanji homophone"
+    }
+  ]
+}

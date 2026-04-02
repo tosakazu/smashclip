@@ -1,0 +1,69 @@
+{
+  "id": "7d60d1dc-a260-4f35-99bb-9e7872beca00",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.1,
+      "text": "しかしそれは分かっているでしょう",
+      "language": "ja"
+    },
+    {
+      "start": 2.1,
+      "end": 3.18,
+      "text": "たまPだいふく選手も",
+      "language": "ja"
+    },
+    {
+      "start": 3.18,
+      "end": 3.82,
+      "text": "さあ出たぞ",
+      "language": "ja"
+    },
+    {
+      "start": 3.82,
+      "end": 4.72,
+      "text": "ダイヤモンド",
+      "language": "ja"
+    },
+    {
+      "start": 4.72,
+      "end": 6.2,
+      "text": "装填完了",
+      "language": "ja"
+    },
+    {
+      "start": 6.2,
+      "end": 8.92,
+      "text": "反撃の準備は整える",
+      "language": "ja"
+    },
+    {
+      "start": 8.92,
+      "end": 11.92,
+      "text": "161%",
+      "language": "ja"
+    },
+    {
+      "start": 11.92,
+      "end": 15.52,
+      "text": "この上スマッシュは横スマッシュで撃墜",
+      "language": "ja"
+    }
+  ],
+  "full_text": "しかしそれは分かっているでしょう たまPだいふく選手も さあ出たぞ ダイヤモンド 装填完了 反撃の準備は整える 161% この上スマッシュは横スマッシュで撃墜",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "タマピーダイク選手",
+      "corrected": "たまPだいふく選手",
+      "rule": "player name: タマピーダイク→たまPだいふく"
+    },
+    {
+      "segment_idx": 3,
+      "original": "ダイヤマンド",
+      "corrected": "ダイヤモンド",
+      "rule": "misheard: ダイヤマンド→ダイヤモンド (Steve's diamond)"
+    }
+  ]
+}

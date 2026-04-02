@@ -1,0 +1,44 @@
+{
+  "id": "2a8bf8c6-0cc3-42d0-8771-555b78bc94fb",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.98,
+      "text": "Y todo lo que haga falta",
+      "language": "es"
+    },
+    {
+      "start": 0.98,
+      "end": 4.72,
+      "text": "Claro, ahora tiene que tomar las informaciones",
+      "language": "es"
+    },
+    {
+      "start": 4.72,
+      "end": 5.38,
+      "text": "Eso es",
+      "language": "es"
+    },
+    {
+      "start": 5.38,
+      "end": 6.74,
+      "text": "Para adaptarse mejor en la próxima partida",
+      "language": "es"
+    },
+    {
+      "start": 6.74,
+      "end": 7.96,
+      "text": "Creo que eso ya está, eh",
+      "language": "es"
+    },
+    {
+      "start": 7.96,
+      "end": 9.5,
+      "text": "Madre mía, cómo está",
+      "language": "es"
+    }
+  ],
+  "full_text": "Y todo lo que haga falta Claro, ahora tiene que tomar las informaciones Eso es Para adaptarse mejor en la próxima partida Creo que eso ya está, eh Madre mía, cómo está",
+  "detected_language": "es",
+  "corrections": []
+}

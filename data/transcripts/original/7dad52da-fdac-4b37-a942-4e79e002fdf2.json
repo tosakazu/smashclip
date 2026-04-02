@@ -1,0 +1,57 @@
+{
+  "id": "7dad52da-fdac-4b37-a942-4e79e002fdf2",
+  "segments": [
+    {
+      "start": 0.88,
+      "end": 2.74,
+      "text": "とりあえず缶帰ってこい",
+      "language": "ja"
+    },
+    {
+      "start": 2.74,
+      "end": 4.62,
+      "text": "移動回避に空前",
+      "language": "ja"
+    },
+    {
+      "start": 4.62,
+      "end": 5.4,
+      "text": "缶を出して",
+      "language": "ja"
+    },
+    {
+      "start": 5.4,
+      "end": 7.08,
+      "text": "これねー",
+      "language": "ja"
+    },
+    {
+      "start": 7.08,
+      "end": 9.8,
+      "text": "これねー",
+      "language": "ja"
+    }
+  ],
+  "full_text": "とりあえず缶帰ってこい 移動回避に空前 缶を出して これねー これねー",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "艦帰ってこい",
+      "corrected": "缶帰ってこい",
+      "rule": "kanji homophone: 艦→缶 (Duck Hunt's can)"
+    },
+    {
+      "segment_idx": 1,
+      "original": "空中しろ",
+      "corrected": "空前",
+      "rule": "misheard: 空中しろ→空前 (move is 空前)"
+    },
+    {
+      "segment_idx": 2,
+      "original": "艦を出して",
+      "corrected": "缶を出して",
+      "rule": "kanji homophone: 艦→缶 (Duck Hunt's can)"
+    }
+  ]
+}

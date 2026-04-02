@@ -1,0 +1,56 @@
+{
+  "id": "cb10f76f-3182-416a-9c34-3a9a363644ba",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.2,
+      "text": "And Double Up going in with the dair!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そしてダブルアップの空中下を入る"
+    },
+    {
+      "start": 2.2,
+      "end": 3.32,
+      "text": "Another dair!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "再び空中下"
+    },
+    {
+      "start": 3.32,
+      "end": 4.34,
+      "text": "Close one!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "危なかった"
+    },
+    {
+      "start": 4.34,
+      "end": 7.1,
+      "text": "This is",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これは"
+    },
+    {
+      "start": 7.1,
+      "end": 10.62,
+      "text": "The KO connects with Riff!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "リフで撃墜が通されて"
+    }
+  ],
+  "full_text": "And Double Up going in with the dair! Another dair! Close one! This is The KO connects with Riff!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 4,
+      "original": "リーフ",
+      "corrected": "リフ",
+      "rule": "smash term (リフティング/リフコン)"
+    }
+  ]
+}

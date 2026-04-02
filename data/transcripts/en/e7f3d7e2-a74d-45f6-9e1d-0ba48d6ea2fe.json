@@ -1,0 +1,70 @@
+{
+  "id": "e7f3d7e2-a74d-45f6-9e1d-0ba48d6ea2fe",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.54,
+      "text": "Neutral B connects for the KO!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "はいNB通して撃墜"
+    },
+    {
+      "start": 1.54,
+      "end": 5.64,
+      "text": "The match is picking up pace again",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "試合がまたも早く動きます"
+    },
+    {
+      "start": 5.64,
+      "end": 9.96,
+      "text": "From the turnaround nair, if it catches, Young Link's got the offense",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "反転から空中Nで絡んだら今度はキョンリンクの攻めになる"
+    },
+    {
+      "start": 9.96,
+      "end": 11.84,
+      "text": "After the fair goes through",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空中前通し切ったその後"
+    },
+    {
+      "start": 11.84,
+      "end": 15.24,
+      "text": "Boomerang fair connects!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ブーメラン空中前通る"
+    },
+    {
+      "start": 15.24,
+      "end": 18.72,
+      "text": "Not a KO yet, but the pressure's mounting",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "まだ撃墜はしないがプレッシャーがかかってくる"
+    }
+  ],
+  "full_text": "Neutral B connects for the KO! The match is picking up pace again From the turnaround nair, if it catches, Young Link's got the offense After the fair goes through Boomerang fair connects! Not a KO yet, but the pressure's mounting",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "エビー",
+      "corrected": "NB",
+      "rule": "misheard: エビー→NB"
+    },
+    {
+      "segment_idx": 2,
+      "original": "ハンデから空中に寝たら",
+      "corrected": "反転から空中Nで絡んだら",
+      "rule": "misheard"
+    }
+  ]
+}

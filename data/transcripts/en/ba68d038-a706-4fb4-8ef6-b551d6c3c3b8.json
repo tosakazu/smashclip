@@ -1,0 +1,38 @@
+{
+  "id": "ba68d038-a706-4fb4-8ef6-b551d6c3c3b8",
+  "segments": [
+    {
+      "start": 0.88,
+      "end": 3.92,
+      "text": "Very close to death and the double purple with the white.",
+      "language": "en"
+    },
+    {
+      "start": 3.92,
+      "end": 6.6,
+      "text": "How did the purple just firm down there?",
+      "language": "en"
+    },
+    {
+      "start": 6.6,
+      "end": 7.6,
+      "text": "What?",
+      "language": "en"
+    },
+    {
+      "start": 7.6,
+      "end": 8.6,
+      "text": "Are we for real?",
+      "language": "en"
+    },
+    {
+      "start": 8.6,
+      "end": 9.86,
+      "text": "Goryoka is that you?",
+      "language": "en"
+    }
+  ],
+  "full_text": "Very close to death and the double purple with the white. How did the purple just firm down there? What? Are we for real? Goryoka is that you?",
+  "detected_language": "en",
+  "corrections": []
+}

@@ -1,0 +1,48 @@
+{
+  "id": "667da190-250b-4330-b237-a3a9c09269f5",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.6,
+      "text": "I'm seeing some sketchy footwork there!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ステップから怪しい動きが見えました"
+    },
+    {
+      "start": 3.6,
+      "end": 5.9,
+      "text": "He's reading it perfectly!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "きっちり見ていますね"
+    },
+    {
+      "start": 5.9,
+      "end": 9.0,
+      "text": "Avoids the boomerang with fair!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ブーメラン避けて空前"
+    },
+    {
+      "start": 9.0,
+      "end": 10.62,
+      "text": "From that close range!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "あの近距離で"
+    }
+  ],
+  "full_text": "I'm seeing some sketchy footwork there! He's reading it perfectly! Avoids the boomerang with fair! From that close range!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "避けてくる前",
+      "corrected": "避けて空前",
+      "rule": "move abbreviation (くうまえ)"
+    }
+  ]
+}

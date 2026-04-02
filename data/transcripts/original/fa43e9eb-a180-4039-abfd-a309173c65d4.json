@@ -1,0 +1,50 @@
+{
+  "id": "fa43e9eb-a180-4039-abfd-a309173c65d4",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.16,
+      "text": "素直に来ましたね",
+      "language": "ja"
+    },
+    {
+      "start": 1.16,
+      "end": 2.84,
+      "text": "今のはシンプル",
+      "language": "ja"
+    },
+    {
+      "start": 2.84,
+      "end": 4.04,
+      "text": "壁すら立てねえよと",
+      "language": "ja"
+    },
+    {
+      "start": 4.04,
+      "end": 7.6,
+      "text": "そして103%です",
+      "language": "ja"
+    },
+    {
+      "start": 7.6,
+      "end": 9.08,
+      "text": "守りきれるかどうか",
+      "language": "ja"
+    },
+    {
+      "start": 9.08,
+      "end": 9.78,
+      "text": "どうなる",
+      "language": "ja"
+    },
+    {
+      "start": 9.78,
+      "end": 10.8,
+      "text": "倒しきり",
+      "language": "ja"
+    }
+  ],
+  "full_text": "素直に来ましたね 今のはシンプル 壁すら立てねえよと そして103%です 守りきれるかどうか どうなる 倒しきり",
+  "detected_language": "ja",
+  "corrections": []
+}

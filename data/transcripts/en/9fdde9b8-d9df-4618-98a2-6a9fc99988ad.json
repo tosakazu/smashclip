@@ -1,0 +1,64 @@
+{
+  "id": "9fdde9b8-d9df-4618-98a2-6a9fc99988ad",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.2,
+      "text": "A bit too far to land the grab",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "つかみを振るにはやや遠い位置"
+    },
+    {
+      "start": 3.2,
+      "end": 5.78,
+      "text": "Getting sandwiched between the two would be rough",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "というか本体と相方に挟まれると"
+    },
+    {
+      "start": 5.78,
+      "end": 6.94,
+      "text": "That's scary",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "怖いな"
+    },
+    {
+      "start": 6.94,
+      "end": 8.9,
+      "text": "Since Terry's auto-turnaround works on the main body",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "テリーの場合自動振り向きが本体に"
+    },
+    {
+      "start": 8.9,
+      "end": 10.24,
+      "text": "so",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "機能するので"
+    },
+    {
+      "start": 10.24,
+      "end": 11.3,
+      "text": "Looks like bair is the move",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "もう空後か"
+    }
+  ],
+  "full_text": "A bit too far to land the grab Getting sandwiched between the two would be rough That's scary Since Terry's auto-turnaround works on the main body so Looks like bair is the move",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 5,
+      "original": "空中しろ",
+      "corrected": "空後",
+      "rule": "move abbreviation (back air)"
+    }
+  ]
+}

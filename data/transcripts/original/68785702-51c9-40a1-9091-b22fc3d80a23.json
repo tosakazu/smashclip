@@ -1,0 +1,57 @@
+{
+  "id": "68785702-51c9-40a1-9091-b22fc3d80a23",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.1,
+      "text": "最低限の処理は行いつつ展開の方を優先",
+      "language": "ja"
+    },
+    {
+      "start": 3.1,
+      "end": 5.6,
+      "text": "じわりじわりとラインを詰めて",
+      "language": "ja"
+    },
+    {
+      "start": 5.6,
+      "end": 8.58,
+      "text": "どこかで大きなリターンを取ってやろうと虎視眈々と攻め",
+      "language": "ja"
+    },
+    {
+      "start": 8.58,
+      "end": 11.0,
+      "text": "引っ付いてるピクミン",
+      "language": "ja"
+    },
+    {
+      "start": 11.0,
+      "end": 11.88,
+      "text": "これはどうしていて",
+      "language": "ja"
+    },
+    {
+      "start": 11.88,
+      "end": 14.28,
+      "text": "グワーッ!構えていた上スマッシュ",
+      "language": "ja"
+    }
+  ],
+  "full_text": "最低限の処理は行いつつ展開の方を優先 じわりじわりとラインを詰めて どこかで大きなリターンを取ってやろうと虎視眈々と攻め 引っ付いてるピクミン これはどうしていて グワーッ!構えていた上スマッシュ",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "コシタンタトメ",
+      "corrected": "虎視眈々と攻め",
+      "rule": "misheard idiom (こしたんたんとせめ)"
+    },
+    {
+      "segment_idx": 5,
+      "original": "ぐわーち構えていた",
+      "corrected": "グワーッ!構えていた",
+      "rule": "exclamation formatting"
+    }
+  ]
+}

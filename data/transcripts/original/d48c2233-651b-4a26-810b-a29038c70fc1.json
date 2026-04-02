@@ -1,0 +1,51 @@
+{
+  "id": "d48c2233-651b-4a26-810b-a29038c70fc1",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "勝った状況を継続するような",
+      "language": "ja"
+    },
+    {
+      "start": 2.0,
+      "end": 4.0,
+      "text": "さあガード張り倒してる",
+      "language": "ja"
+    },
+    {
+      "start": 4.0,
+      "end": 5.0,
+      "text": "さあボンプ",
+      "language": "ja"
+    },
+    {
+      "start": 5.0,
+      "end": 6.0,
+      "text": "ここ",
+      "language": "ja"
+    },
+    {
+      "start": 6.0,
+      "end": 8.0,
+      "text": "読み切りのグッドでした",
+      "language": "ja"
+    }
+  ],
+  "full_text": "勝った状況を継続するような さあガード張り倒してる さあボンプ ここ 読み切りのグッドでした",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "カード張り倒してる",
+      "corrected": "ガード張り倒してる",
+      "rule": "smash term (カード→ガード)"
+    },
+    {
+      "segment_idx": 4,
+      "original": "グッズでした",
+      "corrected": "グッドでした",
+      "rule": "mishearing (グッズ→グッド)"
+    }
+  ]
+}

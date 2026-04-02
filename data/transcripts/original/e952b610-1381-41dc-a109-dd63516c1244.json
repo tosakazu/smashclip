@@ -1,0 +1,39 @@
+{
+  "id": "e952b610-1381-41dc-a109-dd63516c1244",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.6,
+      "text": "崖で",
+      "language": "ja"
+    },
+    {
+      "start": 1.6,
+      "end": 3.74,
+      "text": "腹式呼吸下B溜めて",
+      "language": "ja"
+    },
+    {
+      "start": 3.74,
+      "end": 8.24,
+      "text": "もう撃墜が色々見えるぞ",
+      "language": "ja"
+    },
+    {
+      "start": 8.24,
+      "end": 9.68,
+      "text": "空中後ろ",
+      "language": "ja"
+    }
+  ],
+  "full_text": "崖で 腹式呼吸下B溜めて もう撃墜が色々見えるぞ 空中後ろ",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "下火溜めて",
+      "corrected": "下B溜めて",
+      "rule": "misheard: 下火→下B (WFT's deep breathing is NB but context suggests 下B)"
+    }
+  ]
+}

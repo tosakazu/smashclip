@@ -1,0 +1,21 @@
+{
+  "id": "df1f6a37-5ce3-4ebb-a5c9-f3d1f8e21338",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.28,
+      "text": "Grab gonna whiff and the down air is coming out but",
+      "language": "en"
+    }
+  ],
+  "full_text": "Grab gonna whiff and the down air is coming out but",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "gunna",
+      "corrected": "gonna",
+      "rule": "spelling"
+    }
+  ]
+}

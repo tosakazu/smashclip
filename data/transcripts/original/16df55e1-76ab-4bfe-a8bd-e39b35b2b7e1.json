@@ -1,0 +1,26 @@
+{
+  "id": "16df55e1-76ab-4bfe-a8bd-e39b35b2b7e1",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.08,
+      "text": "パーセンテージも166%という状況をさらに掴んでいく",
+      "language": "ja"
+    },
+    {
+      "start": 5.08,
+      "end": 8.48,
+      "text": "さあまだまだパーセンテージを取っていきます",
+      "language": "ja"
+    },
+    {
+      "start": 8.48,
+      "end": 12.06,
+      "text": "これは貫いていく",
+      "language": "ja"
+    }
+  ],
+  "full_text": "パーセンテージも166%という状況をさらに掴んでいく さあまだまだパーセンテージを取っていきます これは貫いていく",
+  "detected_language": "ja",
+  "corrections": []
+}

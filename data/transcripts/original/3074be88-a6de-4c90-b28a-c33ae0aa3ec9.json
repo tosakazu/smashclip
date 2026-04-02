@@ -1,0 +1,153 @@
+{
+  "id": "3074be88-a6de-4c90-b28a-c33ae0aa3ec9",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.96,
+      "text": "許されない状態",
+      "language": "ja"
+    },
+    {
+      "start": 0.96,
+      "end": 2.48,
+      "text": "らるルイージの",
+      "language": "ja"
+    },
+    {
+      "start": 2.48,
+      "end": 3.66,
+      "text": "見張りが効いてる",
+      "language": "ja"
+    },
+    {
+      "start": 3.66,
+      "end": 4.46,
+      "text": "見張りが効いてる",
+      "language": "ja"
+    },
+    {
+      "start": 4.46,
+      "end": 6.16,
+      "text": "いいところに壁がある",
+      "language": "ja"
+    },
+    {
+      "start": 6.16,
+      "end": 6.86,
+      "text": "そうして",
+      "language": "ja"
+    },
+    {
+      "start": 6.86,
+      "end": 7.72,
+      "text": "登り空N",
+      "language": "ja"
+    },
+    {
+      "start": 7.72,
+      "end": 9.16,
+      "text": "しかし展開はついてこない",
+      "language": "ja"
+    },
+    {
+      "start": 9.16,
+      "end": 11.0,
+      "text": "かなり苦しい状況になったぞ",
+      "language": "ja"
+    },
+    {
+      "start": 11.0,
+      "end": 11.8,
+      "text": "しかし",
+      "language": "ja"
+    },
+    {
+      "start": 11.8,
+      "end": 12.34,
+      "text": "掴んだ",
+      "language": "ja"
+    },
+    {
+      "start": 12.34,
+      "end": 13.74,
+      "text": "それは通さざるを得ないが",
+      "language": "ja"
+    },
+    {
+      "start": 13.74,
+      "end": 14.74,
+      "text": "外側へと",
+      "language": "ja"
+    },
+    {
+      "start": 14.74,
+      "end": 15.8,
+      "text": "倒しきった",
+      "language": "ja"
+    },
+    {
+      "start": 15.8,
+      "end": 17.66,
+      "text": "空後",
+      "language": "ja"
+    },
+    {
+      "start": 17.66,
+      "end": 18.42,
+      "text": "崖よく見ていて",
+      "language": "ja"
+    },
+    {
+      "start": 18.42,
+      "end": 18.84,
+      "text": "ダウン",
+      "language": "ja"
+    },
+    {
+      "start": 18.84,
+      "end": 20.1,
+      "text": "ダッシュ攻撃",
+      "language": "ja"
+    }
+  ],
+  "full_text": "許されない状態 らるルイージの 見張りが効いてる 見張りが効いてる いいところに壁がある そうして 登り空N しかし展開はついてこない かなり苦しい状況になったぞ しかし 掴んだ それは通さざるを得ないが 外側へと 倒しきった 空後 崖よく見ていて ダウン ダッシュ攻撃",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "ラルー",
+      "corrected": "らる",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 6,
+      "original": "登りクエネ",
+      "corrected": "登り空N",
+      "rule": "move name: クエネ→空N"
+    },
+    {
+      "segment_idx": 9,
+      "original": "しかして",
+      "corrected": "しかし",
+      "rule": "Whisper misrecognition"
+    },
+    {
+      "segment_idx": 14,
+      "original": "空中しろ",
+      "corrected": "空後",
+      "rule": "move name normalization"
+    },
+    {
+      "segment_idx": 15,
+      "original": "海峡見ていて",
+      "corrected": "崖よく見ていて",
+      "rule": "misheard: 海峡→崖よく"
+    },
+    {
+      "segment_idx": 17,
+      "original": "見出し攻撃",
+      "corrected": "ダッシュ攻撃",
+      "rule": "move name: 見出し攻撃→DA"
+    }
+  ]
+}

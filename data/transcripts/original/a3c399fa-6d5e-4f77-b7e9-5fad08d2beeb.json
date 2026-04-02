@@ -1,0 +1,55 @@
+{
+  "id": "a3c399fa-6d5e-4f77-b7e9-5fad08d2beeb",
+  "segments": [
+    {
+      "start": 0.56,
+      "end": 1.6,
+      "text": "繋がらなかったが",
+      "language": "ja"
+    },
+    {
+      "start": 1.6,
+      "end": 4.04,
+      "text": "ダメージが伸びる伸びる",
+      "language": "ja"
+    },
+    {
+      "start": 4.04,
+      "end": 5.38,
+      "text": "あっという間に80%",
+      "language": "ja"
+    },
+    {
+      "start": 5.38,
+      "end": 7.66,
+      "text": "さあなおちゃディディ",
+      "language": "ja"
+    },
+    {
+      "start": 7.66,
+      "end": 9.5,
+      "text": "この崖狩れるか?フリップキャンセル空後",
+      "language": "ja"
+    },
+    {
+      "start": 9.5,
+      "end": 12.8,
+      "text": "うまく拾って横スマッシュ",
+      "language": "ja"
+    }
+  ],
+  "full_text": "繋がらなかったが ダメージが伸びる伸びる あっという間に80% さあなおちゃディディ この崖狩れるか?フリップキャンセル空後 うまく拾って横スマッシュ",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "original": "ナオチャディディ",
+      "corrected": "なおちゃディディ",
+      "reason": "プレイヤー名なおちゃ + キャラ名ディディ"
+    },
+    {
+      "original": "クーゴ",
+      "corrected": "空後",
+      "reason": "空中後ろ攻撃の略称"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "id": "0358d695-1b41-47f3-b19b-dcab659d0732",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.04,
+      "text": "He's a fighter, so",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ファイターではあるので"
+    },
+    {
+      "start": 1.04,
+      "end": 4.0,
+      "text": "even as Fighting Mii, is that still there?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "格闘Miiになってもそれは健在か"
+    },
+    {
+      "start": 4.0,
+      "end": 5.7,
+      "text": "Alright, Nao-chan's looking to",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあなおちゃはまずは"
+    },
+    {
+      "start": 5.7,
+      "end": 6.44,
+      "text": "take the first stock",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "1ストック取りたい"
+    }
+  ],
+  "full_text": "He's a fighter, so even as Fighting Mii, is that still there? Alright, Nao-chan's looking to take the first stock",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "格闘味になっても",
+      "corrected": "格闘Miiになっても",
+      "rule": "misheard character name"
+    },
+    {
+      "segment_idx": 2,
+      "original": "さあ直ちはまずは",
+      "corrected": "さあなおちゃはまずは",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 3,
+      "original": "1速取りたい",
+      "corrected": "1ストック取りたい",
+      "rule": "misheard term"
+    }
+  ]
+}

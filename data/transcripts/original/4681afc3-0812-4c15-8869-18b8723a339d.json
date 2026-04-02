@@ -1,0 +1,20 @@
+{
+  "id": "4681afc3-0812-4c15-8869-18b8723a339d",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.14,
+      "text": "de los 10 golpes, cero miedo, 130% que ya estamos teniendo la bola de pinchos para intentar",
+      "language": "es"
+    },
+    {
+      "start": 5.14,
+      "end": 10.82,
+      "text": "hacerlo de quitar, dándole la vuelta con la carta del 1, 140% y otra vez con la mordida",
+      "language": "es"
+    }
+  ],
+  "full_text": "de los 10 golpes, cero miedo, 130% que ya estamos teniendo la bola de pinchos para intentar hacerlo de quitar, dándole la vuelta con la carta del 1, 140% y otra vez con la mordida",
+  "detected_language": "es",
+  "corrections": []
+}

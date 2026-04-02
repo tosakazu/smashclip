@@ -1,0 +1,24 @@
+{
+  "id": "0fdefe4d-d122-46c6-9d02-b2dfd1b6e019",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.34,
+      "text": "Recovers back from the right!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "右に出していって右から復帰ルートで戻ってきたところ"
+    }
+  ],
+  "full_text": "Recovers back from the right!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "右に出していって右からプチルトラで戻ってきたところ",
+      "corrected": "右に出していって右から復帰ルートで戻ってきたところ",
+      "rule": "Whisper mishearing: プチルトラ→復帰ルート"
+    }
+  ]
+}

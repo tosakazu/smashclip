@@ -1,0 +1,40 @@
+{
+  "id": "45db1ca8-9ed1-4801-a7b2-83af90763fc5",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.64,
+      "text": "That's rough, and the forward smash is terrifying too!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "つらい 横スマッシュも怖すぎる"
+    },
+    {
+      "start": 2.64,
+      "end": 4.96,
+      "text": "For real",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "本当にね"
+    },
+    {
+      "start": 4.96,
+      "end": 8.68,
+      "text": "That's exactly why Shoe was playing it a bit more reserved",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "シューが少し小さかったからこそね"
+    }
+  ],
+  "full_text": "That's rough, and the forward smash is terrifying too! For real That's exactly why Shoe was playing it a bit more reserved",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "リオコスマッシュ",
+      "corrected": "横スマッシュ",
+      "rule": "misheard move name"
+    }
+  ]
+}

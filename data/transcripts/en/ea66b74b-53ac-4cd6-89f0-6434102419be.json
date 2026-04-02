@@ -1,0 +1,78 @@
+{
+  "id": "ea66b74b-53ac-4cd6-89f0-6434102419be",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.4,
+      "text": "That survival's huge!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "生存できたのはでかいと見るがそうと見るが"
+    },
+    {
+      "start": 2.4,
+      "end": 5.28,
+      "text": "Already got 2 diamonds mined",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ダイヤを2個採掘は完了していて"
+    },
+    {
+      "start": 5.28,
+      "end": 7.08,
+      "text": "Dash attack countered with a dash attack!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ダッシュ攻撃に差し返しのダッシュ攻撃"
+    },
+    {
+      "start": 7.08,
+      "end": 9.34,
+      "text": "Building 3-4 blocks stacked high",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "3段4段ブロックを重ねて"
+    },
+    {
+      "start": 9.34,
+      "end": 11.1,
+      "text": "Can't get back!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "らるが帰ってこれないぞ"
+    },
+    {
+      "start": 11.1,
+      "end": 12.0,
+      "text": "No, not escaping!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "あ、逃げない"
+    },
+    {
+      "start": 12.0,
+      "end": 14.34,
+      "text": "Walls are going up",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "もう壁が作られ"
+    }
+  ],
+  "full_text": "That survival's huge! Already got 2 diamonds mined Dash attack countered with a dash attack! Building 3-4 blocks stacked high Can't get back! No, not escaping! Walls are going up",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "存命できた",
+      "corrected": "生存できた",
+      "rule": "context"
+    },
+    {
+      "segment_idx": 4,
+      "original": "ライジ",
+      "corrected": "らる",
+      "rule": "player name"
+    }
+  ]
+}

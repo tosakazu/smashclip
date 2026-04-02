@@ -1,0 +1,26 @@
+{
+  "id": "24936525-24e4-4806-a56d-4b455b7630aa",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "できる",
+      "language": "ja"
+    },
+    {
+      "start": 5.36,
+      "end": 7.36,
+      "text": "さあ上投げで",
+      "language": "ja"
+    },
+    {
+      "start": 8.68,
+      "end": 10.68,
+      "text": "うまーい回避見てる",
+      "language": "ja"
+    }
+  ],
+  "full_text": "できる さあ上投げで うまーい回避見てる",
+  "detected_language": "ja",
+  "corrections": []
+}

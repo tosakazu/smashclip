@@ -1,0 +1,111 @@
+{
+  "id": "37285b1e-2a09-4571-8b2e-1af5bcd37641",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "分からなくなった しかもダイヤですよ",
+      "language": "ja"
+    },
+    {
+      "start": 2.0,
+      "end": 4.0,
+      "text": "全然あります はい、ワンタッチで",
+      "language": "ja"
+    },
+    {
+      "start": 4.0,
+      "end": 6.0,
+      "text": "逆転までやります",
+      "language": "ja"
+    },
+    {
+      "start": 6.0,
+      "end": 8.0,
+      "text": "トロッコを撒いた ジャンプ!",
+      "language": "ja"
+    },
+    {
+      "start": 8.0,
+      "end": 10.0,
+      "text": "読んでいる! おいしいの入って",
+      "language": "ja"
+    },
+    {
+      "start": 10.0,
+      "end": 12.0,
+      "text": "おいしい!54%差が",
+      "language": "ja"
+    },
+    {
+      "start": 12.0,
+      "end": 14.0,
+      "text": "やばいやばいやばい",
+      "language": "ja"
+    },
+    {
+      "start": 14.0,
+      "end": 16.0,
+      "text": "こうなるとソニックがある程度攻めたくなる",
+      "language": "ja"
+    },
+    {
+      "start": 16.0,
+      "end": 18.0,
+      "text": "下スマッシュ!",
+      "language": "ja"
+    },
+    {
+      "start": 18.0,
+      "end": 20.0,
+      "text": "ブロックをもう1個置いて",
+      "language": "ja"
+    },
+    {
+      "start": 20.0,
+      "end": 22.0,
+      "text": "いやー作り直してる!",
+      "language": "ja"
+    },
+    {
+      "start": 22.0,
+      "end": 24.0,
+      "text": "帰ってこられず!",
+      "language": "ja"
+    },
+    {
+      "start": 24.0,
+      "end": 26.0,
+      "text": "ちゃんとラバの後に",
+      "language": "ja"
+    },
+    {
+      "start": 26.0,
+      "end": 28.0,
+      "text": "ブロックを置き直してるんですよね",
+      "language": "ja"
+    },
+    {
+      "start": 28.0,
+      "end": 30.0,
+      "text": "すごいですね!",
+      "language": "ja"
+    }
+  ],
+  "full_text": "分からなくなった しかもダイヤですよ 全然あります はい、ワンタッチで 逆転までやります トロッコを撒いた ジャンプ! 読んでいる! おいしいの入って おいしい!54%差が やばいやばいやばい こうなるとソニックがある程度攻めたくなる 下スマッシュ! ブロックをもう1個置いて いやー作り直してる! 帰ってこられず! ちゃんとラバの後に ブロックを置き直してるんですよね すごいですね!",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 3,
+      "original": "トロコを巻いた",
+      "corrected": "トロッコを撒いた",
+      "rule": "Steve move: トロッコ"
+    },
+    {
+      "segment_idx": 12,
+      "original": "ちゃんとLVの後に",
+      "corrected": "ちゃんとラバの後に",
+      "rule": "Steve term: ラバ(lava)"
+    }
+  ]
+}

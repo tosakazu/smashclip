@@ -1,0 +1,45 @@
+{
+  "id": "d7f66779-c7d3-4687-840c-2fc0a8c0fd9b",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.32,
+      "text": "とはいえですよ",
+      "language": "ja"
+    },
+    {
+      "start": 2.32,
+      "end": 3.14,
+      "text": "そうですね",
+      "language": "ja"
+    },
+    {
+      "start": 3.14,
+      "end": 6.04,
+      "text": "これはパーセントが次は高いぞ",
+      "language": "ja"
+    },
+    {
+      "start": 6.04,
+      "end": 7.36,
+      "text": "チーコクモン",
+      "language": "ja"
+    },
+    {
+      "start": 7.36,
+      "end": 8.5,
+      "text": "間に合いきり",
+      "language": "ja"
+    }
+  ],
+  "full_text": "とはいえですよ そうですね これはパーセントが次は高いぞ チーコクモン 間に合いきり",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 4,
+      "original": "マセキリ",
+      "corrected": "間に合いきり",
+      "rule": "whisper_misrecognition"
+    }
+  ]
+}

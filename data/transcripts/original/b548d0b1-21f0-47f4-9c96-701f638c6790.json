@@ -1,0 +1,21 @@
+{
+  "id": "b548d0b1-21f0-47f4-9c96-701f638c6790",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 11.72,
+      "text": "Getting pushed back by Leo, who has this Arsene, still a half bar healthy, Dash attack isn't going to connect, but Hurt gets out of there relatively unscathed and able to punch.",
+      "language": "en"
+    }
+  ],
+  "full_text": "Getting pushed back by Leo, who has this Arsene, still a half bar healthy, Dash attack isn't going to connect, but Hurt gets out of there relatively unscathed and able to punch.",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "Dashtak",
+      "corrected": "Dash attack",
+      "rule": "move name"
+    }
+  ]
+}

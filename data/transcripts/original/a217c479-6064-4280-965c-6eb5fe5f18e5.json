@@ -1,0 +1,51 @@
+{
+  "id": "a217c479-6064-4280-965c-6eb5fe5f18e5",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.66,
+      "text": "崖狩りの展開",
+      "language": "ja"
+    },
+    {
+      "start": 0.66,
+      "end": 3.08,
+      "text": "おっと振り向きつかみが長い長い",
+      "language": "ja"
+    },
+    {
+      "start": 3.08,
+      "end": 4.46,
+      "text": "そのまま外に追い出して",
+      "language": "ja"
+    },
+    {
+      "start": 4.46,
+      "end": 5.5,
+      "text": "崖に追い出して",
+      "language": "ja"
+    },
+    {
+      "start": 5.5,
+      "end": 7.68,
+      "text": "崖上がりをとがめられるか",
+      "language": "ja"
+    },
+    {
+      "start": 7.68,
+      "end": 12.36,
+      "text": "上強はなるほど深めの回避で戻ってくると",
+      "language": "ja"
+    }
+  ],
+  "full_text": "崖狩りの展開 おっと振り向きつかみが長い長い そのまま外に追い出して 崖に追い出して 崖上がりをとがめられるか 上強はなるほど深めの回避で戻ってくると",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "口がり",
+      "corrected": "崖狩り",
+      "rule": "smash terminology"
+    }
+  ]
+}

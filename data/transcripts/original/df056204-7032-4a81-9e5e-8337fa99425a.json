@@ -1,0 +1,51 @@
+{
+  "id": "df056204-7032-4a81-9e5e-8337fa99425a",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.44,
+      "text": "で活躍しているウメキ選手と最近ここ1年でね急激に頭角を表したピーター",
+      "language": "ja"
+    },
+    {
+      "start": 6.44,
+      "end": 16.4,
+      "text": "ベクトルはないけどカバーとれはとしてパパ引いてあこれは大丈夫だよね仕方なかったですねえぐしかしその後100%スマッシュを止めていて撃墜はウメキで",
+      "language": "ja"
+    }
+  ],
+  "full_text": "で活躍しているウメキ選手と最近ここ1年でね急激に頭角を表したピーター ベクトルはないけどカバーとれはとしてパパ引いてあこれは大丈夫だよね仕方なかったですねえぐしかしその後100%スマッシュを止めていて撃墜はウメキで",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "メッキ選手",
+      "corrected": "ウメキ選手",
+      "rule": "player name (Umeki)"
+    },
+    {
+      "segment_idx": 0,
+      "original": "表せピター",
+      "corrected": "表したピーター",
+      "rule": "misheard word"
+    },
+    {
+      "segment_idx": 1,
+      "original": "ペットラーブないけどカーブとれはとして",
+      "corrected": "ベクトルはないけどカバーとれはとして",
+      "rule": "misheard word"
+    },
+    {
+      "segment_idx": 1,
+      "original": "仕方ないでしたね",
+      "corrected": "仕方なかったですね",
+      "rule": "misheard word"
+    },
+    {
+      "segment_idx": 1,
+      "original": "激痛は梅木で",
+      "corrected": "撃墜はウメキで",
+      "rule": "player name + misheard word"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "7eb89ab4-5d50-4a17-96f0-d963ac74948a",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.72,
+      "text": "当て半になりそうな雰囲気",
+      "language": "ja"
+    },
+    {
+      "start": 1.72,
+      "end": 3.1,
+      "text": "嫌な展開だったが",
+      "language": "ja"
+    },
+    {
+      "start": 3.1,
+      "end": 4.32,
+      "text": "横弱",
+      "language": "ja"
+    },
+    {
+      "start": 4.32,
+      "end": 7.44,
+      "text": "かなとこが",
+      "language": "ja"
+    }
+  ],
+  "full_text": "当て半になりそうな雰囲気 嫌な展開だったが 横弱 かなとこが",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "当てはんになりそうな雰囲気",
+      "corrected": "当て半になりそうな雰囲気",
+      "rule": "kanji: 当てはん→当て半"
+    },
+    {
+      "segment_idx": 2,
+      "original": "よこしゃく",
+      "corrected": "横弱",
+      "rule": "misheard: よこしゃく→横弱 (よこじゃく, side weak attack)"
+    }
+  ]
+}

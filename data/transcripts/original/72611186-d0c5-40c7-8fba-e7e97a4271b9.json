@@ -1,0 +1,123 @@
+{
+  "id": "72611186-d0c5-40c7-8fba-e7e97a4271b9",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "おーうまい!見てる!",
+      "language": "ja"
+    },
+    {
+      "start": 2.0,
+      "end": 4.0,
+      "text": "ギリギリ耐える",
+      "language": "ja"
+    },
+    {
+      "start": 4.0,
+      "end": 6.0,
+      "text": "ギリコンがある程度重量は?",
+      "language": "ja"
+    },
+    {
+      "start": 6.0,
+      "end": 8.0,
+      "text": "補填されているか?",
+      "language": "ja"
+    },
+    {
+      "start": 8.0,
+      "end": 10.0,
+      "text": "うますぎる!",
+      "language": "ja"
+    },
+    {
+      "start": 10.0,
+      "end": 12.0,
+      "text": "ラインを一瞬にして入れ替える",
+      "language": "ja"
+    },
+    {
+      "start": 12.0,
+      "end": 14.0,
+      "text": "どっちも撃墜する",
+      "language": "ja"
+    },
+    {
+      "start": 14.0,
+      "end": 16.0,
+      "text": "横強!",
+      "language": "ja"
+    },
+    {
+      "start": 16.0,
+      "end": 18.0,
+      "text": "何かさっきも見たそれ",
+      "language": "ja"
+    },
+    {
+      "start": 18.0,
+      "end": 20.0,
+      "text": "バナナを持っている状況",
+      "language": "ja"
+    },
+    {
+      "start": 20.0,
+      "end": 22.0,
+      "text": "掴みがえぐい!",
+      "language": "ja"
+    },
+    {
+      "start": 22.0,
+      "end": 24.0,
+      "text": "うますぎるー!",
+      "language": "ja"
+    },
+    {
+      "start": 24.0,
+      "end": 26.0,
+      "text": "うますぎるー!",
+      "language": "ja"
+    },
+    {
+      "start": 26.0,
+      "end": 28.0,
+      "text": "その掴みは",
+      "language": "ja"
+    },
+    {
+      "start": 28.0,
+      "end": 30.0,
+      "text": "その片目は",
+      "language": "ja"
+    },
+    {
+      "start": 30.0,
+      "end": 32.0,
+      "text": "絶対に",
+      "language": "ja"
+    }
+  ],
+  "full_text": "おーうまい!見てる! ギリギリ耐える ギリコンがある程度重量は? 補填されているか? うますぎる! ラインを一瞬にして入れ替える どっちも撃墜する 横強! 何かさっきも見たそれ バナナを持っている状況 掴みがえぐい! うますぎるー! うますぎるー! その掴みは その片目は 絶対に",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 6,
+      "original": "激戦する",
+      "corrected": "撃墜する",
+      "rule": "kanji homophone: 激戦→撃墜"
+    },
+    {
+      "segment_idx": 10,
+      "original": "片目がえぐい",
+      "corrected": "掴みがえぐい",
+      "rule": "Whisper mishearing"
+    },
+    {
+      "segment_idx": 13,
+      "original": "その片目は",
+      "corrected": "その掴みは",
+      "rule": "Whisper mishearing"
+    }
+  ]
+}

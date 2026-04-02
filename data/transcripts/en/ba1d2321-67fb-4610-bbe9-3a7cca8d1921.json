@@ -1,0 +1,116 @@
+{
+  "id": "ba1d2321-67fb-4610-bbe9-3a7cca8d1921",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.16,
+      "text": "3-2 situation",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "3-2状況"
+    },
+    {
+      "start": 1.16,
+      "end": 2.08,
+      "text": "Ledge battle",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "崖の攻防"
+    },
+    {
+      "start": 2.08,
+      "end": 3.64,
+      "text": "Holding shield, no movement",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ガードを固めて動きません"
+    },
+    {
+      "start": 3.64,
+      "end": 5.18,
+      "text": "Whoa!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "うひょー"
+    },
+    {
+      "start": 5.18,
+      "end": 5.66,
+      "text": "Bair",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空後"
+    },
+    {
+      "start": 5.66,
+      "end": 6.62,
+      "text": "If it's active, that's solid",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "持続であれば大丈夫"
+    },
+    {
+      "start": 6.62,
+      "end": 8.06,
+      "text": "Yeah",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "はい"
+    },
+    {
+      "start": 8.06,
+      "end": 8.94,
+      "text": "Roll up, grab!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "転がり上がり掴んで"
+    },
+    {
+      "start": 8.94,
+      "end": 10.26,
+      "text": "Getup attack",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "攻撃上がり"
+    },
+    {
+      "start": 10.26,
+      "end": 11.42,
+      "text": "Nice!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "うまい"
+    },
+    {
+      "start": 11.42,
+      "end": 12.2,
+      "text": "I see",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "なるほどね"
+    }
+  ],
+  "full_text": "3-2 situation Ledge battle Holding shield, no movement Whoa! Bair If it's active, that's solid Yeah Roll up, grab! Getup attack Nice! I see",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "崖の足",
+      "corrected": "崖の攻防",
+      "rule": "Whisper error"
+    },
+    {
+      "segment_idx": 4,
+      "original": "空中しろ",
+      "corrected": "空後",
+      "rule": "kanji homophone"
+    },
+    {
+      "segment_idx": 7,
+      "original": "点切りかけつかんで",
+      "corrected": "転がり上がり掴んで",
+      "rule": "Whisper error"
+    }
+  ]
+}

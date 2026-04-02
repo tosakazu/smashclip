@@ -1,0 +1,33 @@
+{
+  "id": "2a317272-7857-4edc-a035-1d48bfda6ee0",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.56,
+      "text": "空前 コンボ",
+      "language": "ja"
+    },
+    {
+      "start": 5.56,
+      "end": 6.52,
+      "text": "いい攻めは",
+      "language": "ja"
+    }
+  ],
+  "full_text": "空前 コンボ いい攻めは",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "クマコロナ",
+      "corrected": "空前 コンボ",
+      "rule": "garbled: クマコロナ→空前 コンボ"
+    },
+    {
+      "segment_idx": 1,
+      "original": "いい高齢は",
+      "corrected": "いい攻めは",
+      "rule": "misheard: 高齢→攻め"
+    }
+  ]
+}

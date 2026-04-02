@@ -1,0 +1,39 @@
+{
+  "id": "797cc1e4-8bb8-4c22-a47d-aa7364027671",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.62,
+      "text": "残念ついてますから",
+      "language": "ja"
+    },
+    {
+      "start": 0.62,
+      "end": 5.28,
+      "text": "崖上がり",
+      "language": "ja"
+    },
+    {
+      "start": 5.28,
+      "end": 6.9,
+      "text": "リスクは払えない",
+      "language": "ja"
+    },
+    {
+      "start": 6.9,
+      "end": 8.96,
+      "text": "ここはRiddles選手が撃墜通していきました",
+      "language": "ja"
+    }
+  ],
+  "full_text": "残念ついてますから 崖上がり リスクは払えない ここはRiddles選手が撃墜通していきました",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 3,
+      "original": "ジャックさんが激推",
+      "corrected": "Riddles選手が撃墜",
+      "rule": "player name + 激推→撃墜"
+    }
+  ]
+}

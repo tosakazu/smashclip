@@ -1,0 +1,32 @@
+{
+  "id": "cf5cbbc3-f155-4253-a0a7-85a76a808448",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.56,
+      "text": "Grazes just above!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "見ているが上を掠すあたり"
+    },
+    {
+      "start": 2.56,
+      "end": 5.2,
+      "text": "Just a bit too far though",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "あと少しが遠すぎるが"
+    }
+  ],
+  "full_text": "Grazes just above! Just a bit too far though",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "植木を貸すあたり",
+      "corrected": "上を掠すあたり",
+      "rule": "mishearing (上を掠す=graze from above)"
+    }
+  ]
+}

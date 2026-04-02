@@ -1,0 +1,33 @@
+{
+  "id": "e89f7c0a-c025-45d6-b215-3305892b2533",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.66,
+      "text": "the stage and now just Raflow just jumping just trying to bait me into throwing an attack but",
+      "language": "en"
+    },
+    {
+      "start": 4.66,
+      "end": 9.76,
+      "text": "he's just not giving it to him the up air keeping the pressure just la llave desde arriba",
+      "language": "en"
+    }
+  ],
+  "full_text": "the stage and now just Raflow just jumping just trying to bait me into throwing an attack but he's just not giving it to him the up air keeping the pressure just la llave desde arriba",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "reflux",
+      "corrected": "Raflow",
+      "rule": "player name: reflux→Raflow"
+    },
+    {
+      "segment_idx": 1,
+      "original": "the upper",
+      "corrected": "the up air",
+      "rule": "smash term: upper→up air"
+    }
+  ]
+}

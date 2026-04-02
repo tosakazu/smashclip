@@ -1,0 +1,26 @@
+{
+  "id": "112838f1-9e37-41ac-be70-01243200ca44",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.5,
+      "text": "This is Sopo with very restricted recovery.",
+      "language": "en"
+    },
+    {
+      "start": 2.5,
+      "end": 4.5,
+      "text": "Yeah, you don't want to overextend. That's the issue, right?",
+      "language": "en"
+    },
+    {
+      "start": 4.5,
+      "end": 8.5,
+      "text": "Because this, uh, every little bit of extra credit counts and that's all they want.",
+      "language": "en"
+    }
+  ],
+  "full_text": "This is Sopo with very restricted recovery. Yeah, you don't want to overextend. That's the issue, right? Because this, uh, every little bit of extra credit counts and that's all they want.",
+  "detected_language": "en",
+  "corrections": []
+}

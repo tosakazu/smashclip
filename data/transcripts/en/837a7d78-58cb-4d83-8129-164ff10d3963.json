@@ -1,0 +1,64 @@
+{
+  "id": "837a7d78-58cb-4d83-8129-164ff10d3963",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.84,
+      "text": "Percent completely reversed!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "一気にパーセント逆転したぞ"
+    },
+    {
+      "start": 3.84,
+      "end": 4.94,
+      "text": "At 90 now!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "現在90%"
+    },
+    {
+      "start": 4.94,
+      "end": 7.12,
+      "text": "What an incredible moment!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "しかしここは不思議そうな時代か"
+    },
+    {
+      "start": 7.12,
+      "end": 9.64,
+      "text": "Side B into up air!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "横必殺ぶっぱかったからの空上で"
+    },
+    {
+      "start": 9.64,
+      "end": 11.54,
+      "text": "Pushed all the way up!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "一気に上まで押し寄せたか"
+    },
+    {
+      "start": 11.54,
+      "end": 12.2,
+      "text": "And here...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここは"
+    }
+  ],
+  "full_text": "Percent completely reversed! At 90 now! What an incredible moment! Side B into up air! Pushed all the way up! And here...",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 3,
+      "original": "横必殺はっぱかったからの空中上で",
+      "corrected": "横必殺ぶっぱかったからの空上で",
+      "rule": "misheard word (はっぱ→ぶっぱ), move abbreviation (空中上→空上)"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "91a52b0f-cc66-483a-b2c9-b9d0527894b9",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.36,
+      "text": "いや、紫2つ、先端で当たった横に",
+      "language": "ja"
+    },
+    {
+      "start": 4.36,
+      "end": 10.26,
+      "text": "いやー、このピクミン投げですとね、ライン回復としてはかなり優秀で",
+      "language": "ja"
+    },
+    {
+      "start": 10.26,
+      "end": 13.44,
+      "text": "ピクミン側としてもかなり通したい択ではあるので",
+      "language": "ja"
+    }
+  ],
+  "full_text": "いや、紫2つ、先端で当たった横に いやー、このピクミン投げですとね、ライン回復としてはかなり優秀で ピクミン側としてもかなり通したい択ではあるので",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "卓",
+      "corrected": "択",
+      "rule": "kanji homophone"
+    }
+  ]
+}

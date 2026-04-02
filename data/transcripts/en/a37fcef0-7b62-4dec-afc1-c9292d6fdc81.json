@@ -1,0 +1,89 @@
+{
+  "id": "a37fcef0-7b62-4dec-afc1-c9292d6fdc81",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.1,
+      "text": "With a percent lead, MASA can really take his time and play it safe",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "パーセントリードしている状況はMASAさんがじっくり見れる"
+    },
+    {
+      "start": 3.1,
+      "end": 3.8,
+      "text": "Yeah, that's right",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そうですね"
+    },
+    {
+      "start": 3.8,
+      "end": 7.42,
+      "text": "Reflects it back with Falco Vision there",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ちょっとここでファルコビジョン通し返しましたよ"
+    },
+    {
+      "start": 7.42,
+      "end": 8.0,
+      "text": "Exactly",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そうなのよ"
+    },
+    {
+      "start": 8.0,
+      "end": 10.52,
+      "text": "Looks like they're just reading, then BAM, rushing in with Vision",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "なんか見てると思ったら一気に突っ込んでくるんですよねこの人ビジョンで"
+    },
+    {
+      "start": 10.52,
+      "end": 12.8,
+      "text": "What's next?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあどうだ"
+    },
+    {
+      "start": 12.8,
+      "end": 16.14,
+      "text": "Great platform control without jumping straight up",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "うまく上にブロックを置くところにも垂直にはジャンプせずに"
+    },
+    {
+      "start": 16.14,
+      "end": 16.92,
+      "text": "Took it clean",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "うまく取った"
+    }
+  ],
+  "full_text": "With a percent lead, MASA can really take his time and play it safe Yeah, that's right Reflects it back with Falco Vision there Exactly Looks like they're just reading, then BAM, rushing in with Vision What's next? Great platform control without jumping straight up Took it clean",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "original": "マサさん",
+      "corrected": "MASAさん",
+      "reason": "プレイヤー名MASAの表記統一"
+    },
+    {
+      "original": "投資返しましたよ",
+      "corrected": "通し返しましたよ",
+      "reason": "ファルコビジョン（リフレクター）で通し返す"
+    },
+    {
+      "original": "口にネタを置くところ",
+      "corrected": "上にブロックを置くところ",
+      "reason": "Steve対策のブロック配置の話"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "id": "fb80654e-a652-40f8-b20a-20ed036543d3",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.6,
+      "text": "First Toad Guard!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "初めて見せたキノピオガード"
+    },
+    {
+      "start": 2.6,
+      "end": 3.96,
+      "text": "In that chaotic exchange",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "あのごちゃった展開で"
+    },
+    {
+      "start": 3.96,
+      "end": 5.32,
+      "text": "Full charge?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "なぜ最大を選べる"
+    },
+    {
+      "start": 5.32,
+      "end": 7.98,
+      "text": "Here we go",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあ"
+    },
+    {
+      "start": 7.98,
+      "end": 9.22,
+      "text": "Turnips down",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "カブを置いておいて"
+    },
+    {
+      "start": 9.22,
+      "end": 9.96,
+      "text": "The setup!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "固め"
+    }
+  ],
+  "full_text": "First Toad Guard! In that chaotic exchange Full charge? Here we go Turnips down The setup!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 4,
+      "original": "株を置いておいて",
+      "corrected": "カブを置いておいて",
+      "rule": "kanji: 株→カブ (Daisy's turnip)"
+    }
+  ]
+}

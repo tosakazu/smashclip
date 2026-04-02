@@ -1,0 +1,39 @@
+{
+  "id": "b0a20e6c-7bae-478c-b40d-b561317d44b9",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.86,
+      "text": "シールドしなくて",
+      "language": "ja"
+    },
+    {
+      "start": 0.86,
+      "end": 3.08,
+      "text": "崖回避の読み合い空中下",
+      "language": "ja"
+    },
+    {
+      "start": 3.08,
+      "end": 5.34,
+      "text": "いやこのパーセントで",
+      "language": "ja"
+    }
+  ],
+  "full_text": "シールドしなくて 崖回避の読み合い空中下 いやこのパーセントで",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "失礼しなくて",
+      "corrected": "シールドしなくて",
+      "rule": "smash term (シールド=shield)"
+    },
+    {
+      "segment_idx": 1,
+      "original": "がけいばいの読み合い空中しろ",
+      "corrected": "崖回避の読み合い空中下",
+      "rule": "smash terms (崖回避, 空中下)"
+    }
+  ]
+}

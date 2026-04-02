@@ -1,0 +1,44 @@
+{
+  "id": "7eb0ffef-23e7-4172-b19d-2e34cf12a6dd",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.62,
+      "text": "Oh, watch the stock here.",
+      "language": "en"
+    },
+    {
+      "start": 1.68,
+      "end": 2.12,
+      "text": "Uh-huh.",
+      "language": "en"
+    },
+    {
+      "start": 3.04,
+      "end": 4.0,
+      "text": "Looking for it.",
+      "language": "en"
+    },
+    {
+      "start": 6.08,
+      "end": 7.28,
+      "text": "Oh, the air dodge.",
+      "language": "en"
+    },
+    {
+      "start": 7.48,
+      "end": 8.26,
+      "text": "Can you make it back?",
+      "language": "en"
+    },
+    {
+      "start": 8.46,
+      "end": 9.2,
+      "text": "No, you can't.",
+      "language": "en"
+    }
+  ],
+  "full_text": "Oh, watch the stock here. Uh-huh. Looking for it. Oh, the air dodge. Can you make it back? No, you can't.",
+  "detected_language": "en",
+  "corrections": []
+}

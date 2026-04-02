@@ -1,0 +1,40 @@
+{
+  "id": "fe5696f3-dbe2-42bb-ba47-f4c94ed9128f",
+  "segments": [
+    {
+      "start": 0.46,
+      "end": 4.16,
+      "text": "Up tilt to control the situation, then Monkey Flip when that shield gets tight",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "展開 上強で狙っていく ガード固まるところに対してはモンキーフリップ"
+    },
+    {
+      "start": 4.16,
+      "end": 7.46,
+      "text": "Spacing with bananas while reading what the opponent does",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "バナナを置きつつ相手の様子を見る"
+    },
+    {
+      "start": 7.46,
+      "end": 10.9,
+      "text": "Trading in the banana spacing, Monkey Flip",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "バナナを挟んだやり合い モンキーフリップ"
+    }
+  ],
+  "full_text": "Up tilt to control the situation, then Monkey Flip when that shield gets tight Spacing with bananas while reading what the opponent does Trading in the banana spacing, Monkey Flip",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "点灯",
+      "corrected": "展開",
+      "rule": "misheard: 点灯→展開"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "id": "886454c1-3b9e-45e9-9f42-e4df2f9cd796",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.96,
+      "text": "Yeah, that's right",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "うーんそう"
+    },
+    {
+      "start": 0.96,
+      "end": 4.1,
+      "text": "There's no spacing",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "間がないんだよね"
+    },
+    {
+      "start": 4.1,
+      "end": 7.68,
+      "text": "Can't tell how much they're actually reading here",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "どこまで確認してんだろうって感じなんだけど"
+    },
+    {
+      "start": 7.68,
+      "end": 13.74,
+      "text": "Wait, wait, wait—are they going for recovery?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "え?え?え?飛ぶの?"
+    },
+    {
+      "start": 13.88,
+      "end": 14.6,
+      "text": "Noooo!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "えーーー"
+    }
+  ],
+  "full_text": "Yeah, that's right There's no spacing Can't tell how much they're actually reading here Wait, wait, wait—are they going for recovery? Noooo!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

@@ -1,0 +1,72 @@
+{
+  "id": "8dfaace5-b96d-4234-adc4-ca40c0bda0ec",
+  "segments": [
+    {
+      "start": 0.2,
+      "end": 1.9,
+      "text": "Gets a solid air dodge out of the fair",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空中前はしっかり浮き身を取って"
+    },
+    {
+      "start": 1.9,
+      "end": 3.42,
+      "text": "Barely holding that ledge situation",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "崖展開なんとか維持して"
+    },
+    {
+      "start": 3.42,
+      "end": 6.7,
+      "text": "Evading the homing!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ホーミングをかわして"
+    },
+    {
+      "start": 6.7,
+      "end": 8.38,
+      "text": "Pikmin attached, but—",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ピクミン張り付けたんですが"
+    },
+    {
+      "start": 8.38,
+      "end": 9.14,
+      "text": "Won't connect all the way to the smash",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "スマッシュまでは当たらない"
+    },
+    {
+      "start": 9.14,
+      "end": 9.48,
+      "text": "Oh!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "おっと"
+    },
+    {
+      "start": 9.48,
+      "end": 12.58,
+      "text": "KEN's forward smash!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "KENの横スマッシュ"
+    }
+  ],
+  "full_text": "Gets a solid air dodge out of the fair Barely holding that ledge situation Evading the homing! Pikmin attached, but— Won't connect all the way to the smash Oh! KEN's forward smash!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 6,
+      "original": "剣の横スマッシュ",
+      "corrected": "KENの横スマッシュ",
+      "rule": "player name"
+    }
+  ]
+}

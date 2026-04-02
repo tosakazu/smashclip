@@ -1,0 +1,45 @@
+{
+  "id": "53d8870f-74fb-4c49-96e6-e0cc9a795eb0",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.7,
+      "text": "Look at I like that just giving up the advantage and then when they come back forcing something and getting the hit still not a kill",
+      "language": "en"
+    },
+    {
+      "start": 5.7,
+      "end": 8.1,
+      "text": "But it's something damage is damage as I always say",
+      "language": "en"
+    },
+    {
+      "start": 9.44,
+      "end": 11.44,
+      "text": "Raflow",
+      "language": "en"
+    }
+  ],
+  "full_text": "Look at I like that just giving up the advantage and then when they come back forcing something and getting the hit still not a kill But it's something damage is damage as I always say Raflow",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "the kid",
+      "corrected": "the hit",
+      "rule": "misheard word"
+    },
+    {
+      "segment_idx": 1,
+      "original": "damaged",
+      "corrected": "damage",
+      "rule": "misheard word"
+    },
+    {
+      "segment_idx": 2,
+      "original": "Regal",
+      "corrected": "Raflow",
+      "rule": "player name"
+    }
+  ]
+}

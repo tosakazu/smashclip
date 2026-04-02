@@ -1,0 +1,108 @@
+{
+  "id": "ece941c5-decb-46c3-bf59-0b1755232079",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.32,
+      "text": "But with the position shift",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "しかしライン入れ替わって"
+    },
+    {
+      "start": 1.32,
+      "end": 2.78,
+      "text": "Now the charged nair becomes scary",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "こうなると怖い空N溜めてを"
+    },
+    {
+      "start": 2.78,
+      "end": 3.8,
+      "text": "Cleanly mashing out!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "うまく暴れを通して"
+    },
+    {
+      "start": 3.8,
+      "end": 4.98,
+      "text": "Keeps adjusting the positioning",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ラインを入れ替えていく"
+    },
+    {
+      "start": 4.98,
+      "end": 5.74,
+      "text": "Nair to neutral",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空Nニュートラル"
+    },
+    {
+      "start": 5.74,
+      "end": 6.8,
+      "text": "That DI wasn't ideal, but",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "嫌なベクトルだったが"
+    },
+    {
+      "start": 6.8,
+      "end": 7.54,
+      "text": "Wait, could this be...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これはまさか"
+    },
+    {
+      "start": 7.54,
+      "end": 8.12,
+      "text": "Shoryuken!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "昇竜拳で"
+    },
+    {
+      "start": 8.12,
+      "end": 8.48,
+      "text": "No way!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "嘘"
+    },
+    {
+      "start": 8.48,
+      "end": 9.5,
+      "text": "KO!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "撃墜"
+    }
+  ],
+  "full_text": "But with the position shift now the charged nair becomes scary cleanly mashing out! Keeps adjusting the positioning nair to neutral that DI wasn't ideal, but wait, could this be... Shoryuken! No way! KO!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "空地溜めてを",
+      "corrected": "空N溜めてを",
+      "rule": "misheard: 空地→空N"
+    },
+    {
+      "segment_idx": 4,
+      "original": "空中ネタラル",
+      "corrected": "空Nニュートラル",
+      "rule": "misheard"
+    },
+    {
+      "segment_idx": 9,
+      "original": "激推",
+      "corrected": "撃墜",
+      "rule": "kanji homophone: 激推→撃墜"
+    }
+  ]
+}

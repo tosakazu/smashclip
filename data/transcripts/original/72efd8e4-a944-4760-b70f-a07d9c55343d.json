@@ -1,0 +1,57 @@
+{
+  "id": "72efd8e4-a944-4760-b70f-a07d9c55343d",
+  "segments": [
+    {
+      "start": 0.84,
+      "end": 5.44,
+      "text": "ステージを獲得し続けたネオがかなりのみのみと技振りを増やすことができましたが",
+      "language": "ja"
+    },
+    {
+      "start": 5.44,
+      "end": 7.82,
+      "text": "3戦目一気にステージ広くなる村と町",
+      "language": "ja"
+    },
+    {
+      "start": 7.82,
+      "end": 13.82,
+      "text": "0%密着ラリーホーから横スマして会心に出てそのまま0%撃墜",
+      "language": "ja"
+    },
+    {
+      "start": 13.82,
+      "end": 14.26,
+      "text": "うぅ",
+      "language": "ja"
+    }
+  ],
+  "full_text": "ステージを獲得し続けたネオがかなりのみのみと技振りを増やすことができましたが 3戦目一気にステージ広くなる村と町 0%密着ラリーホーから横スマして会心に出てそのまま0%撃墜 うぅ",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "村戸町",
+      "corrected": "村と町",
+      "rule": "stage name"
+    },
+    {
+      "segment_idx": 2,
+      "original": "ラリー砲",
+      "corrected": "ラリーホー",
+      "rule": "Hero spell name"
+    },
+    {
+      "segment_idx": 2,
+      "original": "横すばして",
+      "corrected": "横スマして",
+      "rule": "move abbreviation"
+    },
+    {
+      "segment_idx": 2,
+      "original": "開始に出て",
+      "corrected": "会心に出て",
+      "rule": "kanji homophone: 開始→会心 (critical hit)"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "f85a9d48-81c0-4262-a453-957843982c45",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.92,
+      "text": "Looks like he's covering everything by himself",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "すべて自分の自力でカバーということなんでしょうね"
+    },
+    {
+      "start": 2.92,
+      "end": 5.22,
+      "text": "If the greatsword's been paying off that much so far",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "かなり大剣を今まで得してたら"
+    },
+    {
+      "start": 5.22,
+      "end": 6.96,
+      "text": "I'd say it's Zakray's side of things",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "まあザクレイ選手の方かなという"
+    },
+    {
+      "start": 6.96,
+      "end": 9.76,
+      "text": "Ohhhhh!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "うあああああ"
+    },
+    {
+      "start": 9.76,
+      "end": 10.64,
+      "text": "Cancel read!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "解除読み"
+    }
+  ],
+  "full_text": "Looks like he's covering everything by himself If the greatsword's been paying off that much so far I'd say it's Zakray's side of things Ohhhhh! Cancel read!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "ザクル選手",
+      "corrected": "ザクレイ選手",
+      "rule": "player name: ザクル→ザクレイ"
+    }
+  ]
+}

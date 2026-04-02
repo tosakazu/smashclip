@@ -1,0 +1,26 @@
+{
+  "id": "eebb3f46-41b7-4b4a-ae87-c2e47d91395c",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.24,
+      "text": "確かに確かに地上戦、地上技と違って空中で打てるっていうのが一つ利点なのか",
+      "language": "ja"
+    },
+    {
+      "start": 4.24,
+      "end": 6.22,
+      "text": "おーこの暴れの",
+      "language": "ja"
+    },
+    {
+      "start": 6.22,
+      "end": 7.68,
+      "text": "いやいやいやいやいやいや",
+      "language": "ja"
+    }
+  ],
+  "full_text": "確かに確かに地上戦、地上技と違って空中で打てるっていうのが一つ利点なのか おーこの暴れの いやいやいやいやいやいや",
+  "detected_language": "ja",
+  "corrections": []
+}

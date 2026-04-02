@@ -1,0 +1,138 @@
+{
+  "id": "30df139f-04ef-48fa-92fe-d9ffe9a7ce25",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.58,
+      "text": "Does it land?!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "決まったか"
+    },
+    {
+      "start": 0.58,
+      "end": 2.26,
+      "text": "Galaga's scattered",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ボスギャラガは撒いて"
+    },
+    {
+      "start": 2.26,
+      "end": 3.32,
+      "text": "Power Ace angle!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "パワーエースを狙うか"
+    },
+    {
+      "start": 3.32,
+      "end": 4.8,
+      "text": "14 seconds",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "14秒"
+    },
+    {
+      "start": 4.8,
+      "end": 7.18,
+      "text": "Bair right here!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここで空後"
+    },
+    {
+      "start": 7.18,
+      "end": 9.18,
+      "text": "Over 100%, but...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "100%を超えるが"
+    },
+    {
+      "start": 9.18,
+      "end": 11.52,
+      "text": "Recovery is insane, fighting out!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "脱出力が凄い、さばいていく"
+    },
+    {
+      "start": 11.52,
+      "end": 13.24,
+      "text": "This is...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これは"
+    },
+    {
+      "start": 13.24,
+      "end": 15.32,
+      "text": "just a bit too much",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "もうちょっと無理ですね"
+    },
+    {
+      "start": 15.32,
+      "end": 16.06,
+      "text": "3",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "3"
+    },
+    {
+      "start": 16.06,
+      "end": 18.1,
+      "text": "Yeah, that's right",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いやーそうですね"
+    },
+    {
+      "start": 18.1,
+      "end": 20.78,
+      "text": "Well, Tea is...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "まあTea選手が"
+    },
+    {
+      "start": 20.78,
+      "end": 21.12,
+      "text": "reading",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "リーズ"
+    }
+  ],
+  "full_text": "Does it land?! Galaga's scattered. Power Ace angle! 14 seconds. Bair right here! Over 100%, but... Recovery is insane, fighting out! This is... just a bit too much. 3. Yeah, that's right. Well, Tea is... reading.",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "ボスギャラクシーは巻いて",
+      "corrected": "ボスギャラガは撒いて",
+      "rule": "move name: ボスギャラクシー→ボスギャラガ"
+    },
+    {
+      "segment_idx": 4,
+      "original": "空中しろ",
+      "corrected": "空後",
+      "rule": "move name normalization"
+    },
+    {
+      "segment_idx": 6,
+      "original": "脱出力がすごろさばいていく",
+      "corrected": "脱出力が凄い、さばいていく",
+      "rule": "Whisper misrecognition"
+    },
+    {
+      "segment_idx": 11,
+      "original": "T選手",
+      "corrected": "Tea選手",
+      "rule": "Whisper misrecognition"
+    }
+  ]
+}

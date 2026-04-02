@@ -1,0 +1,54 @@
+{
+  "id": "1718127f-cfdb-44cc-8705-8df36c01d2bf",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.86,
+      "text": "Exciting!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "楽しい"
+    },
+    {
+      "start": 0.86,
+      "end": 2.0,
+      "text": "Gets the nair!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空Nに取る"
+    },
+    {
+      "start": 2.0,
+      "end": 3.14,
+      "text": "Perfect spacing!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いいディスタンスが"
+    },
+    {
+      "start": 3.14,
+      "end": 4.7,
+      "text": "Nice!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "うまーい"
+    }
+  ],
+  "full_text": "Exciting! Gets the nair! Perfect spacing! Nice!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "空中に取る",
+      "corrected": "空Nに取る",
+      "rule": "Move abbreviation: 空中→空N (neutral air)"
+    },
+    {
+      "segment_idx": 2,
+      "original": "いいデストリナが",
+      "corrected": "いいディスタンスが",
+      "rule": "Garbled transcription: デストリナ→ディスタンス (distance)"
+    }
+  ]
+}

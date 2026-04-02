@@ -1,0 +1,17 @@
+{
+  "id": "32471444-af80-4837-ad7c-edc7fb5056a5",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.0,
+      "text": "That smash connects!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "先ほどからのヒットスマッシュ"
+    }
+  ],
+  "full_text": "That smash connects!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

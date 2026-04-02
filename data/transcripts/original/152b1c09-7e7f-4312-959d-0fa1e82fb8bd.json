@@ -1,0 +1,27 @@
+{
+  "id": "152b1c09-7e7f-4312-959d-0fa1e82fb8bd",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.0,
+      "text": "possible again the Orbitars is getting zackray back to the center stage in the back air",
+      "language": "en"
+    },
+    {
+      "start": 4.72,
+      "end": 9.12,
+      "text": "oh beautiful swing oh he's got a jump he's out of jumps he's out of opportunities",
+      "language": "en"
+    }
+  ],
+  "full_text": "possible again the Orbitars is getting zackray back to the center stage in the back air oh beautiful swing oh he's got a jump he's out of jumps he's out of opportunities",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "the orbiter is getting zachary back to the center state in the back there",
+      "corrected": "the Orbitars is getting zackray back to the center stage in the back air",
+      "rule": "Player name: zachary→zackray; Smash term: orbiter→Orbitars (Pit side-B); center state→center stage; back there→back air"
+    }
+  ]
+}

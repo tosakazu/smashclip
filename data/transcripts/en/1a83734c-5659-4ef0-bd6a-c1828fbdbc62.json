@@ -1,0 +1,68 @@
+{
+  "id": "1a83734c-5659-4ef0-bd6a-c1828fbdbc62",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.22,
+      "text": "Flawless DI!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "食らわないベク変が完璧"
+    },
+    {
+      "start": 1.22,
+      "end": 4.1,
+      "text": "Going through the platform still extends the recovery",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "やはり台上経由してしまうとリターンが伸びてしまう"
+    },
+    {
+      "start": 4.1,
+      "end": 6.68,
+      "text": "Punishes with the forward smash!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "当たったところを横スマッシュ"
+    },
+    {
+      "start": 6.68,
+      "end": 8.68,
+      "text": "Now he's got rage!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "レイジの状態になって"
+    },
+    {
+      "start": 8.68,
+      "end": 10.62,
+      "text": "Utchy's sitting on a huge lead here!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "うっちー選手ここは大きなリード"
+    }
+  ],
+  "full_text": "Flawless DI! Going through the platform still extends the recovery. Punishes with the forward smash! Now he's got rage! Utchy's sitting on a huge lead here!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "食らわない変更が完璧",
+      "corrected": "食らわないベク変が完璧",
+      "rule": "Whisper mishearing: 変更→ベク変 (ベクトル変更)"
+    },
+    {
+      "segment_idx": 1,
+      "original": "やはり対応経由してしまうとリターンが伸びてしまう",
+      "corrected": "やはり台上経由してしまうとリターンが伸びてしまう",
+      "rule": "Whisper kanji homophone: 対応→台上"
+    },
+    {
+      "segment_idx": 4,
+      "original": "内選手ここは大きなリード",
+      "corrected": "うっちー選手ここは大きなリード",
+      "rule": "Player name correction: 内→うっちー (metadata)"
+    }
+  ]
+}

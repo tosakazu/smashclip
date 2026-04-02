@@ -1,0 +1,63 @@
+{
+  "id": "b056b0e5-c35f-45e0-9c9e-e47ceda14c7f",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.22,
+      "text": "ここはなんとかヤマナクションが戻ってきます",
+      "language": "ja"
+    },
+    {
+      "start": 2.22,
+      "end": 4.62,
+      "text": "下強",
+      "language": "ja"
+    },
+    {
+      "start": 4.62,
+      "end": 6.24,
+      "text": "転倒していたら怖かった",
+      "language": "ja"
+    },
+    {
+      "start": 6.24,
+      "end": 7.18,
+      "text": "ジャストシールドから",
+      "language": "ja"
+    },
+    {
+      "start": 7.18,
+      "end": 8.18,
+      "text": "ここ",
+      "language": "ja"
+    }
+  ],
+  "full_text": "ここはなんとかヤマナクションが戻ってきます 下強 転倒していたら怖かった ジャストシールドから ここ",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "コウコウはなんとか山口に戻ってきます",
+      "corrected": "ここはなんとかヤマナクションが戻ってきます",
+      "rule": "player name (ヤマナクション) + mishearing"
+    },
+    {
+      "segment_idx": 1,
+      "original": "シャキョウ",
+      "corrected": "下強",
+      "rule": "move abbreviation"
+    },
+    {
+      "segment_idx": 3,
+      "original": "ジャスシールド",
+      "corrected": "ジャストシールド",
+      "rule": "smash term (ジャストシールド)"
+    },
+    {
+      "segment_idx": 4,
+      "original": "コウコウ",
+      "corrected": "ここ",
+      "rule": "mishearing"
+    }
+  ]
+}

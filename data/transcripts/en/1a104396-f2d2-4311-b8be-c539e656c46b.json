@@ -1,0 +1,38 @@
+{
+  "id": "1a104396-f2d2-4311-b8be-c539e656c46b",
+  "segments": [
+    {
+      "start": 0.38,
+      "end": 6.76,
+      "text": "It's not visible as a stat, but of course their game sense has definitely got this locked down",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "目に見えないステータスですが、もちろんドラ右の感覚には確実にノートに記載されている"
+    },
+    {
+      "start": 6.76,
+      "end": 12.24,
+      "text": "Nair poke from the jump, neutral state, airdodge set up and covering everything that comes next",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空N小突いた、ジャンプからの状況、ニュートラル回避、仕込んだがその先も網羅する"
+    }
+  ],
+  "full_text": "It's not visible as a stat, but of course their game sense has definitely got this locked down Nair poke from the jump, neutral state, airdodge set up and covering everything that comes next",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "目に見えないステータスですが、もちろんドラミンキーの感覚には確実にノートに記載されている",
+      "corrected": "目に見えないステータスですが、もちろんドラ右の感覚には確実にノートに記載されている",
+      "rule": "Player name correction: ドラミンキー→ドラ右 (metadata)"
+    },
+    {
+      "segment_idx": 1,
+      "original": "空中がこづいた、ジャムからの状況、ニュートラル回避、仕込んだがその先も網羅する",
+      "corrected": "空N小突いた、ジャンプからの状況、ニュートラル回避、仕込んだがその先も網羅する",
+      "rule": "Whisper mishearing: 空中がこづいた→空N小突いた, ジャム→ジャンプ"
+    }
+  ]
+}

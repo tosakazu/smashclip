@@ -1,0 +1,39 @@
+{
+  "id": "c68b3b3a-0854-4f4a-8f28-feed5ca2b9b5",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.3,
+      "text": "ステージの内側をとっているなどカバーリードが入れてもよかったおっとなんか漏れちゃって",
+      "language": "ja"
+    },
+    {
+      "start": 5.3,
+      "end": 10.6,
+      "text": "これでは届きません",
+      "language": "ja"
+    }
+  ],
+  "full_text": "ステージの内側をとっているなどカバーリードが入れてもよかったおっとなんか漏れちゃって これでは届きません",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "政治",
+      "corrected": "ステージ",
+      "rule": "misheard word"
+    },
+    {
+      "segment_idx": 0,
+      "original": "がいられても",
+      "corrected": "が入れても",
+      "rule": "misheard word"
+    },
+    {
+      "segment_idx": 1,
+      "original": "パパでては",
+      "corrected": "これでは",
+      "rule": "misheard word"
+    }
+  ]
+}

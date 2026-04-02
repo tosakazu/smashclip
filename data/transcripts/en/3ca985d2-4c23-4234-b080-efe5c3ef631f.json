@@ -1,0 +1,41 @@
+{
+  "id": "3ca985d2-4c23-4234-b080-efe5c3ef631f",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.04,
+      "text": "Ken has done his homework on this matchup",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあケン選手このカードをとても研究していますから"
+    },
+    {
+      "start": 3.04,
+      "end": 6.1,
+      "text": "Let's see if that preparation pays off",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "その対策が伺えるでしょうか"
+    },
+    {
+      "start": 6.1,
+      "end": 7.98,
+      "text": "Dash grab comes through!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ダッシュつかみ通して"
+    },
+    {
+      "start": 7.98,
+      "end": 12.72,
+      "text": "Forward smash! That's the stock!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "横スマッシュ!拾い上げる!"
+    }
+  ],
+  "full_text": "Ken has done his homework on this matchup Let's see if that preparation pays off Dash grab comes through! Forward smash! That's the stock!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

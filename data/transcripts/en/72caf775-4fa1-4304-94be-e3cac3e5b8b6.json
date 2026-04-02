@@ -1,0 +1,20 @@
+{
+  "id": "72caf775-4fa1-4304-94be-e3cac3e5b8b6",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.32,
+      "text": "Hurts, GilQ, he has been figuring things out during the set.",
+      "language": "en"
+    },
+    {
+      "start": 4.6,
+      "end": 8.98,
+      "text": "I think that maybe that Greninja game ended up costing him a bit too much, but right now he's...",
+      "language": "en"
+    }
+  ],
+  "full_text": "Hurts, GilQ, he has been figuring things out during the set. I think that maybe that Greninja game ended up costing him a bit too much, but right now he's...",
+  "detected_language": "en",
+  "corrections": []
+}

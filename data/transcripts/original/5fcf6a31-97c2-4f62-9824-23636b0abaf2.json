@@ -1,0 +1,69 @@
+{
+  "id": "5fcf6a31-97c2-4f62-9824-23636b0abaf2",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.02,
+      "text": "避けてるこれも避ける",
+      "language": "ja"
+    },
+    {
+      "start": 1.02,
+      "end": 3.64,
+      "text": "見ているぞ",
+      "language": "ja"
+    },
+    {
+      "start": 3.64,
+      "end": 4.86,
+      "text": "見ているぞ",
+      "language": "ja"
+    },
+    {
+      "start": 4.86,
+      "end": 6.84,
+      "text": "見ている",
+      "language": "ja"
+    },
+    {
+      "start": 6.84,
+      "end": 8.24,
+      "text": "おー",
+      "language": "ja"
+    },
+    {
+      "start": 8.24,
+      "end": 10.8,
+      "text": "今の空下によったんですけど",
+      "language": "ja"
+    },
+    {
+      "start": 10.8,
+      "end": 12.24,
+      "text": "おーここで空下のインパクト",
+      "language": "ja"
+    },
+    {
+      "start": 12.24,
+      "end": 14.28,
+      "text": "いや今の",
+      "language": "ja"
+    }
+  ],
+  "full_text": "避けてるこれも避ける 見ているぞ 見ているぞ 見ている おー 今の空下によったんですけど おーここで空下のインパクト いや今の",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 5,
+      "original": "空母に酔った",
+      "corrected": "空下によった",
+      "rule": "smash term (空下)"
+    },
+    {
+      "segment_idx": 6,
+      "original": "ツラのインタクト",
+      "corrected": "空下のインパクト",
+      "rule": "misheard words"
+    }
+  ]
+}

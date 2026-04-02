@@ -1,0 +1,118 @@
+{
+  "id": "30580698-d584-4d69-8aec-c1f8bf55d401",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "That's it! Forward smash punish!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "で済んだ! 横スマッシュのカウンター!"
+    },
+    {
+      "start": 2.0,
+      "end": 4.0,
+      "text": "Won't rush in",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "走りはしません"
+    },
+    {
+      "start": 4.0,
+      "end": 6.0,
+      "text": "Even so!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ただでも!"
+    },
+    {
+      "start": 6.0,
+      "end": 8.0,
+      "text": "All the momentum is on their side!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "運が完全にらるに傾いている!"
+    },
+    {
+      "start": 8.0,
+      "end": 10.0,
+      "text": "This is insane!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これはヤバい!"
+    },
+    {
+      "start": 10.0,
+      "end": 12.0,
+      "text": "Oh no!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "まずいぞ!"
+    },
+    {
+      "start": 12.0,
+      "end": 14.0,
+      "text": "They've got all the momentum",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "運の勝負はらるが上を行っている"
+    },
+    {
+      "start": 14.0,
+      "end": 16.0,
+      "text": "With skill",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "実力で"
+    },
+    {
+      "start": 16.0,
+      "end": 18.0,
+      "text": "Lars with the reversal!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ラースの逆転撃!"
+    },
+    {
+      "start": 18.0,
+      "end": 20.0,
+      "text": "What's he gonna do?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "どうするか?"
+    },
+    {
+      "start": 20.0,
+      "end": 22.0,
+      "text": "Cyclone! How's that?!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "サイクロン!これはどうだ?"
+    },
+    {
+      "start": 22.0,
+      "end": 24.0,
+      "text": "KO!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "撃墜だ!"
+    }
+  ],
+  "full_text": "That's it! Forward smash punish! Won't rush in Even so! All the momentum is on their side! This is insane! Oh no! They've got all the momentum With skill Lars with the reversal! What's he gonna do? Cyclone! How's that?! KO!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 3,
+      "original": "ダルに",
+      "corrected": "らるに",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 6,
+      "original": "ダルが目を行っている",
+      "corrected": "らるが上を行っている",
+      "rule": "player name"
+    }
+  ]
+}

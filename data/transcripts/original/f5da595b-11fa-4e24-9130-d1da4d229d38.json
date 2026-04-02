@@ -1,0 +1,56 @@
+{
+  "id": "f5da595b-11fa-4e24-9130-d1da4d229d38",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.46,
+      "text": "着地狩り",
+      "language": "ja"
+    },
+    {
+      "start": 0.46,
+      "end": 3.04,
+      "text": "ボムに引っかかってしまった",
+      "language": "ja"
+    },
+    {
+      "start": 3.04,
+      "end": 3.64,
+      "text": "空中前",
+      "language": "ja"
+    },
+    {
+      "start": 3.64,
+      "end": 4.36,
+      "text": "抜けて",
+      "language": "ja"
+    },
+    {
+      "start": 4.36,
+      "end": 6.54,
+      "text": "ここはサムスの暴れが通る形",
+      "language": "ja"
+    },
+    {
+      "start": 6.54,
+      "end": 7.7,
+      "text": "着地狩り",
+      "language": "ja"
+    },
+    {
+      "start": 7.7,
+      "end": 8.2,
+      "text": "掴んだ",
+      "language": "ja"
+    },
+    {
+      "start": 8.2,
+      "end": 9.36,
+      "text": "さすがに撃墜",
+      "language": "ja"
+    }
+  ],
+  "full_text": "着地狩り ボムに引っかかってしまった 空中前 抜けて ここはサムスの暴れが通る形 着地狩り 掴んだ さすがに撃墜",
+  "detected_language": "ja",
+  "corrections": []
+}

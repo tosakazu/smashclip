@@ -1,0 +1,49 @@
+{
+  "id": "e422934a-d79e-4574-88a0-3c7eda7db813",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.62,
+      "text": "Driven to the ceiling!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "天井になって"
+    },
+    {
+      "start": 0.62,
+      "end": 5.88,
+      "text": "That enables aggressive offense!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "果敢な攻めを可能としている"
+    },
+    {
+      "start": 5.88,
+      "end": 7.5,
+      "text": "Off-stage to finish!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあ台外に押しとどめて"
+    },
+    {
+      "start": 7.5,
+      "end": 8.82,
+      "text": "Recovers with side B!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "横必殺で拾う"
+    },
+    {
+      "start": 8.82,
+      "end": 9.24,
+      "text": "Oh!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "あ"
+    }
+  ],
+  "full_text": "Driven to the ceiling! That enables aggressive offense! Off-stage to finish! Recovers with side B! Oh!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

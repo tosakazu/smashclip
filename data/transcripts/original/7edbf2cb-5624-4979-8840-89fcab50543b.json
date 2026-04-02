@@ -1,0 +1,39 @@
+{
+  "id": "7edbf2cb-5624-4979-8840-89fcab50543b",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.7,
+      "text": "プレーをやや前のめりにさせて",
+      "language": "ja"
+    },
+    {
+      "start": 1.7,
+      "end": 4.72,
+      "text": "場外出して決めきるのは",
+      "language": "ja"
+    },
+    {
+      "start": 4.72,
+      "end": 5.26,
+      "text": "一択だ",
+      "language": "ja"
+    },
+    {
+      "start": 5.26,
+      "end": 6.12,
+      "text": "回避を",
+      "language": "ja"
+    }
+  ],
+  "full_text": "プレーをやや前のめりにさせて 場外出して決めきるのは 一択だ 回避を",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "いつだか",
+      "corrected": "一択だ",
+      "rule": "kanji homophone"
+    }
+  ]
+}

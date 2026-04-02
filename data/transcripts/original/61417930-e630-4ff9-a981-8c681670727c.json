@@ -1,0 +1,57 @@
+{
+  "id": "61417930-e630-4ff9-a981-8c681670727c",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.98,
+      "text": "そのまま空後に接続してその撃墜されちゃうんで",
+      "language": "ja"
+    },
+    {
+      "start": 2.98,
+      "end": 4.92,
+      "text": "絶対拒否です",
+      "language": "ja"
+    },
+    {
+      "start": 4.92,
+      "end": 6.42,
+      "text": "空中暴れ",
+      "language": "ja"
+    },
+    {
+      "start": 6.42,
+      "end": 11.24,
+      "text": "空中でとはいえ",
+      "language": "ja"
+    },
+    {
+      "start": 11.24,
+      "end": 12.96,
+      "text": "ネオ側も暴れを仕込んでいた",
+      "language": "ja"
+    },
+    {
+      "start": 12.96,
+      "end": 14.76,
+      "text": "対空空後をそのまま撃墜",
+      "language": "ja"
+    }
+  ],
+  "full_text": "そのまま空後に接続してその撃墜されちゃうんで 絶対拒否です 空中暴れ 空中でとはいえ ネオ側も暴れを仕込んでいた 対空空後をそのまま撃墜",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "空中首都",
+      "corrected": "空後",
+      "rule": "smash term (空中後ろ)"
+    },
+    {
+      "segment_idx": 5,
+      "original": "対空空中首都",
+      "corrected": "対空空後",
+      "rule": "smash term (空中後ろ)"
+    }
+  ]
+}

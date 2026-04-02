@@ -1,0 +1,172 @@
+{
+  "id": "c5794ff2-b459-42be-a258-5cfe6459aae2",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.14,
+      "text": "Up in the air, up in the air!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空中へ空中へ"
+    },
+    {
+      "start": 1.14,
+      "end": 3.7,
+      "text": "You gotta stay close to the ground to shield",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ブロックを立てるためにはある程度"
+    },
+    {
+      "start": 3.7,
+      "end": 5.86,
+      "text": "Need to be near the stage floor",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ステージで床に近づかなければならない"
+    },
+    {
+      "start": 5.86,
+      "end": 7.44,
+      "text": "Shield just showing",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ちょっとシールド上見え"
+    },
+    {
+      "start": 7.44,
+      "end": 9.76,
+      "text": "We already saw that mash",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "その暴れはさっき見たよと"
+    },
+    {
+      "start": 9.76,
+      "end": 12.2,
+      "text": "That same neutral won't work",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "見合いに同じでは何度も何度も"
+    },
+    {
+      "start": 12.2,
+      "end": 13.48,
+      "text": "Won't keep working",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "通用しない"
+    },
+    {
+      "start": 13.48,
+      "end": 16.42,
+      "text": "Also going for throws",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "投げも通して"
+    },
+    {
+      "start": 16.42,
+      "end": 19.16,
+      "text": "Trying to stuff with nair",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空Nで突っ張る気ですが"
+    },
+    {
+      "start": 19.16,
+      "end": 20.72,
+      "text": "Covering that with aerials",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "それをカバーする空中へ"
+    },
+    {
+      "start": 20.72,
+      "end": 23.48,
+      "text": "Even covers air tech",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空中だろう受け身を取っていくものを"
+    },
+    {
+      "start": 23.48,
+      "end": 24.78,
+      "text": "Covers everything!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そこすらもカバーしよう"
+    },
+    {
+      "start": 24.78,
+      "end": 28.1,
+      "text": "Incredible reads!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "なんて先まで見えている"
+    },
+    {
+      "start": 28.1,
+      "end": 29.04,
+      "text": "Bair!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空中後ろ"
+    },
+    {
+      "start": 29.04,
+      "end": 30.58,
+      "text": "Freeze cam!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "カメラ止めて"
+    },
+    {
+      "start": 30.58,
+      "end": 31.06,
+      "text": "Freeze cam!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "カメラ止めて"
+    },
+    {
+      "start": 31.06,
+      "end": 32.2,
+      "text": "Freeze cam!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "カメラ止めて"
+    },
+    {
+      "start": 32.2,
+      "end": 33.66,
+      "text": "Freeze cam!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "カメラ止めて"
+    }
+  ],
+  "full_text": "Up in the air, up in the air! You gotta stay close to the ground to shield Need to be near the stage floor Shield just showing We already saw that mash That same neutral won't work Won't keep working Also going for throws Trying to stuff with nair Covering that with aerials Even covers air tech Covers everything! Incredible reads! Bair! Freeze cam! Freeze cam! Freeze cam! Freeze cam!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 8,
+      "original": "空中ショース",
+      "corrected": "空Nで",
+      "rule": "misheard move name"
+    },
+    {
+      "segment_idx": 10,
+      "original": "空中太郎",
+      "corrected": "空中だろう",
+      "rule": "misheard word"
+    },
+    {
+      "segment_idx": 13,
+      "original": "空中しろ",
+      "corrected": "空中後ろ",
+      "rule": "misheard move name"
+    }
+  ]
+}

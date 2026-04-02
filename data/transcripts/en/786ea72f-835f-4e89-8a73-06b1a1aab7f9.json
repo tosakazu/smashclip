@@ -1,0 +1,45 @@
+{
+  "id": "786ea72f-835f-4e89-8a73-06b1a1aab7f9",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.72,
+      "text": "and to press while you're facing forward in the air.",
+      "language": "en"
+    },
+    {
+      "start": 2.72,
+      "end": 5.34,
+      "text": "And that's just so important for a lot of reasons.",
+      "language": "en"
+    },
+    {
+      "start": 5.34,
+      "end": 6.18,
+      "text": "What an answer.",
+      "language": "en"
+    },
+    {
+      "start": 6.18,
+      "end": 7.02,
+      "text": "I don't know, man.",
+      "language": "en"
+    },
+    {
+      "start": 7.02,
+      "end": 9.2,
+      "text": "It looks like Dabuz has so much momentum.",
+      "language": "en"
+    }
+  ],
+  "full_text": "and to press while you're facing forward in the air. And that's just so important for a lot of reasons. What an answer. I don't know, man. It looks like Dabuz has so much momentum.",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 4,
+      "original": "the buzz",
+      "corrected": "Dabuz",
+      "rule": "player name"
+    }
+  ]
+}

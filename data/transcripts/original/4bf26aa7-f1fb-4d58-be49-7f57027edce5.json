@@ -1,0 +1,57 @@
+{
+  "id": "4bf26aa7-f1fb-4d58-be49-7f57027edce5",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.66,
+      "text": "この崖どうなる?",
+      "language": "ja"
+    },
+    {
+      "start": 2.5,
+      "end": 4.64,
+      "text": "崖離しの空中上攻撃を",
+      "language": "ja"
+    },
+    {
+      "start": 4.64,
+      "end": 5.72,
+      "text": "ヤマナクション分かっている",
+      "language": "ja"
+    },
+    {
+      "start": 5.72,
+      "end": 6.24,
+      "text": "許さない",
+      "language": "ja"
+    },
+    {
+      "start": 6.24,
+      "end": 9.94,
+      "text": "お互いダメージは50%ほどだが",
+      "language": "ja"
+    },
+    {
+      "start": 9.94,
+      "end": 11.0,
+      "text": "1ストックの差がある",
+      "language": "ja"
+    },
+    {
+      "start": 11.0,
+      "end": 12.24,
+      "text": "うまく差し込んだ",
+      "language": "ja"
+    }
+  ],
+  "full_text": "この崖どうなる? 崖離しの空中上攻撃を ヤマナクション分かっている 許さない お互いダメージは50%ほどだが 1ストックの差がある うまく差し込んだ",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "山中省分かっている",
+      "corrected": "ヤマナクション分かっている",
+      "rule": "player name"
+    }
+  ]
+}

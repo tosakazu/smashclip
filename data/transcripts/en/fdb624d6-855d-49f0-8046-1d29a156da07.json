@@ -1,0 +1,25 @@
+{
+  "id": "fdb624d6-855d-49f0-8046-1d29a156da07",
+  "segments": [
+    {
+      "start": 0.36,
+      "end": 2.92,
+      "text": "Up tilt connects for the KO off the nair!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空中ニュートラルから上強で撃墜通していきましたね"
+    },
+    {
+      "start": 2.92,
+      "end": 9.68,
+      "text": "Here is",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここは"
+    }
+  ],
+  "full_text": "Up tilt connects for the KO off the nair! Here is",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

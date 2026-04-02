@@ -1,0 +1,33 @@
+{
+  "id": "de32da11-6d78-41a5-bbea-dba65718435c",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.96,
+      "text": "this could be very very dangerous this kid don't fall from that screw attack please and not like",
+      "language": "en"
+    },
+    {
+      "start": 5.96,
+      "end": 11.72,
+      "text": "that gonna put him off stage that is it last stock situation between",
+      "language": "en"
+    }
+  ],
+  "full_text": "this could be very very dangerous this kid don't fall from that screw attack please and not like that gonna put him off stage that is it last stock situation between",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "this key",
+      "corrected": "this kid",
+      "rule": "misheard word"
+    },
+    {
+      "segment_idx": 1,
+      "original": "on stage",
+      "corrected": "off stage",
+      "rule": "misheard word"
+    }
+  ]
+}

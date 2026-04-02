@@ -1,0 +1,32 @@
+{
+  "id": "e7346f69-c29e-439c-80bf-a0c7b81f454e",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 7.2,
+      "text": "Lately, everyone in the Smash community's been talking about the kill percentages for each fighter.",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "昨今ではスマブラコミュニティではそのファイターの最大火力が何%なのかみたいなことはね話題になってます"
+    },
+    {
+      "start": 7.2,
+      "end": 10.86,
+      "text": "But for Yoshidora, the percentage is irrelevant.",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "しかしYoshidora選手はそのまま%は関係ない"
+    }
+  ],
+  "full_text": "Lately, everyone in the Smash community's been talking about the kill percentages for each fighter. But for Yoshidora, the percentage is irrelevant.",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "吉田選手はそのまま%は関係ない",
+      "corrected": "Yoshidora選手はそのまま%は関係ない",
+      "rule": "player name: Yoshidora"
+    }
+  ]
+}

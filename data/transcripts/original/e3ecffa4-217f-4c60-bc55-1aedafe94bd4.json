@@ -1,0 +1,26 @@
+{
+  "id": "e3ecffa4-217f-4c60-bc55-1aedafe94bd4",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.56,
+      "text": "Oh my god, I cannot believe we made that back.",
+      "language": "en"
+    },
+    {
+      "start": 2.56,
+      "end": 2.84,
+      "text": "Oh!",
+      "language": "en"
+    },
+    {
+      "start": 3.92,
+      "end": 5.56,
+      "text": "Back from the heat, that's enough, yep, heat.",
+      "language": "en"
+    }
+  ],
+  "full_text": "Oh my god, I cannot believe we made that back. Oh! Back from the heat, that's enough, yep, heat.",
+  "detected_language": "en",
+  "corrections": []
+}

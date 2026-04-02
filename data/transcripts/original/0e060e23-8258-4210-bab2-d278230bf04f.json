@@ -1,0 +1,33 @@
+{
+  "id": "0e060e23-8258-4210-bab2-d278230bf04f",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.64,
+      "text": "っていうのも加味しても当たれば撃墜だからっていうので",
+      "language": "ja"
+    },
+    {
+      "start": 2.64,
+      "end": 3.12,
+      "text": "そうですね",
+      "language": "ja"
+    },
+    {
+      "start": 3.12,
+      "end": 6.42,
+      "text": "空後空なんで外してもそんな手痛い",
+      "language": "ja"
+    }
+  ],
+  "full_text": "っていうのも加味しても当たれば撃墜だからっていうので そうですね 空後空なんで外してもそんな手痛い",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "空担空なんで外してもそんな手痛い",
+      "corrected": "空後空なんで外してもそんな手痛い",
+      "rule": "Move abbreviation: 空担空→空後空 (back air whiff)"
+    }
+  ]
+}

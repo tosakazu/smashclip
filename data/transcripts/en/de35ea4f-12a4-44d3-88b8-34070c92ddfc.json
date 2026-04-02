@@ -1,0 +1,70 @@
+{
+  "id": "de35ea4f-12a4-44d3-88b8-34070c92ddfc",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.36,
+      "text": "But I think that was the KO from acola's match",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "しかし撃墜はあcolaさんが通してた試合内容だったと思う"
+    },
+    {
+      "start": 2.36,
+      "end": 3.32,
+      "text": "I see, I see",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "なるほどなるほど"
+    },
+    {
+      "start": 3.32,
+      "end": 4.68,
+      "text": "Right here",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここは"
+    },
+    {
+      "start": 4.68,
+      "end": 6.7,
+      "text": "The accuracy itself wasn't a problem",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "精度自体は問題がなかったと"
+    },
+    {
+      "start": 6.7,
+      "end": 8.2,
+      "text": "And it all comes at once",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここで一気に"
+    },
+    {
+      "start": 8.2,
+      "end": 10.44,
+      "text": "Coming in one more time!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "もう一回来るー!"
+    }
+  ],
+  "full_text": "But I think that was the KO from acola's match I see, I see Right here The accuracy itself wasn't a problem And it all comes at once Coming in one more time!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "コロさん",
+      "corrected": "あcolaさん",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 3,
+      "original": "制度しは問題がなかったと",
+      "corrected": "精度自体は問題がなかったと",
+      "rule": "misheard word"
+    }
+  ]
+}

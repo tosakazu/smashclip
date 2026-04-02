@@ -1,0 +1,33 @@
+{
+  "id": "8673450d-5d26-4b65-900f-d4c8c1997985",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.82,
+      "text": "exactly what we talked about the importance of getting that setup with this character that",
+      "language": "en"
+    },
+    {
+      "start": 3.82,
+      "end": 8.02,
+      "text": "could be a little bit awkward this is that scenario where the character feels very awkward",
+      "language": "en"
+    },
+    {
+      "start": 8.02,
+      "end": 10.04,
+      "text": "and it's up to a player of Gluto's caliber",
+      "language": "en"
+    }
+  ],
+  "full_text": "exactly what we talked about the importance of getting that setup with this character that could be a little bit awkward this is that scenario where the character feels very awkward and it's up to a player of Gluto's caliber",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "Pluto's",
+      "corrected": "Gluto's",
+      "rule": "player name"
+    }
+  ]
+}

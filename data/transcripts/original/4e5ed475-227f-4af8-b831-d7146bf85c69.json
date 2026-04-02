@@ -1,0 +1,57 @@
+{
+  "id": "4e5ed475-227f-4af8-b831-d7146bf85c69",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.48,
+      "text": "そのまま仕掛けに来るぞ どうだ空前対空から",
+      "language": "ja"
+    },
+    {
+      "start": 3.48,
+      "end": 7.04,
+      "text": "下を落とすNB 66%だが",
+      "language": "ja"
+    },
+    {
+      "start": 7.04,
+      "end": 12.08,
+      "text": "どうなんだ 撃墜はまだしないのかするのかどっちなんだ",
+      "language": "ja"
+    },
+    {
+      "start": 12.08,
+      "end": 14.64,
+      "text": "ねじり裏拳 そのまま左右を捕まえて",
+      "language": "ja"
+    }
+  ],
+  "full_text": "そのまま仕掛けに来るぞ どうだ空前対空から 下を落とすNB 66%だが どうなんだ 撃墜はまだしないのかするのかどっちなんだ ねじり裏拳 そのまま左右を捕まえて",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "空中前対空",
+      "corrected": "空前対空",
+      "rule": "move abbreviation"
+    },
+    {
+      "segment_idx": 1,
+      "original": "封を落とす",
+      "corrected": "下を落とす",
+      "rule": "misheard word"
+    },
+    {
+      "segment_idx": 3,
+      "original": "裏剣",
+      "corrected": "裏拳",
+      "rule": "kanji homophone: 剣→拳"
+    },
+    {
+      "segment_idx": 3,
+      "original": "左上",
+      "corrected": "左右",
+      "rule": "misheard word"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "55dd14a2-157c-4e01-a0ff-f57de4a312ec",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.52,
+      "text": "すいませんか",
+      "language": "ja"
+    },
+    {
+      "start": 0.52,
+      "end": 2.0,
+      "text": "が空中しろ",
+      "language": "ja"
+    },
+    {
+      "start": 2.0,
+      "end": 4.58,
+      "text": "完全にわからない展開",
+      "language": "ja"
+    },
+    {
+      "start": 4.58,
+      "end": 7.38,
+      "text": "外まで追いついて",
+      "language": "ja"
+    }
+  ],
+  "full_text": "すいませんか が空中しろ 完全にわからない展開 外まで追いついて",
+  "detected_language": "ja",
+  "corrections": []
+}

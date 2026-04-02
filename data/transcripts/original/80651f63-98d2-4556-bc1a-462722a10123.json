@@ -1,0 +1,20 @@
+{
+  "id": "80651f63-98d2-4556-bc1a-462722a10123",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.94,
+      "text": "これは空中後ろで撃墜",
+      "language": "ja"
+    },
+    {
+      "start": 3.94,
+      "end": 8.96,
+      "text": "攻略しかしそのまま",
+      "language": "ja"
+    }
+  ],
+  "full_text": "これは空中後ろで撃墜 攻略しかしそのまま",
+  "detected_language": "ja",
+  "corrections": []
+}

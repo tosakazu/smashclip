@@ -1,0 +1,129 @@
+{
+  "id": "f15d156f-d5ba-4cdd-a094-8c92ef83cb2f",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.9,
+      "text": "攻撃上がり",
+      "language": "ja"
+    },
+    {
+      "start": 1.9,
+      "end": 2.96,
+      "text": "浮かせた展開",
+      "language": "ja"
+    },
+    {
+      "start": 2.96,
+      "end": 3.62,
+      "text": "台上",
+      "language": "ja"
+    },
+    {
+      "start": 3.62,
+      "end": 4.82,
+      "text": "少し嫌な感じ",
+      "language": "ja"
+    },
+    {
+      "start": 4.82,
+      "end": 5.62,
+      "text": "空上に対して",
+      "language": "ja"
+    },
+    {
+      "start": 5.62,
+      "end": 6.28,
+      "text": "ジャスシールド",
+      "language": "ja"
+    },
+    {
+      "start": 6.28,
+      "end": 7.26,
+      "text": "降りれた",
+      "language": "ja"
+    },
+    {
+      "start": 7.26,
+      "end": 10.46,
+      "text": "ただまだまだ",
+      "language": "ja"
+    },
+    {
+      "start": 10.46,
+      "end": 11.62,
+      "text": "クラウド側が",
+      "language": "ja"
+    },
+    {
+      "start": 11.62,
+      "end": 12.3,
+      "text": "リーチを押し付ける",
+      "language": "ja"
+    },
+    {
+      "start": 12.3,
+      "end": 12.94,
+      "text": "展開か",
+      "language": "ja"
+    },
+    {
+      "start": 12.94,
+      "end": 14.18,
+      "text": "リミット凶斬り",
+      "language": "ja"
+    },
+    {
+      "start": 14.18,
+      "end": 15.18,
+      "text": "かなり持続が長い",
+      "language": "ja"
+    },
+    {
+      "start": 15.18,
+      "end": 15.88,
+      "text": "技であるんですけれども",
+      "language": "ja"
+    },
+    {
+      "start": 15.88,
+      "end": 16.7,
+      "text": "ギリギリを攻めた",
+      "language": "ja"
+    },
+    {
+      "start": 16.7,
+      "end": 18.2,
+      "text": "そして最後はレイジドライブ",
+      "language": "ja"
+    }
+  ],
+  "full_text": "攻撃上がり 浮かせた展開 台上 少し嫌な感じ 空上に対して ジャスシールド 降りれた ただまだまだ クラウド側が リーチを押し付ける 展開か リミット凶斬り かなり持続が長い 技であるんですけれども ギリギリを攻めた そして最後はレイジドライブ",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "ダイウェイ",
+      "corrected": "台上",
+      "rule": "misheard: ダイウェイ→台上"
+    },
+    {
+      "segment_idx": 4,
+      "original": "空中ウェイ",
+      "corrected": "空上",
+      "rule": "misheard"
+    },
+    {
+      "segment_idx": 11,
+      "original": "リミット距離",
+      "corrected": "リミット凶斬り",
+      "rule": "misheard: 距離→凶斬り (Cloud's limit move)"
+    },
+    {
+      "segment_idx": 12,
+      "original": "時速が長い",
+      "corrected": "持続が長い",
+      "rule": "misheard: 時速→持続"
+    }
+  ]
+}

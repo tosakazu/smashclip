@@ -1,0 +1,89 @@
+{
+  "id": "3ec95122-0540-4b96-bd97-f25ee3df44ff",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.34,
+      "text": "That's an intercepting KO, not just a regular one!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "という意味の撃墜ではなくて迎撃の意味の撃墜です"
+    },
+    {
+      "start": 2.34,
+      "end": 3.38,
+      "text": "Yeah, knocked 'em off the stage!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そうねー突き落としましたね"
+    },
+    {
+      "start": 3.38,
+      "end": 3.96,
+      "text": "Yeah!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "うん"
+    },
+    {
+      "start": 3.96,
+      "end": 6.88,
+      "text": "Masas with the stock!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "敵機撃墜マサ"
+    },
+    {
+      "start": 6.88,
+      "end": 7.34,
+      "text": "Whoa, what?!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "おーなんだ?"
+    },
+    {
+      "start": 7.48,
+      "end": 10.06,
+      "text": "Sandwiching with the iron block to amp up the damage!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "鉄のブロックを挟んで火力を加速させる"
+    },
+    {
+      "start": 10.06,
+      "end": 13.14,
+      "text": "I thought they were even at 87, but Masas has the stock lead!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "並んだ87と思ったらストックはマサの方が上です"
+    },
+    {
+      "start": 13.14,
+      "end": 15.3,
+      "text": "So here against the bair—",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあこれは空中後ろに対して"
+    },
+    {
+      "start": 15.3,
+      "end": 16.42,
+      "text": "Man, they're really pulling that off right now!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いやー本当に今あれする"
+    },
+    {
+      "start": 16.42,
+      "end": 16.84,
+      "text": "The one who set it up was—",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "仕掛けたのは"
+    }
+  ],
+  "full_text": "That's an intercepting KO, not just a regular one! Yeah, knocked 'em off the stage! Yeah! Masas with the stock! Whoa, what?! Sandwiching with the iron block to amp up the damage! I thought they were even at 87, but Masas has the stock lead! So here against the bair— Man, they're really pulling that off right now! The one who set it up was—",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

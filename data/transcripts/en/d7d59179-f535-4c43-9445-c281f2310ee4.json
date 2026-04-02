@@ -1,0 +1,54 @@
+{
+  "id": "d7d59179-f535-4c43-9445-c281f2310ee4",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Ah, the bair has a good angle!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "あ、空後いいベクトルしてる"
+    },
+    {
+      "start": 2.0,
+      "end": 4.12,
+      "text": "Still good - Ryu being heavy really helped there",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "まだ大丈夫リュウが重くて本当によかった"
+    },
+    {
+      "start": 4.12,
+      "end": 6.56,
+      "text": "Breaking route",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "崩しルート"
+    },
+    {
+      "start": 6.56,
+      "end": 9.84,
+      "text": "4",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "4"
+    }
+  ],
+  "full_text": "Ah, the bair has a good angle! Still good - Ryu being heavy really helped there Breaking route 4",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "アクロスイーベックしろ",
+      "corrected": "あ、空後いいベクトルしてる",
+      "rule": "whisper_misrecognition"
+    },
+    {
+      "segment_idx": 2,
+      "original": "クッキールート",
+      "corrected": "崩しルート",
+      "rule": "whisper_misrecognition"
+    }
+  ]
+}

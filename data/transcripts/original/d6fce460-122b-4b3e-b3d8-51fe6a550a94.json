@@ -1,0 +1,93 @@
+{
+  "id": "d6fce460-122b-4b3e-b3d8-51fe6a550a94",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.34,
+      "text": "技の回転率の高い上強攻撃を置いてはいるんですが",
+      "language": "ja"
+    },
+    {
+      "start": 3.34,
+      "end": 5.3,
+      "text": "MASAそれも捌く捌く",
+      "language": "ja"
+    },
+    {
+      "start": 5.3,
+      "end": 7.52,
+      "text": "降ってきた鉄の装備たち",
+      "language": "ja"
+    },
+    {
+      "start": 7.52,
+      "end": 8.9,
+      "text": "それを捌いて",
+      "language": "ja"
+    },
+    {
+      "start": 8.9,
+      "end": 12.74,
+      "text": "さあ今ので撃墜が通っていれば本当に苦しいが",
+      "language": "ja"
+    },
+    {
+      "start": 12.74,
+      "end": 13.72,
+      "text": "ファイヤーバードだ",
+      "language": "ja"
+    },
+    {
+      "start": 13.72,
+      "end": 16.0,
+      "text": "帰ってこれるんか",
+      "language": "ja"
+    },
+    {
+      "start": 16.0,
+      "end": 17.6,
+      "text": "受け身取った",
+      "language": "ja"
+    },
+    {
+      "start": 17.6,
+      "end": 19.4,
+      "text": "そして緊急脱出のようにエリトラ",
+      "language": "ja"
+    },
+    {
+      "start": 19.4,
+      "end": 21.32,
+      "text": "宇宙城だ",
+      "language": "ja"
+    },
+    {
+      "start": 21.32,
+      "end": 22.34,
+      "text": "間違えた",
+      "language": "ja"
+    }
+  ],
+  "full_text": "技の回転率の高い上強攻撃を置いてはいるんですが MASAそれも捌く捌く 降ってきた鉄の装備たち それを捌いて さあ今ので撃墜が通っていれば本当に苦しいが ファイヤーバードだ 帰ってこれるんか 受け身取った そして緊急脱出のようにエリトラ 宇宙城だ 間違えた",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "金の回転率の高い上強攻撃を置いてはいるんですが",
+      "corrected": "技の回転率の高い上強攻撃を置いてはいるんですが",
+      "rule": "whisper_misrecognition"
+    },
+    {
+      "segment_idx": 1,
+      "original": "マサーそれも捌く捌く",
+      "corrected": "MASAそれも捌く捌く",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 8,
+      "original": "そして緊急脱出のようにエルトラ",
+      "corrected": "そして緊急脱出のようにエリトラ",
+      "rule": "Steve move name (エリトラ)"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "3c8e7688-d59c-4735-823b-17e936cd6b61",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.92,
+      "text": "Chilling at the ledge, StoryGuru can't afford to do that with Bandrew.",
+      "language": "en"
+    },
+    {
+      "start": 4.48,
+      "end": 7.2,
+      "text": "Oh what are you doing? That's the second time he messes",
+      "language": "en"
+    }
+  ],
+  "full_text": "Chilling at the ledge, StoryGuru can't afford to do that with Bandrew. Oh what are you doing? That's the second time he messes",
+  "detected_language": "en",
+  "corrections": []
+}

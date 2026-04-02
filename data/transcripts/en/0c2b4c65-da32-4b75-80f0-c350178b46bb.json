@@ -1,0 +1,41 @@
+{
+  "id": "0c2b4c65-da32-4b75-80f0-c350178b46bb",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.92,
+      "text": "Push them off and secure the line!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "外に追い出してラインを確保して"
+    },
+    {
+      "start": 1.92,
+      "end": 3.76,
+      "text": "Wants to pressure from here, but...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "このラインで押し上げたいが"
+    },
+    {
+      "start": 3.76,
+      "end": 6.08,
+      "text": "Corrin's up smash!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "コリンクの上スマッシュ"
+    },
+    {
+      "start": 6.08,
+      "end": 8.66,
+      "text": "Catches the attack he was trying to set up!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "置きたかった安定の下りの攻撃に対して"
+    }
+  ],
+  "full_text": "Push them off and secure the line! Wants to pressure from here, but... Corrin's up smash! Catches the attack he was trying to set up!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

@@ -1,0 +1,40 @@
+{
+  "id": "feb54f28-92fb-4b87-9b37-46c2e2b27022",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.66,
+      "text": "Up throw!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "上投げを選択"
+    },
+    {
+      "start": 0.66,
+      "end": 2.38,
+      "text": "Back into the juggle!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "浮いの展開に戻っていく"
+    },
+    {
+      "start": 2.38,
+      "end": 3.12,
+      "text": "And here",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあここは"
+    }
+  ],
+  "full_text": "Up throw! Back into the juggle! And here",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "違いの展開",
+      "corrected": "浮いの展開",
+      "rule": "misheard: 違い→浮い"
+    }
+  ]
+}

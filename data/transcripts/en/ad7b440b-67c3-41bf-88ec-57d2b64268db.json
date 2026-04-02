@@ -1,0 +1,64 @@
+{
+  "id": "ad7b440b-67c3-41bf-88ec-57d2b64268db",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.8,
+      "text": "Third stock",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "3回目"
+    },
+    {
+      "start": 0.8,
+      "end": 2.72,
+      "text": "Spacing nair right away",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空Nの一速も置いて"
+    },
+    {
+      "start": 2.72,
+      "end": 4.9,
+      "text": "Can't quite get the landing through",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "なかなか着地を通すことができない"
+    },
+    {
+      "start": 4.9,
+      "end": 5.96,
+      "text": "Down smash fully charged",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "下スマッシュホールド"
+    },
+    {
+      "start": 5.96,
+      "end": 7.8,
+      "text": "Gets hit every time pulling back",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "毎回引きに当たって"
+    },
+    {
+      "start": 7.8,
+      "end": 8.98,
+      "text": "Go up!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "上に行けと"
+    }
+  ],
+  "full_text": "Third stock Spacing nair right away Can't quite get the landing through Down smash fully charged Gets hit every time pulling back Go up!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "クエの一族もおいて",
+      "corrected": "空Nの一速も置いて",
+      "rule": "Move: クエ→空N"
+    }
+  ]
+}

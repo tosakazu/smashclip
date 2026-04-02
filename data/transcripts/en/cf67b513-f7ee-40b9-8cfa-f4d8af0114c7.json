@@ -1,0 +1,45 @@
+{
+  "id": "cf67b513-f7ee-40b9-8cfa-f4d8af0114c7",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.56,
+      "text": "for zackray i think zackray usually has more center stage control so we usually see the stock",
+      "language": "en"
+    },
+    {
+      "start": 4.56,
+      "end": 9.68,
+      "text": "go a little bit more mileage than that but now coming into this final stock game three",
+      "language": "en"
+    },
+    {
+      "start": 9.68,
+      "end": 13.52,
+      "text": "this is the pivot game as well so important again using those shields to close in the",
+      "language": "en"
+    },
+    {
+      "start": 13.52,
+      "end": 19.12,
+      "text": "distance now he's gonna get that double grab on the platform the snipe yeah he saved his",
+      "language": "en"
+    },
+    {
+      "start": 19.12,
+      "end": 23.44,
+      "text": "jump he's able to work oh he went too low in that moment we absolutely take the",
+      "language": "en"
+    }
+  ],
+  "full_text": "for zackray i think zackray usually has more center stage control so we usually see the stock go a little bit more mileage than that but now coming into this final stock game three this is the pivot game as well so important again using those shields to close in the distance now he's gonna get that double grab on the platform the snipe yeah he saved his jump he's able to work oh he went too low in that moment we absolutely take the",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "zachary",
+      "corrected": "zackray",
+      "rule": "player name"
+    }
+  ]
+}

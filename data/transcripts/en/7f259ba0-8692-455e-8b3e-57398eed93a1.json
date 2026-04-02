@@ -1,0 +1,54 @@
+{
+  "id": "7f259ba0-8692-455e-8b3e-57398eed93a1",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.84,
+      "text": "The neutral is really giving them trouble!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "なかなか攻防にもひと悩まされるとこのことか"
+    },
+    {
+      "start": 3.84,
+      "end": 8.74,
+      "text": "Couldn't tech out of shield! Is that finally the opening?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ブロックでの受け身が取れなかった 初めてリードを奪った形になったでしょうか"
+    },
+    {
+      "start": 8.74,
+      "end": 11.7,
+      "text": "No, they're not accepting that!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いやそれを許さない"
+    },
+    {
+      "start": 11.7,
+      "end": 13.96,
+      "text": "What an incredible punish on Rim!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "リムに対する反撃すごいですね"
+    }
+  ],
+  "full_text": "The neutral is really giving them trouble! Couldn't tech out of shield! Is that finally the opening? No, they're not accepting that! What an incredible punish on Rim!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "中野 攻防にも筆悩まれとこのことか",
+      "corrected": "なかなか攻防にもひと悩まされるとこのことか",
+      "rule": "Whisper mishearing"
+    },
+    {
+      "segment_idx": 3,
+      "original": "立馬に対する反撃すごいですね",
+      "corrected": "リムに対する反撃すごいですね",
+      "rule": "player name"
+    }
+  ]
+}

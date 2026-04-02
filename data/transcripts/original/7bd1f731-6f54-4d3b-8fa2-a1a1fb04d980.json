@@ -1,0 +1,51 @@
+{
+  "id": "7bd1f731-6f54-4d3b-8fa2-a1a1fb04d980",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.76,
+      "text": "はい空後",
+      "language": "ja"
+    },
+    {
+      "start": 3.76,
+      "end": 6.12,
+      "text": "うまいだよめちゃくちゃ空前",
+      "language": "ja"
+    },
+    {
+      "start": 6.12,
+      "end": 8.14,
+      "text": "からの",
+      "language": "ja"
+    },
+    {
+      "start": 8.14,
+      "end": 9.18,
+      "text": "あった",
+      "language": "ja"
+    },
+    {
+      "start": 9.18,
+      "end": 11.36,
+      "text": "受け身取ってるけど追っかけた",
+      "language": "ja"
+    }
+  ],
+  "full_text": "はい空後 うまいだよめちゃくちゃ空前 からの あった 受け身取ってるけど追っかけた",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "空中しろ",
+      "corrected": "空後",
+      "rule": "misheard: 空中しろ→空後 (くうしろ)"
+    },
+    {
+      "segment_idx": 1,
+      "original": "空中前",
+      "corrected": "空前",
+      "rule": "abbreviation: 空中前→空前"
+    }
+  ]
+}

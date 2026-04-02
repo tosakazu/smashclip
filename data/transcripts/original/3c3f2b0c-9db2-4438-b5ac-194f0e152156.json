@@ -1,0 +1,57 @@
+{
+  "id": "3c3f2b0c-9db2-4438-b5ac-194f0e152156",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.16,
+      "text": "ただリターンが伸びないですね",
+      "language": "ja"
+    },
+    {
+      "start": 2.16,
+      "end": 3.68,
+      "text": "86%まで",
+      "language": "ja"
+    },
+    {
+      "start": 3.68,
+      "end": 5.74,
+      "text": "たまPだいふく選手が追い込まれていくか",
+      "language": "ja"
+    },
+    {
+      "start": 5.74,
+      "end": 7.68,
+      "text": "しかし焦らず資材を集め",
+      "language": "ja"
+    },
+    {
+      "start": 7.68,
+      "end": 9.76,
+      "text": "徐々にですが詰めていこうというところ",
+      "language": "ja"
+    },
+    {
+      "start": 9.76,
+      "end": 11.8,
+      "text": "遅らせたところも追いかける",
+      "language": "ja"
+    },
+    {
+      "start": 11.8,
+      "end": 13.2,
+      "text": "メテオでの",
+      "language": "ja"
+    }
+  ],
+  "full_text": "ただリターンが伸びないですね 86%まで たまPだいふく選手が追い込まれていくか しかし焦らず資材を集め 徐々にですが詰めていこうというところ 遅らせたところも追いかける メテオでの",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "ターバンビー・ダイフス選手",
+      "corrected": "たまPだいふく選手",
+      "rule": "player name"
+    }
+  ]
+}

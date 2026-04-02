@@ -1,0 +1,72 @@
+{
+  "id": "0fe9e51b-75a5-414b-9619-7fe4ef92d2e6",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.78,
+      "text": "Going for a safe projectile KO, but...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いや、飛び道具で安全に撃墜を狙いたいが"
+    },
+    {
+      "start": 2.78,
+      "end": 4.08,
+      "text": "Aerial!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空中出力"
+    },
+    {
+      "start": 4.08,
+      "end": 5.62,
+      "text": "Empty throw!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "すかし投げ"
+    },
+    {
+      "start": 5.62,
+      "end": 7.08,
+      "text": "So composed!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "あまりにも冷静"
+    },
+    {
+      "start": 7.08,
+      "end": 8.96,
+      "text": "A reversal?!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "まくるのか"
+    },
+    {
+      "start": 8.96,
+      "end": 10.46,
+      "text": "Gets caught by the projectile!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "電光弾に散るか"
+    },
+    {
+      "start": 10.46,
+      "end": 11.58,
+      "text": "Reversed!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "まくったー"
+    }
+  ],
+  "full_text": "Going for a safe projectile KO, but... Aerial! Empty throw! So composed! A reversal?! Gets caught by the projectile! Reversed!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 5,
+      "original": "電光弾に撃ちるか",
+      "corrected": "電光弾に散るか",
+      "rule": "Whisper mishearing: 撃ちるか→散るか"
+    }
+  ]
+}

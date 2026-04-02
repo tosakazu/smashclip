@@ -1,0 +1,62 @@
+{
+  "id": "af7adf10-c11c-453a-9aaa-37b83bf66cb2",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.58,
+      "text": "One meteor off the down B!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "下必殺技で1回メテオ"
+    },
+    {
+      "start": 2.58,
+      "end": 4.38,
+      "text": "A dair meteor in the mix!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "読み合い挟んで空中下メテオ"
+    },
+    {
+      "start": 4.38,
+      "end": 5.92,
+      "text": "Fails to KO off the up air!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そして空中上で撃墜せん"
+    },
+    {
+      "start": 5.92,
+      "end": 8.04,
+      "text": "But Naochan's not out of it!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "だがなおちゃ選手も負けてはいない"
+    },
+    {
+      "start": 8.04,
+      "end": 9.04,
+      "text": "Up smash right here!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここは上スマッシュ"
+    }
+  ],
+  "full_text": "One meteor off the down B! A dair meteor in the mix! Fails to KO off the up air! But Naochan's not out of it! Up smash right here!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "空中上で激戦",
+      "corrected": "空中上で撃墜せん",
+      "rule": "homophone (撃墜せん=trying to KO)"
+    },
+    {
+      "segment_idx": 3,
+      "original": "直茶選手",
+      "corrected": "なおちゃ選手",
+      "rule": "player name (なおちゃ)"
+    }
+  ]
+}

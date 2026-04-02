@@ -1,0 +1,24 @@
+{
+  "id": "9e8397c8-6c2f-474b-a79b-a10bf657d32e",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 9.32,
+      "text": "Setting up on the ledge. As soon as they attack, they're trapped before you know it. That aggression, I mean... it's rough!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ラインに仕込んでいきます 早速攻めに行ったらいつの間にやら身詰まってその攻めというかてるわー"
+    }
+  ],
+  "full_text": "Setting up on the ledge. As soon as they attack, they're trapped before you know it. That aggression, I mean... it's rough!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "ロディに仕込んでいきます 早速豪雨にしたらいつの間にやら水休まってその税名というかてるわー",
+      "corrected": "ラインに仕込んでいきます 早速攻めに行ったらいつの間にやら身詰まってその攻めというかてるわー",
+      "rule": "heavily garbled Whisper output"
+    }
+  ]
+}

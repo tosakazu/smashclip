@@ -1,0 +1,33 @@
+{
+  "id": "39776891-9be2-48c1-aba7-d33e3638414b",
+  "segments": [
+    {
+      "start": 0.8,
+      "end": 2.02,
+      "text": "Capsule after capsule!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "カプセルカプセルと"
+    },
+    {
+      "start": 2.02,
+      "end": 3.82,
+      "text": "The down one's working!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "下のいいから"
+    },
+    {
+      "start": 3.82,
+      "end": 4.96,
+      "text": "Escape the bike!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ウィリー逃げて"
+    }
+  ],
+  "full_text": "Capsule after capsule! The down one's working! Escape the bike!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

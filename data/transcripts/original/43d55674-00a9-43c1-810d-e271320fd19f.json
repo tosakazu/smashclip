@@ -1,0 +1,33 @@
+{
+  "id": "43d55674-00a9-43c1-810d-e271320fd19f",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.9,
+      "text": "続けていく",
+      "language": "ja"
+    },
+    {
+      "start": 0.9,
+      "end": 5.26,
+      "text": "崖上がりはマーベラスコンビネーションで戻ってきた",
+      "language": "ja"
+    },
+    {
+      "start": 5.26,
+      "end": 9.46,
+      "text": "埋まってしまって空中",
+      "language": "ja"
+    }
+  ],
+  "full_text": "続けていく 崖上がりはマーベラスコンビネーションで戻ってきた 埋まってしまって空中",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "ワーブラスコンビネーション",
+      "corrected": "マーベラスコンビネーション",
+      "rule": "misheard move name (Roy side B)"
+    }
+  ]
+}

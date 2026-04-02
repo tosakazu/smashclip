@@ -1,0 +1,68 @@
+{
+  "id": "7ef3b9f2-2970-4a8a-8684-bf6747374c58",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.96,
+      "text": "Fair",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空前"
+    },
+    {
+      "start": 1.96,
+      "end": 3.36,
+      "text": "Fair",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空前"
+    },
+    {
+      "start": 3.36,
+      "end": 5.66,
+      "text": "no banana, but",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "バナナはないが"
+    },
+    {
+      "start": 5.66,
+      "end": 7.1,
+      "text": "right here",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここで"
+    },
+    {
+      "start": 7.1,
+      "end": 9.56,
+      "text": "counters with fair",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空前やり返して"
+    }
+  ],
+  "full_text": "Fair Fair no banana, but right here counters with fair",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "空中前",
+      "corrected": "空前",
+      "rule": "move abbreviation"
+    },
+    {
+      "segment_idx": 1,
+      "original": "空中前",
+      "corrected": "空前",
+      "rule": "move abbreviation"
+    },
+    {
+      "segment_idx": 4,
+      "original": "空中前やり返して",
+      "corrected": "空前やり返して",
+      "rule": "move abbreviation"
+    }
+  ]
+}

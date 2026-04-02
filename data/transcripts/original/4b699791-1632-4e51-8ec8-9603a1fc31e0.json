@@ -1,0 +1,99 @@
+{
+  "id": "4b699791-1632-4e51-8ec8-9603a1fc31e0",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.5,
+      "text": "DAを重ねて",
+      "language": "ja"
+    },
+    {
+      "start": 1.5,
+      "end": 2.64,
+      "text": "崖展開",
+      "language": "ja"
+    },
+    {
+      "start": 2.64,
+      "end": 3.8,
+      "text": "音が見ている",
+      "language": "ja"
+    },
+    {
+      "start": 3.8,
+      "end": 5.34,
+      "text": "距離を取る",
+      "language": "ja"
+    },
+    {
+      "start": 5.34,
+      "end": 6.14,
+      "text": "バナナを",
+      "language": "ja"
+    },
+    {
+      "start": 6.14,
+      "end": 7.9,
+      "text": "まずは取り返して",
+      "language": "ja"
+    },
+    {
+      "start": 7.9,
+      "end": 8.88,
+      "text": "空対空",
+      "language": "ja"
+    },
+    {
+      "start": 8.88,
+      "end": 10.0,
+      "text": "通しているのはシュートン",
+      "language": "ja"
+    },
+    {
+      "start": 10.0,
+      "end": 10.84,
+      "text": "着地は展開は",
+      "language": "ja"
+    },
+    {
+      "start": 10.84,
+      "end": 12.02,
+      "text": "うまーい",
+      "language": "ja"
+    },
+    {
+      "start": 12.02,
+      "end": 12.72,
+      "text": "上投げ通す",
+      "language": "ja"
+    },
+    {
+      "start": 12.72,
+      "end": 13.36,
+      "text": "うまいね",
+      "language": "ja"
+    },
+    {
+      "start": 13.36,
+      "end": 14.64,
+      "text": "着地",
+      "language": "ja"
+    }
+  ],
+  "full_text": "DAを重ねて 崖展開 音が見ている 距離を取る バナナを まずは取り返して 空対空 通しているのはシュートン 着地は展開は うまーい 上投げ通す うまいね 着地",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "出しアタックを重ねて",
+      "corrected": "DAを重ねて",
+      "rule": "move abbreviation (ダッシュアタック→DA)"
+    },
+    {
+      "segment_idx": 10,
+      "original": "青投げ通す",
+      "corrected": "上投げ通す",
+      "rule": "move name (上投げ = up throw)"
+    }
+  ]
+}

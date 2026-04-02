@@ -1,0 +1,32 @@
+{
+  "id": "11a9da96-cc18-4efd-b998-d45f5cf55b87",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.24,
+      "text": "Pero bueno, aquí es la primera partida, ahora con la planta de Spargo, ¿eh?",
+      "language": "es"
+    },
+    {
+      "start": 6.5,
+      "end": 9.88,
+      "text": "Ahí es, eso es, vamos a tener la planta de Spargo, ¡qué madre mía!",
+      "language": "es"
+    },
+    {
+      "start": 9.88,
+      "end": 11.98,
+      "text": "Me parece que va a ser muy divertido",
+      "language": "es"
+    },
+    {
+      "start": 11.98,
+      "end": 16.02,
+      "text": "Es que para empezar, ver una planta piraña en 2025 me parece...",
+      "language": "es"
+    }
+  ],
+  "full_text": "Pero bueno, aquí es la primera partida, ahora con la planta de Spargo, ¿eh? Ahí es, eso es, vamos a tener la planta de Spargo, ¡qué madre mía! Me parece que va a ser muy divertido Es que para empezar, ver una planta piraña en 2025 me parece...",
+  "detected_language": "es",
+  "corrections": []
+}

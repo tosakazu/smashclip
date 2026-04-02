@@ -1,0 +1,76 @@
+{
+  "id": "6b2492d4-f329-4a22-8392-e9aba49a6e7f",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.12,
+      "text": "Connects with the banana, back throw!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "バナナを当てて後ろ投げ"
+    },
+    {
+      "start": 2.12,
+      "end": 7.04,
+      "text": "Banana gets in the way—bair lands!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "バナナが邪魔で空後が当たってしまう"
+    },
+    {
+      "start": 7.04,
+      "end": 10.16,
+      "text": "Next getup? Getup attack is long and that saves it!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "次の上がりをどうする攻撃上がり長くて助かった"
+    },
+    {
+      "start": 10.16,
+      "end": 15.38,
+      "text": "Jab to down tilt, down tilt, up smash!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "弱下強から下強そして上スマッシュ"
+    },
+    {
+      "start": 15.38,
+      "end": 17.9,
+      "text": "But that weight advantage is definitely showing!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ただ体重の重さが功を奏している"
+    },
+    {
+      "start": 17.9,
+      "end": 19.74,
+      "text": "Bair into back throw!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここは空後を当てて後ろ投げ"
+    }
+  ],
+  "full_text": "Connects with the banana, back throw! Banana gets in the way—bair lands! Next getup? Getup attack is long and that saves it! Jab to down tilt, down tilt, up smash! But that weight advantage is definitely showing! Bair into back throw!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "空中白",
+      "corrected": "空後",
+      "rule": "kanji homophone (しろ→後)"
+    },
+    {
+      "segment_idx": 5,
+      "original": "空中白が当てて",
+      "corrected": "空後を当てて",
+      "rule": "kanji homophone (しろ→後)"
+    },
+    {
+      "segment_idx": 4,
+      "original": "高を奏",
+      "corrected": "功を奏",
+      "rule": "kanji homophone"
+    }
+  ]
+}

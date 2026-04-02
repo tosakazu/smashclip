@@ -1,0 +1,26 @@
+{
+  "id": "80b37c50-fc07-469e-83d5-eed6cc491013",
+  "segments": [
+    {
+      "start": 0.5,
+      "end": 2.9,
+      "text": "お互いどちらが1ストック取るかというような",
+      "language": "ja"
+    },
+    {
+      "start": 2.9,
+      "end": 4.2,
+      "text": "局面です",
+      "language": "ja"
+    },
+    {
+      "start": 4.2,
+      "end": 8.38,
+      "text": "おっとこれは激痛",
+      "language": "ja"
+    }
+  ],
+  "full_text": "お互いどちらが1ストック取るかというような 局面です おっとこれは激痛",
+  "detected_language": "ja",
+  "corrections": []
+}

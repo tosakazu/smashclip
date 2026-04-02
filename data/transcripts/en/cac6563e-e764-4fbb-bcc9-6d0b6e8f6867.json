@@ -1,0 +1,73 @@
+{
+  "id": "cac6563e-e764-4fbb-bcc9-6d0b6e8f6867",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.4,
+      "text": "Now under the stage!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあ台の下"
+    },
+    {
+      "start": 2.4,
+      "end": 5.3,
+      "text": "Against this Lara taking control",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "陣取ってくるこのラルという男に"
+    },
+    {
+      "start": 5.3,
+      "end": 7.3,
+      "text": "How does he land against Grat?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "グラトにどう着地を通す"
+    },
+    {
+      "start": 7.3,
+      "end": 10.42,
+      "text": "But he switches it up",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "入れ替えるが"
+    },
+    {
+      "start": 10.42,
+      "end": 11.48,
+      "text": "Dash connects!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ダッシュの時が届く"
+    },
+    {
+      "start": 11.48,
+      "end": 12.3,
+      "text": "Kenji!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ケンジしろ"
+    },
+    {
+      "start": 12.3,
+      "end": 13.08,
+      "text": "Kenji!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ケンジ"
+    },
+    {
+      "start": 13.08,
+      "end": 15.22,
+      "text": "He's off!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "飛ぶね"
+    }
+  ],
+  "full_text": "Now under the stage! Against this Lara taking control How does he land against Grat? But he switches it up Dash connects! Kenji! Kenji! He's off!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

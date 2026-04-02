@@ -1,0 +1,40 @@
+{
+  "id": "0fdc653d-bf9b-478a-8c36-529f88898345",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.58,
+      "text": "Baits the airdodge",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "回避させ"
+    },
+    {
+      "start": 0.58,
+      "end": 3.6,
+      "text": "Goes for the grab, but",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "前出し掴んでんだけど"
+    },
+    {
+      "start": 3.6,
+      "end": 5.76,
+      "text": "Here's the finishing bair!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これが空後決戦"
+    }
+  ],
+  "full_text": "Baits the airdodge Goes for the grab, but Here's the finishing bair!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "これが空中白決戦",
+      "corrected": "これが空後決戦",
+      "rule": "Move abbreviation: 空中白→空後 (back air)"
+    }
+  ]
+}

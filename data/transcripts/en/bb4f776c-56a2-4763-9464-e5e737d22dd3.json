@@ -1,0 +1,41 @@
+{
+  "id": "bb4f776c-56a2-4763-9464-e5e737d22dd3",
+  "segments": [
+    {
+      "start": 0.34,
+      "end": 2.66,
+      "text": "Trying to move late gets you caught like that!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "遅れて動き出そうとすると引っかかるようなね"
+    },
+    {
+      "start": 2.66,
+      "end": 3.8,
+      "text": "That was solid lockdown",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "固めでしたね"
+    },
+    {
+      "start": 3.8,
+      "end": 6.12,
+      "text": "Stock count is 2-1",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ストック状況は2-1"
+    },
+    {
+      "start": 6.12,
+      "end": 8.5,
+      "text": "Caught!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "くべ眠るー"
+    }
+  ],
+  "full_text": "Trying to move late gets you caught like that! That was solid lockdown Stock count is 2-1 Caught!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

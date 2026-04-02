@@ -1,0 +1,106 @@
+{
+  "id": "106df584-6eaa-46e5-84f2-4c93000c1da1",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.0,
+      "text": "Managed to survive! Straight into the bair!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "なんとか助かったそしてそのまま空後"
+    },
+    {
+      "start": 3.0,
+      "end": 4.94,
+      "text": "Kazuya's ledge trap is pretty tough",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "カズヤの崖奪いちょっと難しいですよね"
+    },
+    {
+      "start": 4.94,
+      "end": 5.9,
+      "text": "Yeah, really is",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "難しいですね"
+    },
+    {
+      "start": 5.9,
+      "end": 9.9,
+      "text": "That was a close one too though",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いやーしかし今の事故も怖かったんですけれども"
+    },
+    {
+      "start": 9.9,
+      "end": 11.5,
+      "text": "Got back with Limit somehow",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "なんとかリミット使って戻ってきた"
+    },
+    {
+      "start": 11.5,
+      "end": 13.58,
+      "text": "Want to make this moment count",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "この一時(いっとき)を生かしたい"
+    },
+    {
+      "start": 13.58,
+      "end": 14.78,
+      "text": "But...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ただ"
+    },
+    {
+      "start": 14.78,
+      "end": 15.98,
+      "text": "This connects",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これは繋がっている"
+    },
+    {
+      "start": 15.98,
+      "end": 19.5,
+      "text": "From here, let's chain it upward",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "最風から上に繋いでいきましょう"
+    }
+  ],
+  "full_text": "Managed to survive! Straight into the bair! Kazuya's ledge trap is pretty tough Yeah, really is That was a close one too though Got back with Limit somehow Want to make this moment count But... This connects From here, let's chain it upward",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "なんとか助かったそしてそのまま空中しろ",
+      "corrected": "なんとか助かったそしてそのまま空後",
+      "rule": "Move abbreviation: 空中しろ→空後 (back air)"
+    },
+    {
+      "segment_idx": 3,
+      "original": "いやーしかし今の時刻も怖かったんですけれども",
+      "corrected": "いやーしかし今の事故も怖かったんですけれども",
+      "rule": "Kanji homophone: 時刻→事故"
+    },
+    {
+      "segment_idx": 5,
+      "original": "この一時得を生かしたい",
+      "corrected": "この一時(いっとき)を生かしたい",
+      "rule": "Whisper mishearing: 一時得→一時"
+    },
+    {
+      "segment_idx": 8,
+      "original": "最速空陣形から上に繋いでいきましょう",
+      "corrected": "最風から上に繋いでいきましょう",
+      "rule": "Smash terminology: 最速空陣形→最風 (Electric Wind God Fist)"
+    }
+  ]
+}

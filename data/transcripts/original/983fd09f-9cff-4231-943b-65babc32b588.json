@@ -1,0 +1,26 @@
+{
+  "id": "983fd09f-9cff-4231-943b-65babc32b588",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.38,
+      "text": "さあ130%のビハインドがあるが",
+      "language": "ja"
+    },
+    {
+      "start": 4.38,
+      "end": 6.48,
+      "text": "ここのパーセント落とされる",
+      "language": "ja"
+    },
+    {
+      "start": 6.48,
+      "end": 7.38,
+      "text": "落とすとこ落とすとこ",
+      "language": "ja"
+    }
+  ],
+  "full_text": "さあ130%のビハインドがあるが ここのパーセント落とされる 落とすとこ落とすとこ",
+  "detected_language": "ja",
+  "corrections": []
+}

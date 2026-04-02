@@ -1,0 +1,69 @@
+{
+  "id": "dd857206-9386-4856-9894-ada6964e9332",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.18,
+      "text": "That was a very smart play there from Kurama.",
+      "language": "en"
+    },
+    {
+      "start": 2.72,
+      "end": 5.26,
+      "text": "Monte probably thought, you know, he's not going to throw out the back air.",
+      "language": "en"
+    },
+    {
+      "start": 5.38,
+      "end": 7.82,
+      "text": "Because the last time, you know, he caught an up special.",
+      "language": "en"
+    },
+    {
+      "start": 7.92,
+      "end": 10.18,
+      "text": "So, he got delayed back air to get that first stock.",
+      "language": "en"
+    },
+    {
+      "start": 10.44,
+      "end": 12.14,
+      "text": "Yeah, I mean, you got to really switch it up on the fly.",
+      "language": "en"
+    },
+    {
+      "start": 12.28,
+      "end": 12.8,
+      "text": "My goodness.",
+      "language": "en"
+    }
+  ],
+  "full_text": "That was a very smart play there from Kurama. Monte probably thought, you know, he's not going to throw out the back air. Because the last time, you know, he caught an up special. So, he got delayed back air to get that first stock. Yeah, I mean, you got to really switch it up on the fly. My goodness.",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "Karama",
+      "corrected": "Kurama",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 1,
+      "original": "Montee",
+      "corrected": "Monte",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 1,
+      "original": "the back here",
+      "corrected": "the back air",
+      "rule": "smash term"
+    },
+    {
+      "segment_idx": 3,
+      "original": "back here to get that first knock",
+      "corrected": "back air to get that first stock",
+      "rule": "smash term"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "57ac5f60-8497-4b63-a0d6-469362185249",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.68,
+      "text": "68%, almost 69.",
+      "language": "en"
+    },
+    {
+      "start": 1.84,
+      "end": 3.72,
+      "text": "Custom combos right there, using all that",
+      "language": "en"
+    },
+    {
+      "start": 3.72,
+      "end": 6.02,
+      "text": "Luigi Rage to get the most out of that grab.",
+      "language": "en"
+    }
+  ],
+  "full_text": "68%, almost 69. Custom combos right there, using all that Luigi Rage to get the most out of that grab.",
+  "detected_language": "en",
+  "corrections": []
+}

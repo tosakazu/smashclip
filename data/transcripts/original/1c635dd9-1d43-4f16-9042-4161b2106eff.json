@@ -1,0 +1,32 @@
+{
+  "id": "1c635dd9-1d43-4f16-9042-4161b2106eff",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.46,
+      "text": "対面のウェビーでも届きましたね",
+      "language": "ja"
+    },
+    {
+      "start": 1.46,
+      "end": 6.18,
+      "text": "空中に取れる 外に出される",
+      "language": "ja"
+    },
+    {
+      "start": 6.18,
+      "end": 7.62,
+      "text": "ここは深くまで追ってくるが",
+      "language": "ja"
+    },
+    {
+      "start": 7.62,
+      "end": 9.2,
+      "text": "逆に踏みで返していくのや",
+      "language": "ja"
+    }
+  ],
+  "full_text": "対面のウェビーでも届きましたね 空中に取れる 外に出される ここは深くまで追ってくるが 逆に踏みで返していくのや",
+  "detected_language": "ja",
+  "corrections": []
+}

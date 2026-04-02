@@ -1,0 +1,56 @@
+{
+  "id": "cac3b0af-5ad5-4522-9146-5b290c06a664",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.22,
+      "text": "サムスが着地狩りをされる不利な展開だったんですけど",
+      "language": "ja"
+    },
+    {
+      "start": 3.22,
+      "end": 3.62,
+      "text": "そうですね",
+      "language": "ja"
+    },
+    {
+      "start": 3.62,
+      "end": 4.6,
+      "text": "一瞬前まで",
+      "language": "ja"
+    },
+    {
+      "start": 4.6,
+      "end": 5.02,
+      "text": "はい",
+      "language": "ja"
+    },
+    {
+      "start": 5.02,
+      "end": 5.96,
+      "text": "なぜか",
+      "language": "ja"
+    },
+    {
+      "start": 5.96,
+      "end": 6.9,
+      "text": "気づけば",
+      "language": "ja"
+    },
+    {
+      "start": 6.9,
+      "end": 9.38,
+      "text": "顔が消えてるなドンキーゴング",
+      "language": "ja"
+    },
+    {
+      "start": 9.38,
+      "end": 10.44,
+      "text": "ここは",
+      "language": "ja"
+    }
+  ],
+  "full_text": "サムスが着地狩りをされる不利な展開だったんですけど そうですね 一瞬前まで はい なぜか 気づけば 顔が消えてるなドンキーゴング ここは",
+  "detected_language": "ja",
+  "corrections": []
+}

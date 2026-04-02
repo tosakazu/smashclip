@@ -1,0 +1,102 @@
+{
+  "id": "e1dac7aa-ed7b-45f9-9d4e-b09bc74b1710",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.86,
+      "text": "Clean hit from the head!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "目元から当たっている"
+    },
+    {
+      "start": 0.86,
+      "end": 1.48,
+      "text": "What's this?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これはどうだ"
+    },
+    {
+      "start": 1.48,
+      "end": 1.98,
+      "text": "Going for one!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "うーん一殺"
+    },
+    {
+      "start": 1.98,
+      "end": 3.78,
+      "text": "Just barely connecting!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "拳がギリギリ判定勝ち"
+    },
+    {
+      "start": 3.78,
+      "end": 5.32,
+      "text": "Cramming!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "クラミング"
+    },
+    {
+      "start": 5.32,
+      "end": 6.04,
+      "text": "Baiting!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "釣っている"
+    },
+    {
+      "start": 6.04,
+      "end": 7.98,
+      "text": "Colink is",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "コリンク選手が"
+    },
+    {
+      "start": 7.98,
+      "end": 8.82,
+      "text": "Right here!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここぞというところで"
+    },
+    {
+      "start": 8.82,
+      "end": 9.76,
+      "text": "Right where they want!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "取りたいところに"
+    },
+    {
+      "start": 9.76,
+      "end": 11.16,
+      "text": "Got away!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "避けきってか"
+    }
+  ],
+  "full_text": "Clean hit from the head! What's this? Going for one! Just barely connecting! Cramming! Baiting! Colink is right here! Right where they want! Got away!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "運一冊",
+      "corrected": "うーん一殺",
+      "rule": "misheard: stock taken"
+    },
+    {
+      "segment_idx": 9,
+      "original": "よげきってか",
+      "corrected": "避けきってか",
+      "rule": "misheard: 避ける"
+    }
+  ]
+}

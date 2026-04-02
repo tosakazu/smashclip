@@ -1,0 +1,96 @@
+{
+  "id": "f4476ab5-c8ce-40f1-b5d8-f82c9da79f1b",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.58,
+      "text": "Samus is pretty heavy",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "サムスというファイターちょっと重めだぞ"
+    },
+    {
+      "start": 1.58,
+      "end": 2.96,
+      "text": "Yeah, Power Suit and all",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "はいパワードスーツしてるんだけど"
+    },
+    {
+      "start": 2.96,
+      "end": 4.7,
+      "text": "Landing game",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "着地の展開"
+    },
+    {
+      "start": 4.7,
+      "end": 5.7,
+      "text": "Slowly advancing...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ジリジリと"
+    },
+    {
+      "start": 5.7,
+      "end": 7.44,
+      "text": "Anti-approach nair",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "接近拒否の空中ニュートラル"
+    },
+    {
+      "start": 7.44,
+      "end": 9.36,
+      "text": "Oh, got out-spaced!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "おっと圧に負けたか"
+    },
+    {
+      "start": 9.36,
+      "end": 10.6,
+      "text": "Up B comes out—",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "上必殺技起きますが"
+    },
+    {
+      "start": 10.6,
+      "end": 10.74,
+      "text": "Huh?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "え?"
+    },
+    {
+      "start": 10.94,
+      "end": 11.1,
+      "text": "What?!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "え?"
+    },
+    {
+      "start": 11.44,
+      "end": 12.26,
+      "text": "Bair!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空後!"
+    }
+  ],
+  "full_text": "Samus is pretty heavy Yeah, Power Suit and all Landing game Slowly advancing... Anti-approach nair Oh, got out-spaced! Up B comes out— Huh? What?! Bair!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 9,
+      "original": "空中にしろ",
+      "corrected": "空後",
+      "rule": "misheard: 空中にしろ→空後"
+    }
+  ]
+}

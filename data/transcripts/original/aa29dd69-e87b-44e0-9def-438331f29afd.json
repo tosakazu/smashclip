@@ -1,0 +1,26 @@
+{
+  "id": "aa29dd69-e87b-44e0-9def-438331f29afd",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.7,
+      "text": "判定で勝ちたいというようなところを潰していくこの冬",
+      "language": "ja"
+    },
+    {
+      "start": 2.7,
+      "end": 5.7,
+      "text": "うまい!2回は見ると思わん",
+      "language": "ja"
+    },
+    {
+      "start": 5.7,
+      "end": 8.0,
+      "text": "また途中でしたが埋まってしまって",
+      "language": "ja"
+    }
+  ],
+  "full_text": "判定で勝ちたいというようなところを潰していくこの冬 うまい!2回は見ると思わん また途中でしたが埋まってしまって",
+  "detected_language": "ja",
+  "corrections": []
+}

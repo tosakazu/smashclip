@@ -1,0 +1,38 @@
+{
+  "id": "0c267ebd-8073-4a86-8827-678d75698e77",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.26,
+      "text": "基本的にこの空前始動であったり",
+      "language": "ja"
+    },
+    {
+      "start": 2.26,
+      "end": 4.02,
+      "text": "崖外に出した時の復帰阻止っていうところが",
+      "language": "ja"
+    },
+    {
+      "start": 4.02,
+      "end": 4.88,
+      "text": "本命になりますが",
+      "language": "ja"
+    },
+    {
+      "start": 4.88,
+      "end": 6.3,
+      "text": "やっぱり難易度は高い",
+      "language": "ja"
+    },
+    {
+      "start": 6.3,
+      "end": 8.48,
+      "text": "この長いリーチ",
+      "language": "ja"
+    }
+  ],
+  "full_text": "基本的にこの空前始動であったり 崖外に出した時の復帰阻止っていうところが 本命になりますが やっぱり難易度は高い この長いリーチ",
+  "detected_language": "ja",
+  "corrections": []
+}

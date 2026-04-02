@@ -1,0 +1,68 @@
+{
+  "id": "2a4ec4fb-f83f-4f0c-ba48-3f23b247727f",
+  "segments": [
+    {
+      "start": 0.8,
+      "end": 1.92,
+      "text": "Footstool again!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "またもや踏み"
+    },
+    {
+      "start": 1.92,
+      "end": 4.72,
+      "text": "Coming down with nair, backing off!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "下り空N引いて"
+    },
+    {
+      "start": 4.72,
+      "end": 5.58,
+      "text": "That...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "その"
+    },
+    {
+      "start": 5.58,
+      "end": 7.76,
+      "text": "Down tilt nair is legitimately insane, so...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "下強 空N普通にめちゃくちゃ強いので"
+    },
+    {
+      "start": 7.76,
+      "end": 9.26,
+      "text": "...it doesn't get the KO!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "撃墜しないというところがあります"
+    }
+  ],
+  "full_text": "Footstool again! Coming down with nair, backing off! That... Down tilt nair is legitimately insane, so... ...it doesn't get the KO!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "またもやフミー",
+      "corrected": "またもや踏み",
+      "rule": "misheard: フミー→踏み"
+    },
+    {
+      "segment_idx": 1,
+      "original": "下り引いて",
+      "corrected": "下り空N引いて",
+      "rule": "missing move"
+    },
+    {
+      "segment_idx": 3,
+      "original": "ガーケンウェビー",
+      "corrected": "下強 空N",
+      "rule": "garbled: ガーケンウェビー→下強 空N"
+    }
+  ]
+}

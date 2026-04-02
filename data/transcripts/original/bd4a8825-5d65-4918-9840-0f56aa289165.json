@@ -1,0 +1,57 @@
+{
+  "id": "bd4a8825-5d65-4918-9840-0f56aa289165",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.3,
+      "text": "密着でバナナも触れるような状態で",
+      "language": "ja"
+    },
+    {
+      "start": 2.3,
+      "end": 4.22,
+      "text": "ホットリングでいじめ抜けるか",
+      "language": "ja"
+    },
+    {
+      "start": 4.22,
+      "end": 5.16,
+      "text": "引っ掛け",
+      "language": "ja"
+    },
+    {
+      "start": 5.16,
+      "end": 6.04,
+      "text": "攻撃上がり",
+      "language": "ja"
+    },
+    {
+      "start": 6.04,
+      "end": 7.0,
+      "text": "バナナがまります",
+      "language": "ja"
+    },
+    {
+      "start": 7.0,
+      "end": 8.08,
+      "text": "上投げ",
+      "language": "ja"
+    },
+    {
+      "start": 8.08,
+      "end": 10.76,
+      "text": "さあドラゴンが強化されています",
+      "language": "ja"
+    }
+  ],
+  "full_text": "密着でバナナも触れるような状態で ホットリングでいじめ抜けるか 引っ掛け 攻撃上がり バナナがまります 上投げ さあドラゴンが強化されています",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 3,
+      "original": "攻撃を引き上がり",
+      "corrected": "攻撃上がり",
+      "rule": "Whisper error"
+    }
+  ]
+}

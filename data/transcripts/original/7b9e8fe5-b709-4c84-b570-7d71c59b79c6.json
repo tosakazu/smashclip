@@ -1,0 +1,57 @@
+{
+  "id": "7b9e8fe5-b709-4c84-b570-7d71c59b79c6",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.5,
+      "text": "空N暴れ",
+      "language": "ja"
+    },
+    {
+      "start": 3.5,
+      "end": 4.66,
+      "text": "テリー置いてるんですが",
+      "language": "ja"
+    },
+    {
+      "start": 4.66,
+      "end": 7.2,
+      "text": "ここはナックルの前隙にブリザードが",
+      "language": "ja"
+    },
+    {
+      "start": 7.2,
+      "end": 8.46,
+      "text": "勝る空上",
+      "language": "ja"
+    },
+    {
+      "start": 8.46,
+      "end": 10.5,
+      "text": "うまく回避を通した",
+      "language": "ja"
+    },
+    {
+      "start": 10.5,
+      "end": 12.44,
+      "text": "さっ",
+      "language": "ja"
+    }
+  ],
+  "full_text": "空N暴れ テリー置いてるんですが ここはナックルの前隙にブリザードが 勝る空上 うまく回避を通した さっ",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "空中ニュートラル暴れ",
+      "corrected": "空N暴れ",
+      "rule": "abbreviation: 空中ニュートラル→空N"
+    },
+    {
+      "segment_idx": 3,
+      "original": "空中上",
+      "corrected": "空上",
+      "rule": "abbreviation: 空中上→空上"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "fe1dd4f1-b293-4bef-b111-45fa433bab55",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.6,
+      "text": "この崖で仕留めきれればかなり大きいというところで",
+      "language": "ja"
+    },
+    {
+      "start": 2.6,
+      "end": 4.16,
+      "text": "強気にドルフィンスラッシュを打っていく",
+      "language": "ja"
+    },
+    {
+      "start": 4.16,
+      "end": 6.46,
+      "text": "回避も通して後ろ投げ",
+      "language": "ja"
+    },
+    {
+      "start": 6.46,
+      "end": 9.82,
+      "text": "反対側に1回上Bを出して",
+      "language": "ja"
+    },
+    {
+      "start": 9.82,
+      "end": 12.02,
+      "text": "上B1回目はちょっと",
+      "language": "ja"
+    }
+  ],
+  "full_text": "この崖で仕留めきれればかなり大きいというところで 強気にドルフィンスラッシュを打っていく 回避も通して後ろ投げ 反対側に1回上Bを出して 上B1回目はちょっと",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "ドロフィンスラッシュ",
+      "corrected": "ドルフィンスラッシュ",
+      "rule": "move name typo"
+    }
+  ]
+}

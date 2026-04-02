@@ -1,0 +1,45 @@
+{
+  "id": "d1ddf51f-45da-40c4-9e78-3cfeb8625d83",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.18,
+      "text": "かかるだけでなんか50%",
+      "language": "ja"
+    },
+    {
+      "start": 2.18,
+      "end": 4.16,
+      "text": "横スマを単発20%",
+      "language": "ja"
+    },
+    {
+      "start": 4.16,
+      "end": 5.96,
+      "text": "気づけば80%",
+      "language": "ja"
+    },
+    {
+      "start": 5.96,
+      "end": 7.32,
+      "text": "そして下スマ",
+      "language": "ja"
+    }
+  ],
+  "full_text": "かかるだけでなんか50% 横スマを単発20% 気づけば80% そして下スマ",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "横スマー",
+      "corrected": "横スマ",
+      "rule": "smash term normalization"
+    },
+    {
+      "segment_idx": 3,
+      "original": "下スマー",
+      "corrected": "下スマ",
+      "rule": "smash term normalization"
+    }
+  ]
+}

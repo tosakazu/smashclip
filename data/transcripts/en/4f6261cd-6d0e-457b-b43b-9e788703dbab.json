@@ -1,0 +1,39 @@
+{
+  "id": "4f6261cd-6d0e-457b-b43b-9e788703dbab",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.24,
+      "text": "options from her you see the charge cancels and that's when Sisqui's really feeling it",
+      "language": "en"
+    },
+    {
+      "start": 4.24,
+      "end": 9.2,
+      "text": "getting potentially a back air right but the air dodge almost getting through it as well",
+      "language": "en"
+    },
+    {
+      "start": 9.2,
+      "end": 11.04,
+      "text": "not gonna get it just yet",
+      "language": "en"
+    }
+  ],
+  "full_text": "options from her you see the charge cancels and that's when Sisqui's really feeling it getting potentially a back air right but the air dodge almost getting through it as well not gonna get it just yet",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "Ziske's",
+      "corrected": "Sisqui's",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 1,
+      "original": "back and right",
+      "corrected": "back air right",
+      "rule": "move name: back air"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": "ab2143e4-c9a7-4f4e-a41d-03d01b9e5e74",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "bastante sospechoso",
+      "language": "es"
+    },
+    {
+      "start": 2.0,
+      "end": 4.0,
+      "text": "la verdad es que si",
+      "language": "es"
+    },
+    {
+      "start": 4.0,
+      "end": 6.0,
+      "text": "estoy un poquito curioso intentándose de quitar",
+      "language": "es"
+    },
+    {
+      "start": 6.0,
+      "end": 7.82,
+      "text": "porque no se quiere mantener ahí cerca",
+      "language": "es"
+    },
+    {
+      "start": 7.82,
+      "end": 9.92,
+      "text": "de lo que puede ser Spargo, el Rage Ram que lleva saliendo",
+      "language": "es"
+    },
+    {
+      "start": 9.92,
+      "end": 11.86,
+      "text": "el parry fenomenal y claro lo agarra",
+      "language": "es"
+    }
+  ],
+  "full_text": "bastante sospechoso la verdad es que si estoy un poquito curioso intentándose de quitar porque no se quiere mantener ahí cerca de lo que puede ser Spargo, el Rage Ram que lleva saliendo el parry fenomenal y claro lo agarra",
+  "detected_language": "es",
+  "corrections": []
+}

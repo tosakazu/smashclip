@@ -1,0 +1,57 @@
+{
+  "id": "aa1f7047-6ab0-4a52-bbc0-bc9cf326036f",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.12,
+      "text": "空中後ろ",
+      "language": "ja"
+    },
+    {
+      "start": 1.12,
+      "end": 2.62,
+      "text": "さあラインがない復帰は",
+      "language": "ja"
+    },
+    {
+      "start": 2.62,
+      "end": 3.4,
+      "text": "パチンコ",
+      "language": "ja"
+    },
+    {
+      "start": 3.4,
+      "end": 4.42,
+      "text": "どうなん",
+      "language": "ja"
+    },
+    {
+      "start": 4.42,
+      "end": 5.22,
+      "text": "あっと",
+      "language": "ja"
+    },
+    {
+      "start": 5.22,
+      "end": 7.6,
+      "text": "ここで反転してしまう",
+      "language": "ja"
+    },
+    {
+      "start": 7.6,
+      "end": 9.6,
+      "text": "ゲーム",
+      "language": "ja"
+    }
+  ],
+  "full_text": "空中後ろ さあラインがない復帰は パチンコ どうなん あっと ここで反転してしまう ゲーム",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "空中しろ",
+      "corrected": "空中後ろ",
+      "rule": "Move: 空中しろ→空中後ろ(空後)"
+    }
+  ]
+}

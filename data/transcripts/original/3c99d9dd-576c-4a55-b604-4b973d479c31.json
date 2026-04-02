@@ -1,0 +1,39 @@
+{
+  "id": "3c99d9dd-576c-4a55-b604-4b973d479c31",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.08,
+      "text": "あえてブロックを出しているところに触解をかけに行きます",
+      "language": "ja"
+    },
+    {
+      "start": 3.08,
+      "end": 5.68,
+      "text": "おーし、灼熱が入る",
+      "language": "ja"
+    },
+    {
+      "start": 5.68,
+      "end": 7.88,
+      "text": "これはどうだ?パーセントは?",
+      "language": "ja"
+    },
+    {
+      "start": 8.12,
+      "end": 8.74,
+      "text": "圏内だった!",
+      "language": "ja"
+    }
+  ],
+  "full_text": "あえてブロックを出しているところに触解をかけに行きます おーし、灼熱が入る これはどうだ?パーセントは? 圏内だった!",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "死灼熱",
+      "corrected": "灼熱",
+      "rule": "Whisper merged おーし+灼熱 into 死灼熱; Ryu move name"
+    }
+  ]
+}

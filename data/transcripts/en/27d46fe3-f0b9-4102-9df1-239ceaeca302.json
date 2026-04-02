@@ -1,0 +1,25 @@
+{
+  "id": "27d46fe3-f0b9-4102-9df1-239ceaeca302",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.12,
+      "text": "Yeah, exactly. Looks like they want to keep pushing it with Homura through about one ledge trap's worth of reads.",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ですねそうですね 崖1回分の後の読み合いぐらいまではホムラでやってみたいな感じがしますね"
+    },
+    {
+      "start": 6.12,
+      "end": 12.8,
+      "text": "So up air connects multiple times, but then the jump gets shut down.",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあそして空上が何度も入りましたが この後おっとジャンプが潰れていましたか"
+    }
+  ],
+  "full_text": "Yeah, exactly. Looks like they want to keep pushing it with Homura through about one ledge trap's worth of reads. So up air connects multiple times, but then the jump gets shut down.",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

@@ -1,0 +1,32 @@
+{
+  "id": "8dbf12c7-a87e-4289-9eb0-cf79dc2098d1",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.52,
+      "text": "ありましたから両者ともに待つ構えは完全に整っている",
+      "language": "ja"
+    },
+    {
+      "start": 5.52,
+      "end": 9.0,
+      "text": "そしてねこれがねあのおそらく両者との",
+      "language": "ja"
+    },
+    {
+      "start": 9.0,
+      "end": 10.5,
+      "text": "おっとここで",
+      "language": "ja"
+    },
+    {
+      "start": 10.5,
+      "end": 11.44,
+      "text": "ここでちょっと",
+      "language": "ja"
+    }
+  ],
+  "full_text": "ありましたから両者ともに待つ構えは完全に整っている そしてねこれがねあのおそらく両者との おっとここで ここでちょっと",
+  "detected_language": "ja",
+  "corrections": []
+}

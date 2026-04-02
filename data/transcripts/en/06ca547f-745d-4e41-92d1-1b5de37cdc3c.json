@@ -1,0 +1,25 @@
+{
+  "id": "06ca547f-745d-4e41-92d1-1b5de37cdc3c",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "He lands it! Takes the lead!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "通してさあリードバッター"
+    },
+    {
+      "start": 2.0,
+      "end": 3.82,
+      "text": "And then",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "がその後"
+    }
+  ],
+  "full_text": "He lands it! Takes the lead! And then",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

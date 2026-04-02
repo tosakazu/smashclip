@@ -1,0 +1,46 @@
+{
+  "id": "2db94698-1cee-4f2c-a4fd-2a9eb0484d84",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.24,
+      "text": "Fast falls out and stalls for time on last stock!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "急降下脱出して再び時間を使ってラス"
+    },
+    {
+      "start": 4.24,
+      "end": 5.76,
+      "text": "Coming in, but Miya—",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "飛び込んでくるがミヤ"
+    },
+    {
+      "start": 5.76,
+      "end": 8.16,
+      "text": "Gets knocked off right there!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここで飛び落としてきた"
+    }
+  ],
+  "full_text": "Fast falls out and stalls for time on last stock! Coming in, but Miya— Gets knocked off right there!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "救急脱出して",
+      "corrected": "急降下脱出して",
+      "rule": "Whisper misrecognition"
+    },
+    {
+      "segment_idx": 1,
+      "original": "ミア",
+      "corrected": "ミヤ",
+      "rule": "player name"
+    }
+  ]
+}

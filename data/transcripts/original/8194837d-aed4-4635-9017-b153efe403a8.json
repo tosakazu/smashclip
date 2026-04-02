@@ -1,0 +1,20 @@
+{
+  "id": "8194837d-aed4-4635-9017-b153efe403a8",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.32,
+      "text": "しかし帰ってきます",
+      "language": "ja"
+    },
+    {
+      "start": 2.32,
+      "end": 5.36,
+      "text": "差し込み",
+      "language": "ja"
+    }
+  ],
+  "full_text": "しかし帰ってきます 差し込み",
+  "detected_language": "ja",
+  "corrections": []
+}

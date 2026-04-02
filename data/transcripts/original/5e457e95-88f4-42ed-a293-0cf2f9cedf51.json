@@ -1,0 +1,57 @@
+{
+  "id": "5e457e95-88f4-42ed-a293-0cf2f9cedf51",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.88,
+      "text": "From zackray, just a drift back from the fair.",
+      "language": "en"
+    },
+    {
+      "start": 4.16,
+      "end": 6.42,
+      "text": "That airdodge is so clean coming out from Spargo as well.",
+      "language": "en"
+    },
+    {
+      "start": 6.46,
+      "end": 7.54,
+      "text": "The limit is low, though.",
+      "language": "en"
+    },
+    {
+      "start": 7.94,
+      "end": 10.1,
+      "text": "Got a cross slash, but there's the up tilt.",
+      "language": "en"
+    },
+    {
+      "start": 10.62,
+      "end": 12.14,
+      "text": "Getting the very last hit of the up air.",
+      "language": "en"
+    },
+    {
+      "start": 12.24,
+      "end": 16.82,
+      "text": "The chase down, multiple jump on pit is going to make the tracking on.",
+      "language": "en"
+    }
+  ],
+  "full_text": "From zackray, just a drift back from the fair. That airdodge is so clean coming out from Spargo as well. The limit is low, though. Got a cross slash, but there's the up tilt. Getting the very last hit of the up air. The chase down, multiple jump on pit is going to make the tracking on.",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "Zachary",
+      "corrected": "zackray",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 3,
+      "original": "cross ash",
+      "corrected": "cross slash",
+      "rule": "move name (Cloud side-B)"
+    }
+  ]
+}

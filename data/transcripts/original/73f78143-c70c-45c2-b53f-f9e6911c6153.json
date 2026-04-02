@@ -1,0 +1,38 @@
+{
+  "id": "73f78143-c70c-45c2-b53f-f9e6911c6153",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.72,
+      "text": "¿Se muere? Creo que se muere, eh. No.",
+      "language": "es"
+    },
+    {
+      "start": 2.58,
+      "end": 3.14,
+      "text": "Todavía no.",
+      "language": "es"
+    },
+    {
+      "start": 3.14,
+      "end": 5.84,
+      "text": "Es heavy, es heavy. Es un personaje heavy, sí.",
+      "language": "es"
+    },
+    {
+      "start": 7.1,
+      "end": 7.54,
+      "text": "¡Gorda!",
+      "language": "es"
+    },
+    {
+      "start": 8.32,
+      "end": 8.5,
+      "text": "¡Uh!",
+      "language": "es"
+    }
+  ],
+  "full_text": "¿Se muere? Creo que se muere, eh. No. Todavía no. Es heavy, es heavy. Es un personaje heavy, sí. ¡Gorda! ¡Uh!",
+  "detected_language": "es",
+  "corrections": []
+}

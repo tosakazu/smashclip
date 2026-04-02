@@ -1,0 +1,70 @@
+{
+  "id": "bf0ab219-6ca8-4782-b346-5d12399451f3",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.28,
+      "text": "They're gonna need to control the pace carefully to seal this stock",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここから倒すには時間をしっかり使う必要がありそうですね"
+    },
+    {
+      "start": 3.28,
+      "end": 5.16,
+      "text": "Playing patient, working the reads",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "時間を使いつつ読み合い"
+    },
+    {
+      "start": 5.16,
+      "end": 5.76,
+      "text": "Oh no, grabbed!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "まずい捕まった"
+    },
+    {
+      "start": 5.76,
+      "end": 8.3,
+      "text": "That's the finish right there!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これはファイヤー確定パーティー"
+    },
+    {
+      "start": 8.3,
+      "end": 11.18,
+      "text": "Absolutely dominant!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "圧倒的だ"
+    },
+    {
+      "start": 11.18,
+      "end": 14.76,
+      "text": "Show some respect to this player!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "こいつを崇めろ"
+    }
+  ],
+  "full_text": "They're gonna need to control the pace carefully to seal this stock Playing patient, working the reads Oh no, grabbed! That's the finish right there! Absolutely dominant! Show some respect to this player!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "読み上げ",
+      "corrected": "読み合い",
+      "rule": "smash term"
+    },
+    {
+      "segment_idx": 3,
+      "original": "ファイヤーキャンパーティー",
+      "corrected": "ファイヤー確定パーティー",
+      "rule": "misheard phrase"
+    }
+  ]
+}

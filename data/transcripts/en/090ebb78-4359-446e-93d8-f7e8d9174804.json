@@ -1,0 +1,56 @@
+{
+  "id": "090ebb78-4359-446e-93d8-f7e8d9174804",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.58,
+      "text": "Just watching the landing, but...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "こんな怪しくただ着地を見つめていたが"
+    },
+    {
+      "start": 2.58,
+      "end": 4.62,
+      "text": "Back throw momentum flips!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここで後ろ投げ展開が入れ替わって"
+    },
+    {
+      "start": 4.62,
+      "end": 6.42,
+      "text": "Reads the grab and dodges it!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "楽器をよく見てて掴みをかわして"
+    },
+    {
+      "start": 6.42,
+      "end": 6.92,
+      "text": "Dash attack!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ダッシュ攻撃"
+    },
+    {
+      "start": 6.92,
+      "end": 8.08,
+      "text": "Full extension!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "伸び切るでしょう"
+    }
+  ],
+  "full_text": "Just watching the landing, but... Back throw momentum flips! Reads the grab and dodges it! Dash attack! Full extension!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 3,
+      "original": "ラッシュ攻撃",
+      "corrected": "ダッシュ攻撃",
+      "rule": "Move name correction (ラッシュ攻撃 → ダッシュ攻撃)"
+    }
+  ]
+}

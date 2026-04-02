@@ -1,0 +1,51 @@
+{
+  "id": "e1033cf6-b815-4a7d-a3a2-4b6c5a8e8d12",
+  "segments": [
+    {
+      "start": 0.88,
+      "end": 2.82,
+      "text": "ジュネーヴ選手空中ニュートラル1段目",
+      "language": "ja"
+    },
+    {
+      "start": 2.82,
+      "end": 5.26,
+      "text": "駆け上がりには空中後ろ",
+      "language": "ja"
+    },
+    {
+      "start": 5.26,
+      "end": 5.96,
+      "text": "そのまま合わせ",
+      "language": "ja"
+    },
+    {
+      "start": 5.96,
+      "end": 7.06,
+      "text": "おっとこれはもうジャンプがない",
+      "language": "ja"
+    },
+    {
+      "start": 7.06,
+      "end": 7.78,
+      "text": "返ってこれない",
+      "language": "ja"
+    }
+  ],
+  "full_text": "ジュネーヴ選手空中ニュートラル1段目 駆け上がりには空中後ろ そのまま合わせ おっとこれはもうジャンプがない 返ってこれない",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "全部選手",
+      "corrected": "ジュネーヴ選手",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 2,
+      "original": "そのままに合わせ",
+      "corrected": "そのまま合わせ",
+      "rule": "misheard word"
+    }
+  ]
+}

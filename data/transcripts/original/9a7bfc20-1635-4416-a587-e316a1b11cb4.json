@@ -1,0 +1,45 @@
+{
+  "id": "9a7bfc20-1635-4416-a587-e316a1b11cb4",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.4,
+      "text": "what makes this matchup so tough for Fox at times.",
+      "language": "en"
+    },
+    {
+      "start": 4.0,
+      "end": 6.7,
+      "text": "Especially when the dash attacks are coming back out,",
+      "language": "en"
+    },
+    {
+      "start": 6.7,
+      "end": 11.7,
+      "text": "stuffing any try to return to stage that Chon had cooking.",
+      "language": "en"
+    },
+    {
+      "start": 11.72,
+      "end": 14.62,
+      "text": "Ooh, sour spot on the up tilt stretch.",
+      "language": "en"
+    }
+  ],
+  "full_text": "what makes this matchup so tough for Fox at times. Especially when the dash attacks are coming back out, stuffing any try to return to stage that Chon had cooking. Ooh, sour spot on the up tilt stretch.",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "Foxx",
+      "corrected": "Fox",
+      "rule": "character name"
+    },
+    {
+      "segment_idx": 3,
+      "original": "uphill stretch",
+      "corrected": "up tilt stretch",
+      "rule": "move name (上強=up tilt)"
+    }
+  ]
+}

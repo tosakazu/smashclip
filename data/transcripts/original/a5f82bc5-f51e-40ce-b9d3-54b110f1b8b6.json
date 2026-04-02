@@ -1,0 +1,32 @@
+{
+  "id": "a5f82bc5-f51e-40ce-b9d3-54b110f1b8b6",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.38,
+      "text": "ここ投げる",
+      "language": "ja"
+    },
+    {
+      "start": 2.38,
+      "end": 3.86,
+      "text": "その後",
+      "language": "ja"
+    },
+    {
+      "start": 3.86,
+      "end": 7.08,
+      "text": "読み合いからの読み合いがテンポが早い",
+      "language": "ja"
+    },
+    {
+      "start": 7.08,
+      "end": 9.18,
+      "text": "乗り切りました空中前",
+      "language": "ja"
+    }
+  ],
+  "full_text": "ここ投げる その後 読み合いからの読み合いがテンポが早い 乗り切りました空中前",
+  "detected_language": "ja",
+  "corrections": []
+}

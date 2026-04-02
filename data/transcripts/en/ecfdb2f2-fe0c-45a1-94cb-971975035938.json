@@ -1,0 +1,33 @@
+{
+  "id": "ecfdb2f2-fe0c-45a1-94cb-971975035938",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.12,
+      "text": "the juggle coming in from Raru who though has not yet given up we've seen the comebacks",
+      "language": "en"
+    },
+    {
+      "start": 4.12,
+      "end": 9.46,
+      "text": "that Sisqui is capable of and still applying pressure it would be a tough ask however",
+      "language": "en"
+    }
+  ],
+  "full_text": "the juggle coming in from Raru who though has not yet given up we've seen the comebacks that Sisqui is capable of and still applying pressure it would be a tough ask however",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "around",
+      "corrected": "Raru",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 1,
+      "original": "is matt is",
+      "corrected": "Sisqui is",
+      "rule": "player name"
+    }
+  ]
+}

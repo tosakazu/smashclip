@@ -1,0 +1,18 @@
+{
+  "id": "1f268ec4-2581-4f8c-ba28-ae5756a127f5",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.36,
+      "text": "Tarik has one or two..."
+    },
+    {
+      "start": 1.36,
+      "end": 2.72,
+      "text": "I'll live, a bit of luck."
+    }
+  ],
+  "full_text": "Tarik has one or two... I'll live, a bit of luck.",
+  "detected_language": "en",
+  "corrections": []
+}

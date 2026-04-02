@@ -1,0 +1,32 @@
+{
+  "id": "9b83033a-bf2d-469c-8ff1-815caa32f70f",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.76,
+      "text": "やばいやばい",
+      "language": "ja"
+    },
+    {
+      "start": 0.76,
+      "end": 2.44,
+      "text": "あー勝った",
+      "language": "ja"
+    },
+    {
+      "start": 2.44,
+      "end": 6.46,
+      "text": "いやー",
+      "language": "ja"
+    },
+    {
+      "start": 6.46,
+      "end": 7.06,
+      "text": "セミロ",
+      "language": "ja"
+    }
+  ],
+  "full_text": "やばいやばい あー勝った いやー セミロ",
+  "detected_language": "ja",
+  "corrections": []
+}

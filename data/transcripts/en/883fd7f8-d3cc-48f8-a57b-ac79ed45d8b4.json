@@ -1,0 +1,84 @@
+{
+  "id": "883fd7f8-d3cc-48f8-a57b-ac79ed45d8b4",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.32,
+      "text": "Nice confirmed KO! Good stuff, just barely surviving that",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いい確定撃墜いいじゃないギリギリ耐える"
+    },
+    {
+      "start": 2.32,
+      "end": 3.66,
+      "text": "Yeah, with that DI",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そうですねベクトル変更"
+    },
+    {
+      "start": 3.66,
+      "end": 6.36,
+      "text": "He managed to survive using SDI effectively",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ずらし活用して生存することには成功した"
+    },
+    {
+      "start": 6.36,
+      "end": 7.72,
+      "text": "Alright, tight stage here",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあ狭いステージ"
+    },
+    {
+      "start": 7.72,
+      "end": 9.0,
+      "text": "Too good though",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "うますぎるけど"
+    },
+    {
+      "start": 9.0,
+      "end": 9.88,
+      "text": "Somehow",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "なんとか"
+    },
+    {
+      "start": 9.88,
+      "end": 13.24,
+      "text": "Even Homura can send them offstage, but...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "場外に出すことがホムラサイドでもできますが"
+    }
+  ],
+  "full_text": "Nice confirmed KO! Good stuff, just barely surviving that Yeah, with that DI He managed to survive using SDI effectively Alright, tight stage here Too good though Somehow Even Homura can send them offstage, but...",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "災害撃活用して生存することには成功した",
+      "corrected": "ずらし活用して生存することには成功した",
+      "rule": "Smash term (災害撃→ずらし/SDI)"
+    },
+    {
+      "segment_idx": 6,
+      "original": "ホームヒカサイドでもできますが",
+      "corrected": "ホムラサイドでもできますが",
+      "rule": "character name (ホームヒカ→ホムラ/Pyra)"
+    },
+    {
+      "segment_idx": 1,
+      "original": "スペクトル変更",
+      "corrected": "ベクトル変更",
+      "rule": "Smash term (スペクトル→ベクトル/DI)"
+    }
+  ]
+}

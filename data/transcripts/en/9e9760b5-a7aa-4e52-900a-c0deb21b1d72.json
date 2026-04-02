@@ -1,0 +1,98 @@
+{
+  "id": "9e9760b5-a7aa-4e52-900a-c0deb21b1d72",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.86,
+      "text": "Up throw confirm!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "上投げ確認"
+    },
+    {
+      "start": 1.86,
+      "end": 4.1,
+      "text": "Approaching hard while setting up",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "仕込みながらの大寄り"
+    },
+    {
+      "start": 4.1,
+      "end": 5.4,
+      "text": "Why are they both in KO range?!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "なんでどっちも撃墜帯なんだよ"
+    },
+    {
+      "start": 5.4,
+      "end": 7.98,
+      "text": "I wonder why",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "なんでなんでしょうね"
+    },
+    {
+      "start": 7.98,
+      "end": 9.24,
+      "text": "Now that's an insane kill percent!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあとてつもない撃墜帯"
+    },
+    {
+      "start": 9.24,
+      "end": 11.3,
+      "text": "Wow, that's incredible!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いやー素晴らしい偉いですね"
+    },
+    {
+      "start": 11.3,
+      "end": 12.64,
+      "text": "Landing it clean with up smash is...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ちゃんと上スマでかかんっていうのは"
+    },
+    {
+      "start": 12.64,
+      "end": 13.4,
+      "text": "Looks like back throw!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "なんか後ろ投げた"
+    }
+  ],
+  "full_text": "Up throw confirm! Approaching hard while setting up Why are they both in KO range?! I wonder why Now that's an insane kill percent! Wow, that's incredible! Landing it clean with up smash is... Looks like back throw!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "上乗り確認",
+      "corrected": "上投げ確認",
+      "rule": "move name"
+    },
+    {
+      "segment_idx": 2,
+      "original": "撃墜体",
+      "corrected": "撃墜帯",
+      "rule": "kanji homophone (kill percent range)"
+    },
+    {
+      "segment_idx": 4,
+      "original": "撃墜体",
+      "corrected": "撃墜帯",
+      "rule": "kanji homophone (kill percent range)"
+    },
+    {
+      "segment_idx": 6,
+      "original": "上さま",
+      "corrected": "上スマ",
+      "rule": "move abbreviation (up smash)"
+    }
+  ]
+}

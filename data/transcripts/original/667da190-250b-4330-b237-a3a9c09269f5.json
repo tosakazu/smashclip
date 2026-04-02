@@ -1,0 +1,39 @@
+{
+  "id": "667da190-250b-4330-b237-a3a9c09269f5",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.6,
+      "text": "ステップから怪しい動きが見えました",
+      "language": "ja"
+    },
+    {
+      "start": 3.6,
+      "end": 5.9,
+      "text": "きっちり見ていますね",
+      "language": "ja"
+    },
+    {
+      "start": 5.9,
+      "end": 9.0,
+      "text": "ブーメラン避けて空前",
+      "language": "ja"
+    },
+    {
+      "start": 9.0,
+      "end": 10.62,
+      "text": "あの近距離で",
+      "language": "ja"
+    }
+  ],
+  "full_text": "ステップから怪しい動きが見えました きっちり見ていますね ブーメラン避けて空前 あの近距離で",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "避けてくる前",
+      "corrected": "避けて空前",
+      "rule": "move abbreviation (くうまえ)"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "3b1de29f-62a2-4f93-a6bb-e865c99afec9",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.66,
+      "text": "right now now that's an error from Miya that's gonna open the door slightly ever so slightly",
+      "language": "en"
+    },
+    {
+      "start": 4.66,
+      "end": 9.26,
+      "text": "but you have to play damn near perfect to bring this back i know Mark has it in him",
+      "language": "en"
+    },
+    {
+      "start": 9.26,
+      "end": 10.84,
+      "text": "but can it be right now",
+      "language": "en"
+    }
+  ],
+  "full_text": "right now now that's an error from Miya that's gonna open the door slightly ever so slightly but you have to play damn near perfect to bring this back i know Mark has it in him but can it be right now",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "mia",
+      "corrected": "Miya",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 1,
+      "original": "mark",
+      "corrected": "Mark",
+      "rule": "player name capitalization"
+    }
+  ]
+}

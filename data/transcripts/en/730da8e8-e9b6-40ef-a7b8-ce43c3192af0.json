@@ -1,0 +1,80 @@
+{
+  "id": "730da8e8-e9b6-40ef-a7b8-ce43c3192af0",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.18,
+      "text": "Staying neutral here is important, but...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここ静観するのも大事だが"
+    },
+    {
+      "start": 1.18,
+      "end": 2.06,
+      "text": "Against the patient Courtney...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "静観したクーティニーに"
+    },
+    {
+      "start": 2.06,
+      "end": 3.04,
+      "text": "And grabs!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そして掴んだ"
+    },
+    {
+      "start": 3.04,
+      "end": 5.06,
+      "text": "What an opening!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "このチャンス"
+    },
+    {
+      "start": 5.06,
+      "end": 5.88,
+      "text": "But fair!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "しかし空中前"
+    },
+    {
+      "start": 5.88,
+      "end": 7.1,
+      "text": "Gakuto knocks it back!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ガクトも跳ねのける"
+    },
+    {
+      "start": 7.1,
+      "end": 8.46,
+      "text": "Into the nair!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これを空中ニュートラル"
+    },
+    {
+      "start": 8.46,
+      "end": 9.18,
+      "text": "Solid shield!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "しっかりとシールド"
+    }
+  ],
+  "full_text": "Staying neutral here is important, but... Against the patient Courtney... And grabs! What an opening! But fair! Gakuto knocks it back! Into the nair! Solid shield!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "クーティー",
+      "corrected": "クーティニー",
+      "rule": "player name"
+    }
+  ]
+}

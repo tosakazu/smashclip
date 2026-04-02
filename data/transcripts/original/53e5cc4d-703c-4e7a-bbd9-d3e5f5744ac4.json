@@ -1,0 +1,99 @@
+{
+  "id": "53e5cc4d-703c-4e7a-bbd9-d3e5f5744ac4",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.24,
+      "text": "そういうプレイヤーが格闘ゲームをやってるからこその手札に見えますよあれは",
+      "language": "ja"
+    },
+    {
+      "start": 3.24,
+      "end": 5.98,
+      "text": "さあ1-1",
+      "language": "ja"
+    },
+    {
+      "start": 5.98,
+      "end": 10.66,
+      "text": "着地ここはどうだ空中A",
+      "language": "ja"
+    },
+    {
+      "start": 10.66,
+      "end": 13.3,
+      "text": "回避見てさらにコンボ伸ばすぞ",
+      "language": "ja"
+    },
+    {
+      "start": 13.3,
+      "end": 13.76,
+      "text": "ダブルアップ",
+      "language": "ja"
+    },
+    {
+      "start": 13.76,
+      "end": 15.98,
+      "text": "えー空中前に勝つの?",
+      "language": "ja"
+    },
+    {
+      "start": 16.68,
+      "end": 17.56,
+      "text": "終わり際かな?",
+      "language": "ja"
+    },
+    {
+      "start": 17.72,
+      "end": 18.32,
+      "text": "あー終わってるか",
+      "language": "ja"
+    },
+    {
+      "start": 18.32,
+      "end": 20.74,
+      "text": "空中前ここは手堅く",
+      "language": "ja"
+    },
+    {
+      "start": 20.74,
+      "end": 22.42,
+      "text": "ジャックさん崖展開仕留め切るか",
+      "language": "ja"
+    },
+    {
+      "start": 22.42,
+      "end": 25.16,
+      "text": "横スマッシュで撃墜",
+      "language": "ja"
+    },
+    {
+      "start": 25.16,
+      "end": 26.2,
+      "text": "ここで",
+      "language": "ja"
+    }
+  ],
+  "full_text": "そういうプレイヤーが格闘ゲームをやってるからこその手札に見えますよあれは さあ1-1 着地ここはどうだ空中A 回避見てさらにコンボ伸ばすぞ ダブルアップ えー空中前に勝つの? 終わり際かな? あー終わってるか 空中前ここは手堅く ジャックさん崖展開仕留め切るか 横スマッシュで撃墜 ここで",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 3,
+      "original": "パルコ伸ばすぞ",
+      "corrected": "コンボ伸ばすぞ",
+      "rule": "misheard word"
+    },
+    {
+      "segment_idx": 10,
+      "original": "よくスマッシュでゲック",
+      "corrected": "横スマッシュで撃墜",
+      "rule": "kanji homophone (ゲック→撃墜, よく→横)"
+    },
+    {
+      "segment_idx": 11,
+      "original": "ついここで",
+      "corrected": "ここで",
+      "rule": "misheard word"
+    }
+  ]
+}

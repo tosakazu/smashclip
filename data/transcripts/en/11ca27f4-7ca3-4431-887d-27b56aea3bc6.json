@@ -1,0 +1,70 @@
+{
+  "id": "11ca27f4-7ca3-4431-887d-27b56aea3bc6",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.8,
+      "text": "Going for the trap!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "罠を狙って"
+    },
+    {
+      "start": 0.8,
+      "end": 2.72,
+      "text": "And it lands perfectly!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "それが見事ハマりましたね"
+    },
+    {
+      "start": 2.72,
+      "end": 4.7,
+      "text": "Alright, final minute!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあここでラスト1分"
+    },
+    {
+      "start": 4.7,
+      "end": 6.94,
+      "text": "Nothing like the opening",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "始まりの1分とは違う"
+    },
+    {
+      "start": 6.94,
+      "end": 8.74,
+      "text": "This is where it gets real",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "勝負が始まるでしょう"
+    },
+    {
+      "start": 8.74,
+      "end": 9.86,
+      "text": "大工",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "大工"
+    }
+  ],
+  "full_text": "Going for the trap! And it lands perfectly! Alright, final minute! Nothing like the opening This is where it gets real 大工",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "私を狙って",
+      "corrected": "罠を狙って",
+      "rule": "Kanji homophone: 私→罠 (trap, Pac-Man context)"
+    },
+    {
+      "segment_idx": 4,
+      "original": "足が始まるでしょう",
+      "corrected": "勝負が始まるでしょう",
+      "rule": "Whisper mishearing: 足→勝負"
+    }
+  ]
+}

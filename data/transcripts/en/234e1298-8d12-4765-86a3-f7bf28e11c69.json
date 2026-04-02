@@ -1,0 +1,49 @@
+{
+  "id": "234e1298-8d12-4765-86a3-f7bf28e11c69",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.7,
+      "text": "Bair right as they're trying to get up after that cart knockdown!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これはカートで削られてから動きたくなったところに空後ですね"
+    },
+    {
+      "start": 5.7,
+      "end": 7.0,
+      "text": "Love that airdodge instinct!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "回避の癖好きだ"
+    },
+    {
+      "start": 7.74,
+      "end": 12.24,
+      "text": "Up throw or up air?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "上投げ?空上?"
+    },
+    {
+      "start": 13.0,
+      "end": 13.72,
+      "text": "There it is!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "出ました"
+    },
+    {
+      "start": 13.72,
+      "end": 15.52,
+      "text": "Recovery!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "リフコン"
+    }
+  ],
+  "full_text": "Bair right as they're trying to get up after that cart knockdown! Love that airdodge instinct! Up throw or up air? There it is! Recovery!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

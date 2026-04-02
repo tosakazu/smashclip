@@ -1,0 +1,17 @@
+{
+  "id": "fdab4a65-7163-4d23-bd01-c4833423f757",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 10.44,
+      "text": "Caught in the knockdown!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これはダウンに反応している"
+    }
+  ],
+  "full_text": "Caught in the knockdown!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

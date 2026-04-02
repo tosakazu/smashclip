@@ -1,0 +1,33 @@
+{
+  "id": "c7da505e-83e1-49fc-a230-1205cd58c2fd",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.72,
+      "text": "出せば5分の1くらいでそのままストックを取る自信があるとも取れるはずですが",
+      "language": "ja"
+    },
+    {
+      "start": 3.72,
+      "end": 6.22,
+      "text": "どんだけ自分に自信を持っているのかって",
+      "language": "ja"
+    },
+    {
+      "start": 6.22,
+      "end": 10.34,
+      "text": "それを辿り着けないのかその分野で",
+      "language": "ja"
+    }
+  ],
+  "full_text": "出せば5分の1くらいでそのままストックを取る自信があるとも取れるはずですが どんだけ自分に自信を持っているのかって それを辿り着けないのかその分野で",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "ストップを取る",
+      "corrected": "ストックを取る",
+      "rule": "smash term (stock)"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "63653018-c137-44d4-9fed-9f2f42e0722a",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.2,
+      "text": "Just as expected!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "予想するような形になりました"
+    },
+    {
+      "start": 1.2,
+      "end": 3.44,
+      "text": "while denying the grabs",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "掴みをしっかり拒否しながら"
+    },
+    {
+      "start": 3.44,
+      "end": 5.56,
+      "text": "taking damage off Pokemon Stadium 2's",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ダメージはポケモンスタジアム2の"
+    },
+    {
+      "start": 5.56,
+      "end": 8.14,
+      "text": "while using the platform",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "台を使いながら"
+    },
+    {
+      "start": 8.14,
+      "end": 9.66,
+      "text": "but the jab",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "しかし弱に"
+    }
+  ],
+  "full_text": "Just as expected! while denying the grabs taking damage off Pokemon Stadium 2's while using the platform but the jab",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 3,
+      "original": "ダイを使いながら",
+      "corrected": "台を使いながら",
+      "rule": "kanji homophone (台)"
+    }
+  ]
+}

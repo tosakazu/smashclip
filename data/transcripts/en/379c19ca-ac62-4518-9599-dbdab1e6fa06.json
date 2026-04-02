@@ -1,0 +1,33 @@
+{
+  "id": "379c19ca-ac62-4518-9599-dbdab1e6fa06",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.72,
+      "text": "Starting to think they're just picking Final Destination because they consider it a strong stage.",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "素直に終点を強いステージだなぁと言って選んでいるだけな気もしてきた"
+    },
+    {
+      "start": 5.72,
+      "end": 8.04,
+      "text": "Still nothing.",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さすがに何もない"
+    },
+    {
+      "start": 8.04,
+      "end": 10.8,
+      "text": "Wait, what is that?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "え?これは何?"
+    }
+  ],
+  "full_text": "Starting to think they're just picking Final Destination because they consider it a strong stage. Still nothing. Wait, what is that?",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

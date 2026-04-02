@@ -1,0 +1,49 @@
+{
+  "id": "8ac8873d-c117-4908-882e-3b3a331f869f",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.68,
+      "text": "Whiff punish",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "差し返し"
+    },
+    {
+      "start": 0.68,
+      "end": 5.62,
+      "text": "It's Gluttony's horizontal neutral game, not just the character Link",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "リンクというよりグルトの元々得意としている横軸の差し合いの部分が"
+    },
+    {
+      "start": 5.62,
+      "end": 7.86,
+      "text": "Even against Link, is that coming through?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "リンクでも12分に発揮されているか"
+    },
+    {
+      "start": 7.86,
+      "end": 9.0,
+      "text": "Oh, nice!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "おー上手"
+    },
+    {
+      "start": 9.0,
+      "end": 9.88,
+      "text": "I see",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "なるほど"
+    }
+  ],
+  "full_text": "Whiff punish It's Gluttony's horizontal neutral game, not just the character Link Even against Link, is that coming through? Oh, nice! I see",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

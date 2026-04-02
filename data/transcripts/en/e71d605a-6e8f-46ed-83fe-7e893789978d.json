@@ -1,0 +1,46 @@
+{
+  "id": "e71d605a-6e8f-46ed-83fe-7e893789978d",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.98,
+      "text": "They traded with up air, but",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空上と相打ちでしたが"
+    },
+    {
+      "start": 1.98,
+      "end": 3.16,
+      "text": "the clean up air's frame data",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空上の生当てのフレーム"
+    },
+    {
+      "start": 3.16,
+      "end": 5.5,
+      "text": "this is a mixup",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これはミックスアップ"
+    }
+  ],
+  "full_text": "They traded with up air, but the clean up air's frame data this is a mixup",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "空中城と相打ちでしたが",
+      "corrected": "空上と相打ちでしたが",
+      "rule": "move abbreviation: 空上"
+    },
+    {
+      "segment_idx": 1,
+      "original": "空中城の大当てのフレーム",
+      "corrected": "空上の生当てのフレーム",
+      "rule": "move abbreviation: 空上, misheard: 生当て"
+    }
+  ]
+}

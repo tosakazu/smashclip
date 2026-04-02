@@ -1,0 +1,26 @@
+{
+  "id": "d9f4527e-e954-4d0a-878a-05e3ea86c8e9",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 7.62,
+      "text": "...plataformas, porque Acero tiene muchísimo peligro de comerse un 0-10, entonces ha dicho",
+      "language": "es"
+    },
+    {
+      "start": 7.62,
+      "end": 13.46,
+      "text": "vale ahora que tengo plataformas ya puedo acercarme y claro Anish no ha aprovechado",
+      "language": "es"
+    },
+    {
+      "start": 13.46,
+      "end": 15.42,
+      "text": "la falta de plataformas.",
+      "language": "es"
+    }
+  ],
+  "full_text": "...plataformas, porque Acero tiene muchísimo peligro de comerse un 0-10, entonces ha dicho vale ahora que tengo plataformas ya puedo acercarme y claro Anish no ha aprovechado la falta de plataformas.",
+  "detected_language": "es",
+  "corrections": []
+}

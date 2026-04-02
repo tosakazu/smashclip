@@ -1,0 +1,86 @@
+{
+  "id": "e42a6b0d-ccd6-45d5-8853-c71792f649c4",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.58,
+      "text": "Cancelled Monkey Flip!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "モンキーフリップはキャンセルして"
+    },
+    {
+      "start": 1.58,
+      "end": 2.66,
+      "text": "Another flip!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "もう一回フリップだったんですが"
+    },
+    {
+      "start": 2.66,
+      "end": 3.38,
+      "text": "Dash attack!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ダッシュアタックで"
+    },
+    {
+      "start": 3.38,
+      "end": 4.58,
+      "text": "Picks it up!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここは拾う"
+    },
+    {
+      "start": 4.58,
+      "end": 5.58,
+      "text": "But juggled!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "しかし着地狩り"
+    },
+    {
+      "start": 5.58,
+      "end": 7.3,
+      "text": "Scary reads!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "怖い怖い読み合いが"
+    },
+    {
+      "start": 7.3,
+      "end": 10.3,
+      "text": "Throws banana!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "引いてバナナ投げ"
+    },
+    {
+      "start": 10.3,
+      "end": 11.26,
+      "text": "But King K. Rool!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "しかしキントロ"
+    }
+  ],
+  "full_text": "Cancelled Monkey Flip! Another flip! Dash attack! Picks it up! But juggled! Scary reads! Throws banana! But King K. Rool!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 4,
+      "original": "しかしちっちゃくち",
+      "corrected": "しかし着地狩り",
+      "rule": "misheard: 着地狩り"
+    },
+    {
+      "segment_idx": 7,
+      "original": "しかし筋トロ",
+      "corrected": "しかしキントロ",
+      "rule": "misheard: likely a Smash term/name"
+    }
+  ]
+}

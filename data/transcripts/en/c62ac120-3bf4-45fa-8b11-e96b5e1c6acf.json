@@ -1,0 +1,44 @@
+{
+  "id": "c62ac120-3bf4-45fa-8b11-e96b5e1c6acf",
+  "segments": [
+    {
+      "start": 0.92,
+      "end": 2.56,
+      "text": "That fair circles in!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここは回り込んでの空中前"
+    },
+    {
+      "start": 2.56,
+      "end": 4.42,
+      "text": "Switches from Monado smash to fair!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "モナドのスマッシュに変えて空中前"
+    }
+  ],
+  "full_text": "That fair circles in! Switches from Monado smash to fair!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "空中スロー",
+      "corrected": "空中前",
+      "rule": "misheard move name"
+    },
+    {
+      "segment_idx": 1,
+      "original": "モナの",
+      "corrected": "モナドの",
+      "rule": "misheard character term (Monado)"
+    },
+    {
+      "segment_idx": 1,
+      "original": "空中スロー",
+      "corrected": "空中前",
+      "rule": "misheard move name"
+    }
+  ]
+}

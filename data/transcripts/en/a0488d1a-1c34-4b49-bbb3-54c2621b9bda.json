@@ -1,0 +1,33 @@
+{
+  "id": "a0488d1a-1c34-4b49-bbb3-54c2621b9bda",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.18,
+      "text": "Down smash or up smash at this percentage because he's going to die out of here. Yeah, Rafa is not throwing moves",
+      "language": "en"
+    },
+    {
+      "start": 5.18,
+      "end": 8.44,
+      "text": "He's just jumping and trying to punish some of Miya's options",
+      "language": "en"
+    },
+    {
+      "start": 9.42,
+      "end": 13.68,
+      "text": "Now is the important. Yeah, there we go with the perfect route. That was such a clean",
+      "language": "en"
+    }
+  ],
+  "full_text": "Down smash or up smash at this percentage because he's going to die out of here. Yeah, Rafa is not throwing moves He's just jumping and trying to punish some of Miya's options Now is the important. Yeah, there we go with the perfect route. That was such a clean",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "the media's",
+      "corrected": "Miya's",
+      "rule": "player name"
+    }
+  ]
+}

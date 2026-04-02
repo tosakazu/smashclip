@@ -1,0 +1,124 @@
+{
+  "id": "53e5cc4d-703c-4e7a-bbd9-d3e5f5744ac4",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.24,
+      "text": "That's exactly what you see from a fighting game player!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そういうプレイヤーが格闘ゲームをやってるからこその手札に見えますよあれは"
+    },
+    {
+      "start": 3.24,
+      "end": 5.98,
+      "text": "Alright, 1-1",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあ1-1"
+    },
+    {
+      "start": 5.98,
+      "end": 10.66,
+      "text": "The landing - aerial here!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "着地ここはどうだ空中A"
+    },
+    {
+      "start": 10.66,
+      "end": 13.3,
+      "text": "Sees the airdodge and extends the combo further!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "回避見てさらにコンボ伸ばすぞ"
+    },
+    {
+      "start": 13.3,
+      "end": 13.76,
+      "text": "Doubles up!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ダブルアップ"
+    },
+    {
+      "start": 13.76,
+      "end": 15.98,
+      "text": "Wait, does fair come out on top?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "えー空中前に勝つの?"
+    },
+    {
+      "start": 16.68,
+      "end": 17.56,
+      "text": "Is that the finish?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "終わり際かな?"
+    },
+    {
+      "start": 17.72,
+      "end": 18.32,
+      "text": "Yeah, it's over",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "あー終わってるか"
+    },
+    {
+      "start": 18.32,
+      "end": 20.74,
+      "text": "Fair here is clean",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空中前ここは手堅く"
+    },
+    {
+      "start": 20.74,
+      "end": 22.42,
+      "text": "Jack's in control of the ledge - can he finish it?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ジャックさん崖展開仕留め切るか"
+    },
+    {
+      "start": 22.42,
+      "end": 25.16,
+      "text": "Forward smash for the KO!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "横スマッシュで撃墜"
+    },
+    {
+      "start": 25.16,
+      "end": 26.2,
+      "text": "Right there!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここで"
+    }
+  ],
+  "full_text": "That's exactly what you see from a fighting game player! Alright, 1-1 The landing - aerial here! Sees the airdodge and extends the combo further! Doubles up! Wait, does fair come out on top? Is that the finish? Yeah, it's over Fair here is clean Jack's in control of the ledge - can he finish it? Forward smash for the KO! Right there!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 3,
+      "original": "パルコ伸ばすぞ",
+      "corrected": "コンボ伸ばすぞ",
+      "rule": "misheard word"
+    },
+    {
+      "segment_idx": 10,
+      "original": "よくスマッシュでゲック",
+      "corrected": "横スマッシュで撃墜",
+      "rule": "kanji homophone (ゲック→撃墜, よく→横)"
+    },
+    {
+      "segment_idx": 11,
+      "original": "ついここで",
+      "corrected": "ここで",
+      "rule": "misheard word"
+    }
+  ]
+}

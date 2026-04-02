@@ -1,0 +1,39 @@
+{
+  "id": "98395007-666b-4154-ba8a-aea1b55a547a",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.38,
+      "text": "さあYauraにとって苦しい展開が続く下強攻撃カス当たり",
+      "language": "ja"
+    },
+    {
+      "start": 6.38,
+      "end": 9.06,
+      "text": "撃墜できない撃墜できないこの崖仕留めたい",
+      "language": "ja"
+    },
+    {
+      "start": 9.06,
+      "end": 10.44,
+      "text": "さあボムからの下強",
+      "language": "ja"
+    }
+  ],
+  "full_text": "さあYauraにとって苦しい展開が続く下強攻撃カス当たり 撃墜できない撃墜できないこの崖仕留めたい さあボムからの下強",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "やるにとって",
+      "corrected": "Yauraにとって",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 2,
+      "original": "ボムからの下",
+      "corrected": "ボムからの下強",
+      "rule": "move name (truncated)"
+    }
+  ]
+}

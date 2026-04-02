@@ -1,0 +1,49 @@
+{
+  "id": "f0877b63-0a93-48ad-9cfc-7be763650e62",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.8,
+      "text": "Incredible by Kyonlink!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "お見事キョンリンク"
+    },
+    {
+      "start": 0.8,
+      "end": 2.18,
+      "text": "Doesn't get caught!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "誘われませんでした"
+    },
+    {
+      "start": 2.18,
+      "end": 4.22,
+      "text": "Rolling up smash for the KO!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そして転がり上スマッシュで勝って"
+    },
+    {
+      "start": 4.22,
+      "end": 6.28,
+      "text": "Kyong's big move connects!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "キョンの大技が通ってきたか"
+    },
+    {
+      "start": 6.28,
+      "end": 8.72,
+      "text": "Up smash on the knockdown!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここでダウンに対して上スマッシュ"
+    }
+  ],
+  "full_text": "Incredible by Kyonlink! Doesn't get caught! Rolling up smash for the KO! Kyong's big move connects! Up smash on the knockdown!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

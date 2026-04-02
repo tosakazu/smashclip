@@ -1,0 +1,60 @@
+{
+  "id": "5bece891-680f-4ee3-a4f4-94a33ad63ada",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.48,
+      "text": "Defense crumbles in this range - landing and ledge getup are totally exposed!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "このところは防御面が弱くなるので着地だったり崖上がり弱くなるんですよね"
+    },
+    {
+      "start": 3.48,
+      "end": 6.58,
+      "text": "Wrath capitalizes and locks him out at the ledge!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そこをうまく突いて崖決めきりましたねWrath選手"
+    },
+    {
+      "start": 6.58,
+      "end": 9.86,
+      "text": "But now raru's making the edgeguard play!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあしかしどうだ今度は崖で攻めきったのはらる"
+    },
+    {
+      "start": 9.86,
+      "end": 10.58,
+      "text": "raru too!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "らる選手も"
+    }
+  ],
+  "full_text": "Defense crumbles in this range - landing and ledge getup are totally exposed! Wrath capitalizes and locks him out at the ledge! But now raru's making the edgeguard play! raru too!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "ラース選手",
+      "corrected": "Wrath選手",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 2,
+      "original": "ラルー",
+      "corrected": "らる",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 3,
+      "original": "ラルー選手",
+      "corrected": "らる選手",
+      "rule": "player name"
+    }
+  ]
+}

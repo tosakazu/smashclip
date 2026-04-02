@@ -1,0 +1,68 @@
+{
+  "id": "64fb2b1f-d7c9-46a1-93b6-593577d3460e",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.4,
+      "text": "Building up damage!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ダメージを蓄積させている"
+    },
+    {
+      "start": 2.4,
+      "end": 3.6,
+      "text": "Back throw!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "後ろに投げて"
+    },
+    {
+      "start": 3.6,
+      "end": 5.56,
+      "text": "One more nair!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあこのままもう一発空N知ろ"
+    },
+    {
+      "start": 5.56,
+      "end": 7.86,
+      "text": "And another hit connects!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "おーっとさらにそこからハニワを当てて"
+    },
+    {
+      "start": 7.86,
+      "end": 9.54,
+      "text": "And that's the finishing KO!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "とどめの撃墜"
+    }
+  ],
+  "full_text": "Building up damage! Back throw! One more nair! And another hit connects! And that's the finishing KO!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "もう一足空中しろ",
+      "corrected": "もう一発空N知ろ",
+      "rule": "move abbreviation"
+    },
+    {
+      "segment_idx": 3,
+      "original": "ハニア",
+      "corrected": "ハニワ",
+      "rule": "Villager move name (Lloid Rocket)"
+    },
+    {
+      "segment_idx": 4,
+      "original": "届かない",
+      "corrected": "とどめの",
+      "rule": "misheard word"
+    }
+  ]
+}

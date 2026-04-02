@@ -1,0 +1,33 @@
+{
+  "id": "dcc6980d-7f20-49d9-8934-8c2691119c47",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.78,
+      "text": "That advantage triples right there",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ゲーム差が3倍ぐらいになるので"
+    },
+    {
+      "start": 1.78,
+      "end": 2.36,
+      "text": "Yeah, exactly",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そうですね"
+    },
+    {
+      "start": 2.36,
+      "end": 5.36,
+      "text": "And you see the dash attack a lot here",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここはダッシュアタックでよく見ていた"
+    }
+  ],
+  "full_text": "That advantage triples right there Yeah, exactly And you see the dash attack a lot here",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

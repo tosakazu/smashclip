@@ -1,0 +1,25 @@
+{
+  "id": "7cf95009-68db-4170-9b82-6bbd81030e05",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.52,
+      "text": "Whether it's aerial or grounded, plays that exceed the opponent's expectations!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空対空地対空どちらも相手の予想を上回るような"
+    },
+    {
+      "start": 6.52,
+      "end": 10.3,
+      "text": "That momentum just keeps rolling!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ワンプレイが続いているそのまま"
+    }
+  ],
+  "full_text": "Whether it's aerial or grounded, plays that exceed the opponent's expectations! That momentum just keeps rolling!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

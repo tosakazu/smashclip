@@ -1,0 +1,87 @@
+{
+  "id": "b0a8f4e8-5875-47cc-9e06-ca794b5eb039",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 9.38,
+      "text": "ところもありますソニック守り勝ちまであっそう時間も少ないので これは待ってればそもそも空後とかのパーセントに絶対になるのがあります大技",
+      "language": "ja"
+    },
+    {
+      "start": 9.38,
+      "end": 16.18,
+      "text": "負け筋ぐらいの差がそうですねいると から振りセンター反転弱まで",
+      "language": "ja"
+    },
+    {
+      "start": 16.18,
+      "end": 24.94,
+      "text": "上方向追いたいだーこれはからのくらっている 前に投げた149",
+      "language": "ja"
+    },
+    {
+      "start": 24.94,
+      "end": 30.86,
+      "text": "横強を捉えた撃墜 ソニックス完璧",
+      "language": "ja"
+    },
+    {
+      "start": 30.86,
+      "end": 37.4,
+      "text": "いや空後に追わせての攻撃上がり誘って 少し着地ずらして間に合わない攻撃上がり",
+      "language": "ja"
+    }
+  ],
+  "full_text": "ところもありますソニック守り勝ちまであっそう時間も少ないので これは待ってればそもそも空後とかのパーセントに絶対になるのがあります大技 負け筋ぐらいの差がそうですねいると から振りセンター反転弱まで 上方向追いたいだーこれはからのくらっている 前に投げた149 横強を捉えた撃墜 ソニックス完璧 いや空後に追わせての攻撃上がり誘って 少し着地ずらして間に合わない攻撃上がり",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "マモリ価値まであそそ",
+      "corrected": "守り勝ちまであっそう",
+      "rule": "homophone (守り勝ち)"
+    },
+    {
+      "segment_idx": 0,
+      "original": "空語とか",
+      "corrected": "空後とか",
+      "rule": "move name (空後)"
+    },
+    {
+      "segment_idx": 1,
+      "original": "カラバラセンター",
+      "corrected": "から振りセンター",
+      "rule": "mishearing"
+    },
+    {
+      "segment_idx": 2,
+      "original": "しついたいだー",
+      "corrected": "追いたいだー",
+      "rule": "mishearing"
+    },
+    {
+      "segment_idx": 2,
+      "original": "くれされている",
+      "corrected": "くらっている",
+      "rule": "mishearing"
+    },
+    {
+      "segment_idx": 3,
+      "original": "ヨコキを捉えた激ツイン",
+      "corrected": "横強を捉えた撃墜",
+      "rule": "move name (横強) + homophone (撃墜)"
+    },
+    {
+      "segment_idx": 4,
+      "original": "空豪に追わせての",
+      "corrected": "空後に追わせての",
+      "rule": "move name (空後)"
+    },
+    {
+      "segment_idx": 4,
+      "original": "少し着地によって間に合わない攻撃や",
+      "corrected": "少し着地ずらして間に合わない攻撃上がり",
+      "rule": "mishearing"
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "id": "9932d8b3-138f-4463-90ec-f25d789f8cc2",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.5,
+      "text": "っていうのもディディーコングの強いところですよね",
+      "language": "ja"
+    },
+    {
+      "start": 1.5,
+      "end": 4.3,
+      "text": "バナナの皮を奪い取ってダッシュ攻撃を通した",
+      "language": "ja"
+    },
+    {
+      "start": 4.3,
+      "end": 6.42,
+      "text": "空N食らって上スマッシュですが",
+      "language": "ja"
+    },
+    {
+      "start": 6.42,
+      "end": 7.3,
+      "text": "空Nで暴れて",
+      "language": "ja"
+    },
+    {
+      "start": 7.3,
+      "end": 10.08,
+      "text": "ダウンの読み合いその隙に空前が通る",
+      "language": "ja"
+    },
+    {
+      "start": 10.08,
+      "end": 11.34,
+      "text": "ギリギリ追いかける",
+      "language": "ja"
+    },
+    {
+      "start": 11.34,
+      "end": 14.58,
+      "text": "それを即座に距離を取っていって",
+      "language": "ja"
+    },
+    {
+      "start": 14.58,
+      "end": 15.9,
+      "text": "このバレルジェットも",
+      "language": "ja"
+    },
+    {
+      "start": 15.9,
+      "end": 18.74,
+      "text": "ゲームアンドウォッチから距離を取る選択肢としては非常に強力ですが",
+      "language": "ja"
+    },
+    {
+      "start": 18.74,
+      "end": 19.8,
+      "text": "おーい完璧",
+      "language": "ja"
+    }
+  ],
+  "full_text": "っていうのもディディーコングの強いところですよね バナナの皮を奪い取ってダッシュ攻撃を通した 空N食らって上スマッシュですが 空Nで暴れて ダウンの読み合いその隙に空前が通る ギリギリ追いかける それを即座に距離を取っていって このバレルジェットも ゲームアンドウォッチから距離を取る選択肢としては非常に強力ですが おーい完璧",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "DDコンク",
+      "corrected": "ディディーコング",
+      "rule": "character name"
+    },
+    {
+      "segment_idx": 1,
+      "original": "バラの顔を奪い取って",
+      "corrected": "バナナの皮を奪い取って",
+      "rule": "Whisper misheard (Diddy Kong banana)"
+    },
+    {
+      "segment_idx": 2,
+      "original": "攻撃しなくて上済ましてですが",
+      "corrected": "空N食らって上スマッシュですが",
+      "rule": "Whisper misheard move names"
+    },
+    {
+      "segment_idx": 3,
+      "original": "空射",
+      "corrected": "空N",
+      "rule": "move abbreviation"
+    },
+    {
+      "segment_idx": 4,
+      "original": "ダウンの夢合いその馬鹿いひにクーマイが通る",
+      "corrected": "ダウンの読み合いその隙に空前が通る",
+      "rule": "Whisper misheard (読み合い, 空前)"
+    }
+  ]
+}

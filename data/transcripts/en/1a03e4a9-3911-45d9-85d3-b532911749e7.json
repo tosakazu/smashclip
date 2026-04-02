@@ -1,0 +1,73 @@
+{
+  "id": "1a03e4a9-3911-45d9-85d3-b532911749e7",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.76,
+      "text": "He's recovering well",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "割と回復してきた"
+    },
+    {
+      "start": 0.76,
+      "end": 1.1,
+      "text": "Yeah",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そうですね"
+    },
+    {
+      "start": 1.1,
+      "end": 3.72,
+      "text": "While racking up damage to 78%",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "78%までダメージを与えつつ"
+    },
+    {
+      "start": 3.72,
+      "end": 4.58,
+      "text": "Collecting resources too",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "資材も集め"
+    },
+    {
+      "start": 4.58,
+      "end": 5.88,
+      "text": "With the diamonds building up",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ダイヤモンドも集まると"
+    },
+    {
+      "start": 5.88,
+      "end": 7.94,
+      "text": "He's executing his optimal options perfectly",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "やりたい行動を完璧に"
+    },
+    {
+      "start": 7.94,
+      "end": 9.12,
+      "text": "Does it flawlessly!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "徹底してくれ"
+    },
+    {
+      "start": 9.12,
+      "end": 10.68,
+      "text": "KO with forward smash!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "横スマッシュで撃墜"
+    }
+  ],
+  "full_text": "He's recovering well Yeah While racking up damage to 78% Collecting resources too With the diamonds building up He's executing his optimal options perfectly Does it flawlessly! KO with forward smash!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

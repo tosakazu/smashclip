@@ -1,0 +1,57 @@
+{
+  "id": "1c334ddd-d6a2-4e4c-9761-a6aaf5665dee",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "あのソニックに対して",
+      "language": "ja"
+    },
+    {
+      "start": 2.0,
+      "end": 4.0,
+      "text": "ベル、素当てというか",
+      "language": "ja"
+    },
+    {
+      "start": 4.0,
+      "end": 6.0,
+      "text": "反確とかではなく投げで当てるのって",
+      "language": "ja"
+    },
+    {
+      "start": 6.0,
+      "end": 8.0,
+      "text": "かなり難しいと思うんで",
+      "language": "ja"
+    },
+    {
+      "start": 8.0,
+      "end": 10.0,
+      "text": "これどうやって",
+      "language": "ja"
+    },
+    {
+      "start": 10.0,
+      "end": 12.0,
+      "text": "おーっと詰めてきたー",
+      "language": "ja"
+    },
+    {
+      "start": 12.0,
+      "end": 14.0,
+      "text": "どうやって使うんですか?",
+      "language": "ja"
+    }
+  ],
+  "full_text": "あのソニックに対して ベル、素当てというか 反確とかではなく投げで当てるのって かなり難しいと思うんで これどうやって おーっと詰めてきたー どうやって使うんですか?",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "反角とかではなく投げで当てるのって",
+      "corrected": "反確とかではなく投げで当てるのって",
+      "rule": "Whisper kanji homophone: 反角→反確 (確定反撃)"
+    }
+  ]
+}

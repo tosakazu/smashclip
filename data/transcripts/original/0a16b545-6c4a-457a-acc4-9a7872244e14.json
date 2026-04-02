@@ -1,0 +1,32 @@
+{
+  "id": "0a16b545-6c4a-457a-acc4-9a7872244e14",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "The Kanye beat sound in a second",
+      "language": "en"
+    },
+    {
+      "start": 3.16,
+      "end": 5.16,
+      "text": "Okay, we're good. We're good. Oh",
+      "language": "en"
+    },
+    {
+      "start": 6.08,
+      "end": 9.84,
+      "text": "But minecart not gonna kill yet 130% on Leo. Oh",
+      "language": "en"
+    },
+    {
+      "start": 11.8,
+      "end": 13.8,
+      "text": "The block manages",
+      "language": "en"
+    }
+  ],
+  "full_text": "The Kanye beat sound in a second Okay, we're good. We're good. Oh But minecart not gonna kill yet 130% on Leo. Oh The block manages",
+  "detected_language": "en",
+  "corrections": []
+}

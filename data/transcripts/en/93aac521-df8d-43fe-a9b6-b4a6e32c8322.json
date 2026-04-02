@@ -1,0 +1,33 @@
+{
+  "id": "93aac521-df8d-43fe-a9b6-b4a6e32c8322",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.94,
+      "text": "you have to be very careful of it and again the frame one i'll be really playing into Miya's hands",
+      "language": "en"
+    },
+    {
+      "start": 3.94,
+      "end": 7.52,
+      "text": "there once again as he's able to get a nice burst option avoiding any potential punish",
+      "language": "en"
+    },
+    {
+      "start": 7.52,
+      "end": 11.36,
+      "text": "there with the up smash there from ken who could have absolutely ended that stock and",
+      "language": "en"
+    }
+  ],
+  "full_text": "you have to be very careful of it and again the frame one i'll be really playing into Miya's hands there once again as he's able to get a nice burst option avoiding any potential punish there with the up smash there from ken who could have absolutely ended that stock and",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "mia's",
+      "corrected": "Miya's",
+      "rule": "player name"
+    }
+  ]
+}

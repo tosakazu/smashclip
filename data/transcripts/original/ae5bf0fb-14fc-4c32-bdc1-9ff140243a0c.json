@@ -1,0 +1,51 @@
+{
+  "id": "ae5bf0fb-14fc-4c32-bdc1-9ff140243a0c",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.96,
+      "text": "とはいえ",
+      "language": "ja"
+    },
+    {
+      "start": 0.96,
+      "end": 4.8,
+      "text": "撃墜帯がもう撃墜帯だと当てるのはまだ簡単ではないでしょう",
+      "language": "ja"
+    },
+    {
+      "start": 4.8,
+      "end": 7.12,
+      "text": "さっきみたいにね空中上が重要になっちゃえば",
+      "language": "ja"
+    },
+    {
+      "start": 7.12,
+      "end": 9.1,
+      "text": "割とコンボが当てられると思うんですが",
+      "language": "ja"
+    }
+  ],
+  "full_text": "とはいえ 撃墜帯がもう撃墜帯だと当てるのはまだ簡単ではないでしょう さっきみたいにね空中上が重要になっちゃえば 割とコンボが当てられると思うんですが",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "激効化がもう激ついたと当てるのは",
+      "corrected": "撃墜帯がもう撃墜帯だと当てるのは",
+      "rule": "homophone (撃墜帯)"
+    },
+    {
+      "segment_idx": 2,
+      "original": "空中城が寿命になっちゃえば",
+      "corrected": "空中上が重要になっちゃえば",
+      "rule": "homophone (空中上=くうちゅうじょう, 重要)"
+    },
+    {
+      "segment_idx": 3,
+      "original": "ポポジャが当てられる",
+      "corrected": "コンボが当てられる",
+      "rule": "mishearing"
+    }
+  ]
+}

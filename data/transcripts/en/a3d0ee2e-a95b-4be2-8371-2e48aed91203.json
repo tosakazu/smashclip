@@ -1,0 +1,31 @@
+{
+  "id": "a3d0ee2e-a95b-4be2-8371-2e48aed91203",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.36,
+      "text": "right there but the up air to up air the OoB unfortunate can't connect right there",
+      "language": "en"
+    },
+    {
+      "start": 5.36,
+      "end": 9.24,
+      "text": "okay f tilt for Miya Miya taking the situation",
+      "language": "en"
+    }
+  ],
+  "full_text": "right there but the up air to up air the OoB unfortunate can't connect right there okay f tilt for Miya Miya taking the situation",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "original": "the obi",
+      "corrected": "the OoB",
+      "reason": "OoB = out of bounds / off-stage"
+    },
+    {
+      "original": "mia",
+      "corrected": "Miya",
+      "reason": "プレイヤー名Miya"
+    }
+  ]
+}

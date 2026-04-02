@@ -1,0 +1,104 @@
+{
+  "id": "9aa51849-695a-4674-9fb9-d2d221806af9",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "What incredible play!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "なんだ! 上手すぎる"
+    },
+    {
+      "start": 2.0,
+      "end": 4.0,
+      "text": "So composed!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そういう冷静ですね"
+    },
+    {
+      "start": 4.0,
+      "end": 5.0,
+      "text": "Yeah",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そうですね"
+    },
+    {
+      "start": 5.0,
+      "end": 6.0,
+      "text": "Jack",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ジャック"
+    },
+    {
+      "start": 6.0,
+      "end": 7.0,
+      "text": "Can they close it?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "倒し切るのか?"
+    },
+    {
+      "start": 7.0,
+      "end": 9.0,
+      "text": "WHOOSH!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "グーッシュ!"
+    },
+    {
+      "start": 9.0,
+      "end": 10.0,
+      "text": "But...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これはでも"
+    },
+    {
+      "start": 10.0,
+      "end": 11.0,
+      "text": "Oh!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "おお"
+    },
+    {
+      "start": 11.0,
+      "end": 13.0,
+      "text": "Mining",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "マイニング"
+    },
+    {
+      "start": 13.0,
+      "end": 14.0,
+      "text": "He read it!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "読まっ!"
+    },
+    {
+      "start": 14.0,
+      "end": 15.0,
+      "text": "KO! Complete collapse!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ダウン! 崩壊!"
+    }
+  ],
+  "full_text": "What incredible play! So composed! Yeah Jack Can they close it? WHOOSH! But... Oh! Mining He read it! KO! Complete collapse!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 9,
+      "original": "よまっ",
+      "corrected": "読まっ",
+      "rule": "kanji reading"
+    }
+  ]
+}

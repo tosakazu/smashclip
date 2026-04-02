@@ -1,0 +1,48 @@
+{
+  "id": "40cdb0f2-566d-43a2-afa1-1b63b4149162",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.14,
+      "text": "Like a bair...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空後攻撃みたいな"
+    },
+    {
+      "start": 1.14,
+      "end": 4.24,
+      "text": "With that wait timing, the kicks are so Hero",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "なんかウェイトでキックスリーするの結構ヘロさんみたいな"
+    },
+    {
+      "start": 4.24,
+      "end": 5.68,
+      "text": "Yeah, yeah, yeah, definitely right",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "はいはいはい確かにそうですね"
+    },
+    {
+      "start": 5.68,
+      "end": 8.56,
+      "text": "Won't allow recovery from above",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "上からの復帰を許さない"
+    }
+  ],
+  "full_text": "Like a bair... With that wait timing, the kicks are so Hero Yeah, yeah, yeah, definitely right Won't allow recovery from above",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "高校攻撃",
+      "corrected": "空後攻撃",
+      "rule": "kanji homophone: 高校→空後 (back air)"
+    }
+  ]
+}

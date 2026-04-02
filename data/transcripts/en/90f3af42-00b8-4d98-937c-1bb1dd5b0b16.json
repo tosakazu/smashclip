@@ -1,0 +1,56 @@
+{
+  "id": "90f3af42-00b8-4d98-937c-1bb1dd5b0b16",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.56,
+      "text": "He's so strong!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "強いんですよね火"
+    },
+    {
+      "start": 0.56,
+      "end": 4.82,
+      "text": "Insane! Insane! Insane! Insane!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "やばいやばいやばいやばい"
+    },
+    {
+      "start": 4.82,
+      "end": 5.92,
+      "text": "He went after him but...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "追っかけたんですけど"
+    },
+    {
+      "start": 5.92,
+      "end": 7.24,
+      "text": "Oh, that's...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "あ、これは"
+    },
+    {
+      "start": 7.24,
+      "end": 8.68,
+      "text": "He wanted to get up B out!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "上B出したかった"
+    }
+  ],
+  "full_text": "He's so strong! Insane! Insane! Insane! Insane! He went after him but... Oh, that's... He wanted to get up B out!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 4,
+      "original": "イエビー",
+      "corrected": "上B",
+      "rule": "move abbreviation"
+    }
+  ]
+}

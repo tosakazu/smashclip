@@ -1,0 +1,68 @@
+{
+  "id": "97cf5696-0537-48ee-91be-5b26d3e0d401",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.78,
+      "text": "Mild Donkey's forced back to ledge, but mashing aerials flips the position!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "崖を背負わされたマイルドドンキーだが空中上暴れ通して崖が入れ替わる"
+    },
+    {
+      "start": 4.78,
+      "end": 10.24,
+      "text": "Up B hitbox is strong at the ledge skip, bair and back to ledge!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあここは崖スキップ上必殺技の判定が強靭空中後ろでさらに崖"
+    },
+    {
+      "start": 10.24,
+      "end": 14.32,
+      "text": "Flip doesn't connect but he cancels it - no punishment, free grab!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "フリップは当たらないがフリップキャンセルしているのでお咎めなし掴んだ"
+    },
+    {
+      "start": 14.32,
+      "end": 18.12,
+      "text": "Up throw from the grab, still no KO",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "掴んで上に投げるまだ撃墜は当然しません"
+    },
+    {
+      "start": 18.12,
+      "end": 21.98,
+      "text": "One touch away - nair outward, banana startup!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあだがあとワンタッチ空中ニュートラル外にバナナの発生"
+    }
+  ],
+  "full_text": "Mild Donkey's forced back to ledge, but mashing aerials flips the position! Up B hitbox is strong at the ledge skip, bair and back to ledge! Flip doesn't connect but he cancels it - no punishment, free grab! Up throw from the grab, still no KO One touch away - nair outward, banana startup!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "マイホドンキー",
+      "corrected": "マイルドドンキー",
+      "rule": "player name abbreviation"
+    },
+    {
+      "segment_idx": 2,
+      "original": "音が目なし",
+      "corrected": "お咎めなし",
+      "rule": "misheard word (音が目なし→お咎めなし)"
+    },
+    {
+      "segment_idx": 4,
+      "original": "空中ニュータラル",
+      "corrected": "空中ニュートラル",
+      "rule": "typo"
+    }
+  ]
+}

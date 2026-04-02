@@ -1,0 +1,46 @@
+{
+  "id": "457b3c3e-4542-43df-b1a4-391bf63a4938",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 7.44,
+      "text": "While shielding the bair...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空中後ろもガードしていきながら"
+    },
+    {
+      "start": 7.44,
+      "end": 8.58,
+      "text": "But the bair connects!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "しかし空中後ろ通す"
+    },
+    {
+      "start": 8.58,
+      "end": 12.16,
+      "text": "And the fair!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そして空中前です"
+    }
+  ],
+  "full_text": "While shielding the bair... But the bair connects! And the fair!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "空中シロ",
+      "corrected": "空中後ろ",
+      "rule": "katakana to kanji (move name)"
+    },
+    {
+      "segment_idx": 1,
+      "original": "空中シロ",
+      "corrected": "空中後ろ",
+      "rule": "katakana to kanji (move name)"
+    }
+  ]
+}

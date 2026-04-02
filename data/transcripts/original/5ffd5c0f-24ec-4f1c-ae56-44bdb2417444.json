@@ -1,0 +1,51 @@
+{
+  "id": "5ffd5c0f-24ec-4f1c-ae56-44bdb2417444",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.0,
+      "text": "ドミノグを押している 下スマッシュ引くベクトルだ",
+      "language": "ja"
+    },
+    {
+      "start": 3.0,
+      "end": 7.0,
+      "text": "かなり苦しいぞ ステージ後方 戻ってきた",
+      "language": "ja"
+    },
+    {
+      "start": 7.0,
+      "end": 11.0,
+      "text": "ドミノグ反転は空中攻撃に挑戦できて 投げたしかもこれはつながるパーフェクト",
+      "language": "ja"
+    },
+    {
+      "start": 11.0,
+      "end": 12.0,
+      "text": "下Bで決め切る",
+      "language": "ja"
+    }
+  ],
+  "full_text": "ドミノグを押している 下スマッシュ引くベクトルだ かなり苦しいぞ ステージ後方 戻ってきた ドミノグ反転は空中攻撃に挑戦できて 投げたしかもこれはつながるパーフェクト 下Bで決め切る",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "引くイベクトルだ",
+      "corrected": "引くベクトルだ",
+      "rule": "misheard word"
+    },
+    {
+      "segment_idx": 1,
+      "original": "スタート後方",
+      "corrected": "ステージ後方",
+      "rule": "misheard word"
+    },
+    {
+      "segment_idx": 3,
+      "original": "大黒で決め切る",
+      "corrected": "下Bで決め切る",
+      "rule": "move abbreviation"
+    }
+  ]
+}

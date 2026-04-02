@@ -1,0 +1,80 @@
+{
+  "id": "b7adcc48-af3d-41f6-bcba-04428be31434",
+  "segments": [
+    {
+      "start": 1.0,
+      "end": 2.06,
+      "text": "Stock lead, Yoshi-Diddy",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ストック先行ヨシドラ"
+    },
+    {
+      "start": 2.06,
+      "end": 3.6,
+      "text": "Yaura down to one stock",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "あと1ストックになったヤウラは"
+    },
+    {
+      "start": 3.6,
+      "end": 4.84,
+      "text": "How's he coming back?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "この1本どう返していくか"
+    },
+    {
+      "start": 4.84,
+      "end": 7.26,
+      "text": "Nair",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空中ニュートラル"
+    },
+    {
+      "start": 7.26,
+      "end": 7.98,
+      "text": "That connects!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ソバットが当たって"
+    },
+    {
+      "start": 7.98,
+      "end": 9.7,
+      "text": "Charged shot!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "チャージショット"
+    },
+    {
+      "start": 9.7,
+      "end": 10.64,
+      "text": "Yeah, that's the one",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "うーんこれですね"
+    },
+    {
+      "start": 10.64,
+      "end": 11.36,
+      "text": "Dainu",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ダイヌ"
+    }
+  ],
+  "full_text": "Stock lead, Yoshi-Diddy Yaura down to one stock How's he coming back? Nair That connects! Charged shot! Yeah, that's the one Dainu",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "ヨシトラ",
+      "corrected": "ヨシドラ",
+      "rule": "player name"
+    }
+  ]
+}

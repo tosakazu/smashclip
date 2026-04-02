@@ -1,0 +1,72 @@
+{
+  "id": "b3d62929-3400-4e20-8aa1-d4ac02820a95",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.06,
+      "text": "Maintaining the advantage,",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "展開維持"
+    },
+    {
+      "start": 1.06,
+      "end": 3.38,
+      "text": "Attempting to follow up, but—",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "パクってるがベルを取っているが"
+    },
+    {
+      "start": 3.38,
+      "end": 4.9,
+      "text": "But here,",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "しかしここは"
+    },
+    {
+      "start": 4.9,
+      "end": 7.52,
+      "text": "Takenoko's already in trouble,",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "それを追い込み済みのタケノコ選手"
+    },
+    {
+      "start": 7.52,
+      "end": 9.18,
+      "text": "Gets beautifully edgeguarded off-stage!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "うまく崖外に追いやった"
+    },
+    {
+      "start": 9.18,
+      "end": 11.7,
+      "text": "Covered with fair!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空中前かぶせて"
+    },
+    {
+      "start": 11.7,
+      "end": 13.9,
+      "text": "Here's the crucial moment!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここは本命の勝負"
+    }
+  ],
+  "full_text": "Maintaining the advantage, attempting to follow up, but— But here, Takenoko's already in trouble, gets beautifully edgeguarded off-stage! Covered with fair! Here's the crucial moment!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 3,
+      "original": "竹の子選手",
+      "corrected": "タケノコ選手",
+      "rule": "player name"
+    }
+  ]
+}

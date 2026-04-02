@@ -1,0 +1,63 @@
+{
+  "id": "ea4a0f30-82c8-42a4-9840-14edc8035f48",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.58,
+      "text": "ああああああ いやーお前",
+      "language": "ja"
+    },
+    {
+      "start": 3.58,
+      "end": 6.78,
+      "text": "だめだ!任天堂の誰がこの重さ設定したんだ!",
+      "language": "ja"
+    },
+    {
+      "start": 6.78,
+      "end": 8.26,
+      "text": "跳ね返って耐えるのか?今の",
+      "language": "ja"
+    },
+    {
+      "start": 8.26,
+      "end": 10.3,
+      "text": "うっ!お前!",
+      "language": "ja"
+    },
+    {
+      "start": 10.3,
+      "end": 11.2,
+      "text": "うーわっ!",
+      "language": "ja"
+    },
+    {
+      "start": 11.2,
+      "end": 12.72,
+      "text": "うわあぁ!苦しい流れ!",
+      "language": "ja"
+    },
+    {
+      "start": 12.72,
+      "end": 14.0,
+      "text": "まあまあでも",
+      "language": "ja"
+    },
+    {
+      "start": 14.0,
+      "end": 15.86,
+      "text": "えっ、ありますか?!",
+      "language": "ja"
+    }
+  ],
+  "full_text": "ああああああ いやーお前 だめだ!任天堂の誰がこの重さ設定したんだ! 跳ね返って耐えるのか?今の うっ!お前! うーわっ! うわあぁ!苦しい流れ! まあまあでも えっ、ありますか?!",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "跳ね合って",
+      "corrected": "跳ね返って",
+      "rule": "misheard"
+    }
+  ]
+}

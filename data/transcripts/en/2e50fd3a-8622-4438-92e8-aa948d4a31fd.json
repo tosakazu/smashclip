@@ -1,0 +1,68 @@
+{
+  "id": "2e50fd3a-8622-4438-92e8-aa948d4a31fd",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.86,
+      "text": "Off the fair",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空前から"
+    },
+    {
+      "start": 2.86,
+      "end": 5.72,
+      "text": "Oh wow, that control!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "おーそのエリトラのコントロール"
+    },
+    {
+      "start": 5.72,
+      "end": 7.66,
+      "text": "Ledge getup",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "崖上がり"
+    },
+    {
+      "start": 7.66,
+      "end": 8.66,
+      "text": "Two!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "2つも"
+    },
+    {
+      "start": 8.66,
+      "end": 10.1,
+      "text": "Incredible!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "うーん見事"
+    }
+  ],
+  "full_text": "Off the fair Oh wow, that control! Ledge getup Two! Incredible!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "宇宙前",
+      "corrected": "空前",
+      "rule": "move name normalization"
+    },
+    {
+      "segment_idx": 2,
+      "original": "駆け上がり",
+      "corrected": "崖上がり",
+      "rule": "Whisper misrecognition"
+    },
+    {
+      "segment_idx": 4,
+      "original": "うーのみご",
+      "corrected": "うーん見事",
+      "rule": "Whisper misrecognition"
+    }
+  ]
+}

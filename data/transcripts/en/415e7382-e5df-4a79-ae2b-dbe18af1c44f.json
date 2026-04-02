@@ -1,0 +1,21 @@
+{
+  "id": "415e7382-e5df-4a79-ae2b-dbe18af1c44f",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 7.14,
+      "text": "They had to be and 124% on ball cannot play around this aura as well, okay",
+      "language": "en"
+    }
+  ],
+  "full_text": "They had to be and 124% on ball cannot play around this aura as well, okay",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "this or as well",
+      "corrected": "this aura as well",
+      "rule": "Lucario mechanic: aura misheard as 'or'"
+    }
+  ]
+}

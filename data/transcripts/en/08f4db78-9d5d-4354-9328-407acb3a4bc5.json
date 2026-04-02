@@ -1,0 +1,39 @@
+{
+  "id": "08f4db78-9d5d-4354-9328-407acb3a4bc5",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.36,
+      "text": "Having a good time, and a big combo here from Light, probably the biggest we've seen so far,",
+      "language": "en"
+    },
+    {
+      "start": 5.64,
+      "end": 9.58,
+      "text": "carrying all the way across the stage with multiple dash attacks, but you got grabbed.",
+      "language": "en"
+    },
+    {
+      "start": 9.92,
+      "end": 13.28,
+      "text": "What happens now? You die. Does not matter.",
+      "language": "en"
+    },
+    {
+      "start": 13.82,
+      "end": 14.86,
+      "text": "GG, shake my hand.",
+      "language": "en"
+    }
+  ],
+  "full_text": "Having a good time, and a big combo here from Light, probably the biggest we've seen so far, carrying all the way across the stage with multiple dash attacks, but you got grabbed. What happens now? You die. Does not matter. GG, shake my hand.",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "carrying all the way across the stage with multiple dash tags, but you got grabbed.",
+      "corrected": "carrying all the way across the stage with multiple dash attacks, but you got grabbed.",
+      "rule": "Move name correction (dash tags → dash attacks)"
+    }
+  ]
+}

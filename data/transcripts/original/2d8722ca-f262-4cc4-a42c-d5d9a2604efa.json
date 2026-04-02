@@ -1,0 +1,93 @@
+{
+  "id": "2d8722ca-f262-4cc4-a42c-d5d9a2604efa",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.54,
+      "text": "なんとかここですとこいつでしまいたい",
+      "language": "ja"
+    },
+    {
+      "start": 1.54,
+      "end": 2.12,
+      "text": "空後",
+      "language": "ja"
+    },
+    {
+      "start": 2.12,
+      "end": 3.9,
+      "text": "ボスの",
+      "language": "ja"
+    },
+    {
+      "start": 3.9,
+      "end": 6.46,
+      "text": "射撃が早いボスだったが",
+      "language": "ja"
+    },
+    {
+      "start": 6.46,
+      "end": 7.74,
+      "text": "かわさんプリン",
+      "language": "ja"
+    },
+    {
+      "start": 7.74,
+      "end": 8.6,
+      "text": "察知していました",
+      "language": "ja"
+    },
+    {
+      "start": 8.6,
+      "end": 11.5,
+      "text": "浮きを弾いて",
+      "language": "ja"
+    },
+    {
+      "start": 11.5,
+      "end": 12.28,
+      "text": "かわさん上手い",
+      "language": "ja"
+    },
+    {
+      "start": 12.28,
+      "end": 12.72,
+      "text": "スネーク",
+      "language": "ja"
+    },
+    {
+      "start": 12.72,
+      "end": 14.46,
+      "text": "まさにトリックショット",
+      "language": "ja"
+    }
+  ],
+  "full_text": "なんとかここですとこいつでしまいたい 空後 ボスの 射撃が早いボスだったが かわさんプリン 察知していました 浮きを弾いて かわさん上手い スネーク まさにトリックショット",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "空中しろ",
+      "corrected": "空後",
+      "rule": "move name normalization"
+    },
+    {
+      "segment_idx": 4,
+      "original": "カンサフリン",
+      "corrected": "かわさんプリン",
+      "rule": "Whisper misrecognition"
+    },
+    {
+      "segment_idx": 6,
+      "original": "上気を弾いて",
+      "corrected": "浮きを弾いて",
+      "rule": "Whisper misrecognition"
+    },
+    {
+      "segment_idx": 7,
+      "original": "カン上手い",
+      "corrected": "かわさん上手い",
+      "rule": "Whisper misrecognition"
+    }
+  ]
+}

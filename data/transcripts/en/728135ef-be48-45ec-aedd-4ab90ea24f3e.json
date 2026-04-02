@@ -1,0 +1,54 @@
+{
+  "id": "728135ef-be48-45ec-aedd-4ab90ea24f3e",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.5,
+      "text": "That was close! Whiffed the tech—tough spot there, but...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ました危なかったです アーバイト受け身をミスっちゃった難しいところでしたが"
+    },
+    {
+      "start": 5.5,
+      "end": 9.08,
+      "text": "Immediately came back! Looked solid, but came down to the wire",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "すかさず取り返したに見えたがギリギリきた"
+    },
+    {
+      "start": 9.08,
+      "end": 16.54,
+      "text": "Fair at 144—1.8%—hasn't landed yet and Sonix avoids it here again",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空中前取れる144、1.8%まだ食らってないようなものをここも避けますSonix"
+    },
+    {
+      "start": 16.54,
+      "end": 17.68,
+      "text": "And then with the spin...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "あとスピンで"
+    }
+  ],
+  "full_text": "That was close! Whiffed the tech—tough spot there, but... Immediately came back! Looked solid, but came down to the wire Fair at 144—1.8%—hasn't landed yet and Sonix avoids it here again And then with the spin...",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "空中に取れる",
+      "corrected": "空中前取れる",
+      "rule": "move abbreviation: 空中前→空前"
+    },
+    {
+      "segment_idx": 2,
+      "original": "ソニックス",
+      "corrected": "Sonix",
+      "rule": "player name"
+    }
+  ]
+}

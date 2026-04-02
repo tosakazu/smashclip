@@ -1,0 +1,59 @@
+{
+  "id": "8af1ec5e-e9e3-4af9-a523-19f6531c42e5",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.1,
+      "text": "Pushing forward fast!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "一気にラインを詰めていく"
+    },
+    {
+      "start": 1.1,
+      "end": 5.2,
+      "text": "Jack!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ジャック"
+    },
+    {
+      "start": 5.2,
+      "end": 8.56,
+      "text": "This calm approach is",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "マイルドなH.Oの推進力が"
+    },
+    {
+      "start": 8.56,
+      "end": 10.0,
+      "text": "unstoppable!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "止まらない"
+    },
+    {
+      "start": 10.0,
+      "end": 11.68,
+      "text": "But right here,",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ただここは"
+    },
+    {
+      "start": 11.68,
+      "end": 12.44,
+      "text": "down B trap!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "下B置いてる"
+    }
+  ],
+  "full_text": "Pushing forward fast! Jack! This calm approach is unstoppable! But right here, down B trap!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    "シザビー→下B (down special, Roy's counter)"
+  ]
+}

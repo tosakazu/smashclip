@@ -1,0 +1,27 @@
+{
+  "id": "d7f2a040-75d2-47d8-b702-48ee0ced3352",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.06,
+      "text": "紙一重、間一髪、間一髪で避けきって",
+      "language": "ja"
+    },
+    {
+      "start": 3.06,
+      "end": 4.7,
+      "text": "いやしかし苦しいが",
+      "language": "ja"
+    }
+  ],
+  "full_text": "紙一重、間一髪、間一髪で避けきって いやしかし苦しいが",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "心、間髪、簡易一発で避けきって",
+      "corrected": "紙一重、間一髪、間一髪で避けきって",
+      "rule": "whisper_misrecognition"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "id": "70f6f827-43a3-4623-978e-75e3cbae9321",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.18,
+      "text": "That's the smash right there!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "スマッシュ見せたみーや"
+    },
+    {
+      "start": 1.18,
+      "end": 2.48,
+      "text": "Now Mute Ace!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあミュートエース"
+    },
+    {
+      "start": 2.48,
+      "end": 5.52,
+      "text": "Won't get caught now!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "もう引っかからんぞと"
+    },
+    {
+      "start": 5.52,
+      "end": 8.22,
+      "text": "Going for the grab and keeping up the pressure!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "つかみにいってプレッシャーをかけ続けて"
+    },
+    {
+      "start": 8.22,
+      "end": 9.66,
+      "text": "Did he escape?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "うそ越えたのか"
+    },
+    {
+      "start": 9.66,
+      "end": 12.54,
+      "text": "Wait, one more edgeguard!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いやそこでもう一回復帰阻止"
+    }
+  ],
+  "full_text": "That's the smash right there! Now Mute Ace! Won't get caught now! Going for the grab and keeping up the pressure! Did he escape? Wait, one more edgeguard!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_index": 4,
+      "original": "うそ超えずのか",
+      "corrected": "うそ越えたのか"
+    }
+  ]
+}

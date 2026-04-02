@@ -1,0 +1,51 @@
+{
+  "id": "d53527f5-193c-4479-886e-a9fbd75e08d0",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.64,
+      "text": "きた 上投げを撃墜するんだ上投げこのパーセントでも撃墜と",
+      "language": "ja"
+    },
+    {
+      "start": 6.64,
+      "end": 13.88,
+      "text": "さあ両者完全に5分の状況で3ストック目 ちゃんと潰れてたからいっぱい入るよ",
+      "language": "ja"
+    },
+    {
+      "start": 13.88,
+      "end": 20.44,
+      "text": "高い火力66% このアーク(横B)の追い方はMkLeoというところですが",
+      "language": "ja"
+    },
+    {
+      "start": 20.44,
+      "end": 26.4,
+      "text": "めっちゃむずい 空中ヘッダーからね空後狙いたかったんですがここは横追い",
+      "language": "ja"
+    }
+  ],
+  "full_text": "きた 上投げを撃墜するんだ上投げこのパーセントでも撃墜と さあ両者完全に5分の状況で3ストック目 ちゃんと潰れてたからいっぱい入るよ 高い火力66% このアーク(横B)の追い方はMkLeoというところですが めっちゃむずい 空中ヘッダーからね空後狙いたかったんですがここは横追い",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "このRCAのお使いはMKローモ",
+      "corrected": "このアーク(横B)の追い方はMkLeo",
+      "rule": "player name + smash term (RCA→アーク横B, MKローモ→MkLeo)"
+    },
+    {
+      "segment_idx": 3,
+      "original": "空中シロ狙いたかった",
+      "corrected": "空後狙いたかった",
+      "rule": "smash term (空中シロ→空後)"
+    },
+    {
+      "segment_idx": 3,
+      "original": "ここは横尾",
+      "corrected": "ここは横追い",
+      "rule": "mishearing (横尾→横追い)"
+    }
+  ]
+}

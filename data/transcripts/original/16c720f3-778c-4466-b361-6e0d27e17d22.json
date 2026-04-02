@@ -1,0 +1,33 @@
+{
+  "id": "16c720f3-778c-4466-b361-6e0d27e17d22",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.56,
+      "text": "変えてくれないのでこのパー弱弱ダンク耐えるはずもなく本体だけになってしまった",
+      "language": "ja"
+    },
+    {
+      "start": 4.56,
+      "end": 7.46,
+      "text": "さあ回避上がりに対応した下強",
+      "language": "ja"
+    }
+  ],
+  "full_text": "変えてくれないのでこのパー弱弱ダンク耐えるはずもなく本体だけになってしまった さあ回避上がりに対応した下強",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "変してくれないので",
+      "corrected": "変えてくれないので",
+      "rule": "Garbled transcription cleanup"
+    },
+    {
+      "segment_idx": 1,
+      "original": "さあ回帰上がりに対応した下凶器",
+      "corrected": "さあ回避上がりに対応した下強",
+      "rule": "Kanji homophone: 回帰→回避; 下凶器→下強"
+    }
+  ]
+}

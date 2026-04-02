@@ -1,0 +1,92 @@
+{
+  "id": "5b8d5ee6-74bd-4737-9d73-94525ffc7a42",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.62,
+      "text": "The leader's creativity is just insane!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "リーダーの発想力にはどう度肝を抜かれるばかり"
+    },
+    {
+      "start": 3.62,
+      "end": 7.34,
+      "text": "While handling that dash attack...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ダッシュ攻撃を捌いている間が"
+    },
+    {
+      "start": 7.34,
+      "end": 8.62,
+      "text": "That won't reach",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これは届かないですね"
+    },
+    {
+      "start": 8.62,
+      "end": 9.84,
+      "text": "DI away and it's still out of range",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "届かないベクトル変更"
+    },
+    {
+      "start": 9.84,
+      "end": 11.58,
+      "text": "Is there DI up being input?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "上側変更が入っているでしょうか"
+    },
+    {
+      "start": 11.58,
+      "end": 11.92,
+      "text": "But...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ただ"
+    },
+    {
+      "start": 11.92,
+      "end": 12.78,
+      "text": "This is confirmed!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これは確定します"
+    },
+    {
+      "start": 12.78,
+      "end": 14.04,
+      "text": "In neutral, on the other hand...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "逆にニュートラルに対して"
+    }
+  ],
+  "full_text": "The leader's creativity is just insane! While handling that dash attack... That won't reach DI away and it's still out of range Is there DI up being input? But... This is confirmed! In neutral, on the other hand...",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "どう疑問を抜かれる",
+      "corrected": "度肝を抜かれる",
+      "rule": "kanji homophone"
+    },
+    {
+      "segment_idx": 1,
+      "original": "出し攻撃",
+      "corrected": "ダッシュ攻撃",
+      "rule": "misheard word"
+    },
+    {
+      "segment_idx": 7,
+      "original": "逆中ニュートラル",
+      "corrected": "逆にニュートラル",
+      "rule": "misheard word"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "a1667d37-b23d-423d-84d3-491632585f80",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.8,
+      "text": "Yeah, and when that Blaze Edge flies in where they're trying to position themselves...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そうですねそして資材を掘りたいところにこのブレイズエンドが飛んでくると"
+    },
+    {
+      "start": 3.8,
+      "end": 7.42,
+      "text": "Yeah, with the platform there, they can hit from the side",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そう地面はあるか横から叩ける"
+    },
+    {
+      "start": 7.42,
+      "end": 9.5,
+      "text": "Serious whiff—but they landed it again anyway!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "マジミスオスナエンもう一回当てちゃった"
+    }
+  ],
+  "full_text": "Yeah, and when that Blaze Edge flies in where they're trying to position themselves... Yeah, with the platform there, they can hit from the side Serious whiff—but they landed it again anyway!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

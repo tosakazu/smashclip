@@ -1,0 +1,27 @@
+{
+  "id": "fd85c1a4-397b-449d-b281-14ec5c125504",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 11.2,
+      "text": "Super duck, 136, but okay, great down throw, great conversion right there with the up airs, but the down air, the random down air, and the key of...",
+      "language": "en"
+    }
+  ],
+  "full_text": "Super duck, 136, but okay, great down throw, great conversion right there with the up airs, but the down air, the random down air, and the key of...",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "uppers",
+      "corrected": "up airs",
+      "rule": "smash term"
+    },
+    {
+      "segment_idx": 0,
+      "original": "downer, the random downer",
+      "corrected": "down air, the random down air",
+      "rule": "smash term"
+    }
+  ]
+}

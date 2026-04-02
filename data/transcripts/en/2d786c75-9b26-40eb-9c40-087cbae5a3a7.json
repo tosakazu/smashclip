@@ -1,0 +1,44 @@
+{
+  "id": "2d786c75-9b26-40eb-9c40-087cbae5a3a7",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.68,
+      "text": "Baited them out! Side B—not confirmed, but landing out of shield!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "釣り出した そして横B 確定はしてないものの ガード外に刺さっている"
+    },
+    {
+      "start": 5.68,
+      "end": 12.38,
+      "text": "Nair mash comes through—insanely low endlag! Momentum's completely shifted!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空N暴れが間に合って これはかなり後隙が少ない 入れ替わった展開"
+    }
+  ],
+  "full_text": "Baited them out! Side B—not confirmed, but landing out of shield! Nair mash comes through—insanely low endlag! Momentum's completely shifted!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "陽光B",
+      "corrected": "横B",
+      "rule": "kanji: 陽光→横"
+    },
+    {
+      "segment_idx": 0,
+      "original": "ガードサイドに刺さっている",
+      "corrected": "ガード外に刺さっている",
+      "rule": "misheard: サイド→外"
+    },
+    {
+      "segment_idx": 1,
+      "original": "空中へ暴れ",
+      "corrected": "空N暴れ",
+      "rule": "move: 空中へ→空N"
+    }
+  ]
+}

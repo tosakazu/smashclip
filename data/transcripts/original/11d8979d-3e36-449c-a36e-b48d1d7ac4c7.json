@@ -1,0 +1,63 @@
+{
+  "id": "11d8979d-3e36-449c-a36e-b48d1d7ac4c7",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "text": "おーまた集まってたという",
+      "language": "ja"
+    },
+    {
+      "start": 1.0,
+      "end": 2.16,
+      "text": "おー両方が出てる",
+      "language": "ja"
+    },
+    {
+      "start": 2.16,
+      "end": 5.84,
+      "text": "さあ先ほどとは打って変わって",
+      "language": "ja"
+    },
+    {
+      "start": 5.84,
+      "end": 7.64,
+      "text": "丸々実績大きくリードを取っているのは",
+      "language": "ja"
+    },
+    {
+      "start": 7.64,
+      "end": 8.6,
+      "text": "夕星選手のスネーク",
+      "language": "ja"
+    },
+    {
+      "start": 8.6,
+      "end": 10.9,
+      "text": "上強ここで打ってきました",
+      "language": "ja"
+    },
+    {
+      "start": 10.9,
+      "end": 11.78,
+      "text": "今",
+      "language": "ja"
+    }
+  ],
+  "full_text": "おーまた集まってたという おー両方が出てる さあ先ほどとは打って変わって 丸々実績大きくリードを取っているのは 夕星選手のスネーク 上強ここで打ってきました 今",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 4,
+      "original": "ユージス選手のステーク",
+      "corrected": "夕星選手のスネーク",
+      "rule": "Player/Character name: ユージス→夕星, ステーク→スネーク"
+    },
+    {
+      "segment_idx": 5,
+      "original": "上京ここで打ってきました",
+      "corrected": "上強ここで打ってきました",
+      "rule": "Kanji homophone: 上京→上強 (up tilt)"
+    }
+  ]
+}

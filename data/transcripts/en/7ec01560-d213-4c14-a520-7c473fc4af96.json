@@ -1,0 +1,60 @@
+{
+  "id": "7ec01560-d213-4c14-a520-7c473fc4af96",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.96,
+      "text": "Shutting down Robot's recovery from above with up air!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ロボットが上から帰るのも空上で許さない"
+    },
+    {
+      "start": 2.96,
+      "end": 5.1,
+      "text": "As Yaura backs up a step",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "Yauraが一歩引いたところで"
+    },
+    {
+      "start": 5.1,
+      "end": 7.8,
+      "text": "Positioned to handle any option",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "あらゆる択に対して対応できる位置で待っている"
+    },
+    {
+      "start": 7.8,
+      "end": 10.42,
+      "text": "Solid up tilt!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "上強をしっかりと"
+    }
+  ],
+  "full_text": "Shutting down Robot's recovery from above with up air! As Yaura backs up a step Positioned to handle any option Solid up tilt!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "空中上",
+      "corrected": "空上",
+      "rule": "abbreviation: 空中上→空上"
+    },
+    {
+      "segment_idx": 1,
+      "original": "矢浦",
+      "corrected": "Yaura",
+      "rule": "player name: 矢浦→Yaura"
+    },
+    {
+      "segment_idx": 2,
+      "original": "タク",
+      "corrected": "択",
+      "rule": "katakana→kanji: タク→択"
+    }
+  ]
+}

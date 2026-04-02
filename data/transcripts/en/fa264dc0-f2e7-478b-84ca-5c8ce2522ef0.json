@@ -1,0 +1,60 @@
+{
+  "id": "fa264dc0-f2e7-478b-84ca-5c8ce2522ef0",
+  "segments": [
+    {
+      "start": 0.66,
+      "end": 1.6,
+      "text": "Right here!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "よっとここで"
+    },
+    {
+      "start": 1.6,
+      "end": 4.72,
+      "text": "Got sent up but they're still in!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "浮かされとりましたがまだ大丈夫"
+    },
+    {
+      "start": 4.72,
+      "end": 6.52,
+      "text": "Capsule comes in clutch!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "カプセルがありがたい"
+    },
+    {
+      "start": 6.52,
+      "end": 7.26,
+      "text": "dair!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空下"
+    }
+  ],
+  "full_text": "Right here! Got sent up but they're still in! Capsule comes in clutch! dair!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "予告させとりましたが",
+      "corrected": "浮かされとりましたが",
+      "rule": "misheard"
+    },
+    {
+      "segment_idx": 2,
+      "original": "キャプセル",
+      "corrected": "カプセル",
+      "rule": "misheard"
+    },
+    {
+      "segment_idx": 3,
+      "original": "空中した",
+      "corrected": "空下",
+      "rule": "misheard: 空中した→空下"
+    }
+  ]
+}

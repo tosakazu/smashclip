@@ -1,0 +1,44 @@
+{
+  "id": "0c4162b3-e4d8-42f2-bd0e-b6f4849fde81",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.94,
+      "text": "And just neck and neck between these guys.",
+      "language": "en"
+    },
+    {
+      "start": 3.14,
+      "end": 5.36,
+      "text": "But Ball draws first blood and now.",
+      "language": "en"
+    },
+    {
+      "start": 5.8,
+      "end": 7.44,
+      "text": "Now he's got to deal with this scary Lucario.",
+      "language": "en"
+    },
+    {
+      "start": 7.78,
+      "end": 8.9,
+      "text": "Got to get him out now.",
+      "language": "en"
+    },
+    {
+      "start": 9.3,
+      "end": 9.84,
+      "text": "Yeah, he did.",
+      "language": "en"
+    },
+    {
+      "start": 10.1,
+      "end": 10.38,
+      "text": "All right.",
+      "language": "en"
+    }
+  ],
+  "full_text": "And just neck and neck between these guys. But Ball draws first blood and now. Now he's got to deal with this scary Lucario. Got to get him out now. Yeah, he did. All right.",
+  "detected_language": "en",
+  "corrections": []
+}

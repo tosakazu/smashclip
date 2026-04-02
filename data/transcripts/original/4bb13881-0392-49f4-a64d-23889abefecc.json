@@ -1,0 +1,45 @@
+{
+  "id": "4bb13881-0392-49f4-a64d-23889abefecc",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.32,
+      "text": "よけながら",
+      "language": "ja"
+    },
+    {
+      "start": 4.32,
+      "end": 6.28,
+      "text": "これきつい",
+      "language": "ja"
+    },
+    {
+      "start": 6.28,
+      "end": 7.92,
+      "text": "帰りはするか",
+      "language": "ja"
+    },
+    {
+      "start": 7.92,
+      "end": 9.46,
+      "text": "ただ空後",
+      "language": "ja"
+    },
+    {
+      "start": 9.46,
+      "end": 10.44,
+      "text": "どう帰るこれ",
+      "language": "ja"
+    }
+  ],
+  "full_text": "よけながら これきつい 帰りはするか ただ空後 どう帰るこれ",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 3,
+      "original": "空中しろ",
+      "corrected": "空後",
+      "rule": "move abbreviation (空中後ろ→空後)"
+    }
+  ]
+}

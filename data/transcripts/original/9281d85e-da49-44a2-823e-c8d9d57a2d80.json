@@ -1,0 +1,87 @@
+{
+  "id": "9281d85e-da49-44a2-823e-c8d9d57a2d80",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.58,
+      "text": "対応していきます",
+      "language": "ja"
+    },
+    {
+      "start": 0.58,
+      "end": 4.3,
+      "text": "さあ自分からまずは振っていく展開が多かったNeo選手ですが",
+      "language": "ja"
+    },
+    {
+      "start": 4.3,
+      "end": 6.64,
+      "text": "反撃の形からも撃墜を出していくことができるか",
+      "language": "ja"
+    },
+    {
+      "start": 6.64,
+      "end": 8.44,
+      "text": "あっとお外に",
+      "language": "ja"
+    },
+    {
+      "start": 8.44,
+      "end": 9.52,
+      "text": "飛んで",
+      "language": "ja"
+    },
+    {
+      "start": 9.52,
+      "end": 11.44,
+      "text": "今度はN",
+      "language": "ja"
+    },
+    {
+      "start": 11.44,
+      "end": 14.88,
+      "text": "ダメージ優先という形で",
+      "language": "ja"
+    },
+    {
+      "start": 14.88,
+      "end": 16.12,
+      "text": "クエルクーゴ",
+      "language": "ja"
+    },
+    {
+      "start": 16.12,
+      "end": 18.5,
+      "text": "アイクヤン",
+      "language": "ja"
+    },
+    {
+      "start": 18.5,
+      "end": 19.08,
+      "text": "からの",
+      "language": "ja"
+    },
+    {
+      "start": 19.08,
+      "end": 23.08,
+      "text": "2フレーム絶対逃さないマンがここにいます",
+      "language": "ja"
+    }
+  ],
+  "full_text": "対応していきます さあ自分からまずは振っていく展開が多かったNeo選手ですが 反撃の形からも撃墜を出していくことができるか あっとお外に 飛んで 今度はN ダメージ優先という形で クエルクーゴ アイクヤン からの 2フレーム絶対逃さないマンがここにいます",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "多かったの選手",
+      "corrected": "多かったNeo選手",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 2,
+      "original": "軽くを出していく",
+      "corrected": "撃墜を出していく",
+      "rule": "kanji homophone (軽く→撃墜)"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "cbb56995-e7bc-49ab-861b-e06b45e8be96",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.3,
+      "text": "突破ならば スカし着地先ほどからザクレイ選手見せてますが",
+      "language": "ja"
+    }
+  ],
+  "full_text": "突破ならば スカし着地先ほどからザクレイ選手見せてますが",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "スカッシュ着地",
+      "corrected": "スカし着地",
+      "rule": "smash term (空振り着地)"
+    },
+    {
+      "segment_idx": 0,
+      "original": "ザクレ",
+      "corrected": "ザクレイ",
+      "rule": "player name"
+    }
+  ]
+}

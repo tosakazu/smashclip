@@ -1,0 +1,207 @@
+{
+  "id": "134d20c1-3ce0-4465-8a05-38638ea61f28",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.66,
+      "text": "木ツールが弱いまま",
+      "language": "ja"
+    },
+    {
+      "start": 2.66,
+      "end": 6.36,
+      "text": "ルイージのこのダイヤモンドの掴みと戦わなくてはいけないが",
+      "language": "ja"
+    },
+    {
+      "start": 6.36,
+      "end": 7.56,
+      "text": "こちらも掴んだ",
+      "language": "ja"
+    },
+    {
+      "start": 7.56,
+      "end": 9.2,
+      "text": "ワイヤー掴み同士のやり合いだが",
+      "language": "ja"
+    },
+    {
+      "start": 9.2,
+      "end": 10.5,
+      "text": "その場からガブリと",
+      "language": "ja"
+    },
+    {
+      "start": 10.5,
+      "end": 12.2,
+      "text": "コンボが伸びて69",
+      "language": "ja"
+    },
+    {
+      "start": 12.2,
+      "end": 13.88,
+      "text": "空中後ろからダウン展開",
+      "language": "ja"
+    },
+    {
+      "start": 13.88,
+      "end": 15.7,
+      "text": "起き攻めしっかり空後",
+      "language": "ja"
+    },
+    {
+      "start": 15.7,
+      "end": 16.92,
+      "text": "ベクトル変更完璧だった",
+      "language": "ja"
+    },
+    {
+      "start": 16.92,
+      "end": 18.8,
+      "text": "からのからのとこブロック",
+      "language": "ja"
+    },
+    {
+      "start": 18.8,
+      "end": 20.28,
+      "text": "からのからの鉄ブロック",
+      "language": "ja"
+    },
+    {
+      "start": 20.28,
+      "end": 21.92,
+      "text": "さらに進行を乗り越えたが",
+      "language": "ja"
+    },
+    {
+      "start": 21.92,
+      "end": 23.24,
+      "text": "さらに侵攻を乗り越えたが",
+      "language": "ja"
+    },
+    {
+      "start": 23.24,
+      "end": 24.64,
+      "text": "1フレーム択で暴れていく",
+      "language": "ja"
+    },
+    {
+      "start": 24.64,
+      "end": 26.32,
+      "text": "投げを通ると",
+      "language": "ja"
+    },
+    {
+      "start": 26.32,
+      "end": 27.78,
+      "text": "空中後ろ",
+      "language": "ja"
+    },
+    {
+      "start": 27.78,
+      "end": 28.82,
+      "text": "繰り出され",
+      "language": "ja"
+    },
+    {
+      "start": 28.82,
+      "end": 29.72,
+      "text": "今の絵",
+      "language": "ja"
+    },
+    {
+      "start": 29.72,
+      "end": 31.2,
+      "text": "無ベク変ですよ今の",
+      "language": "ja"
+    },
+    {
+      "start": 31.2,
+      "end": 33.64,
+      "text": "外側ベクトル変更に対しての空後なんですけれども",
+      "language": "ja"
+    },
+    {
+      "start": 33.64,
+      "end": 35.26,
+      "text": "無ベク変に対して持っていきましたね",
+      "language": "ja"
+    },
+    {
+      "start": 35.26,
+      "end": 36.68,
+      "text": "まさしくその通り",
+      "language": "ja"
+    }
+  ],
+  "full_text": "木ツールが弱いまま ルイージのこのダイヤモンドの掴みと戦わなくてはいけないが こちらも掴んだ ワイヤー掴み同士のやり合いだが その場からガブリと コンボが伸びて69 空中後ろからダウン展開 起き攻めしっかり空後 ベクトル変更完璧だった からのからのとこブロック からのからの鉄ブロック さらに進行を乗り越えたが さらに侵攻を乗り越えたが 1フレーム択で暴れていく 投げを通ると 空中後ろ 繰り出され 今の絵 無ベク変ですよ今の 外側ベクトル変更に対しての空後なんですけれども 無ベク変に対して持っていきましたね まさしくその通り",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "今日ツールが弱いまま",
+      "corrected": "木ツールが弱いまま",
+      "rule": "Whisper mishearing: 今日→木 (Steve's wood tools)"
+    },
+    {
+      "segment_idx": 4,
+      "original": "その場からガフリンス",
+      "corrected": "その場からガブリと",
+      "rule": "Whisper mishearing: ガフリンス→ガブリと (grabbed)"
+    },
+    {
+      "segment_idx": 5,
+      "original": "コウモが伸びて69",
+      "corrected": "コンボが伸びて69",
+      "rule": "Whisper mishearing: コウモ→コンボ"
+    },
+    {
+      "segment_idx": 7,
+      "original": "気まずい初期を上気を空中後ろ",
+      "corrected": "起き攻めしっかり空後",
+      "rule": "Whisper mishearing: 気まずい初期を上気を→起き攻めしっかり; 空中後ろ→空後"
+    },
+    {
+      "segment_idx": 10,
+      "original": "からのからのとこブロック",
+      "corrected": "からのからの鉄ブロック",
+      "rule": "Whisper mishearing: とこ→鉄 (Steve's iron block)"
+    },
+    {
+      "segment_idx": 12,
+      "original": "さらに進行を乗り越えたが",
+      "corrected": "さらに侵攻を乗り越えたが",
+      "rule": "Kanji homophone: 進行→侵攻 (offensive pressure)"
+    },
+    {
+      "segment_idx": 13,
+      "original": "1フレーム的で暴れていく",
+      "corrected": "1フレーム択で暴れていく",
+      "rule": "Kanji homophone: 的→択 (option/mixup)"
+    },
+    {
+      "segment_idx": 16,
+      "original": "くりつかれ",
+      "corrected": "繰り出され",
+      "rule": "Whisper mishearing: くりつかれ→繰り出され"
+    },
+    {
+      "segment_idx": 18,
+      "original": "無べき絵ですよ今の",
+      "corrected": "無ベク変ですよ今の",
+      "rule": "Smash terminology: 無べき絵→無ベク変 (no DI)"
+    },
+    {
+      "segment_idx": 19,
+      "original": "外側ベクトル変更に対しての空中後ろ絵なんですけれども",
+      "corrected": "外側ベクトル変更に対しての空後なんですけれども",
+      "rule": "Move abbreviation: 空中後ろ絵→空後"
+    },
+    {
+      "segment_idx": 20,
+      "original": "無べき絵に対して持っていきましたね",
+      "corrected": "無ベク変に対して持っていきましたね",
+      "rule": "Smash terminology: 無べき絵→無ベク変 (no DI)"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "ab8eda76-b3a9-4266-8a19-66dfaacfa377",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.06,
+      "text": "Power smash is not going to connect, the backhand of the first offstage situation",
+      "language": "en"
+    },
+    {
+      "start": 3.06,
+      "end": 7.42,
+      "text": "Rarou gets the misfire on the first time, and it's actually going to cost him the stock",
+      "language": "en"
+    },
+    {
+      "start": 7.42,
+      "end": 8.6,
+      "text": "He's the bastard",
+      "language": "en"
+    }
+  ],
+  "full_text": "Power smash is not going to connect, the backhand of the first offstage situation Rarou gets the misfire on the first time, and it's actually going to cost him the stock He's the bastard",
+  "detected_language": "en",
+  "corrections": []
+}

@@ -1,0 +1,86 @@
+{
+  "id": "be66c650-9ed4-4264-b703-96edf5923c80",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.2,
+      "text": "Who takes game 1?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "第1戦取るのはどちらになるでしょうか"
+    },
+    {
+      "start": 2.2,
+      "end": 3.7,
+      "text": "So to start things off",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "まず最初はね"
+    },
+    {
+      "start": 3.7,
+      "end": 5.14,
+      "text": "Kazuhito's Chrom",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "カズヒト選手のクロムが"
+    },
+    {
+      "start": 5.14,
+      "end": 7.94,
+      "text": "Solid offense at around 100 percent damage",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "堂々の攻め上げ100%ほどの"
+    },
+    {
+      "start": 7.94,
+      "end": 10.26,
+      "text": "Behind and could get KO'd at any second",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ビハインドいつ撃墜してもおかしくはない"
+    },
+    {
+      "start": 10.26,
+      "end": 11.78,
+      "text": "Weak bair just barely whiffed",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "弱空後はギリギリ届かなかった"
+    },
+    {
+      "start": 11.78,
+      "end": 13.52,
+      "text": "Even with Pokemon Stadium 2 being so wide,",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "このスタジアム2の横幅が広いが"
+    },
+    {
+      "start": 13.52,
+      "end": 14.36,
+      "text": "Ledge getup",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "崖上がり"
+    }
+  ],
+  "full_text": "Who takes game 1? So to start things off Kazuhito's Chrom Solid offense at around 100 percent damage Behind and could get KO'd at any second Weak bair just barely whiffed Even with Pokemon Stadium 2 being so wide, Ledge getup",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 5,
+      "original": "弱空母は",
+      "corrected": "弱空後は",
+      "rule": "smash term"
+    },
+    {
+      "segment_idx": 7,
+      "original": "駆け上がり",
+      "corrected": "崖上がり",
+      "rule": "smash term"
+    }
+  ]
+}

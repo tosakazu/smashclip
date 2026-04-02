@@ -1,0 +1,33 @@
+{
+  "id": "8f641c01-f001-4fbb-89d9-bb8fc72db23a",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.96,
+      "text": "さあ台上で待ってるのはマイルドなH.O",
+      "language": "ja"
+    },
+    {
+      "start": 6.96,
+      "end": 8.42,
+      "text": "ここで空中射撃",
+      "language": "ja"
+    }
+  ],
+  "full_text": "さあ台上で待ってるのはマイルドなH.O ここで空中射撃",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "大上",
+      "corrected": "台上",
+      "rule": "kanji homophone"
+    },
+    {
+      "segment_idx": 0,
+      "original": "舞穂川",
+      "corrected": "マイルドなH.O",
+      "rule": "player name"
+    }
+  ]
+}

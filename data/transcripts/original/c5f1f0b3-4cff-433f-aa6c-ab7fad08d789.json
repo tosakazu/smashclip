@@ -1,0 +1,33 @@
+{
+  "id": "c5f1f0b3-4cff-433f-aa6c-ab7fad08d789",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.92,
+      "text": "あっ ロケット頭突きになってしまった",
+      "language": "ja"
+    },
+    {
+      "start": 3.92,
+      "end": 7.6,
+      "text": "そして空後でスカッと",
+      "language": "ja"
+    }
+  ],
+  "full_text": "あっ ロケット頭突きになってしまった そして空後でスカッと",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "ロケット術気になってしまった",
+      "corrected": "ロケット頭突きになってしまった",
+      "rule": "misheard move name (Pichu skull bash)"
+    },
+    {
+      "segment_idx": 1,
+      "original": "カーボートスクッチ",
+      "corrected": "空後でスカッと",
+      "rule": "misheard move + expression"
+    }
+  ]
+}

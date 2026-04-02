@@ -1,0 +1,38 @@
+{
+  "id": "e5dd8cbb-9680-4738-876d-a74a0a594e64",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.3,
+      "text": "So we're just shutting down his options",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "やりたい行動を潰していこうというところでしょうか"
+    },
+    {
+      "start": 2.3,
+      "end": 4.3,
+      "text": "Was looking to land that up smash",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "上スマ打ちたき"
+    }
+  ],
+  "full_text": "So we're just shutting down his options Was looking to land that up smash",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "やりたいコードを潰していこう",
+      "corrected": "やりたい行動を潰していこう",
+      "rule": "misheard: 行動"
+    },
+    {
+      "segment_idx": 1,
+      "original": "うえつまし打ちたき",
+      "corrected": "上スマ打ちたき",
+      "rule": "move abbreviation: 上スマ"
+    }
+  ]
+}

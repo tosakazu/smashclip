@@ -1,0 +1,92 @@
+{
+  "id": "a2069d8c-3f9d-4f5b-9e28-97a631c755d8",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.66,
+      "text": "Dash attack!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ダッシュ攻撃!"
+    },
+    {
+      "start": 1.66,
+      "end": 3.88,
+      "text": "Landing trap off the charged shot!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "チャージショットの着地狩りから!"
+    },
+    {
+      "start": 3.88,
+      "end": 5.78,
+      "text": "Right in the shadows!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここの影!"
+    },
+    {
+      "start": 5.78,
+      "end": 7.22,
+      "text": "Up air! Cutting off the upper route!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空上!上側ルートを塞いで!"
+    },
+    {
+      "start": 7.22,
+      "end": 9.46,
+      "text": "Another up air!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "もう1回空上!"
+    },
+    {
+      "start": 9.46,
+      "end": 11.18,
+      "text": "This is getting insane!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "分からなくなってきた!"
+    },
+    {
+      "start": 11.18,
+      "end": 12.34,
+      "text": "Still up air though!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "とはいえ空上!"
+    },
+    {
+      "start": 12.34,
+      "end": 13.08,
+      "text": "Right now!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここで即!"
+    }
+  ],
+  "full_text": "Dash attack! Landing trap off the charged shot! Right in the shadows! Up air! Cutting off the upper route! Another up air! This is getting insane! Still up air though! Right now!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 3,
+      "original": "空中へ",
+      "corrected": "空上",
+      "rule": "move abbreviation (up air)"
+    },
+    {
+      "segment_idx": 4,
+      "original": "空中へ",
+      "corrected": "空上",
+      "rule": "move abbreviation (up air)"
+    },
+    {
+      "segment_idx": 6,
+      "original": "空中へ",
+      "corrected": "空上",
+      "rule": "move abbreviation (up air)"
+    }
+  ]
+}

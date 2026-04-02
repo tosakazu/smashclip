@@ -1,0 +1,32 @@
+{
+  "id": "5e0ad664-997d-495f-bd4d-79d6d8769711",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.4,
+      "text": "But man, this is looking scary! Really scary!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "だがもういろいろ怖いいろいろ怖い"
+    },
+    {
+      "start": 5.4,
+      "end": 9.94,
+      "text": "Goes to the ledge, edge-traps the neutral getup with forward tilt!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "崖に一旦行くがその場上がりを横強で狩って"
+    }
+  ],
+  "full_text": "But man, this is looking scary! Really scary! Goes to the ledge, edge-traps the neutral getup with forward tilt!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "その場を横強で勝って",
+      "corrected": "その場上がりを横強で狩って",
+      "rule": "smash term (崖上がり狩り)"
+    }
+  ]
+}

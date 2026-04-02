@@ -1,0 +1,64 @@
+{
+  "id": "85983ac3-2c66-4d12-b5e8-1800a0d33c51",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.26,
+      "text": "Same move, no change!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ある動きには変わらない"
+    },
+    {
+      "start": 1.26,
+      "end": 3.02,
+      "text": "Oh! Up air into dair!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "おっと空上から空下"
+    },
+    {
+      "start": 3.02,
+      "end": 3.82,
+      "text": "There it is!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ほら"
+    },
+    {
+      "start": 3.82,
+      "end": 4.8,
+      "text": "Whoa!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "えー"
+    },
+    {
+      "start": 4.8,
+      "end": 6.02,
+      "text": "That's the KO!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "撃墜している"
+    },
+    {
+      "start": 6.02,
+      "end": 6.88,
+      "text": "And there goes a stock!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあ負けた"
+    }
+  ],
+  "full_text": "Same move, no change! Oh! Up air into dair! There it is! Whoa! That's the KO! And there goes a stock!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "おっと空中上から空中した",
+      "corrected": "おっと空上から空下",
+      "rule": "move abbreviation (空中上→空上, 空中した→空下)"
+    }
+  ]
+}

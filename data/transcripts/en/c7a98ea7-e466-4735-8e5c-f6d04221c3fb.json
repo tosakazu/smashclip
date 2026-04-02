@@ -1,0 +1,33 @@
+{
+  "id": "c7a98ea7-e466-4735-8e5c-f6d04221c3fb",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.92,
+      "text": "There's something!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これは何かある"
+    },
+    {
+      "start": 2.92,
+      "end": 4.92,
+      "text": "against the grounded opponent",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "地上の相手に"
+    },
+    {
+      "start": 4.92,
+      "end": 5.9,
+      "text": "Alright!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "はいどうも"
+    }
+  ],
+  "full_text": "There's something! against the grounded opponent Alright!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

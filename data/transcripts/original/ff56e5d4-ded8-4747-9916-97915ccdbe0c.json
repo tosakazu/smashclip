@@ -1,0 +1,32 @@
+{
+  "id": "ff56e5d4-ded8-4747-9916-97915ccdbe0c",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.08,
+      "text": "昨日破片で",
+      "language": "ja"
+    },
+    {
+      "start": 5.08,
+      "end": 6.0,
+      "text": "あーっと怖いぞ",
+      "language": "ja"
+    },
+    {
+      "start": 6.0,
+      "end": 8.48,
+      "text": "2回目大丈夫か",
+      "language": "ja"
+    },
+    {
+      "start": 8.48,
+      "end": 9.6,
+      "text": "ここは引っこ抜けて",
+      "language": "ja"
+    }
+  ],
+  "full_text": "昨日破片で あーっと怖いぞ 2回目大丈夫か ここは引っこ抜けて",
+  "detected_language": "ja",
+  "corrections": []
+}

@@ -1,0 +1,38 @@
+{
+  "id": "278e97b5-2dbb-4ef5-9267-ec9c431ef90a",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.86,
+      "text": "ベク変が効いていました",
+      "language": "ja"
+    },
+    {
+      "start": 0.86,
+      "end": 5.0,
+      "text": "スピン通していって空前",
+      "language": "ja"
+    },
+    {
+      "start": 5.0,
+      "end": 7.72,
+      "text": "次はどうする?回避は切った",
+      "language": "ja"
+    },
+    {
+      "start": 7.72,
+      "end": 10.32,
+      "text": "空上も使いつつタイミングをずらして",
+      "language": "ja"
+    },
+    {
+      "start": 10.32,
+      "end": 12.62,
+      "text": "ここは戻ってきましたマイルドな",
+      "language": "ja"
+    }
+  ],
+  "full_text": "ベク変が効いていました スピン通していって空前 次はどうする?回避は切った 空上も使いつつタイミングをずらして ここは戻ってきましたマイルドな",
+  "detected_language": "ja",
+  "corrections": []
+}

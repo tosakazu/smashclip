@@ -1,0 +1,39 @@
+{
+  "id": "68b14caf-1282-46f8-a72f-c7edd389e3d6",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.2,
+      "text": "...the stock off unscathed, then AyaLin is in a definitely winning situation, but...",
+      "language": "en"
+    },
+    {
+      "start": 5.2,
+      "end": 5.48,
+      "text": "Damn.",
+      "language": "en"
+    },
+    {
+      "start": 6.42,
+      "end": 9.36,
+      "text": "Sin is making the most out of Sora, the moment, but not bad.",
+      "language": "en"
+    }
+  ],
+  "full_text": "...the stock off unscathed, then AyaLin is in a definitely winning situation, but... Damn. Sin is making the most out of Sora, the moment, but not bad.",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "Ireland",
+      "corrected": "AyaLin",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 2,
+      "original": "Sid",
+      "corrected": "Sin",
+      "rule": "player name"
+    }
+  ]
+}

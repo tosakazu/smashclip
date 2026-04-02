@@ -1,0 +1,33 @@
+{
+  "id": "cb41e4c1-de9b-43ec-9e97-20d060b8f7e7",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.06,
+      "text": "That's also annoying",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これもちょっと鬱陶しい"
+    },
+    {
+      "start": 2.06,
+      "end": 3.84,
+      "text": "Purple Pikmin!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあ紫ピクミン"
+    },
+    {
+      "start": 3.84,
+      "end": 5.12,
+      "text": "Back air!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空中後ろ"
+    }
+  ],
+  "full_text": "That's also annoying Purple Pikmin! Back air!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

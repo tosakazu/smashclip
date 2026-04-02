@@ -1,0 +1,39 @@
+{
+  "id": "b8f37146-51e8-4168-afd8-71488275a5a3",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.92,
+      "text": "damage 47% Gluto he's gonna need that second stock if he wants to come back",
+      "language": "en"
+    },
+    {
+      "start": 4.92,
+      "end": 8.46,
+      "text": "into this you see him fishing throwing at that F tilt trying to bait something",
+      "language": "en"
+    },
+    {
+      "start": 8.46,
+      "end": 14.2,
+      "text": "with the double jump finally down to a dash attack we've got a game",
+      "language": "en"
+    }
+  ],
+  "full_text": "damage 47% Gluto he's gonna need that second stock if he wants to come back into this you see him fishing throwing at that F tilt trying to bait something with the double jump finally down to a dash attack we've got a game",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "Ludo",
+      "corrected": "Gluto",
+      "rule": "Whisper error"
+    },
+    {
+      "segment_idx": 0,
+      "original": "second walk",
+      "corrected": "second stock",
+      "rule": "Whisper error"
+    }
+  ]
+}

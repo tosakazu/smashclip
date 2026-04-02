@@ -1,0 +1,48 @@
+{
+  "id": "98975253-dfb1-402c-89a1-ff2583ae5876",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.94,
+      "text": "That hitstop creates a juggle situation!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "それによってヒットストップ生まれて着地狩りの展開が作られる"
+    },
+    {
+      "start": 3.94,
+      "end": 5.3,
+      "text": "Watch the directional airdodge!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "移動回避まで見て"
+    },
+    {
+      "start": 5.3,
+      "end": 8.96,
+      "text": "Keeping that mental tight with the stock lead",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ストックリードのメンタルを強く持っているが"
+    },
+    {
+      "start": 8.96,
+      "end": 10.52,
+      "text": "Racing back to ledge!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "崖が走ってきた"
+    }
+  ],
+  "full_text": "That hitstop creates a juggle situation! Watch the directional airdodge! Keeping that mental tight with the stock lead Racing back to ledge!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "凝視",
+      "corrected": "見て",
+      "rule": "kanji homophone"
+    }
+  ]
+}

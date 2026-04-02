@@ -1,0 +1,63 @@
+{
+  "id": "6b2492d4-f329-4a22-8392-e9aba49a6e7f",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.12,
+      "text": "バナナを当てて後ろ投げ",
+      "language": "ja"
+    },
+    {
+      "start": 2.12,
+      "end": 7.04,
+      "text": "バナナが邪魔で空後が当たってしまう",
+      "language": "ja"
+    },
+    {
+      "start": 7.04,
+      "end": 10.16,
+      "text": "次の上がりをどうする攻撃上がり長くて助かった",
+      "language": "ja"
+    },
+    {
+      "start": 10.16,
+      "end": 15.38,
+      "text": "弱下強から下強そして上スマッシュ",
+      "language": "ja"
+    },
+    {
+      "start": 15.38,
+      "end": 17.9,
+      "text": "ただ体重の重さが功を奏している",
+      "language": "ja"
+    },
+    {
+      "start": 17.9,
+      "end": 19.74,
+      "text": "ここは空後を当てて後ろ投げ",
+      "language": "ja"
+    }
+  ],
+  "full_text": "バナナを当てて後ろ投げ バナナが邪魔で空後が当たってしまう 次の上がりをどうする攻撃上がり長くて助かった 弱下強から下強そして上スマッシュ ただ体重の重さが功を奏している ここは空後を当てて後ろ投げ",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "空中白",
+      "corrected": "空後",
+      "rule": "kanji homophone (しろ→後)"
+    },
+    {
+      "segment_idx": 5,
+      "original": "空中白が当てて",
+      "corrected": "空後を当てて",
+      "rule": "kanji homophone (しろ→後)"
+    },
+    {
+      "segment_idx": 4,
+      "original": "高を奏",
+      "corrected": "功を奏",
+      "rule": "kanji homophone"
+    }
+  ]
+}

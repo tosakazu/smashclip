@@ -1,0 +1,64 @@
+{
+  "id": "325fb00a-8a98-4940-b24e-41aae63ed522",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.58,
+      "text": "Side B",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "横必殺技"
+    },
+    {
+      "start": 1.58,
+      "end": 3.3,
+      "text": "Even if parried...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "なるほどジャストシールドされても"
+    },
+    {
+      "start": 3.3,
+      "end": 5.34,
+      "text": "with the multi-hits, should be safe",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "この多段攻撃ならば大丈夫だろうと"
+    },
+    {
+      "start": 5.34,
+      "end": 8.06,
+      "text": "baits the shield and grabs!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "先をガードさせたところを確認して掴んで"
+    },
+    {
+      "start": 8.06,
+      "end": 10.16,
+      "text": "throw into up air doesn't quite connect",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "投げを空上ギリギリ繋ぎ切れず"
+    },
+    {
+      "start": 10.16,
+      "end": 11.04,
+      "text": "but still catches him!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "しかし拾った"
+    }
+  ],
+  "full_text": "Side B Even if parried... with the multi-hits, should be safe baits the shield and grabs! throw into up air doesn't quite connect but still catches him!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 4,
+      "original": "吹雪を空中上ギリギリ吸い寄せず",
+      "corrected": "投げを空上ギリギリ繋ぎ切れず",
+      "rule": "misheard: 投げ→空上 combo context"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "2f97a74e-917b-47fb-a3da-ca1cb574a91c",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.22,
+      "text": "バナナ落とし、ここにも反応する",
+      "language": "ja"
+    },
+    {
+      "start": 1.22,
+      "end": 2.94,
+      "text": "そこに対して対空で合わせる",
+      "language": "ja"
+    },
+    {
+      "start": 2.94,
+      "end": 4.96,
+      "text": "この崖",
+      "language": "ja"
+    },
+    {
+      "start": 4.96,
+      "end": 7.5,
+      "text": "バナナから空後",
+      "language": "ja"
+    },
+    {
+      "start": 7.5,
+      "end": 9.14,
+      "text": "いやーこの点",
+      "language": "ja"
+    }
+  ],
+  "full_text": "バナナ落とし、ここにも反応する そこに対して対空で合わせる この崖 バナナから空後 いやーこの点",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 3,
+      "original": "空中しろ",
+      "corrected": "空後",
+      "rule": "move name normalization"
+    }
+  ]
+}

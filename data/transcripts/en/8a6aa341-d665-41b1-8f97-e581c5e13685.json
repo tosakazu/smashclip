@@ -1,0 +1,60 @@
+{
+  "id": "8a6aa341-d665-41b1-8f97-e581c5e13685",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.9,
+      "text": "Juggling situation, and the ledge is right there!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "着地狩りの展開、崖もついてきて"
+    },
+    {
+      "start": 1.9,
+      "end": 2.92,
+      "text": "Get that fair out!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空前暴れを通せ"
+    },
+    {
+      "start": 2.92,
+      "end": 4.5,
+      "text": "Tessamus won't take it lying down",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "テシサムス、タダではやられない"
+    },
+    {
+      "start": 4.5,
+      "end": 5.66,
+      "text": "Not giving up the turn",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ターンを通されない"
+    },
+    {
+      "start": 5.66,
+      "end": 8.56,
+      "text": "Backing off for an aerial grab, forcing the shield!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "引いて空グラ、シールド強要"
+    },
+    {
+      "start": 8.56,
+      "end": 10.6,
+      "text": "But there's the finish!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "だがここで、つかしのゴール"
+    }
+  ],
+  "full_text": "Juggling situation, and the ledge is right there! Get that fair out! Tessamus won't take it lying down Not giving up the turn Backing off for an aerial grab, forcing the shield! But there's the finish!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    "クーマヤバレ→空前暴れ (aerial forward flail attack)",
+    "クーグラ→空グラ (aerial grapple beam, Samus's aerial grab)"
+  ]
+}

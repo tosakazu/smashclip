@@ -1,0 +1,32 @@
+{
+  "id": "05990576-ef78-4c6d-b2fa-5e77d7f74699",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Smash!",
+      "language": "en"
+    },
+    {
+      "start": 2.0,
+      "end": 4.0,
+      "text": "Ha!",
+      "language": "en"
+    },
+    {
+      "start": 4.0,
+      "end": 6.0,
+      "text": "Ha!",
+      "language": "en"
+    },
+    {
+      "start": 6.0,
+      "end": 8.0,
+      "text": "Ha!",
+      "language": "en"
+    }
+  ],
+  "full_text": "Smash! Ha! Ha! Ha!",
+  "detected_language": "en",
+  "corrections": []
+}

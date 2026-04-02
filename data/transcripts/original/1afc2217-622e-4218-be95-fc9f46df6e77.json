@@ -1,0 +1,81 @@
+{
+  "id": "1afc2217-622e-4218-be95-fc9f46df6e77",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.9,
+      "text": "ただの展開のうちの上に 片方なんでできないわけですもんね",
+      "language": "ja"
+    },
+    {
+      "start": 2.9,
+      "end": 4.76,
+      "text": "そう、その最初だけだったのかも",
+      "language": "ja"
+    },
+    {
+      "start": 4.76,
+      "end": 5.54,
+      "text": "無理だけど",
+      "language": "ja"
+    },
+    {
+      "start": 5.54,
+      "end": 8.9,
+      "text": "相殺は、まぁあんなわけ相殺より なかなか無いですもんね",
+      "language": "ja"
+    },
+    {
+      "start": 8.9,
+      "end": 10.1,
+      "text": "どうする?",
+      "language": "ja"
+    },
+    {
+      "start": 10.1,
+      "end": 12.06,
+      "text": "まぁ展開のうちの相殺さん なんだろうな",
+      "language": "ja"
+    },
+    {
+      "start": 12.06,
+      "end": 13.0,
+      "text": "上に上に",
+      "language": "ja"
+    },
+    {
+      "start": 13.0,
+      "end": 14.8,
+      "text": "だから同じような ダメージはかさんで",
+      "language": "ja"
+    }
+  ],
+  "full_text": "ただの展開のうちの上に 片方なんでできないわけですもんね そう、その最初だけだったのかも 無理だけど 相殺は、まぁあんなわけ相殺より なかなか無いですもんね どうする? まぁ展開のうちの相殺さん なんだろうな 上に上に だから同じような ダメージはかさんで",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "ただの電話のうちの上に 片浜なんでできないわけですもんね",
+      "corrected": "ただの展開のうちの上に 片方なんでできないわけですもんね",
+      "rule": "Whisper mishearing: 電話→展開, 片浜→片方"
+    },
+    {
+      "segment_idx": 3,
+      "original": "総長は、まぁあんなわけ総長より なかなか無いですもんね",
+      "corrected": "相殺は、まぁあんなわけ相殺より なかなか無いですもんね",
+      "rule": "Whisper kanji homophone: 総長→相殺"
+    },
+    {
+      "segment_idx": 5,
+      "original": "まぁ電話のうちの総長さん なんだろうな",
+      "corrected": "まぁ展開のうちの相殺さん なんだろうな",
+      "rule": "Whisper kanji homophone: 電話→展開, 総長→相殺"
+    },
+    {
+      "segment_idx": 7,
+      "original": "だから同じような タブレはかかして",
+      "corrected": "だから同じような ダメージはかさんで",
+      "rule": "Whisper mishearing: タブレはかかして→ダメージはかさんで"
+    }
+  ]
+}

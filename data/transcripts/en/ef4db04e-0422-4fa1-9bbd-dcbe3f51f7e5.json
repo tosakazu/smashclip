@@ -1,0 +1,57 @@
+{
+  "id": "ef4db04e-0422-4fa1-9bbd-dcbe3f51f7e5",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.8,
+      "text": "He's got wings!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "羽が生えたぞ"
+    },
+    {
+      "start": 1.8,
+      "end": 3.3,
+      "text": "Oh man!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いやー"
+    },
+    {
+      "start": 3.3,
+      "end": 6.02,
+      "text": "Just grab him!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "掴みかければいい"
+    },
+    {
+      "start": 6.02,
+      "end": 7.42,
+      "text": "Wow, that's incredible!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "うわー素晴らしい"
+    },
+    {
+      "start": 7.42,
+      "end": 9.14,
+      "text": "Oh no!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いやー"
+    },
+    {
+      "start": 9.14,
+      "end": 10.7,
+      "text": "Alright, pushing forward",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあ前進していったら"
+    }
+  ],
+  "full_text": "He's got wings! Oh man! Just grab him! Wow, that's incredible! Oh no! Alright, pushing forward",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

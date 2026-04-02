@@ -1,0 +1,51 @@
+{
+  "id": "7b7bad08-814a-4f3b-b5e3-f377ad2b3f59",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.88,
+      "text": "持っていく",
+      "language": "ja"
+    },
+    {
+      "start": 0.88,
+      "end": 9.02,
+      "text": "さあ空Nの",
+      "language": "ja"
+    },
+    {
+      "start": 9.02,
+      "end": 10.08,
+      "text": "被せ合い空前した",
+      "language": "ja"
+    },
+    {
+      "start": 10.08,
+      "end": 12.04,
+      "text": "ジャンプにうまく重ねて",
+      "language": "ja"
+    },
+    {
+      "start": 12.04,
+      "end": 14.26,
+      "text": "重ねる位置だったんですね",
+      "language": "ja"
+    }
+  ],
+  "full_text": "持っていく さあ空Nの 被せ合い空前した ジャンプにうまく重ねて 重ねる位置だったんですね",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "空中ニュートラルの",
+      "corrected": "空Nの",
+      "rule": "abbreviation: 空中ニュートラル→空N"
+    },
+    {
+      "segment_idx": 2,
+      "original": "カブツヤイ空中した",
+      "corrected": "被せ合い空前した",
+      "rule": "misheard: カブツヤイ→被せ合い, 空中→空前 (move is 空前)"
+    }
+  ]
+}

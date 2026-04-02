@@ -1,0 +1,62 @@
+{
+  "id": "7bd1f731-6f54-4d3b-8fa2-a1a1fb04d980",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.76,
+      "text": "Yeah, bair!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "はい空後"
+    },
+    {
+      "start": 3.76,
+      "end": 6.12,
+      "text": "So clean! Insane fair!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "うまいだよめちゃくちゃ空前"
+    },
+    {
+      "start": 6.12,
+      "end": 8.14,
+      "text": "Into",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "からの"
+    },
+    {
+      "start": 8.14,
+      "end": 9.18,
+      "text": "Got it!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "あった"
+    },
+    {
+      "start": 9.18,
+      "end": 11.36,
+      "text": "He's teching but they're still on him!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "受け身取ってるけど追っかけた"
+    }
+  ],
+  "full_text": "Yeah, bair! So clean! Insane fair! Into Got it! He's teching but they're still on him!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "空中しろ",
+      "corrected": "空後",
+      "rule": "misheard: 空中しろ→空後 (くうしろ)"
+    },
+    {
+      "segment_idx": 1,
+      "original": "空中前",
+      "corrected": "空前",
+      "rule": "abbreviation: 空中前→空前"
+    }
+  ]
+}

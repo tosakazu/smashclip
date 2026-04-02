@@ -1,0 +1,97 @@
+{
+  "id": "26ec537a-677e-4c4c-b617-138c0ab15407",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.14,
+      "text": "Is Snow executing his Mario inputs properly?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "Snowのマリオの動きをインプットしているか"
+    },
+    {
+      "start": 2.14,
+      "end": 3.06,
+      "text": "Too high!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "高すぎる"
+    },
+    {
+      "start": 3.06,
+      "end": 4.24,
+      "text": "Monkey Flip!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "モンキーフリップ"
+    },
+    {
+      "start": 4.24,
+      "end": 5.94,
+      "text": "Does he escape here?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここで避け切るか"
+    },
+    {
+      "start": 5.94,
+      "end": 9.08,
+      "text": "Just generating bananas and recovering smoothly",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "お構いなしバナナ生成でゆうゆうと戻れ"
+    },
+    {
+      "start": 9.08,
+      "end": 11.12,
+      "text": "But what about this situation?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "しかしここはどうでしょう"
+    },
+    {
+      "start": 11.12,
+      "end": 13.1,
+      "text": "I don't think it's KO just yet",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "まだギリギリ撃墜はないと思います"
+    },
+    {
+      "start": 13.1,
+      "end": 16.8,
+      "text": "At 154%",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "この%154%"
+    },
+    {
+      "start": 16.8,
+      "end": 18.46,
+      "text": "Barrel Jet to the opposite side",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "バレルジェット反対側に移動する"
+    },
+    {
+      "start": 18.46,
+      "end": 20.84,
+      "text": "Monkey Flip into banana!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "モンキーフリップからバナナですね"
+    },
+    {
+      "start": 20.84,
+      "end": 21.72,
+      "text": "Here in the air",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここで空中"
+    }
+  ],
+  "full_text": "Is Snow executing his Mario inputs properly? Too high! Monkey Flip! Does he escape here? Just generating bananas and recovering smoothly But what about this situation? I don't think it's KO just yet At 154% Barrel Jet to the opposite side Monkey Flip into banana! Here in the air",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

@@ -1,0 +1,39 @@
+{
+  "id": "3127abab-ecc6-46c3-bcb8-56d721aacb78",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.48,
+      "text": "the control the stage but it doesn't matter this is hunting since they have the advantage",
+      "language": "en"
+    },
+    {
+      "start": 4.48,
+      "end": 11.14,
+      "text": "those delayed downers man they are making so much money for Sisqui and that is going to be it yet",
+      "language": "en"
+    },
+    {
+      "start": 11.14,
+      "end": 17.76,
+      "text": "again Sisqui cutting off the jump and finally finally Sisqui finding the coveted option that",
+      "language": "en"
+    }
+  ],
+  "full_text": "the control the stage but it doesn't matter this is hunting since they have the advantage those delayed downers man they are making so much money for Sisqui and that is going to be it yet again Sisqui cutting off the jump and finally finally Sisqui finding the coveted option that",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "siski",
+      "corrected": "Sisqui",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 2,
+      "original": "siski",
+      "corrected": "Sisqui",
+      "rule": "player name"
+    }
+  ]
+}

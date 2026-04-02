@@ -1,0 +1,17 @@
+{
+  "id": "7d868406-8bdf-4a2f-a73f-ba198a61c96a",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 13.0,
+      "text": "Ending",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "エンディング"
+    }
+  ],
+  "full_text": "Ending",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

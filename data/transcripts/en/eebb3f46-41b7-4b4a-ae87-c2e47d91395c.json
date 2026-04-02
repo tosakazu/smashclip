@@ -1,0 +1,33 @@
+{
+  "id": "eebb3f46-41b7-4b4a-ae87-c2e47d91395c",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.24,
+      "text": "Yeah yeah, so unlike ground moves, being able to hit aerially - that's definitely one advantage, right?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "確かに確かに地上戦、地上技と違って空中で打てるっていうのが一つ利点なのか"
+    },
+    {
+      "start": 4.24,
+      "end": 6.22,
+      "text": "Oh, this mashing out—",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "おーこの暴れの"
+    },
+    {
+      "start": 6.22,
+      "end": 7.68,
+      "text": "No no no no no no!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いやいやいやいやいやいや"
+    }
+  ],
+  "full_text": "Yeah yeah, so unlike ground moves, being able to hit aerially - that's definitely one advantage, right? Oh, this mashing out— No no no no no no!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

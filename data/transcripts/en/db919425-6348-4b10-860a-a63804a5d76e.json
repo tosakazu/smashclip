@@ -1,0 +1,124 @@
+{
+  "id": "db919425-6348-4b10-860a-a63804a5d76e",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.84,
+      "text": "Sees it coming but just barely escapes",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "見た動きですがギリギリめくらず"
+    },
+    {
+      "start": 1.84,
+      "end": 4.0,
+      "text": "Wants to shield through first",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "まずはガードでやり過ごしたい"
+    },
+    {
+      "start": 4.54,
+      "end": 8.0,
+      "text": "Come on Eiha",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "エイハ動いてくれと"
+    },
+    {
+      "start": 8.0,
+      "end": 9.46,
+      "text": "Since Eiha's still there",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "エイハは消えないので"
+    },
+    {
+      "start": 9.46,
+      "end": 11.96,
+      "text": "Just constant pressure",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ひたすらプレッシャーかかる"
+    },
+    {
+      "start": 11.96,
+      "end": 12.86,
+      "text": "From the jab",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "弱一段から"
+    },
+    {
+      "start": 12.86,
+      "end": 14.58,
+      "text": "Trying to disrupt",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "邪魔したいがある"
+    },
+    {
+      "start": 14.58,
+      "end": 16.28,
+      "text": "Juggle",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "着地狩り"
+    },
+    {
+      "start": 16.28,
+      "end": 17.34,
+      "text": "Directional airdodge gets through but",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "移動回避を通しますが"
+    },
+    {
+      "start": 17.34,
+      "end": 18.2,
+      "text": "Forward tilt covers both",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "両対応横強"
+    },
+    {
+      "start": 18.2,
+      "end": 18.88,
+      "text": "Ledge situation",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "崖展開"
+    },
+    {
+      "start": 18.88,
+      "end": 20.54,
+      "text": "Shields the bair but",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここは空中後ろはシールドしますが"
+    }
+  ],
+  "full_text": "Sees it coming but just barely escapes Wants to shield through first Come on Eiha Since Eiha's still there Just constant pressure From the jab Trying to disrupt Juggle Directional airdodge gets through but Forward tilt covers both Ledge situation Shields the bair but",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 3,
+      "original": "亀は消えないので",
+      "corrected": "エイハは消えないので",
+      "rule": "Joker move name (エイハ)"
+    },
+    {
+      "segment_idx": 5,
+      "original": "熊一段から",
+      "corrected": "弱一段から",
+      "rule": "smash notation (弱)"
+    },
+    {
+      "segment_idx": 10,
+      "original": "ガキ展開",
+      "corrected": "崖展開",
+      "rule": "kanji homophone (崖)"
+    }
+  ]
+}

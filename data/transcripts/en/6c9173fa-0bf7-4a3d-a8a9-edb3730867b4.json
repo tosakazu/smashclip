@@ -1,0 +1,57 @@
+{
+  "id": "6c9173fa-0bf7-4a3d-a8a9-edb3730867b4",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.7,
+      "text": "Ledge grab! Barely by 1 frame!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "崖を掴まった ギリギリ 1フレーム"
+    },
+    {
+      "start": 4.7,
+      "end": 9.76,
+      "text": "Diving down, nair sustain, pull complete, so meticulous here too",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ダイブダウン 空N持続 引き完成 ここでも丁寧"
+    },
+    {
+      "start": 9.76,
+      "end": 12.56,
+      "text": "Bair",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空後"
+    },
+    {
+      "start": 12.56,
+      "end": 18.16,
+      "text": "Dodging Heaven's Gate, and—oh!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ヘブンズ ゲートをかわして あーっと"
+    }
+  ],
+  "full_text": "Ledge grab! Barely by 1 frame! Diving down, nair sustain, pull complete, so meticulous here too Bair Dodging Heaven's Gate, and—oh!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_index": 0,
+      "original": "崎を捕まった ギリギリ ユーリフレーム",
+      "corrected": "崖を掴まった ギリギリ 1フレーム"
+    },
+    {
+      "segment_index": 1,
+      "original": "ダイブダウン クーエヌ持続 引き完成 ここでも丁寧",
+      "corrected": "ダイブダウン 空N持続 引き完成 ここでも丁寧"
+    },
+    {
+      "segment_index": 2,
+      "original": "空中射",
+      "corrected": "空後"
+    }
+  ]
+}

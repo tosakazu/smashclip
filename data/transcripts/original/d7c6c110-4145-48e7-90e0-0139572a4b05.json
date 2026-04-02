@@ -1,0 +1,21 @@
+{
+  "id": "d7c6c110-4145-48e7-90e0-0139572a4b05",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 12.4,
+      "text": "ここまで来れば必要なのはそのスピード",
+      "language": "ja"
+    }
+  ],
+  "full_text": "ここまで来れば必要なのはそのスピード",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "ここまで来れば必要なのはそのシュート",
+      "corrected": "ここまで来れば必要なのはそのスピード",
+      "rule": "whisper_misrecognition"
+    }
+  ]
+}

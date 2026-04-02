@@ -1,0 +1,90 @@
+{
+  "id": "d0fdc6b4-a0e0-4ec9-815c-e8179944ec06",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.12,
+      "text": "Feints and lands the throw!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "メラチラ見せてから投げを通して"
+    },
+    {
+      "start": 2.12,
+      "end": 3.38,
+      "text": "Raiden shields solid!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ライデンはしっかりガード"
+    },
+    {
+      "start": 3.38,
+      "end": 6.5,
+      "text": "Aggressive forward dodge!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "強引に前回避"
+    },
+    {
+      "start": 6.5,
+      "end": 7.96,
+      "text": "Pushes through the stage!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "通してステージを"
+    },
+    {
+      "start": 7.96,
+      "end": 11.08,
+      "text": "Whiffs the dair then throw!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空下空振らせてから投げ"
+    },
+    {
+      "start": 11.08,
+      "end": 12.7,
+      "text": "Bair!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空後"
+    },
+    {
+      "start": 12.7,
+      "end": 13.38,
+      "text": "Incredible!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "素晴らしい"
+    }
+  ],
+  "full_text": "Feints and lands the throw! Raiden shields solid! Aggressive forward dodge! Pushes through the stage! Whiffs the dair then throw! Bair! Incredible!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "メラチナ見捨てから",
+      "corrected": "メラチラ見せてから",
+      "rule": "smash term (Hero spell メラ + チラ見せ)"
+    },
+    {
+      "segment_idx": 2,
+      "original": "強引で前回避",
+      "corrected": "強引に前回避",
+      "rule": "particle (で→に)"
+    },
+    {
+      "segment_idx": 4,
+      "original": "空射空振らせて",
+      "corrected": "空下空振らせて",
+      "rule": "smash term (空射→空下)"
+    },
+    {
+      "segment_idx": 5,
+      "original": "空中ショット",
+      "corrected": "空後",
+      "rule": "smash term (空中ショット→空後, kill move)"
+    }
+  ]
+}

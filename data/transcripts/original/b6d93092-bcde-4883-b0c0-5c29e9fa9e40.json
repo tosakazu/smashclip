@@ -1,0 +1,195 @@
+{
+  "id": "b6d93092-bcde-4883-b0c0-5c29e9fa9e40",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "帰れるの?",
+      "language": "ja"
+    },
+    {
+      "start": 2.0,
+      "end": 4.0,
+      "text": "帰れた!",
+      "language": "ja"
+    },
+    {
+      "start": 4.0,
+      "end": 6.0,
+      "text": "なにそれ?",
+      "language": "ja"
+    },
+    {
+      "start": 6.0,
+      "end": 8.0,
+      "text": "うますぎる!",
+      "language": "ja"
+    },
+    {
+      "start": 8.0,
+      "end": 12.0,
+      "text": "空前風反撃",
+      "language": "ja"
+    },
+    {
+      "start": 12.0,
+      "end": 16.0,
+      "text": "帰れる!",
+      "language": "ja"
+    },
+    {
+      "start": 16.0,
+      "end": 20.0,
+      "text": "どうなるんだ?",
+      "language": "ja"
+    },
+    {
+      "start": 20.0,
+      "end": 22.0,
+      "text": "運命の崖",
+      "language": "ja"
+    },
+    {
+      "start": 22.0,
+      "end": 26.0,
+      "text": "どっちだ?",
+      "language": "ja"
+    },
+    {
+      "start": 26.0,
+      "end": 28.0,
+      "text": "どっちだ?",
+      "language": "ja"
+    },
+    {
+      "start": 28.0,
+      "end": 30.0,
+      "text": "撃墜!",
+      "language": "ja"
+    },
+    {
+      "start": 30.0,
+      "end": 32.0,
+      "text": "激戦だった!",
+      "language": "ja"
+    },
+    {
+      "start": 36.0,
+      "end": 38.0,
+      "text": "あの切迫した場面で",
+      "language": "ja"
+    },
+    {
+      "start": 38.0,
+      "end": 40.0,
+      "text": "裏トーナメントを通しきりました!",
+      "language": "ja"
+    },
+    {
+      "start": 40.0,
+      "end": 42.0,
+      "text": "超新星!",
+      "language": "ja"
+    },
+    {
+      "start": 42.0,
+      "end": 44.0,
+      "text": "王者の帰還!",
+      "language": "ja"
+    },
+    {
+      "start": 44.0,
+      "end": 46.0,
+      "text": "第13回篝火",
+      "language": "ja"
+    },
+    {
+      "start": 46.0,
+      "end": 48.0,
+      "text": "世界覇者を決めるに",
+      "language": "ja"
+    },
+    {
+      "start": 48.0,
+      "end": 50.0,
+      "text": "相応しい戦いで",
+      "language": "ja"
+    },
+    {
+      "start": 50.0,
+      "end": 52.0,
+      "text": "再び勝ち取ったのは",
+      "language": "ja"
+    },
+    {
+      "start": 52.0,
+      "end": 54.0,
+      "text": "アコーラ!",
+      "language": "ja"
+    },
+    {
+      "start": 54.0,
+      "end": 56.0,
+      "text": "おめでとうございます!",
+      "language": "ja"
+    },
+    {
+      "start": 58.0,
+      "end": 60.0,
+      "text": "ご視聴ありがとうございました!",
+      "language": "ja"
+    }
+  ],
+  "full_text": "帰れるの? 帰れた! なにそれ? うますぎる! 空前風反撃 帰れる! どうなるんだ? 運命の崖 どっちだ? どっちだ? 撃墜! 激戦だった! あの切迫した場面で 裏トーナメントを通しきりました! 超新星! 王者の帰還! 第13回篝火 世界覇者を決めるに 相応しい戦いで 再び勝ち取ったのは アコーラ! おめでとうございます! ご視聴ありがとうございました!",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "変えれるの?",
+      "corrected": "帰れるの?",
+      "rule": "kanji homophone"
+    },
+    {
+      "segment_idx": 1,
+      "original": "変えた!",
+      "corrected": "帰れた!",
+      "rule": "kanji homophone"
+    },
+    {
+      "segment_idx": 5,
+      "original": "変えれる!",
+      "corrected": "帰れる!",
+      "rule": "kanji homophone"
+    },
+    {
+      "segment_idx": 10,
+      "original": "脱入!",
+      "corrected": "撃墜!",
+      "rule": "misheard word"
+    },
+    {
+      "segment_idx": 12,
+      "original": "切腹した画面で",
+      "corrected": "切迫した場面で",
+      "rule": "kanji homophone"
+    },
+    {
+      "segment_idx": 13,
+      "original": "裏タグを通しきりました!",
+      "corrected": "裏トーナメントを通しきりました!",
+      "rule": "misheard word"
+    },
+    {
+      "segment_idx": 16,
+      "original": "ガガリビー",
+      "corrected": "篝火",
+      "rule": "tournament name"
+    },
+    {
+      "segment_idx": 19,
+      "original": "再び帰りたいったのは",
+      "corrected": "再び勝ち取ったのは",
+      "rule": "misheard word"
+    }
+  ]
+}

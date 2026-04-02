@@ -1,0 +1,70 @@
+{
+  "id": "66564b9e-9143-44a6-9657-17db97b39602",
+  "segments": [
+    {
+      "start": 0.46,
+      "end": 2.34,
+      "text": "Forward tilt connects perfectly!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "横強攻撃そのままにぴったり"
+    },
+    {
+      "start": 2.34,
+      "end": 3.7,
+      "text": "Not guaranteed though",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "はめるではないので"
+    },
+    {
+      "start": 3.7,
+      "end": 5.1,
+      "text": "Barely survives!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ギリ生存しますが"
+    },
+    {
+      "start": 5.1,
+      "end": 5.4,
+      "text": "Right here",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここ"
+    },
+    {
+      "start": 5.4,
+      "end": 6.76,
+      "text": "Retreating fair!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "引き空中前"
+    },
+    {
+      "start": 6.76,
+      "end": 6.96,
+      "text": "Yeah",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "はい"
+    }
+  ],
+  "full_text": "Forward tilt connects perfectly! Not guaranteed though Barely survives! Right here Retreating fair! Yeah",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "陽光強攻撃",
+      "corrected": "横強攻撃",
+      "rule": "kanji homophone (ようこう→よここう)"
+    },
+    {
+      "segment_idx": 4,
+      "original": "四季空中前",
+      "corrected": "引き空中前",
+      "rule": "misheard word"
+    }
+  ]
+}

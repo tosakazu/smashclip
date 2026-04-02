@@ -1,0 +1,70 @@
+{
+  "id": "61417930-e630-4ff9-a981-8c681670727c",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.98,
+      "text": "Straight into bair and that's the KO!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そのまま空後に接続してその撃墜されちゃうんで"
+    },
+    {
+      "start": 2.98,
+      "end": 4.92,
+      "text": "That's a hard no!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "絶対拒否です"
+    },
+    {
+      "start": 4.92,
+      "end": 6.42,
+      "text": "Mashing in the air",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空中暴れ"
+    },
+    {
+      "start": 6.42,
+      "end": 11.24,
+      "text": "Even airborne",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空中でとはいえ"
+    },
+    {
+      "start": 11.24,
+      "end": 12.96,
+      "text": "Neo had mash out ready",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ネオ側も暴れを仕込んでいた"
+    },
+    {
+      "start": 12.96,
+      "end": 14.76,
+      "text": "Anti-air bair straight to the KO!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "対空空後をそのまま撃墜"
+    }
+  ],
+  "full_text": "Straight into bair and that's the KO! That's a hard no! Mashing in the air. Even airborne. Neo had mash out ready. Anti-air bair straight to the KO!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "空中首都",
+      "corrected": "空後",
+      "rule": "smash term (空中後ろ)"
+    },
+    {
+      "segment_idx": 5,
+      "original": "対空空中首都",
+      "corrected": "対空空後",
+      "rule": "smash term (空中後ろ)"
+    }
+  ]
+}

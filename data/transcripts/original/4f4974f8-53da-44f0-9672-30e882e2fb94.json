@@ -1,0 +1,32 @@
+{
+  "id": "4f4974f8-53da-44f0-9672-30e882e2fb94",
+  "segments": [
+    {
+      "start": 0.56,
+      "end": 5.26,
+      "text": "帰ってくるドクターマリオの復帰弱者ながらの",
+      "language": "ja"
+    },
+    {
+      "start": 5.26,
+      "end": 9.56,
+      "text": "その復帰の全ての粋がここに詰まっているような",
+      "language": "ja"
+    },
+    {
+      "start": 9.56,
+      "end": 10.96,
+      "text": "うまー",
+      "language": "ja"
+    },
+    {
+      "start": 10.96,
+      "end": 12.1,
+      "text": "上に",
+      "language": "ja"
+    }
+  ],
+  "full_text": "帰ってくるドクターマリオの復帰弱者ながらの その復帰の全ての粋がここに詰まっているような うまー 上に",
+  "detected_language": "ja",
+  "corrections": []
+}

@@ -1,0 +1,27 @@
+{
+  "id": "4607e746-223a-48b2-b293-279019020f0b",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.62,
+      "text": "Yeah, Arsene a non-factor now, but the back air will take it regardless, and excellent stuff.",
+      "language": "en"
+    },
+    {
+      "start": 6.22,
+      "end": 8.2,
+      "text": "Game 4, Leo never fails.",
+      "language": "en"
+    }
+  ],
+  "full_text": "Yeah, Arsene a non-factor now, but the back air will take it regardless, and excellent stuff. Game 4, Leo never fails.",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "backer",
+      "corrected": "back air",
+      "rule": "misheard smash term"
+    }
+  ]
+}

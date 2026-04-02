@@ -1,0 +1,33 @@
+{
+  "id": "3a011ac2-6c4b-431b-bc6b-673a57288531",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.0,
+      "text": "so technically right now ShinyMark has to approach he has to literally there's nothing",
+      "language": "en"
+    },
+    {
+      "start": 4.0,
+      "end": 7.48,
+      "text": "he can do whoever gets this first stock i think is going to be the deciding factor of who wins",
+      "language": "en"
+    },
+    {
+      "start": 7.48,
+      "end": 11.84,
+      "text": "this set but the thing right now is trying to avoid making a mistake and there it is",
+      "language": "en"
+    }
+  ],
+  "full_text": "so technically right now ShinyMark has to approach he has to literally there's nothing he can do whoever gets this first stock i think is going to be the deciding factor of who wins this set but the thing right now is trying to avoid making a mistake and there it is",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "shiny mark",
+      "corrected": "ShinyMark",
+      "rule": "player name"
+    }
+  ]
+}

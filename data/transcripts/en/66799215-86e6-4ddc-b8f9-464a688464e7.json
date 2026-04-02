@@ -1,0 +1,70 @@
+{
+  "id": "66799215-86e6-4ddc-b8f9-464a688464e7",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.58,
+      "text": "What a read!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "察力が"
+    },
+    {
+      "start": 0.58,
+      "end": 3.54,
+      "text": "saves out of the jam!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "窮地を救う"
+    },
+    {
+      "start": 3.54,
+      "end": 5.76,
+      "text": "Roll getup up smash!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "回避上がりの上スマッシュ"
+    },
+    {
+      "start": 5.76,
+      "end": 6.78,
+      "text": "Still no KO!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "まだ撃墜はしません"
+    },
+    {
+      "start": 6.78,
+      "end": 8.9,
+      "text": "Reid barely helps him out, but",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "リードがなんとか助けてくれたが"
+    },
+    {
+      "start": 8.9,
+      "end": 9.98,
+      "text": "Up tilt to up air here!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここは上強空上"
+    }
+  ],
+  "full_text": "What a read! saves out of the jam! Roll getup up smash! Still no KO! Reid barely helps him out, but Up tilt to up air here!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "殺力",
+      "corrected": "察力",
+      "rule": "misheard word"
+    },
+    {
+      "segment_idx": 5,
+      "original": "上強空",
+      "corrected": "上強空上",
+      "rule": "move name completion (上強→空上 combo)"
+    }
+  ]
+}

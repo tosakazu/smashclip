@@ -1,0 +1,99 @@
+{
+  "id": "5c4294df-2eee-4295-8cd8-df45dc18b13e",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.64,
+      "text": "超必をくらってしまうなこれは",
+      "language": "ja"
+    },
+    {
+      "start": 1.64,
+      "end": 3.08,
+      "text": "Riddlesが端に逃げなくて",
+      "language": "ja"
+    },
+    {
+      "start": 3.08,
+      "end": 4.4,
+      "text": "中央で戦ってるっていうのもね",
+      "language": "ja"
+    },
+    {
+      "start": 4.4,
+      "end": 5.32,
+      "text": "完全にそれですよね",
+      "language": "ja"
+    },
+    {
+      "start": 5.32,
+      "end": 5.58,
+      "text": "うん",
+      "language": "ja"
+    },
+    {
+      "start": 5.58,
+      "end": 6.82,
+      "text": "撃墜されなければいい",
+      "language": "ja"
+    },
+    {
+      "start": 6.82,
+      "end": 8.02,
+      "text": "そうそうそう",
+      "language": "ja"
+    },
+    {
+      "start": 8.02,
+      "end": 9.56,
+      "text": "さあ162",
+      "language": "ja"
+    },
+    {
+      "start": 9.56,
+      "end": 10.14,
+      "text": "やばすぎ",
+      "language": "ja"
+    },
+    {
+      "start": 10.14,
+      "end": 11.26,
+      "text": "あー面白い",
+      "language": "ja"
+    },
+    {
+      "start": 11.26,
+      "end": 13.02,
+      "text": "横距離差し返そうとしたら引っかかるか",
+      "language": "ja"
+    },
+    {
+      "start": 13.02,
+      "end": 13.3,
+      "text": "なるほど",
+      "language": "ja"
+    },
+    {
+      "start": 13.3,
+      "end": 13.72,
+      "text": "さあ",
+      "language": "ja"
+    }
+  ],
+  "full_text": "超必をくらってしまうなこれは Riddlesが端に逃げなくて 中央で戦ってるっていうのもね 完全にそれですよね うん 撃墜されなければいい そうそうそう さあ162 やばすぎ あー面白い 横距離差し返そうとしたら引っかかるか なるほど さあ",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "チョヒー",
+      "corrected": "超必",
+      "rule": "kanji homophone"
+    },
+    {
+      "segment_idx": 1,
+      "original": "リドレス",
+      "corrected": "Riddles",
+      "rule": "player name"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "231b07b1-d263-4fa5-93a4-c9f5372454e4",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "text": "自分のパーツに出しよったか?",
+      "language": "ja"
+    },
+    {
+      "start": 1.0,
+      "end": 2.0,
+      "text": "Y-way",
+      "language": "ja"
+    },
+    {
+      "start": 3.0,
+      "end": 4.0,
+      "text": "フリップで相手に着地が優勢な方が",
+      "language": "ja"
+    },
+    {
+      "start": 4.0,
+      "end": 6.0,
+      "text": "横強 横強 横強 横強",
+      "language": "ja"
+    },
+    {
+      "start": 6.0,
+      "end": 7.0,
+      "text": "空後!",
+      "language": "ja"
+    },
+    {
+      "start": 7.0,
+      "end": 9.0,
+      "text": "さばききったがガードがない",
+      "language": "ja"
+    },
+    {
+      "start": 9.0,
+      "end": 12.0,
+      "text": "横スマッシュ!",
+      "language": "ja"
+    },
+    {
+      "start": 12.0,
+      "end": 15.0,
+      "text": "なんで空前が見えていたんだ!",
+      "language": "ja"
+    }
+  ],
+  "full_text": "自分のパーツに出しよったか? Y-way フリップで相手に着地が優勢な方が 横強 横強 横強 横強 空後! さばききったがガードがない 横スマッシュ! なんで空前が見えていたんだ!",
+  "detected_language": "ja",
+  "corrections": []
+}

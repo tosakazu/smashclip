@@ -1,0 +1,26 @@
+{
+  "id": "9f7ddda1-6976-46f5-92ed-f7d0fcd12de3",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.24,
+      "text": "Holy laughing in percent now.",
+      "language": "en"
+    },
+    {
+      "start": 4.24,
+      "end": 9.6,
+      "text": "Took a lot of effort to get rid of that fire hydrant though, good up smash after",
+      "language": "en"
+    },
+    {
+      "start": 9.6,
+      "end": 10.2,
+      "text": "the bell.",
+      "language": "en"
+    }
+  ],
+  "full_text": "Holy laughing in percent now. Took a lot of effort to get rid of that fire hydrant though, good up smash after the bell.",
+  "detected_language": "en",
+  "corrections": []
+}

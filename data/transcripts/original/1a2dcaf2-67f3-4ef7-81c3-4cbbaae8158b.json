@@ -1,0 +1,63 @@
+{
+  "id": "1a2dcaf2-67f3-4ef7-81c3-4cbbaae8158b",
+  "segments": [
+    {
+      "start": 0.36,
+      "end": 2.3,
+      "text": "リリーがちょっと軽いんでしょうか",
+      "language": "ja"
+    },
+    {
+      "start": 2.3,
+      "end": 4.96,
+      "text": "何はともあれマイルドなH.O選手",
+      "language": "ja"
+    },
+    {
+      "start": 4.96,
+      "end": 7.52,
+      "text": "圧倒的振りそうな状況に見えたが",
+      "language": "ja"
+    },
+    {
+      "start": 7.52,
+      "end": 10.52,
+      "text": "一瞬で撃墜の返してみせた",
+      "language": "ja"
+    },
+    {
+      "start": 10.52,
+      "end": 14.8,
+      "text": "おー!貪欲な追撃が見えたが",
+      "language": "ja"
+    },
+    {
+      "start": 14.8,
+      "end": 16.5,
+      "text": "ここはなおちゃ選手反撃",
+      "language": "ja"
+    }
+  ],
+  "full_text": "リリーがちょっと軽いんでしょうか 何はともあれマイルドなH.O選手 圧倒的振りそうな状況に見えたが 一瞬で撃墜の返してみせた おー!貪欲な追撃が見えたが ここはなおちゃ選手反撃",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "何はともあれマイルドなA長選手",
+      "corrected": "何はともあれマイルドなH.O選手",
+      "rule": "Player name correction: A長→H.O (metadata)"
+    },
+    {
+      "segment_idx": 4,
+      "original": "おー!貪欲な撃墜撃が見えたが",
+      "corrected": "おー!貪欲な追撃が見えたが",
+      "rule": "Whisper mishearing: 撃墜撃→追撃"
+    },
+    {
+      "segment_idx": 5,
+      "original": "ここは直茶選手反撃",
+      "corrected": "ここはなおちゃ選手反撃",
+      "rule": "Player name correction: 直茶→なおちゃ (metadata)"
+    }
+  ]
+}

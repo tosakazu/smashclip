@@ -1,0 +1,32 @@
+{
+  "id": "03d9eb09-61a4-4924-935c-ea297086c013",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 9.44,
+      "text": "Smash whiffed!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "スマッシュからぶって"
+    },
+    {
+      "start": 9.44,
+      "end": 11.52,
+      "text": "But they dodged it there!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "あそこはスカしにしたけど"
+    }
+  ],
+  "full_text": "Smash whiffed! But they dodged it there!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "あそこは助けにしたけど",
+      "corrected": "あそこはスカしにしたけど",
+      "rule": "misheard term"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "id": "6f9531ad-aeeb-491b-ab1d-2da2900c9ee5",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.86,
+      "text": "スペシャルとはならず",
+      "language": "ja"
+    },
+    {
+      "start": 0.86,
+      "end": 3.64,
+      "text": "バイク強引にアームに当てて",
+      "language": "ja"
+    },
+    {
+      "start": 3.64,
+      "end": 4.94,
+      "text": "ノーリッパーを選択から",
+      "language": "ja"
+    },
+    {
+      "start": 4.94,
+      "end": 6.7,
+      "text": "上にこづいて",
+      "language": "ja"
+    },
+    {
+      "start": 6.7,
+      "end": 7.62,
+      "text": "崖外空前",
+      "language": "ja"
+    },
+    {
+      "start": 7.62,
+      "end": 10.26,
+      "text": "ジェガヒでも相手を",
+      "language": "ja"
+    },
+    {
+      "start": 10.26,
+      "end": 11.96,
+      "text": "下がっても相手を",
+      "language": "ja"
+    },
+    {
+      "start": 11.96,
+      "end": 14.22,
+      "text": "これも繋いできた強化アーム",
+      "language": "ja"
+    }
+  ],
+  "full_text": "スペシャルとはならず バイク強引にアームに当てて ノーリッパーを選択から 上にこづいて 崖外空前 ジェガヒでも相手を 下がっても相手を これも繋いできた強化アーム",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_index": 6,
+      "original": "崖外に追いやし続けるか",
+      "corrected": "下がっても相手を"
+    }
+  ]
+}

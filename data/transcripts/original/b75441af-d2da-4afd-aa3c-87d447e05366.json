@@ -1,0 +1,33 @@
+{
+  "id": "b75441af-d2da-4afd-aa3c-87d447e05366",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.66,
+      "text": "I definitely think that Game & Watch is coming out, yeah.",
+      "language": "en"
+    },
+    {
+      "start": 3.2,
+      "end": 11.9,
+      "text": "I mean, even though Dora Migi beat, like, there was so much stuff that happened to allow Dora Migi to win that set against Miya.",
+      "language": "en"
+    },
+    {
+      "start": 12.12,
+      "end": 13.68,
+      "text": "Like, dude, like.",
+      "language": "en"
+    }
+  ],
+  "full_text": "I definitely think that Game & Watch is coming out, yeah. I mean, even though Dora Migi beat, like, there was so much stuff that happened to allow Dora Migi to win that set against Miya. Like, dude, like.",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "Mia",
+      "corrected": "Miya",
+      "rule": "player name"
+    }
+  ]
+}

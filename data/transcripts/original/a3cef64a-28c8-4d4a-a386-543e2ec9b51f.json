@@ -1,0 +1,56 @@
+{
+  "id": "a3cef64a-28c8-4d4a-a386-543e2ec9b51f",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.86,
+      "text": "やはり体一つで戦ってきた男",
+      "language": "ja"
+    },
+    {
+      "start": 1.86,
+      "end": 3.08,
+      "text": "あー被弾しちゃったー",
+      "language": "ja"
+    },
+    {
+      "start": 3.08,
+      "end": 4.74,
+      "text": "あの当たりは上手いんですが",
+      "language": "ja"
+    },
+    {
+      "start": 4.74,
+      "end": 7.54,
+      "text": "ここは崖をスキップどころか",
+      "language": "ja"
+    },
+    {
+      "start": 7.54,
+      "end": 8.74,
+      "text": "まずいか",
+      "language": "ja"
+    },
+    {
+      "start": 8.74,
+      "end": 10.12,
+      "text": "下がったとこれは",
+      "language": "ja"
+    },
+    {
+      "start": 10.12,
+      "end": 13.32,
+      "text": "完走",
+      "language": "ja"
+    }
+  ],
+  "full_text": "やはり体一つで戦ってきた男 あー被弾しちゃったー あの当たりは上手いんですが ここは崖をスキップどころか まずいか 下がったとこれは 完走",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "original": "激戦しちゃったー",
+      "corrected": "被弾しちゃったー",
+      "reason": "被弾（攻撃を受けた）の意味"
+    }
+  ]
+}

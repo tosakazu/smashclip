@@ -1,0 +1,65 @@
+{
+  "id": "07cff485-5234-4a1b-a875-2865d6cba60b",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.78,
+      "text": "He landed it—that's the stock!",
+      "language": "en",
+      "original_language": "es",
+      "original_text": "Pegó y dijo, ya está."
+    },
+    {
+      "start": 1.42,
+      "end": 2.32,
+      "text": "Just right! Just right!",
+      "language": "en",
+      "original_language": "es",
+      "original_text": "Justito, justito."
+    },
+    {
+      "start": 2.4,
+      "end": 6.12,
+      "text": "That was a wild interaction, but...",
+      "language": "en",
+      "original_language": "es",
+      "original_text": "Se estuvo una interacción bien curiosa, pero..."
+    },
+    {
+      "start": 6.12,
+      "end": 6.84,
+      "text": "It is what it is.",
+      "language": "en",
+      "original_language": "es",
+      "original_text": "It is what it is."
+    },
+    {
+      "start": 6.94,
+      "end": 7.1,
+      "text": "No!",
+      "language": "en",
+      "original_language": "es",
+      "original_text": "¡No!"
+    },
+    {
+      "start": 7.9,
+      "end": 8.68,
+      "text": "What? What?!",
+      "language": "en",
+      "original_language": "es",
+      "original_text": "¿What? ¿What?"
+    },
+    {
+      "start": 8.84,
+      "end": 10.52,
+      "text": "Yeah, come on!",
+      "language": "en",
+      "original_language": "es",
+      "original_text": "Sí, o sea, por favor."
+    }
+  ],
+  "full_text": "He landed it—that's the stock! Just right! Just right! That was a wild interaction, but... It is what it is. No! What? What?! Yeah, come on!",
+  "detected_language": "en",
+  "original_language": "es",
+  "corrections": []
+}

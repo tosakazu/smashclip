@@ -1,0 +1,27 @@
+{
+  "id": "b0f8d569-355f-4732-881d-7d7684f5ce12",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.68,
+      "text": "still the bomb out that's still looking minuscule microscopic but not gonna be enough",
+      "language": "en"
+    },
+    {
+      "start": 5.2,
+      "end": 11.92,
+      "text": "this is so crazy how Miya has woken up after taking so much damage then just kind of starts",
+      "language": "en"
+    }
+  ],
+  "full_text": "still the bomb out that's still looking minuscule microscopic but not gonna be enough this is so crazy how Miya has woken up after taking so much damage then just kind of starts",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "marcus",
+      "corrected": "Miya",
+      "rule": "player name (Miya)"
+    }
+  ]
+}

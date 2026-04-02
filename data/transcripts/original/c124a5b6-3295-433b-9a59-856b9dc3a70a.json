@@ -1,0 +1,75 @@
+{
+  "id": "c124a5b6-3295-433b-9a59-856b9dc3a70a",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.9,
+      "text": "レバー入れるってことは高度を稼げるんでね",
+      "language": "ja"
+    },
+    {
+      "start": 1.9,
+      "end": 2.12,
+      "text": "はい",
+      "language": "ja"
+    },
+    {
+      "start": 2.12,
+      "end": 4.78,
+      "text": "だからネオ側としてもパーセントを受け入れて",
+      "language": "ja"
+    },
+    {
+      "start": 4.78,
+      "end": 6.26,
+      "text": "今のは復帰できたって感じです",
+      "language": "ja"
+    },
+    {
+      "start": 6.26,
+      "end": 7.94,
+      "text": "復帰、阻止され復帰",
+      "language": "ja"
+    },
+    {
+      "start": 7.94,
+      "end": 8.84,
+      "text": "うん、まあそうです",
+      "language": "ja"
+    },
+    {
+      "start": 8.84,
+      "end": 13.1,
+      "text": "無理に択を迫って自分が死んでしまうよりもいいと",
+      "language": "ja"
+    },
+    {
+      "start": 13.1,
+      "end": 13.6,
+      "text": "さあこれを食う",
+      "language": "ja"
+    }
+  ],
+  "full_text": "レバー入れるってことは高度を稼げるんでね はい だからネオ側としてもパーセントを受け入れて 今のは復帰できたって感じです 復帰、阻止され復帰 うん、まあそうです 無理に択を迫って自分が死んでしまうよりもいいと さあこれを食う",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "レヴィ叶えるってことは",
+      "corrected": "レバー入れるってことは",
+      "rule": "misheard phrase"
+    },
+    {
+      "segment_idx": 2,
+      "original": "レオ側としても",
+      "corrected": "ネオ側としても",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 6,
+      "original": "タクを迫って自分が住んでしまう",
+      "corrected": "択を迫って自分が死んでしまう",
+      "rule": "misheard word"
+    }
+  ]
+}

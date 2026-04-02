@@ -1,0 +1,57 @@
+{
+  "id": "05fd7995-54f6-41fe-919c-cc266c233bd7",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.44,
+      "text": "80%弱位置のシールドの読み合い",
+      "language": "ja"
+    },
+    {
+      "start": 3.44,
+      "end": 4.74,
+      "text": "掴みを通した テシ サムス",
+      "language": "ja"
+    },
+    {
+      "start": 4.74,
+      "end": 6.3,
+      "text": "空前最終段当たってこれは",
+      "language": "ja"
+    },
+    {
+      "start": 6.3,
+      "end": 8.36,
+      "text": "なんとかマイルドなHOを",
+      "language": "ja"
+    },
+    {
+      "start": 8.36,
+      "end": 10.66,
+      "text": "帰ってきたと思ったんですが",
+      "language": "ja"
+    }
+  ],
+  "full_text": "80%弱位置のシールドの読み合い 掴みを通した テシ サムス 空前最終段当たってこれは なんとかマイルドなHOを 帰ってきたと思ったんですが",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "掴みを通したテスタムス",
+      "corrected": "掴みを通した テシ サムス",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 2,
+      "original": "空中前最終段当たってこれは",
+      "corrected": "空前最終段当たってこれは",
+      "rule": "auto-rule"
+    },
+    {
+      "segment_idx": 3,
+      "original": "なんとかマイルナイチを",
+      "corrected": "なんとかマイルドなHOを",
+      "rule": "player name"
+    }
+  ]
+}

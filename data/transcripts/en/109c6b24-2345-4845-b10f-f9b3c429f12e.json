@@ -1,0 +1,21 @@
+{
+  "id": "109c6b24-2345-4845-b10f-f9b3c429f12e",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.1,
+      "text": "I haven't seen it in this set quite just yet, but got to be always can seal stocks early with those but MkLeo",
+      "language": "en"
+    }
+  ],
+  "full_text": "I haven't seen it in this set quite just yet, but got to be always can seal stocks early with those but MkLeo",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "I haven't seen it in this set quite just yet, but got to be always can seal stocks early with those but MK Leia",
+      "corrected": "I haven't seen it in this set quite just yet, but got to be always can seal stocks early with those but MkLeo",
+      "rule": "Player name: MK Leia→MkLeo (metadata)"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "f2971072-fb69-4343-bbfa-608a6b3658eb",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.4,
+      "text": "Leave him with just a one-stock.",
+      "language": "en"
+    },
+    {
+      "start": 1.86,
+      "end": 5.76,
+      "text": "Yes, and the thing is, is everybody thinks, you know, Fox doesn't have really good throws.",
+      "language": "en"
+    },
+    {
+      "start": 5.94,
+      "end": 6.7,
+      "text": "Well, up throw is good.",
+      "language": "en"
+    }
+  ],
+  "full_text": "Leave him with just a one-stock. Yes, and the thing is, is everybody thinks, you know, Fox doesn't have really good throws. Well, up throw is good.",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "one-stop",
+      "corrected": "one-stock",
+      "rule": "smash term: stop→stock"
+    }
+  ]
+}

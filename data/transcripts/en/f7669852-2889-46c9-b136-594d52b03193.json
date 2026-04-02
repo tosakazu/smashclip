@@ -1,0 +1,78 @@
+{
+  "id": "f7669852-2889-46c9-b136-594d52b03193",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.9,
+      "text": "Really difficult to fully commit to the risky option, you know?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "しっかりとリスクつけるのってなかなか難しいんですよね"
+    },
+    {
+      "start": 1.9,
+      "end": 2.92,
+      "text": "Because other choices keep tempting you",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "他の択がちらつくんで"
+    },
+    {
+      "start": 2.92,
+      "end": 6.12,
+      "text": "Up B, dair",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "上Bしたり空下したり"
+    },
+    {
+      "start": 6.12,
+      "end": 7.92,
+      "text": "Or jump",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ジャンプしたり"
+    },
+    {
+      "start": 7.92,
+      "end": 9.58,
+      "text": "Or go for the homing",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ホーミングしたり"
+    },
+    {
+      "start": 9.58,
+      "end": 10.6,
+      "text": "So many options available, but",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いろんなことができますが"
+    },
+    {
+      "start": 10.6,
+      "end": 13.18,
+      "text": "Isn't that shutdown just too clean?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "完璧すぎません?その止め方"
+    }
+  ],
+  "full_text": "Really difficult to fully commit to the risky option, you know? Because other choices keep tempting you Up B, dair Or jump Or go for the homing So many options available, but Isn't that shutdown just too clean?",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "他のタッグがちらつくんで",
+      "corrected": "他の択がちらつくんで",
+      "rule": "misheard: タッグ→択"
+    },
+    {
+      "segment_idx": 4,
+      "original": "ホーリングしたり",
+      "corrected": "ホーミングしたり",
+      "rule": "misheard: ホーリング→ホーミング (Sonic move)"
+    }
+  ]
+}

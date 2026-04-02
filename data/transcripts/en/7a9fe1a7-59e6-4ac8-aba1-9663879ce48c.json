@@ -1,0 +1,81 @@
+{
+  "id": "7a9fe1a7-59e6-4ac8-aba1-9663879ce48c",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.32,
+      "text": "Once Sonic gets into this position...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ソニックこうなってくると"
+    },
+    {
+      "start": 1.32,
+      "end": 4.6,
+      "text": "There's no way Luigi could even reach Sonic from there",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "当然ルイージが触れる位置にソニックがいるはずもなく"
+    },
+    {
+      "start": 4.6,
+      "end": 5.24,
+      "text": "Wait, did he land it?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "おっと触った?"
+    },
+    {
+      "start": 5.5,
+      "end": 6.44,
+      "text": "Caught it with the up tilt, but...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "上強で拾ったが"
+    },
+    {
+      "start": 6.44,
+      "end": 8.0,
+      "text": "This won't KO at this percent though",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "まあここは即死にはならない"
+    },
+    {
+      "start": 8.0,
+      "end": 9.0,
+      "text": "It's all about the spacing",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "当たり方ですね"
+    },
+    {
+      "start": 9.0,
+      "end": 9.66,
+      "text": "C'mon!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "お前"
+    },
+    {
+      "start": 9.66,
+      "end": 11.1,
+      "text": "Whoa, that's overkill!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "うわーやりすぎる"
+    },
+    {
+      "start": 11.1,
+      "end": 11.3,
+      "text": "Huh?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "あれ?"
+    }
+  ],
+  "full_text": "Once Sonic gets into this position... There's no way Luigi could even reach Sonic from there Wait, did he land it? Caught it with the up tilt, but... This won't KO at this percent though It's all about the spacing C'mon! Whoa, that's overkill! Huh?",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

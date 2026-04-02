@@ -1,0 +1,87 @@
+{
+  "id": "3bf6f737-4c0d-4261-8792-a39732d6c8b3",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.2,
+      "text": "初めて見たけど",
+      "language": "ja"
+    },
+    {
+      "start": 1.2,
+      "end": 3.5,
+      "text": "いきなり見せてきたらるー",
+      "language": "ja"
+    },
+    {
+      "start": 3.5,
+      "end": 4.84,
+      "text": "掴んで下投げ",
+      "language": "ja"
+    },
+    {
+      "start": 4.84,
+      "end": 6.08,
+      "text": "ベク変が出てきた",
+      "language": "ja"
+    },
+    {
+      "start": 6.08,
+      "end": 7.86,
+      "text": "これを脱出できるかですね",
+      "language": "ja"
+    },
+    {
+      "start": 7.86,
+      "end": 9.76,
+      "text": "ニュートラルベク変が出てきたが",
+      "language": "ja"
+    },
+    {
+      "start": 9.76,
+      "end": 12.34,
+      "text": "すっげー一段目上スマぶって相殺",
+      "language": "ja"
+    },
+    {
+      "start": 12.34,
+      "end": 13.72,
+      "text": "反応早い",
+      "language": "ja"
+    }
+  ],
+  "full_text": "初めて見たけど いきなり見せてきたらるー 掴んで下投げ ベク変が出てきた これを脱出できるかですね ニュートラルベク変が出てきたが すっげー一段目上スマぶって相殺 反応早い",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "ラルー",
+      "corrected": "らるー",
+      "rule": "player name: らる"
+    },
+    {
+      "segment_idx": 2,
+      "original": "下で来た",
+      "corrected": "下投げ",
+      "rule": "misheard: 下で来た→下投げ"
+    },
+    {
+      "segment_idx": 3,
+      "original": "変更が出てきた",
+      "corrected": "ベク変が出てきた",
+      "rule": "misheard: 変更→ベク変"
+    },
+    {
+      "segment_idx": 5,
+      "original": "ニュートラル変更",
+      "corrected": "ニュートラルベク変",
+      "rule": "misheard: 変更→ベク変"
+    },
+    {
+      "segment_idx": 6,
+      "original": "上すばしぶって相撃",
+      "corrected": "上スマぶって相殺",
+      "rule": "misheard: 上すばし→上スマ, 相撃→相殺"
+    }
+  ]
+}

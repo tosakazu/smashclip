@@ -1,0 +1,54 @@
+{
+  "id": "7bde5f86-b329-4eee-b842-f4c9155bf47c",
+  "segments": [
+    {
+      "start": 0.78,
+      "end": 2.7,
+      "text": "Locks them down with spacing and down smash",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ダイヤモンドと下スマッシュで固めて"
+    },
+    {
+      "start": 2.7,
+      "end": 4.04,
+      "text": "The knockback's insane but",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ベクトルがえぐいが"
+    },
+    {
+      "start": 4.04,
+      "end": 5.52,
+      "text": "with Sonic though",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これはソニックなら"
+    },
+    {
+      "start": 5.52,
+      "end": 7.16,
+      "text": "he can still come back",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "帰ってこれはするんですが"
+    }
+  ],
+  "full_text": "Locks them down with spacing and down smash. The knockback's insane but with Sonic though he can still come back.",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "ダイレクト下と下スマッシュ",
+      "corrected": "ダイヤモンドと下スマッシュ",
+      "rule": "misheard: ダイレクト下→ダイヤモンド (Steve's diamond equipment)"
+    },
+    {
+      "segment_idx": 3,
+      "original": "かえってこれはするんですが",
+      "corrected": "帰ってこれはするんですが",
+      "rule": "kanji clarification"
+    }
+  ]
+}

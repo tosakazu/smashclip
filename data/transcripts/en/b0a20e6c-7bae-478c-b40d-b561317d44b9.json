@@ -1,0 +1,46 @@
+{
+  "id": "b0a20e6c-7bae-478c-b40d-b561317d44b9",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.86,
+      "text": "No shield!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "シールドしなくて"
+    },
+    {
+      "start": 0.86,
+      "end": 3.08,
+      "text": "Reads the ledge with dair!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "崖回避の読み合い空中下"
+    },
+    {
+      "start": 3.08,
+      "end": 5.34,
+      "text": "Not at this percent!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いやこのパーセントで"
+    }
+  ],
+  "full_text": "No shield! Reads the ledge with dair! Not at this percent!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "失礼しなくて",
+      "corrected": "シールドしなくて",
+      "rule": "smash term (シールド=shield)"
+    },
+    {
+      "segment_idx": 1,
+      "original": "がけいばいの読み合い空中しろ",
+      "corrected": "崖回避の読み合い空中下",
+      "rule": "smash terms (崖回避, 空中下)"
+    }
+  ]
+}

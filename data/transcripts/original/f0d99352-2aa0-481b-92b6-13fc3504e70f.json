@@ -1,0 +1,26 @@
+{
+  "id": "f0d99352-2aa0-481b-92b6-13fc3504e70f",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Good airdodge right there.",
+      "language": "en"
+    },
+    {
+      "start": 2.0,
+      "end": 5.0,
+      "text": "That was an incredible recovery right there by Spargo.",
+      "language": "en"
+    },
+    {
+      "start": 5.0,
+      "end": 7.0,
+      "text": "I got to get to Cartier.",
+      "language": "en"
+    }
+  ],
+  "full_text": "Good airdodge right there. That was an incredible recovery right there by Spargo. I got to get to Cartier.",
+  "detected_language": "en",
+  "corrections": []
+}

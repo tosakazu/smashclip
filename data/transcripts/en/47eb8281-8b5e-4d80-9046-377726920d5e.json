@@ -1,0 +1,68 @@
+{
+  "id": "47eb8281-8b5e-4d80-9046-377726920d5e",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.72,
+      "text": "What's the play here?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "この展開はどうするか"
+    },
+    {
+      "start": 1.72,
+      "end": 5.42,
+      "text": "After playing it safe all the way through",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "最後までしっかり待った上で"
+    },
+    {
+      "start": 5.42,
+      "end": 7.48,
+      "text": "Coming back in with the up B",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "上Bを使って戻ってくる"
+    },
+    {
+      "start": 7.48,
+      "end": 10.26,
+      "text": "The precision on that up B is incredible!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "この上Bの操作精度素晴らしいですね"
+    },
+    {
+      "start": 10.26,
+      "end": 11.72,
+      "text": "But then KEN...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ただKENが"
+    }
+  ],
+  "full_text": "What's the play here? After playing it safe all the way through, coming back in with the up B. The precision on that up B is incredible! But then KEN...",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "ウェビーを使って",
+      "corrected": "上Bを使って",
+      "rule": "misheard move name (上B)"
+    },
+    {
+      "segment_idx": 3,
+      "original": "ウェビーの操作制度",
+      "corrected": "上Bの操作精度",
+      "rule": "misheard move name + kanji homophone"
+    },
+    {
+      "segment_idx": 4,
+      "original": "ケンガーが",
+      "corrected": "KENが",
+      "rule": "player name"
+    }
+  ]
+}

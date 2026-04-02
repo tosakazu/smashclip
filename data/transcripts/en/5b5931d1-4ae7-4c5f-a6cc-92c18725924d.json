@@ -1,0 +1,49 @@
+{
+  "id": "5b5931d1-4ae7-4c5f-a6cc-92c18725924d",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.58,
+      "text": "Reading the approach!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "トライしてくることを見越している"
+    },
+    {
+      "start": 1.58,
+      "end": 2.48,
+      "text": "Chaining the hits together!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "リレーをかけて"
+    },
+    {
+      "start": 2.48,
+      "end": 3.24,
+      "text": "Oh, parry!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "おっとジャストシールド"
+    },
+    {
+      "start": 3.24,
+      "end": 4.76,
+      "text": "He's way up there!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "高度が高い"
+    },
+    {
+      "start": 4.76,
+      "end": 6.78,
+      "text": "Off the parry!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ジャストシールドから"
+    }
+  ],
+  "full_text": "Reading the approach! Chaining the hits together! Oh, parry! He's way up there! Off the parry!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

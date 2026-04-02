@@ -1,0 +1,57 @@
+{
+  "id": "6a838b86-0efe-4da8-8cbe-d8974d632231",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.78,
+      "text": "MTKブラックピット",
+      "language": "ja"
+    },
+    {
+      "start": 0.78,
+      "end": 1.68,
+      "text": "後ろ投げ",
+      "language": "ja"
+    },
+    {
+      "start": 1.68,
+      "end": 3.3,
+      "text": "お互い譲らない",
+      "language": "ja"
+    },
+    {
+      "start": 3.3,
+      "end": 4.8,
+      "text": "ここは",
+      "language": "ja"
+    },
+    {
+      "start": 4.8,
+      "end": 5.84,
+      "text": "さあ",
+      "language": "ja"
+    },
+    {
+      "start": 5.84,
+      "end": 7.36,
+      "text": "攻撃はあるよ",
+      "language": "ja"
+    },
+    {
+      "start": 7.36,
+      "end": 7.62,
+      "text": "ジャスト",
+      "language": "ja"
+    }
+  ],
+  "full_text": "MTKブラックピット 後ろ投げ お互い譲らない ここは さあ 攻撃はあるよ ジャスト",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "MDK",
+      "corrected": "MTK",
+      "rule": "player name"
+    }
+  ]
+}

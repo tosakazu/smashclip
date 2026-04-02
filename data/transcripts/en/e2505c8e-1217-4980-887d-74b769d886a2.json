@@ -1,0 +1,56 @@
+{
+  "id": "e2505c8e-1217-4980-887d-74b769d886a2",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.66,
+      "text": "He was wrapping up with nairs and up airs and stuff",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空Nとか空上とかで締めてたんで"
+    },
+    {
+      "start": 4.66,
+      "end": 6.44,
+      "text": "So that's proper edgeguarding right there",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ちゃんと崖に追い出すから"
+    },
+    {
+      "start": 6.44,
+      "end": 10.2,
+      "text": "On Final Destination though, one touch sends him flying off the edge right away, but",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "終点だとワンタッチですぐに崖外に追い出されちゃうんですけど"
+    },
+    {
+      "start": 10.2,
+      "end": 12.34,
+      "text": "If you're knocking him down, you do it right on the platform edge",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "転ばすなら台をギリギリで"
+    },
+    {
+      "start": 12.34,
+      "end": 14.36,
+      "text": "Keep launching him",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "吹き飛ばしまくる"
+    }
+  ],
+  "full_text": "He was wrapping up with nairs and up airs and stuff So that's proper edgeguarding right there On Final Destination though, one touch sends him flying off the edge right away, but If you're knocking him down, you do it right on the platform edge Keep launching him",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "クーエヌとか空中ショーとか",
+      "corrected": "空Nとか空上とか",
+      "rule": "move abbreviation: 空N, 空上"
+    }
+  ]
+}

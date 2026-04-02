@@ -1,0 +1,75 @@
+{
+  "id": "d313d83c-81cb-4b4c-b961-1d57e1a27414",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.86,
+      "text": "全然あり得るんで",
+      "language": "ja"
+    },
+    {
+      "start": 0.86,
+      "end": 3.3,
+      "text": "上B途中突っ込めてから",
+      "language": "ja"
+    },
+    {
+      "start": 3.3,
+      "end": 4.34,
+      "text": "横スマッシュレバーシフト",
+      "language": "ja"
+    },
+    {
+      "start": 4.34,
+      "end": 9.08,
+      "text": "さらには空中上まで",
+      "language": "ja"
+    },
+    {
+      "start": 9.08,
+      "end": 11.66,
+      "text": "常にレオが地上の制圧権を",
+      "language": "ja"
+    },
+    {
+      "start": 11.66,
+      "end": 12.92,
+      "text": "獲得しているようなこの状況",
+      "language": "ja"
+    },
+    {
+      "start": 12.92,
+      "end": 14.1,
+      "text": "下投げ使って",
+      "language": "ja"
+    },
+    {
+      "start": 14.1,
+      "end": 15.7,
+      "text": "NB最大溜め",
+      "language": "ja"
+    },
+    {
+      "start": 15.7,
+      "end": 18.12,
+      "text": "そのまま撃墜",
+      "language": "ja"
+    }
+  ],
+  "full_text": "全然あり得るんで 上B途中突っ込めてから 横スマッシュレバーシフト さらには空中上まで 常にレオが地上の制圧権を 獲得しているようなこの状況 下投げ使って NB最大溜め そのまま撃墜",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "横スマッシュレイシフト",
+      "corrected": "横スマッシュレバーシフト",
+      "rule": "smash term (レイ→レバー, lever shift)"
+    },
+    {
+      "segment_idx": 7,
+      "original": "NB最大ダメ",
+      "corrected": "NB最大溜め",
+      "rule": "smash term (ダメ→溜め, charge)"
+    }
+  ]
+}

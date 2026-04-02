@@ -1,0 +1,32 @@
+{
+  "id": "6efe9e4a-64ef-4642-9cf3-f7e8a97700dc",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.9,
+      "text": "Okay, okay, combo time, yep, yep, that's easy.",
+      "language": "en"
+    },
+    {
+      "start": 2.34,
+      "end": 7.54,
+      "text": "Yeah, this is what Fox likes, because Wario is not difficult to, like, get these big combos on.",
+      "language": "en"
+    },
+    {
+      "start": 8.16,
+      "end": 10.74,
+      "text": "Oh, okay, okay, nice, that's so nice, he held down.",
+      "language": "en"
+    }
+  ],
+  "full_text": "Okay, okay, combo time, yep, yep, that's easy. Yeah, this is what Fox likes, because Wario is not difficult to, like, get these big combos on. Oh, okay, okay, nice, that's so nice, he held down.",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_index": 1,
+      "original": "Yeah, this is what Vox likes, because Wario is not difficult to, like, get these big combos on.",
+      "corrected": "Yeah, this is what Fox likes, because Wario is not difficult to, like, get these big combos on."
+    }
+  ]
+}

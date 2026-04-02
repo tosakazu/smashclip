@@ -1,0 +1,57 @@
+{
+  "id": "1b746866-a7b0-49a8-843e-b6563eb43014",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.04,
+      "text": "戻っただけ通していいですよねそういう選手的には",
+      "language": "ja"
+    },
+    {
+      "start": 3.04,
+      "end": 5.72,
+      "text": "撃墜しなきゃいいんだよね",
+      "language": "ja"
+    },
+    {
+      "start": 5.72,
+      "end": 7.86,
+      "text": "じゃあスプリング投げは間に合わない",
+      "language": "ja"
+    },
+    {
+      "start": 7.86,
+      "end": 9.42,
+      "text": "拾いとして展開",
+      "language": "ja"
+    },
+    {
+      "start": 9.42,
+      "end": 11.88,
+      "text": "下受けてる",
+      "language": "ja"
+    },
+    {
+      "start": 11.88,
+      "end": 14.76,
+      "text": "よく反応しました",
+      "language": "ja"
+    }
+  ],
+  "full_text": "戻っただけ通していいですよねそういう選手的には 撃墜しなきゃいいんだよね じゃあスプリング投げは間に合わない 拾いとして展開 下受けてる よく反応しました",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "じゃあスシロップ投げは間に合わない",
+      "corrected": "じゃあスプリング投げは間に合わない",
+      "rule": "Whisper mishearing: スシロップ→スプリング (Sonic move)"
+    },
+    {
+      "segment_idx": 3,
+      "original": "ヒアリーとして展開",
+      "corrected": "拾いとして展開",
+      "rule": "Whisper mishearing: ヒアリー→拾い"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "a7d662b3-1aa8-447a-9b19-ff9ee0afd706",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.6,
+      "text": "Bueno, únicamente la planta de Spargo puede tomar stocks rápidamente.",
+      "language": "es"
+    }
+  ],
+  "full_text": "Bueno, únicamente la planta de Spargo puede tomar stocks rápidamente.",
+  "detected_language": "es",
+  "corrections": [
+    {
+      "original": "espargo",
+      "corrected": "Spargo",
+      "reason": "プレイヤー名SPARGO"
+    },
+    {
+      "original": "estocas",
+      "corrected": "stocks",
+      "reason": "stocks = ストック（残機）"
+    }
+  ]
+}

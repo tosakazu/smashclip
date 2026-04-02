@@ -1,0 +1,96 @@
+{
+  "id": "19da298c-afa4-48af-938a-017dcc86fd0a",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.78,
+      "text": "Looking for that forward tilt KO there!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ちょっと今のうまく当てて横強で撃墜したかったが"
+    },
+    {
+      "start": 4.78,
+      "end": 5.28,
+      "text": "But here...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここは"
+    },
+    {
+      "start": 5.28,
+      "end": 7.02,
+      "text": "The platform mixup!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "吹っ掛けの読み合い"
+    },
+    {
+      "start": 7.02,
+      "end": 7.92,
+      "text": "Nah, wait...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "吹っ掛けじゃないや"
+    },
+    {
+      "start": 7.92,
+      "end": 10.76,
+      "text": "The platform game!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあ台での読み合い"
+    },
+    {
+      "start": 10.76,
+      "end": 12.44,
+      "text": "Djiro takes control!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "制したのはDjiro選手"
+    },
+    {
+      "start": 12.44,
+      "end": 14.4,
+      "text": "But here in neutral, going airborne!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "しかしここはニュートラルで空中"
+    }
+  ],
+  "full_text": "Looking for that forward tilt KO there! But here... The platform mixup! Nah, wait... The platform game! Djiro takes control! But here in neutral, going airborne!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "ちょっと今日うまく当てて横っきょうで撃墜したかったが",
+      "corrected": "ちょっと今のうまく当てて横強で撃墜したかったが",
+      "rule": "Kanji homophone: 今日→今の; 横っきょう→横強"
+    },
+    {
+      "segment_idx": 2,
+      "original": "ふかけの呼び合い",
+      "corrected": "吹っ掛けの読み合い",
+      "rule": "Garbled transcription: ふかけ→吹っ掛け; 呼び合い→読み合い"
+    },
+    {
+      "segment_idx": 3,
+      "original": "ふかけじゃないや",
+      "corrected": "吹っ掛けじゃないや",
+      "rule": "Garbled transcription: ふかけ→吹っ掛け"
+    },
+    {
+      "segment_idx": 4,
+      "original": "さあ台での呼び合い",
+      "corrected": "さあ台での読み合い",
+      "rule": "Kanji homophone: 呼び合い→読み合い"
+    },
+    {
+      "segment_idx": 5,
+      "original": "制したのはD字のおかずや",
+      "corrected": "制したのはDjiro選手",
+      "rule": "Player name: D字のおかずや→Djiro選手"
+    }
+  ]
+}

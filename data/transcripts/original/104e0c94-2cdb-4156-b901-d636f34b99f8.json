@@ -1,0 +1,63 @@
+{
+  "id": "104e0c94-2cdb-4156-b901-d636f34b99f8",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.12,
+      "text": "さすがに横スマで反撃か",
+      "language": "ja"
+    },
+    {
+      "start": 1.12,
+      "end": 3.82,
+      "text": "判断早くて反撃を奪ってきます",
+      "language": "ja"
+    },
+    {
+      "start": 3.82,
+      "end": 6.18,
+      "text": "確かにリンクだったら阻止できるか",
+      "language": "ja"
+    },
+    {
+      "start": 6.18,
+      "end": 8.78,
+      "text": "大きい技が優秀で",
+      "language": "ja"
+    },
+    {
+      "start": 8.78,
+      "end": 10.1,
+      "text": "これは崩れたね",
+      "language": "ja"
+    },
+    {
+      "start": 10.1,
+      "end": 11.46,
+      "text": "これ暴発しないと",
+      "language": "ja"
+    },
+    {
+      "start": 11.46,
+      "end": 13.36,
+      "text": "届かない",
+      "language": "ja"
+    },
+    {
+      "start": 13.36,
+      "end": 14.48,
+      "text": "すごい",
+      "language": "ja"
+    }
+  ],
+  "full_text": "さすがに横スマで反撃か 判断早くて反撃を奪ってきます 確かにリンクだったら阻止できるか 大きい技が優秀で これは崩れたね これ暴発しないと 届かない すごい",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "さすがによこそまで反撃か",
+      "corrected": "さすがに横スマで反撃か",
+      "rule": "Move abbreviation: よこそま→横スマ (forward smash)"
+    }
+  ]
+}

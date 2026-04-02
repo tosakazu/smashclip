@@ -1,0 +1,51 @@
+{
+  "id": "1db128b6-826a-4edb-b564-e862916b6750",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.38,
+      "text": "これ爆弾が攻撃判定で消されちゃって",
+      "language": "ja"
+    },
+    {
+      "start": 3.38,
+      "end": 5.38,
+      "text": "で爆弾ヒット確認したんですけど",
+      "language": "ja"
+    },
+    {
+      "start": 5.38,
+      "end": 5.62,
+      "text": "なるほど",
+      "language": "ja"
+    },
+    {
+      "start": 5.62,
+      "end": 7.86,
+      "text": "爆弾の擦り当てになっちゃうんですよね",
+      "language": "ja"
+    },
+    {
+      "start": 7.86,
+      "end": 10.0,
+      "text": "なるほどその爆弾横スマッシュの",
+      "language": "ja"
+    },
+    {
+      "start": 10.0,
+      "end": 11.84,
+      "text": "またこれですか",
+      "language": "ja"
+    }
+  ],
+  "full_text": "これ爆弾が攻撃判定で消されちゃって で爆弾ヒット確認したんですけど なるほど 爆弾の擦り当てになっちゃうんですよね なるほどその爆弾横スマッシュの またこれですか",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 4,
+      "original": "なるほどその爆弾ウェスマッシュの",
+      "corrected": "なるほどその爆弾横スマッシュの",
+      "rule": "Whisper mishearing: ウェスマッシュ→横スマッシュ"
+    }
+  ]
+}

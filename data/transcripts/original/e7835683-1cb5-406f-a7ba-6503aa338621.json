@@ -1,0 +1,32 @@
+{
+  "id": "e7835683-1cb5-406f-a7ba-6503aa338621",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.86,
+      "text": "弱を入れていきます",
+      "language": "ja"
+    },
+    {
+      "start": 0.86,
+      "end": 3.34,
+      "text": "フックショットから",
+      "language": "ja"
+    },
+    {
+      "start": 3.34,
+      "end": 5.92,
+      "text": "さらに爆弾からの",
+      "language": "ja"
+    },
+    {
+      "start": 5.92,
+      "end": 6.5,
+      "text": "空中",
+      "language": "ja"
+    }
+  ],
+  "full_text": "弱を入れていきます フックショットから さらに爆弾からの 空中",
+  "detected_language": "ja",
+  "corrections": []
+}

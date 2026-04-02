@@ -1,0 +1,63 @@
+{
+  "id": "055da8d9-0480-4a11-8e5a-a08569308fbc",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.12,
+      "text": "ジャンプ上がりに対しては空前で",
+      "language": "ja"
+    },
+    {
+      "start": 2.12,
+      "end": 4.62,
+      "text": "もう一度空前",
+      "language": "ja"
+    },
+    {
+      "start": 4.62,
+      "end": 5.6,
+      "text": "外の展開は",
+      "language": "ja"
+    },
+    {
+      "start": 5.6,
+      "end": 6.34,
+      "text": "ゆうぶらない",
+      "language": "ja"
+    },
+    {
+      "start": 6.34,
+      "end": 9.22,
+      "text": "逆にやり返していく",
+      "language": "ja"
+    },
+    {
+      "start": 9.22,
+      "end": 11.52,
+      "text": "空前",
+      "language": "ja"
+    }
+  ],
+  "full_text": "ジャンプ上がりに対しては空前で もう一度空前 外の展開は ゆうぶらない 逆にやり返していく 空前",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "ジャンプ上がりに対しては空中前で",
+      "corrected": "ジャンプ上がりに対しては空前で",
+      "rule": "auto-rule"
+    },
+    {
+      "segment_idx": 1,
+      "original": "もう一度空中前",
+      "corrected": "もう一度空前",
+      "rule": "auto-rule"
+    },
+    {
+      "segment_idx": 5,
+      "original": "空中前",
+      "corrected": "空前",
+      "rule": "auto-rule"
+    }
+  ]
+}

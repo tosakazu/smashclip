@@ -1,0 +1,58 @@
+{
+  "id": "77c847ff-9e61-461e-a200-6f4a7268375b",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.42,
+      "text": "By spacing with that stable neutral option, you're able to shut down those kinds of approaches",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ニュートラル安定択を置いていることによってそういうのも刈り取れるというか"
+    },
+    {
+      "start": 3.42,
+      "end": 10.14,
+      "text": "Neo also has that background—originally a Sonic main before he switched to Corrin",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "Neo選手もねもともとソニック使いそのカムイを使う前はソニック使いだったという経歴の持ち主でしたから"
+    },
+    {
+      "start": 10.14,
+      "end": 11.8,
+      "text": "That kind of player",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そういったところの選手"
+    }
+  ],
+  "full_text": "By spacing with that stable neutral option, you're able to shut down those kinds of approaches Neo also has that background—originally a Sonic main before he switched to Corrin That kind of player",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "チューニュートラル安定タック",
+      "corrected": "ニュートラル安定択",
+      "rule": "whisper misrecognition"
+    },
+    {
+      "segment_idx": 0,
+      "original": "張り取れる",
+      "corrected": "刈り取れる",
+      "rule": "kanji homophone"
+    },
+    {
+      "segment_idx": 1,
+      "original": "ネオ選手",
+      "corrected": "Neo選手",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 1,
+      "original": "カムリ",
+      "corrected": "カムイ",
+      "rule": "character name (Corrin)"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "82985a2a-9310-4938-9f04-c531f26eabd3",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 7.94,
+      "text": "ここは反撃出してきたか",
+      "language": "ja"
+    },
+    {
+      "start": 7.94,
+      "end": 9.18,
+      "text": "さあ",
+      "language": "ja"
+    }
+  ],
+  "full_text": "ここは反撃出してきたか さあ",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "ここは反省出してきたか",
+      "corrected": "ここは反撃出してきたか",
+      "rule": "Whisper mishearing"
+    }
+  ]
+}

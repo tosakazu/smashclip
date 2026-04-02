@@ -1,0 +1,17 @@
+{
+  "id": "7a18b201-b10a-4185-8cf6-10525b823544",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 12.4,
+      "text": "Next time preview",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "次回予告"
+    }
+  ],
+  "full_text": "Next time preview",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

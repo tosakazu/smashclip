@@ -1,0 +1,54 @@
+{
+  "id": "fcf73d94-185b-4e25-ad39-0258eabe4038",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.3,
+      "text": "Still seeing the ledge, they're delaying as much as possible to refuse those edgeguards on recovery",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "まだカウンターが見えていたのでなんとか最大限ディレイをかけて復帰阻止を拒否していくような復帰をしている"
+    },
+    {
+      "start": 5.3,
+      "end": 8.82,
+      "text": "From the descending to rising up air sequence, also caught by the dodge there",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあ下り空上から上りの空上の展開も回避を受けて"
+    },
+    {
+      "start": 8.82,
+      "end": 10.58,
+      "text": "Yeah, definitely on the defensive right now",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "確かにかなり防戦一方"
+    },
+    {
+      "start": 10.58,
+      "end": 12.02,
+      "text": "And here, up...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここで上に"
+    }
+  ],
+  "full_text": "Still seeing the ledge, they're delaying as much as possible to refuse those edgeguards on recovery From the descending to rising up air sequence, also caught by the dodge there Yeah, definitely on the defensive right now And here, up...",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "リレーをかけて",
+      "corrected": "ディレイをかけて",
+      "rule": "misheard: リレー→ディレイ"
+    },
+    {
+      "segment_idx": 1,
+      "original": "下り空へから上りの空への展開",
+      "corrected": "下り空上から上りの空上の展開",
+      "rule": "misheard: 空へ→空上"
+    }
+  ]
+}

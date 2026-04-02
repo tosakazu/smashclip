@@ -1,0 +1,27 @@
+{
+  "id": "536b0e4f-e21d-49ed-9fc7-243379429c9a",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Oh, he's up ahead, just a little too good.",
+      "language": "en"
+    },
+    {
+      "start": 2.0,
+      "end": 4.0,
+      "text": "Ooh, the Popo!",
+      "language": "en"
+    }
+  ],
+  "full_text": "Oh, he's up ahead, just a little too good. Ooh, the Popo!",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "paka",
+      "corrected": "Popo",
+      "rule": "character name: Ice Climbers' Popo"
+    }
+  ]
+}

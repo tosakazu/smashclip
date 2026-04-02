@@ -1,0 +1,49 @@
+{
+  "id": "eec7a4d2-2508-4a59-a16e-2c57ac03967d",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.26,
+      "text": "Landing the throw!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "投げを通す"
+    },
+    {
+      "start": 1.26,
+      "end": 3.66,
+      "text": "Jabs to the throw, then the special for the kill!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "突かして投げさすがに必殺"
+    },
+    {
+      "start": 3.66,
+      "end": 6.32,
+      "text": "Special move!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "必殺技"
+    },
+    {
+      "start": 6.32,
+      "end": 9.28,
+      "text": "Keeping the pressure!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "パーシューで撃っていきますよ"
+    },
+    {
+      "start": 9.28,
+      "end": 11.34,
+      "text": "That's nice!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "うまい"
+    }
+  ],
+  "full_text": "Landing the throw! Jabs to the throw, then the special for the kill! Special move! Keeping the pressure! That's nice!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

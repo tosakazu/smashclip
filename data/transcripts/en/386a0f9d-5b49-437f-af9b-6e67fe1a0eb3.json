@@ -1,0 +1,33 @@
+{
+  "id": "386a0f9d-5b49-437f-af9b-6e67fe1a0eb3",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.3,
+      "text": "Longer than I thought!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "思ったより長いこれ"
+    },
+    {
+      "start": 1.3,
+      "end": 3.46,
+      "text": "Forcing it through!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "上の無理矢理通して"
+    },
+    {
+      "start": 3.46,
+      "end": 4.76,
+      "text": "And he's mashing out!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあこれ暴れ"
+    }
+  ],
+  "full_text": "Longer than I thought! Forcing it through! And he's mashing out!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

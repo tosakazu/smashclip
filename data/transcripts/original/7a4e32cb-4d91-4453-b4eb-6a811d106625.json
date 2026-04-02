@@ -1,0 +1,45 @@
+{
+  "id": "7a4e32cb-4d91-4453-b4eb-6a811d106625",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.56,
+      "text": "ここもしっかり戻ってきた",
+      "language": "ja"
+    },
+    {
+      "start": 2.56,
+      "end": 6.6,
+      "text": "回避に空中前が振ってある",
+      "language": "ja"
+    },
+    {
+      "start": 6.6,
+      "end": 9.34,
+      "text": "ガードはつかみ",
+      "language": "ja"
+    },
+    {
+      "start": 9.34,
+      "end": 10.9,
+      "text": "つかみ抜けさせたか",
+      "language": "ja"
+    },
+    {
+      "start": 10.9,
+      "end": 12.14,
+      "text": "うま",
+      "language": "ja"
+    }
+  ],
+  "full_text": "ここもしっかり戻ってきた 回避に空中前が振ってある ガードはつかみ つかみ抜けさせたか うま",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "風中前が浮いてある",
+      "corrected": "空中前が振ってある",
+      "rule": "風→空 + 浮い→振っ"
+    }
+  ]
+}

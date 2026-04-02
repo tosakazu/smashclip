@@ -1,0 +1,63 @@
+{
+  "id": "ec5ab512-1e65-46b4-8cc2-eb49aded7b68",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.94,
+      "text": "確定難しい",
+      "language": "ja"
+    },
+    {
+      "start": 0.94,
+      "end": 2.84,
+      "text": "もしかしてこのパーセント",
+      "language": "ja"
+    },
+    {
+      "start": 2.84,
+      "end": 5.08,
+      "text": "レバガチャきっちりできていました",
+      "language": "ja"
+    },
+    {
+      "start": 5.08,
+      "end": 6.02,
+      "text": "あ!掴んで",
+      "language": "ja"
+    },
+    {
+      "start": 6.02,
+      "end": 7.9,
+      "text": "さあこれは確定",
+      "language": "ja"
+    },
+    {
+      "start": 7.9,
+      "end": 9.38,
+      "text": "すま村",
+      "language": "ja"
+    },
+    {
+      "start": 9.38,
+      "end": 11.64,
+      "text": "上に広くてというところだ",
+      "language": "ja"
+    }
+  ],
+  "full_text": "確定難しい もしかしてこのパーセント レバガチャきっちりできていました あ!掴んで さあこれは確定 すま村 上に広くてというところだ",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "レバーがたきっちり",
+      "corrected": "レバガチャきっちり",
+      "rule": "smash term: レバーがた→レバガチャ"
+    },
+    {
+      "segment_idx": 5,
+      "original": "スマムラ",
+      "corrected": "すま村",
+      "rule": "stage name spelling"
+    }
+  ]
+}

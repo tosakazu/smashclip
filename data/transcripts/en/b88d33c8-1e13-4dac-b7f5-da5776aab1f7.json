@@ -1,0 +1,64 @@
+{
+  "id": "b88d33c8-1e13-4dac-b7f5-da5776aab1f7",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.3,
+      "text": "That's the kind of response we're seeing here",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "みたいな対応を見られますね"
+    },
+    {
+      "start": 2.3,
+      "end": 5.4,
+      "text": "Now going for the platform juggle conversions",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあこれ台上空中を狙って"
+    },
+    {
+      "start": 5.4,
+      "end": 6.68,
+      "text": "Looking for that big momentum shift",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "大きなリターンを狙っていく"
+    },
+    {
+      "start": 6.68,
+      "end": 8.58,
+      "text": "Wow, Snow bringing it!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いやースノー選手も何かも"
+    },
+    {
+      "start": 8.58,
+      "end": 10.72,
+      "text": "Up smash KO!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここは上スマッシュで撃墜です"
+    },
+    {
+      "start": 10.72,
+      "end": 12.76,
+      "text": "Finding some untouched spacing",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "若干ちょっとやってないような空間"
+    }
+  ],
+  "full_text": "That's the kind of response we're seeing here Now going for the platform juggle conversions Looking for that big momentum shift Wow, Snow bringing it! Up smash KO! Finding some untouched spacing",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "大上空中",
+      "corrected": "台上空中",
+      "rule": "kanji homophone"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "f03e17bf-2c52-4f38-abec-75b82a0c682a",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 7.82,
+      "text": "崖つかまり違う歌う崖つかまりを1回やった後に2回目ます",
+      "language": "ja"
+    }
+  ],
+  "full_text": "崖つかまり違う歌う崖つかまりを1回やった後に2回目ます",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "がけつかまり違う歌うがけつかまりを1回やった後に2回ます",
+      "corrected": "崖つかまり違う歌う崖つかまりを1回やった後に2回目ます",
+      "rule": "typo"
+    }
+  ]
+}

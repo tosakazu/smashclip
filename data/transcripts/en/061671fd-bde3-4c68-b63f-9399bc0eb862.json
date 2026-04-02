@@ -1,0 +1,33 @@
+{
+  "id": "061671fd-bde3-4c68-b63f-9399bc0eb862",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.2,
+      "text": "to die right like he died at 40% and that wasn't like before the first hit that was after the last",
+      "language": "en"
+    },
+    {
+      "start": 6.2,
+      "end": 13.54,
+      "text": "one oh oh oh oh i think we might be oh great turnaround there from Raru i thought Light was",
+      "language": "en"
+    },
+    {
+      "start": 13.54,
+      "end": 13.78,
+      "text": "going to be",
+      "language": "en"
+    }
+  ],
+  "full_text": "to die right like he died at 40% and that wasn't like before the first hit that was after the last one oh oh oh oh i think we might be oh great turnaround there from Raru i thought Light was going to be",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "one oh oh oh oh i think we might be oh great turnaround there from raru i thought light was",
+      "corrected": "one oh oh oh oh i think we might be oh great turnaround there from Raru i thought Light was",
+      "rule": "Player name correction"
+    }
+  ]
+}

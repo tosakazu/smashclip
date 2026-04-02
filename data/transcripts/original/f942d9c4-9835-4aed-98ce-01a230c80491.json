@@ -1,0 +1,20 @@
+{
+  "id": "f942d9c4-9835-4aed-98ce-01a230c80491",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.9,
+      "text": "おー強気な回避上がり",
+      "language": "ja"
+    },
+    {
+      "start": 3.9,
+      "end": 5.7,
+      "text": "うわーこれカプセルが当たると上に上がって",
+      "language": "ja"
+    }
+  ],
+  "full_text": "おー強気な回避上がり うわーこれカプセルが当たると上に上がって",
+  "detected_language": "ja",
+  "corrections": []
+}

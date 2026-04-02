@@ -1,0 +1,81 @@
+{
+  "id": "8b081421-9055-45e8-99c8-3b822241cc7a",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.1,
+      "text": "Double nair!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空中ニュートラルでダブルアップ"
+    },
+    {
+      "start": 1.1,
+      "end": 2.14,
+      "text": "Reads the dodge!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "回避先を拾う"
+    },
+    {
+      "start": 2.14,
+      "end": 4.08,
+      "text": "Beautiful spacing!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いや位置調整が上手い"
+    },
+    {
+      "start": 4.08,
+      "end": 5.88,
+      "text": "Oh that's spicy!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "おー怖い怖い"
+    },
+    {
+      "start": 5.88,
+      "end": 6.96,
+      "text": "Up air again!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空上もう一回"
+    },
+    {
+      "start": 6.96,
+      "end": 8.76,
+      "text": "Still juggling!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "着地狩りも継続して"
+    },
+    {
+      "start": 8.76,
+      "end": 11.3,
+      "text": "Luna Mado just mashing nair there",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ルナマドここは素直に空中ニュートラル暴れ"
+    },
+    {
+      "start": 11.3,
+      "end": 13.34,
+      "text": "Against the rising nair",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "上り空中ニュートラルに対して"
+    },
+    {
+      "start": 13.34,
+      "end": 13.98,
+      "text": "Up smash!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "上スマ"
+    }
+  ],
+  "full_text": "Double nair! Reads the dodge! Beautiful spacing! Oh that's spicy! Up air again! Still juggling! Luna Mado just mashing nair there Against the rising nair Up smash!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

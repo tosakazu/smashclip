@@ -1,0 +1,44 @@
+{
+  "id": "889799d0-2070-4be3-8c79-4cebb0009ff6",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.04,
+      "text": "ちょっと前のねサミットかな",
+      "language": "ja"
+    },
+    {
+      "start": 2.04,
+      "end": 4.06,
+      "text": "サミットで見てからね",
+      "language": "ja"
+    },
+    {
+      "start": 4.06,
+      "end": 5.56,
+      "text": "もう惚れましたね",
+      "language": "ja"
+    },
+    {
+      "start": 5.56,
+      "end": 7.94,
+      "text": "サミットのスローンにはまだなってないよ",
+      "language": "ja"
+    },
+    {
+      "start": 7.94,
+      "end": 9.3,
+      "text": "サミットの頃だったんです",
+      "language": "ja"
+    },
+    {
+      "start": 9.3,
+      "end": 9.9,
+      "text": "はい今次",
+      "language": "ja"
+    }
+  ],
+  "full_text": "ちょっと前のねサミットかな サミットで見てからね もう惚れましたね サミットのスローンにはまだなってないよ サミットの頃だったんです はい今次",
+  "detected_language": "ja",
+  "corrections": []
+}

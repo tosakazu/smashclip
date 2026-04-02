@@ -1,0 +1,84 @@
+{
+  "id": "73ea0bba-3466-462f-b198-6d9db5ae1993",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.16,
+      "text": "But he's riding that momentum straight back to stage recovery!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "なんですがそのまま乗りっぱなしでライン回復"
+    },
+    {
+      "start": 2.16,
+      "end": 3.8,
+      "text": "Larrix heading back to the stage",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "地上を目指したラリックスが"
+    },
+    {
+      "start": 3.8,
+      "end": 4.94,
+      "text": "Playing it patient",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "静観という形"
+    },
+    {
+      "start": 4.94,
+      "end": 7.66,
+      "text": "Awkward up tilt from the platform, but",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ブロックの上で気まずい上強でしたが"
+    },
+    {
+      "start": 7.66,
+      "end": 8.7,
+      "text": "parried it!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ジャストシールドで"
+    },
+    {
+      "start": 8.7,
+      "end": 10.44,
+      "text": "keeps his composure",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "なんとか静観"
+    },
+    {
+      "start": 10.44,
+      "end": 11.5,
+      "text": "Oh!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "おっと"
+    }
+  ],
+  "full_text": "But he's riding that momentum straight back to stage recovery! Larrix heading back to the stage Playing it patient Awkward up tilt from the platform, but parried it! keeps his composure Oh!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "正観",
+      "corrected": "静観",
+      "rule": "kanji homophone"
+    },
+    {
+      "segment_idx": 3,
+      "original": "ブロック上の上で",
+      "corrected": "ブロックの上で",
+      "rule": "Whisper redundancy"
+    },
+    {
+      "segment_idx": 5,
+      "original": "正観",
+      "corrected": "静観",
+      "rule": "kanji homophone"
+    }
+  ]
+}

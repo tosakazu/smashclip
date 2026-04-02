@@ -1,0 +1,39 @@
+{
+  "id": "3a53e5ea-5e1b-4ace-a5c1-9a8dd9ca8234",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.64,
+      "text": "受け身取って台下から",
+      "language": "ja"
+    },
+    {
+      "start": 1.64,
+      "end": 3.7,
+      "text": "キョンがプレッシャーかけてくる",
+      "language": "ja"
+    },
+    {
+      "start": 3.7,
+      "end": 4.4,
+      "text": "ステップステップ",
+      "language": "ja"
+    },
+    {
+      "start": 4.4,
+      "end": 5.34,
+      "text": "空前の",
+      "language": "ja"
+    }
+  ],
+  "full_text": "受け身取って台下から キョンがプレッシャーかけてくる ステップステップ 空前の",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 3,
+      "original": "グーチュー前の",
+      "corrected": "空前の",
+      "rule": "misheard: グーチュー前→空前"
+    }
+  ]
+}

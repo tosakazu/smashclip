@@ -1,0 +1,41 @@
+{
+  "id": "1c5ef50c-bbcc-43ce-a9e4-b09270e2820c",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.44,
+      "text": "Going all in!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "できるパーセントまで完遂"
+    },
+    {
+      "start": 1.44,
+      "end": 3.46,
+      "text": "Whoa!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "あんじゃこりゃ"
+    },
+    {
+      "start": 3.46,
+      "end": 6.0,
+      "text": "I've never seen it this many times!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "この回数さすがに見たことないが"
+    },
+    {
+      "start": 6.0,
+      "end": 6.9,
+      "text": "But...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "しかし"
+    }
+  ],
+  "full_text": "Going all in! Whoa! I've never seen it this many times! But...",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

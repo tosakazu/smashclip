@@ -1,0 +1,40 @@
+{
+  "id": "e8e1105c-373b-4dbb-94ff-447bbceff424",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.24,
+      "text": "Unfortunately, H.O's extending with a weak choker there",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "残念ながらそして伸びるのはマイルドなH.Oのチョーカー"
+    },
+    {
+      "start": 6.24,
+      "end": 9.2,
+      "text": "Nope, Luna's hitting Cyclone!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いやルナマドがここでサイクロン"
+    },
+    {
+      "start": 9.2,
+      "end": 10.12,
+      "text": "Ooh, nice! That's a good play right there!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いやいいですね今"
+    }
+  ],
+  "full_text": "Unfortunately, H.O's extending with a weak choker there Nope, Luna's hitting Cyclone! Ooh, nice! That's a good play right there!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "マイルドなエチョーカー",
+      "corrected": "マイルドなH.Oのチョーカー",
+      "rule": "player name: エチョーカー→H.Oのチョーカー"
+    }
+  ]
+}

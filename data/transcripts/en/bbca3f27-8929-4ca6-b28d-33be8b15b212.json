@@ -1,0 +1,33 @@
+{
+  "id": "bbca3f27-8929-4ca6-b28d-33be8b15b212",
+  "segments": [
+    {
+      "start": 0.24,
+      "end": 6.48,
+      "text": "um oh yeah simple simple f tilt to catch the uh early up-B and uh",
+      "language": "en"
+    },
+    {
+      "start": 6.48,
+      "end": 9.84,
+      "text": "ireland imagine to go and stock ahead but it's gonna disappear immediately",
+      "language": "en"
+    }
+  ],
+  "full_text": "um oh yeah simple simple f tilt to catch the uh early up-B and uh ireland imagine to go and stock ahead but it's gonna disappear immediately",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "early upbeat",
+      "corrected": "early up-B",
+      "rule": "move name"
+    },
+    {
+      "segment_idx": 1,
+      "original": "stuck ahead",
+      "corrected": "stock ahead",
+      "rule": "Whisper error"
+    }
+  ]
+}

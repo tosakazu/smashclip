@@ -1,0 +1,93 @@
+{
+  "id": "30fb299a-e98f-4942-b67d-f4ba5e3d9aca",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.68,
+      "text": "え?",
+      "language": "ja"
+    },
+    {
+      "start": 0.68,
+      "end": 2.12,
+      "text": "あーーーっと",
+      "language": "ja"
+    },
+    {
+      "start": 2.12,
+      "end": 3.34,
+      "text": "急にデュエマになった",
+      "language": "ja"
+    },
+    {
+      "start": 3.34,
+      "end": 5.44,
+      "text": "ヘブンズドア系",
+      "language": "ja"
+    },
+    {
+      "start": 5.44,
+      "end": 6.14,
+      "text": "間違えちゃった",
+      "language": "ja"
+    },
+    {
+      "start": 6.14,
+      "end": 7.64,
+      "text": "ブロッカー2体召喚してるじゃねえの",
+      "language": "ja"
+    },
+    {
+      "start": 7.64,
+      "end": 9.52,
+      "text": "召喚しちゃった",
+      "language": "ja"
+    },
+    {
+      "start": 9.52,
+      "end": 9.96,
+      "text": "空後",
+      "language": "ja"
+    },
+    {
+      "start": 9.96,
+      "end": 11.0,
+      "text": "対空で当てる",
+      "language": "ja"
+    },
+    {
+      "start": 11.0,
+      "end": 11.72,
+      "text": "被せ下投げ",
+      "language": "ja"
+    },
+    {
+      "start": 11.72,
+      "end": 12.64,
+      "text": "どうだ",
+      "language": "ja"
+    },
+    {
+      "start": 12.64,
+      "end": 14.44,
+      "text": "うまーい",
+      "language": "ja"
+    }
+  ],
+  "full_text": "え? あーーーっと 急にデュエマになった ヘブンズドア系 間違えちゃった ブロッカー2体召喚してるじゃねえの 召喚しちゃった 空後 対空で当てる 被せ下投げ どうだ うまーい",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 7,
+      "original": "空中しろ",
+      "corrected": "空後",
+      "rule": "move name normalization"
+    },
+    {
+      "segment_idx": 9,
+      "original": "かぶしたのげ",
+      "corrected": "被せ下投げ",
+      "rule": "Whisper misrecognition"
+    }
+  ]
+}

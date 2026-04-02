@@ -1,0 +1,20 @@
+{
+  "id": "7fbd27f1-65a7-4a66-b806-2811cd1b21cf",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.64,
+      "text": "逆前通したぞ 崖展開",
+      "language": "ja"
+    },
+    {
+      "start": 2.64,
+      "end": 6.32,
+      "text": "いやー 合わせてくる",
+      "language": "ja"
+    }
+  ],
+  "full_text": "逆前通したぞ 崖展開 いやー 合わせてくる",
+  "detected_language": "ja",
+  "corrections": []
+}

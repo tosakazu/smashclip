@@ -1,0 +1,33 @@
+{
+  "id": "72046ca3-798a-4427-897b-0a56b36b89da",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.56,
+      "text": "相手の空中攻撃をシールドした後に有効な反撃手段が乏しいので",
+      "language": "ja"
+    },
+    {
+      "start": 5.56,
+      "end": 9.48,
+      "text": "じゃあスカし択狙ってくる相手に対しては",
+      "language": "ja"
+    },
+    {
+      "start": 9.48,
+      "end": 11.84,
+      "text": "ファジージャンプで先に飛んでおこうと思ったんですけど",
+      "language": "ja"
+    }
+  ],
+  "full_text": "相手の空中攻撃をシールドした後に有効な反撃手段が乏しいので じゃあスカし択狙ってくる相手に対しては ファジージャンプで先に飛んでおこうと思ったんですけど",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "スカシタク",
+      "corrected": "スカし択",
+      "rule": "Whisper transcription of smash term"
+    }
+  ]
+}

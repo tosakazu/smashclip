@@ -1,0 +1,46 @@
+{
+  "id": "8553887b-f1c2-42ef-9b24-9a0fc3a07217",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 8.16,
+      "text": "79%, 84%—the damage is building moment by moment, but this down smash still won't take them!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "79%84%刻一刻とパーセントは溜まっていきますがこの下スマッシュまだ耐える"
+    },
+    {
+      "start": 8.16,
+      "end": 12.2,
+      "text": "108%—that's already in kill range for Puff!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "108.0%プリンにとってはもうデッドゾーンでしょう"
+    },
+    {
+      "start": 12.2,
+      "end": 22.56,
+      "text": "Not letting them recover! 122.6%, 125.7%—the percent keeps stacking with every jump!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ライン回復を許さない122.6%125.7%パーセントが溜まるジャンプ"
+    }
+  ],
+  "full_text": "79%, 84%—the damage is building moment by moment, but this down smash still won't take them! 108%—that's already in kill range for Puff! Not letting them recover! 122.6%, 125.7%—the percent keeps stacking with every jump!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "速1179%84%コク1コクと",
+      "corrected": "79%84%刻一刻と",
+      "rule": "misheard word (コク1コク→刻一刻)"
+    },
+    {
+      "segment_idx": 1,
+      "original": "ブリン",
+      "corrected": "プリン",
+      "rule": "character name (ブリン→プリン/Jigglypuff)"
+    }
+  ]
+}

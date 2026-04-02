@@ -1,0 +1,38 @@
+{
+  "id": "e0e674e7-cfbc-42c6-9c1a-dcdb20cebb31",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.46,
+      "text": "Shut down the recovery! And against their spacing, incredible control!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "上げさせなかったがおおー流しているところに対してさせていた"
+    },
+    {
+      "start": 5.46,
+      "end": 9.74,
+      "text": "The fair also has amazing range!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空中前縦にも広い範囲で"
+    }
+  ],
+  "full_text": "Shut down the recovery! And against their spacing, incredible control! The fair also has amazing range!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "あげせしなかったが",
+      "corrected": "上げさせなかったが",
+      "rule": "misheard word"
+    },
+    {
+      "segment_idx": 1,
+      "original": "広々な感じで",
+      "corrected": "広い範囲で",
+      "rule": "misheard word"
+    }
+  ]
+}

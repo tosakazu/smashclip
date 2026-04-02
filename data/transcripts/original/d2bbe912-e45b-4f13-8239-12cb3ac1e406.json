@@ -1,0 +1,93 @@
+{
+  "id": "d2bbe912-e45b-4f13-8239-12cb3ac1e406",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.36,
+      "text": "いやな横軸",
+      "language": "ja"
+    },
+    {
+      "start": 1.36,
+      "end": 3.3,
+      "text": "使って",
+      "language": "ja"
+    },
+    {
+      "start": 3.3,
+      "end": 5.96,
+      "text": "老獪すぎる",
+      "language": "ja"
+    },
+    {
+      "start": 5.96,
+      "end": 9.0,
+      "text": "あくまでも展開で倒すMiya",
+      "language": "ja"
+    },
+    {
+      "start": 9.0,
+      "end": 10.78,
+      "text": "横、今日はガードが間に合う",
+      "language": "ja"
+    },
+    {
+      "start": 10.78,
+      "end": 12.12,
+      "text": "しかし何を見ている",
+      "language": "ja"
+    },
+    {
+      "start": 12.12,
+      "end": 14.82,
+      "text": "何を見ている",
+      "language": "ja"
+    },
+    {
+      "start": 14.82,
+      "end": 15.94,
+      "text": "横スマッシュ",
+      "language": "ja"
+    },
+    {
+      "start": 15.94,
+      "end": 17.56,
+      "text": "空後よく効いて",
+      "language": "ja"
+    },
+    {
+      "start": 17.56,
+      "end": 19.6,
+      "text": "まだここに来て",
+      "language": "ja"
+    }
+  ],
+  "full_text": "いやな横軸 使って 老獪すぎる あくまでも展開で倒すMiya 横、今日はガードが間に合う しかし何を見ている 何を見ている 横スマッシュ 空後よく効いて まだここに来て",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "ローカイすぎる",
+      "corrected": "老獪すぎる",
+      "rule": "kanji (ローカイ→老獪)"
+    },
+    {
+      "segment_idx": 3,
+      "original": "ミーヤー",
+      "corrected": "Miya",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 7,
+      "original": "Sマッシュ",
+      "corrected": "横スマッシュ",
+      "rule": "smash term (S→横)"
+    },
+    {
+      "segment_idx": 8,
+      "original": "空中しろよく来て",
+      "corrected": "空後よく効いて",
+      "rule": "smash term (空中しろ→空後, 来て→効いて)"
+    }
+  ]
+}

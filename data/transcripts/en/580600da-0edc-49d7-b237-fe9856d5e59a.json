@@ -1,0 +1,64 @@
+{
+  "id": "580600da-0edc-49d7-b237-fe9856d5e59a",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.74,
+      "text": "Alright, alright, alright!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "あ、あ、あ、よし"
+    },
+    {
+      "start": 3.74,
+      "end": 6.58,
+      "text": "The match is even right now",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあマッチの展開イーブンで"
+    },
+    {
+      "start": 6.58,
+      "end": 7.38,
+      "text": "Recovery's back!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "今羽が生えた"
+    },
+    {
+      "start": 7.38,
+      "end": 7.96,
+      "text": "And",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そして"
+    },
+    {
+      "start": 7.96,
+      "end": 10.04,
+      "text": "Even with recovery, won't make it back",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "復帰させてもまだ間に合わない"
+    },
+    {
+      "start": 10.04,
+      "end": 13.44,
+      "text": "Man, the spacing is really tricky",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いやーちょっと調整が難しい"
+    }
+  ],
+  "full_text": "Alright, alright, alright! The match is even right now Recovery's back! And Even with recovery, won't make it back Man, the spacing is really tricky",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "マジックの感電イーブンで",
+      "corrected": "マッチの展開イーブンで",
+      "rule": "misheard word"
+    }
+  ]
+}

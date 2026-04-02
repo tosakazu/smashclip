@@ -1,0 +1,104 @@
+{
+  "id": "e8cd6179-bf31-4365-a2dc-bcba5e601256",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.0,
+      "text": "Gets the dodge! Moving to center. Wants that banana but Tweek shuts it down.",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "回避を取った。さあ、中央。バナナが欲しいが、それに許さないTweek。"
+    },
+    {
+      "start": 5.0,
+      "end": 10.0,
+      "text": "Spending huge time on the ledge. Man, really dragging it out!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "崖の時間が長い。いやー、崖が長い。"
+    },
+    {
+      "start": 10.0,
+      "end": 14.0,
+      "text": "Faking the other direction. Exactly. Gotta have those mixups.",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "反対に行くと見せかけて。そうですね。この駆け引きも必要。"
+    },
+    {
+      "start": 14.0,
+      "end": 19.0,
+      "text": "Not recovering high. Alright, laying off the banana. Solid, steady play.",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "飛ばない。さあ、バナナを我慢している。あくまで堅実なルーティン。"
+    },
+    {
+      "start": 19.0,
+      "end": 22.0,
+      "text": "Wants to make contact first—that's the approach here.",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "まずは、まずは触れたいという、そんな姿勢でしょう。"
+    },
+    {
+      "start": 22.0,
+      "end": 25.0,
+      "text": "Perfect shield! Nice bair!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ジャストシールドの、どうだ、ナイスバック。"
+    },
+    {
+      "start": 25.0,
+      "end": 28.0,
+      "text": "Can't get the fair out!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空前、できない。"
+    },
+    {
+      "start": 28.0,
+      "end": 30.0,
+      "text": "Well...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ま、"
+    }
+  ],
+  "full_text": "Gets the dodge! Moving to center. Wants that banana but Tweek shuts it down. Spending huge time on the ledge. Man, really dragging it out! Faking the other direction. Exactly. Gotta have those mixups. Not recovering high. Alright, laying off the banana. Solid, steady play. Wants to make contact first—that's the approach here. Perfect shield! Nice bair! Can't get the fair out! Well...",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "トラビギ",
+      "corrected": "Tweek",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 2,
+      "original": "このタコも必要",
+      "corrected": "この駆け引きも必要",
+      "rule": "misheard"
+    },
+    {
+      "segment_idx": 3,
+      "original": "見事なルール",
+      "corrected": "堅実なルーティン",
+      "rule": "misheard"
+    },
+    {
+      "segment_idx": 5,
+      "original": "ジャスタイル",
+      "corrected": "ジャストシールド",
+      "rule": "misheard: ジャスタイル→ジャストシールド"
+    },
+    {
+      "segment_idx": 6,
+      "original": "クッション",
+      "corrected": "空前",
+      "rule": "misheard: クッション→空前"
+    }
+  ]
+}

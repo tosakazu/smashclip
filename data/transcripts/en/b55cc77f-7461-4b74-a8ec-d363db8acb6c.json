@@ -1,0 +1,57 @@
+{
+  "id": "b55cc77f-7461-4b74-a8ec-d363db8acb6c",
+  "segments": [
+    {
+      "start": 0.3,
+      "end": 2.28,
+      "text": "I'd like to say just landing hits would do it, but...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "触ってしまえばと言いたいところですが"
+    },
+    {
+      "start": 2.28,
+      "end": 5.76,
+      "text": "Even landing hits on Marth is tough - that's what makes this character so difficult!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "触ってもなお難しいのがこのマルスというファイターの特徴です"
+    },
+    {
+      "start": 5.76,
+      "end": 7.66,
+      "text": "Frame-perfect airdodge!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "1フレームの空中暴れ"
+    },
+    {
+      "start": 7.66,
+      "end": 9.86,
+      "text": "Fair!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空中前"
+    },
+    {
+      "start": 9.86,
+      "end": 11.96,
+      "text": "Deny the getup, deny the getup - gets the read!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあ上がらせない上がらせない回避を見て"
+    },
+    {
+      "start": 11.96,
+      "end": 13.42,
+      "text": "Finishes with back air!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空中後ろで撃墜"
+    }
+  ],
+  "full_text": "I'd like to say just landing hits would do it, but... Even landing hits on Marth is tough - that's what makes this character so difficult! Frame-perfect airdodge! Fair! Deny the getup, deny the getup - gets the read! Finishes with back air!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

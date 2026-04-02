@@ -1,0 +1,33 @@
+{
+  "id": "c6e18041-b3c7-469a-ae2a-83e563072ce1",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.28,
+      "text": "the wide hitbox like up air oh maybe two arrows here force the air dodge this is huge",
+      "language": "en"
+    },
+    {
+      "start": 4.28,
+      "end": 9.0,
+      "text": "into the back air great di coming out for one more air dodge mix up gets back to the ledge",
+      "language": "en"
+    },
+    {
+      "start": 9.0,
+      "end": 15.0,
+      "text": "if that if that was a sweet spot back air he was so gone and he still got",
+      "language": "en"
+    }
+  ],
+  "full_text": "the wide hitbox like up air oh maybe two arrows here force the air dodge this is huge into the back air great di coming out for one more air dodge mix up gets back to the ledge if that if that was a sweet spot back air he was so gone and he still got",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "back here",
+      "corrected": "back air",
+      "rule": "smash term"
+    }
+  ]
+}

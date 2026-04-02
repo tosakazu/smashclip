@@ -1,0 +1,33 @@
+{
+  "id": "72dfbe90-39c5-4527-bb58-5962e4be4710",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.82,
+      "text": "competitors will just keep swinging at each other they know each other i'll give you some analysis",
+      "language": "en"
+    },
+    {
+      "start": 4.82,
+      "end": 9.72,
+      "text": "all right right now Raru's winning okay anything else any other questions let me know",
+      "language": "en"
+    },
+    {
+      "start": 9.72,
+      "end": 11.7,
+      "text": "any other questions because they just got",
+      "language": "en"
+    }
+  ],
+  "full_text": "competitors will just keep swinging at each other they know each other i'll give you some analysis all right right now Raru's winning okay anything else any other questions let me know any other questions because they just got",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "raro's winning nigga",
+      "corrected": "Raru's winning",
+      "rule": "player name + Whisper hallucination removed"
+    }
+  ]
+}

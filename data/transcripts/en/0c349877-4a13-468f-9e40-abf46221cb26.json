@@ -1,0 +1,49 @@
+{
+  "id": "0c349877-4a13-468f-9e40-abf46221cb26",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.64,
+      "text": "I feel like the risk factors are aligning here",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ちょっとリスクがかみ合っているのかなという印象としてはあります"
+    },
+    {
+      "start": 3.64,
+      "end": 8.0,
+      "text": "Yellow catches the ledge grab!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあ崖つかまりに黄色が当たる"
+    },
+    {
+      "start": 8.0,
+      "end": 10.24,
+      "text": "Two stock lead",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "リードは2ストックです"
+    },
+    {
+      "start": 10.24,
+      "end": 12.08,
+      "text": "Got the KO!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "撃墜ありましたね"
+    },
+    {
+      "start": 12.08,
+      "end": 12.56,
+      "text": "Up throw",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "上投げ"
+    }
+  ],
+  "full_text": "I feel like the risk factors are aligning here Yellow catches the ledge grab! Two stock lead Got the KO! Up throw",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

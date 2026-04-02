@@ -1,0 +1,41 @@
+{
+  "id": "c855a2f4-e6a3-4377-a8e2-8389e4249318",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.38,
+      "text": "Right, cut back with the dair, but he's at 51%",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そうですね 空中下で切り返したが51%"
+    },
+    {
+      "start": 3.38,
+      "end": 7.0,
+      "text": "He wants to minimize the damage and carry momentum",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "少しでも被ダメージを抑えて次につなげたい"
+    },
+    {
+      "start": 7.0,
+      "end": 10.9,
+      "text": "But that first stock KO we saw earlier...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ただ先ほどもありましたこの1ストック目の撃墜"
+    },
+    {
+      "start": 10.9,
+      "end": 12.28,
+      "text": "The dair he landed cleanly right there",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここでうまく通した空中下"
+    }
+  ],
+  "full_text": "Right, cut back with the dair, but he's at 51% He wants to minimize the damage and carry momentum But that first stock KO we saw earlier... The dair he landed cleanly right there",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

@@ -1,0 +1,27 @@
+{
+  "id": "eb2081b0-c5ac-4dce-85c7-09e7d76d9b88",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.88,
+      "text": "permanently uh now so i think i think he did",
+      "language": "en"
+    },
+    {
+      "start": 2.88,
+      "end": 9.4,
+      "text": "anyway uh Mao still in a lot of trouble still yet to take his first stock he's right",
+      "language": "en"
+    }
+  ],
+  "full_text": "permanently uh now so i think i think he did anyway uh Mao still in a lot of trouble still yet to take his first stock he's right",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "mao",
+      "corrected": "Mao",
+      "rule": "player name capitalization"
+    }
+  ]
+}

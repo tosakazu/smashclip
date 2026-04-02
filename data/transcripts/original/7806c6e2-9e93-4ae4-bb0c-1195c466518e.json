@@ -1,0 +1,33 @@
+{
+  "id": "7806c6e2-9e93-4ae4-bb0c-1195c466518e",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.26,
+      "text": "ここで仕留めたい 回避を切らされた",
+      "language": "ja"
+    },
+    {
+      "start": 1.26,
+      "end": 3.62,
+      "text": "うまい 今度は内側への慣性をかけて",
+      "language": "ja"
+    },
+    {
+      "start": 3.62,
+      "end": 6.0,
+      "text": "おっと さすがにですね",
+      "language": "ja"
+    }
+  ],
+  "full_text": "ここで仕留めたい 回避を切らされた うまい 今度は内側への慣性をかけて おっと さすがにですね",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "感性",
+      "corrected": "慣性",
+      "rule": "kanji homophone"
+    }
+  ]
+}

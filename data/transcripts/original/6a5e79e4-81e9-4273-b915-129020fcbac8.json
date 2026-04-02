@@ -1,0 +1,45 @@
+{
+  "id": "6a5e79e4-81e9-4273-b915-129020fcbac8",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.04,
+      "text": "なるほど普段の間合いとはまた一段遠くなってくる",
+      "language": "ja"
+    },
+    {
+      "start": 5.04,
+      "end": 7.52,
+      "text": "普段だったら避けられてますからね今の",
+      "language": "ja"
+    },
+    {
+      "start": 7.52,
+      "end": 11.82,
+      "text": "さあバーストのパーセンテージの差がある",
+      "language": "ja"
+    },
+    {
+      "start": 11.82,
+      "end": 12.42,
+      "text": "ジャック",
+      "language": "ja"
+    },
+    {
+      "start": 12.42,
+      "end": 15.18,
+      "text": "ここは確定反撃",
+      "language": "ja"
+    }
+  ],
+  "full_text": "なるほど普段の間合いとはまた一段遠くなってくる 普段だったら避けられてますからね今の さあバーストのパーセンテージの差がある ジャック ここは確定反撃",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "バリオとのパイザー",
+      "corrected": "バーストのパーセンテージ",
+      "rule": "Whisper mishearing"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "12d9defa-97a3-4ea8-acf5-6f04244ac0cc",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.3,
+      "text": "撃墜が見えているなぁBapt'IceTeaのドクターマリオ側",
+      "language": "ja"
+    },
+    {
+      "start": 2.3,
+      "end": 3.24,
+      "text": "ここは少しだけ",
+      "language": "ja"
+    },
+    {
+      "start": 3.24,
+      "end": 4.28,
+      "text": "ストックアップ",
+      "language": "ja"
+    }
+  ],
+  "full_text": "撃墜が見えているなぁBapt'IceTeaのドクターマリオ側 ここは少しだけ ストックアップ",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "激震が見えているなぁバクダイシーのツアーマリオ側",
+      "corrected": "撃墜が見えているなぁBapt'IceTeaのドクターマリオ側",
+      "rule": "Kanji homophone: 激震→撃墜; Player name: バクダイシー→Bapt'IceTea; ツアーマリオ→ドクターマリオ"
+    }
+  ]
+}

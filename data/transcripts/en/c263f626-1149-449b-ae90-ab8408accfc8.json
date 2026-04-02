@@ -1,0 +1,57 @@
+{
+  "id": "c263f626-1149-449b-ae90-ab8408accfc8",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.92,
+      "text": "That lands—Oil Panic bounces back the Drill!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "出したヒットとザー、ドリルオーグを跳ね返すオイルパニックが存在します"
+    },
+    {
+      "start": 2.92,
+      "end": 5.02,
+      "text": "Th-this landing is super risky!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "こ、この着地が厳しいんですよ"
+    },
+    {
+      "start": 5.02,
+      "end": 6.0,
+      "text": "Can't use Flip",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "フリップを使えない"
+    },
+    {
+      "start": 6.0,
+      "end": 8.98,
+      "text": "Right, after you use Flip you can't use it again",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そうですね、フリップの後にはもうフリップを使えないと"
+    },
+    {
+      "start": 8.98,
+      "end": 10.1,
+      "text": "Whoa, nice!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "おー、見事"
+    },
+    {
+      "start": 10.1,
+      "end": 10.96,
+      "text": "Got sent flying!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "飛び切った"
+    }
+  ],
+  "full_text": "That lands—Oil Panic bounces back the Drill! Th-this landing is super risky! Can't use Flip Right, after you use Flip you can't use it again Whoa, nice! Got sent flying!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

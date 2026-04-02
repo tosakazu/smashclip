@@ -1,0 +1,41 @@
+{
+  "id": "f31c4dad-b36e-47b9-8567-79450ed7b87d",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.74,
+      "text": "Looking to secure that KO with the next attack",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "次の攻撃でできたら撃墜を通していきたい"
+    },
+    {
+      "start": 2.74,
+      "end": 5.14,
+      "text": "Just a whiff though",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ただ振り撤回"
+    },
+    {
+      "start": 5.14,
+      "end": 6.46,
+      "text": "Jack grabs it",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ジャックで取って"
+    },
+    {
+      "start": 6.46,
+      "end": 7.38,
+      "text": "Going straight for it",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そのまま狙って"
+    }
+  ],
+  "full_text": "Looking to secure that KO with the next attack Just a whiff though Jack grabs it Going straight for it",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

@@ -1,0 +1,70 @@
+{
+  "id": "6852a10f-a304-48ab-9ae0-06a449c0445c",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.7,
+      "text": "Nair into fair for the KO!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空中ニュートラルから空前撃墜"
+    },
+    {
+      "start": 2.7,
+      "end": 3.84,
+      "text": "Three to two!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ストック3-2"
+    },
+    {
+      "start": 3.84,
+      "end": 5.4,
+      "text": "What about that?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "どうだ?"
+    },
+    {
+      "start": 5.52,
+      "end": 6.28,
+      "text": "He came flying in!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "飛び出してきた"
+    },
+    {
+      "start": 6.28,
+      "end": 6.94,
+      "text": "That's right!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そうですね"
+    },
+    {
+      "start": 6.94,
+      "end": 7.62,
+      "text": "Instant swap!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "即交代"
+    }
+  ],
+  "full_text": "Nair into fair for the KO! Three to two! What about that? He came flying in! That's right! Instant swap!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "空中白ネギ撃墜",
+      "corrected": "空前撃墜",
+      "rule": "move name (空前)"
+    },
+    {
+      "segment_idx": 5,
+      "original": "足交換",
+      "corrected": "即交代",
+      "rule": "misheard word"
+    }
+  ]
+}

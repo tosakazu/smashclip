@@ -1,0 +1,49 @@
+{
+  "id": "ce26fbbb-9ba7-4c21-8dd1-65625e1ed27b",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.04,
+      "text": "Fair connects",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空中前通る"
+    },
+    {
+      "start": 3.04,
+      "end": 4.82,
+      "text": "ledge",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "崖"
+    },
+    {
+      "start": 4.82,
+      "end": 6.14,
+      "text": "off the up B",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "上Bから"
+    },
+    {
+      "start": 6.14,
+      "end": 8.14,
+      "text": "to the bair",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空中後ろまで"
+    },
+    {
+      "start": 8.14,
+      "end": 9.94,
+      "text": "That's insane!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これやばくない"
+    }
+  ],
+  "full_text": "Fair connects ledge off the up B to the bair That's insane!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

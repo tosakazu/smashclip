@@ -1,0 +1,57 @@
+{
+  "id": "42fd088b-7094-4862-90d6-42d4b6485804",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.86,
+      "text": "We've got Kazuya",
+      "language": "en",
+      "original_language": "es",
+      "original_text": "Y bueno, tenemos Kazuya"
+    },
+    {
+      "start": 1.86,
+      "end": 4.26,
+      "text": "Speaking of a solid player, Kazuya",
+      "language": "en",
+      "original_language": "es",
+      "original_text": "Hablando de macizo, Kazuya"
+    },
+    {
+      "start": 4.26,
+      "end": 6.18,
+      "text": "Wanted to start with a 0 to death",
+      "language": "en",
+      "original_language": "es",
+      "original_text": "Que quería empezar con un 0 to death"
+    },
+    {
+      "start": 6.18,
+      "end": 7.76,
+      "text": "Wanted to because Opsmash gets sent",
+      "language": "en",
+      "original_language": "es",
+      "original_text": "Quería porque fallece Opsmash"
+    },
+    {
+      "start": 7.76,
+      "end": 9.28,
+      "text": "Definitely",
+      "language": "en",
+      "original_language": "es",
+      "original_text": "Definitivamente"
+    },
+    {
+      "start": 9.28,
+      "end": 11.3,
+      "text": "And I think...",
+      "language": "en",
+      "original_language": "es",
+      "original_text": "Y creo que..."
+    }
+  ],
+  "full_text": "We've got Kazuya Speaking of a solid player, Kazuya Wanted to start with a 0 to death Wanted to because Opsmash gets sent Definitely And I think...",
+  "detected_language": "en",
+  "original_language": "es",
+  "corrections": []
+}

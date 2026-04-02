@@ -1,0 +1,65 @@
+{
+  "id": "25d3200d-c4d5-4ecb-8ff3-f2d6fa1172ed",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.42,
+      "text": "Or maybe they mount a comeback from 3 stocks",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "もしくは3ストの巻き返しまで"
+    },
+    {
+      "start": 3.42,
+      "end": 5.16,
+      "text": "Can they extend this?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "伸ばしてくれるんでしょうか"
+    },
+    {
+      "start": 5.16,
+      "end": 7.92,
+      "text": "But they execute the fair beautifully",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "しかしテシ試すここはうまくボムから空前"
+    },
+    {
+      "start": 7.92,
+      "end": 9.08,
+      "text": "One more time",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "もう一度"
+    },
+    {
+      "start": 9.08,
+      "end": 11.54,
+      "text": "Sends them offstage with nair",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空Nで外に追い出して"
+    },
+    {
+      "start": 11.54,
+      "end": 13.1,
+      "text": "No more jumps!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "もうジャンプがない"
+    },
+    {
+      "start": 13.1,
+      "end": 14.98,
+      "text": "Here comes the charged shot!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあチャージショット"
+    }
+  ],
+  "full_text": "Or maybe they mount a comeback from 3 stocks Can they extend this? But they execute the fair beautifully One more time Sends them offstage with nair No more jumps! Here comes the charged shot!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

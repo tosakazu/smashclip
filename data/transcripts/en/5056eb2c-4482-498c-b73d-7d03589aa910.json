@@ -1,0 +1,40 @@
+{
+  "id": "5056eb2c-4482-498c-b73d-7d03589aa910",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.48,
+      "text": "This is incredibly difficult, but...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "非常に難しいところですが"
+    },
+    {
+      "start": 3.48,
+      "end": 5.32,
+      "text": "Here's the nair!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここは空Nの駆使"
+    },
+    {
+      "start": 5.32,
+      "end": 6.76,
+      "text": "KO!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "撃墜"
+    }
+  ],
+  "full_text": "This is incredibly difficult, but... Here's the nair! KO!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "空中ニューダルの駆使",
+      "corrected": "空Nの駆使",
+      "rule": "move abbreviation: 空中ニューダル→空N"
+    }
+  ]
+}

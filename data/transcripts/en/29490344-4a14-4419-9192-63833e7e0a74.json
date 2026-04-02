@@ -1,0 +1,76 @@
+{
+  "id": "29490344-4a14-4419-9192-63833e7e0a74",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.2,
+      "text": "Landing from up top again",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "再度上からの着地"
+    },
+    {
+      "start": 2.2,
+      "end": 4.64,
+      "text": "Getting that line advantage through the exchanges",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "2回通してライン有利を得たのは"
+    },
+    {
+      "start": 4.64,
+      "end": 5.92,
+      "text": "That's DenKOTA",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "DenKOTAですが"
+    },
+    {
+      "start": 5.92,
+      "end": 9.2,
+      "text": "With that sword character shield pressure",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "剣キャラ特有のシールドに対するプレッシャーで"
+    },
+    {
+      "start": 9.2,
+      "end": 10.6,
+      "text": "Switching up the spacing so well",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "うまくラインを入れ替える"
+    },
+    {
+      "start": 10.6,
+      "end": 12.9,
+      "text": "Delay nair into the confirm",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ディレイ空Nからヒット確認"
+    }
+  ],
+  "full_text": "Landing from up top again Getting that line advantage through the exchanges That's DenKOTA With that sword character shield pressure Switching up the spacing so well Delay nair into the confirm",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "デンコタ",
+      "corrected": "DenKOTA",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 3,
+      "original": "ケンケラ",
+      "corrected": "剣キャラ",
+      "rule": "misheard: ケンケラ→剣キャラ"
+    },
+    {
+      "segment_idx": 5,
+      "original": "ディレイクールからヒット確認",
+      "corrected": "ディレイ空Nからヒット確認",
+      "rule": "misheard: クール→空N"
+    }
+  ]
+}

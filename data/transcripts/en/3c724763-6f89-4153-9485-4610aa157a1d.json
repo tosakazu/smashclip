@@ -1,0 +1,26 @@
+{
+  "id": "3c724763-6f89-4153-9485-4610aa157a1d",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.2,
+      "text": "Yeah, just rip right on through the pressure.",
+      "language": "en"
+    },
+    {
+      "start": 2.84,
+      "end": 4.02,
+      "text": "Oh no!",
+      "language": "en"
+    },
+    {
+      "start": 4.42,
+      "end": 6.12,
+      "text": "That's so sad!",
+      "language": "en"
+    }
+  ],
+  "full_text": "Yeah, just rip right on through the pressure. Oh no! That's so sad!",
+  "detected_language": "en",
+  "corrections": []
+}

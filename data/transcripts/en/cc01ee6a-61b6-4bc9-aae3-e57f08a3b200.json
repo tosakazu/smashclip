@@ -1,0 +1,49 @@
+{
+  "id": "cc01ee6a-61b6-4bc9-aae3-e57f08a3b200",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.62,
+      "text": "This Wario becomes scary real quick when you shut down his airdodge options",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "回避を切ると途端に怖くなるのがこのワリオというファイター"
+    },
+    {
+      "start": 2.62,
+      "end": 4.66,
+      "text": "Reading that airdodge again",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここも回避の先を見ている"
+    },
+    {
+      "start": 4.66,
+      "end": 6.66,
+      "text": "Backing them into the corner with that spacing",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "逆打ち前がけに追い詰めて"
+    },
+    {
+      "start": 6.66,
+      "end": 9.28,
+      "text": "Even using the bike?!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いやーバイクまで使ってくるか"
+    },
+    {
+      "start": 9.28,
+      "end": 10.04,
+      "text": "Cornered!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "詰んでる"
+    }
+  ],
+  "full_text": "This Wario becomes scary real quick when you shut down his airdodge options Reading that airdodge again Backing them into the corner with that spacing Even using the bike?! Cornered!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

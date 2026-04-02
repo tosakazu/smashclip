@@ -1,0 +1,49 @@
+{
+  "id": "df7f99f5-7c94-4652-bf7a-39e755abe22b",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.72,
+      "text": "Won't KO",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "撃墜はしません"
+    },
+    {
+      "start": 0.72,
+      "end": 2.32,
+      "text": "Breaking through the fair while mashing",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空中前暴れを通して"
+    },
+    {
+      "start": 2.32,
+      "end": 3.76,
+      "text": "Steps back with a Pikmin throw",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "一歩下がってピクミン投げ"
+    },
+    {
+      "start": 3.76,
+      "end": 5.72,
+      "text": "And the fair wall is thick, but",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そして空中前の壁が厚いが"
+    },
+    {
+      "start": 5.72,
+      "end": 6.58,
+      "text": "Back air",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空中後ろ"
+    }
+  ],
+  "full_text": "Won't KO Breaking through the fair while mashing Steps back with a Pikmin throw And the fair wall is thick, but Back air",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

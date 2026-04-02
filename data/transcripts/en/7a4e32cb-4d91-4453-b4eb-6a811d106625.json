@@ -1,0 +1,56 @@
+{
+  "id": "7a4e32cb-4d91-4453-b4eb-6a811d106625",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.56,
+      "text": "Solid recovery there!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここもしっかり戻ってきた"
+    },
+    {
+      "start": 2.56,
+      "end": 6.6,
+      "text": "Fair coming out on the airdodge!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "回避に空中前が振ってある"
+    },
+    {
+      "start": 6.6,
+      "end": 9.34,
+      "text": "Grabbed off shield!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ガードはつかみ"
+    },
+    {
+      "start": 9.34,
+      "end": 10.9,
+      "text": "And he escapes!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "つかみ抜けさせたか"
+    },
+    {
+      "start": 10.9,
+      "end": 12.14,
+      "text": "Nice!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "うま"
+    }
+  ],
+  "full_text": "Solid recovery there! Fair coming out on the airdodge! Grabbed off shield! And he escapes! Nice!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "風中前が浮いてある",
+      "corrected": "空中前が振ってある",
+      "rule": "風→空 + 浮い→振っ"
+    }
+  ]
+}

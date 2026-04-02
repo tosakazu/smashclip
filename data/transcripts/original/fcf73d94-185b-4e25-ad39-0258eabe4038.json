@@ -1,0 +1,45 @@
+{
+  "id": "fcf73d94-185b-4e25-ad39-0258eabe4038",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.3,
+      "text": "まだカウンターが見えていたのでなんとか最大限ディレイをかけて復帰阻止を拒否していくような復帰をしている",
+      "language": "ja"
+    },
+    {
+      "start": 5.3,
+      "end": 8.82,
+      "text": "さあ下り空上から上りの空上の展開も回避を受けて",
+      "language": "ja"
+    },
+    {
+      "start": 8.82,
+      "end": 10.58,
+      "text": "確かにかなり防戦一方",
+      "language": "ja"
+    },
+    {
+      "start": 10.58,
+      "end": 12.02,
+      "text": "ここで上に",
+      "language": "ja"
+    }
+  ],
+  "full_text": "まだカウンターが見えていたのでなんとか最大限ディレイをかけて復帰阻止を拒否していくような復帰をしている さあ下り空上から上りの空上の展開も回避を受けて 確かにかなり防戦一方 ここで上に",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "リレーをかけて",
+      "corrected": "ディレイをかけて",
+      "rule": "misheard: リレー→ディレイ"
+    },
+    {
+      "segment_idx": 1,
+      "original": "下り空へから上りの空への展開",
+      "corrected": "下り空上から上りの空上の展開",
+      "rule": "misheard: 空へ→空上"
+    }
+  ]
+}

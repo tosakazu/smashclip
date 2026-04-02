@@ -1,0 +1,14 @@
+{
+  "id": "f9a2f64f-50dc-49ee-b00e-a45750df343d",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.28,
+      "text": "I'm pretty sure.",
+      "language": "en"
+    }
+  ],
+  "full_text": "I'm pretty sure.",
+  "detected_language": "en",
+  "corrections": []
+}

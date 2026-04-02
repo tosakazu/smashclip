@@ -1,0 +1,26 @@
+{
+  "id": "e5d9fb70-17ab-4fa8-a970-67c442533323",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.16,
+      "text": "ジャンプしたところに空中前",
+      "language": "ja"
+    },
+    {
+      "start": 1.16,
+      "end": 5.6,
+      "text": "さあボムを置いて置いて",
+      "language": "ja"
+    },
+    {
+      "start": 5.6,
+      "end": 7.6,
+      "text": "ボムを置いてそして被弾した",
+      "language": "ja"
+    }
+  ],
+  "full_text": "ジャンプしたところに空中前 さあボムを置いて置いて ボムを置いてそして被弾した",
+  "detected_language": "ja",
+  "corrections": []
+}

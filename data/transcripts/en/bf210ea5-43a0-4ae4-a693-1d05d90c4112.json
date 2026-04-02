@@ -1,0 +1,27 @@
+{
+  "id": "bf210ea5-43a0-4ae4-a693-1d05d90c4112",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.16,
+      "text": "i don't know he's kind of stuck on those top platforms waiting to descend there",
+      "language": "en"
+    },
+    {
+      "start": 4.16,
+      "end": 6.32,
+      "text": "Lammers has the idea he just can't execute",
+      "language": "en"
+    }
+  ],
+  "full_text": "i don't know he's kind of stuck on those top platforms waiting to descend there Lammers has the idea he just can't execute",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "labors",
+      "corrected": "Lammers",
+      "rule": "player name"
+    }
+  ]
+}

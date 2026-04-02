@@ -1,0 +1,86 @@
+{
+  "id": "95b7b23c-d205-43ae-9408-75cea21fb432",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.6,
+      "text": "Doesn't send them that far",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そこまで飛ばないですからね"
+    },
+    {
+      "start": 1.6,
+      "end": 2.84,
+      "text": "More than I expected",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "思ったよりかは"
+    },
+    {
+      "start": 2.84,
+      "end": 3.3,
+      "text": "Like",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "なんか"
+    },
+    {
+      "start": 3.3,
+      "end": 4.24,
+      "text": "As a kill move",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "飛ばす技として"
+    },
+    {
+      "start": 4.24,
+      "end": 7.26,
+      "text": "Seems to KO around 70% or so",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "なんか70ぐらいから死ぬような印象がある"
+    },
+    {
+      "start": 7.26,
+      "end": 7.94,
+      "text": "That spinning slash",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "あの回転切り"
+    },
+    {
+      "start": 7.94,
+      "end": 9.4,
+      "text": "Oh, that's clean!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "あ、うまいなそれ"
+    },
+    {
+      "start": 9.4,
+      "end": 10.92,
+      "text": "No recovery from that",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これはもう帰れない"
+    }
+  ],
+  "full_text": "Doesn't send them that far More than I expected Like As a kill move Seems to KO around 70% or so That spinning slash Oh, that's clean! No recovery from that",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 3,
+      "original": "詳しい技として",
+      "corrected": "飛ばす技として",
+      "rule": "misheard word"
+    },
+    {
+      "segment_idx": 5,
+      "original": "回転ギリ",
+      "corrected": "回転切り",
+      "rule": "katakana→kanji (ギリ→切り)"
+    }
+  ]
+}

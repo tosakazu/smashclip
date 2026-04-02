@@ -1,0 +1,32 @@
+{
+  "id": "0a3202fd-f345-4599-83f6-2241fcd4369d",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.6,
+      "text": "そしてライン回復する",
+      "language": "ja"
+    },
+    {
+      "start": 1.6,
+      "end": 5.74,
+      "text": "中間距離",
+      "language": "ja"
+    },
+    {
+      "start": 5.74,
+      "end": 7.36,
+      "text": "やるわ",
+      "language": "ja"
+    },
+    {
+      "start": 7.36,
+      "end": 8.46,
+      "text": "どっしりと構えるか",
+      "language": "ja"
+    }
+  ],
+  "full_text": "そしてライン回復する 中間距離 やるわ どっしりと構えるか",
+  "detected_language": "ja",
+  "corrections": []
+}

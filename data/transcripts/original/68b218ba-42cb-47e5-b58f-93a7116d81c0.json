@@ -1,0 +1,26 @@
+{
+  "id": "68b218ba-42cb-47e5-b58f-93a7116d81c0",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.24,
+      "text": "この駆け上がり択は確かよ",
+      "language": "ja"
+    },
+    {
+      "start": 2.24,
+      "end": 8.9,
+      "text": "そして紫反転シュートブレイク",
+      "language": "ja"
+    },
+    {
+      "start": 8.9,
+      "end": 12.08,
+      "text": "忘れた頃にやってくるのがこのセットアップ",
+      "language": "ja"
+    }
+  ],
+  "full_text": "この駆け上がり択は確かよ そして紫反転シュートブレイク 忘れた頃にやってくるのがこのセットアップ",
+  "detected_language": "ja",
+  "corrections": []
+}

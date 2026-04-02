@@ -1,0 +1,45 @@
+{
+  "id": "687ca5ac-e6a2-4e81-8e92-086bcf311288",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.84,
+      "text": "Let's take this slow, to be honest.",
+      "language": "en"
+    },
+    {
+      "start": 1.84,
+      "end": 2.96,
+      "text": "Chillin' with the ledge trap.",
+      "language": "en"
+    },
+    {
+      "start": 2.96,
+      "end": 4.26,
+      "text": "Good spacing here.",
+      "language": "en"
+    },
+    {
+      "start": 4.26,
+      "end": 5.7,
+      "text": "Little bit of an overextension with the forward air,",
+      "language": "en"
+    },
+    {
+      "start": 5.7,
+      "end": 8.24,
+      "text": "but Eiku can't punish. TG with the back airs.",
+      "language": "en"
+    }
+  ],
+  "full_text": "Let's take this slow, to be honest. Chillin' with the ledge trap. Good spacing here. Little bit of an overextension with the forward air, but Eiku can't punish. TG with the back airs.",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 4,
+      "original": "Torigui can't punish Torigui",
+      "corrected": "Eiku can't punish. TG",
+      "rule": "player name"
+    }
+  ]
+}

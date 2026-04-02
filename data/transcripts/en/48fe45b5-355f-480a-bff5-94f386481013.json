@@ -1,0 +1,33 @@
+{
+  "id": "48fe45b5-355f-480a-bff5-94f386481013",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.6,
+      "text": "the opposite take out lose a little bit of stage control and i do not agree with that at all",
+      "language": "en"
+    },
+    {
+      "start": 4.6,
+      "end": 8.02,
+      "text": "especially with the way that things have been going no jump he's gonna try yeah",
+      "language": "en"
+    },
+    {
+      "start": 8.02,
+      "end": 12.44,
+      "text": "does he still have his jump okay okay",
+      "language": "en"
+    }
+  ],
+  "full_text": "the opposite take out lose a little bit of stage control and i do not agree with that at all especially with the way that things have been going no jump he's gonna try yeah does he still have his jump okay okay",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "does he still have this job",
+      "corrected": "does he still have his jump",
+      "rule": "misheard word (recovery context)"
+    }
+  ]
+}

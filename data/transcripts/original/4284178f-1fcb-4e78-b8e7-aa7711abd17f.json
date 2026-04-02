@@ -1,0 +1,75 @@
+{
+  "id": "4284178f-1fcb-4e78-b8e7-aa7711abd17f",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.6,
+      "text": "ビニーの被ダメージ補正がなくなって",
+      "language": "ja"
+    },
+    {
+      "start": 1.6,
+      "end": 2.96,
+      "text": "撃墜から遠のきました",
+      "language": "ja"
+    },
+    {
+      "start": 2.96,
+      "end": 4.46,
+      "text": "ジャストシールドから展開を取るガクト",
+      "language": "ja"
+    },
+    {
+      "start": 4.46,
+      "end": 5.4,
+      "text": "着地はどうだ",
+      "language": "ja"
+    },
+    {
+      "start": 5.4,
+      "end": 6.1,
+      "text": "空中A",
+      "language": "ja"
+    },
+    {
+      "start": 6.1,
+      "end": 6.72,
+      "text": "拾っている",
+      "language": "ja"
+    },
+    {
+      "start": 6.72,
+      "end": 7.46,
+      "text": "さらにおかわり",
+      "language": "ja"
+    },
+    {
+      "start": 7.46,
+      "end": 8.56,
+      "text": "おびわせ",
+      "language": "ja"
+    },
+    {
+      "start": 8.56,
+      "end": 9.42,
+      "text": "PKサンダーアタック",
+      "language": "ja"
+    },
+    {
+      "start": 9.42,
+      "end": 11.1,
+      "text": "これは決め手になった",
+      "language": "ja"
+    }
+  ],
+  "full_text": "ビニーの被ダメージ補正がなくなって 撃墜から遠のきました ジャストシールドから展開を取るガクト 着地はどうだ 空中A 拾っている さらにおかわり おびわせ PKサンダーアタック これは決め手になった",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 8,
+      "original": "BK",
+      "corrected": "PK",
+      "rule": "misheard letter (Ness move name)"
+    }
+  ]
+}

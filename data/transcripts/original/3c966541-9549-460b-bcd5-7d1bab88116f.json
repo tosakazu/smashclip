@@ -1,0 +1,74 @@
+{
+  "id": "3c966541-9549-460b-bcd5-7d1bab88116f",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.96,
+      "text": "内側先に陣取っているのはワリオですが",
+      "language": "ja"
+    },
+    {
+      "start": 1.96,
+      "end": 3.64,
+      "text": "バイクに当たったラクライが",
+      "language": "ja"
+    },
+    {
+      "start": 3.64,
+      "end": 5.14,
+      "text": "ワリオを追い払っていきました",
+      "language": "ja"
+    },
+    {
+      "start": 5.14,
+      "end": 6.06,
+      "text": "まずいんじゃん",
+      "language": "ja"
+    },
+    {
+      "start": 6.06,
+      "end": 6.7,
+      "text": "大丈夫",
+      "language": "ja"
+    },
+    {
+      "start": 6.7,
+      "end": 7.96,
+      "text": "大丈夫",
+      "language": "ja"
+    },
+    {
+      "start": 7.96,
+      "end": 8.7,
+      "text": "本当に",
+      "language": "ja"
+    },
+    {
+      "start": 8.7,
+      "end": 9.74,
+      "text": "受け身",
+      "language": "ja"
+    },
+    {
+      "start": 9.74,
+      "end": 10.36,
+      "text": "バッチリ",
+      "language": "ja"
+    },
+    {
+      "start": 10.36,
+      "end": 13.32,
+      "text": "まさか空中リトルで逆にやりきるのは",
+      "language": "ja"
+    },
+    {
+      "start": 13.32,
+      "end": 14.86,
+      "text": "ザクレイなのか",
+      "language": "ja"
+    }
+  ],
+  "full_text": "内側先に陣取っているのはワリオですが バイクに当たったラクライが ワリオを追い払っていきました まずいんじゃん 大丈夫 大丈夫 本当に 受け身 バッチリ まさか空中リトルで逆にやりきるのは ザクレイなのか",
+  "detected_language": "ja",
+  "corrections": []
+}

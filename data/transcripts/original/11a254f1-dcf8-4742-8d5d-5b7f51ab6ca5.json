@@ -1,0 +1,57 @@
+{
+  "id": "11a254f1-dcf8-4742-8d5d-5b7f51ab6ca5",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.34,
+      "text": "さあ再びMTKピットが",
+      "language": "ja"
+    },
+    {
+      "start": 3.34,
+      "end": 5.02,
+      "text": "果敢に攻めていきます",
+      "language": "ja"
+    },
+    {
+      "start": 5.02,
+      "end": 6.3,
+      "text": "外に出して",
+      "language": "ja"
+    },
+    {
+      "start": 6.3,
+      "end": 7.68,
+      "text": "NBが邪魔をする",
+      "language": "ja"
+    },
+    {
+      "start": 7.68,
+      "end": 9.28,
+      "text": "これはジャンプがないので",
+      "language": "ja"
+    },
+    {
+      "start": 9.28,
+      "end": 9.76,
+      "text": "帰れて",
+      "language": "ja"
+    }
+  ],
+  "full_text": "さあ再びMTKピットが 果敢に攻めていきます 外に出して NBが邪魔をする これはジャンプがないので 帰れて",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "ソードに出して",
+      "corrected": "外に出して",
+      "rule": "Whisper mishearing: ソード→外 (pushing offstage in edgeguard context)"
+    },
+    {
+      "segment_idx": 5,
+      "original": "変えて",
+      "corrected": "帰れて",
+      "rule": "Kanji homophone: 変えて→帰れて (recovered)"
+    }
+  ]
+}

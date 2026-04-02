@@ -1,0 +1,33 @@
+{
+  "id": "57d8ddeb-4d77-4668-bb0f-4791a4713f74",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.72,
+      "text": "What a brilliant read—he's catching him coming back!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "結構絶妙なところではありますが戻ってくる掴んでいる"
+    },
+    {
+      "start": 4.72,
+      "end": 6.3,
+      "text": "Back throw!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "後ろ投げ"
+    },
+    {
+      "start": 6.3,
+      "end": 11.06,
+      "text": "And that's...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これは"
+    }
+  ],
+  "full_text": "What a brilliant read—he's catching him coming back! Back throw! And that's...",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

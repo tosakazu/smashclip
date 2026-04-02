@@ -1,0 +1,17 @@
+{
+  "id": "d39be9ad-a2cb-4bf5-b31e-c2517907871e",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 9.64,
+      "text": "Next up!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "次回予告"
+    }
+  ],
+  "full_text": "Next up!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

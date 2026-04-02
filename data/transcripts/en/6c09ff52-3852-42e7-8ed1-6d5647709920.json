@@ -1,0 +1,54 @@
+{
+  "id": "6c09ff52-3852-42e7-8ed1-6d5647709920",
+  "segments": [
+    {
+      "start": 1.0,
+      "end": 3.16,
+      "text": "Acola's already in a tight spot",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "アコーラがもう素材が心もとない"
+    },
+    {
+      "start": 3.16,
+      "end": 6.92,
+      "text": "Easy shield on that throw",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "この投げもちろんガードでやり過ごせ"
+    },
+    {
+      "start": 6.92,
+      "end": 9.32,
+      "text": "Reaches Diddy, but—",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ダイヤに到達したが"
+    },
+    {
+      "start": 9.32,
+      "end": 13.0,
+      "text": "Pop Gun into the up smash!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ポップガンから台上転倒上スマッシュ"
+    }
+  ],
+  "full_text": "Acola's already in a tight spot Easy shield on that throw Reaches Diddy, but— Pop Gun into the up smash!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 3,
+      "original": "ホップガン",
+      "corrected": "ポップガン",
+      "rule": "character move name"
+    },
+    {
+      "segment_idx": 3,
+      "original": "大上",
+      "corrected": "台上",
+      "rule": "kanji homophone (だいじょう→だいじょう)"
+    }
+  ]
+}

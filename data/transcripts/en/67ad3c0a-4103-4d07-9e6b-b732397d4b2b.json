@@ -1,0 +1,32 @@
+{
+  "id": "67ad3c0a-4103-4d07-9e6b-b732397d4b2b",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.36,
+      "text": "Both heading into kill range now",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "互いに撃墜帯に入っていこうかというところ"
+    },
+    {
+      "start": 2.36,
+      "end": 4.96,
+      "text": "Fair!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空中前これは"
+    }
+  ],
+  "full_text": "Both heading into kill range now Fair!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "撃墜隊",
+      "corrected": "撃墜帯",
+      "rule": "kanji homophone (たい=帯, kill percent range)"
+    }
+  ]
+}

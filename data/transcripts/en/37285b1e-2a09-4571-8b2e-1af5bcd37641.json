@@ -1,0 +1,142 @@
+{
+  "id": "37285b1e-2a09-4571-8b2e-1af5bcd37641",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Can't keep up! Diamond's still out there!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "分からなくなった しかもダイヤですよ"
+    },
+    {
+      "start": 2.0,
+      "end": 4.0,
+      "text": "So many options! Just one touch away!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "全然あります はい、ワンタッチで"
+    },
+    {
+      "start": 4.0,
+      "end": 6.0,
+      "text": "Going for the full comeback!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "逆転までやります"
+    },
+    {
+      "start": 6.0,
+      "end": 8.0,
+      "text": "Cart's down, time to jump!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "トロッコを撒いた ジャンプ!"
+    },
+    {
+      "start": 8.0,
+      "end": 10.0,
+      "text": "He's reading it! Gets the beautiful punish!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "読んでいる! おいしいの入って"
+    },
+    {
+      "start": 10.0,
+      "end": 12.0,
+      "text": "Beautiful! 54 percent lead!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "おいしい!54%差が"
+    },
+    {
+      "start": 12.0,
+      "end": 14.0,
+      "text": "Insane insane insane!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "やばいやばいやばい"
+    },
+    {
+      "start": 14.0,
+      "end": 16.0,
+      "text": "When it's like this, Sonic's gotta keep the pressure on",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "こうなるとソニックがある程度攻めたくなる"
+    },
+    {
+      "start": 16.0,
+      "end": 18.0,
+      "text": "Down smash!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "下スマッシュ!"
+    },
+    {
+      "start": 18.0,
+      "end": 20.0,
+      "text": "One more block!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ブロックをもう1個置いて"
+    },
+    {
+      "start": 20.0,
+      "end": 22.0,
+      "text": "Wow, rebuilding it all!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いやー作り直してる!"
+    },
+    {
+      "start": 22.0,
+      "end": 24.0,
+      "text": "Can't get back!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "帰ってこられず!"
+    },
+    {
+      "start": 24.0,
+      "end": 26.0,
+      "text": "Right after clearing the lava...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ちゃんとラバの後に"
+    },
+    {
+      "start": 26.0,
+      "end": 28.0,
+      "text": "He's repositioning those blocks",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ブロックを置き直してるんですよね"
+    },
+    {
+      "start": 28.0,
+      "end": 30.0,
+      "text": "That's incredible!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "すごいですね!"
+    }
+  ],
+  "full_text": "Can't keep up! Diamond's still out there! So many options! Just one touch away! Going for the full comeback! Cart's down, time to jump! He's reading it! Gets the beautiful punish! Beautiful! 54 percent lead! Insane insane insane! When it's like this, Sonic's gotta keep the pressure on Down smash! One more block! Wow, rebuilding it all! Can't get back! Right after clearing the lava... He's repositioning those blocks That's incredible!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 3,
+      "original": "トロコを巻いた",
+      "corrected": "トロッコを撒いた",
+      "rule": "Steve move: トロッコ"
+    },
+    {
+      "segment_idx": 12,
+      "original": "ちゃんとLVの後に",
+      "corrected": "ちゃんとラバの後に",
+      "rule": "Steve term: ラバ(lava)"
+    }
+  ]
+}

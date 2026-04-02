@@ -1,0 +1,48 @@
+{
+  "id": "bc10eb35-68ec-4382-9ffc-914f38134949",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.28,
+      "text": "Either player could take the lead at any moment!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "やはりいつラインが入れ替わってもおかしくない"
+    },
+    {
+      "start": 2.28,
+      "end": 4.84,
+      "text": "You could definitely call this a high-risk, high-reward situation!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ハイリスクハイリターンな状況とも言えるでしょう"
+    },
+    {
+      "start": 4.84,
+      "end": 7.74,
+      "text": "Djiro with a nice nair!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあDjiro選手空Nをうまく"
+    },
+    {
+      "start": 7.74,
+      "end": 8.84,
+      "text": "That Wind God Fist is safe!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "最速風神拳の無事"
+    }
+  ],
+  "full_text": "Either player could take the lead at any moment! You could definitely call this a high-risk, high-reward situation! Djiro with a nice nair! That Wind God Fist is safe!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "ディジロン選手空営のうまく",
+      "corrected": "Djiro選手空Nをうまく",
+      "rule": "player name"
+    }
+  ]
+}

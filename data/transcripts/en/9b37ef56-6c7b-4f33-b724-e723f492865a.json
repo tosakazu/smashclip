@@ -1,0 +1,27 @@
+{
+  "id": "9b37ef56-6c7b-4f33-b724-e723f492865a",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.52,
+      "text": "force of Chon and his mighty Fox right now",
+      "language": "en"
+    },
+    {
+      "start": 3.52,
+      "end": 7.36,
+      "text": "Chon make it back here look like a viable kill option for Fox",
+      "language": "en"
+    }
+  ],
+  "full_text": "force of Chon and his mighty Fox right now Chon make it back here look like a viable kill option for Fox",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "chon",
+      "corrected": "Chon",
+      "rule": "player name capitalization"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "49ef6734-e947-468c-ba80-fa769dd6a714",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.84,
+      "text": "ステージ上に空下のプレッシャーを生かして戻ってくるザクレイ",
+      "language": "ja"
+    },
+    {
+      "start": 5.84,
+      "end": 7.86,
+      "text": "ラゾーマもじっくりシールド",
+      "language": "ja"
+    },
+    {
+      "start": 7.86,
+      "end": 9.26,
+      "text": "横スマ横スマ",
+      "language": "ja"
+    }
+  ],
+  "full_text": "ステージ上に空下のプレッシャーを生かして戻ってくるザクレイ ラゾーマもじっくりシールド 横スマ横スマ",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "ステージ用に",
+      "corrected": "ステージ上に",
+      "rule": "misheard word"
+    },
+    {
+      "segment_idx": 0,
+      "original": "ナゾグレイ",
+      "corrected": "ザクレイ",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 2,
+      "original": "よこしますよこします",
+      "corrected": "横スマ横スマ",
+      "rule": "move abbreviation"
+    }
+  ]
+}

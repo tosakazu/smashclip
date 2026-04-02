@@ -1,0 +1,57 @@
+{
+  "id": "0af498cd-0b39-4425-ab54-fa69b446207e",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.5,
+      "text": "Well, that's a bold aggressive play from Ras's perspective",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "まあ、あえての強気なアタックっていうのが、ラス側の視点になりますもんね"
+    },
+    {
+      "start": 5.5,
+      "end": 9.9,
+      "text": "But Sonic's down to his last stock and getting pressured",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "しかし、最終ストックのザ・ソニックを追い詰めている"
+    },
+    {
+      "start": 9.9,
+      "end": 11.0,
+      "text": "Ooh, forward smash!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "お、横スマッシュ!"
+    },
+    {
+      "start": 11.5,
+      "end": 14.5,
+      "text": "He flips to barely avoid, but with the directional airdodge...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "体を翻して何とか回避、しかし移動回避なので"
+    },
+    {
+      "start": 14.5,
+      "end": 16.5,
+      "text": "Landing lag! Miya with the follow-up!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "着地硬直に、ミヤの追撃!"
+    },
+    {
+      "start": 16.5,
+      "end": 18.5,
+      "text": "Chef forward tilt off the ledge!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "崖シェフ横強!"
+    }
+  ],
+  "full_text": "Well, that's a bold aggressive play from Ras's perspective But Sonic's down to his last stock and getting pressured Ooh, forward smash! He flips to barely avoid, but with the directional airdodge... Landing lag! Miya with the follow-up! Chef forward tilt off the ledge!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

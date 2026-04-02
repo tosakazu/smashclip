@@ -1,0 +1,32 @@
+{
+  "id": "db69811e-46fe-434d-b2b8-140f8c5683b2",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.5,
+      "text": "first I think we all saw it we wanted him to do it but he stays calm he knows",
+      "language": "en"
+    },
+    {
+      "start": 4.5,
+      "end": 7.8,
+      "text": "that he can afford to play a little bit more calm because he's in the lead and",
+      "language": "en"
+    },
+    {
+      "start": 7.8,
+      "end": 11.34,
+      "text": "we'll see how long it lasts because again he's facing that Nikita but all",
+      "language": "en"
+    },
+    {
+      "start": 11.34,
+      "end": 13.88,
+      "text": "the trade",
+      "language": "en"
+    }
+  ],
+  "full_text": "first I think we all saw it we wanted him to do it but he stays calm he knows that he can afford to play a little bit more calm because he's in the lead and we'll see how long it lasts because again he's facing that Nikita but all the trade",
+  "detected_language": "en",
+  "corrections": []
+}

@@ -1,0 +1,99 @@
+{
+  "id": "1d862040-bdcb-4b30-b528-5419249668e7",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "いか",
+      "language": "ja"
+    },
+    {
+      "start": 2.0,
+      "end": 4.0,
+      "text": "ノリノリツイークを誰が止める",
+      "language": "ja"
+    },
+    {
+      "start": 4.0,
+      "end": 6.0,
+      "text": "ドラ右が止められるか",
+      "language": "ja"
+    },
+    {
+      "start": 6.0,
+      "end": 8.0,
+      "text": "飛んできた 空前",
+      "language": "ja"
+    },
+    {
+      "start": 8.0,
+      "end": 10.0,
+      "text": "バナナピーナッツ",
+      "language": "ja"
+    },
+    {
+      "start": 10.0,
+      "end": 12.0,
+      "text": "崖の固め 暴れることもできない",
+      "language": "ja"
+    },
+    {
+      "start": 12.0,
+      "end": 14.0,
+      "text": "さあ怖い ここでバナナ空前",
+      "language": "ja"
+    },
+    {
+      "start": 14.0,
+      "end": 16.0,
+      "text": "決めたツイーク",
+      "language": "ja"
+    },
+    {
+      "start": 16.0,
+      "end": 18.0,
+      "text": "ツイークだ",
+      "language": "ja"
+    },
+    {
+      "start": 18.0,
+      "end": 20.0,
+      "text": "決めました",
+      "language": "ja"
+    }
+  ],
+  "full_text": "いか ノリノリツイークを誰が止める ドラ右が止められるか 飛んできた 空前 バナナピーナッツ 崖の固め 暴れることもできない さあ怖い ここでバナナ空前 決めたツイーク ツイークだ 決めました",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "ドラミキが止められるか",
+      "corrected": "ドラ右が止められるか",
+      "rule": "Player name correction: ドラミキ→ドラ右 (metadata)"
+    },
+    {
+      "segment_idx": 5,
+      "original": "崖の片目 暴れることもできない",
+      "corrected": "崖の固め 暴れることもできない",
+      "rule": "Whisper kanji homophone: 片目→固め"
+    },
+    {
+      "segment_idx": 3,
+      "original": "飛んできた 空中へ",
+      "corrected": "飛んできた 空前",
+      "rule": "Whisper mishearing: 空中へ→空前"
+    },
+    {
+      "segment_idx": 6,
+      "original": "さあ怖い ここでバナナ空中へ",
+      "corrected": "さあ怖い ここでバナナ空前",
+      "rule": "Whisper mishearing: 空中へ→空前"
+    },
+    {
+      "segment_idx": 7,
+      "original": "敵ツイーク",
+      "corrected": "決めたツイーク",
+      "rule": "Whisper mishearing: 敵→決めた"
+    }
+  ]
+}

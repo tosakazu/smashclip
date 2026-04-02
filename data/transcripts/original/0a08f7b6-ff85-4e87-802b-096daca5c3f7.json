@@ -1,0 +1,44 @@
+{
+  "id": "0a08f7b6-ff85-4e87-802b-096daca5c3f7",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.3,
+      "text": "気づけば123%",
+      "language": "ja"
+    },
+    {
+      "start": 2.3,
+      "end": 3.94,
+      "text": "さらにブーメランから",
+      "language": "ja"
+    },
+    {
+      "start": 3.94,
+      "end": 6.32,
+      "text": "矢も当てていく",
+      "language": "ja"
+    },
+    {
+      "start": 6.32,
+      "end": 8.28,
+      "text": "140%近い",
+      "language": "ja"
+    },
+    {
+      "start": 8.28,
+      "end": 9.72,
+      "text": "着地してきたところ",
+      "language": "ja"
+    },
+    {
+      "start": 9.72,
+      "end": 11.92,
+      "text": "上スマも当てていって撃墜",
+      "language": "ja"
+    }
+  ],
+  "full_text": "気づけば123% さらにブーメランから 矢も当てていく 140%近い 着地してきたところ 上スマも当てていって撃墜",
+  "detected_language": "ja",
+  "corrections": []
+}

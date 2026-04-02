@@ -1,0 +1,57 @@
+{
+  "id": "856e4c66-db62-407b-85c7-3b7bc4c5f9dd",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.54,
+      "text": "That's insane!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "素晴らしいね"
+    },
+    {
+      "start": 4.54,
+      "end": 6.64,
+      "text": "That's what it comes down to, really",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "結局こういうところだよな"
+    },
+    {
+      "start": 6.64,
+      "end": 8.6,
+      "text": "Playing however they want",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "自分の思うように"
+    },
+    {
+      "start": 8.6,
+      "end": 10.38,
+      "text": "How well they can move their character",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "どんだけキャラ動かせるかが"
+    },
+    {
+      "start": 10.38,
+      "end": 12.26,
+      "text": "That's honestly the biggest part of this game",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "やっぱ大部分占めると思うわこのゲーム"
+    },
+    {
+      "start": 12.26,
+      "end": 14.18,
+      "text": "Ouch!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "痛い"
+    }
+  ],
+  "full_text": "That's insane! That's what it comes down to, really. Playing however they want. How well they can move their character. That's honestly the biggest part of this game. Ouch!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

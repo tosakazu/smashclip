@@ -1,0 +1,50 @@
+{
+  "id": "40d08523-7eda-4701-a7c4-d31d417cdadc",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.9,
+      "text": "マッハパンチに採用されがちです",
+      "language": "ja"
+    },
+    {
+      "start": 1.9,
+      "end": 3.38,
+      "text": "となると",
+      "language": "ja"
+    },
+    {
+      "start": 3.38,
+      "end": 4.4,
+      "text": "飛び道具がですね",
+      "language": "ja"
+    },
+    {
+      "start": 4.4,
+      "end": 5.22,
+      "text": "おっとこれは",
+      "language": "ja"
+    },
+    {
+      "start": 5.22,
+      "end": 6.82,
+      "text": "げっついたね",
+      "language": "ja"
+    },
+    {
+      "start": 6.82,
+      "end": 8.02,
+      "text": "そうだね",
+      "language": "ja"
+    },
+    {
+      "start": 8.02,
+      "end": 9.34,
+      "text": "体重の軽い",
+      "language": "ja"
+    }
+  ],
+  "full_text": "マッハパンチに採用されがちです となると 飛び道具がですね おっとこれは げっついたね そうだね 体重の軽い",
+  "detected_language": "ja",
+  "corrections": []
+}

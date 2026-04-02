@@ -1,0 +1,72 @@
+{
+  "id": "83ce7184-39de-4c90-9179-be3ce87aed9d",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.06,
+      "text": "Here we go!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "踏ん張りを切っていきます"
+    },
+    {
+      "start": 1.06,
+      "end": 1.96,
+      "text": "Up tilt!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "上強を"
+    },
+    {
+      "start": 1.96,
+      "end": 3.5,
+      "text": "Against the bomb!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ボムに対して"
+    },
+    {
+      "start": 3.5,
+      "end": 7.76,
+      "text": "Nair trade against the lag!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ボムを打った後の後隙に対して空中ニュートラルで相打ちを取る形で"
+    },
+    {
+      "start": 7.76,
+      "end": 9.6,
+      "text": "From ledge!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "崖から登って"
+    },
+    {
+      "start": 9.6,
+      "end": 10.68,
+      "text": "Into bair!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そのまま空後"
+    },
+    {
+      "start": 10.68,
+      "end": 11.14,
+      "text": "KO!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "撃墜"
+    }
+  ],
+  "full_text": "Here we go! Up tilt! Against the bomb! Nair trade against the lag! From ledge! Into bair! KO!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 5,
+      "original": "そのまま空中しろ",
+      "corrected": "そのまま空後",
+      "rule": "move name (空中しろ→空後)"
+    }
+  ]
+}

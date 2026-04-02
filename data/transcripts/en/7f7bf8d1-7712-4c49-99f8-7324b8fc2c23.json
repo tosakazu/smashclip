@@ -1,0 +1,32 @@
+{
+  "id": "7f7bf8d1-7712-4c49-99f8-7324b8fc2c23",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.32,
+      "text": "Watch out for those low-spacing tools!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "める下段を狙う置き技に対して最大限の注意を払え"
+    },
+    {
+      "start": 5.32,
+      "end": 9.78,
+      "text": "Nair right here!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあ空Nここが"
+    }
+  ],
+  "full_text": "Watch out for those low-spacing tools! Nair right here!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "さあ食えねーここが",
+      "corrected": "さあ空Nここが",
+      "rule": "move name homophone"
+    }
+  ]
+}

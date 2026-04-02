@@ -1,0 +1,21 @@
+{
+  "id": "072e85f4-bafa-4deb-8121-b9ffc7dc0f99",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.02,
+      "text": "SoPo to be able to play around that in isolation, so patient, and managed to find that stock, and oh my-",
+      "language": "en"
+    }
+  ],
+  "full_text": "SoPo to be able to play around that in isolation, so patient, and managed to find that stock, and oh my-",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "Sopo to be able to play around that in Island, so patient, and managed to find that stock, and oh my-",
+      "corrected": "SoPo to be able to play around that in isolation, so patient, and managed to find that stock, and oh my-",
+      "rule": "Smash terminology correction (Sopo → SoPo, in Island → in isolation)"
+    }
+  ]
+}

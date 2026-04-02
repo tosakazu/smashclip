@@ -1,0 +1,81 @@
+{
+  "id": "bf93c687-c6f9-42c2-aa9e-14a86ce7ded1",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.32,
+      "text": "出る!危ない!",
+      "language": "ja"
+    },
+    {
+      "start": 1.64,
+      "end": 2.62,
+      "text": "トロッコ!空前!",
+      "language": "ja"
+    },
+    {
+      "start": 3.44,
+      "end": 3.82,
+      "text": "お願いします!",
+      "language": "ja"
+    },
+    {
+      "start": 5.38,
+      "end": 7.28,
+      "text": "うー、崖際のところ!危ない!",
+      "language": "ja"
+    },
+    {
+      "start": 7.48,
+      "end": 8.28,
+      "text": "あのとこはしっかりと!",
+      "language": "ja"
+    },
+    {
+      "start": 8.44,
+      "end": 8.72,
+      "text": "搭載!",
+      "language": "ja"
+    },
+    {
+      "start": 9.86,
+      "end": 10.7,
+      "text": "スピンからは!",
+      "language": "ja"
+    },
+    {
+      "start": 10.92,
+      "end": 11.5,
+      "text": "降りては!",
+      "language": "ja"
+    },
+    {
+      "start": 12.08,
+      "end": 12.6,
+      "text": "セガー!",
+      "language": "ja"
+    }
+  ],
+  "full_text": "出る!危ない! トロッコ!空前! お願いします! うー、崖際のところ!危ない! あのとこはしっかりと! 搭載! スピンからは! 降りては! セガー!",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "貸せ前",
+      "corrected": "空前",
+      "rule": "smash term"
+    },
+    {
+      "segment_idx": 3,
+      "original": "崖使いのところ",
+      "corrected": "崖際のところ",
+      "rule": "misheard word"
+    },
+    {
+      "segment_idx": 6,
+      "original": "スーピンからは",
+      "corrected": "スピンからは",
+      "rule": "character move"
+    }
+  ]
+}

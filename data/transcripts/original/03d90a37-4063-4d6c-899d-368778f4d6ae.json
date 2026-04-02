@@ -1,0 +1,45 @@
+{
+  "id": "03d90a37-4063-4d6c-899d-368778f4d6ae",
+  "segments": [
+    {
+      "start": 0.98,
+      "end": 3.34,
+      "text": "下スマ強気に暴れて崖上に展開",
+      "language": "ja"
+    },
+    {
+      "start": 3.34,
+      "end": 5.4,
+      "text": "上Bで展開を入れ替えて",
+      "language": "ja"
+    },
+    {
+      "start": 5.4,
+      "end": 8.02,
+      "text": "この崖 回避上がり 上強",
+      "language": "ja"
+    }
+  ],
+  "full_text": "下スマ強気に暴れて崖上に展開 上Bで展開を入れ替えて この崖 回避上がり 上強",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "下スマッシュ強気に暴れて崖上に展開",
+      "corrected": "下スマ強気に暴れて崖上に展開",
+      "rule": "auto-rule"
+    },
+    {
+      "segment_idx": 1,
+      "original": "上ビーで展開を入れ替えて",
+      "corrected": "上Bで展開を入れ替えて",
+      "rule": "auto-rule"
+    },
+    {
+      "segment_idx": 2,
+      "original": "上コープ",
+      "corrected": "上強",
+      "rule": "misheard move"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "id": "f8978dc5-b2b3-4dae-9f35-a2c1cebf527f",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.66,
+      "text": "うーん",
+      "language": "ja"
+    },
+    {
+      "start": 0.66,
+      "end": 1.26,
+      "text": "反射撃ったねー",
+      "language": "ja"
+    },
+    {
+      "start": 1.26,
+      "end": 2.0,
+      "text": "じゃあ撃とうかーって",
+      "language": "ja"
+    },
+    {
+      "start": 2.0,
+      "end": 2.5,
+      "text": "できちゃうんだよね",
+      "language": "ja"
+    },
+    {
+      "start": 2.5,
+      "end": 3.0,
+      "text": "おっと!",
+      "language": "ja"
+    },
+    {
+      "start": 3.0,
+      "end": 4.0,
+      "text": "攻撃が取ったか!",
+      "language": "ja"
+    },
+    {
+      "start": 5.62,
+      "end": 6.12,
+      "text": "うわっ!",
+      "language": "ja"
+    },
+    {
+      "start": 6.12,
+      "end": 6.62,
+      "text": "あ…",
+      "language": "ja"
+    },
+    {
+      "start": 6.62,
+      "end": 7.3,
+      "text": "いや、これは大丈夫",
+      "language": "ja"
+    },
+    {
+      "start": 7.3,
+      "end": 7.8,
+      "text": "いやー!",
+      "language": "ja"
+    },
+    {
+      "start": 7.8,
+      "end": 8.3,
+      "text": "うわー!",
+      "language": "ja"
+    },
+    {
+      "start": 8.3,
+      "end": 8.8,
+      "text": "なるほど!",
+      "language": "ja"
+    }
+  ],
+  "full_text": "うーん 反射撃ったねー じゃあ撃とうかーって できちゃうんだよね おっと! 攻撃が取ったか! うわっ! あ… いや、これは大丈夫 いやー! うわー! なるほど!",
+  "detected_language": "ja",
+  "corrections": []
+}

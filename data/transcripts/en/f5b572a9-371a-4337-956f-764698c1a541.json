@@ -1,0 +1,63 @@
+{
+  "id": "f5b572a9-371a-4337-956f-764698c1a541",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Oh",
+      "language": "en"
+    },
+    {
+      "start": 4.68,
+      "end": 6.68,
+      "text": "That can't do that",
+      "language": "en"
+    },
+    {
+      "start": 11.32,
+      "end": 14.34,
+      "text": "Been hitting that angle pretty a consistent. You got some notches on that controller",
+      "language": "en"
+    },
+    {
+      "start": 15.44,
+      "end": 18.08,
+      "text": "Not the Pit angles what all right?",
+      "language": "en"
+    },
+    {
+      "start": 18.96,
+      "end": 21.12,
+      "text": "Not the Z-angles, bro. Seriously",
+      "language": "en"
+    },
+    {
+      "start": 22.76,
+      "end": 26.76,
+      "text": "But Spargo is a very good lead has the limit as well for this ledge trap",
+      "language": "en"
+    },
+    {
+      "start": 26.76,
+      "end": 31.62,
+      "text": "What's the option the forward tilt this limit about to run out as well, but there's the up air and it is",
+      "language": "en"
+    }
+  ],
+  "full_text": "Oh That can't do that Been hitting that angle pretty a consistent. You got some notches on that controller Not the Pit angles what all right? Not the Z-angles, bro. Seriously But Spargo is a very good lead has the limit as well for this ledge trap What's the option the forward tilt this limit about to run out as well, but there's the up air and it is",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 4,
+      "original": "zangles",
+      "corrected": "Z-angles",
+      "rule": "smash term"
+    },
+    {
+      "segment_idx": 6,
+      "original": "the upper",
+      "corrected": "the up air",
+      "rule": "smash term"
+    }
+  ]
+}

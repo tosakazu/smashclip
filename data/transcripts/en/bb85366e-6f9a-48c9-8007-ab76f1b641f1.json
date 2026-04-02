@@ -1,0 +1,49 @@
+{
+  "id": "bb85366e-6f9a-48c9-8007-ab76f1b641f1",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.02,
+      "text": "Both at around 80 percent now",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "現在お互い80%ほど"
+    },
+    {
+      "start": 4.02,
+      "end": 6.24,
+      "text": "Full stock difference though",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "丸々一つの差があるが"
+    },
+    {
+      "start": 6.24,
+      "end": 7.84,
+      "text": "Can Ken player close this out?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "このままケン選手押し切るのか"
+    },
+    {
+      "start": 7.84,
+      "end": 10.46,
+      "text": "Up smash into forward smash",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "上スマッシュから横スマッシュ"
+    },
+    {
+      "start": 10.46,
+      "end": 11.28,
+      "text": "With the dodge in between",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "回避を挟んで"
+    }
+  ],
+  "full_text": "Both at around 80 percent now Full stock difference though Can Ken player close this out? Up smash into forward smash With the dodge in between",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

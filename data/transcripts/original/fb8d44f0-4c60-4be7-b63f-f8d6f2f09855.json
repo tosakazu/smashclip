@@ -1,0 +1,39 @@
+{
+  "id": "fb8d44f0-4c60-4be7-b63f-f8d6f2f09855",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 8.68,
+      "text": "はしません降り空Nからの空中後ろですがドンキー今後重い重い あっちさあプレスで火力を稼ぎますがここはね",
+      "language": "ja"
+    },
+    {
+      "start": 8.68,
+      "end": 13.6,
+      "text": "確定反撃もありますと上強で拾って空上",
+      "language": "ja"
+    }
+  ],
+  "full_text": "はしません降り空Nからの空中後ろですがドンキー今後重い重い あっちさあプレスで火力を稼ぎますがここはね 確定反撃もありますと上強で拾って空上",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "おりクエヌからの",
+      "corrected": "降り空Nからの",
+      "rule": "misheard: クエヌ→空N"
+    },
+    {
+      "segment_idx": 0,
+      "original": "思い思い あっちさあプレスので",
+      "corrected": "重い重い あっちさあプレスで",
+      "rule": "misheard"
+    },
+    {
+      "segment_idx": 1,
+      "original": "上京で拾って空中へ",
+      "corrected": "上強で拾って空上",
+      "rule": "kanji homophone: 上京→上強, 空中へ→空上"
+    }
+  ]
+}

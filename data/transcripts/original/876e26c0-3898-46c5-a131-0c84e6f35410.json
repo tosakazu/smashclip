@@ -1,0 +1,26 @@
+{
+  "id": "876e26c0-3898-46c5-a131-0c84e6f35410",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "地面でじーっと待って",
+      "language": "ja"
+    },
+    {
+      "start": 2.0,
+      "end": 3.0,
+      "text": "復帰際",
+      "language": "ja"
+    },
+    {
+      "start": 3.0,
+      "end": 5.14,
+      "text": "とうとう通りました空下のメテオ",
+      "language": "ja"
+    }
+  ],
+  "full_text": "地面でじーっと待って 復帰際 とうとう通りました空下のメテオ",
+  "detected_language": "ja",
+  "corrections": []
+}

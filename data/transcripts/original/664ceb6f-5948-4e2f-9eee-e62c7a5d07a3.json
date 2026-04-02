@@ -1,0 +1,45 @@
+{
+  "id": "664ceb6f-5948-4e2f-9eee-e62c7a5d07a3",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.8,
+      "text": "きくざかり、むらびと",
+      "language": "ja"
+    },
+    {
+      "start": 0.8,
+      "end": 4.46,
+      "text": "さあしかし待ち構えるリゼアス",
+      "language": "ja"
+    },
+    {
+      "start": 4.46,
+      "end": 5.08,
+      "text": "マルス",
+      "language": "ja"
+    },
+    {
+      "start": 5.08,
+      "end": 7.54,
+      "text": "あえてくっそーっと空中前攻撃",
+      "language": "ja"
+    },
+    {
+      "start": 7.54,
+      "end": 9.68,
+      "text": "あえて木の上の前に",
+      "language": "ja"
+    }
+  ],
+  "full_text": "きくざかり、むらびと さあしかし待ち構えるリゼアス マルス あえてくっそーっと空中前攻撃 あえて木の上の前に",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "キクザカリマラビト",
+      "corrected": "きくざかり、むらびと",
+      "rule": "player name + character name"
+    }
+  ]
+}

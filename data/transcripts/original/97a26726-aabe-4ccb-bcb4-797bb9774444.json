@@ -1,0 +1,87 @@
+{
+  "id": "97a26726-aabe-4ccb-bcb4-797bb9774444",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.18,
+      "text": "なんか調子が潰れてる感じだから",
+      "language": "ja"
+    },
+    {
+      "start": 2.18,
+      "end": 2.5,
+      "text": "そう",
+      "language": "ja"
+    },
+    {
+      "start": 2.5,
+      "end": 5.12,
+      "text": "本当に難しいと思うんですが",
+      "language": "ja"
+    },
+    {
+      "start": 5.12,
+      "end": 6.46,
+      "text": "あー行きやがるよ",
+      "language": "ja"
+    },
+    {
+      "start": 6.46,
+      "end": 7.8,
+      "text": "空中上対空",
+      "language": "ja"
+    },
+    {
+      "start": 7.8,
+      "end": 8.34,
+      "text": "対空じゃない",
+      "language": "ja"
+    },
+    {
+      "start": 8.34,
+      "end": 11.14,
+      "text": "地上で空中上登りに当たるの良さそうです",
+      "language": "ja"
+    },
+    {
+      "start": 11.14,
+      "end": 12.04,
+      "text": "そうだね",
+      "language": "ja"
+    },
+    {
+      "start": 12.04,
+      "end": 13.98,
+      "text": "一発が出てる",
+      "language": "ja"
+    },
+    {
+      "start": 13.98,
+      "end": 16.18,
+      "text": "これ耐えるかギリギリ",
+      "language": "ja"
+    },
+    {
+      "start": 16.18,
+      "end": 17.66,
+      "text": "えー当たっちゃ",
+      "language": "ja"
+    }
+  ],
+  "full_text": "なんか調子が潰れてる感じだから そう 本当に難しいと思うんですが あー行きやがるよ 空中上対空 対空じゃない 地上で空中上登りに当たるの良さそうです そうだね 一発が出てる これ耐えるかギリギリ えー当たっちゃ",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 8,
+      "original": "人型が出てる",
+      "corrected": "一発が出てる",
+      "rule": "misheard word"
+    },
+    {
+      "segment_idx": 9,
+      "original": "これ垂れるかギリギリ",
+      "corrected": "これ耐えるかギリギリ",
+      "rule": "misheard word (垂れる→耐える)"
+    }
+  ]
+}

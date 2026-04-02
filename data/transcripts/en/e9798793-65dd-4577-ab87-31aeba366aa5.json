@@ -1,0 +1,40 @@
+{
+  "id": "e9798793-65dd-4577-ab87-31aeba366aa5",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.72,
+      "text": "Repeatedly grabbing and forward throwing!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ポコポコと取って前に投げていく"
+    },
+    {
+      "start": 1.72,
+      "end": 5.72,
+      "text": "Bair doesn't connect!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空中後ろ通らない"
+    },
+    {
+      "start": 5.72,
+      "end": 9.46,
+      "text": "Just barely getting the jab through!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "弱を通しているギリギリ"
+    }
+  ],
+  "full_text": "Repeatedly grabbing and forward throwing! Bair doesn't connect! Just barely getting the jab through!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "右方",
+      "corrected": "ギリギリ",
+      "rule": "misheard"
+    }
+  ]
+}

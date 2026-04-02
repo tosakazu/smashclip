@@ -1,0 +1,102 @@
+{
+  "id": "719c3bea-500f-4acc-8cc1-a0b6839e929f",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.24,
+      "text": "Escaping the fair with a nair and parry, but",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空前から逃れていく空中N ジャストシールドですが"
+    },
+    {
+      "start": 3.24,
+      "end": 4.68,
+      "text": "The follow-up is also solid",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "その後の攻撃とも優秀"
+    },
+    {
+      "start": 4.68,
+      "end": 6.66,
+      "text": "The airdodge caught the lingering hit, but",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空中シールドは持続ヒットにはなりましたが"
+    },
+    {
+      "start": 6.66,
+      "end": 7.72,
+      "text": "Secured the ledge advantage",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "崖展開は獲得した"
+    },
+    {
+      "start": 7.72,
+      "end": 9.32,
+      "text": "What's happening with this ledge?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "この崖はどういったんですか"
+    },
+    {
+      "start": 9.32,
+      "end": 11.38,
+      "text": "I see, off the edge into a fair",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "なるほど体を切り離して空中前攻撃"
+    },
+    {
+      "start": 11.38,
+      "end": 12.44,
+      "text": "Going for the meteor, but",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "メテオをぶつけていきますが"
+    },
+    {
+      "start": 12.44,
+      "end": 13.74,
+      "text": "That dive is way too risky!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ダイブ展開はまずすぎるぞ"
+    },
+    {
+      "start": 13.74,
+      "end": 15.44,
+      "text": "Perfect ledge control!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "もう完璧崖展開"
+    }
+  ],
+  "full_text": "Escaping the fair with a nair and parry, but The follow-up is also solid The airdodge caught the lingering hit, but Secured the ledge advantage What's happening with this ledge? I see, off the edge into a fair Going for the meteor, but That dive is way too risky! Perfect ledge control!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_index": 0,
+      "original": "前から逃れていく空中エンジャースシールドですが",
+      "corrected": "空前から逃れていく空中N ジャストシールドですが"
+    },
+    {
+      "segment_index": 3,
+      "original": "ガキ展開は獲得した",
+      "corrected": "崖展開は獲得した"
+    },
+    {
+      "segment_index": 4,
+      "original": "このガキはどういったんですか",
+      "corrected": "この崖はどういったんですか"
+    },
+    {
+      "segment_index": 8,
+      "original": "フール完璧ガキ展開",
+      "corrected": "もう完璧崖展開"
+    }
+  ]
+}

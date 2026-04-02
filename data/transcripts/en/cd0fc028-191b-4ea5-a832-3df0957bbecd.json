@@ -1,0 +1,56 @@
+{
+  "id": "cd0fc028-191b-4ea5-a832-3df0957bbecd",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.86,
+      "text": "figured it out!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "攻略する"
+    },
+    {
+      "start": 0.86,
+      "end": 2.72,
+      "text": "rolling strong!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "大乗り"
+    },
+    {
+      "start": 2.72,
+      "end": 3.1,
+      "text": "That's scary!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "怖いぞ"
+    },
+    {
+      "start": 3.1,
+      "end": 6.18,
+      "text": "Up smash KO!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "上スマ撃墜"
+    },
+    {
+      "start": 6.18,
+      "end": 7.08,
+      "text": "Takes the stock!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "取っていきました"
+    }
+  ],
+  "full_text": "figured it out! rolling strong! That's scary! Up smash KO! Takes the stock!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 3,
+      "original": "上差襲撃",
+      "corrected": "上スマ撃墜",
+      "rule": "smash term (上スマッシュ撃墜)"
+    }
+  ]
+}

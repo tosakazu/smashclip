@@ -1,0 +1,69 @@
+{
+  "id": "e52e2f66-0877-4203-84f6-82afb865a88c",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.96,
+      "text": "相方が",
+      "language": "ja"
+    },
+    {
+      "start": 0.96,
+      "end": 1.9,
+      "text": "相方が",
+      "language": "ja"
+    },
+    {
+      "start": 1.9,
+      "end": 2.7,
+      "text": "縦横無尽だ",
+      "language": "ja"
+    },
+    {
+      "start": 2.7,
+      "end": 3.4,
+      "text": "下スマッシュ",
+      "language": "ja"
+    },
+    {
+      "start": 3.4,
+      "end": 3.92,
+      "text": "そのバーガリン",
+      "language": "ja"
+    },
+    {
+      "start": 3.92,
+      "end": 4.58,
+      "text": "うまく合わせて",
+      "language": "ja"
+    },
+    {
+      "start": 4.58,
+      "end": 7.64,
+      "text": "この崖上がりどうなる",
+      "language": "ja"
+    },
+    {
+      "start": 7.64,
+      "end": 8.56,
+      "text": "本体が",
+      "language": "ja"
+    },
+    {
+      "start": 8.56,
+      "end": 10.44,
+      "text": "本体はジャンプ上がりしてるのに",
+      "language": "ja"
+    }
+  ],
+  "full_text": "相方が 相方が 縦横無尽だ 下スマッシュ そのバーガリン うまく合わせて この崖上がりどうなる 本体が 本体はジャンプ上がりしてるのに",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 4,
+      "original": "そのバーガリン",
+      "corrected": "その場がりん",
+      "rule": "no change - 場 reference"
+    }
+  ]
+}

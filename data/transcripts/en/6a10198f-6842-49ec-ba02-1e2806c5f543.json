@@ -1,0 +1,64 @@
+{
+  "id": "6a10198f-6842-49ec-ba02-1e2806c5f543",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.36,
+      "text": "A rough spot developing for Gakuto right now",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "苦い展開がガクト選手に降り注ぎます"
+    },
+    {
+      "start": 2.36,
+      "end": 5.06,
+      "text": "Fair coming in again!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空前さらに来る"
+    },
+    {
+      "start": 5.06,
+      "end": 5.94,
+      "text": "Here we go!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあ"
+    },
+    {
+      "start": 5.94,
+      "end": 7.54,
+      "text": "Could definitely go for it here",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここ来てもおかしくない"
+    },
+    {
+      "start": 7.54,
+      "end": 9.0,
+      "text": "Wait, the spacing though",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "おっとそもそも距離が"
+    },
+    {
+      "start": 9.0,
+      "end": 9.72,
+      "text": "And the bounce",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "バウンドも"
+    }
+  ],
+  "full_text": "A rough spot developing for Gakuto right now Fair coming in again! Here we go! Could definitely go for it here Wait, the spacing though And the bounce",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "宇宙前",
+      "corrected": "空前",
+      "rule": "kanji homophone (宇宙→空)"
+    }
+  ]
+}

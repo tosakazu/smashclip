@@ -1,0 +1,32 @@
+{
+  "id": "8c5123cb-7f05-4799-b654-dc0cb988f771",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.44,
+      "text": "踏みつけ!おっと!浮遊キャンセルが出なかったか",
+      "language": "ja"
+    },
+    {
+      "start": 3.44,
+      "end": 7.12,
+      "text": "下を取れ",
+      "language": "ja"
+    },
+    {
+      "start": 7.12,
+      "end": 9.4,
+      "text": "復帰がうますぎる",
+      "language": "ja"
+    },
+    {
+      "start": 9.4,
+      "end": 11.1,
+      "text": "下スマッシュ!おっと!",
+      "language": "ja"
+    }
+  ],
+  "full_text": "踏みつけ!おっと!浮遊キャンセルが出なかったか 下を取れ 復帰がうますぎる 下スマッシュ!おっと!",
+  "detected_language": "ja",
+  "corrections": []
+}

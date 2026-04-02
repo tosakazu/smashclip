@@ -1,0 +1,32 @@
+{
+  "id": "5b0a4b08-1799-4a84-b9a6-1dec6e41d4f4",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.5,
+      "text": "Duck Hunt — in a spot like this, looking at how things stand...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ダックハント こういうところで考えれば今のように"
+    },
+    {
+      "start": 6.44,
+      "end": 11.14,
+      "text": "Early forward smash from above on recovery!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "早めに上から復帰横スマッシュ"
+    }
+  ],
+  "full_text": "Duck Hunt — in a spot like this, looking at how things stand... Early forward smash from above on recovery!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "ダッグハンド",
+      "corrected": "ダックハント",
+      "rule": "character name"
+    }
+  ]
+}

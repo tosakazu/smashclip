@@ -1,0 +1,27 @@
+{
+  "id": "4840a27e-6563-486a-863e-0b03391e58fb",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 7.38,
+      "text": "He has the future eye, future vision on Miya's eyes, he knows when it's coming, grabs the ledge, still a moment into the back throw, sends it back.",
+      "language": "en"
+    }
+  ],
+  "full_text": "He has the future eye, future vision on Miya's eyes, he knows when it's coming, grabs the ledge, still a moment into the back throw, sends it back.",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "Milla's eyes",
+      "corrected": "Miya's eyes",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 0,
+      "original": "steal a moment in the back throw",
+      "corrected": "still a moment into the back throw",
+      "rule": "misheard words"
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "id": "1afc2217-622e-4218-be95-fc9f46df6e77",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.9,
+      "text": "In just this neutral, one side really can't do that, right?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ただの展開のうちの上に 片方なんでできないわけですもんね"
+    },
+    {
+      "start": 2.9,
+      "end": 4.76,
+      "text": "Yeah, maybe that was only early on",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そう、その最初だけだったのかも"
+    },
+    {
+      "start": 4.76,
+      "end": 5.54,
+      "text": "But that won't work",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "無理だけど"
+    },
+    {
+      "start": 5.54,
+      "end": 8.9,
+      "text": "Staling is... well, that kind of staling rarely happens",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "相殺は、まぁあんなわけ相殺より なかなか無いですもんね"
+    },
+    {
+      "start": 8.9,
+      "end": 10.1,
+      "text": "What now?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "どうする?"
+    },
+    {
+      "start": 10.1,
+      "end": 12.06,
+      "text": "Well, it's probably staling in this situation",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "まぁ展開のうちの相殺さん なんだろうな"
+    },
+    {
+      "start": 12.06,
+      "end": 13.0,
+      "text": "Up, up!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "上に上に"
+    },
+    {
+      "start": 13.0,
+      "end": 14.8,
+      "text": "So the damage just keeps stacking like that",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "だから同じような ダメージはかさんで"
+    }
+  ],
+  "full_text": "In just this neutral, one side really can't do that, right? Yeah, maybe that was only early on. But that won't work. Staling is... well, that kind of staling rarely happens. What now? Well, it's probably staling in this situation. Up, up! So the damage just keeps stacking like that",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "ただの電話のうちの上に 片浜なんでできないわけですもんね",
+      "corrected": "ただの展開のうちの上に 片方なんでできないわけですもんね",
+      "rule": "Whisper mishearing: 電話→展開, 片浜→片方"
+    },
+    {
+      "segment_idx": 3,
+      "original": "総長は、まぁあんなわけ総長より なかなか無いですもんね",
+      "corrected": "相殺は、まぁあんなわけ相殺より なかなか無いですもんね",
+      "rule": "Whisper kanji homophone: 総長→相殺"
+    },
+    {
+      "segment_idx": 5,
+      "original": "まぁ電話のうちの総長さん なんだろうな",
+      "corrected": "まぁ展開のうちの相殺さん なんだろうな",
+      "rule": "Whisper kanji homophone: 電話→展開, 総長→相殺"
+    },
+    {
+      "segment_idx": 7,
+      "original": "だから同じような タブレはかかして",
+      "corrected": "だから同じような ダメージはかさんで",
+      "rule": "Whisper mishearing: タブレはかかして→ダメージはかさんで"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "5777a9d1-a952-4eae-be0b-0c98a3d2a0cf",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.68,
+      "text": "Right now and a nice foot still out of shields coming in as well",
+      "language": "en"
+    },
+    {
+      "start": 2.68,
+      "end": 9.6,
+      "text": "I mean obviously not gonna matter too much in this match comparatively to other stuff because Joker's aerials aren't extremely safe",
+      "language": "en"
+    },
+    {
+      "start": 9.6,
+      "end": 12.24,
+      "text": "But he's got the double wham!",
+      "language": "en"
+    }
+  ],
+  "full_text": "Right now and a nice foot still out of shields coming in as well I mean obviously not gonna matter too much in this match comparatively to other stuff because Joker's aerials aren't extremely safe But he's got the double wham!",
+  "detected_language": "en",
+  "corrections": []
+}

@@ -1,0 +1,102 @@
+{
+  "id": "c4bd1ee1-7bde-4f41-bf6a-bb6cc8805089",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.64,
+      "text": "Knockdown into fair confirm, one more!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "落ち込んで空前固めもう一発"
+    },
+    {
+      "start": 1.64,
+      "end": 2.22,
+      "text": "And another one!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "もう一発ですね"
+    },
+    {
+      "start": 2.22,
+      "end": 4.48,
+      "text": "Trying to set up the shield break here, but",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これでガードを削ることによるセットアップを狙いましたが"
+    },
+    {
+      "start": 4.48,
+      "end": 5.32,
+      "text": "Mashes out right away",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "早めに暴れていきました"
+    },
+    {
+      "start": 5.32,
+      "end": 6.84,
+      "text": "Won't fall for the banana pressure",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "バナナの奥のプレッシャーに負けず"
+    },
+    {
+      "start": 6.84,
+      "end": 8.3,
+      "text": "Gets back on stage early, but",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "早めにラインを回復しましたが"
+    },
+    {
+      "start": 8.3,
+      "end": 10.02,
+      "text": "Has to shield the fair there",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここは空中前シールドせざるを得ない"
+    },
+    {
+      "start": 10.02,
+      "end": 11.34,
+      "text": "Dash attack",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ダッシュ攻撃"
+    },
+    {
+      "start": 11.34,
+      "end": 12.0,
+      "text": "For real!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "本気"
+    },
+    {
+      "start": 12.0,
+      "end": 13.36,
+      "text": "So fast!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "速い"
+    }
+  ],
+  "full_text": "Knockdown into fair confirm, one more! And another one! Trying to set up the shield break here, but mashes out right away. Won't fall for the banana pressure. Gets back on stage early, but has to shield the fair there. Dash attack. For real! So fast!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 4,
+      "original": "バーナーの顔の",
+      "corrected": "バナナの奥の",
+      "rule": "misheard character move (Diddy Kong banana)"
+    },
+    {
+      "segment_idx": 7,
+      "original": "出し攻撃",
+      "corrected": "ダッシュ攻撃",
+      "rule": "misheard move name"
+    }
+  ]
+}

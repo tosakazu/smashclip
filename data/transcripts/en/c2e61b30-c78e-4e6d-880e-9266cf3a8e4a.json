@@ -1,0 +1,27 @@
+{
+  "id": "c2e61b30-c78e-4e6d-880e-9266cf3a8e4a",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.08,
+      "text": "it was a good it was a good show they should watch it",
+      "language": "en"
+    },
+    {
+      "start": 4.08,
+      "end": 11.44,
+      "text": "oh okay Miiya striking first in the matchup honestly two up",
+      "language": "en"
+    }
+  ],
+  "full_text": "it was a good it was a good show they should watch it oh okay Miiya striking first in the matchup honestly two up",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "mia",
+      "corrected": "Miiya",
+      "rule": "player name"
+    }
+  ]
+}

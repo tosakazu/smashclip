@@ -1,0 +1,70 @@
+{
+  "id": "7a6a4491-c5de-4578-8501-7c7c906619f8",
+  "segments": [
+    {
+      "start": 0.8,
+      "end": 2.0,
+      "text": "Absolutely perfect!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "確かに完璧"
+    },
+    {
+      "start": 2.0,
+      "end": 3.58,
+      "text": "That up smash didn't KO!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "今の上スマ飛ばないんですね"
+    },
+    {
+      "start": 3.58,
+      "end": 4.58,
+      "text": "I thought it would!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "飛ぶと思ったんだけど"
+    },
+    {
+      "start": 4.58,
+      "end": 8.24,
+      "text": "That's the tweak that keeps it from killing!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "飛ばない判断をしているツイーク"
+    },
+    {
+      "start": 8.24,
+      "end": 9.3,
+      "text": "Insane!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "やばい"
+    },
+    {
+      "start": 9.3,
+      "end": 10.46,
+      "text": "They just need to hold on...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "守りきりたいが"
+    }
+  ],
+  "full_text": "Absolutely perfect! That up smash didn't KO! I thought it would! That's the tweak that keeps it from killing! Insane! They just need to hold on...",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "確かし",
+      "corrected": "確かに",
+      "rule": "whisper misrecognition"
+    },
+    {
+      "segment_idx": 1,
+      "original": "上様",
+      "corrected": "上スマ",
+      "rule": "上スマッシュ misheard"
+    }
+  ]
+}

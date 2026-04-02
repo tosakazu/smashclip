@@ -1,0 +1,82 @@
+{
+  "id": "3272453b-4de2-41aa-9963-2d7736b92a89",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.48,
+      "text": "Scary disadvantage state, but",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "怖い不利フレームではあったが"
+    },
+    {
+      "start": 1.48,
+      "end": 4.54,
+      "text": "Lucas's throws aren't that quick, so",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "投げが早いとは言えないリュカなので"
+    },
+    {
+      "start": 4.54,
+      "end": 5.8,
+      "text": "grabbing is tough.",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "少し取るのは難しいですね"
+    },
+    {
+      "start": 5.8,
+      "end": 6.44,
+      "text": "Parry!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ジャストシールド"
+    },
+    {
+      "start": 6.44,
+      "end": 8.04,
+      "text": "Final kill!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ラストキル"
+    },
+    {
+      "start": 8.04,
+      "end": 9.24,
+      "text": "KO off the up throw!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "上投げで撃墜"
+    }
+  ],
+  "full_text": "Scary disadvantage state, but Lucas's throws aren't that quick, so grabbing is tough. Parry! Final kill! KO off the up throw!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "怖いフリなフレーム",
+      "corrected": "怖い不利フレーム",
+      "rule": "kanji homophone: フリな→不利"
+    },
+    {
+      "segment_idx": 1,
+      "original": "リュウカ",
+      "corrected": "リュカ",
+      "rule": "character name: Lucas=リュカ"
+    },
+    {
+      "segment_idx": 3,
+      "original": "じゃあサシルト",
+      "corrected": "ジャストシールド",
+      "rule": "misheard: ジャストシールド"
+    },
+    {
+      "segment_idx": 4,
+      "original": "ラスギー",
+      "corrected": "ラストキル",
+      "rule": "misheard: ラストキル"
+    }
+  ]
+}

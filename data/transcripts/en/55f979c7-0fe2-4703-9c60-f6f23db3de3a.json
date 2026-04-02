@@ -1,0 +1,21 @@
+{
+  "id": "55f979c7-0fe2-4703-9c60-f6f23db3de3a",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 10.86,
+      "text": "Spike to get a combo, but it's okay, he sent him down to the other side, but now you're the one in the bad position, one mistake and it comes so rough, oh, doesn't get the back or anything, just Miya waiting for a reaction, and now gets the death throttle.",
+      "language": "en"
+    }
+  ],
+  "full_text": "Spike to get a combo, but it's okay, he sent him down to the other side, but now you're the one in the bad position, one mistake and it comes so rough, oh, doesn't get the back or anything, just Miya waiting for a reaction, and now gets the death throttle.",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "Mija",
+      "corrected": "Miya",
+      "rule": "player name"
+    }
+  ]
+}

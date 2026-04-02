@@ -1,0 +1,39 @@
+{
+  "id": "16f7ec0a-b105-40db-8195-f2284057da67",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.08,
+      "text": "ここは横スマホールドをしている中で果敢にダッシュ攻撃で",
+      "language": "ja"
+    },
+    {
+      "start": 5.08,
+      "end": 8.66,
+      "text": "スピンを投げでとがめました",
+      "language": "ja"
+    },
+    {
+      "start": 8.66,
+      "end": 12.96,
+      "text": "ピクミンのヒットも込みでやりやすいものがあったのかなと",
+      "language": "ja"
+    }
+  ],
+  "full_text": "ここは横スマホールドをしている中で果敢にダッシュ攻撃で スピンを投げでとがめました ピクミンのヒットも込みでやりやすいものがあったのかなと",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "ロボスマホールをしている中で",
+      "corrected": "横スマホールドをしている中で",
+      "rule": "Garbled transcription: ロボスマホール→横スマホールド"
+    },
+    {
+      "segment_idx": 2,
+      "original": "ピクミンの一つとも込みで",
+      "corrected": "ピクミンのヒットも込みで",
+      "rule": "Garbled transcription: 一つとも→ヒットも"
+    }
+  ]
+}

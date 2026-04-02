@@ -1,0 +1,69 @@
+{
+  "id": "f44d3ea6-0ccc-4903-99c0-7ec423d17ee9",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.16,
+      "text": "作り出して読み合いするのが一番ですね",
+      "language": "ja"
+    },
+    {
+      "start": 2.16,
+      "end": 4.64,
+      "text": "ベク変ずらしから抜け目ですか?",
+      "language": "ja"
+    },
+    {
+      "start": 4.8,
+      "end": 5.02,
+      "text": "そうですね",
+      "language": "ja"
+    },
+    {
+      "start": 5.02,
+      "end": 7.22,
+      "text": "ベク変入れてないとおそらく撃墜しましたね",
+      "language": "ja"
+    },
+    {
+      "start": 7.22,
+      "end": 8.1,
+      "text": "あぶないか",
+      "language": "ja"
+    },
+    {
+      "start": 8.1,
+      "end": 8.88,
+      "text": "弱弱弱",
+      "language": "ja"
+    },
+    {
+      "start": 8.88,
+      "end": 9.98,
+      "text": "拳半端取らなかった",
+      "language": "ja"
+    },
+    {
+      "start": 9.98,
+      "end": 12.7,
+      "text": "竜巻でなんと撃墜",
+      "language": "ja"
+    }
+  ],
+  "full_text": "作り出して読み合いするのが一番ですね ベク変ずらしから抜け目ですか? そうですね ベク変入れてないとおそらく撃墜しましたね あぶないか 弱弱弱 拳半端取らなかった 竜巻でなんと撃墜",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "撃ちずらしから抜き目",
+      "corrected": "ベク変ずらしから抜け目",
+      "rule": "smash term: 撃ちずらし→ベク変ずらし"
+    },
+    {
+      "segment_idx": 3,
+      "original": "撃ち入れてないと",
+      "corrected": "ベク変入れてないと",
+      "rule": "smash term: 撃ち→ベク変"
+    }
+  ]
+}

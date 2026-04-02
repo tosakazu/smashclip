@@ -1,0 +1,33 @@
+{
+  "id": "f9d761f3-3c3e-464c-8178-ece0efbd2ebd",
+  "segments": [
+    {
+      "start": 0.26,
+      "end": 3.5,
+      "text": "He dashes but comes to a pretty sharp stop",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "今度はダッシュしたけどってね、割とピタッと止まっちゃうんですけど"
+    },
+    {
+      "start": 3.5,
+      "end": 5.84,
+      "text": "By using the schedule technique, he moves forward",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "スケジュールのテクニックをすることによって前に進む"
+    },
+    {
+      "start": 5.84,
+      "end": 7.92,
+      "text": "From moving too far forward",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "前に進みすぎたことによって"
+    }
+  ],
+  "full_text": "He dashes but comes to a pretty sharp stop By using the schedule technique, he moves forward From moving too far forward",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

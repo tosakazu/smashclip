@@ -1,0 +1,45 @@
+{
+  "id": "dabaa042-1858-426a-8192-8fdf99bd474d",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.6,
+      "text": "case of Miya, he's just got to hold that one real quick as Raru going to hold the lead,",
+      "language": "en"
+    },
+    {
+      "start": 3.66,
+      "end": 9.02,
+      "text": "but maybe only temporary, Miya determined, what a tech, upbeat to get back, another chance",
+      "language": "en"
+    },
+    {
+      "start": 9.02,
+      "end": 11.62,
+      "text": "in life for Raru, but Miya, again, never giving up.",
+      "language": "en"
+    }
+  ],
+  "full_text": "case of Miya, he's just got to hold that one real quick as Raru going to hold the lead, but maybe only temporary, Miya determined, what a tech, upbeat to get back, another chance in life for Raru, but Miya, again, never giving up.",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "case of Mia, he's just got to hold that one real quick as Raru going to hold the lead,",
+      "corrected": "case of Miya, he's just got to hold that one real quick as Raru going to hold the lead,",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 1,
+      "original": "but maybe only temporary, Mia determined, what a tech, upbeat to get back, another chance",
+      "corrected": "but maybe only temporary, Miya determined, what a tech, upbeat to get back, another chance",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 2,
+      "original": "in life for Raru, but Mia, again, never giving up.",
+      "corrected": "in life for Raru, but Miya, again, never giving up.",
+      "rule": "player name"
+    }
+  ]
+}

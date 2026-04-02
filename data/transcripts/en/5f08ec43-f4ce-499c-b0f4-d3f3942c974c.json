@@ -1,0 +1,41 @@
+{
+  "id": "5f08ec43-f4ce-499c-b0f4-d3f3942c974c",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.44,
+      "text": "like that",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "こうしています"
+    },
+    {
+      "start": 0.44,
+      "end": 6.42,
+      "text": "connecting from airtime into forward tilt!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空中タイムから横強を繋いでいった"
+    },
+    {
+      "start": 6.42,
+      "end": 7.24,
+      "text": "that's",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これは"
+    },
+    {
+      "start": 7.24,
+      "end": 9.36,
+      "text": "out of jumps",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ジャンプがない"
+    }
+  ],
+  "full_text": "like that connecting from airtime into forward tilt! that's out of jumps",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

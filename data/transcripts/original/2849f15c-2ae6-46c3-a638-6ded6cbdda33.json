@@ -1,0 +1,69 @@
+{
+  "id": "2849f15c-2ae6-46c3-a638-6ded6cbdda33",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.82,
+      "text": "後ろ投げはまだでしょうが",
+      "language": "ja"
+    },
+    {
+      "start": 3.82,
+      "end": 5.32,
+      "text": "復帰阻止はどうか",
+      "language": "ja"
+    },
+    {
+      "start": 5.32,
+      "end": 6.54,
+      "text": "かわしている",
+      "language": "ja"
+    },
+    {
+      "start": 6.54,
+      "end": 7.66,
+      "text": "内側でかわって",
+      "language": "ja"
+    },
+    {
+      "start": 7.66,
+      "end": 8.72,
+      "text": "ネオ リターン空後へ",
+      "language": "ja"
+    },
+    {
+      "start": 8.72,
+      "end": 11.48,
+      "text": "ライン回復行動をしっかりと止めるのはうまいですね",
+      "language": "ja"
+    },
+    {
+      "start": 11.48,
+      "end": 12.62,
+      "text": "これですね",
+      "language": "ja"
+    },
+    {
+      "start": 12.62,
+      "end": 15.1,
+      "text": "スピン反転空後もガード",
+      "language": "ja"
+    }
+  ],
+  "full_text": "後ろ投げはまだでしょうが 復帰阻止はどうか かわしている 内側でかわって ネオ リターン空後へ ライン回復行動をしっかりと止めるのはうまいですね これですね スピン反転空後もガード",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "武器阻止",
+      "corrected": "復帰阻止",
+      "rule": "kanji homophone: 武器→復帰"
+    },
+    {
+      "segment_idx": 4,
+      "original": "ネオルターン空中へ",
+      "corrected": "ネオ リターン空後へ",
+      "rule": "player name + move abbrev: ネオルターン空中→ネオ リターン空後"
+    }
+  ]
+}

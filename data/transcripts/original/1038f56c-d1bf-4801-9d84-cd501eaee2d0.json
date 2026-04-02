@@ -1,0 +1,51 @@
+{
+  "id": "1038f56c-d1bf-4801-9d84-cd501eaee2d0",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.38,
+      "text": "やっぱりどうしても横Bがちらついちゃうので",
+      "language": "ja"
+    },
+    {
+      "start": 2.38,
+      "end": 3.84,
+      "text": "躊躇しちゃうんですよね",
+      "language": "ja"
+    },
+    {
+      "start": 3.84,
+      "end": 5.44,
+      "text": "さあ着地が噛み合いすぎて",
+      "language": "ja"
+    },
+    {
+      "start": 5.44,
+      "end": 6.9,
+      "text": "いやここで下スマッシュ",
+      "language": "ja"
+    }
+  ],
+  "full_text": "やっぱりどうしても横Bがちらついちゃうので 躊躇しちゃうんですよね さあ着地が噛み合いすぎて いやここで下スマッシュ",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "やっぱりどうしても横火がちらついちゃうので",
+      "corrected": "やっぱりどうしても横Bがちらついちゃうので",
+      "rule": "Kanji homophone: 横火→横B (side special)"
+    },
+    {
+      "segment_idx": 2,
+      "original": "さあ着地ができみしすぎて",
+      "corrected": "さあ着地が噛み合いすぎて",
+      "rule": "Whisper mishearing: できみし→噛み合い"
+    },
+    {
+      "segment_idx": 3,
+      "original": "いやここでしたスマッシュ",
+      "corrected": "いやここで下スマッシュ",
+      "rule": "Kanji homophone: した→下 (down smash)"
+    }
+  ]
+}

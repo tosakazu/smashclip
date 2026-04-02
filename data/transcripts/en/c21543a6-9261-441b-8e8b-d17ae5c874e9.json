@@ -1,0 +1,17 @@
+{
+  "id": "c21543a6-9261-441b-8e8b-d17ae5c874e9",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.48,
+      "text": "He took it way too deep – there's no coming back!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これは深くまで持っていったがさすがに戻れない"
+    }
+  ],
+  "full_text": "He took it way too deep – there's no coming back!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

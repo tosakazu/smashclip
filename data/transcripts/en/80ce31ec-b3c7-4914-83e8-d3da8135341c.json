@@ -1,0 +1,33 @@
+{
+  "id": "80ce31ec-b3c7-4914-83e8-d3da8135341c",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.46,
+      "text": "backs swinging with the forward there let's see right here in the center of the stage",
+      "language": "en"
+    },
+    {
+      "start": 3.46,
+      "end": 6.02,
+      "text": "trying to go for the kill with the lead burst fantastic",
+      "language": "en"
+    }
+  ],
+  "full_text": "backs swinging with the forward there let's see right here in the center of the stage trying to go for the kill with the lead burst fantastic",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "the center of the straight",
+      "corrected": "the center of the stage",
+      "rule": "Whisper mishearing"
+    },
+    {
+      "segment_idx": 1,
+      "original": "the left with the reed buster",
+      "corrected": "the kill with the lead burst",
+      "rule": "Whisper mishearing"
+    }
+  ]
+}

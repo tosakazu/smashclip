@@ -1,0 +1,38 @@
+{
+  "id": "e120b310-c671-4144-a434-8a6c0ab44f64",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.16,
+      "text": "That's before the Parasol hitbox comes out",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "パラソルの判定が出る前にというところでしょう"
+    },
+    {
+      "start": 3.16,
+      "end": 4.48,
+      "text": "The fair came out early",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "早めに空前がそうそうした"
+    }
+  ],
+  "full_text": "That's before the Parasol hitbox comes out The fair came out early",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "パーソルの判定",
+      "corrected": "パラソルの判定",
+      "rule": "smash term (Daisy parasol)"
+    },
+    {
+      "segment_idx": 1,
+      "original": "空白がそうそうした",
+      "corrected": "空前がそうそうした",
+      "rule": "smash term (forward air)"
+    }
+  ]
+}

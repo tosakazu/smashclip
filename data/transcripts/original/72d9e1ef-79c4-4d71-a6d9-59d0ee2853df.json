@@ -1,0 +1,44 @@
+{
+  "id": "72d9e1ef-79c4-4d71-a6d9-59d0ee2853df",
+  "segments": [
+    {
+      "start": 0.4,
+      "end": 2.5,
+      "text": "そして差し込むんだったらガーキャン空前でいい",
+      "language": "ja"
+    },
+    {
+      "start": 2.5,
+      "end": 5.04,
+      "text": "もう一度空前深めだったんですが",
+      "language": "ja"
+    },
+    {
+      "start": 5.04,
+      "end": 6.02,
+      "text": "当たらず",
+      "language": "ja"
+    },
+    {
+      "start": 6.02,
+      "end": 8.16,
+      "text": "逆に展開で勝ってしまい",
+      "language": "ja"
+    },
+    {
+      "start": 8.16,
+      "end": 9.76,
+      "text": "回避の後隙を",
+      "language": "ja"
+    },
+    {
+      "start": 9.76,
+      "end": 12.6,
+      "text": "マグマが拾って届かない",
+      "language": "ja"
+    }
+  ],
+  "full_text": "そして差し込むんだったらガーキャン空前でいい もう一度空前深めだったんですが 当たらず 逆に展開で勝ってしまい 回避の後隙を マグマが拾って届かない",
+  "detected_language": "ja",
+  "corrections": []
+}

@@ -1,0 +1,51 @@
+{
+  "id": "299359c1-b254-437a-85fe-c37420491e5d",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.12,
+      "text": "下Bから展開を作っていくのはマイルドなH.O",
+      "language": "ja"
+    },
+    {
+      "start": 2.12,
+      "end": 4.0,
+      "text": "下強を拾った",
+      "language": "ja"
+    },
+    {
+      "start": 4.0,
+      "end": 5.78,
+      "text": "NBも見せていく",
+      "language": "ja"
+    },
+    {
+      "start": 5.78,
+      "end": 9.08,
+      "text": "最初の方ねかなりNB通していたんですけれども",
+      "language": "ja"
+    },
+    {
+      "start": 9.08,
+      "end": 12.36,
+      "text": "なおちゃ側もしっかり対応とか言ってるうちに",
+      "language": "ja"
+    }
+  ],
+  "full_text": "下Bから展開を作っていくのはマイルドなH.O 下強を拾った NBも見せていく 最初の方ねかなりNB通していたんですけれども なおちゃ側もしっかり対応とか言ってるうちに",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "6Bから展開を作っていくのはマイルドな一応",
+      "corrected": "下Bから展開を作っていくのはマイルドなH.O",
+      "rule": "misheard: 6B→下B, 一応→H.O (player name)"
+    },
+    {
+      "segment_idx": 4,
+      "original": "直茶川もしっかり対応とか言ってるうち",
+      "corrected": "なおちゃ側もしっかり対応とか言ってるうちに",
+      "rule": "player name: 直茶川→なおちゃ側"
+    }
+  ]
+}

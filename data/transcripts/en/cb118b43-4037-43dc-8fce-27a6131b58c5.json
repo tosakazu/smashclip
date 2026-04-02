@@ -1,0 +1,156 @@
+{
+  "id": "cb118b43-4037-43dc-8fce-27a6131b58c5",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.2,
+      "text": "Oh! Nice positioning!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "お!いい位置だ!"
+    },
+    {
+      "start": 1.36,
+      "end": 3.92,
+      "text": "Yeah! Whoa! That was clean!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いやー!うーわ!今の上手かったけどね!"
+    },
+    {
+      "start": 4.94,
+      "end": 7.04,
+      "text": "The tree cancel works fine, but...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "木を相殺するところまではOKなんですが"
+    },
+    {
+      "start": 7.04,
+      "end": 9.28,
+      "text": "To avoid that follow-up with horizontal drift...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "その後の追撃をかわすために横慣性"
+    },
+    {
+      "start": 9.28,
+      "end": 12.28,
+      "text": "There wasn't enough distance to grab the ledge",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "崖に捕まるまでの移動距離は足りませんでしたね"
+    },
+    {
+      "start": 12.28,
+      "end": 15.66,
+      "text": "It doesn't open up sideways at all",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "横にはね、全然開かないですからね"
+    },
+    {
+      "start": 15.66,
+      "end": 17.46,
+      "text": "This upward strike here...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "この突き上げアッパーカットは"
+    },
+    {
+      "start": 17.46,
+      "end": 20.76,
+      "text": "Alright, this is it!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあこれですこれ!ハニワ諸共なんですよ"
+    },
+    {
+      "start": 20.76,
+      "end": 24.02,
+      "text": "You want to recover safely with this",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これがね、ハニワと一緒に安全に上がりたい"
+    },
+    {
+      "start": 24.02,
+      "end": 27.0,
+      "text": "Against Villager especially...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "えー、村人側に対してかなり"
+    },
+    {
+      "start": 28.26,
+      "end": 29.56,
+      "text": "It really lands",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "刺さってきますからね"
+    },
+    {
+      "start": 29.56,
+      "end": 32.82,
+      "text": "And right now, against Fighting Mii and stuff...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "で、今ね、こうやって対格闘Miiだったりとか"
+    },
+    {
+      "start": 32.82,
+      "end": 34.64,
+      "text": "I'm going over the Villager matchup, but...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "対村人の情報を言ってるんですけども"
+    },
+    {
+      "start": 34.64,
+      "end": 36.7,
+      "text": "The reason I'm saying this so boldly is...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "なぜこんな堂々と言ってるかというと"
+    },
+    {
+      "start": 36.7,
+      "end": 39.38,
+      "text": "Both players already know about it",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "両選手が折り込み済みで戦っているからですね"
+    },
+    {
+      "start": 39.38,
+      "end": 41.0,
+      "text": "Up smash! That's the KO!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "上スマッシュ!撃墜だー!"
+    }
+  ],
+  "full_text": "Oh! Nice positioning! Yeah! Whoa! That was clean! The tree cancel works fine, but... To avoid that follow-up with horizontal drift... There wasn't enough distance to grab the ledge. It doesn't open up sideways at all. This upward strike here... Alright, this is it! You want to recover safely with this. Against Villager especially... It really lands. And right now, against Fighting Mii and stuff... I'm going over the Villager matchup, but... The reason I'm saying this so boldly is... Both players already know about it. Up smash! That's the KO!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 3,
+      "original": "横完成",
+      "corrected": "横慣性",
+      "rule": "smash term (横慣性/horizontal momentum)"
+    },
+    {
+      "segment_idx": 11,
+      "original": "対格闘味",
+      "corrected": "対格闘Mii",
+      "rule": "character name (Mii Brawler/格闘Mii)"
+    },
+    {
+      "segment_idx": 14,
+      "original": "折り込みで",
+      "corrected": "折り込み済みで",
+      "rule": "mishearing"
+    }
+  ]
+}

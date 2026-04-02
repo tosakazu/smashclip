@@ -1,0 +1,40 @@
+{
+  "id": "43d55674-00a9-43c1-810d-e271320fd19f",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.9,
+      "text": "Keep going!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "続けていく"
+    },
+    {
+      "start": 0.9,
+      "end": 5.26,
+      "text": "He's back with Marvelous Combination off the ledge getup!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "崖上がりはマーベラスコンビネーションで戻ってきた"
+    },
+    {
+      "start": 5.26,
+      "end": 9.46,
+      "text": "Caught and sent airborne!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "埋まってしまって空中"
+    }
+  ],
+  "full_text": "Keep going! He's back with Marvelous Combination off the ledge getup! Caught and sent airborne!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "ワーブラスコンビネーション",
+      "corrected": "マーベラスコンビネーション",
+      "rule": "misheard move name (Roy side B)"
+    }
+  ]
+}

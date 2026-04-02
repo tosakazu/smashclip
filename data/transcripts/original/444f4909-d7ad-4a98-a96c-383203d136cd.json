@@ -1,0 +1,57 @@
+{
+  "id": "444f4909-d7ad-4a98-a96c-383203d136cd",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.54,
+      "text": "空中下から空中上",
+      "language": "ja"
+    },
+    {
+      "start": 2.54,
+      "end": 4.82,
+      "text": "ギリ確定はしなさそうでした",
+      "language": "ja"
+    },
+    {
+      "start": 4.82,
+      "end": 7.06,
+      "text": "カス当たりだったので撃墜もしない",
+      "language": "ja"
+    },
+    {
+      "start": 7.06,
+      "end": 8.36,
+      "text": "ダッシュアタック差し込んで",
+      "language": "ja"
+    },
+    {
+      "start": 8.36,
+      "end": 10.12,
+      "text": "さあすまほの快進撃が止まらない",
+      "language": "ja"
+    },
+    {
+      "start": 10.12,
+      "end": 11.6,
+      "text": "PKサンダーアタック見えたが",
+      "language": "ja"
+    }
+  ],
+  "full_text": "空中下から空中上 ギリ確定はしなさそうでした カス当たりだったので撃墜もしない ダッシュアタック差し込んで さあすまほの快進撃が止まらない PKサンダーアタック見えたが",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 4,
+      "original": "スマホの回進撃",
+      "corrected": "すまほの快進撃",
+      "rule": "player name + kanji homophone"
+    },
+    {
+      "segment_idx": 5,
+      "original": "PKさんでアタック",
+      "corrected": "PKサンダーアタック",
+      "rule": "misheard Ness move name"
+    }
+  ]
+}

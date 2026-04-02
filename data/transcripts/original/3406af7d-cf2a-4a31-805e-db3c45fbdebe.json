@@ -1,0 +1,57 @@
+{
+  "id": "3406af7d-cf2a-4a31-805e-db3c45fbdebe",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.08,
+      "text": "116%",
+      "language": "ja"
+    },
+    {
+      "start": 1.08,
+      "end": 2.76,
+      "text": "空後",
+      "language": "ja"
+    },
+    {
+      "start": 2.76,
+      "end": 4.2,
+      "text": "とらが苦しい",
+      "language": "ja"
+    },
+    {
+      "start": 4.2,
+      "end": 7.42,
+      "text": "空後で撃墜",
+      "language": "ja"
+    },
+    {
+      "start": 7.42,
+      "end": 7.86,
+      "text": "さあ",
+      "language": "ja"
+    }
+  ],
+  "full_text": "116% 空後 とらが苦しい 空後で撃墜 さあ",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "空中後ろ",
+      "corrected": "空後",
+      "rule": "move abbreviation"
+    },
+    {
+      "segment_idx": 2,
+      "original": "虎が苦しい",
+      "corrected": "とらが苦しい",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 3,
+      "original": "空中後ろで撃墜",
+      "corrected": "空後で撃墜",
+      "rule": "move abbreviation"
+    }
+  ]
+}

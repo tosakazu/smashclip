@@ -1,0 +1,33 @@
+{
+  "id": "402e8f05-e074-4e6d-8eb7-65a9ff9f8238",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.32,
+      "text": "Very active!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "とてもエクティブ!"
+    },
+    {
+      "start": 1.86,
+      "end": 2.64,
+      "text": "Going in!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "狙っていきます!"
+    },
+    {
+      "start": 7.36,
+      "end": 8.68,
+      "text": "Game set!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ゲームセット!"
+    }
+  ],
+  "full_text": "Very active! Going in! Game set!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

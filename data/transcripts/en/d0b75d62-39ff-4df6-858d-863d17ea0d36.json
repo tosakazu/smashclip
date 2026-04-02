@@ -1,0 +1,40 @@
+{
+  "id": "d0b75d62-39ff-4df6-858d-863d17ea0d36",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.04,
+      "text": "That was quite a battle! Actually, the first stock is taking the longest time of this match so far, wouldn't you say?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "多かったですね 実はこの試合ここまでで一番1ストック目で使った時間が長いんじゃないですか"
+    },
+    {
+      "start": 6.04,
+      "end": 11.56,
+      "text": "I see, and even with that matched up, it still doesn't reach",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "なるほど これは、ついに合わせてこれは届かない"
+    },
+    {
+      "start": 11.56,
+      "end": 13.38,
+      "text": "No need",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "必要ねぇ"
+    }
+  ],
+  "full_text": "That was quite a battle! Actually, the first stock is taking the longest time of this match so far, wouldn't you say? I see, and even with that matched up, it still doesn't reach No need",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "1足目",
+      "corrected": "1ストック目",
+      "rule": "smash term (ストック=stock/life)"
+    }
+  ]
+}

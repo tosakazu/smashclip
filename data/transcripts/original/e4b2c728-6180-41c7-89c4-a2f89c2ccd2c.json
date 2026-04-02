@@ -1,0 +1,57 @@
+{
+  "id": "e4b2c728-6180-41c7-89c4-a2f89c2ccd2c",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "ちょっと問題視されつつあるか",
+      "language": "ja"
+    },
+    {
+      "start": 2.0,
+      "end": 3.06,
+      "text": "そうですね",
+      "language": "ja"
+    },
+    {
+      "start": 3.06,
+      "end": 6.38,
+      "text": "作ってもダイヤなんですよね",
+      "language": "ja"
+    },
+    {
+      "start": 6.38,
+      "end": 8.86,
+      "text": "ここで作る選択肢だけはないって感じですか",
+      "language": "ja"
+    },
+    {
+      "start": 8.86,
+      "end": 9.38,
+      "text": "そうですね",
+      "language": "ja"
+    },
+    {
+      "start": 9.38,
+      "end": 10.46,
+      "text": "作りたくないですよね",
+      "language": "ja"
+    },
+    {
+      "start": 10.46,
+      "end": 12.28,
+      "text": "空前で捉えに来ました",
+      "language": "ja"
+    }
+  ],
+  "full_text": "ちょっと問題視されつつあるか そうですね 作ってもダイヤなんですよね ここで作る選択肢だけはないって感じですか そうですね 作りたくないですよね 空前で捉えに来ました",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 6,
+      "original": "クルチュマへ捉えに来ました",
+      "corrected": "空前で捉えに来ました",
+      "rule": "move abbreviation: 空前"
+    }
+  ]
+}

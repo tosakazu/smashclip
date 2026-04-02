@@ -1,0 +1,39 @@
+{
+  "id": "fd3b27c3-09a4-4283-97e7-0ca1a6543ebb",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.88,
+      "text": "situation yeah acola gets the best of it with yet another grab pirate you're not",
+      "language": "en"
+    },
+    {
+      "start": 4.88,
+      "end": 9.42,
+      "text": "gonna want to play around this character and Jesus still does so I mean it's so",
+      "language": "en"
+    },
+    {
+      "start": 9.42,
+      "end": 12.96,
+      "text": "shielding is certainly the most consistent option in those situations",
+      "language": "en"
+    },
+    {
+      "start": 12.96,
+      "end": 15.24,
+      "text": "but",
+      "language": "en"
+    }
+  ],
+  "full_text": "situation yeah acola gets the best of it with yet another grab pirate you're not gonna want to play around this character and Jesus still does so I mean it's so shielding is certainly the most consistent option in those situations but",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "color",
+      "corrected": "acola",
+      "rule": "player name"
+    }
+  ]
+}

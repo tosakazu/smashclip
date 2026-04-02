@@ -1,0 +1,45 @@
+{
+  "id": "7804a0cc-addb-4cef-935c-78085d8a42df",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.78,
+      "text": "はい、え、ずらしか?",
+      "language": "ja"
+    },
+    {
+      "start": 3.08,
+      "end": 4.06,
+      "text": "足刀蹴り入って",
+      "language": "ja"
+    },
+    {
+      "start": 4.06,
+      "end": 5.38,
+      "text": "え、取った!",
+      "language": "ja"
+    },
+    {
+      "start": 5.54,
+      "end": 7.78,
+      "text": "いやー、なるほどな",
+      "language": "ja"
+    }
+  ],
+  "full_text": "はい、え、ずらしか? 足刀蹴り入って え、取った! いやー、なるほどな",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "速投蹴り",
+      "corrected": "足刀蹴り",
+      "rule": "move name (Ryu side kick)"
+    },
+    {
+      "segment_idx": 2,
+      "original": "エルトラ",
+      "corrected": "え、取った",
+      "rule": "whisper misrecognition"
+    }
+  ]
+}

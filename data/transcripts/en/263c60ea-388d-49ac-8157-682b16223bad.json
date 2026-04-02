@@ -1,0 +1,57 @@
+{
+  "id": "263c60ea-388d-49ac-8157-682b16223bad",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Let's go!!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "どよぉやぁぁ!!"
+    },
+    {
+      "start": 2.0,
+      "end": 4.0,
+      "text": "Yes!!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ひやー!"
+    },
+    {
+      "start": 4.72,
+      "end": 5.92,
+      "text": "Barely connects with the quick startup!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "速出しでギリギリ"
+    },
+    {
+      "start": 5.92,
+      "end": 6.64,
+      "text": "Ohhhhh!!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "おぉぉぉ"
+    },
+    {
+      "start": 10.0,
+      "end": 11.18,
+      "text": "Safe if it whiffs?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "当たらなければ大丈夫か?"
+    },
+    {
+      "start": 11.18,
+      "end": 12.68,
+      "text": "Reads the airdodge and nails it!!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "回避読みダブルマーク当たる!!"
+    }
+  ],
+  "full_text": "Let's go!! Yes!! Barely connects with the quick startup! Ohhhhh!! Safe if it whiffs? Reads the airdodge and nails it!!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

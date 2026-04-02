@@ -1,0 +1,56 @@
+{
+  "id": "7c4bfc97-1c35-429e-8f35-90177bc2f744",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.42,
+      "text": "Young Link",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "コリンク"
+    },
+    {
+      "start": 0.42,
+      "end": 2.9,
+      "text": "Landing solid hits from the first game",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "1試合目からしっかりと当てていきました"
+    },
+    {
+      "start": 2.9,
+      "end": 5.4,
+      "text": "And here's the ledge getup",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあこれは崖上がり"
+    },
+    {
+      "start": 5.4,
+      "end": 6.48,
+      "text": "Both applying ledge pressure",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "お互いに崖への圧"
+    },
+    {
+      "start": 6.48,
+      "end": 7.98,
+      "text": "but...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "出ますが"
+    }
+  ],
+  "full_text": "Young Link Landing solid hits from the first game And here's the ledge getup Both applying ledge pressure but...",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "コニック",
+      "corrected": "コリンク",
+      "rule": "player name: コニック→コリンク (コリンク1219)"
+    }
+  ]
+}

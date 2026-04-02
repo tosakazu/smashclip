@@ -1,0 +1,39 @@
+{
+  "id": "4b1743d6-561e-43c8-8bdc-494b9b55eed2",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.14,
+      "text": "さあ復活しているトロッコでの暴れ",
+      "language": "ja"
+    },
+    {
+      "start": 2.14,
+      "end": 4.94,
+      "text": "空後うまく差し込み",
+      "language": "ja"
+    },
+    {
+      "start": 4.94,
+      "end": 6.14,
+      "text": "作業台もついでに壊して",
+      "language": "ja"
+    },
+    {
+      "start": 6.14,
+      "end": 10.44,
+      "text": "さあ崖に糸掴ま",
+      "language": "ja"
+    }
+  ],
+  "full_text": "さあ復活しているトロッコでの暴れ 空後うまく差し込み 作業台もついでに壊して さあ崖に糸掴ま",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "空中後ろうまく差し込み",
+      "corrected": "空後うまく差し込み",
+      "rule": "move abbreviation"
+    }
+  ]
+}

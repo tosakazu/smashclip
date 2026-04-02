@@ -1,0 +1,33 @@
+{
+  "id": "9a7c91e1-45da-4598-9248-e1cf1232251d",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.5,
+      "text": "はじいて、あぶな、ギリギリしてなかったよね",
+      "language": "ja"
+    },
+    {
+      "start": 2.5,
+      "end": 4.58,
+      "text": "ウィリーでどっかやれ、どっか行けよ",
+      "language": "ja"
+    },
+    {
+      "start": 4.58,
+      "end": 6.2,
+      "text": "空後で行くか",
+      "language": "ja"
+    }
+  ],
+  "full_text": "はじいて、あぶな、ギリギリしてなかったよね ウィリーでどっかやれ、どっか行けよ 空後で行くか",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 2,
+      "original": "後ろで行くか",
+      "corrected": "空後で行くか",
+      "rule": "move abbreviation (空後=back air)"
+    }
+  ]
+}

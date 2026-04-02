@@ -1,0 +1,48 @@
+{
+  "id": "d5c0cbf5-0236-4d3b-8bd6-a1567e4b5799",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.72,
+      "text": "That's the whole mixup right there",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "やらないのかっていうのがそれだけで読み合ってますよね"
+    },
+    {
+      "start": 2.72,
+      "end": 5.06,
+      "text": "Now, but Larynx gets Falco Vision through",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあしかしファルコビジョンを通すラリックス"
+    },
+    {
+      "start": 5.06,
+      "end": 8.68,
+      "text": "Against how Masa spaces Falco Vision",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "マサ選手はファルコビジョンの通し方に対しては"
+    },
+    {
+      "start": 8.68,
+      "end": 10.12,
+      "text": "The other one is Larynx's",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "もう一つはラリックスの"
+    }
+  ],
+  "full_text": "That's the whole mixup right there Now, but Larynx gets Falco Vision through Against how Masa spaces Falco Vision The other one is Larynx's",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 3,
+      "original": "モツナベアラリックスの",
+      "corrected": "もう一つはラリックスの",
+      "rule": "mishearing (モツナベア→もう一つは)"
+    }
+  ]
+}

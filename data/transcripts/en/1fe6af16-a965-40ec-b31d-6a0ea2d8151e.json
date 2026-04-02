@@ -1,0 +1,49 @@
+{
+  "id": "1fe6af16-a965-40ec-b31d-6a0ea2d8151e",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.5,
+      "text": "Falco's also showing skilled Steve play",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ファルコも上手いスティーブ使いという側面を"
+    },
+    {
+      "start": 2.5,
+      "end": 4.1,
+      "text": "Laryx is putting that on display in this match right now",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ラリックスは今この一本で見せています"
+    },
+    {
+      "start": 4.1,
+      "end": 7.3,
+      "text": "You can really see what bothers Falco",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "本当にファルコ側がやられて嫌なことも分かってますかね"
+    },
+    {
+      "start": 7.3,
+      "end": 8.16,
+      "text": "That's nice!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これは上手いか?"
+    },
+    {
+      "start": 8.66,
+      "end": 9.56,
+      "text": "KO connects!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "撃墜届いて"
+    }
+  ],
+  "full_text": "Falco's also showing skilled Steve play Laryx is putting that on display in this match right now You can really see what bothers Falco That's nice! KO connects!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

@@ -1,0 +1,49 @@
+{
+  "id": "1dd23f5d-6bc6-4e4f-83ef-5a1a1d440d27",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.0,
+      "text": "Come on, incredible! I see. Going for the double up!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあ、うますぎ。なるほど。ダブルアップを狙う。"
+    },
+    {
+      "start": 4.0,
+      "end": 7.0,
+      "text": "First time seeing that in a tournament!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "あれやってるの大会で初めて見た。"
+    },
+    {
+      "start": 7.0,
+      "end": 11.0,
+      "text": "Reading it. Knew about it as a gimmick, but actually using it in tournament!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "合わせる。ネタとしても知ってるが、やはり実戦投入。"
+    },
+    {
+      "start": 11.0,
+      "end": 13.0,
+      "text": "Gluttony showing? Energy, energy!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "グルトンは見せるのか?エネルギー、エネルギー。"
+    },
+    {
+      "start": 13.0,
+      "end": 17.0,
+      "text": "Nice play, but they got KO'd!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "うまいけど、撃墜しちゃった。"
+    }
+  ],
+  "full_text": "Come on, incredible! I see. Going for the double up! First time seeing that in a tournament! Reading it. Knew about it as a gimmick, but actually using it in tournament! Gluttony showing? Energy, energy! Nice play, but they got KO'd!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

@@ -1,0 +1,26 @@
+{
+  "id": "29fbaf08-cd68-4668-9f9e-84c40d2b155a",
+  "segments": [
+    {
+      "start": 0.76,
+      "end": 2.86,
+      "text": "Continuing on an excellent teleport cancel.",
+      "language": "en"
+    },
+    {
+      "start": 3.04,
+      "end": 4.5,
+      "text": "Explosive flame thrown out there.",
+      "language": "en"
+    },
+    {
+      "start": 5.42,
+      "end": 7.92,
+      "text": "Ooh, tried to catch as much as possible in that air, and it even worked.",
+      "language": "en"
+    }
+  ],
+  "full_text": "Continuing on an excellent teleport cancel. Explosive flame thrown out there. Ooh, tried to catch as much as possible in that air, and it even worked.",
+  "detected_language": "en",
+  "corrections": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "a37848d9-4f07-4e63-82cd-c5006208d3e0",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.18,
+      "text": "You've got the whole venue here, or nearly all of it, a huge crowd watching what's going down right now in front of us!",
+      "language": "en",
+      "original_language": "es",
+      "original_text": "Está toda la venue, o casi toda la venue, una gran parte de la venue viendo lo que está pasando ahora mismo delante nuestro, ¿eh?"
+    },
+    {
+      "start": 5.28,
+      "end": 5.98,
+      "text": "Yeah, for sure.",
+      "language": "en",
+      "original_language": "es",
+      "original_text": "Sí, claro."
+    },
+    {
+      "start": 7.48,
+      "end": 11.08,
+      "text": "So Spargo's going for the punish right now and can't quite connect.",
+      "language": "en",
+      "original_language": "es",
+      "original_text": "Así que Spargo ahora mismo intentando castigar y no llega."
+    }
+  ],
+  "full_text": "You've got the whole venue here, or nearly all of it, a huge crowd watching what's going down right now in front of us! Yeah, for sure. So Spargo's going for the punish right now and can't quite connect.",
+  "detected_language": "en",
+  "original_language": "es",
+  "corrections": []
+}

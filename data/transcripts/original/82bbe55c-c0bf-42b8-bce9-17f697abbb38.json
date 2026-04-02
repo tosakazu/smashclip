@@ -1,0 +1,45 @@
+{
+  "id": "82bbe55c-c0bf-42b8-bce9-17f697abbb38",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "力、間合いを詰めて、一段ブロックの差し合い",
+      "language": "ja"
+    },
+    {
+      "start": 2.0,
+      "end": 5.0,
+      "text": "空中上の先端で触って、リスクを無くしていく",
+      "language": "ja"
+    },
+    {
+      "start": 6.0,
+      "end": 9.0,
+      "text": "しゃがみ様子見から、作業台の近くでは戦いたくない",
+      "language": "ja"
+    },
+    {
+      "start": 9.0,
+      "end": 12.0,
+      "text": "崖に追い詰めて、あcolaがこれを確認している!",
+      "language": "ja"
+    }
+  ],
+  "full_text": "力、間合いを詰めて、一段ブロックの差し合い 空中上の先端で触って、リスクを無くしていく しゃがみ様子見から、作業台の近くでは戦いたくない 崖に追い詰めて、あcolaがこれを確認している!",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "宇宙城の先端で触って、リスクを無くしていく",
+      "corrected": "空中上の先端で触って、リスクを無くしていく",
+      "rule": "move name homophone"
+    },
+    {
+      "segment_idx": 3,
+      "original": "ガキに追い詰めて、サイクロブスがこれを確認している!",
+      "corrected": "崖に追い詰めて、あcolaがこれを確認している!",
+      "rule": "Whisper mishearing + player name"
+    }
+  ]
+}

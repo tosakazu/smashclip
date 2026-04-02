@@ -1,0 +1,33 @@
+{
+  "id": "217f05cd-b629-45ee-b2c5-94d71468b67e",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.18,
+      "text": "Flying to the side, but even from that height it's not quite the KO though",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "横に飛ぶからやっぱちょっとさすがに高い位置があっても撃墜まではいかないしね"
+    },
+    {
+      "start": 4.18,
+      "end": 5.98,
+      "text": "What about this?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これは?"
+    },
+    {
+      "start": 6.58,
+      "end": 7.34,
+      "text": "Down throw KO!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "下投げで撃墜"
+    }
+  ],
+  "full_text": "Flying to the side, but even from that height it's not quite the KO though What about this? Down throw KO!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

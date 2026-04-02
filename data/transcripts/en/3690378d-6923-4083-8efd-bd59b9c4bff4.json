@@ -1,0 +1,73 @@
+{
+  "id": "3690378d-6923-4083-8efd-bd59b9c4bff4",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.18,
+      "text": "Trading on the big moves",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "大技を避けあって"
+    },
+    {
+      "start": 1.18,
+      "end": 3.18,
+      "text": "Here it is!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "こうはいっ"
+    },
+    {
+      "start": 3.18,
+      "end": 4.38,
+      "text": "Spacing back and forth",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "透かしあって"
+    },
+    {
+      "start": 4.38,
+      "end": 5.94,
+      "text": "No KO yet, but",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "撃墜はしないが"
+    },
+    {
+      "start": 5.94,
+      "end": 7.08,
+      "text": "but there's nothing",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "しないが"
+    },
+    {
+      "start": 7.08,
+      "end": 7.76,
+      "text": "below",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "下が"
+    },
+    {
+      "start": 7.76,
+      "end": 8.82,
+      "text": "nothing!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ないじゃーん"
+    },
+    {
+      "start": 8.82,
+      "end": 9.0,
+      "text": "down",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "下"
+    }
+  ],
+  "full_text": "Trading on the big moves Here it is! Spacing back and forth No KO yet, but but there's nothing below nothing! down",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

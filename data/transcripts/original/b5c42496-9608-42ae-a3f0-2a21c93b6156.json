@@ -1,0 +1,32 @@
+{
+  "id": "b5c42496-9608-42ae-a3f0-2a21c93b6156",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.0,
+      "text": "I saw the airdodge, but a little too low to touch it.",
+      "language": "en"
+    },
+    {
+      "start": 5.0,
+      "end": 7.0,
+      "text": "Oh, that was crazy from Lindy.",
+      "language": "en"
+    },
+    {
+      "start": 7.0,
+      "end": 8.0,
+      "text": "But, chance?",
+      "language": "en"
+    },
+    {
+      "start": 8.0,
+      "end": 10.0,
+      "text": "Yep, yep, yep. Nice patience.",
+      "language": "en"
+    }
+  ],
+  "full_text": "I saw the airdodge, but a little too low to touch it. Oh, that was crazy from Lindy. But, chance? Yep, yep, yep. Nice patience.",
+  "detected_language": "en",
+  "corrections": []
+}

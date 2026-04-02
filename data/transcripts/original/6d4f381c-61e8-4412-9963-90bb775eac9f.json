@@ -1,0 +1,80 @@
+{
+  "id": "6d4f381c-61e8-4412-9963-90bb775eac9f",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "見せてない まだ1回も",
+      "language": "ja"
+    },
+    {
+      "start": 2.0,
+      "end": 4.0,
+      "text": "128%",
+      "language": "ja"
+    },
+    {
+      "start": 4.0,
+      "end": 6.0,
+      "text": "いやー引っ掛けたいが",
+      "language": "ja"
+    },
+    {
+      "start": 6.0,
+      "end": 8.0,
+      "text": "徹底的に",
+      "language": "ja"
+    },
+    {
+      "start": 8.0,
+      "end": 10.0,
+      "text": "拒否をする",
+      "language": "ja"
+    },
+    {
+      "start": 10.0,
+      "end": 12.0,
+      "text": "しかしスノー選手側は",
+      "language": "ja"
+    },
+    {
+      "start": 12.0,
+      "end": 14.0,
+      "text": "このバナナに引っ掛からないように",
+      "language": "ja"
+    },
+    {
+      "start": 14.0,
+      "end": 16.0,
+      "text": "さあ",
+      "language": "ja"
+    },
+    {
+      "start": 16.0,
+      "end": 18.0,
+      "text": "どうだここ",
+      "language": "ja"
+    },
+    {
+      "start": 18.0,
+      "end": 20.0,
+      "text": "空下の",
+      "language": "ja"
+    },
+    {
+      "start": 20.0,
+      "end": 22.0,
+      "text": "撃墜だ",
+      "language": "ja"
+    }
+  ],
+  "full_text": "見せてない まだ1回も 128% いやー引っ掛けたいが 徹底的に 拒否をする しかしスノー選手側は このバナナに引っ掛からないように さあ どうだここ 空下の 撃墜だ",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_index": 9,
+      "original": "空中したの",
+      "corrected": "空下の"
+    }
+  ]
+}

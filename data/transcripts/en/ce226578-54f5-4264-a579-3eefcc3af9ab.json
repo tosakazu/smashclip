@@ -1,0 +1,64 @@
+{
+  "id": "ce226578-54f5-4264-a579-3eefcc3af9ab",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.62,
+      "text": "This dair combo is stacked with potential!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "この空下コンボは夢が詰まっているから"
+    },
+    {
+      "start": 2.62,
+      "end": 4.46,
+      "text": "Just the bair",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ただ空後"
+    },
+    {
+      "start": 4.46,
+      "end": 5.8,
+      "text": "Ah, he's striking!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "あ、叩くで"
+    },
+    {
+      "start": 5.8,
+      "end": 8.74,
+      "text": "No tech option is too scary!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "受け身がないのは怖すぎるんだよな"
+    },
+    {
+      "start": 8.74,
+      "end": 11.16,
+      "text": "Ah, that's gotta be Gekkou-kawa's forward smash!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "あ、さすがにこれは月光河の横スマッシュで"
+    },
+    {
+      "start": 11.16,
+      "end": 12.38,
+      "text": "Omura and Nikkori!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "オムラオとニッコリ"
+    }
+  ],
+  "full_text": "This dair combo is stacked with potential! Just the bair Ah, he's striking! No tech option is too scary! Ah, that's gotta be Gekkou-kawa's forward smash! Omura and Nikkori!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "ただ空中しろ",
+      "corrected": "ただ空後",
+      "rule": "smash term (空後=back air)"
+    }
+  ]
+}

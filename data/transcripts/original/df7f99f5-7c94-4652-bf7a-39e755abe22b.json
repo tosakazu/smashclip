@@ -1,0 +1,38 @@
+{
+  "id": "df7f99f5-7c94-4652-bf7a-39e755abe22b",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.72,
+      "text": "撃墜はしません",
+      "language": "ja"
+    },
+    {
+      "start": 0.72,
+      "end": 2.32,
+      "text": "空中前暴れを通して",
+      "language": "ja"
+    },
+    {
+      "start": 2.32,
+      "end": 3.76,
+      "text": "一歩下がってピクミン投げ",
+      "language": "ja"
+    },
+    {
+      "start": 3.76,
+      "end": 5.72,
+      "text": "そして空中前の壁が厚いが",
+      "language": "ja"
+    },
+    {
+      "start": 5.72,
+      "end": 6.58,
+      "text": "空中後ろ",
+      "language": "ja"
+    }
+  ],
+  "full_text": "撃墜はしません 空中前暴れを通して 一歩下がってピクミン投げ そして空中前の壁が厚いが 空中後ろ",
+  "detected_language": "ja",
+  "corrections": []
+}

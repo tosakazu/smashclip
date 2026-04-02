@@ -1,0 +1,64 @@
+{
+  "id": "d0e7cba8-33d0-4bf9-939e-8a623996d01b",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.5,
+      "text": "Didn't you land it?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "お前はしなかった?"
+    },
+    {
+      "start": 0.68,
+      "end": 4.16,
+      "text": "Yeah, I was watching though",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "あ、見てたんですけれどもね"
+    },
+    {
+      "start": 4.16,
+      "end": 5.16,
+      "text": "Just barely didn't confirm",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ギリギリ確定しませんでした"
+    },
+    {
+      "start": 5.16,
+      "end": 8.58,
+      "text": "Game & Watch's evasion options aren't top-tier or anything, but",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "なかなかゲームアンドウォッチの回避優秀とは言い難いが"
+    },
+    {
+      "start": 8.58,
+      "end": 10.06,
+      "text": "That's what made it difficult, actually",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "逆にそれが難しかったか"
+    },
+    {
+      "start": 10.06,
+      "end": 10.48,
+      "text": "Yeah",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そうですね"
+    }
+  ],
+  "full_text": "Didn't you land it? Yeah, I was watching though. Just barely didn't confirm. Game & Watch's evasion options aren't top-tier or anything, but. That's what made it difficult, actually. Yeah",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 3,
+      "original": "ゲームアンドウッチ",
+      "corrected": "ゲームアンドウォッチ",
+      "rule": "character name (Game & Watch)"
+    }
+  ]
+}

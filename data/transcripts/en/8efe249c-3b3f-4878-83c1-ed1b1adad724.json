@@ -1,0 +1,48 @@
+{
+  "id": "8efe249c-3b3f-4878-83c1-ed1b1adad724",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.5,
+      "text": "Could've gone for it, but...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "やった可能性もあるんですけども"
+    },
+    {
+      "start": 1.5,
+      "end": 3.52,
+      "text": "Can't really tell what came out of that, but...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "結果的にどうだったかわからないですが"
+    },
+    {
+      "start": 3.52,
+      "end": 5.76,
+      "text": "If that was intentional, that's insane!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "狙ってたとしたらえげつないですけどね"
+    },
+    {
+      "start": 5.76,
+      "end": 6.4,
+      "text": "That's insane level!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "えげつないレベルです"
+    }
+  ],
+  "full_text": "Could've gone for it, but... Can't really tell what came out of that, but... If that was intentional, that's insane! That's insane level!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 3,
+      "original": "レンド",
+      "corrected": "レベル",
+      "rule": "misheard word"
+    }
+  ]
+}

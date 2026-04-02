@@ -1,0 +1,33 @@
+{
+  "id": "0ae993d4-8bce-41b9-973f-ef18a270abc6",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.56,
+      "text": "Here we go again, quite the situation!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "またしてもちょっと展開これはハイドシュルビー"
+    },
+    {
+      "start": 3.56,
+      "end": 7.16,
+      "text": "The bomb off fair is creeping in perfectly!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空前の爆弾がぴったり迫ってきます"
+    },
+    {
+      "start": 7.16,
+      "end": 10.06,
+      "text": "Can't find the route!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ルートがなかなか見つからない"
+    }
+  ],
+  "full_text": "Here we go again, quite the situation! The bomb off fair is creeping in perfectly! Can't find the route!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

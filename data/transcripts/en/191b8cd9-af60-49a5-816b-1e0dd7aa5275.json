@@ -1,0 +1,39 @@
+{
+  "id": "191b8cd9-af60-49a5-816b-1e0dd7aa5275",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.34,
+      "text": "but i mean in the end game uh game disagrees with what the commentator has to say",
+      "language": "en"
+    },
+    {
+      "start": 3.34,
+      "end": 9.26,
+      "text": "49 against Neo starting to rack up slowly but surely and even though you see you know",
+      "language": "en"
+    },
+    {
+      "start": 9.26,
+      "end": 12.38,
+      "text": "just the smallest amounts of the paralysis with the with the Dragon Fang",
+      "language": "en"
+    }
+  ],
+  "full_text": "but i mean in the end game uh game disagrees with what the commentator has to say 49 against Neo starting to rack up slowly but surely and even though you see you know just the smallest amounts of the paralysis with the with the Dragon Fang",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "49 against nail starting to rack up",
+      "corrected": "49 against Neo starting to rack up",
+      "rule": "Player name: nail→Neo"
+    },
+    {
+      "segment_idx": 2,
+      "original": "the paralysis with the with the dramatic",
+      "corrected": "the paralysis with the with the Dragon Fang",
+      "rule": "Smash term: dramatic→Dragon Fang (Corrin's side-B tipper causes paralysis)"
+    }
+  ]
+}

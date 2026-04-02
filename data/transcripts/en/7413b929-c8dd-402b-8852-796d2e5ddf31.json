@@ -1,0 +1,116 @@
+{
+  "id": "7413b929-c8dd-402b-8852-796d2e5ddf31",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.66,
+      "text": "Pikmin landing with that fair!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ピクミンが刺さってくる空前の後が見えるんですが"
+    },
+    {
+      "start": 2.66,
+      "end": 6.92,
+      "text": "Another up thrust into bair - that was risky!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "クールからもう一度上に突き上げて空後危なかった"
+    },
+    {
+      "start": 6.92,
+      "end": 8.48,
+      "text": "Airdodge gets out of it!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "回避劇一発避けます"
+    },
+    {
+      "start": 8.48,
+      "end": 10.9,
+      "text": "Using the armor to creep forward on stage gradually",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "アーマーをうまく使ってラインをじわりじわり"
+    },
+    {
+      "start": 10.9,
+      "end": 12.58,
+      "text": "Taking damage but fighting back though",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "傷は負いながら帰ってくるんですが"
+    },
+    {
+      "start": 12.58,
+      "end": 13.58,
+      "text": "One stock left",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "紫一本"
+    },
+    {
+      "start": 13.58,
+      "end": 15.46,
+      "text": "How far can they take it from here?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "どこまでやれるかここは"
+    },
+    {
+      "start": 15.46,
+      "end": 17.86,
+      "text": "No KO right now but...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここ今撃墜はないが"
+    },
+    {
+      "start": 17.86,
+      "end": 20.24,
+      "text": "150 percent - that's way too much damage!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "150あまりにも痛いパーセント"
+    },
+    {
+      "start": 20.24,
+      "end": 21.66,
+      "text": "Two stocks remaining!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "残り2ストックあるぞ"
+    },
+    {
+      "start": 21.66,
+      "end": 24.82,
+      "text": "Trading blows and that back throw seals it!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "殴っていてこの後ろ投げは撃墜"
+    }
+  ],
+  "full_text": "Pikmin landing with that fair! Another up thrust into bair - that was risky! Airdodge gets out of it! Using the armor to creep forward on stage gradually Taking damage but fighting back though One stock left How far can they take it from here? No KO right now but... 150 percent - that's way too much damage! Two stocks remaining! Trading blows and that back throw seals it!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "ピンが刺さってくる空中前の跡",
+      "corrected": "ピクミンが刺さってくる空前の後",
+      "rule": "character term: ピクミン + move abbreviation"
+    },
+    {
+      "segment_idx": 1,
+      "original": "空港",
+      "corrected": "空後",
+      "rule": "kanji homophone: 空港→空後"
+    },
+    {
+      "segment_idx": 7,
+      "original": "ここ今日撃墜はないが",
+      "corrected": "ここ今撃墜はないが",
+      "rule": "Whisper mishearing"
+    }
+  ]
+}

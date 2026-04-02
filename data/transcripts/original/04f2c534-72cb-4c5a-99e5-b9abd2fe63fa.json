@@ -1,0 +1,57 @@
+{
+  "id": "04f2c534-72cb-4c5a-99e5-b9abd2fe63fa",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.62,
+      "text": "見えましたが72%対73%完全に五分",
+      "language": "ja"
+    },
+    {
+      "start": 3.62,
+      "end": 4.94,
+      "text": "ジャストシールド空前",
+      "language": "ja"
+    },
+    {
+      "start": 4.94,
+      "end": 7.46,
+      "text": "空前",
+      "language": "ja"
+    },
+    {
+      "start": 7.46,
+      "end": 9.92,
+      "text": "これは返せないもの",
+      "language": "ja"
+    }
+  ],
+  "full_text": "見えましたが72%対73%完全に五分 ジャストシールド空前 空前 これは返せないもの",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "完全にゴム",
+      "corrected": "完全に五分",
+      "rule": "misheard word"
+    },
+    {
+      "segment_idx": 1,
+      "original": "ジャストシールド空中前",
+      "corrected": "ジャストシールド空前",
+      "rule": "auto-rule"
+    },
+    {
+      "segment_idx": 2,
+      "original": "空中前",
+      "corrected": "空前",
+      "rule": "auto-rule"
+    },
+    {
+      "segment_idx": 3,
+      "original": "これは本話にならないもの",
+      "corrected": "これは返せないもの",
+      "rule": "misheard phrase"
+    }
+  ]
+}

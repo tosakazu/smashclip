@@ -1,0 +1,70 @@
+{
+  "id": "aff714c0-2e85-400b-827e-b2fb7f221a46",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.28,
+      "text": "Right when it counts!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "やっぱり大事なときに"
+    },
+    {
+      "start": 1.28,
+      "end": 1.7,
+      "text": "Oh, nice!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "おーうまい!"
+    },
+    {
+      "start": 1.78,
+      "end": 4.5,
+      "text": "The spacing on those mine carts is so scary!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "このあたりのトロッコの緩急が怖いんですよね"
+    },
+    {
+      "start": 4.5,
+      "end": 6.34,
+      "text": "Just now...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "直近ではその"
+    },
+    {
+      "start": 6.34,
+      "end": 8.28,
+      "text": "Charged mine carts versus mine carts",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "強化トロッコを相手にトロッコ"
+    },
+    {
+      "start": 8.28,
+      "end": 9.24,
+      "text": "KO!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "バースト!"
+    }
+  ],
+  "full_text": "Right when it counts! Oh, nice! The spacing on those mine carts is so scary! Just now... Charged mine carts versus mine carts KO!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 4,
+      "original": "強化トロッコを相手トロッコ",
+      "corrected": "強化トロッコを相手にトロッコ",
+      "rule": "minor grammar"
+    },
+    {
+      "segment_idx": 5,
+      "original": "バカな男!",
+      "corrected": "バースト!",
+      "rule": "mishearing (バースト=KO)"
+    }
+  ]
+}

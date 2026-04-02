@@ -1,0 +1,50 @@
+{
+  "id": "0c8301c8-bbc3-4938-b0fa-f4cfa87445d0",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.08,
+      "text": "ベク変しないと死ななかった",
+      "language": "ja"
+    },
+    {
+      "start": 1.08,
+      "end": 3.1,
+      "text": "いやーここの打ち合い",
+      "language": "ja"
+    },
+    {
+      "start": 3.1,
+      "end": 5.28,
+      "text": "流れを変えるか",
+      "language": "ja"
+    },
+    {
+      "start": 5.28,
+      "end": 5.74,
+      "text": "追撃!",
+      "language": "ja"
+    },
+    {
+      "start": 6.28,
+      "end": 7.34,
+      "text": "掴みはさせない!",
+      "language": "ja"
+    },
+    {
+      "start": 7.42,
+      "end": 8.28,
+      "text": "撃墜はしないが",
+      "language": "ja"
+    },
+    {
+      "start": 8.28,
+      "end": 10.08,
+      "text": "ここで空後!",
+      "language": "ja"
+    }
+  ],
+  "full_text": "ベク変しないと死ななかった いやーここの打ち合い 流れを変えるか 追撃! 掴みはさせない! 撃墜はしないが ここで空後!",
+  "detected_language": "ja",
+  "corrections": []
+}

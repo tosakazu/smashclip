@@ -1,0 +1,51 @@
+{
+  "id": "fb80654e-a652-40f8-b20a-20ed036543d3",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.6,
+      "text": "初めて見せたキノピオガード",
+      "language": "ja"
+    },
+    {
+      "start": 2.6,
+      "end": 3.96,
+      "text": "あのごちゃった展開で",
+      "language": "ja"
+    },
+    {
+      "start": 3.96,
+      "end": 5.32,
+      "text": "なぜ最大を選べる",
+      "language": "ja"
+    },
+    {
+      "start": 5.32,
+      "end": 7.98,
+      "text": "さあ",
+      "language": "ja"
+    },
+    {
+      "start": 7.98,
+      "end": 9.22,
+      "text": "カブを置いておいて",
+      "language": "ja"
+    },
+    {
+      "start": 9.22,
+      "end": 9.96,
+      "text": "固め",
+      "language": "ja"
+    }
+  ],
+  "full_text": "初めて見せたキノピオガード あのごちゃった展開で なぜ最大を選べる さあ カブを置いておいて 固め",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 4,
+      "original": "株を置いておいて",
+      "corrected": "カブを置いておいて",
+      "rule": "kanji: 株→カブ (Daisy's turnip)"
+    }
+  ]
+}

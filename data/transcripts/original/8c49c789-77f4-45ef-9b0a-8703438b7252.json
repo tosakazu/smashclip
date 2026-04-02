@@ -1,0 +1,94 @@
+{
+  "id": "8c49c789-77f4-45ef-9b0a-8703438b7252",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.94,
+      "text": "シールドが間に合って",
+      "language": "ja"
+    },
+    {
+      "start": 0.94,
+      "end": 2.16,
+      "text": "固めきって",
+      "language": "ja"
+    },
+    {
+      "start": 2.16,
+      "end": 2.76,
+      "text": "弱ヒットを拾って",
+      "language": "ja"
+    },
+    {
+      "start": 2.76,
+      "end": 3.18,
+      "text": "上スマッシュ",
+      "language": "ja"
+    },
+    {
+      "start": 3.18,
+      "end": 4.5,
+      "text": "じわりじわりと",
+      "language": "ja"
+    },
+    {
+      "start": 4.5,
+      "end": 5.62,
+      "text": "パーセントが追いついてきたか",
+      "language": "ja"
+    },
+    {
+      "start": 5.62,
+      "end": 7.42,
+      "text": "この間合い",
+      "language": "ja"
+    },
+    {
+      "start": 7.42,
+      "end": 8.0,
+      "text": "おっと",
+      "language": "ja"
+    },
+    {
+      "start": 8.0,
+      "end": 9.02,
+      "text": "無理やろそれ",
+      "language": "ja"
+    },
+    {
+      "start": 9.02,
+      "end": 9.66,
+      "text": "投げ抜けから",
+      "language": "ja"
+    },
+    {
+      "start": 9.66,
+      "end": 10.96,
+      "text": "ジャストシールド",
+      "language": "ja"
+    },
+    {
+      "start": 10.96,
+      "end": 12.02,
+      "text": "おーまい",
+      "language": "ja"
+    },
+    {
+      "start": 12.02,
+      "end": 12.88,
+      "text": "お見事",
+      "language": "ja"
+    },
+    {
+      "start": 12.88,
+      "end": 13.88,
+      "text": "なるほど",
+      "language": "ja"
+    }
+  ],
+  "full_text": "シールドが間に合って 固めきって 弱ヒットを拾って 上スマッシュ じわりじわりと パーセントが追いついてきたか この間合い おっと 無理やろそれ 投げ抜けから ジャストシールド おーまい お見事 なるほど",
+  "detected_language": "ja",
+  "corrections": [
+    "シャケット→弱ヒット (jab hit, Ryu's jab connecting into combo)"
+  ]
+}

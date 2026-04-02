@@ -1,0 +1,33 @@
+{
+  "id": "f5596553-27dd-4666-b332-3e1cc06c6348",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.34,
+      "text": "この俊敏なコメシュルクから",
+      "language": "ja"
+    },
+    {
+      "start": 2.34,
+      "end": 4.98,
+      "text": "そうはさせまいという感じですよね",
+      "language": "ja"
+    },
+    {
+      "start": 4.98,
+      "end": 7.92,
+      "text": "空中前倒せ",
+      "language": "ja"
+    }
+  ],
+  "full_text": "この俊敏なコメシュルクから そうはさせまいという感じですよね 空中前倒せ",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "米シルク",
+      "corrected": "コメシュルク",
+      "rule": "player name: 米→コメ (Kome), シルク→シュルク (Shulk)"
+    }
+  ]
+}

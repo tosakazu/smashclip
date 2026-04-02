@@ -1,0 +1,33 @@
+{
+  "id": "94e7eb95-6af5-4825-a2b0-3ce6a6d59d17",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.96,
+      "text": "It's called Race Drive, right?",
+      "language": "en",
+      "original_language": "es",
+      "original_text": "Race Drive se llama, ¿no?"
+    },
+    {
+      "start": 1.28,
+      "end": 1.48,
+      "text": "Yeah.",
+      "language": "en",
+      "original_language": "es",
+      "original_text": "Sí."
+    },
+    {
+      "start": 2.08,
+      "end": 5.76,
+      "text": "Kazuya's Race Drive that we already know can...",
+      "language": "en",
+      "original_language": "es",
+      "original_text": "El Race Drive de parte de Kazuya que ya sabemos que te puede..."
+    }
+  ],
+  "full_text": "It's called Race Drive, right? Yeah. Kazuya's Race Drive that we already know can...",
+  "detected_language": "en",
+  "original_language": "es",
+  "corrections": []
+}

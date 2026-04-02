@@ -1,0 +1,27 @@
+{
+  "id": "ad3bb98f-73b5-4413-ad9c-cf0046b1fdda",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.08,
+      "text": "ある撃墜はしない",
+      "language": "ja"
+    },
+    {
+      "start": 5.64,
+      "end": 10.2,
+      "text": "いやー全部避けた クロスとか ムチ5回くらい振って",
+      "language": "ja"
+    }
+  ],
+  "full_text": "ある撃墜はしない いやー全部避けた クロスとか ムチ5回くらい振って",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "クロス5 a 無知5回くらい振って",
+      "corrected": "クロスとか ムチ5回くらい振って",
+      "rule": "Simon move: 無知→ムチ(鞭)"
+    }
+  ]
+}

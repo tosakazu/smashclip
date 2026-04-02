@@ -1,0 +1,74 @@
+{
+  "id": "3b2ad147-681c-4dc2-8701-05277453fc0c",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Setting up the footstool",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "フットスツールを用意すると"
+    },
+    {
+      "start": 2.0,
+      "end": 3.5,
+      "text": "Depending on the dodge, that wouldn't have hit",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "回避によっては当たらなかったね"
+    },
+    {
+      "start": 3.5,
+      "end": 7.36,
+      "text": "Now dair into up air, knockdown and—",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあ空下から空上の手ダウンして"
+    },
+    {
+      "start": 7.36,
+      "end": 9.02,
+      "text": "Rapid fire action, here we go",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "チャックチャック歌う"
+    },
+    {
+      "start": 9.02,
+      "end": 12.28,
+      "text": "Up air connects in time—and they're done!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空上が間に合って眠っちゃう"
+    }
+  ],
+  "full_text": "Setting up the footstool Depending on the dodge, that wouldn't have hit Now dair into up air, knockdown and— Rapid fire action, here we go Up air connects in time—and they're done!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "フットブスマッシュ",
+      "corrected": "フットスツール",
+      "rule": "misheard: フットブスマッシュ→フットスツール"
+    },
+    {
+      "segment_idx": 1,
+      "original": "会社によっては",
+      "corrected": "回避によっては",
+      "rule": "misheard: 会社→回避"
+    },
+    {
+      "segment_idx": 2,
+      "original": "クー下からクエの手",
+      "corrected": "空下から空上の手",
+      "rule": "misheard: クー下→空下, クエ→空上"
+    },
+    {
+      "segment_idx": 4,
+      "original": "クエが間に合って",
+      "corrected": "空上が間に合って",
+      "rule": "misheard: クエ→空上"
+    }
+  ]
+}

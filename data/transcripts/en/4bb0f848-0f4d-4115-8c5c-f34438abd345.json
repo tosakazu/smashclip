@@ -1,0 +1,86 @@
+{
+  "id": "4bb0f848-0f4d-4115-8c5c-f34438abd345",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.52,
+      "text": "Rosalina's definitely looking strong all around!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "いろんなところで確かにロゼッタ強そうですね"
+    },
+    {
+      "start": 3.52,
+      "end": 4.28,
+      "text": "This stage...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "このステージが"
+    },
+    {
+      "start": 4.28,
+      "end": 5.1,
+      "text": "Definitely...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "確かに"
+    },
+    {
+      "start": 5.1,
+      "end": 6.56,
+      "text": "The dair connects!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "さあ空下が通って"
+    },
+    {
+      "start": 6.56,
+      "end": 8.84,
+      "text": "Every time a move lands...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ひとたび技が通るたびに"
+    },
+    {
+      "start": 8.84,
+      "end": 10.56,
+      "text": "The crowd erupts in cheers and applause!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "歓声と拍手が巻き起こる"
+    },
+    {
+      "start": 10.56,
+      "end": 12.42,
+      "text": "This razor-thin margin of a match...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "紙一重の勝負をしていることが"
+    },
+    {
+      "start": 12.42,
+      "end": 16.3,
+      "text": "The crowd's reaction watching so intently proves it all!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "何よりも一生懸命見ている観客の反応が証明しています"
+    }
+  ],
+  "full_text": "Rosalina's definitely looking strong all around! This stage... Definitely... The dair connects! Every time a move lands... The crowd erupts in cheers and applause! This razor-thin margin of a match... The crowd's reaction watching so intently proves it all!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 3,
+      "original": "空中車が通って",
+      "corrected": "空下が通って",
+      "rule": "move abbreviation (空中下→空下)"
+    },
+    {
+      "segment_idx": 6,
+      "original": "神一人の勝負をしていることが",
+      "corrected": "紙一重の勝負をしていることが",
+      "rule": "kanji homophone (神一人→紙一重)"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "id": "ae222b2b-54e0-48fb-bb0e-813e4abe3c7f",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.68,
+      "text": "Right, by the way...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ますねそういえば"
+    },
+    {
+      "start": 0.68,
+      "end": 4.66,
+      "text": "Fair through ヤウラ",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空前を通してヤウラ"
+    },
+    {
+      "start": 4.66,
+      "end": 6.04,
+      "text": "Ledge trap",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "崖回り"
+    },
+    {
+      "start": 6.04,
+      "end": 7.32,
+      "text": "Dash attack",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ダッシュ攻撃"
+    },
+    {
+      "start": 7.32,
+      "end": 9.88,
+      "text": "Once they've fallen, the landing's shut down",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "落下した以上着地は許してくれません"
+    },
+    {
+      "start": 9.88,
+      "end": 11.5,
+      "text": "Intentionally mixing it up on the platforms",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "台上の読み合いをあえて"
+    }
+  ],
+  "full_text": "Right, by the way... Fair through ヤウラ Ledge trap Dash attack Once they've fallen, the landing's shut down Intentionally mixing it up on the platforms",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "宇宙前を通して矢浦",
+      "corrected": "空前を通してヤウラ",
+      "rule": "move name + player name (Yaura)"
+    },
+    {
+      "segment_idx": 4,
+      "original": "ラコシタイガー着地は許してくれません",
+      "corrected": "落下した以上着地は許してくれません",
+      "rule": "mishearing (落下した以上)"
+    },
+    {
+      "segment_idx": 5,
+      "original": "ダイヌ読み合いをあえて",
+      "corrected": "台上の読み合いをあえて",
+      "rule": "mishearing (台上)"
+    }
+  ]
+}

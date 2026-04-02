@@ -1,0 +1,48 @@
+{
+  "id": "f198d343-2664-4f36-aa69-58f0a7eb0773",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.74,
+      "text": "That jump just got shut down right there!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "今ジャンプ潰れてたっすね"
+    },
+    {
+      "start": 1.74,
+      "end": 3.48,
+      "text": "And things got really tight",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "詰まっていきました"
+    },
+    {
+      "start": 3.48,
+      "end": 6.08,
+      "text": "But considering the chance he used it earlier, and",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ただ先ほど使った可能性と"
+    },
+    {
+      "start": 6.08,
+      "end": 7.64,
+      "text": "resources ran out",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "鉄資材が切れて"
+    }
+  ],
+  "full_text": "That jump just got shut down right there! And things got really tight But considering the chance he used it earlier, and resources ran out",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "ジャッキ潰れてた",
+      "corrected": "ジャンプ潰れてた",
+      "rule": "misheard: ジャッキ→ジャンプ"
+    }
+  ]
+}

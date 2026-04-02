@@ -1,0 +1,56 @@
+{
+  "id": "911b8665-5df6-4750-923f-86a60ef91971",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.56,
+      "text": "Right, forward smash on the ledge line—that's a KO!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ますよね 崖ラインの横スマに当たったら撃墜です"
+    },
+    {
+      "start": 3.56,
+      "end": 8.68,
+      "text": "Nair this time aiming high—looking to set up that stock, and the forward smash is bringing the pressure!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空Nなる今度は高め 寿命撃墜まで見据えるためにも横スマが圧かけてきた"
+    }
+  ],
+  "full_text": "Right, forward smash on the ledge line—that's a KO! Nair this time aiming high—looking to set up that stock, and the forward smash is bringing the pressure!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "3位ライン",
+      "corrected": "崖ライン",
+      "rule": "misheard word"
+    },
+    {
+      "segment_idx": 0,
+      "original": "横須磨",
+      "corrected": "横スマ",
+      "rule": "kanji homophone"
+    },
+    {
+      "segment_idx": 0,
+      "original": "激励",
+      "corrected": "撃墜",
+      "rule": "kanji homophone"
+    },
+    {
+      "segment_idx": 1,
+      "original": "宇宙なる",
+      "corrected": "空Nなる",
+      "rule": "kanji homophone"
+    },
+    {
+      "segment_idx": 1,
+      "original": "横須磨がアブセイできた",
+      "corrected": "横スマが圧かけてきた",
+      "rule": "kanji homophone + misheard word"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "id": "d31e2fd0-538d-4f5e-a2d0-b44c63fc7723",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.3,
+      "text": "まあドラミギはどこまでいなして",
+      "language": "ja"
+    },
+    {
+      "start": 1.3,
+      "end": 4.66,
+      "text": "なおかつどうでしょうドラミギの最大の",
+      "language": "ja"
+    },
+    {
+      "start": 4.66,
+      "end": 8.0,
+      "text": "うわーっと転がり読んでいったその後",
+      "language": "ja"
+    },
+    {
+      "start": 8.0,
+      "end": 10.64,
+      "text": "非常に試合展開が早いですね",
+      "language": "ja"
+    },
+    {
+      "start": 10.64,
+      "end": 14.44,
+      "text": "そうですね結局この外出した後どうするかというところはありますね",
+      "language": "ja"
+    },
+    {
+      "start": 14.44,
+      "end": 16.3,
+      "text": "そうですよね真骨頂ですからね",
+      "language": "ja"
+    },
+    {
+      "start": 16.3,
+      "end": 16.96,
+      "text": "おー",
+      "language": "ja"
+    },
+    {
+      "start": 16.96,
+      "end": 18.34,
+      "text": "クレイジー空後",
+      "language": "ja"
+    }
+  ],
+  "full_text": "まあドラミギはどこまでいなして なおかつどうでしょうドラミギの最大の うわーっと転がり読んでいったその後 非常に試合展開が早いですね そうですね結局この外出した後どうするかというところはありますね そうですよね真骨頂ですからね おー クレイジー空後",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "ドラミング",
+      "corrected": "ドラミギ",
+      "rule": "player name (Doramigi)"
+    },
+    {
+      "segment_idx": 1,
+      "original": "ドラミングの",
+      "corrected": "ドラミギの",
+      "rule": "player name (Doramigi)"
+    },
+    {
+      "segment_idx": 7,
+      "original": "クレチューしろ",
+      "corrected": "クレイジー空後",
+      "rule": "smash term + mishearing (クレチューしろ→クレイジー空後)"
+    }
+  ]
+}

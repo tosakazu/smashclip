@@ -1,0 +1,64 @@
+{
+  "id": "d43cdceb-3889-470c-8bc6-bcbb0869809c",
+  "segments": [
+    {
+      "start": 0.52,
+      "end": 2.16,
+      "text": "See the bair approach as well",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空後での差し込みも見えて"
+    },
+    {
+      "start": 2.16,
+      "end": 3.74,
+      "text": "That's Jack",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ここはジャック"
+    },
+    {
+      "start": 3.74,
+      "end": 5.84,
+      "text": "Safe forward tilt",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "安全に横強攻撃"
+    },
+    {
+      "start": 5.84,
+      "end": 7.92,
+      "text": "Tech in again",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "もう一度ここは内受け身"
+    },
+    {
+      "start": 7.92,
+      "end": 10.06,
+      "text": "Though it looked like it could barely be seen",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ちょっと見えていたようにも見えたんですが"
+    },
+    {
+      "start": 10.06,
+      "end": 11.56,
+      "text": "Forward smash traveled too far",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "横スマは止まる位置が遠かった"
+    }
+  ],
+  "full_text": "See the bair approach as well That's Jack Safe forward tilt Tech in again Though it looked like it could barely be seen Forward smash traveled too far",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "空中白手の差し込み",
+      "corrected": "空後での差し込み",
+      "rule": "smash term (空中白手→空後で)"
+    }
+  ]
+}

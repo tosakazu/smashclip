@@ -1,0 +1,38 @@
+{
+  "id": "6426f028-620f-4c74-ab3d-4b908be5395a",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.22,
+      "text": "お前も飛べよというような動きではありましたが",
+      "language": "ja"
+    },
+    {
+      "start": 3.22,
+      "end": 4.92,
+      "text": "いやーこの投擲はちょっと痛いぞ",
+      "language": "ja"
+    },
+    {
+      "start": 4.92,
+      "end": 7.08,
+      "text": "地面でじーっと待って",
+      "language": "ja"
+    },
+    {
+      "start": 7.08,
+      "end": 8.34,
+      "text": "復帰際",
+      "language": "ja"
+    },
+    {
+      "start": 8.34,
+      "end": 9.06,
+      "text": "とうとう",
+      "language": "ja"
+    }
+  ],
+  "full_text": "お前も飛べよというような動きではありましたが いやーこの投擲はちょっと痛いぞ 地面でじーっと待って 復帰際 とうとう",
+  "detected_language": "ja",
+  "corrections": []
+}

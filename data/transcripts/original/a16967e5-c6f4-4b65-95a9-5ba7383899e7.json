@@ -1,0 +1,26 @@
+{
+  "id": "a16967e5-c6f4-4b65-95a9-5ba7383899e7",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.72,
+      "text": "武器としての展開をどれだけ大事にできるかというのは",
+      "language": "ja"
+    },
+    {
+      "start": 4.72,
+      "end": 6.38,
+      "text": "鍵となってきますよね",
+      "language": "ja"
+    },
+    {
+      "start": 6.38,
+      "end": 7.8,
+      "text": "少し実況離れます",
+      "language": "ja"
+    }
+  ],
+  "full_text": "武器としての展開をどれだけ大事にできるかというのは 鍵となってきますよね 少し実況離れます",
+  "detected_language": "ja",
+  "corrections": []
+}

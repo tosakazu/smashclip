@@ -1,0 +1,35 @@
+{
+  "id": "89f872ae-3dcb-463f-9c22-73e1497929fd",
+  "segments": [
+    {
+      "start": 0.34,
+      "end": 2.06,
+      "text": "He got it through again!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "打ったところまた通した"
+    },
+    {
+      "start": 2.06,
+      "end": 6.36,
+      "text": "And he's taking a tech",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "そして受け身を取っている"
+    },
+    {
+      "start": 6.36,
+      "end": 8.7,
+      "text": "By using up B while facing left",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これ左向きで上Bを出すことによって"
+    }
+  ],
+  "full_text": "He got it through again! And he's taking a tech By using up B while facing left",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    "上火→上B (upper special move, 火→B misheard)"
+  ]
+}

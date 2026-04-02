@@ -1,0 +1,27 @@
+{
+  "id": "c87b0f08-563d-425e-b9dd-4e76689ce931",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.42,
+      "text": "and now bringing it same kind of ferociousness to losers semifinals want to escape that grab",
+      "language": "en"
+    },
+    {
+      "start": 6.42,
+      "end": 10.42,
+      "text": "combination right there oh but he might not be able to get back let's see oh getting blocked",
+      "language": "en"
+    }
+  ],
+  "full_text": "and now bringing it same kind of ferociousness to losers semifinals want to escape that grab combination right there oh but he might not be able to get back let's see oh getting blocked",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "to lose the semifinals",
+      "corrected": "to losers semifinals",
+      "rule": "tournament term"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "45db1ca8-9ed1-4801-a7b2-83af90763fc5",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.64,
+      "text": "つらい 横スマッシュも怖すぎる",
+      "language": "ja"
+    },
+    {
+      "start": 2.64,
+      "end": 4.96,
+      "text": "本当にね",
+      "language": "ja"
+    },
+    {
+      "start": 4.96,
+      "end": 8.68,
+      "text": "シューが少し小さかったからこそね",
+      "language": "ja"
+    }
+  ],
+  "full_text": "つらい 横スマッシュも怖すぎる 本当にね シューが少し小さかったからこそね",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "リオコスマッシュ",
+      "corrected": "横スマッシュ",
+      "rule": "misheard move name"
+    }
+  ]
+}

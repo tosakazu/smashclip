@@ -1,0 +1,27 @@
+{
+  "id": "6a652e27-11a3-4ef5-9876-dc74dabe6a09",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.04,
+      "text": "お互いにそのカウンターの持続部分をね合わせるためにビタでそのフルタイミングを",
+      "language": "ja"
+    },
+    {
+      "start": 6.04,
+      "end": 7.76,
+      "text": "うわぁここは崖",
+      "language": "ja"
+    }
+  ],
+  "full_text": "お互いにそのカウンターの持続部分をね合わせるためにビタでそのフルタイミングを うわぁここは崖",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "ガキ",
+      "corrected": "崖",
+      "rule": "Whisper mishearing (がき→がけ)"
+    }
+  ]
+}

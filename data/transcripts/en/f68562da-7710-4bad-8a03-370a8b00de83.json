@@ -1,0 +1,62 @@
+{
+  "id": "f68562da-7710-4bad-8a03-370a8b00de83",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.36,
+      "text": "acola's coming for the KO!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "あcolaが命を取りに来る"
+    },
+    {
+      "start": 1.36,
+      "end": 3.4,
+      "text": "fair to bair!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空前から空後"
+    },
+    {
+      "start": 3.4,
+      "end": 5.86,
+      "text": "That recovery exchange is rough!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "復帰展開どうだ"
+    },
+    {
+      "start": 5.86,
+      "end": 7.18,
+      "text": "That's seriously brutal!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "かなり地獄だぞ"
+    },
+    {
+      "start": 7.18,
+      "end": 8.42,
+      "text": "That's hell!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "これは地獄"
+    }
+  ],
+  "full_text": "acola's coming for the KO! fair to bair! That recovery exchange is rough! That's seriously brutal! That's hell!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "アコーラ",
+      "corrected": "あcola",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 1,
+      "original": "空中から空中しろ",
+      "corrected": "空前から空後",
+      "rule": "misheard: 空中しろ→空後"
+    }
+  ]
+}

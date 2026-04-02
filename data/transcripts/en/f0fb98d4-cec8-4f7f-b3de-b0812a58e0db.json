@@ -1,0 +1,27 @@
+{
+  "id": "f0fb98d4-cec8-4f7f-b3de-b0812a58e0db",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.14,
+      "text": "brutal speaking of three three stocks still on Leo's side",
+      "language": "en"
+    },
+    {
+      "start": 4.14,
+      "end": 6.28,
+      "text": "Hurt gonna probably close it with a down air yes",
+      "language": "en"
+    }
+  ],
+  "full_text": "brutal speaking of three three stocks still on Leo's side Hurt gonna probably close it with a down air yes",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "her gonna",
+      "corrected": "Hurt gonna",
+      "rule": "player name: her→Hurt"
+    }
+  ]
+}

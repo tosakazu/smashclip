@@ -1,0 +1,48 @@
+{
+  "id": "57532f97-d712-4c68-a596-ec246bab8f1a",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.32,
+      "text": "Recovery using jumps to come back around from the outside",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "外側からジャンプを使って回り込むような復帰"
+    },
+    {
+      "start": 5.44,
+      "end": 13.02,
+      "text": "Yeah, they shifted the jump timing. Right, yep. And then at the end going up like that... does it matter? Like what's happening?",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "まあでジャンプのタイミングずらしたね今そうねうん しかも最後上にそうね関係ないのかいやーなんかどうなんだろう"
+    },
+    {
+      "start": 13.02,
+      "end": 21.52,
+      "text": "But here it's pretty character-dependent, right? The last jump tier - how you handle that... yeah yeah yeah. Depending on the character, weak landing and all, you'd go this way or something...",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "でもここでちょっと好みラッキーするんだよね最後の1段目をどうするそうそうそうそう キャラによってはさ着地弱いからこっちとか"
+    },
+    {
+      "start": 21.52,
+      "end": 24.12,
+      "text": "Go up, seriously!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "上まじで"
+    }
+  ],
+  "full_text": "Recovery using jumps to come back around from the outside Yeah, they shifted the jump timing. Right, yep. And then at the end going up like that... does it matter? Like what's happening? But here it's pretty character-dependent, right? The last jump tier - how you handle that... yeah yeah yeah. Depending on the character, weak landing and all, you'd go this way or something... Go up, seriously!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "まあでジャンのファンパイミングずらしたね今そうねうん",
+      "corrected": "まあでジャンプのタイミングずらしたね今そうねうん",
+      "rule": "misheard word"
+    }
+  ]
+}

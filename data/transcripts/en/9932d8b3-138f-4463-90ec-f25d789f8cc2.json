@@ -1,0 +1,120 @@
+{
+  "id": "9932d8b3-138f-4463-90ec-f25d789f8cc2",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.5,
+      "text": "And that's what makes Diddy Kong so strong",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "っていうのもディディーコングの強いところですよね"
+    },
+    {
+      "start": 1.5,
+      "end": 4.3,
+      "text": "Snatched the banana and lands the dash attack",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "バナナの皮を奪い取ってダッシュ攻撃を通した"
+    },
+    {
+      "start": 4.3,
+      "end": 6.42,
+      "text": "Takes the nair into up smash",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空N食らって上スマッシュですが"
+    },
+    {
+      "start": 6.42,
+      "end": 7.3,
+      "text": "Mashing out nair",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "空Nで暴れて"
+    },
+    {
+      "start": 7.3,
+      "end": 10.08,
+      "text": "In the tech chase mixup, fair gets through",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ダウンの読み合いその隙に空前が通る"
+    },
+    {
+      "start": 10.08,
+      "end": 11.34,
+      "text": "Just barely keeping up",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ギリギリ追いかける"
+    },
+    {
+      "start": 11.34,
+      "end": 14.58,
+      "text": "Right away creating space",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "それを即座に距離を取っていって"
+    },
+    {
+      "start": 14.58,
+      "end": 15.9,
+      "text": "And this Barrel Jet too",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "このバレルジェットも"
+    },
+    {
+      "start": 15.9,
+      "end": 18.74,
+      "text": "As a spacing option against Game and Watch, it's incredibly strong",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ゲームアンドウォッチから距離を取る選択肢としては非常に強力ですが"
+    },
+    {
+      "start": 18.74,
+      "end": 19.8,
+      "text": "Oh, absolutely perfect!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "おーい完璧"
+    }
+  ],
+  "full_text": "And that's what makes Diddy Kong so strong Snatched the banana and lands the dash attack Takes the nair into up smash Mashing out nair In the tech chase mixup, fair gets through Just barely keeping up Right away creating space And this Barrel Jet too As a spacing option against Game and Watch, it's incredibly strong Oh, absolutely perfect!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "DDコンク",
+      "corrected": "ディディーコング",
+      "rule": "character name"
+    },
+    {
+      "segment_idx": 1,
+      "original": "バラの顔を奪い取って",
+      "corrected": "バナナの皮を奪い取って",
+      "rule": "Whisper misheard (Diddy Kong banana)"
+    },
+    {
+      "segment_idx": 2,
+      "original": "攻撃しなくて上済ましてですが",
+      "corrected": "空N食らって上スマッシュですが",
+      "rule": "Whisper misheard move names"
+    },
+    {
+      "segment_idx": 3,
+      "original": "空射",
+      "corrected": "空N",
+      "rule": "move abbreviation"
+    },
+    {
+      "segment_idx": 4,
+      "original": "ダウンの夢合いその馬鹿いひにクーマイが通る",
+      "corrected": "ダウンの読み合いその隙に空前が通る",
+      "rule": "Whisper misheard (読み合い, 空前)"
+    }
+  ]
+}

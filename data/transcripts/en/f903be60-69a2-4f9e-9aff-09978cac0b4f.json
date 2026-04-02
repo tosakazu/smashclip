@@ -1,0 +1,189 @@
+{
+  "id": "f903be60-69a2-4f9e-9aff-09978cac0b4f",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.54,
+      "text": "Down smash.",
+      "language": "en"
+    },
+    {
+      "start": 1.5,
+      "end": 3.78,
+      "text": "TG with the defensive shield flickers.",
+      "language": "en"
+    },
+    {
+      "start": 4.2,
+      "end": 6.32,
+      "text": "Lui$ with the offensive shield dashes.",
+      "language": "en"
+    },
+    {
+      "start": 6.66,
+      "end": 8.44,
+      "text": "Who's will break first?",
+      "language": "en"
+    },
+    {
+      "start": 9.02,
+      "end": 11.36,
+      "text": "115 right now on TG.",
+      "language": "en"
+    },
+    {
+      "start": 11.74,
+      "end": 12.9,
+      "text": "Oh my god!",
+      "language": "en"
+    },
+    {
+      "start": 13.38,
+      "end": 14.2,
+      "text": "The shield break!",
+      "language": "en"
+    },
+    {
+      "start": 14.3,
+      "end": 14.68,
+      "text": "What's he doing?",
+      "language": "en"
+    },
+    {
+      "start": 14.72,
+      "end": 15.2,
+      "text": "What's he doing?",
+      "language": "en"
+    },
+    {
+      "start": 15.96,
+      "end": 16.84,
+      "text": "What's the setup?",
+      "language": "en"
+    },
+    {
+      "start": 17.36,
+      "end": 19.18,
+      "text": "And that is going to do it!",
+      "language": "en"
+    },
+    {
+      "start": 19.64,
+      "end": 21.56,
+      "text": "TG popping off!",
+      "language": "en"
+    },
+    {
+      "start": 22.12,
+      "end": 25.5,
+      "text": "The sound echoing through the venue",
+      "language": "en"
+    },
+    {
+      "start": 25.5,
+      "end": 29.06,
+      "text": "as he stops, as he falls on the floor!",
+      "language": "en"
+    },
+    {
+      "start": 30.0,
+      "end": 32.1,
+      "text": "Winning over Lui$ Money",
+      "language": "en"
+    },
+    {
+      "start": 32.1,
+      "end": 33.92,
+      "text": "with one other move",
+      "language": "en"
+    },
+    {
+      "start": 33.92,
+      "end": 37.18,
+      "text": "than one more Wonder Wing!",
+      "language": "en"
+    },
+    {
+      "start": 37.8,
+      "end": 39.6,
+      "text": "Welcome to Top 8 Winner's side!",
+      "language": "en"
+    },
+    {
+      "start": 40.9,
+      "end": 41.42,
+      "text": "Bro!",
+      "language": "en"
+    },
+    {
+      "start": 42.12,
+      "end": 44.82,
+      "text": "The shield break to get into the...",
+      "language": "en"
+    },
+    {
+      "start": 44.82,
+      "end": 46.92,
+      "text": "That is a message sender!",
+      "language": "en"
+    },
+    {
+      "start": 48.96,
+      "end": 50.6,
+      "text": "And he had the time.",
+      "language": "en"
+    },
+    {
+      "start": 50.94,
+      "end": 51.88,
+      "text": "That was the question.",
+      "language": "en"
+    },
+    {
+      "start": 51.98,
+      "end": 52.56,
+      "text": "Can you push...",
+      "language": "en"
+    }
+  ],
+  "full_text": "Down smash. TG with the defensive shield flickers. Lui$ with the offensive shield dashes. Who's will break first? 115 right now on TG. Oh my god! The shield break! What's he doing? What's he doing? What's the setup? And that is going to do it! TG popping off! The sound echoing through the venue as he stops, as he falls on the floor! Winning over Lui$ Money with one other move than one more Wonder Wing! Welcome to Top 8 Winner's side! Bro! The shield break to get into the... That is a message sender! And he had the time. That was the question. Can you push...",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 1,
+      "original": "Torrey",
+      "corrected": "TG",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 2,
+      "original": "Louie",
+      "corrected": "Lui$",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 4,
+      "original": "1-15 right now on Taraguri",
+      "corrected": "115 right now on TG",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 11,
+      "original": "Taraguri",
+      "corrected": "TG",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 14,
+      "original": "Louie Money",
+      "corrected": "Lui$ Money",
+      "rule": "player name"
+    },
+    {
+      "segment_idx": 17,
+      "original": "Winnerside",
+      "corrected": "Winner's side",
+      "rule": "formatting"
+    }
+  ]
+}

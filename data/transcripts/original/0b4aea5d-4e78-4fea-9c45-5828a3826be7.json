@@ -1,0 +1,26 @@
+{
+  "id": "0b4aea5d-4e78-4fea-9c45-5828a3826be7",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.74,
+      "text": "Nice, nice cross up, but Kaninabe with it!",
+      "language": "en"
+    },
+    {
+      "start": 3.74,
+      "end": 6.8,
+      "text": "Okay, no tech chase from Glutonny again.",
+      "language": "en"
+    },
+    {
+      "start": 6.8,
+      "end": 10.02,
+      "text": "Kaninabe mixing up his tech options very well.",
+      "language": "en"
+    }
+  ],
+  "full_text": "Nice, nice cross up, but Kaninabe with it! Okay, no tech chase from Glutonny again. Kaninabe mixing up his tech options very well.",
+  "detected_language": "en",
+  "corrections": []
+}

@@ -1,0 +1,17 @@
+{
+  "id": "6cb408a8-d6cf-40f1-b30c-277c70f2d10c",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 29.98,
+      "text": "Thanks for watching!",
+      "language": "en",
+      "original_language": "ja",
+      "original_text": "ご視聴ありがとうございました"
+    }
+  ],
+  "full_text": "Thanks for watching!",
+  "detected_language": "en",
+  "original_language": "ja",
+  "corrections": []
+}

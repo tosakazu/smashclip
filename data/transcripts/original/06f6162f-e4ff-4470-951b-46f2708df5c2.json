@@ -1,0 +1,75 @@
+{
+  "id": "06f6162f-e4ff-4470-951b-46f2708df5c2",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.86,
+      "text": "内側回避から",
+      "language": "ja"
+    },
+    {
+      "start": 0.86,
+      "end": 2.68,
+      "text": "しかしあれですね",
+      "language": "ja"
+    },
+    {
+      "start": 2.68,
+      "end": 3.56,
+      "text": "キャラが変わって",
+      "language": "ja"
+    },
+    {
+      "start": 3.56,
+      "end": 5.38,
+      "text": "遠距離戦も選べるジョーカーということで",
+      "language": "ja"
+    },
+    {
+      "start": 5.38,
+      "end": 7.2,
+      "text": "ベギラマとかイオナズンみたいな",
+      "language": "ja"
+    },
+    {
+      "start": 7.2,
+      "end": 9.3,
+      "text": "遠距離呪文をしっかり選ぶ",
+      "language": "ja"
+    },
+    {
+      "start": 9.3,
+      "end": 11.0,
+      "text": "速度も変えてきてるんですけど",
+      "language": "ja"
+    },
+    {
+      "start": 11.0,
+      "end": 11.72,
+      "text": "うわーはい",
+      "language": "ja"
+    },
+    {
+      "start": 11.72,
+      "end": 12.34,
+      "text": "はい",
+      "language": "ja"
+    }
+  ],
+  "full_text": "内側回避から しかしあれですね キャラが変わって 遠距離戦も選べるジョーカーということで ベギラマとかイオナズンみたいな 遠距離呪文をしっかり選ぶ 速度も変えてきてるんですけど うわーはい はい",
+  "detected_language": "ja",
+  "corrections": [
+    {
+      "segment_idx": 4,
+      "original": "ベギラーマとかヨナズみたいな",
+      "corrected": "ベギラマとかイオナズンみたいな",
+      "rule": "Character move name correction (Hero spells)"
+    },
+    {
+      "segment_idx": 5,
+      "original": "遠距離指紋をしっかり選ぶ",
+      "corrected": "遠距離呪文をしっかり選ぶ",
+      "rule": "Kanji homophone correction (指紋 → 呪文)"
+    }
+  ]
+}

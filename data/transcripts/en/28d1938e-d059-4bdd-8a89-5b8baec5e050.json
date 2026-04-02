@@ -1,0 +1,97 @@
+{
+  "id": "28d1938e-d059-4bdd-8a89-5b8baec5e050",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.8,
+      "text": "I don't think that KOs",
+      "language": "en",
+      "original_language": "es",
+      "original_text": "No creo que mate"
+    },
+    {
+      "start": 1.8,
+      "end": 3.82,
+      "text": "That move is so deceptive!",
+      "language": "en",
+      "original_language": "es",
+      "original_text": "Engaña mucho ese movimiento"
+    },
+    {
+      "start": 3.82,
+      "end": 5.84,
+      "text": "Whoa! Didn't see that!",
+      "language": "en",
+      "original_language": "es",
+      "original_text": "¡Uy! Yo no lo había visto"
+    },
+    {
+      "start": 5.84,
+      "end": 7.56,
+      "text": "Didn't catch that move!",
+      "language": "en",
+      "original_language": "es",
+      "original_text": "No había visto el boloncho ese"
+    },
+    {
+      "start": 7.56,
+      "end": 8.96,
+      "text": "Me too",
+      "language": "en",
+      "original_language": "es",
+      "original_text": "A mí también"
+    },
+    {
+      "start": 8.96,
+      "end": 10.94,
+      "text": "Oh no, no, no!",
+      "language": "en",
+      "original_language": "es",
+      "original_text": "¡Ay, ay, ay!"
+    },
+    {
+      "start": 11.2,
+      "end": 13.96,
+      "text": "That's dangerous! Both players have",
+      "language": "en",
+      "original_language": "es",
+      "original_text": "¡Qué peligroso! Aquí los dos jugadores que tienen"
+    },
+    {
+      "start": 13.96,
+      "end": 16.6,
+      "text": "Over 150%!",
+      "language": "en",
+      "original_language": "es",
+      "original_text": "Más de 150%"
+    },
+    {
+      "start": 16.6,
+      "end": 19.3,
+      "text": "Yeah, that's really dangerous",
+      "language": "en",
+      "original_language": "es",
+      "original_text": "Bueno, es muy peligroso"
+    },
+    {
+      "start": 19.3,
+      "end": 20.92,
+      "text": "We're on the ledge",
+      "language": "en",
+      "original_language": "es",
+      "original_text": "Estamos al borde"
+    },
+    {
+      "start": 20.92,
+      "end": 21.88,
+      "text": "Oh!",
+      "language": "en",
+      "original_language": "es",
+      "original_text": "¡Ah!"
+    }
+  ],
+  "full_text": "I don't think that KOs That move is so deceptive! Whoa! Didn't see that! Didn't catch that move! Me too Oh no, no, no! That's dangerous! Both players have Over 150%! Yeah, that's really dangerous We're on the ledge Oh!",
+  "detected_language": "en",
+  "original_language": "es",
+  "corrections": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "2d2a594f-6c4c-4a58-a2ba-64e71f6e1cc7",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 21.96,
+      "text": "That's the chair, that's the keyblade, that's everything that you need right there, and this is one shot right there, that could be it, this is it, the telecon line is gone, Miya has been eliminated from the tournament, Raru, the second Luigi to join top four, and we're actually going to be seeing a Luigi mirror match within the loser semifinals.",
+      "language": "en"
+    },
+    {
+      "start": 21.96,
+      "end": 28.74,
+      "text": "You see the look of absolute angst on Mia, the frustration, knowing that that one poorly-",
+      "language": "en"
+    }
+  ],
+  "full_text": "That's the chair, that's the keyblade, that's everything that you need right there, and this is one shot right there, that could be it, this is it, the telecon line is gone, Miya has been eliminated from the tournament, Raru, the second Luigi to join top four, and we're actually going to be seeing a Luigi mirror match within the loser semifinals. You see the look of absolute angst on Mia, the frustration, knowing that that one poorly-",
+  "detected_language": "en",
+  "corrections": [
+    {
+      "segment_idx": 0,
+      "original": "the telemonline is gone",
+      "corrected": "the telecon line is gone",
+      "rule": "misheard"
+    },
+    {
+      "segment_idx": 0,
+      "original": "Mia has been eliminated",
+      "corrected": "Miya has been eliminated",
+      "rule": "player name: Mia→Miya"
+    }
+  ]
+}
