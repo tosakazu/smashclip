@@ -61,10 +61,10 @@ Used in earlier experiments before the combined prompt was adopted.
 ```
 You are an expert viewer of competitive Super Smash Bros. Ultimate.
 Watch this KO clip and select ALL applicable scene tags from the following list:
-[Combo KO, Zero-to-death, Edgeguarding, One-turn kill, Tech chase,
+[Combo KO, Zero-to-death, Edgeguarding, One-turn kill,
 KO race, Close-range, Ledge trapping, Landing punish, Neutral,
-Read, Whiff punish, Approach, Trade, Trap, Mash, Invincibility, Punish,
-Notable commentary, Funny moment, Coaching, Player cam, Misplay, SD, Time up]
+Read, Whiff punish, Approach, Trade, Trap, Mash, Punish,
+Notable commentary, Funny moment, Player cam, Misplay]
 Respond with only a JSON array of matching tag names. Example: ["Edgeguarding", "Read"]
 If none apply, respond with [].
 ```

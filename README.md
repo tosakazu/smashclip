@@ -10,7 +10,7 @@ A multimodal dataset for clip-worthiness assessment in competitive Super Smash B
 |----------|-------|
 | Total clips | 2,503 |
 | Train / Val / Test | 1,771 / 341 / 391 |
-| Annotators | 3 |
+| Annotators | 8 (3 per clip) |
 | Score range | 1-5 (mean of 3 ratings) |
 | Characters | 86 |
 | Scene tags | 20 |
