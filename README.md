@@ -2,7 +2,9 @@
 
 A multimodal dataset for clip-worthiness assessment in competitive Super Smash Bros. Ultimate. SmashClip contains 2,503 KO clips annotated with clip-worthiness scores (1-5), scene tags (20 categories), metadata (characters, stage, finishing move), and English commentary transcripts. The dataset supports four benchmark tasks: clip-worthiness prediction, metadata prediction, scene tag prediction, and rationale generation.
 
-**Paper:** Kazuhiro Saito. "SmashClip: A Multimodal Dataset for Clip-Worthiness Assessment of Competitive Game Videos." Under review.
+**Paper:** Kazuhiro Saito and Yuchi Ishikawa. "SmashClip: A Multimodal Dataset for Clip-Worthiness Assessment of Competitive Game Videos." Under review.
+
+**License:** Code: [MIT](LICENSE) | Data: [CC BY 4.0](LICENSE-DATA)
 
 ## Dataset Overview
 
@@ -140,7 +142,7 @@ Shared Transformer with modality tag embeddings and CLS token. Tested combinatio
 ```bibtex
 @article{saito2026smashclip,
   title   = {SmashClip: A Multimodal Dataset for Clip-Worthiness Assessment of Competitive Game Videos},
-  author  = {Saito, Kazuhiro},
+  author  = {Saito, Kazuhiro and Ishikawa, Yuchi},
   year    = {2026},
 }
 ```
