@@ -89,6 +89,8 @@ Each line in `smashclip_en.jsonl` is a JSON object:
   "victim": "Palutena",
   "move": "Bair",
   "scene_tags": ["Edgeguarding"],
+  "caption": "Back Throw to send offstage then chasing with Fair...",
+  "players": ["Samsora(Peach)", "Dabuz(Palutena, Rosalina & Luma)"],
   "scores": {"E": 2, "F": 3, "A": 3},
   "mean_score": 2.67
 }
@@ -131,6 +133,23 @@ Generate natural language explanations for why a clip received its clip-worthine
 ### Fusion (Early Fusion, F2)
 
 Shared Transformer with modality tag embeddings and CLS token. Tested combinations: V1+A1, V1+A2, V1+A3, A1+A2+A3, A1+A2+A3+V1.
+
+## Ethics and Data Collection
+
+SmashClip is built from publicly available YouTube broadcasts of community-organized Super Smash Bros. Ultimate tournaments. The released data contains **annotations and pre-extracted features only**; no raw video or audio is redistributed. YouTube URLs point to videos hosted by their original uploaders.
+
+- **Annotators:** Eight expert annotators participated. All were informed of the task and intended use, and provided consent. Annotators were compensated for their work.
+- **Player information:** Player names in the dataset are public competitive gamer tags from tournament brackets and broadcasts. No real names, contact information, or other personal data is included. Player faces in figures are blurred.
+- **Transcripts:** Commentary transcripts are short fragments (typically 5-20 seconds per clip) of live tournament broadcasts, included for research purposes. They represent a small, non-substitutive portion of the original broadcasts.
+- **Pre-extracted features:** All distributed features (InternVideo2, BEATs, MPNet embeddings, prosody statistics) are non-reversible; original video and audio cannot be reconstructed from them.
+
+## Takedown Policy
+
+We respect the rights of players, commentators, and video uploaders. If you would like any clip referencing your content removed from the dataset, please open a GitHub issue or contact us at smash.tosakazu@gmail.com. We will honor takedown requests promptly.
+
+## Copyright Notice
+
+Super Smash Bros. Ultimate is a registered trademark of Nintendo. Game content, character names, and stage names are the property of Nintendo / HAL Laboratory, Inc. This dataset is an independent research project and is not affiliated with, endorsed by, or sponsored by Nintendo.
 
 ## License
 
