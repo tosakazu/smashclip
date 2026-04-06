@@ -35,6 +35,12 @@
   "full_text": "Deliberate in their movements. Oh my gosh! How did you know it was your hydrant? To just run in confidently. My goodness. It goes for the backwards power pellet as well, but still overpowered by the Game & Watch back air, which will take...",
   "detected_language": "en",
   "corrections": [
-    "Gamer Watch→Game & Watch (character name)"
-  ]
+    {
+      "segment_idx": -1,
+      "original": "Gamer Watch",
+      "corrected": "Game & Watch",
+      "rule": "character name"
+    }
+  ],
+  "original_language": null
 }

@@ -30,6 +30,11 @@
   "detected_language": "en",
   "original_language": "ja",
   "corrections": [
-    "出し攻撃→ダッシュ攻撃 (dash attack, DA)"
+    {
+      "segment_idx": -1,
+      "original": "出し攻撃",
+      "corrected": "ダッシュ攻撃",
+      "rule": "dash attack, DA"
+    }
   ]
 }

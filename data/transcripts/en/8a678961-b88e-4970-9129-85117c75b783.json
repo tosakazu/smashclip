@@ -78,6 +78,11 @@
   "detected_language": "en",
   "original_language": "ja",
   "corrections": [
-    "そばたき→シュートン (Shuton player name from metadata)"
+    {
+      "segment_idx": -1,
+      "original": "そばたき",
+      "corrected": "シュートン",
+      "rule": "Shuton player name from metadata"
+    }
   ]
 }

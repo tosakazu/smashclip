@@ -22,8 +22,23 @@
   "detected_language": "en",
   "original_language": "ja",
   "corrections": [
-    "振り状況→不利状況 (disadvantage state, kanji homophone)",
-    "様子見え→様子見 (observation, extra え removed)",
-    "前だけ→前投げ (forward throw)"
+    {
+      "segment_idx": -1,
+      "original": "振り状況",
+      "corrected": "不利状況",
+      "rule": "disadvantage state, kanji homophone"
+    },
+    {
+      "segment_idx": -1,
+      "original": "様子見え",
+      "corrected": "様子見",
+      "rule": "observation, extra え removed"
+    },
+    {
+      "segment_idx": -1,
+      "original": "前だけ",
+      "corrected": "前投げ",
+      "rule": "forward throw"
+    }
   ]
 }

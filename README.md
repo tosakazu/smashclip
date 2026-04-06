@@ -31,12 +31,14 @@ smashclip/
       a1_audio/                 # BEATs audio features (768,)
       a2_transcript/            # MPNet transcript embeddings (768,)
       a3_prosody/               # Prosody features (JSON, 12-dim scalar)
+      metadata/
+        vocab.json              # Label vocabularies (characters, stages, moves, tags)
     splits/
       train.json, val.json, test.json
       rationale_train.json, rationale_val.json, rationale_test.json
     transcripts/
-      en/                       # English transcripts
-      original/                 # Original language transcripts
+      en/                       # English transcripts (JSON, one per clip)
+      original/                 # Original language transcripts (JSON)
   src/                          # Model and dataset code
   scripts/
     train.py                    # Training script
@@ -89,12 +91,14 @@ Each line in `smashclip_en.jsonl` is a JSON object:
   "victim": "Palutena",
   "move": "Bair",
   "scene_tags": ["Edgeguarding"],
-  "caption": "Back Throw to send offstage then chasing with Fair...",
+  "caption": null,
   "players": ["Samsora(Peach)", "Dabuz(Palutena, Rosalina & Luma)"],
   "scores": {"E": 2, "F": 3, "A": 3},
   "mean_score": 2.67
 }
 ```
+
+500 clips in the rationale subset have a `caption` field with a free-text rationale explaining the clip-worthiness score; the remaining entries have `caption: null`.
 
 ## Benchmark Tasks
 

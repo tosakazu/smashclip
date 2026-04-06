@@ -22,6 +22,11 @@
   "detected_language": "en",
   "original_language": "ja",
   "corrections": [
-    "空中シロ→空後 (back air, 空中後ろ abbreviated)"
+    {
+      "segment_idx": -1,
+      "original": "空中シロ",
+      "corrected": "空後",
+      "rule": "back air, 空中後ろ abbreviated"
+    }
   ]
 }

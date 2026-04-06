@@ -62,7 +62,17 @@
   "detected_language": "en",
   "original_language": "ja",
   "corrections": [
-    "真理→射程 (range, kanji homophone しんり→しゃてい... actually 射程 is shatei. Context correction for Smash meaning)",
-    "山中翔→ヤマナクション (player name from metadata)"
+    {
+      "segment_idx": -1,
+      "original": "真理",
+      "corrected": "射程",
+      "rule": "range, kanji homophone しんり→しゃてい... actually 射程 is shatei. Context correction for Smash meaning"
+    },
+    {
+      "segment_idx": -1,
+      "original": "山中翔",
+      "corrected": "ヤマナクション",
+      "rule": "player name from metadata"
+    }
   ]
 }

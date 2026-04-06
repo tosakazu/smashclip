@@ -54,7 +54,17 @@
   "detected_language": "en",
   "original_language": "ja",
   "corrections": [
-    "クーマヤバレ→空前暴れ (aerial forward flail attack)",
-    "クーグラ→空グラ (aerial grapple beam, Samus's aerial grab)"
+    {
+      "segment_idx": -1,
+      "original": "クーマヤバレ",
+      "corrected": "空前暴れ",
+      "rule": "aerial forward flail attack"
+    },
+    {
+      "segment_idx": -1,
+      "original": "クーグラ",
+      "corrected": "空グラ",
+      "rule": "aerial grapple beam, Samus's aerial grab"
+    }
   ]
 }

@@ -30,6 +30,11 @@
   "detected_language": "en",
   "original_language": "ja",
   "corrections": [
-    "上火→上B (upper special move, 火→B misheard)"
+    {
+      "segment_idx": -1,
+      "original": "上火",
+      "corrected": "上B",
+      "rule": "upper special move, 火→B misheard"
+    }
   ]
 }

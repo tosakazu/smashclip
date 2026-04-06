@@ -29,5 +29,6 @@
       "corrected": "The up air coming out as well.",
       "rule": "whisper_misrecognition"
     }
-  ]
+  ],
+  "original_language": null
 }

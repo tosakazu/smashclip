@@ -4,12 +4,14 @@
     {
       "start": 0.0,
       "end": 1.36,
-      "text": "Tarik has one or two..."
+      "text": "Tarik has one or two...",
+      "language": "en"
     },
     {
       "start": 1.36,
       "end": 2.72,
-      "text": "I'll live, a bit of luck."
+      "text": "I'll live, a bit of luck.",
+      "language": "en"
     }
   ],
   "full_text": "Tarik has one or two... I'll live, a bit of luck.",

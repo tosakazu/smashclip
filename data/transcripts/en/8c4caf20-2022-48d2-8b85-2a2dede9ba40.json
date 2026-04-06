@@ -17,6 +17,12 @@
   "full_text": "It might just be, it might just be, Leo just needs to clutch up here, one hit away from being able to take Game 1 against one of the most prolific players in Tokyo.",
   "detected_language": "en",
   "corrections": [
-    "Laird→Leo (MkLeo player name from metadata)"
-  ]
+    {
+      "segment_idx": -1,
+      "original": "Laird",
+      "corrected": "Leo",
+      "rule": "MkLeo player name from metadata"
+    }
+  ],
+  "original_language": null
 }

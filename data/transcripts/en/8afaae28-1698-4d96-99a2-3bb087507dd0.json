@@ -30,8 +30,23 @@
   "detected_language": "en",
   "original_language": "ja",
   "corrections": [
-    "ハニマ→ハニワ (Lloid/haniwa, Villager's side B)",
-    "空中ユダル→空中ニュートラル (aerial neutral)",
-    "非ダメージ→被ダメージ (damage received, kanji homophone)"
+    {
+      "segment_idx": -1,
+      "original": "ハニマ",
+      "corrected": "ハニワ",
+      "rule": "Lloid/haniwa, Villager's side B"
+    },
+    {
+      "segment_idx": -1,
+      "original": "空中ユダル",
+      "corrected": "空中ニュートラル",
+      "rule": "aerial neutral"
+    },
+    {
+      "segment_idx": -1,
+      "original": "非ダメージ",
+      "corrected": "被ダメージ",
+      "rule": "damage received, kanji homophone"
+    }
   ]
 }

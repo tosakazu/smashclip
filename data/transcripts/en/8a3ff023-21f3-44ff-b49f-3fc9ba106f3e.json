@@ -62,9 +62,29 @@
   "detected_language": "en",
   "original_language": "ja",
   "corrections": [
-    "横尾→横B (side special, お→B misheard)",
-    "テシモ→テシも (Te-sHi player name + particle も)",
-    "ニュータル→ニュートラル (neutral, missing ト)",
-    "シャスマッシュ→下スマッシュ (down smash, confirmed by metadata)"
+    {
+      "segment_idx": -1,
+      "original": "横尾",
+      "corrected": "横B",
+      "rule": "side special, お→B misheard"
+    },
+    {
+      "segment_idx": -1,
+      "original": "テシモ",
+      "corrected": "テシも",
+      "rule": "Te-sHi player name + particle も"
+    },
+    {
+      "segment_idx": -1,
+      "original": "ニュータル",
+      "corrected": "ニュートラル",
+      "rule": "neutral, missing ト"
+    },
+    {
+      "segment_idx": -1,
+      "original": "シャスマッシュ",
+      "corrected": "下スマッシュ",
+      "rule": "down smash, confirmed by metadata"
+    }
   ]
 }

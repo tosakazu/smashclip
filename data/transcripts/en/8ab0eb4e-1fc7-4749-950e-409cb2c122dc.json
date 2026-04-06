@@ -78,7 +78,17 @@
   "detected_language": "en",
   "original_language": "ja",
   "corrections": [
-    "チャーシュート→チャージショット (Charge Shot, Samus's NB)",
-    "出し攻撃→ダッシュ攻撃 (dash attack, confirmed by metadata as DA)"
+    {
+      "segment_idx": -1,
+      "original": "チャーシュート",
+      "corrected": "チャージショット",
+      "rule": "Charge Shot, Samus's NB"
+    },
+    {
+      "segment_idx": -1,
+      "original": "出し攻撃",
+      "corrected": "ダッシュ攻撃",
+      "rule": "dash attack, confirmed by metadata as DA"
+    }
   ]
 }

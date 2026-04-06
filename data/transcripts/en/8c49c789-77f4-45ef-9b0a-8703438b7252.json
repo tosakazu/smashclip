@@ -118,6 +118,11 @@
   "detected_language": "en",
   "original_language": "ja",
   "corrections": [
-    "シャケット→弱ヒット (jab hit, Ryu's jab connecting into combo)"
+    {
+      "segment_idx": -1,
+      "original": "シャケット",
+      "corrected": "弱ヒット",
+      "rule": "jab hit, Ryu's jab connecting into combo"
+    }
   ]
 }

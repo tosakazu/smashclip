@@ -46,6 +46,11 @@
   "detected_language": "en",
   "original_language": "ja",
   "corrections": [
-    "ミーヤー→Miya (player name from metadata)"
+    {
+      "segment_idx": -1,
+      "original": "ミーヤー",
+      "corrected": "Miya",
+      "rule": "player name from metadata"
+    }
   ]
 }

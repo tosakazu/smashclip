@@ -38,7 +38,17 @@
   "detected_language": "en",
   "original_language": "ja",
   "corrections": [
-    "空打→空ダ (aerial dodge, 空中回避 abbreviation)",
-    "覚悟→択 (options/mixups, common Smash term)"
+    {
+      "segment_idx": -1,
+      "original": "空打",
+      "corrected": "空ダ",
+      "rule": "aerial dodge, 空中回避 abbreviation"
+    },
+    {
+      "segment_idx": -1,
+      "original": "覚悟",
+      "corrected": "択",
+      "rule": "options/mixups, common Smash term"
+    }
   ]
 }

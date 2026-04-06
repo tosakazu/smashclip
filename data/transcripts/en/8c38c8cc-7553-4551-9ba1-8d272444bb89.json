@@ -30,6 +30,11 @@
   "detected_language": "en",
   "original_language": "ja",
   "corrections": [
-    "コミュネーション→コンビネーション (Marvelous Combination, Roy's side B)"
+    {
+      "segment_idx": -1,
+      "original": "コミュネーション",
+      "corrected": "コンビネーション",
+      "rule": "Marvelous Combination, Roy's side B"
+    }
   ]
 }

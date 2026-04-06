@@ -70,7 +70,17 @@
   "detected_language": "en",
   "original_language": "ja",
   "corrections": [
-    "横鏡→横強 (forward tilt, kanji homophone きょう→きょう)",
-    "テジ→テシ (Te-sHi player name)"
+    {
+      "segment_idx": -1,
+      "original": "横鏡",
+      "corrected": "横強",
+      "rule": "forward tilt, kanji homophone きょう→きょう"
+    },
+    {
+      "segment_idx": -1,
+      "original": "テジ",
+      "corrected": "テシ",
+      "rule": "Te-sHi player name"
+    }
   ]
 }

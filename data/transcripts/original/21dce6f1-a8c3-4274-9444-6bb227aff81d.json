@@ -4,27 +4,32 @@
     {
       "start": 0.0,
       "end": 2.0,
-      "text": "That was so smart!"
+      "text": "That was so smart!",
+      "language": "en"
     },
     {
       "start": 2.0,
       "end": 4.0,
-      "text": "That was the final stock of the day!"
+      "text": "That was the final stock of the day!",
+      "language": "en"
     },
     {
       "start": 4.0,
       "end": 6.0,
-      "text": "Look at that! No materials at all!"
+      "text": "Look at that! No materials at all!",
+      "language": "en"
     },
     {
       "start": 6.0,
       "end": 9.0,
-      "text": "He has no minecart, no anvil, he has to use the elytra to get back"
+      "text": "He has no minecart, no anvil, he has to use the elytra to get back",
+      "language": "en"
     },
     {
       "start": 9.0,
       "end": 11.0,
-      "text": "And finally he gets the final stock!"
+      "text": "And finally he gets the final stock!",
+      "language": "en"
     }
   ],
   "full_text": "That was so smart! That was the final stock of the day! Look at that! No materials at all! He has no minecart, no anvil, he has to use the elytra to get back And finally he gets the final stock!",

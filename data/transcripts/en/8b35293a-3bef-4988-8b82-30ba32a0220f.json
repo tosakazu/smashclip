@@ -46,8 +46,23 @@
   "detected_language": "en",
   "original_language": "ja",
   "corrections": [
-    "ゼミ→済み (already anticipated, Whisper phonetic error)",
-    "激戦→撃墜 (both could get killed, kanji homophone)",
-    "空中しろ→空後 (back air, 空中後ろ abbreviated)"
+    {
+      "segment_idx": -1,
+      "original": "ゼミ",
+      "corrected": "済み",
+      "rule": "already anticipated, Whisper phonetic error"
+    },
+    {
+      "segment_idx": -1,
+      "original": "激戦",
+      "corrected": "撃墜",
+      "rule": "both could get killed, kanji homophone"
+    },
+    {
+      "segment_idx": -1,
+      "original": "空中しろ",
+      "corrected": "空後",
+      "rule": "back air, 空中後ろ abbreviated"
+    }
   ]
 }

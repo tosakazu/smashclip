@@ -54,6 +54,11 @@
   "detected_language": "en",
   "original_language": "ja",
   "corrections": [
-    "シザビー→下B (down special, Roy's counter)"
+    {
+      "segment_idx": -1,
+      "original": "シザビー",
+      "corrected": "下B",
+      "rule": "down special, Roy's counter"
+    }
   ]
 }

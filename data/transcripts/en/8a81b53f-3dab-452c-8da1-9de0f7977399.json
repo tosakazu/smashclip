@@ -46,9 +46,29 @@
   "detected_language": "en",
   "original_language": "ja",
   "corrections": [
-    "BK→PK (Lucas's PK Fire)",
-    "一力不利→一発火力 (burst of damage)",
-    "素敵→受け身 (tech/ukemi)",
-    "敵→撃墜 (kill, kanji homophone てき→げきつい... actually phonetic: teki→gekitsui doesn't match. More likely 的→撃墜 context correction)"
+    {
+      "segment_idx": -1,
+      "original": "BK",
+      "corrected": "PK",
+      "rule": "Lucas's PK Fire"
+    },
+    {
+      "segment_idx": -1,
+      "original": "一力不利",
+      "corrected": "一発火力",
+      "rule": "burst of damage"
+    },
+    {
+      "segment_idx": -1,
+      "original": "素敵",
+      "corrected": "受け身",
+      "rule": "tech/ukemi"
+    },
+    {
+      "segment_idx": -1,
+      "original": "敵",
+      "corrected": "撃墜",
+      "rule": "kill, kanji homophone てき→げきつい... actually phonetic: teki→gekitsui doesn't match. More likely 的→撃墜 context correction"
+    }
   ]
 }

@@ -65,9 +65,30 @@
   "full_text": "This is dead even. Dead even, and now Raflow breaks the tie. We have the down throw. We're not going to get the back air, maybe. I like the wait. I like the patience. So he doesn't get the hit though. There we go. Woo! Oh, and now.",
   "detected_language": "en",
   "corrections": [
-    "dead event→dead even (tied/even score)",
-    "Raflo→Raflow (player name from metadata)",
-    "backer→back air (空後, Smash move)",
-    "weight→wait (patience, contextually matches next line about patience)"
-  ]
+    {
+      "segment_idx": -1,
+      "original": "dead event",
+      "corrected": "dead even",
+      "rule": "tied/even score"
+    },
+    {
+      "segment_idx": -1,
+      "original": "Raflo",
+      "corrected": "Raflow",
+      "rule": "player name from metadata"
+    },
+    {
+      "segment_idx": -1,
+      "original": "backer",
+      "corrected": "back air",
+      "rule": "空後, Smash move"
+    },
+    {
+      "segment_idx": -1,
+      "original": "weight",
+      "corrected": "wait",
+      "rule": "patience, contextually matches next line about patience"
+    }
+  ],
+  "original_language": null
 }

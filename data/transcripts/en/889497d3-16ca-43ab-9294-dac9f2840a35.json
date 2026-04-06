@@ -94,8 +94,23 @@
   "detected_language": "en",
   "original_language": "ja",
   "corrections": [
-    "マサ→MASA (player name from metadata)",
-    "タク→択 (option/mixup - common Smash term)",
-    "激推移動したい→撃墜に持っていきたい (kanji homophone: 激推→撃墜, 移動→に持ってい)"
+    {
+      "segment_idx": -1,
+      "original": "マサ",
+      "corrected": "MASA",
+      "rule": "player name from metadata"
+    },
+    {
+      "segment_idx": -1,
+      "original": "タク",
+      "corrected": "択",
+      "rule": "option/mixup - common Smash term"
+    },
+    {
+      "segment_idx": -1,
+      "original": "激推移動したい",
+      "corrected": "撃墜に持っていきたい",
+      "rule": "kanji homophone: 激推→撃墜, 移動→に持ってい"
+    }
   ]
 }

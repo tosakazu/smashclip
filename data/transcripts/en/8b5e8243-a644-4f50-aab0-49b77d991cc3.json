@@ -38,6 +38,11 @@
   "detected_language": "en",
   "original_language": "ja",
   "corrections": [
-    "隠れそうな→決まりそうな (likely to land/kill, Pichu's Thunder)"
+    {
+      "segment_idx": -1,
+      "original": "隠れそうな",
+      "corrected": "決まりそうな",
+      "rule": "likely to land/kill, Pichu's Thunder"
+    }
   ]
 }

@@ -17,6 +17,12 @@
   "full_text": "is also kind of nickel and dimed his way back into the lead here gotta try to get himself a stock yeah i was looking a little suspect luckily though not gonna lose that stock yet back here fine",
   "detected_language": "en",
   "corrections": [
-    "diamond→dimed (English idiom 'nickel and dimed')"
-  ]
+    {
+      "segment_idx": -1,
+      "original": "diamond",
+      "corrected": "dimed",
+      "rule": "English idiom 'nickel and dimed'"
+    }
+  ],
+  "original_language": null
 }

@@ -70,6 +70,11 @@
   "detected_language": "en",
   "original_language": "ja",
   "corrections": [
-    "からかりに→空狩りに (aerial punish / 着地狩り abbreviation)"
+    {
+      "segment_idx": -1,
+      "original": "からかりに",
+      "corrected": "空狩りに",
+      "rule": "aerial punish / 着地狩り abbreviation"
+    }
   ]
 }
