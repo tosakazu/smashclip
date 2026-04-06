@@ -18,7 +18,7 @@ Pre-extracted features for all 2,503 clips. Each clip has a UUID as its filename
 
 ## a2_transcript/ -- Transcript Embeddings
 
-- **Model:** all-mpnet-base-v2 (sentence-transformers)
+- **Model:** Sentence-BERT (bert-base-nli-mean-tokens, sentence-transformers)
 - **Format:** `{id}.npy`, NumPy float32 array
 - **Shape:** `(768,)` -- single L2-normalized vector per clip
 - **Extraction:** English commentary transcript encoded with mean pooling over token embeddings. Clips with no commentary get a zero vector.

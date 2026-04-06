@@ -44,7 +44,7 @@ class _ModalityEncoder(nn.Module):
         self.m1_victim_emb = nn.Embedding(86, 32)
         self.m1_move_emb = nn.Embedding(24, 32)
         self.m1_stage_emb = nn.Embedding(8, 32)
-        m1_in = 128 + (25 if self.task == "A" else 0)
+        m1_in = 128 + (20 if self.task == "A" else 0)
         self.m1_proj = nn.Sequential(nn.Linear(m1_in, proj_dim), nn.ReLU())
         self.m1_ln = nn.LayerNorm(proj_dim)
 
@@ -219,7 +219,7 @@ class EarlyFusionModel(nn.Module):
             self.m1_victim_emb = nn.Embedding(86, 32)
             self.m1_move_emb = nn.Embedding(24, 32)
             self.m1_stage_emb = nn.Embedding(8, 32)
-            m1_in = 128 + (25 if self.task == "A" else 0)
+            m1_in = 128 + (20 if self.task == "A" else 0)
             self.projections["M1"] = nn.Sequential(
                 nn.Linear(m1_in, proj_dim), nn.ReLU(), nn.LayerNorm(proj_dim),
             )

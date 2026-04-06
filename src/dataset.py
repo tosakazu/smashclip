@@ -181,8 +181,6 @@ class SmashClipDataset(Dataset):
         }
         if self._annotations is not None:
             result["score"] = meta["score"]
-        else:
-            result["score"] = meta["aesthetic_score"] - 1
         return result
 
 

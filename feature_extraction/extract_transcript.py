@@ -1,6 +1,6 @@
-"""Extract transcript embeddings using all-mpnet-base-v2.
+"""Extract transcript embeddings using Sentence-BERT.
 
-Model: sentence-transformers/all-mpnet-base-v2 (768-dim output)
+Model: sentence-transformers/bert-base-nli-mean-tokens (768-dim output)
 Input: data/transcripts/en/{id}.json (English transcripts)
 Output: data/features/a2_transcript/{id}.npy -- shape [768]
 
@@ -9,7 +9,7 @@ Requirements:
 
 Usage:
   python feature_extraction/extract_transcript.py
-  python feature_extraction/extract_transcript.py --model-path /path/to/all-mpnet-base-v2
+  python feature_extraction/extract_transcript.py --model-path /path/to/bert-base-nli-mean-tokens
 """
 
 import argparse
@@ -24,7 +24,7 @@ from tqdm import tqdm
 
 TRANSCRIPT_DIR = Path("data/transcripts/en")
 OUTPUT_DIR = Path("data/features/a2_transcript")
-DEFAULT_MODEL = "sentence-transformers/all-mpnet-base-v2"
+DEFAULT_MODEL = "sentence-transformers/bert-base-nli-mean-tokens"
 EMBED_DIM = 768
 BATCH_SIZE = 256
 

@@ -77,7 +77,7 @@ Character appearance counts across 2,503 clips (summing both killer and victim r
 | 71 | Bayonetta | 16 |
 | 72 | Ganondorf | 16 |
 | 73 | Mega Man | 15 |
-| 74 | Pokemon Trainer | 15 |
+| 74 | Pokémon Trainer | 15 |
 | 75 | Meta Knight | 15 |
 | 76 | Zero Suit Samus | 13 |
 | 77 | Chrom | 13 |

@@ -17,6 +17,9 @@ A multimodal dataset for clip-worthiness assessment in competitive Super Smash B
 | Characters | 86 |
 | Scene tags | 20 |
 | Languages | English annotations, bilingual transcripts |
+| Video sources | 92 |
+| Stages | 8 |
+| Move categories | 24 |
 
 ## Directory Structure
 
